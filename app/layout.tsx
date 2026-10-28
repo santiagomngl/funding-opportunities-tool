@@ -6,8 +6,8 @@ export const metadata: Metadata = {
   description:
     "An experimental TenneT tool for exploring funding opportunities, project size, timing, and source-linked call guidance.",
   icons: {
-    icon: "/favicon.svg",
-    shortcut: "/favicon.svg",
+    icon: "/funding-desk-logo.png",
+    shortcut: "/funding-desk-logo.png",
   },
 };
 
