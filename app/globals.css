@@ -1,0 +1,268 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "../vendor/shadcn-tailwind-4.13.0.css";
+
+@font-face {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/fonts/montserrat-latin-600-normal.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url("/fonts/montserrat-latin-800-normal.woff2") format("woff2");
+}
+
+.landing-title,
+.desk-brand-title {
+  font-family: "Montserrat", "Century Gothic", sans-serif;
+}
+
+@utility scrollbar-thin {
+  scrollbar-width: thin;
+}
+
+:root {
+  --tool-ui-scale: 1;
+  --spacing: calc(0.25rem * var(--tool-ui-scale));
+  --tool-header-width: calc(88.75rem * var(--tool-ui-scale));
+  --tool-content-width: calc(73.75rem * var(--tool-ui-scale));
+  --tool-detail-width: calc(100rem * var(--tool-ui-scale));
+  --tool-sidebar-width: calc(24.375rem * var(--tool-ui-scale));
+  --tool-sidebar-wide-width: calc(28.75rem * var(--tool-ui-scale));
+  --tool-option-height: calc(3.625rem * var(--tool-ui-scale));
+  --tool-examples-width: calc(52rem * var(--tool-ui-scale));
+  --tool-actions-width: calc(18.75rem * var(--tool-ui-scale));
+  --container-md: calc(28rem * var(--tool-ui-scale));
+  --container-2xl: calc(42rem * var(--tool-ui-scale));
+  --container-3xl: calc(48rem * var(--tool-ui-scale));
+  --container-5xl: calc(64rem * var(--tool-ui-scale));
+  --container-6xl: calc(72rem * var(--tool-ui-scale));
+  --text-xs: max(0.75rem, calc(0.75rem * var(--tool-ui-scale)));
+  --text-sm: max(0.8125rem, calc(0.875rem * var(--tool-ui-scale)));
+  --text-base: max(0.875rem, calc(1rem * var(--tool-ui-scale)));
+  --text-lg: max(0.9375rem, calc(1.125rem * var(--tool-ui-scale)));
+  --text-xl: max(1rem, calc(1.25rem * var(--tool-ui-scale)));
+  --text-2xl: max(1.125rem, calc(1.5rem * var(--tool-ui-scale)));
+  --text-3xl: calc(1.875rem * var(--tool-ui-scale));
+  --text-4xl: calc(2.25rem * var(--tool-ui-scale));
+  --text-5xl: calc(3rem * var(--tool-ui-scale));
+  --background: #f6f7f9;
+  --foreground: #27313a;
+  --card: #ffffff;
+  --card-foreground: #27313a;
+  --popover: #ffffff;
+  --popover-foreground: #27313a;
+  --primary: #d8ecf9;
+  --primary-foreground: #27313a;
+  --secondary: #eef1f4;
+  --secondary-foreground: #27313a;
+  --muted: #f0f2f4;
+  --muted-foreground: #27313a;
+  --accent: #e7f2fb;
+  --accent-foreground: #27313a;
+  --destructive: #d9dde2;
+  --border: #dfe3e8;
+  --input: #cbd1d8;
+  --ring: #9bccea;
+  --radius: calc(0.625rem * var(--tool-ui-scale));
+}
+
+@media (min-width: 64rem) {
+  :root {
+    --tool-ui-scale: 0.75;
+  }
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --font-sans: "Abadi MT", Abadi, Aptos, "Segoe UI", ui-sans-serif, system-ui,
+    sans-serif;
+}
+
+* {
+  border-color: var(--border);
+}
+
+html {
+  background: var(--background);
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: var(--background);
+  color: var(--foreground);
+  font-size: var(--text-base);
+  font-family: "Abadi MT", Abadi, Aptos, "Segoe UI", ui-sans-serif, system-ui,
+    sans-serif;
+  text-rendering: optimizeLegibility;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+button,
+[role="button"] {
+  -webkit-tap-highlight-color: transparent;
+}
+
+::selection {
+  background: #cfe7f7;
+  color: #27313a;
+}
+
+.brief-summary::-webkit-details-marker {
+  display: none;
+}
+
+/* Reading rhythm is local to Article View; cards and navigation keep their styles. */
+.opportunity-article-copy .article-section {
+  padding-bottom: 2.5rem;
+}
+
+.opportunity-article-copy .article-section > h2 {
+  margin: 0;
+  padding-bottom: 0.25em;
+  font-size: 1.5rem;
+  line-height: 1.375;
+}
+
+.opportunity-article-copy .article-section > h3,
+.opportunity-article-copy .article-subsection > h3 {
+  margin: 0 0 0.4rem;
+  font-size: 1.25rem;
+  line-height: 1.4;
+}
+
+.opportunity-article-copy .article-subsection {
+  margin-top: 2rem;
+}
+
+.opportunity-article-copy .article-section > .article-question + .article-subsection {
+  margin-top: 1.5rem;
+}
+
+.opportunity-article-copy .article-question {
+  margin-bottom: 0.625rem;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  font-style: italic;
+  line-height: 1.6;
+}
+
+.opportunity-article-copy .article-section > .article-question {
+  margin-top: 0.5rem;
+  margin-bottom: 0;
+}
+
+.opportunity-article-copy h3 + .article-question {
+  margin-inline-start: 1rem;
+}
+
+.opportunity-article-copy .article-body {
+  font-size: 1rem;
+  line-height: 1.625;
+}
+
+.opportunity-article-copy .article-body > p,
+.opportunity-article-copy .article-body > ul {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.opportunity-article-copy .article-body > :last-child {
+  margin-bottom: 0;
+}
+
+.question-card-container {
+  container-type: inline-size;
+}
+
+.question-card-grid {
+  columns: 1;
+  column-gap: calc(0.7rem * var(--tool-ui-scale));
+}
+
+.question-card-item {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: calc(0.7rem * var(--tool-ui-scale));
+  break-inside: avoid;
+  vertical-align: top;
+}
+
+@container (min-width: 40rem) {
+  .question-card-grid {
+    columns: 2;
+  }
+}
+
+@media (min-width: 64rem) {
+  @container (min-width: 30rem) {
+    .question-card-grid {
+      columns: 2;
+    }
+  }
+}
+
+.preference-slider {
+  min-height: calc(2.5rem * var(--tool-ui-scale));
+}
+
+.preference-slider [data-slot="slider-track"] {
+  height: calc(0.4rem * var(--tool-ui-scale));
+  overflow: visible;
+  background: #d9e7f0;
+}
+
+.preference-slider [data-slot="slider-range"] {
+  border-radius: 999px;
+  background: #5ba5cf;
+}
+
+.preference-slider [data-slot="slider-thumb"] {
+  position: relative;
+  width: calc(1.5rem * var(--tool-ui-scale));
+  height: calc(1.5rem * var(--tool-ui-scale));
+  border: 2px solid #4897c3;
+  border-radius: 999px;
+  background: #ffffff;
+  box-shadow: 0 2px 6px rgb(39 49 58 / 12%);
+}
+
+.preference-slider [data-slot="slider-thumb"]:focus-visible {
+  box-shadow:
+    0 0 0 4px #d8ecf9,
+    0 3px 10px rgb(39 49 58 / 12%);
+}

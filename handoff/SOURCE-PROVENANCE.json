@@ -1,0 +1,21 @@
+{
+  "exported_at": "2026-10-28T09:42:52.157Z",
+  "site": {
+    "project_id": "appgprj_6aaceebe9c7481919f12d61b8f91c426",
+    "title": "Innovation Funding Desk",
+    "url": "https://funding-opportunities-tool.mengual08.chatgpt.site"
+  },
+  "source_commit": "f8be253a8abf8a68bc5a8fda46993e25cc2eedde",
+  "saved_version": {
+    "version_number": 31,
+    "id": "appgprj_6aaceebe9c7481919f12d61b8f91c426~appgver_f56a65f5a15c8191aad11441618932e0"
+  },
+  "deployment": {
+    "id": "appgdep_6ad5e9946bd081918b7afb7f695c918b",
+    "status": "succeeded",
+    "version_id": "appgprj_6aaceebe9c7481919f12d61b8f91c426~appgver_f56a65f5a15c8191aad11441618932e0",
+    "updated_at": "2026-10-19T09:58:39.620526+00:00"
+  },
+  "source_matches_latest_saved_published_version": true,
+  "method": "Immutable local Git tree at the commit SHA reported by Sites version 31. No source push, Site edit, or deployment performed."
+}

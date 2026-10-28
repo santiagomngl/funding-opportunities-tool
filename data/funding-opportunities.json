@@ -1,0 +1,760 @@
+[
+  {
+    "id": "cm2026-01",
+    "recordType": "provided",
+    "title": "CM2026-01 Integrated energy system resilience in a changing environment",
+    "executiveSummary": "CM2026-01 supports the development, demonstration and validation of tools and solutions that improve the resilience of energy systems facing threats beyond their normal design limits. The emphasis is on stressed, degraded or emergency operating conditions caused by structural vulnerabilities or by external threats including extreme weather, cyberattacks, sabotage and cascading failures between interconnected infrastructures.",
+    "specifications": {
+      "source": [
+        "Funding organisation: Dutch Research Council (NWO), within the transnational Clean Energy Transition Partnership.",
+        "Programme: Clean Energy Transition Partnership (CETPartnership), a co-funded European Partnership under Horizon Europe.",
+        "Opportunity: CETPartnership Joint Call 2026 — CM2026-01: Integrated energy system resilience in a changing environment.",
+        "NWO call page: https://www.nwo.nl/en/calls/clean-energy-transition-partnership-joint-call-2026",
+        "Joint Call 2026 documents: https://cetpartnership.eu/calls/joint-call-2026/joint-call-2026-documents/"
+      ],
+      "recurrence": [
+        "Recurring annual joint call.",
+        "The 2026 call is described as CETPartnership's fifth annual Joint Call.",
+        "Each annual round may change its modules, participating countries, funding organisations and national budgets."
+      ],
+      "timing": [
+        "Call launch: 26 May 2026.",
+        "Pre-proposal submission opened: 8 June 2026 at 14:00 CEST.",
+        "Pre-proposal deadline: 8 October 2026 at 14:00 CEST.",
+        "Full-proposal stage opens: 8 January 2027 at 14:00 CET.",
+        "Full-proposal deadline: 11 March 2027 at 14:00 CET.",
+        "Funding decision: 28 June 2027.",
+        "Earliest stated project start: 1 September 2027."
+      ],
+      "partnershipRequirements": [
+        "Consortium required; single-applicant proposals are not eligible.",
+        "At least three funded Beneficiary Partners from at least three countries participating in CM2026-01.",
+        "At least two of those partners must come from EU Member States or Horizon Europe Associated Countries.",
+        "The coordinator must be a Beneficiary Partner.",
+        "For higher-TRL proposals or projects containing demonstration activities, at least one Need Owner must participate as a formal consortium partner.",
+        "For lower-TRL projects concentrating on modelling, planning tools or analytical methods, participation by Need Owners—such as system operators or regulators—in an advisory capacity is recommended.",
+        "Under the NWO route, one national main applicant is mandatory and national co-applicants are optional.",
+        "The NWO main applicant must be an eligible researcher employed by an eligible research organisation.",
+        "Private and public limited companies cannot act as NWO-funded national co-applicants.",
+        "TenneT cannot receive NWO funding directly through this route, but it can potentially participate as a self-financed consortium partner and Need Owner."
+      ],
+      "financialSupport": [
+        "Type: grant funding.",
+        "Total NWO budget across the set of funding modules: €2,000,000.",
+        "Anticipated number of NWO-funded projects: five.",
+        "Maximum NWO request with one national main applicant: €400,000.",
+        "Maximum NWO request with a national main applicant and at least one national co-applicant, both requesting research-personnel costs: €600,000.",
+        "Indicative total CM2026-01 project budget: €2–5 million, including self-financing and funding obtained from all participating national organisations.",
+        "NWO funding rate for eligible universities and public research organisations: 100% for basic research, applied or industrial research and experimental development.",
+        "NWO does not provide funding to large, medium or small enterprises or public authorities through this route."
+      ],
+      "otherConditions": []
+    },
+    "projectTaxonomy": {
+      "role": {
+        "values": [
+          "Co-development",
+          "System Integration",
+          "Standard Setting",
+          "Data or Test-Environment Provision"
+        ],
+        "analysis": [
+          "For higher-TRL or demonstration projects, a Need Owner must participate as a consortium partner. Its contribution could concentrate on determining where technologies should be deployed, how they should interact with existing infrastructure, and how their performance should be monitored, evaluated and incorporated into operational procedures. A more active contribution could place TenneT in a coordinating position, helping align technology developers, data systems and operational users around the requirements of the transmission system.",
+          "The requirement for scalable and replicable solutions also creates potential scope for standard setting, although the call does not require TenneT to assume this role. TenneT could help translate successful demonstrations into common interfaces, performance criteria, operational procedures or validation methods that allow solutions to be reproduced across assets and national contexts."
+        ]
+      },
+      "activity": {
+        "values": [
+          "Testing, Validation or Certification",
+          "Pilot or Demonstration",
+          "Technology Deployment",
+          "Operational Improvement or Control"
+        ],
+        "analysis": [
+          "The opportunity is well suited to testing, demonstrating and deploying existing technologies in relevant operational environments. TenneT would not need to develop every technology from scratch; it could validate how solutions perform under realistic grid conditions and integrate them into monitoring or control processes.",
+          "Projects should cover the full resilience process: forecasting and monitoring extreme events; preparing preventive and response measures; reducing vulnerabilities; maintaining limited operation during disruption; restoring system performance and essential services; and adapting the system to withstand future threats. Expected results include scalable and replicable solutions, improved capability to withstand and recover from severe disturbances, stronger continuity and quality of supply, and better preparedness among system operators, infrastructure providers and other stakeholders."
+        ]
+      },
+      "field": {
+        "values": [
+          "Digital, AI and Data Systems",
+          "Automation, Robotics and Autonomous Systems",
+          "Asset Monitoring, Inspection and Maintenance",
+          "Grid Operation, Flexibility and Storage",
+          "Security, Safety and Infrastructure Resilience"
+        ],
+        "analysis": [
+          "Possible methods and technologies include probabilistic threat assessment and forecasting; integrated resilience-assessment methods; operational tools for rapid recovery and restoration; monitoring and advanced protection systems; storage and distributed resources; AI-based system integration; cybersecurity solutions; and coordinated management of multiple energy carriers.",
+          "These technologies should operate as part of an integrated energy system capable of managing infrastructure interdependencies and preventing cascading failures during stressed, degraded or emergency conditions."
+        ]
+      },
+      "outcome": {
+        "values": [
+          "Health and safety",
+          "Cyber and physical security",
+          "Asset reliability and lifetime",
+          "Operational readiness"
+        ],
+        "analysis": [
+          "Interdependencies between energy carriers, digital systems and physical infrastructure can amplify disturbances, meaning that resilience cannot be addressed through a single device or application. TenneT could contribute knowledge of these dependencies and help test whether monitoring, protection, automation, cybersecurity and operational-control solutions continue to function together under stressed, degraded or emergency conditions. Such integration could both improve grid availability and demonstrate interoperability between different technological and infrastructural systems.",
+          "Overall, the opportunity combines technological and infrastructural development with integration across energy carriers and institutional frameworks. Its focus extends beyond monitoring or protection equipment alone to the organisational, regulatory and market arrangements needed to employ resilience technologies effectively. For TenneT, its relevance therefore lies in connecting digital and automated technologies to real operational conditions, validating their combined performance and helping convert individual innovations into scalable system-level resilience solutions."
+        ]
+      },
+      "projectMatch": {
+        "title": "Reliability Centered Maintenance (RCM) / Risks of power failures, environmental damage and safety incidents",
+        "context": [
+          "TenneT's Dutch and German teams are moving from time-based maintenance towards a risk-based, data-driven approach. Under RCM, maintenance decisions reflect the actual condition of grid assets using data collected through monitoring technologies such as drones and sensors. Drones are already widely used to inspect transmission lines and substations, and their application across TenneT's network continues to expand."
+        ],
+        "analysis": [
+          "Reliability Centered Maintenance provides a relevant starting point because TenneT is already moving toward risk-based and data-driven maintenance using information from monitoring technologies such as drones and sensors. The FO extends this logic beyond routine asset-condition assessment by focusing on anticipation, operation and recovery under extreme, degraded or emergency conditions. A potential proposal could therefore investigate how inspection data, threat forecasting and AI-supported decision tools can be integrated into operational resilience management. TenneT could act as the Need Owner and provide requirements, asset knowledge, selected data and a validation environment, while technology and research partners develop the monitoring, forecasting and integration components. The application should present this as a development beyond the existing RCM approach, rather than claiming that RCM already covers the complete resilience cycle."
+        ]
+      }
+    }
+  },
+  {
+    "id": "cm2026-08",
+    "recordType": "provided",
+    "title": "CM2026-08 Integrated Regional Energy Systems",
+    "executiveSummary": "This FO seeks to develop, demonstrate and validate integrated, scalable solutions to specific regional energy-transition challenges, strengthening regions' capacity to coordinate decentralised, efficient, digitalised and flexible energy systems. These solutions must be embedded in regional strategies, shaped with Need Owners and other stakeholders, and proven in real regional environments. Rather than advancing isolated technologies, projects should integrate technical, organisational, governance and participation dimensions and demonstrate potential for replication in at least one other European region.",
+    "specifications": {
+      "source": [
+        "Dutch funding organisations: Dutch Research Council (NWO) and Netherlands Enterprise Agency (RVO).",
+        "Programme: CETPartnership Joint Call 2026.",
+        "Opportunity: CM2026-08 — Integrated Regional Energy Systems.",
+        "NWO call page: https://www.nwo.nl/en/calls/clean-energy-transition-partnership-joint-call-2026",
+        "CM2026-08 overview: https://cetpartnership.eu/calls/joint-call-2026/call-module-2026-08-integrated-regional-energy-systems/",
+        "Joint Call 2026 documents: https://cetpartnership.eu/calls/joint-call-2026/joint-call-2026-documents/"
+      ],
+      "recurrence": [
+        "Recurring annual joint call.",
+        "The 2026 round is CETPartnership's fifth annual Joint Call and follows the 2022–2025 calls.",
+        "Individual call modules, participating funding organisations and national conditions may change between rounds."
+      ],
+      "timing": [
+        "Call launch: 26 May 2026.",
+        "Pre-proposal submission opened: 8 June 2026.",
+        "Pre-proposal deadline: 8 October 2026 at 14:00 CEST.",
+        "Stage 1 decision expected: early January 2027.",
+        "Full-proposal stage opens: 8 January 2027.",
+        "Full-proposal deadline: 11 March 2027 at 14:00 CET.",
+        "Final funding decision expected: mid-June 2027.",
+        "RVO national full-proposal deadline: 15 March 2027 at 17:00.",
+        "Projects must begin no later than 15 December 2027."
+      ],
+      "partnershipRequirements": [
+        "Consortium required; single-applicant proposals are ineligible.",
+        "At least three funded Beneficiary Partners from three countries participating in CM2026-08.",
+        "At least two Beneficiary Partners must be from EU Member States or Horizon Europe Associated Countries.",
+        "The coordinator must be a funded Beneficiary Partner.",
+        "At least one Need Owner must participate as a formal consortium partner.",
+        "Self-financed partners are permitted but must provide a Letter of Commitment at the full-proposal stage.",
+        "No individual partner may account for more than 60% of project effort.",
+        "Partners from one country may not collectively account for more than 75% of project effort.",
+        "NWO route: one eligible Dutch national main applicant is mandatory; national co-applicants are optional.",
+        "NWO funding is limited to eligible researchers and research organisations.",
+        "Private and public limited companies cannot receive NWO funding as national co-applicants."
+      ],
+      "financialSupport": [
+        "Type: grant or subsidy funding.",
+        "Total indicative Joint Call budget: more than €84 million across all modules and participating countries.",
+        "Indicative CM2026-08 project funding request: €1.5–5 million, excluding additional self-financing; this is guidance rather than a strict limit.",
+        "NWO total Dutch budget: €2 million across CM2026-01, CM2026-07 and CM2026-08.",
+        "Approximately five projects are expected to receive NWO funding.",
+        "NWO maximum: €400,000 with one national main applicant.",
+        "NWO maximum: €600,000 where a national main applicant and at least one national co-applicant both request research-personnel costs.",
+        "NWO funding rate: 100% for eligible universities and public research organisations.",
+        "Companies and public authorities are not funded through NWO."
+      ],
+      "otherConditions": []
+    },
+    "projectTaxonomy": {
+      "role": {
+        "values": [
+          "System Integration",
+          "Market Design or Operation",
+          "Research or Knowledge Contribution",
+          "Policy Advice, Advocacy or Dissemination"
+        ],
+        "analysis": [
+          "At minimum, TenneT could participate as the mandatory Need Owner and potential implementer, defining requirements for the integrated regional solution and determining whether it is operationally credible at the interface between regional and transmission-system operation. TenneT could provide relevant knowledge, data or infrastructure access, help establish baselines and performance indicators, and validate results, while researchers and technology partners develop and integrate the solution.",
+          "More ambitiously, TenneT could help coordinate the regional stakeholder network and connect the demonstration to existing energy strategies. Its longer-term involvement could include shaping the standards, operational rules or flexibility arrangements required for implementation and replication."
+        ]
+      },
+      "activity": {
+        "values": [
+          "Testing, Validation or Certification",
+          "Pilot or Demonstration",
+          "Policy, Strategy, Standards or Regulation Development",
+          "Partnership, Network or Consortium Development"
+        ],
+        "analysis": [
+          "Projects must combine applied research and system integration with demonstration and validation in a real distribution-grid environment, advancing relevant technological components to TRL 6. The work should extend beyond isolated components by developing integrated system solutions alongside transferable governance, business and participation models. Validation should establish practical performance and scalability, while cross-regional collaboration supports the formulation of common approaches and requirements for subsequent replication.",
+          "TenneT's activities could begin with translating transmission-system requirements into technical specifications and validation criteria. It could supply relevant data and operational procedures, support system integration, and help evaluate demonstrations against wider system requirements. Distribution-grid pilots would primarily be hosted by DSOs or regional Need Owners, while research and technology partners undertake component development; TenneT's involvement would culminate in validating system compatibility and informing transferable standards or implementation guidance."
+        ]
+      },
+      "field": {
+        "values": [
+          "Grid Operation, Flexibility and Storage",
+          "Electricity Markets and System Services",
+          "Energy Efficiency and Electrification"
+        ],
+        "analysis": [
+          "The central field is the operation of integrated regional energy systems, particularly the coordination of distributed flexibility, storage and network constraints. The FO focuses on integrated, context-specific system solutions that extend beyond purely technological innovation. Solutions must also address organisational and institutional conditions, align with regional energy plans, policies and roadmaps, and involve regional stakeholders in co-design, planning and implementation.",
+          "This combination should strengthen regions as active energy-system participants and support systemic change through scalable and transferable solutions. Multidisciplinary collaboration, including social and economic sciences, is encouraged to guide, evaluate and scale these transitions."
+        ]
+      },
+      "outcome": {
+        "values": [
+          "Cost and resource efficiency",
+          "Connection capacity and delivery"
+        ],
+        "analysis": [
+          "The expected change is stronger regional coordination across electricity, heating and transport infrastructures, supported by interoperable data, control architectures and operating arrangements. This integration should enable local flexibility to be identified, aggregated and deployed more reliably, helping regions manage congestion, accommodate higher shares of renewable generation and potentially reduce the need for distribution-grid reinforcement.",
+          "For TenneT, reliable coordination between regional assets and wider system operation could make more distributed flexibility available for balancing and congestion management. Improved TSO–DSO information exchange and compatible market arrangements could allow regional resources to respond to system needs, potentially reducing upstream network constraints and reliance on corrective generation changes. These effects depend on whether the demonstrated approaches remain reliable and scalable beyond the pilot regions."
+        ]
+      },
+      "projectMatch": {
+        "title": "TDTR contract with Lion Storage / Regional coordination",
+        "context": [],
+        "analysis": [
+          "TenneT's March 2025 TDTR contract with Lion Storage establishes that time-qualified grid access can shift battery use away from peak periods, unlock 350 MW for other users and ease congestion in Zeeland. Its participation in energy boards also provides an existing regional coordination setting with DSOs and public authorities. The FO could extend this bilateral arrangement into a transferable regional framework for identifying, aggregating and reliably activating storage flexibility in line with regional plans. TenneT could contribute transmission constraints, operational requirements and validation criteria, while battery operators, DSOs and research partners develop and test the necessary control, market and governance arrangements. The innovation delta would be the co-designed standards and operating rules needed to replicate TDTR contracts across differing regional contexts."
+        ]
+      }
+    }
+  },
+  {
+    "id": "kic-demand-s-2026",
+    "recordType": "provided",
+    "title": "KIC Demand-driven Research by Consortia – S 2026",
+    "executiveSummary": "This FO seeks to establish public-private research cooperation in which research organisations, companies and government jointly pursue demand-driven knowledge and development questions aligned with one or more KIAs. Its defining emphasis is active company investment in every project, connecting research to economic opportunities and concrete applications. Consortium co-design and co-creation are therefore integral to both the research process and the subsequent utilisation of its results. A KIA (Knowledge and Innovation Agenda) sets the Dutch government's strategic priorities for research and innovation around major societal and economic challenges.",
+    "specifications": {
+      "source": [
+        "Funding organisation: Dutch Research Council (NWO).",
+        "Programme: Knowledge and Innovation Covenant 2024–2027 (NWO-KIC), programme line Demand.",
+        "Opportunity: KIC Demand-driven Research by Consortia – S 2026: Public-private partnerships with societal impact.",
+        "NWO call page: https://www.nwo.nl/en/calls/kic-demand-driven-research-by-consortia-s-2026"
+      ],
+      "recurrence": [
+        "Recurring competitive call within the NWO-KIC Demand programme, rather than a continuously open programme, prize or challenge.",
+        "The preceding KIC Demand-driven Research by Consortia – S round was held in 2024.",
+        "No next round has been announced."
+      ],
+      "timing": [
+        "Listed opening date: 28 February 2026.",
+        "Official publication in the Dutch Government Gazette: 16 March 2026.",
+        "Online information meeting: 14 April 2026.",
+        "Deadline for requesting assessment of eligible Dutch or foreign research organisations: 25 August 2026 at 14:00 CEST.",
+        "Proposal deadline: 22 September 2026 at 14:00 CEST.",
+        "Consultation with referees: November 2026.",
+        "Applicant rebuttal: January 2027.",
+        "Interviews and assessment committee: March 2027.",
+        "Funding decision: May–June 2027."
+      ],
+      "partnershipRequirements": [
+        "Consortium required; single-applicant proposals are ineligible.",
+        "Minimum consortium composition: one main applicant, at least one co-applicant, at least one co-funder, at least one private for-profit company acting as either co-funder or cooperation partner, and optional additional cooperation partners.",
+        "Applicants must represent at least two different eligible research organisations.",
+        "The main applicant must be an eligible researcher with a permanent appointment or tenure-track agreement at a recognised research organisation; a limited exception applies to salaried researchers at universities of applied sciences.",
+        "Private companies cannot act as NWO-funded applicants. TenneT could participate as a co-funder or cooperation partner but would not receive NWO funding.",
+        "Co-funders contribute cash and/or in-kind resources and receive no NWO funding.",
+        "Cooperation partners receive neither NWO funding nor contribute formal co-funding, but participate in the research or knowledge-utilisation process.",
+        "All consortium partners must participate actively in formulating the research questions and designing and implementing the project.",
+        "Co-design, co-creation and co-production are expected across problem definition, research execution and practical application."
+      ],
+      "financialSupport": [
+        "Type: research grant or subsidy.",
+        "Total call budget: €7.5 million.",
+        "NWO funding per project: minimum €350,000 and maximum €1,050,000.",
+        "NWO finances between 50% and 70% of the total project budget.",
+        "Mandatory co-funding: at least 30% of the total project budget; proposals with more than 50% co-funding are not considered.",
+        "At least half of the mandatory co-funding must be private, equal to at least 15% of the total project budget.",
+        "At least half of this minimum private contribution must be cash, producing a minimum private cash contribution of 7.5% of the total project budget."
+      ],
+      "otherConditions": []
+    },
+    "projectTaxonomy": {
+      "role": {
+        "values": [
+          "Project or Consortium Participation",
+          "Co-development",
+          "System Integration",
+          "Sponsorship or Funding Provision"
+        ],
+        "analysis": [
+          "TenneT could participate as the required private partner within a consortium led by an eligible researcher. Its minimum credible role would combine investment in the research with active involvement in defining the problem, identifying knowledge gaps and co-designing the project. The call therefore positions TenneT as an invested participant in joint knowledge development and utilisation, not merely as an external sponsor or beneficiary.",
+          "A more ambitious role could involve contributing transmission-system requirements and operational expertise throughout the project's co-creation, while the main applicant retains scientific leadership and research partners conduct the academic work. TenneT could also help determine whether the resulting knowledge has practical organisational or operational relevance and support its translation into applications, learning practices and a longer-term public-private partnership."
+        ]
+      },
+      "activity": {
+        "values": ["Partnership, Network or Consortium Development"],
+        "analysis": [
+          "The activity begins with forming a complementary public-private consortium around a mission-driven knowledge or development question. Partners jointly articulate the problem and knowledge gaps, co-design the research and remain actively involved through co-creation and knowledge utilisation. The work can extend into valorisation, talent development and learning communities that integrate research results into professional and educational practice, thereby establishing a durable basis for continued public-private cooperation.",
+          "TenneT could contribute at the problem-definition stage by translating electricity-system challenges into research questions, requirements and practical constraints. Research partners would design and conduct the scientific work, while TenneT could support co-creation with relevant operational expertise and assess possible applications of the resulting knowledge. Its participation would extend through utilisation and integration into practice where relevant, without replacing the scientific responsibilities of the main applicant and research partners."
+        ]
+      },
+      "field": {
+        "values": [
+          "Offshore and Renewable Energy Systems",
+          "Energy Efficiency and Electrification",
+          "Grid Operation, Flexibility and Storage",
+          "Sustainability and Environmental Impact",
+          "[All]"
+        ],
+        "analysis": [
+          "The call imposes no predetermined disciplinary or technological field: the consortium-defined research question must instead align with one or more Knowledge and Innovation Agendas. For TenneT, the Climate and Energy KIA provides the central domain, approaching decarbonisation through the energy system as a whole. Renewable generation, electrification, infrastructure, flexibility, storage and environmental considerations are therefore connected through system integration, including interactions among electricity, hydrogen, heat, markets and spatial planning.",
+          "TenneT's transmission grid and offshore network provide the principal system context in which these fields intersect. Offshore renewable integration and growing electrified demand influence network planning, system operation and flexibility requirements, while sustainability frames the wider environmental direction. Depending on the research question, Key technologies and Digitalisation and Societal Earning Capacity may serve as enabling fields to cover more KIAs."
+        ]
+      },
+      "outcome": {
+        "values": [
+          "Cost and resource efficiency",
+          "Connection capacity and delivery"
+        ],
+        "analysis": [
+          "The call does not prescribe uniform technical outcomes; these depend on the consortium's research question and selected KIA. Within the Climate and Energy KIA, projects are expected to convert jointly developed knowledge into practical applications contributing to Dutch emissions-reduction and climate-neutrality objectives. The programme-level change is therefore stronger capacity to develop and implement solutions through sustained cooperation among research organisations, companies and societal partners."
+        ]
+      },
+      "projectMatch": {
+        "title": "Grids & Benefits / Adapting to renewables and new electricity-system participants",
+        "context": [
+          "Grids & Benefits is a project in which TenneT Germany works with the German Federal Ministry for Economic Affairs and Energy, national grid operators, BMW Group, Octopus Energy and Mobility House, among others. Started in 2025 and led by UnternehmerTUM, it aims to forecast grid congestion across grid levels and steer electric-vehicle charging through a traffic-light system. By unlocking charging flexibility, TenneT aims to lower costs for drivers and grid operators through smarter use of low-price periods, with an eventual rollout across German TSOs and DSOs."
+        ],
+        "analysis": [
+          "Grids & Benefits already demonstrates the public-private cooperation emphasised by the FO: TenneT Germany works with government, grid operators, mobility companies, an energy supplier and an innovation hub to coordinate EV charging against forecast congestion. A Dutch research extension could move the early-stage approach toward validation in another regulatory and grid context while strengthening a comparable long-term consortium. TenneT could co-invest, define operational requirements and support testing, while an eligible research organisation leads the research and technology partners develop the forecasting and signalling solution. Reliable shifting of EV charging could create operational headroom during constrained periods, supporting additional flexible demand and, where generation-driven congestion is reduced through local consumption, greater integration of renewable electricity."
+        ]
+      }
+    }
+  },
+  {
+    "id": "perspectief-2026-2027",
+    "recordType": "provided",
+    "title": "Perspectief round 2026–2027",
+    "executiveSummary": "This FO seeks to advance large-scale, high-risk development of new key enabling technologies that resolve innovation bottlenecks and are strategically relevant to Dutch industry and society. Funded programmes must move beyond applying existing technologies by producing genuine technological advances across TRL 1–6, grounded in excellent scientific knowledge. They should connect fragmented research through sustained collaboration between scientists and industry, strengthening coherent innovation networks and the international position of the Dutch knowledge and innovation system.",
+    "specifications": {
+      "source": [
+        "Funding organisation: Dutch Research Council (NWO), Domain Applied and Engineering Sciences (AES/TTW).",
+        "Programme: Perspectief.",
+        "Opportunity: Perspectief round 2026–2027 — New technology for the Mission-driven Innovation Policy: Call for public-private research projects.",
+        "NWO call page: https://www.nwo.nl/en/calls/perspectief-round-2026-2027"
+      ],
+      "recurrence": [
+        "Final, one-off round of a previously annual funding programme—not a continuously open programme, prize or challenge.",
+        "NWO previously made a Perspectief research budget available annually, but the 2026–2027 round has been announced as the final round because the programme's funding is being discontinued.",
+        "No subsequent round is expected."
+      ],
+      "timing": [
+        "Official publication date: 27 July 2026.",
+        "Opening date: no separate opening date is stated; the round became available upon publication.",
+        "Letter of intent deadline: 6 October 2026 at 14:00 CEST.",
+        "Pre-proposal deadline: 24 November 2026 at 14:00 CET.",
+        "Pre-proposal decision: mid-February 2027.",
+        "Full proposals are invitation-only following a positive pre-proposal decision.",
+        "Deadline for assessing previously unrecognised foreign organisations: 10 May 2027 at 14:00 CEST.",
+        "Full-proposal deadline: 25 May 2027 at 14:00 CEST.",
+        "Interviews: week of 4–8 October 2027.",
+        "Intended funding decision: 12 November 2027."
+      ],
+      "partnershipRequirements": [
+        "Consortium required; single-applicant projects are ineligible.",
+        "The consortium must contain at least three different Dutch research organisations as applicants or co-applicants, including at least two universities in the Kingdom of the Netherlands.",
+        "The project cannot be concentrated at one institution: no research organisation may receive more than 50% of the requested positions.",
+        "The main applicant and co-applicants must generally hold permanent or tenure-track appointments at eligible research organisations.",
+        "TO2 institutions and universities of applied sciences may participate as co-applicants, but together may receive no more than 20% of the grant.",
+        "The consortium must also include users representing the commercialisation and innovation chain, including relevant technology users and end users.",
+        "A representative of the users must serve as co-lead alongside the academic main applicant. This person cannot be employed by a participating research organisation and must be involved in project management, knowledge utilisation and the interview.",
+        "Foreign research organisations and users may participate subject to the call's eligibility, sanctions and knowledge-security conditions."
+      ],
+      "financialSupport": [
+        "Type: research grant with mandatory user co-funding.",
+        "Total NWO budget: €26.5 million.",
+        "Expected awards: no more than six projects.",
+        "NWO grant per project: minimum €2 million and maximum €5 million.",
+        "Maximum project duration: six years.",
+        "At least 10% of the financial resources required to conduct the research must be cash co-funding from users.",
+        "At least 30% of total project costs must consist of user co-funding through cash and/or eligible in-kind contributions.",
+        "Co-funding may not exceed 49% of total project costs because NWO must remain the principal funder.",
+        "Consequently, there is no single fixed funding rate: NWO's share can represent approximately 51–70% of total project costs."
+      ],
+      "otherConditions": []
+    },
+    "projectTaxonomy": {
+      "role": {
+        "values": [
+          "Co-development",
+          "Project or Consortium Participation",
+          "Market Design or Operation",
+          "Research or Knowledge Contribution"
+        ],
+        "analysis": [
+          "TenneT could participate as an industrial partner and prospective knowledge user, translating electricity-system innovation bottlenecks into operational requirements and contributing specialist knowledge of transmission-system needs. Its relevance would arise from this operational mandate and expertise. Research organisations would remain responsible for producing the scientific knowledge, while technology partners would lead the underlying technological development.",
+          "More ambitiously, TenneT could co-develop the research direction and assess whether emerging technologies respond to operational and market requirements. Where a programme concerns electricity-market arrangements, TenneT could contribute knowledge from market design and operation and help ensure compatibility with wider system processes. This sustained involvement would connect research with prospective application and strengthen the innovation network."
+        ]
+      },
+      "activity": {
+        "values": [
+          "Applied Research",
+          "Feasibility or Concept Assessment",
+          "Technical Design and Engineering",
+          "Product or Prototype Development",
+          "Software, Model or Data-System Development"
+        ],
+        "analysis": [
+          "Perspectief supports a progression from excellent scientific knowledge through feasibility assessment and technical design to the development of new technologies at TRL 1–6. Depending on the programme, immediate outputs may include engineered concepts, prototypes, software, models or data systems. The work must advance the underlying technology itself rather than merely apply an existing solution, and should remain coherent across the programme's connected research lines.",
+          "TenneT could contribute at the outset by defining an operational innovation bottleneck, relevant system requirements and criteria for practical feasibility. It could subsequently support evaluation with appropriate expertise and, where specifically agreed, relevant data or test conditions. Research organisations and technology developers would conduct the scientific investigation, engineering and prototype development."
+        ]
+      },
+      "field": {
+        "values": ["[All]"],
+        "analysis": [
+          "Perspectief is field-open within the mission areas of Climate and Energy, Circular Economy, Health and Care, Agriculture, Water and Food, and Security. Its defining condition is that a proposal must advance one or more key enabling technologies, not simply use an existing technology within an application domain. For TenneT, relevant programmes could connect such innovation to transmission infrastructure, offshore systems, grid operation or data environments; however, these provide the application context, while the enabling technology itself must remain the research focus."
+        ]
+      },
+      "outcome": {
+        "values": [
+          "Cost and resource efficiency",
+          "Connection capacity and delivery"
+        ],
+        "analysis": [
+          "Its programme-level ambition is for newly developed enabling technologies to create substantial societal and economic impact, address major challenges and have credible prospects for broader application in the medium term. The applicable outcome therefore depends on the technological programme and the system problem it targets. For a TenneT-related programme, increased transport efficiency or capacity would require the technology to improve how transmission infrastructure is designed, utilised or operated."
+        ]
+      },
+      "projectMatch": {
+        "title": "GNN4GC (Graph Neural Networks for Grid Control)",
+        "context": [
+          "GNN4GC, funded by the German Ministry for Economic Affairs and Climate Protection, is developing AI-based models to make power-grid operations more efficient and stable. TenneT Germany works with 50Hertz Transmission GmbH, Kassel University and Fraunhofer IEE in the project, which runs until the end of 2026. Early 2025 results using TenneT data show strong potential for graph neural networks to approximate AC load flows. The team is improving model performance and developing agents that identify optimal topological actions for stable, efficient grid operation."
+        ],
+        "analysis": [
+          "The innovation under Perspectief would be a larger Dutch research programme that advances the underlying technology and adapts it to Dutch grid-control requirements. TenneT could contribute operational knowledge, requirements and agreed data or validation conditions, while research and technology partners lead model development. Co-development would give TenneT influence over system compatibility and build internal capability without implying automatic ownership or deployment."
+        ]
+      }
+    }
+  },
+  {
+    "id": "mooi-elektriciteit-2026",
+    "recordType": "provided",
+    "title": "MOOI: Elektriciteit 2026",
+    "executiveSummary": "This FO seeks to research and develop coherent, multidisciplinary innovations that improve how onshore and offshore solar and wind energy are generated, integrated and managed within a future CO2-free Dutch electricity system. Projects should combine mutually reinforcing innovations with technical, social and market perspectives rather than concentrate on an isolated technology. Their scope must support practical application within ten years while reducing societal costs and strengthening the energy system.",
+    "specifications": {
+      "source": [
+        "Funding authority: Dutch Minister of Climate and Green Growth; administered by the Netherlands Enterprise Agency (Rijksdienst voor Ondernemend Nederland, RVO).",
+        "Programme: Missiegedreven Onderzoek, Ontwikkeling en Innovatie (MOOI).",
+        "Opportunity: MOOI: Elektriciteit 2026, covering innovation themes 1–4.",
+        "Official RVO opportunity page: https://www.rvo.nl/subsidies-financiering/mooi/elektriciteit",
+        "MOOI 2026 guidance: https://www.rvo.nl/sites/default/files/2026-02/Handleiding%20MOOI%202026.pdf"
+      ],
+      "recurrence": [
+        "A recurring subsidy programme implemented through separate, time-limited competitive tender rounds; it is not continuously open and is not a prize or challenge.",
+        "The missions and innovation themes offered can change between rounds—for example, MOOI: Systeemintegratie opened in 2025, while the present MOOI: Elektriciteit themes opened in 2026.",
+        "No subsequent MOOI: Elektriciteit round has been officially announced."
+      ],
+      "timing": [
+        "Publication of the 2026 opening decision and substantive scheme amendment: 18 December 2025.",
+        "Mandatory pre-application period: 17 March–16 April 2026. A consortium that did not submit a pre-application cannot proceed directly to the definitive application.",
+        "Definitive application period: 2 June 2026 at 09:00–3 September 2026 at 17:00.",
+        "Assessment period: 13 weeks after closing, extendable once by another 13 weeks.",
+        "Approved projects must start within six months of the award decision."
+      ],
+      "partnershipRequirements": [
+        "A consortium is mandatory; single-applicant projects are ineligible.",
+        "The consortium must contain at least three enterprises that are not connected to one another within the same corporate group.",
+        "Research organisations, local authorities, energy suppliers, energy users and other relevant stakeholders may also participate.",
+        "One consortium participant must act as lead applicant (penvoerder). Every participant must formally authorise the lead applicant.",
+        "Participants must contribute for their own account and risk. Financial and substantive contributions should be reasonably balanced, and the project cannot be fully outsourced.",
+        "The consortium must combine different knowledge areas, skills, interests, sectors and perspectives. Demand-side actors, prospective users and other stakeholders should be involved so their requirements inform the innovation.",
+        "The innovations and partner contributions must form one coherent project rather than a collection of unrelated activities.",
+        "Research organisations may account for no more than 50% of total eligible project costs.",
+        "If a research organisation participates, a signed consortium agreement is required before project activities begin. It must govern costs, risks, results, dissemination, access rights and intellectual-property allocation.",
+        "To qualify as actual collaboration for the full enterprise funding rates, the consortium must either include at least one SME, with no single enterprise carrying more than 70% of eligible costs; or combine one or more enterprises with research organisations carrying at least 10% of eligible costs and retaining the right to publish their own results."
+      ],
+      "financialSupport": [
+        "Instrument: subsidy allocated through a competitive tender.",
+        "Total budget for MOOI: Elektriciteit themes 1–4: €20 million.",
+        "Maximum subsidy per project: €4 million.",
+        "Minimum subsidy per participating organisation: €25,000.",
+        "A project must contain at least €2 million in eligible costs.",
+        "Maximum funding rate for a research organisation conducting non-economic activities: 80%.",
+        "Maximum funding rate for a small enterprise: 60%.",
+        "Maximum funding rate for a medium-sized enterprise: 50%.",
+        "Maximum funding rate for a large enterprise: 40%.",
+        "The enterprise rate is reduced by 15 percentage points where the project does not meet the actual-collaboration conditions. For TenneT as a large enterprise, this means a maximum of 40% with qualifying collaboration or 25% without it."
+      ],
+      "otherConditions": []
+    },
+    "projectTaxonomy": {
+      "role": {
+        "values": [
+          "Project Leadership or Consortium Coordination",
+          "Project or Consortium Participation",
+          "System Integration"
+        ],
+        "analysis": [
+          "TenneT could participate as one of the enterprises and as an intended system user within the multidisciplinary consortium. Its credible contribution would be to define transmission-system requirements, provide operational and integration knowledge, and judge whether the combined project concept can fit the electricity system.",
+          "TenneT could also coordinate the partnership and act as system integrator, aligning the separate innovations and partner contributions into the coherent project design required by MOOI. This position would make TenneT responsible for maintaining system-level consistency across technical and non-technical perspectives and determining whether partner outputs satisfy grid-facing requirements. As required by the programme, each consortium member would still contribute substantively, at its own account and risk, rather than operating as a contractor to TenneT."
+        ]
+      },
+      "activity": {
+        "values": [
+          "Applied Research",
+          "Pilot or Demonstration",
+          "Testing, Validation or Certification",
+          "Technology Deployment"
+        ],
+        "analysis": [
+          "The work progresses from applied industrial research and experimental development to piloting, testing and validating a coherent electricity-system solution in a relevant use environment. TenneT could supply system requirements, operational scenarios and appropriate data or test conditions, then support assessment of performance at the transmission-system interface. The project must establish a credible route to first application within ten years; full commercial deployment is not required during the funded project."
+        ]
+      },
+      "field": {
+        "values": [
+          "Offshore and Renewable Energy Systems",
+          "Sustainability and Environmental Impact",
+          "Energy Efficiency and Electrification"
+        ],
+        "analysis": [
+          "The programme encourages a multidisciplinary approach to onshore and offshore solar and wind energy, combining different areas of knowledge, skills, interests and motives. Offshore energy parks are offered as one of four possible modules. TenneT can connect to this module through the profitability and integration of large renewable volumes, energy balancing through flexible supply and demand, and large-scale storage and conversion. The scope also encompasses smarter use of the energy system, reduced environmental impacts and greater circularity through reusing and maximising the utilisation of components, materials and raw materials."
+        ]
+      },
+      "outcome": {
+        "values": [
+          "Asset reliability and lifetime",
+          "Environmental impact",
+          "Cost and resource efficiency",
+          "Connection capacity and delivery"
+        ],
+        "analysis": [
+          "The programme aims to lower societal costs through reduced installation and maintenance expenditure and smarter use of the electricity system. For offshore-energy-park innovations, this could translate into greater usable capacity for renewable connections, more efficient asset monitoring and maintenance, and more balancing options. Environmental mitigation, conservation and circular use of components and materials should reduce the wider impacts of expansion towards a CO2-free energy system."
+        ]
+      },
+      "projectMatch": {
+        "title": "Impressed Current Cathodic Corrosion Protection (ICCP) project / Marine corrosion affecting offshore infrastructure",
+        "context": [
+          "The ICCP project is an offshore maintenance initiative in Germany focused on protecting critical infrastructure components from marine corrosion. TenneT is already retrofitting SylWin alpha's failed ICCP system: contractors are replacing the system, surveying the subsea work area, installing new anodes and cables, and testing and commissioning it."
+        ],
+        "analysis": [
+          "The funding programme covers lifecycle innovation in operation and maintenance. The innovation would therefore be research into improved corrosion-protection and monitoring approaches that reduce future maintenance costs, environmental pressure and material use across Dutch offshore assets. TenneT could contribute experience, asset requirements and operational validation, while research and technology partners develop and test the improvements."
+        ]
+      }
+    }
+  },
+  {
+    "id": "prototype-resilient-grid-operations",
+    "recordType": "prototype",
+    "title": "Resilient Grid Operations Demonstrator",
+    "executiveSummary": "This prototype opportunity supports technologies that keep critical electricity infrastructure observable and operable during stressed, degraded and emergency conditions. It prioritises demonstrations combining condition data, operational decision support and tested response procedures in realistic infrastructure environments.",
+    "specifications": {
+      "source": ["Prototype record: Resilience innovation programme."],
+      "recurrence": ["Illustrative recurring challenge call."],
+      "timing": ["Prototype record; dates are intentionally not specified."],
+      "partnershipRequirements": ["Illustrative consortium of infrastructure operators, technology developers and research organisations."],
+      "financialSupport": ["Illustrative grant support; amount and funding rate are not specified."],
+      "otherConditions": ["Demonstration should address degraded or emergency operating conditions and produce transferable operational evidence."]
+    },
+    "projectTaxonomy": {
+      "role": {
+        "values": ["Project or Consortium Participation", "Co-development", "System Integration", "Data or Test-Environment Provision"],
+        "analysis": ["TenneT could define operational requirements, provide appropriate data or test conditions, and help integrate technical components into grid procedures."]
+      },
+      "activity": {
+        "values": ["Applied Research", "Software, Model or Data-System Development", "Pilot or Demonstration", "Testing, Validation or Certification", "Operational Improvement or Control"],
+        "analysis": ["The prototype centres on developing decision-support capabilities and validating their performance in realistic resilience scenarios."]
+      },
+      "field": {
+        "values": ["Digital, AI and Data Systems", "Asset Monitoring, Inspection and Maintenance", "Grid Operation, Flexibility and Storage", "Security, Safety and Infrastructure Resilience"],
+        "analysis": ["It combines monitoring data, digital analysis and operational response within a wider infrastructure-resilience setting."]
+      },
+      "outcome": {
+        "values": ["Asset reliability and lifetime", "Operational readiness"],
+        "analysis": ["The intended result is continued grid functionality during severe disruption and validated cooperation between monitoring, protection and operational-control systems."]
+      },
+      "projectMatch": {
+        "title": "Reliability Centered Maintenance / Resilience operations",
+        "context": [],
+        "analysis": ["The prototype connects to TenneT's Reliability Centered Maintenance work by extending condition-based maintenance information into preparedness for stressed and degraded grid conditions."]
+      }
+    }
+  },
+  {
+    "id": "prototype-autonomous-offshore-inspection",
+    "recordType": "prototype",
+    "title": "Autonomous Offshore Inspection Challenge",
+    "executiveSummary": "This prototype opportunity supports autonomous and remotely operated systems for inspecting offshore energy infrastructure. Projects integrate robotic platforms, sensing and data interpretation and validate safer, repeatable inspection workflows in representative offshore conditions.",
+    "specifications": {
+      "source": ["Prototype record: Offshore technology challenge."],
+      "recurrence": ["Illustrative one-off challenge."],
+      "timing": ["Prototype record; dates are intentionally not specified."],
+      "partnershipRequirements": ["Illustrative collaboration between an asset operator, robotics supplier and technical research partner."],
+      "financialSupport": ["Illustrative grant for prototype development and demonstration."],
+      "otherConditions": ["Projects should demonstrate safe integration with existing inspection and maintenance processes."]
+    },
+    "projectTaxonomy": {
+      "role": {
+        "values": ["Project Leadership or Consortium Coordination", "Co-development", "System Integration", "Data or Test-Environment Provision"],
+        "analysis": ["TenneT could coordinate operational partners, specify asset constraints and provide a suitable validation environment."]
+      },
+      "activity": {
+        "values": ["Technical Design and Engineering", "Product or Prototype Development", "Pilot or Demonstration", "Testing, Validation or Certification", "Technology Deployment"],
+        "analysis": ["The work moves from engineering an autonomous inspection approach to demonstration and validation in offshore conditions."]
+      },
+      "field": {
+        "values": ["Automation, Robotics and Autonomous Systems", "Asset Monitoring, Inspection and Maintenance", "Offshore and Renewable Energy Systems", "Security, Safety and Infrastructure Resilience"],
+        "analysis": ["Its central field is the safe use of autonomous systems for monitoring offshore transmission assets."]
+      },
+      "outcome": {
+        "values": ["Health and safety", "Asset reliability and lifetime"],
+        "analysis": ["More reliable and repeatable inspections could improve maintenance decisions and reduce asset unavailability."]
+      },
+      "projectMatch": {
+        "title": "Drone and sensor-based asset inspection",
+        "context": [],
+        "analysis": ["The prototype fits TenneT's expanding use of drones and sensors for transmission-line, substation and offshore-asset inspection."]
+      }
+    }
+  },
+  {
+    "id": "prototype-energy-data-spaces",
+    "recordType": "prototype",
+    "title": "Interoperable Energy Data Spaces Call",
+    "executiveSummary": "This prototype call supports shared digital infrastructure that allows energy-system organisations to exchange operational and asset data under common technical and governance rules. It emphasises interoperable architectures, reusable data models and practical validation between multiple organisations.",
+    "specifications": {
+      "source": ["Prototype record: Digital energy programme."],
+      "recurrence": ["Illustrative recurring research and innovation call."],
+      "timing": ["Prototype record; dates are intentionally not specified."],
+      "partnershipRequirements": ["Illustrative multi-party consortium with energy companies, software providers and research organisations."],
+      "financialSupport": ["Illustrative co-funded research and demonstration grant."],
+      "otherConditions": ["Solutions should use open interfaces and document governance, security and reuse arrangements."]
+    },
+    "projectTaxonomy": {
+      "role": {
+        "values": ["Project or Consortium Participation", "System Integration", "Standard Setting", "Data or Test-Environment Provision", "Research or Knowledge Contribution"],
+        "analysis": ["TenneT could contribute operational data requirements, help define common interfaces and test their compatibility with transmission-system processes."]
+      },
+      "activity": {
+        "values": ["Applied Research", "Software, Model or Data-System Development", "Testing, Validation or Certification", "Policy, Strategy, Standards or Regulation Development", "Partnership, Network or Consortium Development"],
+        "analysis": ["The work combines software and data-system development with validation, governance rules and collaboration across organisations."]
+      },
+      "field": {
+        "values": ["Digital, AI and Data Systems", "Grid Operation, Flexibility and Storage", "Security, Safety and Infrastructure Resilience"],
+        "analysis": ["The prototype concerns secure, interoperable data exchange for operational and asset-management use cases."]
+      },
+      "outcome": {
+        "values": [],
+        "analysis": ["The central outcome is demonstrated interoperability between participating organisations' data and operational systems."]
+      },
+      "projectMatch": {
+        "title": "Cross-organisational energy-data exchange",
+        "context": [],
+        "analysis": ["The prototype could support TenneT data-sharing across offshore planning, asset management, contractors and neighbouring system operators."]
+      }
+    }
+  },
+  {
+    "id": "prototype-offshore-environmental-monitoring",
+    "recordType": "prototype",
+    "title": "Offshore Grid Environmental Monitoring Programme",
+    "executiveSummary": "This prototype programme supports monitoring and mitigation approaches that reduce the environmental effects of offshore electricity infrastructure. It combines ecological observations, infrastructure data and decision tools to improve planning, construction and operational interventions.",
+    "specifications": {
+      "source": ["Prototype record: Sustainable offshore programme."],
+      "recurrence": ["Illustrative continuously open programme."],
+      "timing": ["Prototype record; dates are intentionally not specified."],
+      "partnershipRequirements": ["Illustrative partnership between infrastructure developers, ecological experts and monitoring-technology providers."],
+      "financialSupport": ["Illustrative subsidy for applied research, monitoring and demonstration."],
+      "otherConditions": ["Projects should connect measured environmental effects to concrete infrastructure decisions."]
+    },
+    "projectTaxonomy": {
+      "role": {
+        "values": ["Project Leadership or Consortium Coordination", "Project or Consortium Participation", "Co-development", "Data or Test-Environment Provision", "Research or Knowledge Contribution"],
+        "analysis": ["TenneT could coordinate infrastructure and research partners while contributing operational data and offshore project requirements."]
+      },
+      "activity": {
+        "values": ["Applied Research", "Feasibility or Concept Assessment", "Software, Model or Data-System Development", "Pilot or Demonstration"],
+        "analysis": ["The prototype combines applied environmental research with decision-tool development and offshore demonstration."]
+      },
+      "field": {
+        "values": ["Digital, AI and Data Systems", "Offshore and Renewable Energy Systems", "Sustainability and Environmental Impact"],
+        "analysis": ["It applies digital monitoring to the environmental performance of offshore renewable-energy infrastructure."]
+      },
+      "outcome": {
+        "values": ["Environmental impact"],
+        "analysis": ["Better evidence and mitigation methods could support the responsible development of offshore connection infrastructure."]
+      },
+      "projectMatch": {
+        "title": "Environmental evidence for offshore-grid development",
+        "context": [],
+        "analysis": ["The prototype connects to TenneT's offshore grid-development and environmental-assessment responsibilities."]
+      }
+    }
+  },
+  {
+    "id": "prototype-grid-flexibility-market",
+    "recordType": "prototype",
+    "title": "Grid Flexibility Market Innovation Call",
+    "executiveSummary": "This prototype call supports new market and contractual arrangements that make distributed flexibility available to electricity-system operators. It prioritises practical trials of coordination, dispatch, settlement and performance verification involving grid operators and market participants.",
+    "specifications": {
+      "source": ["Prototype record: Electricity market innovation programme."],
+      "recurrence": ["Illustrative recurring call."],
+      "timing": ["Prototype record; dates are intentionally not specified."],
+      "partnershipRequirements": ["Illustrative consortium of system operators, market parties, technology providers and researchers."],
+      "financialSupport": ["Illustrative innovation subsidy requiring partner co-investment."],
+      "otherConditions": ["Projects should test operational feasibility and provide evidence for scalable market rules."]
+    },
+    "projectTaxonomy": {
+      "role": {
+        "values": ["Project or Consortium Participation", "Market Design or Operation", "Standard Setting", "Data or Test-Environment Provision", "Policy Advice, Advocacy or Dissemination"],
+        "analysis": ["TenneT could define system needs, contribute operational data and help translate pilot results into market rules and standards."]
+      },
+      "activity": {
+        "values": ["Feasibility or Concept Assessment", "Software, Model or Data-System Development", "Pilot or Demonstration", "Policy, Strategy, Standards or Regulation Development"],
+        "analysis": ["The prototype develops and tests digital and organisational arrangements for activating distributed flexibility."]
+      },
+      "field": {
+        "values": ["Digital, AI and Data Systems", "Grid Operation, Flexibility and Storage", "Electricity Markets and System Services", "Energy Efficiency and Electrification"],
+        "analysis": ["It sits at the intersection of grid operation, digital coordination and electricity-market design."]
+      },
+      "outcome": {
+        "values": ["Cost and resource efficiency"],
+        "analysis": ["The intended result is more usable flexibility for balancing and congestion management, enabled by interoperable market and control systems."]
+      },
+      "projectMatch": {
+        "title": "Flexibility for congestion management and balancing",
+        "context": [],
+        "analysis": ["The prototype could support TenneT work on accessing distributed flexibility and validating whether market participants can respond reliably to system needs."]
+      }
+    }
+  },
+  {
+    "id": "prototype-grid-connection-engineering",
+    "recordType": "prototype",
+    "title": "Accelerated Grid Connection Engineering Programme",
+    "executiveSummary": "This prototype programme supports engineering, planning and digital-process innovations that reduce the time required to connect new renewable generation and electricity demand. It focuses on repeatable designs, improved coordination and validation of methods that can be scaled across grid projects.",
+    "specifications": {
+      "source": ["Prototype record: Grid acceleration programme."],
+      "recurrence": ["Illustrative multi-round programme."],
+      "timing": ["Prototype record; dates are intentionally not specified."],
+      "partnershipRequirements": ["Illustrative single applicant or collaborative project depending on project scale."],
+      "financialSupport": ["Illustrative subsidy for feasibility, engineering and demonstration activities."],
+      "otherConditions": ["Projects should show a credible route from validated method to repeatable deployment."]
+    },
+    "projectTaxonomy": {
+      "role": {
+        "values": ["Project Leadership or Consortium Coordination", "Co-development", "System Integration"],
+        "analysis": ["TenneT could lead or participate in developing repeatable grid-connection methods and ensure their compatibility with wider transmission processes."]
+      },
+      "activity": {
+        "values": ["Feasibility or Concept Assessment", "Technical Design and Engineering", "Software, Model or Data-System Development", "Technology Deployment"],
+        "analysis": ["The prototype combines feasibility assessment, engineering and digital-process development with a route toward operational use."]
+      },
+      "field": {
+        "values": ["Digital, AI and Data Systems", "Grid Infrastructure and Transmission", "Offshore and Renewable Energy Systems", "Energy Efficiency and Electrification"],
+        "analysis": ["It applies digital and engineering innovation to renewable-generation and electrification connections."]
+      },
+      "outcome": {
+        "values": ["Connection capacity and delivery"],
+        "analysis": ["The intended result is faster, more repeatable connection delivery and compatible processes across engineering and operational systems."]
+      },
+      "projectMatch": {
+        "title": "Accelerating grid expansion and customer connections",
+        "context": [],
+        "analysis": ["The prototype connects to TenneT's need to accelerate grid expansion through standardised engineering packages and improved coordination."]
+      }
+    }
+  }
+]
