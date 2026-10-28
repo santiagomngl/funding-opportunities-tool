@@ -435,24 +435,6 @@ const interOperaTaxonomy: SelectionMap = {
   ],
   outcome: ["Connection capacity and delivery", "Operational readiness"],
 };
-const hvdcRobotTaxonomy: SelectionMap = {
-  field: [
-    "Automation, Robotics and Autonomous Systems",
-    "Asset Monitoring, Inspection and Maintenance",
-    "Offshore and Renewable Energy Systems",
-  ],
-  role: [
-    "System Integration",
-    "Data or Test-Environment Provision",
-    "Standard Setting",
-  ],
-  activity: [
-    "Pilot or Demonstration",
-    "Technology Deployment",
-    "Operational Improvement or Control",
-  ],
-  outcome: ["Asset reliability and lifetime", "Cost and resource efficiency"],
-};
 const questionnaireSteps: QuestionnaireStep[] = [
   ...dimensions,
   "budget",
@@ -856,28 +838,15 @@ function ProjectExamplesHelp({ dimension }: { dimension: Dimension }) {
           id="project-examples-panel"
           className="absolute left-0 top-full z-40 w-[min(var(--tool-examples-width),calc(100vw-2rem))] max-h-[min(32rem,calc(100vh-8rem))] overflow-y-auto rounded-xl border border-[#d5e3ee] bg-white p-4 shadow-[0_12px_32px_rgba(24,60,90,0.16)] sm:p-5"
         >
-          <p className="text-xs font-semibold text-[#27313a]">Examples from TenneT</p>
-          <div className="mt-3 grid gap-4 sm:grid-cols-2">
-            <div className="min-w-0 border-b border-[#e4ebf1] pb-4 sm:border-b-0 sm:border-r sm:pb-0 sm:pr-4">
+          <p className="text-xs font-semibold text-[#27313a]">Example from TenneT</p>
+          <div className="mt-3">
+            <div className="min-w-0">
               <h2 className="text-base font-semibold text-[#2475a8]">InterOPERA</h2>
               <dl className="mt-2 text-[13px] leading-[1.5]">
                 <dt className="text-[#64788b]">{dimensionMeta[dimension].label}</dt>
                 <dd className="mt-1 min-w-0 text-[#27313a]">
                   <ul className="list-disc space-y-1 pl-5">
                     {interOperaTaxonomy[dimension].map((value) => (
-                      <li key={value}>{taxonomyValueLabel(dimension, value)}</li>
-                    ))}
-                  </ul>
-                </dd>
-              </dl>
-            </div>
-            <div className="min-w-0">
-              <h2 className="text-base font-semibold text-[#2475a8]">HVDC Converter Hall Robot</h2>
-              <dl className="mt-2 text-[13px] leading-[1.5]">
-                <dt className="text-[#64788b]">{dimensionMeta[dimension].label}</dt>
-                <dd className="mt-1 min-w-0 text-[#27313a]">
-                  <ul className="list-disc space-y-1 pl-5">
-                    {hvdcRobotTaxonomy[dimension].map((value) => (
                       <li key={value}>{taxonomyValueLabel(dimension, value)}</li>
                     ))}
                   </ul>

@@ -36,7 +36,7 @@
   --tool-sidebar-width: calc(24.375rem * var(--tool-ui-scale));
   --tool-sidebar-wide-width: calc(28.75rem * var(--tool-ui-scale));
   --tool-option-height: calc(3.625rem * var(--tool-ui-scale));
-  --tool-examples-width: calc(52rem * var(--tool-ui-scale));
+  --tool-examples-width: calc(32rem * var(--tool-ui-scale));
   --tool-actions-width: calc(18.75rem * var(--tool-ui-scale));
   --container-md: calc(28rem * var(--tool-ui-scale));
   --container-2xl: calc(42rem * var(--tool-ui-scale));
