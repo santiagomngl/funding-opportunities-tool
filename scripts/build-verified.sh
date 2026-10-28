@@ -3,8 +3,17 @@ set -euo pipefail
 
 script_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
+env_script="${script_dir}/sites-env.sh"
 if [[ "${SITES_ENV_READY:-}" != "1" ]]; then
-  exec "${script_dir}/sites-env.sh" -- "$0" "$@"
+  if [[ ! -f "${env_script}" ]]; then
+    echo "Missing bootstrap script: ${env_script}" >&2
+    exit 69
+  fi
+
+  # Some deploy environments do not preserve the executable bit on checked-out
+  # scripts, so invoke the bootstrap explicitly with bash instead of relying on
+  # the shebang/permission bits being present.
+  exec bash "${env_script}" -- "$0" "$@"
 fi
 
 command -v timeout || {
