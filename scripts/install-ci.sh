@@ -4,7 +4,8 @@ set -euo pipefail
 script_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 if [[ "${SITES_ENV_READY:-}" != "1" ]]; then
-  exec "${script_dir}/sites-env.sh" -- "$0" "$@"
+  # Neither the bootstrap nor this script needs an executable file mode.
+  exec bash "${script_dir}/sites-env.sh" -- bash "${script_dir}/install-ci.sh" "$@"
 fi
 
 command -v flock || {

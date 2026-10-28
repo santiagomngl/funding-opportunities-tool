@@ -13,7 +13,7 @@ if [[ "${SITES_ENV_READY:-}" != "1" ]]; then
   # Some deploy environments do not preserve the executable bit on checked-out
   # scripts, so invoke the bootstrap explicitly with bash instead of relying on
   # the shebang/permission bits being present.
-  exec bash "${env_script}" -- "$0" "$@"
+  exec bash "${env_script}" -- bash "${script_dir}/build-verified.sh" "$@"
 fi
 
 command -v timeout || {
