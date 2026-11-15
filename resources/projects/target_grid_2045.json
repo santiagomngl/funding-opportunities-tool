@@ -1,0 +1,20 @@
+{
+  "project_name": "Target Grid 2045",
+  "project_description": "TenneT's vision and plan for the onshore and offshore grid needed for a climate-neutral and affordable energy system. It envisions a meshed onshore and offshore DC grid with HVDC corridors and multi-terminal DC hubs.",
+  "priority": "none",
+  "priority_until": null,
+  "topic": [
+    "T4",
+    "T7"
+  ],
+  "role": [
+    "R1"
+  ],
+  "activity": [
+    "A13",
+    "A15"
+  ],
+  "outcome": [
+    "O7"
+  ]
+}

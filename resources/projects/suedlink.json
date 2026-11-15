@@ -1,0 +1,18 @@
+{
+  "project_name": "SuedLink",
+  "project_description": "A long-distance underground HVDC connection in Germany that will carry North Sea wind energy to users in the south. All licences are in place and 77 km of cable was completed by end-2025, though archaeological finds slowed construction.",
+  "priority": "none",
+  "priority_until": null,
+  "topic": [
+    "T4"
+  ],
+  "role": [
+    "R1"
+  ],
+  "activity": [
+    "A9"
+  ],
+  "outcome": [
+    "O7"
+  ]
+}

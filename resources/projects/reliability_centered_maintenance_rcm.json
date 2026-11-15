@@ -1,0 +1,21 @@
+{
+  "project_name": "Reliability Centered Maintenance (RCM)",
+  "project_description": "A shift by TenneT's Dutch and German teams from time-based to risk-based, data-driven maintenance based on the actual condition of assets. Data come from monitoring technologies such as drones and sensors, and drones are now widely used for line and substation inspections.",
+  "priority": "none",
+  "priority_until": null,
+  "topic": [
+    "T3",
+    "T1"
+  ],
+  "role": [
+    "R1"
+  ],
+  "activity": [
+    "A10",
+    "A12"
+  ],
+  "outcome": [
+    "O3",
+    "O6"
+  ]
+}

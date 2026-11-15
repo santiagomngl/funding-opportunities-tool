@@ -1,0 +1,270 @@
+{
+  "topic": [
+    {
+      "code": "T1",
+      "value": "Digital, AI and Data Systems",
+      "definition": "Data infrastructure, analytics, AI, digital twins or software platforms."
+    },
+    {
+      "code": "T2",
+      "value": "Automation, Robotics and Autonomous Systems",
+      "definition": "Machines or systems that perform physical or operational tasks with automated, remote, or autonomous control."
+    },
+    {
+      "code": "T3",
+      "value": "Asset Monitoring, Inspection and Maintenance",
+      "definition": "Methods and systems for observing asset condition, identifying defects, inspecting infrastructure, and deciding or carrying out maintenance."
+    },
+    {
+      "code": "T4",
+      "value": "Grid Infrastructure and Transmission",
+      "definition": "Physical transmission network and its components: cables, converters, substations or HVDC systems."
+    },
+    {
+      "code": "T5",
+      "value": "Grid Operation, Flexibility and Storage",
+      "definition": "The technical operation and control of the electricity system, including the use of flexibility or storage to manage grid conditions."
+    },
+    {
+      "code": "T6",
+      "value": "Electricity Markets and System Services",
+      "definition": "Market rules, trading and procurement arrangements, balancing services or congestion arrangements."
+    },
+    {
+      "code": "T7",
+      "value": "Offshore and Renewable Energy Systems",
+      "definition": "Offshore energy generation and its integration into a wider energy system."
+    },
+    {
+      "code": "T8",
+      "value": "Security, Safety and Infrastructure Resilience",
+      "definition": "Protection of people and critical infrastructure against hazards, security threats, failures, and disruptive events."
+    },
+    {
+      "code": "T9",
+      "value": "Sustainability and Environmental Impact",
+      "definition": "Environmental effects and sustainable practices: ecology, emissions or material use."
+    },
+    {
+      "code": "T10",
+      "value": "Energy Efficiency and Electrification",
+      "definition": "Reducing energy required for a given service, optimizing use of energy or replacing other energy with electricity."
+    },
+    {
+      "code": "T11",
+      "value": "Workforce and Skills",
+      "definition": "Attracting, training and retaining the technical and professional workforce needed to build, operate and maintain the energy system."
+    }
+  ],
+  "role": [
+    {
+      "code": "R1",
+      "value": "Project Leadership or Consortium Coordination",
+      "definition": "TenneT takes responsibility for directing the project or coordinating the consortium, including its work, partners, and delivery."
+    },
+    {
+      "code": "R2",
+      "value": "Project or Consortium Participation",
+      "definition": "TenneT joins as a formal, non-leading project partner and takes responsibility for part of the work. This records its formal position; a more specific role can describe its contribution."
+    },
+    {
+      "code": "R3",
+      "value": "Procurement or Commissioning",
+      "definition": "TenneT specifies and commissions work, equipment, technology, or services that another organisation delivers."
+    },
+    {
+      "code": "R5",
+      "value": "Co-development",
+      "definition": "TenneT helps shape and create a new solution with other partners, making substantive decisions during development."
+    },
+    {
+      "code": "R7",
+      "value": "Market Design or Operation",
+      "definition": "TenneT designs, implements, or operates an electricity-market or system-service arrangement, such as a balancing or congestion-management mechanism."
+    },
+    {
+      "code": "R8",
+      "value": "Standard Setting",
+      "definition": "TenneT helps define or agree technical, operational, or procedural rules intended for use across organisations or systems."
+    },
+    {
+      "code": "R9",
+      "value": "Data or Test-Environment Provision",
+      "definition": "TenneT provides data, access to infrastructure, a simulation setting, or an operational environment that others use to develop or test the solution."
+    },
+    {
+      "code": "R10",
+      "value": "Research or Knowledge Contribution",
+      "definition": "TenneT contributes analysis, specialist knowledge, evidence, or research expertise to inform the project’s work."
+    },
+    {
+      "code": "R11",
+      "value": "Sponsorship or Funding Provision",
+      "definition": "TenneT provides money or institutional backing without commissioning a specific deliverable or performing a principal project activity."
+    },
+    {
+      "code": "R12",
+      "value": "Policy Advice, Advocacy or Dissemination",
+      "definition": "TenneT contributes its perspective to policy or regulatory discussions, represents a position, or communicates project findings to relevant audiences."
+    }
+  ],
+  "activity": [
+    {
+      "code": "A2",
+      "value": "Applied Research",
+      "definition": "Generates new knowledge to understand or solve a defined practical problem."
+    },
+    {
+      "code": "A3",
+      "value": "Feasibility or Concept Assessment",
+      "definition": "Examines options, requirements, expected benefits, feasibility, and risks to decide whether and how a proposed solution should proceed."
+    },
+    {
+      "code": "A4",
+      "value": "Technical Design and Engineering",
+      "definition": "Turns an agreed concept into specifications, architectures, detailed designs, or engineering plans."
+    },
+    {
+      "code": "A5",
+      "value": "Product or Prototype Development",
+      "definition": "Builds or substantially improves a physical product, component, device, or prototype."
+    },
+    {
+      "code": "A6",
+      "value": "Software, Model or Data-System Development",
+      "definition": "Creates or substantially improves software, analytical models, algorithms, data pipelines, or digital platforms."
+    },
+    {
+      "code": "A7",
+      "value": "Pilot or Demonstration",
+      "definition": "Operates a solution on a limited scale or in a representative setting to show how it works in practice."
+    },
+    {
+      "code": "A8",
+      "value": "Testing, Validation or Certification",
+      "definition": "Checks a solution against defined requirements, performance criteria, or certification standards and produces evidence of the result."
+    },
+    {
+      "code": "A9",
+      "value": "Infrastructure Construction",
+      "definition": "Builds or materially upgrades physical grid or supporting infrastructure intended for continuing use."
+    },
+    {
+      "code": "A10",
+      "value": "Technology Deployment",
+      "definition": "Installs, integrates, or introduces a developed technology into practical use."
+    },
+    {
+      "code": "A11",
+      "value": "Operational Improvement or Control",
+      "definition": "Changes how an existing system is monitored, coordinated, controlled, or operated."
+    },
+    {
+      "code": "A12",
+      "value": "Asset Inspection, Maintenance or Life Extension",
+      "definition": "Inspects assets, assesses their condition, maintains or repairs them, or extends their useful life."
+    },
+    {
+      "code": "A13",
+      "value": "Policy, Strategy, Standards or Regulation Development",
+      "definition": "Creates or revises formal policies, strategies, standards, regulatory proposals, or governance frameworks."
+    },
+    {
+      "code": "A14",
+      "value": "Market, Contract or Flexibility Arrangement Development",
+      "definition": "Develops or revises market designs, flexibility arrangements, or electricity-market, system-service or grid-access contract structures before they are put into operation."
+    },
+    {
+      "code": "A15",
+      "value": "Planning or Permitting Improvement",
+      "definition": "Improves the methods or processes used to plan, site, approve, or permit projects and infrastructure."
+    },
+    {
+      "code": "A16",
+      "value": "Partnership, Network or Consortium Development",
+      "definition": "Establishes or strengthens cooperation structures that are themselves part of the project’s work."
+    },
+    {
+      "code": "A18",
+      "value": "Procurement and Commercial Contracting",
+      "definition": "Designs or carries out supplier tenders, framework agreements, insurance or other commercial arrangements that secure delivery capacity, risk cover or lower costs."
+    }
+  ],
+  "outcome": [
+    {
+      "code": "O1",
+      "value": "Health and safety",
+      "definition": "Reduces the risk of injury or harm to employees or contractors."
+    },
+    {
+      "code": "O2",
+      "value": "Cyber and physical security",
+      "definition": "Improves protection against cyberattacks, sabotage, or unauthorised access to assets, information, and operations."
+    },
+    {
+      "code": "O3",
+      "value": "Asset reliability and lifetime",
+      "definition": "Keeps existing assets functioning, reduces failures or downtime, restores service faster, or extends their useful life."
+    },
+    {
+      "code": "O4",
+      "value": "Operational readiness",
+      "definition": "Ensures TenneT has the people, procedures, tools, materials, and arrangements needed to operate and maintain systems safely and reliably."
+    },
+    {
+      "code": "O5",
+      "value": "Environmental impact",
+      "definition": "Reduces harm to the climate or natural environment through lower emissions, material use, or reduced ecological disturbance."
+    },
+    {
+      "code": "O6",
+      "value": "Cost and resource efficiency",
+      "definition": "Delivers a defined level of performance using less money, labour, energy or logistical effort."
+    },
+    {
+      "code": "O7",
+      "value": "Connection capacity and delivery",
+      "definition": "Makes more electricity transmission capacity available or brings new or upgraded connections into service sooner."
+    },
+    {
+      "code": "O8",
+      "value": "System stability",
+      "definition": "Keeps the power system within its frequency, voltage and dynamic stability limits, so that disturbances are damped and do not escalate into wider outages."
+    },
+    {
+      "code": "O9",
+      "value": "System resilience and security of supply",
+      "definition": "Reduces the risk that the electricity system cannot meet demand or stay within secure operating limits, including under extreme weather, uncertainty or cascading events."
+    },
+    {
+      "code": "O10",
+      "value": "Flexibility and balancing resources",
+      "definition": "Increases the volume or accessibility of flexibility, such as demand response, storage, vehicles or redispatch bids, that TenneT can use to balance the system or relieve congestion."
+    },
+    {
+      "code": "O11",
+      "value": "Interoperability",
+      "definition": "Enables equipment, control systems or data platforms from different suppliers or organisations to work together through common specifications and interfaces."
+    },
+    {
+      "code": "O12",
+      "value": "Efficient market functioning",
+      "definition": "Makes electricity-market, allocation or grid-tariff arrangements more efficient, fair or cost-reflective, so that they give sound signals for dispatch, investment and grid use."
+    },
+    {
+      "code": "O13",
+      "value": "Regulatory compliance",
+      "definition": "Ensures TenneT meets new or changing legal and regulatory obligations, such as data-provision, reporting, technology-use or system-operation requirements."
+    },
+    {
+      "code": "O14",
+      "value": "Workforce availability",
+      "definition": "Increases the number of skilled people available to TenneT and its supply chain to build, operate and maintain the grid."
+    },
+    {
+      "code": "O15",
+      "value": "Transparency and public information",
+      "definition": "Gives market parties, authorities or the public timely and reliable information about the electricity system, so they can make informed choices."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "project_name": "GNN4GC (Graph Neural Networks for Grid Control)",
+  "project_description": "A project funded by the German Ministry for Economic Affairs and Climate Protection, in which TenneT Germany works with 50Hertz, Kassel University and Fraunhofer IEE until end-2026. It develops graph neural network models and agents for AC load flows and topological actions, and early results using TenneT data look promising.",
+  "priority": "none",
+  "priority_until": null,
+  "topic": [
+    "T1",
+    "T5"
+  ],
+  "role": [
+    "R2",
+    "R9"
+  ],
+  "activity": [
+    "A2",
+    "A6"
+  ],
+  "outcome": [
+    "O6",
+    "O8"
+  ]
+}

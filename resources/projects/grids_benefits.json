@@ -1,0 +1,21 @@
+{
+  "project_name": "Grids & Benefits",
+  "project_description": "A project started in 2025 and led by UnternehmerTUM that forecasts grid congestion across grid levels and uses a traffic-light signal to show the best time to charge electric vehicles. TenneT Germany works on it with the Federal Ministry for Economic Affairs and Energy, other grid operators, BMW Group, Octopus Energy and Mobility House, among others.",
+  "priority": "none",
+  "priority_until": null,
+  "topic": [
+    "T5",
+    "T10"
+  ],
+  "role": [
+    "R2"
+  ],
+  "activity": [
+    "A6",
+    "A7"
+  ],
+  "outcome": [
+    "O6",
+    "O10"
+  ]
+}

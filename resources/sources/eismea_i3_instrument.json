@@ -1,0 +1,17 @@
+{
+  "source_name": "EISMEA Interregional Innovation Investments (I3) Instrument",
+  "scheduling_setting": {
+    "enabled_disabled": "enabled",
+    "monitoring_interval": 14,
+    "first_run_on": "2026-11-16",
+    "last_completed_scan_at": "2026-11-15T12:50:50+01:00"
+  },
+  "parameters_passed_to_the_search_agent": {
+    "portal_type": "programme",
+    "starting_url": "https://eismea.ec.europa.eu/programmes/interregional-innovation-investments-i3-instrument_en",
+    "search_scope": "Open and forthcoming Investment calls of the I3 Instrument under the Work Programme 2025-2027: Strand 1 (interregional innovation investments by regions that share smart specialisation areas) and Strand 2a (value chain development in less developed regions). Include a Strand 2b call (regional innovation ecosystems and capacity building) if one is published. Each strand topic is its own FO, with the topic ID (for example I3-2026-INV1) as the call reference. Skip calls for tenders, calls for expert evaluators, funded-project lists, news and events.",
+    "navigation_instructions": "1. Open the starting URL. A normal page fetch works. 2. Go to the 'Funding opportunities' section. It lists the Investment calls by year, each with its topic ID, opening and closing dates and an 'Apply here' link to the topic page on the EU Funding & Tenders Portal. On 15 November 2026 it listed I3-2026-INV1 (Strand 1) and I3-2026-INV2a (Strand 2a), both open from 13 May 2026 to 12 November 2026 and now closed, and a 2027 Investment Call for Strands 1 and 2a with no date and no link yet. 3. A call listed without a topic ID, a date or a link is not yet an FO. Record it as forthcoming once the page, the topic page or the Work Programme gives a topic ID or a planned opening date; until then report that it is announced and end. 4. Follow each 'Apply here' link to the topic page. The topic page loads with JavaScript, so a plain fetch may return an empty page; use a browser if it does. The topic page holds the dates and deadline, the budget overview, the conditions and documents (call document, templates) and the topic updates with any amendments or deadline changes. 5. The call document (PDF) is the authoritative source for eligibility, budgets and funding rates. The programme page gives only general figures: up to EUR 10 million per project, 70% EU co-funding, and TRL 6 to 9 for investment projects. 6. When the 'Funding opportunities' section gives no date for the next call, check the Work Programme 2025-2027 for planned call dates. The block's 'Learn more' link leads to a DG REGIO announcement, not directly to the work programme. The linked official annex is https://ec.europa.eu/regional_policy/sources/whats-new/tenders-and-grants/financing-decisions/C_2025_1575_1_EN_annexe_acte_autonome_nlw_part1_v2.pdf (Strands 1/2a timing: printed pages 5-6; Strand 2b: page 6).",
+    "link_scope": "Pages about the I3 Instrument on eismea.ec.europa.eu, and the I3 topic pages and call documents on ec.europa.eu/info/funding-tenders/. Do not follow links to news, events, Regional Innovation Valleys, funded projects, the FAQ, other EISMEA programmes, the submission system or login pages.",
+    "completion_rules": "The run is complete when every call in the 'Funding opportunities' section has been checked and every open or forthcoming strand topic has been opened on its topic page. If no call is open, and no call is forthcoming with a topic ID or a planned opening date, the run ends with no new FO."
+  }
+}

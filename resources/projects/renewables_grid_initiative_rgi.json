@@ -1,0 +1,21 @@
+{
+  "project_name": "Renewables Grid Initiative (RGI)",
+  "project_description": "A network of some 30 NGOs and European TSOs that promotes future-proof grid development, with TenneT as a founding partner. It advocates more renewables across Europe and undertakes joint research projects.",
+  "priority": "none",
+  "priority_until": null,
+  "topic": [
+    "T9",
+    "T4"
+  ],
+  "role": [
+    "R2",
+    "R12"
+  ],
+  "activity": [
+    "A2",
+    "A16"
+  ],
+  "outcome": [
+    "O5"
+  ]
+}

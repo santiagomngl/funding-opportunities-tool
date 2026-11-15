@@ -1,0 +1,19 @@
+{
+  "project_name": "Hollandse Kust (west Beta)",
+  "project_description": "A 700 MW offshore grid connection that links the OranjeWind wind farm to land, enough for about a million households. It reached grid-readiness ahead of schedule in October 2025, the last of seven 700 MW systems, all delivered on time and within budget.",
+  "priority": "none",
+  "priority_until": null,
+  "topic": [
+    "T7",
+    "T4"
+  ],
+  "role": [
+    "R1"
+  ],
+  "activity": [
+    "A9"
+  ],
+  "outcome": [
+    "O7"
+  ]
+}

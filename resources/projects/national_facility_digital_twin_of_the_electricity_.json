@@ -1,0 +1,20 @@
+{
+  "project_name": "National Facility Digital Twin of the Electricity System (NFDTES)",
+  "project_description": "A national facility established by TenneT Netherlands and Delft University of Technology, supported by the Ministry of Climate Policy and Green Growth and the Netherlands Enterprise Agency (RVO). It enables real-time simulation, validation and applied research on future grid scenarios.",
+  "priority": "none",
+  "priority_until": null,
+  "topic": [
+    "T1",
+    "T5"
+  ],
+  "role": [
+    "R5",
+    "R9"
+  ],
+  "activity": [
+    "A2",
+    "A6",
+    "A8"
+  ],
+  "outcome": []
+}

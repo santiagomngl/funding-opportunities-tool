@@ -1,0 +1,19 @@
+{
+  "project_name": "Grid Optimisation Plan (mandatory over-planting)",
+  "project_description": "TenneT proposals to optimise the offshore grid, several of which TenneT Germany had included in the German Network Development Plan 2037/2045. A key example is mandatory over-planting, which raises wind generation capacity per grid connection while capping peak feed-in.",
+  "priority": "none",
+  "priority_until": null,
+  "topic": [
+    "T7",
+    "T4"
+  ],
+  "role": [
+    "R12"
+  ],
+  "activity": [
+    "A15"
+  ],
+  "outcome": [
+    "O7"
+  ]
+}

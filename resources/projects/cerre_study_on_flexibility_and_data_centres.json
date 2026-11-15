@@ -1,0 +1,21 @@
+{
+  "project_name": "CERRE study on flexibility and data centres",
+  "project_description": "A study published by the Centre on Regulation in Europe on how data centres can evolve from passive energy consumers into active grid assets. TenneT contributed insight into its grid planning, flexibility markets and cross-border coordination.",
+  "priority": "none",
+  "priority_until": null,
+  "topic": [
+    "T5",
+    "T6"
+  ],
+  "role": [
+    "R10"
+  ],
+  "activity": [
+    "A2",
+    "A3"
+  ],
+  "outcome": [
+    "O9",
+    "O10"
+  ]
+}

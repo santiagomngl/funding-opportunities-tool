@@ -1,0 +1,18 @@
+{
+  "project_name": "Offshore TSO Collaboration (OTC)",
+  "project_description": "A collaboration formed in 2022 that brings together TSOs active in the North Sea region. It aims to jointly accelerate offshore wind deployment and build a unified regulatory and technical framework that supports innovation.",
+  "priority": "none",
+  "priority_until": null,
+  "topic": [
+    "T7",
+    "T4"
+  ],
+  "role": [],
+  "activity": [
+    "A13",
+    "A16"
+  ],
+  "outcome": [
+    "O7"
+  ]
+}

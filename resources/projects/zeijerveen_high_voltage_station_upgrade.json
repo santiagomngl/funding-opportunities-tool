@@ -1,0 +1,18 @@
+{
+  "project_name": "Zeijerveen high-voltage station upgrade",
+  "project_description": "An upgrade of the Zeijerveen high-voltage station near Assen that creates 170 MW of extra capacity on the congested provincial grid in Drenthe. A waiting list applies to large producers until the work is completed in 2027.",
+  "priority": "none",
+  "priority_until": null,
+  "topic": [
+    "T4"
+  ],
+  "role": [
+    "R1"
+  ],
+  "activity": [
+    "A9"
+  ],
+  "outcome": [
+    "O7"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "type_1": [
+    {
+      "code": "C1.1",
+      "value": "Lead of an infrastructure project",
+      "definition": "TenneT applies for its own capital project, alone or with another TSO. Example: CEF Energy for cross-border and offshore grid projects, which funds both studies and works. The amounts are large, calls are few and lead times are long."
+    },
+    {
+      "code": "C1.2",
+      "value": "Lead of an innovation project",
+      "definition": "TenneT runs a pilot or demonstration and gets part of its own costs funded. Examples are Horizon Europe innovation actions and CETPartnership calls."
+    },
+    {
+      "code": "C1.3",
+      "value": "Funded consortium partner",
+      "definition": "TenneT is one of several partners and gets its share at the call’s funding rate. This is the most common case. Funding rates for large companies are often lower, so the grant may cover only part of TenneT’s costs."
+    },
+    {
+      "code": "C1.4",
+      "value": "Funded innovation buyer",
+      "definition": "TenneT buys an innovation that doesn’t exist yet, and the funder co-finances the purchase. These are pre-commercial procurement and public procurement of innovation."
+    }
+  ],
+  "type_2": [
+    {
+      "code": "C2.1",
+      "value": "Research-led (universities and institutes)",
+      "definition": "Unfunded partner, or a member of the project’s user committee. Co-funder: the company partner often has to contribute cash or in-kind."
+    },
+    {
+      "code": "C2.2",
+      "value": "Manufacturer-led or startup-led",
+      "definition": "Test-environment or data provider: TenneT offers assets, sites, data or a simulation setting, and the developer gets the grant. End user, problem owner or launching customer: TenneT defines the need and validates the result. For startup instruments like the EIC Accelerator, a customer’s letter of intent strengthens the application. Unfunded system integrator: TenneT fits the developer’s product into its own systems."
+    },
+    {
+      "code": "C2.3",
+      "value": "Peer-led (other TSOs, DSOs, ENTSO-E)",
+      "definition": "These are often about standards, coordination or market design."
+    },
+    {
+      "code": "C2.4",
+      "value": "Supporting role (letters, advice, sharing results)",
+      "definition": "TenneT backs a project that others lead and receive the grant for, without doing project work itself: it signs a letter of support or intent, sits on an advisory board, or helps share the results. Common when only a single company may apply, as in the EIC Accelerator, or when a supplier develops something TenneT may later buy through its own tenders."
+    }
+  ],
+  "type_3": [
+    {
+      "code": "C3.1",
+      "value": "Supply-chain capacity",
+      "definition": "Support for factories making cables, transformers, converters and HVDC parts. Benefit: shorter lead times and more suppliers."
+    },
+    {
+      "code": "C3.2",
+      "value": "Products TenneT would buy",
+      "definition": "Inspection robots, sensors, grid-enhancing technologies, cable monitoring. Benefit: better offers in future tenders."
+    },
+    {
+      "code": "C3.3",
+      "value": "Flexibility and demand",
+      "definition": "Batteries, electrolysers, industrial electrification, flexible loads. Benefit: less congestion, more balancing capacity, better use of connections."
+    },
+    {
+      "code": "C3.4",
+      "value": "Enabling technologies",
+      "definition": "AI, cybersecurity, digital twins, data spaces. These only benefit TenneT when applied to energy, so they need the clearest relevance test."
+    },
+    {
+      "code": "C3.5",
+      "value": "Knowledge",
+      "definition": "University research on power systems, materials and offshore engineering. Benefit: knowledge and future hires."
+    },
+    {
+      "code": "C3.6",
+      "value": "Skills",
+      "definition": "Training for technicians and engineers. Benefit: fewer staff shortages."
+    },
+    {
+      "code": "C3.7",
+      "value": "Environment, permitting and public support",
+      "definition": "Offshore ecology research, nature-inclusive design, local energy projects. Benefit: faster permits and more public acceptance."
+    }
+  ]
+}

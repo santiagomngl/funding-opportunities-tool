@@ -1,0 +1,22 @@
+{
+  "project_name": "ARTeMIS",
+  "project_description": "A system introduced by TenneT Netherlands in 2025 that streamlines prequalification and management of Balancing Service Providers. It lets regional network operators participate and gives TenneT better insight into balancing trends across the country.",
+  "priority": "none",
+  "priority_until": null,
+  "topic": [
+    "T6",
+    "T1"
+  ],
+  "role": [
+    "R1",
+    "R7"
+  ],
+  "activity": [
+    "A6",
+    "A10"
+  ],
+  "outcome": [
+    "O6",
+    "O10"
+  ]
+}

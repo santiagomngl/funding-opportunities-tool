@@ -1,0 +1,20 @@
+{
+  "project_name": "Energy boards",
+  "project_description": "Regional boards in which TenneT Netherlands works with DSOs and regional and local governments to accelerate and coordinate the energy transition and solve grid congestion. They keep decision-makers informed about grid expansion and connection needs and align regional plans with national and European goals.",
+  "priority": "none",
+  "priority_until": null,
+  "topic": [
+    "T4",
+    "T5"
+  ],
+  "role": [
+    "R2"
+  ],
+  "activity": [
+    "A15",
+    "A16"
+  ],
+  "outcome": [
+    "O7"
+  ]
+}

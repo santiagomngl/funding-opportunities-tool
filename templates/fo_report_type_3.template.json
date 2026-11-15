@@ -1,0 +1,116 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call funds",
+          "question": "What does the call fund?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Who can apply",
+          "question": "Who can apply: which organisation types and countries, and is it a single applicant or a consortium?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Maturity",
+          "question": "Which TRL range does the call target?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Who it suits",
+          "question": "Which kinds of organisation does the call suit: suppliers, startups, universities or others?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Budget constraints",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Project window",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    }
+  ]
+}

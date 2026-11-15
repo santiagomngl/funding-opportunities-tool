@@ -1,0 +1,21 @@
+{
+  "project_name": "SylWin1 HVDC retrofit",
+  "project_description": "A retrofit of the SylWin1 HVDC offshore grid connection in Germany that upgraded its operational technology. Outdated or end-of-life systems were replaced to maintain cyber security and operational reliability.",
+  "priority": "none",
+  "priority_until": null,
+  "topic": [
+    "T7",
+    "T4",
+    "T8"
+  ],
+  "role": [
+    "R1"
+  ],
+  "activity": [
+    "A12"
+  ],
+  "outcome": [
+    "O2",
+    "O3"
+  ]
+}

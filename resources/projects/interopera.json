@@ -1,0 +1,19 @@
+{
+  "project_name": "InterOPERA",
+  "project_description": "A Horizon Europe-funded consortium of 21 partners developing interoperable HVDC technology for multi-vendor systems. In 2025, its third year, it delivered preliminary functional specifications, initial engineering for control and protection subsystems and test scenarios.",
+  "priority": "none",
+  "priority_until": null,
+  "topic": [
+    "T4",
+    "T7"
+  ],
+  "role": [],
+  "activity": [
+    "A4",
+    "A8",
+    "A13"
+  ],
+  "outcome": [
+    "O11"
+  ]
+}

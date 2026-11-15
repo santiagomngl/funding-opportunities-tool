@@ -1,0 +1,28 @@
+{
+  "id": null,
+  "source": null,
+  "display_title": null,
+  "organization_or_parent_framework": null,
+  "programme": null,
+  "call_title": null,
+  "call_module_title": null,
+  "call_year": null,
+  "url": null,
+  "executive_summary": null,
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": null,
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": null,
+  "status_rationale": null,
+  "call_type": null,
+  "category_codes": [],
+  "taxonomy_values": {
+    "topic": [],
+    "role": [],
+    "activity": [],
+    "outcome": []
+  }
+}

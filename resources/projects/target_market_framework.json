@@ -1,0 +1,18 @@
+{
+  "project_name": "Target market framework",
+  "project_description": "A new 'target market' framework that TenneT advocates to modernise market design principles. It is meant to align with the Target Grid vision and support long-term capacity planning.",
+  "priority": "none",
+  "priority_until": null,
+  "topic": [
+    "T6"
+  ],
+  "role": [
+    "R12"
+  ],
+  "activity": [
+    "A14"
+  ],
+  "outcome": [
+    "O12"
+  ]
+}

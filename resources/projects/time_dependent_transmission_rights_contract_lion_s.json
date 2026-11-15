@@ -1,0 +1,19 @@
+{
+  "project_name": "Time-dependent transmission rights contract (Lion Storage)",
+  "project_description": "A time-dependent transmission rights contract signed in March 2025 with battery operator Lion Storage, replacing its 24/7 access to the grid. It is an example of TenneT's time-bound flexible contracts and unlocks 350 MW for other users, easing congestion in Zeeland.",
+  "priority": "none",
+  "priority_until": null,
+  "topic": [
+    "T5",
+    "T6"
+  ],
+  "role": [
+    "R7"
+  ],
+  "activity": [
+    "A14"
+  ],
+  "outcome": [
+    "O7"
+  ]
+}

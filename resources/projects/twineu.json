@@ -1,0 +1,19 @@
+{
+  "project_name": "TwinEU",
+  "project_description": "An EU-funded collaboration of 75 European partners, including Alliander, Stedin and Delft University of Technology. It explores data federation and cross-border information exchange to improve grid resilience and cybersecurity across Europe.",
+  "priority": "none",
+  "priority_until": null,
+  "topic": [
+    "T1",
+    "T8"
+  ],
+  "role": [],
+  "activity": [
+    "A2",
+    "A6"
+  ],
+  "outcome": [
+    "O2",
+    "O9"
+  ]
+}
