@@ -1,0 +1,116 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call funds",
+          "question": "What does the call fund?",
+          "answer": "BMKB-Groen makes borrowing accessible for green equipment and business-premises improvements. Supported investments follow the referenced energy list or improve qualifying premises to at least energy label C.",
+          "sources": "BMKB-Groen · Wat houden de verruiming en aanpassingen in?\nStaatscourant 2026, 23257 · Artikel I, onderdeel A"
+        },
+        {
+          "title": "Who can apply",
+          "question": "Who can apply: which organisation types and countries, and is it a single applicant or a consortium?",
+          "answer": "Individual SMEs established and predominantly active in the Netherlands, Bonaire, Sint Eustatius or Saba can seek credit through an accredited financier.\n- Size: At most 250 FTE and turnover up to EUR 50 million or a balance-sheet total up to EUR 43 million.\n- Group assessment: Relevant associated enterprises count toward SME size.\n- Excluded sectors: Finance, real estate and publicly insured healthcare; agricultural and fisheries restrictions also apply.",
+          "sources": "BMKB - Voorwaarden · Deelnemen als ondernemer; Wanneer geen BMKB?\nOverzicht BMKB voorwaarden tm 30-06-2027 v1.0 · pp. 1–2 · Ondernemerscriteria; Ad 1"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which TRL range does the call target?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "Supported storage and conversion equipment could expand third-party flexibility relevant to TenneT’s balancing and congestion work. This overlaps the interests illustrated by Lion Storage and DataFleX. TenneT cannot borrow under the SME route because large companies are excluded; the reviewed rules establish no alternative TenneT project role.",
+          "sources": "Energielijst 2026 · pp. 65–67 · E. Energiebalancering\nBMKB-Groen · Uitgesloten bedrijfsgroepen\nBMKB - Voorwaarden · Deelnemen als ondernemer; Deelnemen als financier"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Which kinds of organisation does the call suit: suppliers, startups, universities or others?",
+          "answer": "SMEs investing in eligible energy equipment could use this route when insufficient collateral obstructs otherwise viable borrowing. It could suit an SME deploying storage or electrifying its processes; eligibility depends on the specific investment. The borrowing enterprise needs a credible business outlook and a financier willing to provide credit.",
+          "sources": "Borgstelling MKB-kredieten (BMKB) · introduction\nOverzicht BMKB voorwaarden tm 30-06-2027 v1.0 · pp. 1–2 · Ondernemerscriteria; Ad 2\nEnergielijst 2026 · pp. 65–68 · E. Energiebalancering; F. Energietransitie"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "The maximum BMKB credit is EUR 1.5 million per enterprise.\n- Funding form: Repayable credit supported by a state guarantee; the credit ceiling is not a total-project-budget ceiling.",
+          "sources": "Borgstelling MKB-kredieten (BMKB) · Budget\nOverzicht BMKB voorwaarden tm 30-06-2027 v1.0 · p. 1 · Omvang BMKB"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "BMKB-Groen backs up to 75% of the loan; the state guarantee covers 90% of that portion.\n- Co-financing conditions: The financier also provides credit outside the state-guaranteed portion, at least 33.3% of the BMKB credit.",
+          "sources": "Staatscourant 2022, 28713 · Toelichting, I. Algemeen, 2. Inhoud van de regeling"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "BMKB-Groen limits the supporting expenditure included with eligible green assets.\n- Caps or mandatory allocations: Inseparably connected items or activities outside the energy list may comprise at most 50% of the investment.\n- Excluded costs: The building-improvement route excludes commercially rented real estate.",
+          "sources": "Staatscourant 2026, 23257 · Artikel I, onderdeel A, groene investering"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "The SME repays its borrowing and bears the guarantee fee.\n- Payment model: Credit terms are agreed with the financier.\n- Retention or guarantee: A one-off fee applies to BMKB credit: 2% for up to 24 quarters, or 3% for 25–48 quarters; the financier passes it on.",
+          "sources": "BMKB-Groen · Provisie verlaagd\nAanvraaginformatie Borgstelling MKB-kredieten · Provisie; opening text"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "Apply through the financier, which registers the signed credit with RVO; the published closing windows need reconciliation.\n- Stage 1 — Credit application: RVO gives 2027-07-01 as the scheme end; the 2026 amendment describes that year’s opening through 2026-12-31.\n- Stage 2 — Registration: The financier notifies RVO after the credit offer is signed.",
+          "sources": "BMKB-Groen · Aanvraagperiode\nAanvraaginformatie Borgstelling MKB-kredieten · opening text\nStaatscourant 2026, 23257 · Toelichting, I. Algemeen, 1. Aanleiding"
+        },
+        {
+          "title": "Project window",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "The financier decides whether to grant BMKB credit and negotiates the credit conditions.\n- Conditions before starting: A signed credit offer precedes the financier’s notification to RVO.",
+          "sources": "Aanvraaginformatie Borgstelling MKB-kredieten · opening text"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "The BMKB borrower must provide a signed de-minimis declaration covering the enterprise and its connected enterprises.\n- Mandatory annexes: Provide an overview when several connected enterprises are involved.\n- Partner documents: The declaration records prior de-minimis aid and other state aid for the same costs.",
+          "sources": "Staatscourant 2026, 23257 · Artikel I, onderdelen G en H, artikel 5\nAlgemene de-minimisverklaring, versie 2025 · pp. 1–2 · Gegevens; Verklaring"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "The financier assesses the enterprise’s creditworthiness for BMKB credit.\n- Evaluation criteria: Business continuity prospects, SME size, permitted sector, financing purpose and insufficient collateral determine whether the credit meets the published conditions.",
+          "sources": "Overzicht BMKB voorwaarden tm 30-06-2027 v1.0 · pp. 1–2 · Ondernemerscriteria; Financieringsdoel; Omvang BMKB; Ad 2"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "BMKB-Groen financing does not automatically confer EIA tax relief.\n- Conditional — EIA also sought: RVO assesses that application separately.\n- Conditional — Further aid received before the award: Notify the granting authority immediately, as required by the de-minimis declaration.",
+          "sources": "BMKB-Groen · Wat houden de verruiming en aanpassingen in?\nAlgemene de-minimisverklaring, versie 2025 · p. 2 · Verklaring"
+        }
+      ]
+    }
+  ]
+}

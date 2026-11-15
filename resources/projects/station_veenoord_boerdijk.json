@@ -1,0 +1,18 @@
+{
+  "project_name": "Station Veenoord–Boerdijk",
+  "project_description": "A Dutch onshore station project whose preparatory phase was prolonged by extra soil investigations and a shortage of technical specialists. Shortages of contractor staff and equipment, and limited experience with modular construction, moved completion from 2029 to 2031.",
+  "priority": "none",
+  "priority_until": null,
+  "topic": [
+    "T4"
+  ],
+  "role": [
+    "R1"
+  ],
+  "activity": [
+    "A9"
+  ],
+  "outcome": [
+    "O7"
+  ]
+}

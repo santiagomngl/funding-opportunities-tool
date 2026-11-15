@@ -1,0 +1,23 @@
+{
+  "project_name": "2GW Program",
+  "project_description": "TenneT's offshore programme built on a replicable 2 GW HVDC platform and a 525 kV HVDC cable system, using standardised and modular design. Framework agreements and bundled procurement by TenneT Germany and TenneT Netherlands are a cornerstone of it, and part of it was delayed when a contractor in a delivery consortium had to be replaced.",
+  "priority": "none",
+  "priority_until": null,
+  "topic": [
+    "T7",
+    "T4"
+  ],
+  "role": [
+    "R1",
+    "R3"
+  ],
+  "activity": [
+    "A4",
+    "A9",
+    "A18"
+  ],
+  "outcome": [
+    "O6",
+    "O7"
+  ]
+}

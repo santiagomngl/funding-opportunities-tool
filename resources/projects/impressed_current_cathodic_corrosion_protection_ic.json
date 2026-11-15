@@ -1,0 +1,19 @@
+{
+  "project_name": "Impressed Current Cathodic Corrosion Protection (ICCP)",
+  "project_description": "An offshore maintenance project in Germany using impressed current cathodic corrosion protection. It protects critical components of TenneT's offshore infrastructure from marine corrosion.",
+  "priority": "none",
+  "priority_until": null,
+  "topic": [
+    "T3",
+    "T7"
+  ],
+  "role": [
+    "R1"
+  ],
+  "activity": [
+    "A12"
+  ],
+  "outcome": [
+    "O3"
+  ]
+}

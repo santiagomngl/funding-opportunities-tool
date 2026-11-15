@@ -1,0 +1,18 @@
+{
+  "project_name": "Utrecht high-voltage substations (Utrecht-Noord)",
+  "project_description": "New high-voltage substations that divide the interconnected grid of Utrecht, Gelderland and the Flevopolder into four sections to meet rising demand. Difficulty securing sites and cable routes, and local objections, moved Utrecht-Noord's delivery from 2029 to 2033.",
+  "priority": "none",
+  "priority_until": null,
+  "topic": [
+    "T4"
+  ],
+  "role": [
+    "R1"
+  ],
+  "activity": [
+    "A9"
+  ],
+  "outcome": [
+    "O7"
+  ]
+}

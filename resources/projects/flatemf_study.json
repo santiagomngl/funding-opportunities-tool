@@ -1,0 +1,19 @@
+{
+  "project_name": "FlatEMF study",
+  "project_description": "A joint research study within the Renewables Grid Initiative network to understand the ecological impact of subsea cables. TenneT takes part as a founding partner of the network.",
+  "priority": "none",
+  "priority_until": null,
+  "topic": [
+    "T9",
+    "T7"
+  ],
+  "role": [
+    "R2"
+  ],
+  "activity": [
+    "A2"
+  ],
+  "outcome": [
+    "O5"
+  ]
+}

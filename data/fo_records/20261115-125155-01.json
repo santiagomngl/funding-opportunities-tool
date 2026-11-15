@@ -1,0 +1,47 @@
+{
+  "id": "20261115-125155-01",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-CL5-2027-07-D3-27 Integrated Approaches for Retrofitting Infrastructures with Innovative Energy Storage Technologies – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "ENERGY (HORIZON-CL5-2027-07)",
+  "call_module_title": "HORIZON-CL5-2027-07-D3-27 Integrated Approaches for Retrofitting Infrastructures with Innovative Energy Storage Technologies",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-07-D3-27",
+  "executive_summary": "Horizon Europe innovation action for demonstrating improved energy storage through retrofitting obsolete infrastructure. Eligible Dutch legal entities can participate in a consortium; company funding is up to 70% under the lump-sum methodology. The topic has EUR 22.5 million and expects around EUR 7.5 million per project, while allowing different requests. Planned opening: 4 August 2027; full proposal deadline: 1 December 2027, 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-12-01",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-15",
+  "status_rationale": "The Climate, Energy and Mobility work programme, topic HORIZON-CL5-2027-07-D3-27, Scope (pp. 179–180), funds storage demonstrations using obsolete infrastructure. Its flexibility and energy-security outcomes connect to Time-dependent transmission rights contract (Lion Storage), DataFleX and TSO Innovation Alliance. General Annex B, Entities eligible for funding and Consortium composition (pp. 11–13), permits a funded Dutch legal-entity route, subject to the topic eligibility restrictions; General Annex G, Form of grant, funding rate and maximum grant amount (pp. 31–32), permits company funding. Type 1 and C1.3 describe TenneT participating as a funded consortium partner.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T5",
+      "T8",
+      "T9"
+    ],
+    "role": [
+      "R2",
+      "R5"
+    ],
+    "activity": [
+      "A4",
+      "A7",
+      "A8"
+    ],
+    "outcome": [
+      "O2",
+      "O5",
+      "O6",
+      "O9",
+      "O10"
+    ]
+  }
+}

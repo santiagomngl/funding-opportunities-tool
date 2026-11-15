@@ -1,0 +1,18 @@
+{
+  "project_name": "Additional bays at existing substations",
+  "project_description": "TenneT installs additional bays at existing substations, extra 'sockets' that allow faster and more flexible customer connections. In 2025 it added 52 bays in the Netherlands and 1 in Germany.",
+  "priority": "none",
+  "priority_until": null,
+  "topic": [
+    "T4"
+  ],
+  "role": [
+    "R1"
+  ],
+  "activity": [
+    "A9"
+  ],
+  "outcome": [
+    "O7"
+  ]
+}

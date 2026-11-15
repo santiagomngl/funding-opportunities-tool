@@ -1,0 +1,40 @@
+{
+  "id": "20261115-130249-01",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "BMKB-Groen – Borgstelling MKB-kredieten (BMKB)",
+  "organization_or_parent_framework": "Rijksdienst voor Ondernemend Nederland (RVO)",
+  "programme": "Borgstelling MKB-kredieten (BMKB)",
+  "call_title": "Borgstelling MKB-kredieten (BMKB)",
+  "call_module_title": "BMKB-Groen",
+  "call_year": 2022,
+  "url": "https://www.rvo.nl/subsidies-financiering/bmkb/bmkb-groen",
+  "executive_summary": "BMKB-Groen supports SME borrowing for eligible green investments through accredited financiers. The guarantee-backed credit portion may reach 75% of the financing, with a maximum BMKB credit of EUR 1.5 million; this is repayable finance, not a grant. Large companies are excluded. RVO lists an application period ending 2027-07-01, while the 2026 legal amendment describes an annual opening through 2026-12-31; the operative cutoff is unresolved.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": null,
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-15",
+  "status_rationale": "RVO's BMKB-Groen, Wat houden de verruiming en aanpassingen in?, supports borrowing for green investments. Its referenced Energielijst 2026, section E, overlaps the flexibility interests in Time-dependent transmission rights contract (Lion Storage), DataFleX and Grids & Benefits. Uitgesloten bedrijfsgroepen excludes large companies, and no other TenneT route is established; the indirect flexibility connection supports C3.3. The consolidated regulation at wetten.overheid.nl/BWBR0035474/ was unreadable, while project dates, total-investment bounds and an unambiguous application cutoff remain unverified.",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T5",
+      "T9",
+      "T10"
+    ],
+    "role": [],
+    "activity": [
+      "A10"
+    ],
+    "outcome": [
+      "O5",
+      "O6",
+      "O10"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "project_name": "TenneTwin",
+  "project_description": "A project co-funded with the Netherlands Enterprise Agency and executed by Delft University of Technology. It focuses on system operations and adaptive modelling.",
+  "priority": "none",
+  "priority_until": null,
+  "topic": [
+    "T1",
+    "T5"
+  ],
+  "role": [
+    "R11"
+  ],
+  "activity": [
+    "A2",
+    "A6"
+  ],
+  "outcome": []
+}

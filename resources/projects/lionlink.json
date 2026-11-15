@@ -1,0 +1,19 @@
+{
+  "project_name": "LionLink",
+  "project_description": "A hybrid interconnector developed with National Grid Ventures that will connect the Nederwiek 3 offshore grid project to the UK. It is one of the first connections in a future meshed North Sea grid.",
+  "priority": "none",
+  "priority_until": null,
+  "topic": [
+    "T7",
+    "T4"
+  ],
+  "role": [
+    "R5"
+  ],
+  "activity": [
+    "A4"
+  ],
+  "outcome": [
+    "O7"
+  ]
+}

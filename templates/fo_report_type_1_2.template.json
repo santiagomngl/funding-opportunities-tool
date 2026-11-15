@@ -1,0 +1,182 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Problem and user",
+          "question": "Which problem or need must the project address, and whose need is it?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities and subjects are in scope, which are required, and which are excluded?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Deliverables",
+          "question": "What must the project develop and deliver?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Maturity",
+          "question": "What TRL is expected at the start and end of the project, and which stages are allowed (research, prototype, demonstration, deployment)?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Expected impact",
+          "question": "Which outcomes and policy goals must the project contribute to?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Composition",
+          "question": "How many partners, of which types (including end users) and from which countries? Are there rules on how the budget is split?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Leadership",
+          "question": "Who may or must coordinate or hold a leadership role?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Participation route",
+          "question": "Can TenneT apply, coordinate, join as a partner, or take part without funding?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Funding for TenneT",
+          "question": "Can TenneT receive funding, at what rate, and under which national rules?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What could TenneT credibly bring to the project?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Setting",
+      "question": "In which environment must the project take place?",
+      "cards": [
+        {
+          "title": "Test environment",
+          "question": "Where and under what conditions must the solution be tested (lab, simulation, real site, live infrastructure), and in which country or region?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Data, IP and security",
+          "question": "Does the call impose open-data, IP or security obligations that TenneT would have to accept?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "After the project",
+      "question": "How must the project scale, replicate or achieve uptake?",
+      "cards": [
+        {
+          "title": "Uptake",
+          "question": "What must happen with the result: replication, standards, an implementation model, dissemination, use after funding ends?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Budget constraints",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Project window",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    }
+  ]
+}

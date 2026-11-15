@@ -1,0 +1,21 @@
+{
+  "project_name": "DataFleX",
+  "project_description": "A German project launched with EUR 7 million in federal funding that explores cross-sector data exchange to unlock decentral flexibility. It supports congestion management and tests market designs that encourage participation, with eight partners including TSOs, DSOs, tech firms and researchers.",
+  "priority": "none",
+  "priority_until": null,
+  "topic": [
+    "T1",
+    "T5",
+    "T6"
+  ],
+  "role": [
+    "R2"
+  ],
+  "activity": [
+    "A6",
+    "A14"
+  ],
+  "outcome": [
+    "O10"
+  ]
+}

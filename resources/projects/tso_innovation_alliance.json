@@ -1,0 +1,21 @@
+{
+  "project_name": "TSO Innovation Alliance",
+  "project_description": "An alliance launched in 2025 that unites eight major European TSOs, including TenneT Netherlands, Terna, RTE, Swissgrid, Elia Group, Red Eléctrica and Amprion. It pools expertise and investments to develop new solutions for grid resilience, efficiency and renewables integration across Europe.",
+  "priority": "none",
+  "priority_until": null,
+  "topic": [
+    "T4",
+    "T5"
+  ],
+  "role": [
+    "R2"
+  ],
+  "activity": [
+    "A16"
+  ],
+  "outcome": [
+    "O6",
+    "O7",
+    "O9"
+  ]
+}

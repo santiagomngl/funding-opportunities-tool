@@ -1,0 +1,18 @@
+{
+  "project_name": "Digital Twin Programme",
+  "project_description": "A national and European collaboration within the CROF programme that develops advanced digital twin technologies. It aims to strengthen the reliability, resilience and adaptability of the electricity grid.",
+  "priority": "none",
+  "priority_until": null,
+  "topic": [
+    "T1"
+  ],
+  "role": [
+    "R2"
+  ],
+  "activity": [
+    "A6"
+  ],
+  "outcome": [
+    "O9"
+  ]
+}

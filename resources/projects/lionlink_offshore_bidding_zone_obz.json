@@ -1,0 +1,21 @@
+{
+  "project_name": "LionLink offshore bidding zone (OBZ)",
+  "project_description": "An offshore bidding zone for LionLink, a market arrangement considered crucial for operating a hybrid interconnector efficiently. The Minister decided to initiate it after the ACM approved a TenneT structural suggestion report in 2025.",
+  "priority": "none",
+  "priority_until": null,
+  "topic": [
+    "T6",
+    "T7"
+  ],
+  "role": [
+    "R7",
+    "R12"
+  ],
+  "activity": [
+    "A14"
+  ],
+  "outcome": [
+    "O7",
+    "O12"
+  ]
+}
