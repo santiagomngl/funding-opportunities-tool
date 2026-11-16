@@ -39,7 +39,7 @@ export type ReportSection = { title: string; question?: string | null; cards: Re
 export type FoReport = Record<string, ReportSection[]>;
 
 /** One call type with its plain-language tag and its categories, from resources/call_types.json. */
-export type CallTypeCategory = { code: string; tag: string; definition: string };
+export type CallTypeCategory = { code: string; tag: string; value: string; definition: string };
 export type CallTypeGroup = { type: string; tag: string; definition: string; categories: CallTypeCategory[] };
 
 export type Opportunity = { record: FoRecord; report: FoReport | null };

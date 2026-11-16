@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useRef, useState, type MouseEvent } from "react";
 import { ChevronRight } from "lucide-react";
 
+import { detailContainerClassName } from "@/components/styles.ts";
 import { PlainText } from "@/components/plain-text.tsx";
 import { sourceLines, type VisibleSection } from "@/lib/report.ts";
 
@@ -96,7 +97,7 @@ export function ArticleView({ sections }: { sections: VisibleSection[] }) {
 
   return (
     <div ref={viewport} className="bg-white lg:min-h-0 lg:flex-1 lg:overflow-y-auto" aria-label="Funding opportunity article view">
-      <div className="mx-auto grid max-w-[var(--tool-detail-width)] items-start gap-8 px-5 py-7 sm:px-8 sm:py-9 lg:grid-cols-[calc(17rem*var(--tool-ui-scale))_minmax(0,1fr)] lg:gap-12">
+      <div className={`${detailContainerClassName} grid items-start gap-8 py-7 sm:py-9 lg:grid-cols-[calc(17rem*var(--tool-ui-scale))_minmax(0,1fr)] lg:gap-12`}>
         <nav
           aria-label="Article contents"
           className="min-w-0 rounded-lg border border-[#e4e8eb] bg-[#fbfcfd] p-4 text-sm lg:sticky lg:top-6 lg:max-h-[calc(100dvh-15rem)] lg:overflow-y-auto lg:rounded-none lg:border-0 lg:border-r lg:bg-white lg:py-0 lg:pl-0 lg:pr-5"

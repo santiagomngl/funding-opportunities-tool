@@ -3,7 +3,8 @@ import { Check, ChevronDown, Copy, ExternalLink, Share2 } from "lucide-react";
 
 import { Sheet, SheetContent, SheetHeader, SheetTitle } from "@/components/ui/sheet";
 import { ArticleView } from "@/components/article-view.tsx";
-import { CallTypeTags } from "@/components/call-type-tags.tsx";
+import { CallTypeDefinitions, CallTypeTags } from "@/components/call-type-tags.tsx";
+import { detailContainerClassName } from "@/components/styles.ts";
 import { PlainText, Sources } from "@/components/plain-text.tsx";
 import { formatProjectSize, formatProjectWindow, formatSubmissionWindow } from "@/lib/format.ts";
 import { splitReport, type VisibleCard, type VisibleSection } from "@/lib/report.ts";
@@ -83,34 +84,38 @@ export function OpportunitySheet({
       >
         {opportunity && (
           <>
-            <SheetHeader className="border-b border-[#dfe3e8] bg-white px-5 py-5 pr-14 sm:px-8 sm:py-6">
-              <div className="mx-auto flex w-full max-w-[var(--tool-detail-width)] flex-col gap-4 lg:flex-row lg:items-end lg:justify-between lg:gap-8">
-                <div className="min-w-0 flex-1">
-                  {opportunity.record.organization_or_parent_framework && (
-                    <p className="text-sm font-medium leading-[1.45] text-[#58636d]">
-                      {opportunity.record.organization_or_parent_framework}
-                    </p>
-                  )}
-                  <SheetTitle className="mt-2 max-w-5xl text-2xl font-semibold leading-[1.35] tracking-[-0.03em] text-[#27313a] sm:text-3xl sm:leading-[1.35]">
-                    {opportunity.record.display_title}
-                  </SheetTitle>
-                  <CallTypeTags record={opportunity.record} callTypes={callTypes} className="mt-3" />
-                  {opportunity.record.executive_summary && (
-                    <p className="mt-3 max-w-5xl text-base leading-[1.55] text-[#27313a]">
-                      {opportunity.record.executive_summary}
-                    </p>
-                  )}
-                  {hasContent && (
-                    <button
-                      type="button"
-                      onClick={() => setView((current) => (current === "cards" ? "article" : "cards"))}
-                      className="mt-3 rounded-lg border border-[#afd8d1] bg-[#d9eee9] px-3 py-2 text-sm font-semibold text-[#175e55] transition-colors hover:bg-[#cce7e0] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#83c6ba]"
-                    >
-                      {view === "cards" ? "Change to Article View" : "Change to Card View"}
-                    </button>
-                  )}
+            <SheetHeader className="border-b border-[#dfe3e8] bg-white py-4 pl-0 pr-0 sm:py-5">
+              <div className={detailContainerClassName}>
+                <div className="flex flex-col gap-3 pr-9 lg:flex-row lg:items-end lg:justify-between lg:gap-8">
+                  <div className="min-w-0 flex-1">
+                    {opportunity.record.organization_or_parent_framework && (
+                      <p className="text-sm font-medium leading-[1.45] text-[#58636d]">
+                        {opportunity.record.organization_or_parent_framework}
+                      </p>
+                    )}
+                    <SheetTitle className="mt-1.5 text-2xl font-semibold leading-[1.35] tracking-[-0.03em] text-[#27313a] sm:text-3xl sm:leading-[1.35]">
+                      {opportunity.record.display_title}
+                    </SheetTitle>
+                  </div>
+                  <Actions url={opportunity.record.url} onShare={share} shareStatus={shareStatus} />
                 </div>
-                <Actions url={opportunity.record.url} onShare={share} shareStatus={shareStatus} />
+                {/* Always on their own lines, below the title: tags, definitions, summary. */}
+                <CallTypeTags record={opportunity.record} callTypes={callTypes} className="mt-2.5" />
+                <CallTypeDefinitions record={opportunity.record} callTypes={callTypes} className="mt-2" />
+                {opportunity.record.executive_summary && (
+                  <p data-executive-summary className="mt-2.5 text-sm leading-[1.5] text-[#27313a]">
+                    {opportunity.record.executive_summary}
+                  </p>
+                )}
+                {hasContent && (
+                  <button
+                    type="button"
+                    onClick={() => setView((current) => (current === "cards" ? "article" : "cards"))}
+                    className="mt-2.5 rounded-lg border border-[#afd8d1] bg-[#d9eee9] px-3 py-1.5 text-sm font-semibold text-[#175e55] transition-colors hover:bg-[#cce7e0] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#83c6ba]"
+                  >
+                    {view === "cards" ? "Change to Article View" : "Change to Card View"}
+                  </button>
+                )}
               </div>
             </SheetHeader>
 
@@ -194,7 +199,7 @@ function NoReport({ record }: { record: FoRecord }) {
   ];
   return (
     <div className="bg-white lg:flex-1 lg:overflow-y-auto">
-      <div className="mx-auto max-w-[var(--tool-detail-width)] px-5 py-7 sm:px-8 sm:py-9">
+      <div className={`${detailContainerClassName} py-7 sm:py-9`}>
         <dl className="grid gap-x-7 gap-y-4 sm:grid-cols-3">
           {facts.map(([label, lines]) => (
             <div key={label}>
@@ -225,11 +230,13 @@ function NoReport({ record }: { record: FoRecord }) {
 function CardView({ side, main }: { side: VisibleSection[]; main: VisibleSection[] }) {
   return (
     <div className="bg-white lg:flex-1 lg:overflow-y-auto">
-      <div className="mx-auto grid max-w-[var(--tool-detail-width)] gap-8 px-5 py-7 sm:px-8 sm:py-9 lg:grid-cols-[var(--tool-sidebar-width)_minmax(0,1fr)] lg:items-start lg:gap-8 xl:grid-cols-[var(--tool-sidebar-wide-width)_minmax(0,1fr)]">
+      <div
+        className={`${detailContainerClassName} grid gap-8 py-7 sm:py-9 lg:grid-cols-[minmax(0,34fr)_minmax(0,66fr)] lg:items-start lg:gap-x-[2.7%]`}
+      >
         {side.length > 0 && (
           <aside
             data-report-side="left"
-            className="min-w-0 self-start break-words lg:col-start-1 lg:row-start-1 xl:sticky xl:top-8 xl:max-h-[calc(100dvh-4rem)] xl:overflow-y-auto"
+            className="min-w-0 self-start [overflow-wrap:anywhere] lg:col-start-1 lg:row-start-1 xl:sticky xl:top-8 xl:max-h-[calc(100dvh-4rem)] xl:overflow-y-auto"
           >
             <div className="overflow-hidden rounded-xl border border-[#dfe3e8] bg-white">
               <div className="grid gap-3 bg-[#f8fbfd] p-3">
@@ -248,7 +255,7 @@ function CardView({ side, main }: { side: VisibleSection[]; main: VisibleSection
                           <ChevronDown className="size-4 transition-transform duration-200 group-open/sidebar-section:rotate-180" />
                         </span>
                       </summary>
-                      <div className={`grid items-start gap-3 border-t bg-white/75 p-3 ${palette.divider}`}>
+                      <div className={`grid items-start gap-3 border-t bg-white p-3 ${palette.divider}`}>
                         {section.cards.map((card, cardIndex) => (
                           <ReportCardView key={card.id} card={card} index={cardIndex} compact />
                         ))}
@@ -357,7 +364,7 @@ function ReportCardView({
         </span>
       </summary>
       <div
-        className={`border-t px-4 pb-4 pt-3 ${compact ? "text-sm leading-[1.5]" : "text-base leading-[1.55] sm:px-5 sm:pb-5 sm:pt-4"} ${palette.divider}`}
+        className={`border-t px-4 pb-4 pt-3 text-black ${compact ? "text-sm leading-[1.5]" : "text-base leading-[1.55] sm:px-5 sm:pb-5 sm:pt-4"} ${palette.divider}`}
       >
         <PlainText text={card.answer} compact={compact} />
         <div className="mt-3 flex justify-end">
@@ -366,7 +373,7 @@ function ReportCardView({
             onClick={copyCard}
             aria-label={`Copy complete ${card.title} card`}
             title={copyStatus === "copied" ? "Copied" : "Copy card to clipboard"}
-            className="grid size-8 place-items-center rounded-md border border-[#d7e1e7] bg-white/85 text-[#364651] transition-colors hover:border-[#a9c9db] hover:bg-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#9bccea]"
+            className="grid size-8 place-items-center rounded-md border border-[#d7e1e7] bg-white text-[#364651] transition-colors hover:border-[#a9c9db] hover:bg-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#9bccea]"
           >
             {copyStatus === "copied" ? (
               <Check className="size-4 text-[#18734d]" aria-hidden="true" />
