@@ -92,14 +92,6 @@ export function inspectRecord(record, fileStem, requiredKeys) {
     problems.push("taxonomy_values must hold the lists topic, role, activity and outcome");
   }
 
-  const noDates = ["earliest_project_start_date", "project_end_date"].filter(
-    (key) => record[key] === null,
-  );
-  if (noDates.length) {
-    remarks.push(
-      `null project date (${noDates.join(", ")}): the record fails the gate; the site still shows it, without the timing filter for that date`,
-    );
-  }
   return { problems, remarks };
 }
 

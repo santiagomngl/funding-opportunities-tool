@@ -26,7 +26,7 @@ Known Calls and No Duplicate are a double check against duplicates. Known Calls 
    | `resources/sources/<name>.json` | One file per source, following `templates/source.template.json`. Written by people. | Read. In the run's own source file, change only what "End of the run" allows. |
    | `resources/projects/<name>.json` | One file per TenneT project, following `templates/project.template.json`: `project_name`, `project_description`, `priority`, `priority_until` and its `topic`, `role`, `activity` and `outcome` codes. Together they are the TenneT innovation profile. Written by people. | Read only. |
    | `resources/tennet_taxonomy.json` | The Topic, Role, Activity and Outcome values, each with a `code`, a `value` and a `definition`. | Read only. |
-   | `resources/call_types.json` | The categories of each call type, under `type_1`, `type_2` and `type_3`, each with a `code`, a `value` and a `definition`. It also holds a `types` list and a `tag` on each type and each category; only the website uses the tags, as plain-language text on its cards and filter. You use `code`, `value` and `definition`. | Read only. |
+   | `resources/call_types.json` | The categories of each call type, under `type_1`, `type_2` and `type_3`, each with a `code`, a `value` and a `definition`. | Read only. |
    | `templates/` | `fo_record.template.json`, `source.template.json`, `project.template.json`. | Read only. |
    | `data/fo_records/<id>.json` | One file per FO, written by the SA Agent. | Read all. Create new ones in Task 4. Never change or delete an existing one. |
    | `pdfs/` | The PDFs you download to read. | Save every PDF you download here, under its own file name. |
@@ -37,7 +37,7 @@ Known Calls and No Duplicate are a double check against duplicates. Known Calls 
 
 3. **Task by task.** Do the four tasks in order. Each task works only from the output of the task before it and the inputs listed for it, not from page text you read earlier. Write a task's output in full before starting the next task.
 
-4. **Official information only; never guess.** Fill a field only with a value the official call information supports. The one exception is the project start and end dates: when the call does not state them, the date helper (below) fills them with fallbacks, never `null`; for a rolling scheme that states no start, the start is set by the `call_year` rule in the field rules. Do not invent or infer missing facts, and do not infer a document's contents from a search snippet. Keep what the call states separate from your interpretation and from a proposed TenneT application, and say when something is your interpretation.
+4. **Official information only; never guess.** Fill a field only with a value the official call information supports. Do not invent or infer missing facts, and do not infer a document's contents from a search snippet. For the dates, try hard to make a date from what the call states (Task 4, step 1); a date the call gives no basis for is `null`. Keep what the call states separate from your interpretation and from a proposed TenneT application, and say when something is your interpretation.
 
 5. **Missing information** is `null` for a single value and `[]` for a list. Never N/A, Unknown, TBD, an empty string or any other text.
 
@@ -224,7 +224,7 @@ The aim is a substantiated first judgement, not a full review of the call.
 2. Stop reading once these points are clear enough to judge.
 3. Open a further document only when the main text points to a condition that could rule TenneT out or change the decision.
 4. For a long PDF, use the contents page to go straight to the sections on these points. Long documents often come back in parts: read every part that could address these points, using the fetch tool's offset or page option, or download the file into `pdfs/` if the tool has no such option. Before you write that the call excludes TenneT, or leave a field `null`, make sure you have read every part that could address it; if you could not, name the unread documents or pages in `status_rationale`.
-5. The remaining fields come from what you have already read. Do not go looking for them. Write down, from what you read, the five date facts the date helper needs (step 6): the pre-submission and full-proposal deadlines of the same round, the earliest project start, the latest project end, and the longest project duration the call allows, each as the call words it, or "not stated". Write down too whether the call is a rolling scheme; if it is and states no earliest project start, the start is 1 January of `call_year` (see the field rules for `call_year` and `earliest_project_start_date`). The project start and end dates are always filled, by the date helper; the other fields (deadlines, project sizes) are `null` when you did not find them.
+5. The remaining fields come from what you have already read. Do not go looking for them, except for the dates: try hard to find a date for each of them. Look in every part of the call page and main call text that could state one (key dates, timeline, project duration, implementation period). Write down the five date facts the date helper needs (step 6): the pre-submission and full-proposal deadlines of the same round, the earliest project start, the latest project end, and the longest project duration the call allows, each as the call words it. Write "not stated" only when the call gives no basis at all; a loose time ("Q2 2027", "end of 2029") is not "not stated", because the date helper turns it into a date. Write down too whether the call is a rolling scheme. A date the call gives no basis for is `null`, as are the other fields (project sizes) when you did not find them.
 6. If the `url` shows no call text, look for the call's official documents (call text, work programme) on the funder's site by the call's name or identifier. If you still cannot read the call, create no FO record for it and say why in the conversation. If only a key document is unreadable, note which document and which fact remain unverified. Do not infer its contents; treat those facts as unknown in step 3.
 7. If what you read shows that the call is not a funding call after all (Task 2, rule 5), create no FO record for it. That is the case when it gives only support that is repaid (a loan, credit, a guarantee, equity, a tax measure), when a mixed instrument has no grant part, or when it states no submission deadline, no opening date and no year for the call or round (for a rolling scheme: no year it is open in and no yearly budget). Say in the conversation why, naming the document and section, and go to the next candidate.
 
@@ -294,7 +294,7 @@ These codes become `taxonomy_values`.
    2. why it touches TenneT's field, naming the close project files; for Not relevant, why it does not;
    3. the route behind the call type; for Type 3, the rule that keeps TenneT out, or that the call sets out no route for TenneT;
    4. the categories and why they fit;
-   5. which project dates are fallbacks, if any: the date helper's `Fallback` line (step 6) says so. For a rolling scheme, also say that it is on a rolling basis and, if the call states no start, that the start date is set to 1 January of `call_year`. Since step 6 comes later, run the date helper now if you need its answer, and use the same arguments again in step 6.
+   5. which project date, if any, the date helper worked out from the other date and the call's longest duration: its `Derived` line (step 6) says so. For a rolling scheme, also say that it is on a rolling basis. Since step 6 comes later, run the date helper now if you need its answer, and use the same arguments again in step 6.
 
    For Not relevant, the first two sentences are enough, plus sentence 5 when it applies.
 2. Then set `call_type` and `category_codes` from step 3.
@@ -373,41 +373,40 @@ A filled-in record has this shape (the values are only illustrations):
 | `call_module_title` | Only when the call explicitly has modules whose conditions change per module: the module's official title, with its code in front when the call gives one (e.g. `CM2026-01 Integrated Energy System Resilience in a Changing Environment`). Otherwise `null`. |
 | `call_year` | The year of the call, four plain digits without quotes, e.g. `2026`: the year in the call's name or round; if the call names none, the year it opens (or opened) for submissions. For a rolling scheme: the current year if the scheme is still open for applications this year, otherwise the next year (for example, the 2026 budget is used up or the 2026 window has closed → `2027`). |
 | `url` | The official call page: the page of the specific call or module, not a programme homepage. |
-| `executive_summary` | A short summary of the opportunity, from the call's facts: what it funds, who may take part, the funding available and the key dates. If the call's amounts are not in euros, say so here and name the currency. For a rolling scheme, say that it is on a rolling basis with no fixed deadline and, if the call states no start, that the start date is set to 1 January of `call_year` so the call can be ranked. |
-| All five date fields | Set by the date helper (below), never by hand: copy the lines it prints. Each is an ISO date `YYYY-MM-DD` (a real calendar date, with no time or time zone) or, for the two deadlines only, `null`. |
+| `executive_summary` | A short summary of the opportunity, from the call's facts: what it funds, who may take part, the funding available and the key dates. If the call's amounts are not in euros, say so here and name the currency. For a rolling scheme, say that it is on a rolling basis with no fixed deadline. |
+| All five date fields | Set by the date helper (below), never by hand: copy the lines it prints. Each is an ISO date `YYYY-MM-DD` (a real calendar date, with no time or time zone) or `null`; only `date_last_checked` is always filled. |
 | `pre_submission_deadline` | The deadline of the pre-submission stage (pre-proposal, expression of interest or similar), only as a day the funder has published. `null` when the call has no pre-submission stage or publishes no day. |
 | `full_proposal_deadline` | The full-proposal deadline, only as a day the funder has published, otherwise `null`. Drop any time: "11 March 2027, 17:00 CET" → `2027-03-11`. With several rounds or cut-offs, take both deadlines from the same round: the next round whose full-proposal deadline has not passed. |
-| `earliest_project_start_date` | The earliest date a project may start. Always filled. When the call gives only a loose time, the date helper takes the first day of that period ("Q2 2027" → `2027-04-01`). For a rolling scheme that states no start: 1 January of `call_year`, given to the date helper as `--start <call_year>`. |
-| `project_end_date` | The date by which a project must end. Always filled. When the call gives only a loose time, the date helper takes the last day of that period ("June 2030" → `2030-06-30`). |
-| Fallback project dates | When the call does not state a project date, the date helper fills it: the missing date is worked out from the other one and the longest duration the call allows (3 years when it states none); when the call states neither date, the project starts on 1 January of `call_year` (or of the year of the run when `call_year` is `null`). Say in `status_rationale` which project dates are fallbacks. |
+| `earliest_project_start_date` | The earliest date a project may start. When the call gives only a loose time, the date helper takes the first day of that period ("Q2 2027" → `2027-04-01`). `null` when the call gives no basis for it (see "Derived project dates"). |
+| `project_end_date` | The date by which a project must end. When the call gives only a loose time, the date helper takes the last day of that period ("June 2030" → `2030-06-30`). `null` when the call gives no basis for it (see "Derived project dates"). |
+| Derived project dates | When the call states one project date and the longest duration it allows, the date helper works out the other date from them. Otherwise a project date the call does not state is `null`. Say in `status_rationale` which project date was derived. |
 | `minimum_project_size`, `maximum_project_size` | The smallest and largest total budget of one project that the call allows. Plain digits: no quotes, no currency symbol, no separators, e.g. `5000000`. Write the number the call states; a non-euro currency is mentioned in `executive_summary`. A single limit ("up to 60M") is the maximum: `maximum_project_size` `60000000`, `minimum_project_size` `null`, never `0`. If the call states only the grant per project and not the project budget, record the project size as the grant divided by the funding rate (use the rate for a large company if rates differ), as a whole number: a 60M grant at 70% → `85714286`. If the call states no limit, `null`. |
 | `date_last_checked` | ISO date of the run, `YYYY-MM-DD`, as the date helper prints it. |
-| `status_rationale` | The reason for the call type and categories, written before they are chosen, plus a note on any fallback project dates and, for a rolling scheme, that it is on a rolling basis. About four sentences at most, five with that note. |
+| `status_rationale` | The reason for the call type and categories, written before they are chosen, plus a note on any derived project date and, for a rolling scheme, that it is on a rolling basis. About four sentences at most, five with that note. |
 | `call_type` | Exactly one of `Type 1`, `Type 2`, `Type 3`, `Not relevant`. Nothing else, no other spelling. |
 | `category_codes` | A list of category codes from `resources/call_types.json`, e.g. `["C2.1", "C2.3"]`. Codes only, never the value names. Every code belongs to the chosen call type (C1 codes under `type_1`, C2 under `type_2`, C3 under `type_3`) and appears once. At least one code for Type 1, Type 2 and Type 3; `[]` for Not relevant. |
 | `taxonomy_values` | Four lists, `topic`, `role`, `activity` and `outcome`, holding codes from `resources/tennet_taxonomy.json`, e.g. `["T4", "T7"]`. Codes only, never the value names. Each code must exist under its own dimension (T codes in `topic`, R in `role`, A in `activity`, O in `outcome`) and appears once. `[]` when no code is supported. `role` is `[]` for a Type 3 call, and all four lists are `[]` for a Not relevant call. |
 
-**Always filled, never `null`:** `id`, `source`, `display_title`, `call_title`, `executive_summary`, `earliest_project_start_date`, `project_end_date`, `date_last_checked`, `status_rationale`, `call_type`.
+**Always filled, never `null`:** `id`, `source`, `display_title`, `call_title`, `executive_summary`, `date_last_checked`, `status_rationale`, `call_type`.
 
 **Missing information:** every other single value is `null` when the information is missing, and a list is `[]`. Never N/A, Unknown, TBD, an empty string or any other text.
 
 ## The date helper
 
-The date helper turns the date facts you read in the call into the five date fields, in the format the gate requires. Run it in Task 4, step 6, from any folder. It writes nothing. It prints `OK` with five lines to copy into the record and a `Fallback` line, or `ERROR` with every problem it found.
+The date helper turns the date facts you read in the call into the five date fields, in the format the gate requires. Run it in Task 4, step 6, from any folder. It writes nothing. It prints `OK` with five lines to copy into the record and a `Derived` line, or `ERROR` with every problem it found.
 
 Give every argument; write `null` for a fact the call does not state:
 
 | Argument | What to give |
 | --- | --- |
-| `--call-year` | The record's `call_year`, e.g. `2027`, or `null`. |
-| `--start` | The earliest project start the call states: `YYYY-MM-DD`, or a loose time as `YYYY-MM` (a month), `YYYY-Qn` (a quarter) or `YYYY` (a year). "start of February 2027" → `2027-02`; "Q2 2027" → `2027-Q2`. For a rolling scheme that states no start, give `call_year`, e.g. `2027`. |
+| `--start` | The earliest project start the call states: `YYYY-MM-DD`, or a loose time as `YYYY-MM` (a month), `YYYY-Qn` (a quarter) or `YYYY` (a year). "start of February 2027" → `2027-02`; "Q2 2027" → `2027-Q2`. |
 | `--end` | The latest project end the call states, in the same formats. "June 2030" → `2030-06`; "end of 2029" → `2029`. |
 | `--duration-months` | The longest project duration the call allows, in whole months: "3 years" → `36`; "24 to 48 months" → `48`. |
 | `--pre` | The pre-submission deadline as `YYYY-MM-DD`, without a time, or `null`. |
 | `--full` | The full-proposal deadline of the same round as `YYYY-MM-DD`, without a time, or `null`. |
 
 ```bash
-python3 - --call-year <year or null> --start <start or null> --end <end or null> --duration-months <months or null> --pre <date or null> --full <date or null> <<'EOF'
+python3 - --start <start or null> --end <end or null> --duration-months <months or null> --pre <date or null> --full <date or null> <<'EOF'
 import argparse, calendar, re, sys
 from datetime import date, datetime, timedelta
 try:
@@ -416,7 +415,6 @@ try:
 except Exception:
     today = date.today()
 
-DEFAULT_MONTHS = 36
 errors = []
 
 
@@ -466,7 +464,6 @@ def add_months(d, n):
 
 
 a = argparse.ArgumentParser()
-a.add_argument("--call-year")
 a.add_argument("--start")
 a.add_argument("--end")
 a.add_argument("--duration-months")
@@ -489,11 +486,6 @@ if pre and full and pre > full:
     errors.append("pre_submission_deadline is after full_proposal_deadline: take both from the same round (the next round whose full-proposal deadline has not passed)")
 
 # Project dates
-cy = optional(args.call_year)
-if cy is not None and not re.fullmatch(r"\d{4}", cy):
-    errors.append(f"--call-year: {cy!r} must be four digits, or null")
-year = int(cy) if cy and re.fullmatch(r"\d{4}", cy) else today.year
-
 dm = optional(args.duration_months)
 months = None
 if dm is not None:
@@ -510,16 +502,14 @@ e = pe[1] if pe else None
 if errors:
     stop()
 
-n = months or DEFAULT_MONTHS
-start_fallback = s is None
-end_fallback = e is None
-if s is None and e is None:
-    s = date(year, 1, 1)
-if s is None:
-    s = add_months(e + timedelta(days=1), -n)
-if e is None:
-    e = add_months(s, n) - timedelta(days=1)
-if s > e:
+derived = []
+if s is None and e is not None and months:
+    s = add_months(e + timedelta(days=1), -months)
+    derived.append("earliest_project_start_date")
+if e is None and s is not None and months:
+    e = add_months(s, months) - timedelta(days=1)
+    derived.append("project_end_date")
+if s and e and s > e:
     errors.append(f"the project start {s} is after the project end {e}: re-read the call's dates; --start is the earliest start, --end the latest end")
     stop()
 
@@ -532,16 +522,10 @@ print(f'"full_proposal_deadline": {iso(full)},')
 print(f'"earliest_project_start_date": {iso(s)},')
 print(f'"project_end_date": {iso(e)},')
 print(f'"date_last_checked": {iso(today)},')
-notes = []
-if start_fallback:
-    notes.append("earliest_project_start_date")
-if end_fallback:
-    notes.append("project_end_date")
-if notes:
-    basis = f"a duration of {months} months stated by the call" if months else f"the default of {DEFAULT_MONTHS} months"
-    print("Fallback (say so in status_rationale): " + " and ".join(notes) + f", from {basis}" + (f" and 1 January {year}" if len(notes) == 2 else ""))
+if derived:
+    print("Derived (say so in status_rationale): " + derived[0] + f", from the other project date and the call's duration of {months} months")
 else:
-    print("Fallback: none")
+    print("Derived: none")
 EOF
 ```
 
@@ -549,8 +533,8 @@ What it does:
 
 1. It checks that each deadline is a real calendar day and that the pre-submission deadline is not after the full-proposal deadline.
 2. It turns a loose start into the first day of its period and a loose end into the last day.
-3. It fills a missing project date: from the other date and the duration (3 years when the call states none), or, when both are missing, from 1 January of `call_year` (or of the year of the run).
-4. It checks that the start is not after the end.
+3. It works out a missing project date from the other one and the longest duration the call states. When the call states no duration, or neither project date, the missing date is `null`.
+4. It checks that the start is not after the end, when both are set.
 5. It takes `date_last_checked` from the system clock (Europe/Amsterdam).
 
 On `ERROR`, fix the argument it names. Check first that you did not swap start and end, or take the two deadlines from different rounds.
@@ -569,8 +553,8 @@ PLACEHOLDERS = {"", "n/a", "na", "unknown", "tbd", "tbc", "not applicable", "non
 CALL_TYPES = {"Type 1": "type_1", "Type 2": "type_2", "Type 3": "type_3", "Not relevant": None}
 ALWAYS_TEXT = ("source", "display_title", "call_title", "executive_summary", "status_rationale")
 TEXT_OR_NULL = ("organization_or_parent_framework", "programme", "call_module_title", "url")
-DATES = ("pre_submission_deadline", "full_proposal_deadline")
-REQUIRED_DATES = ("earliest_project_start_date", "project_end_date", "date_last_checked")
+DATES = ("pre_submission_deadline", "full_proposal_deadline", "earliest_project_start_date", "project_end_date")
+REQUIRED_DATES = ("date_last_checked",)
 problems = []
 
 
@@ -765,7 +749,7 @@ What it checks:
 6. `source` is the `source_name` of a file in `resources/sources/`.
 7. `display_title` follows its rule.
 8. `call_year` is a four-digit year (a number, or text such as `"2026"`) or `null`; `url` is a web address or `null`.
-9. The deadlines are real ISO dates or `null`; the project start and end dates and `date_last_checked` are always real ISO dates; the pre-submission deadline is not after the full-proposal deadline, and the start date is not after the end date.
+9. The deadlines and the project start and end dates are real ISO dates or `null`; `date_last_checked` is always a real ISO date; the pre-submission deadline is not after the full-proposal deadline, and the start date is not after the end date.
 10. Project sizes are plain whole numbers or `null`, and the minimum is not larger than the maximum.
 11. `call_type` is exactly `Type 1`, `Type 2`, `Type 3` or `Not relevant`.
 12. `category_codes` holds codes of the chosen call type from `call_types.json`, each once: at least one for Type 1, Type 2 and Type 3, none for Not relevant.
