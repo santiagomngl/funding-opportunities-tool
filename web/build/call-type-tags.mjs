@@ -9,7 +9,8 @@
 
 /**
  * @typedef {{ tag: string, definition: string }} Tag
- * @typedef {{ code: string, tag: string, definition: string }} CallTypeCategory
+ * @typedef {{ tag: string, value: string, definition: string }} CategoryTag
+ * @typedef {{ code: string, tag: string, value?: string, definition: string }} CallTypeCategory
  * @typedef {{ type: string, tag: string, definition: string, categories: CallTypeCategory[] }} CallTypeGroup
  */
 
@@ -20,7 +21,7 @@
  *
  * @param {{ call_type: string, category_codes: string[] }} record
  * @param {CallTypeGroup[]} callTypes
- * @returns {{ type: Tag | null, categories: Tag[], unknownCodes: string[] }}
+ * @returns {{ type: Tag | null, categories: CategoryTag[], unknownCodes: string[] }}
  */
 export function tagsFor(record, callTypes) {
   const group = callTypes.find((entry) => entry.type === record.call_type);
@@ -28,7 +29,7 @@ export function tagsFor(record, callTypes) {
   const unknownCodes = [];
   for (const code of record.category_codes) {
     const category = group?.categories.find((entry) => entry.code === code);
-    if (category) categories.push({ tag: category.tag, definition: category.definition });
+    if (category) categories.push({ tag: category.tag, value: category.value ?? "", definition: category.definition });
     else unknownCodes.push(code);
   }
   return {

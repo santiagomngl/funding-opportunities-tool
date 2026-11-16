@@ -330,7 +330,13 @@ export default function App() {
     <main className="min-h-screen bg-[#f6f7f9] text-[#27313a]">
       <header className="bg-[#f6f7f9]">
         <div className="mx-auto flex min-h-24 max-w-[var(--tool-header-width)] items-center gap-3 px-4 py-4 sm:gap-4 sm:px-7">
-          <span aria-hidden="true" className="h-16 w-16 shrink-0 sm:h-20 sm:w-20" />
+          <img
+            src="/innovation-funding-desk-logo.png"
+            alt="Innovation Funding Desk logo"
+            width={778}
+            height={771}
+            className="h-16 w-auto shrink-0 object-contain sm:h-20"
+          />
           <p className="desk-brand-title min-w-0 text-xl font-extrabold leading-tight tracking-[-0.035em] sm:text-3xl">
             Innovation Funding Desk
           </p>

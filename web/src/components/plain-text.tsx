@@ -43,7 +43,7 @@ export function Sources({ sources, className = "" }: { sources: string; classNam
   const lines = sourceLines(sources);
   return (
     <div
-      className={`${className} text-xs font-medium leading-[1.4] tracking-[0.01em] text-[#6b7781]`}
+      className={`${className} text-xs font-normal leading-[1.4] text-[#56616b]`}
     >
       <p>{lines.length > 1 ? "Sources:" : "Source:"}</p>
       {lines.map((line, index) => (

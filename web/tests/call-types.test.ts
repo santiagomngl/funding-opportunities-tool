@@ -93,11 +93,22 @@ test("tags: a code that is unknown, or belongs to another type, gets no tag and 
 
 test("tags: the wording comes from the data, not from the code", () => {
   const edited: CallTypeGroup[] = [
-    { type: "Type 1", tag: "An edited type tag", definition: "", categories: [{ code: "C1.1", tag: "An edited category tag", definition: "" }] },
+    { type: "Type 1", tag: "An edited type tag", definition: "", categories: [{ code: "C1.1", tag: "An edited category tag", value: "An edited value", definition: "An edited definition" }] },
   ];
   const { type, categories } = tagsFor({ call_type: "Type 1", category_codes: ["C1.1"] }, edited);
   assert.equal(type?.tag, "An edited type tag");
   assert.deepEqual(categories.map((c) => c.tag), ["An edited category tag"]);
+  assert.deepEqual(categories.map((c) => [c.value, c.definition]), [["An edited value", "An edited definition"]]);
+});
+
+test("definitions: the type's definition and one per category code, exactly as in the file", () => {
+  const { type, categories } = tagsFor({ call_type: "Type 2", category_codes: ["C2.1", "C2.4"] }, callTypes);
+  const raw = (code: string) => rawCallTypes.type_2.find((c: { code: string }) => c.code === code);
+  assert.equal(type?.definition, rawCallTypes.types[1].definition);
+  assert.deepEqual(
+    categories.map((c) => [c.value, c.definition]),
+    [[raw("C2.1").value, raw("C2.1").definition], [raw("C2.4").value, raw("C2.4").definition]],
+  );
 });
 
 // --- Filter -------------------------------------------------------------------

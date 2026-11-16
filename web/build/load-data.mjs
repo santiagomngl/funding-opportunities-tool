@@ -214,6 +214,7 @@ function loadCallTypes(file, warn) {
           categories.push({
             code: category.code,
             tag: category.tag,
+            value: isText(category.value) ? category.value : "",
             definition: typeof category.definition === "string" ? category.definition : "",
           });
         }

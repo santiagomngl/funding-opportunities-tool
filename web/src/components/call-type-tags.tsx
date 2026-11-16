@@ -36,3 +36,35 @@ export function CallTypeTags({
     </ul>
   );
 }
+
+/**
+ * The definitions behind the tags, from resources/call_types.json: the type's
+ * definition once, then one per category, each led by the category's `value`.
+ * Shown exactly as written, always in full.
+ */
+export function CallTypeDefinitions({
+  record,
+  callTypes,
+  className = "",
+}: {
+  record: FoRecord;
+  callTypes: CallTypeGroup[];
+  className?: string;
+}) {
+  const { type, categories } = tagsFor(record, callTypes);
+  const lines = [
+    ...(type?.definition ? [{ lead: "", text: type.definition }] : []),
+    ...categories.filter((category) => category.definition).map((category) => ({ lead: category.value, text: category.definition })),
+  ];
+  if (lines.length === 0) return null;
+  return (
+    <ul data-call-type-definitions className={`space-y-1 text-sm leading-[1.45] text-[#27313a] ${className}`}>
+      {lines.map((line, index) => (
+        <li key={index}>
+          {line.lead && <span className="font-semibold">{line.lead}: </span>}
+          <span data-definition>{line.text}</span>
+        </li>
+      ))}
+    </ul>
+  );
+}
