@@ -1,0 +1,47 @@
+{
+  "id": "20261115-143818-08",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-CL5-2026-11-D3-23 Data sharing to support the training and development of AI foundation models in the energy sector – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "ENERGY (HORIZON-CL5-2026-11)",
+  "call_module_title": "HORIZON-CL5-2026-11-D3-23 Data sharing to support the training and development of AI foundation models in the energy sector",
+  "call_year": 2026,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2026-11-D3-23",
+  "executive_summary": "Supports secure sharing of substantial datasets and the training and validation of AI foundation models for grid planning, control, forecasting, flexibility or maintenance. Eligible consortium beneficiaries can receive up to 70% for for-profit beneficiaries under Horizon Europe. The indicative topic budget is EUR 30 million, with around EUR 10 million expected per project. Opening 2026-08-04, full proposal deadline 2026-12-01 at 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2026-12-01",
+  "earliest_project_start_date": "2026-01-01",
+  "project_end_date": "2028-12-31",
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-15",
+  "status_rationale": "Work Programme Part 8, pp. 169–172, Scope and Specific conditions, funds this work, which connects to DataFleX and TwinEU. The scope names grid operators as data owners and model deployers. Annex B permits Dutch company beneficiaries and the proposal is expected to show access to substantial relevant datasets at submission. The funded consortium role supports Type 1 and C1.3. The helper supplied both project dates from 1 January 2026 using its 36-month default.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T1",
+      "T3",
+      "T5",
+      "T8"
+    ],
+    "role": [
+      "R2",
+      "R5",
+      "R9"
+    ],
+    "activity": [
+      "A6",
+      "A7",
+      "A8"
+    ],
+    "outcome": [
+      "O2",
+      "O10",
+      "O11"
+    ]
+  }
+}

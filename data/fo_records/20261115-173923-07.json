@@ -1,0 +1,48 @@
+{
+  "id": "20261115-173923-07",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-CL4-2027-04-DATA-09 Energy efficiency and sustainability of AI data processing in Data Centres (IA) – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "DIGITAL (HORIZON-CL4-2027-04)",
+  "call_module_title": "HORIZON-CL4-2027-04-DATA-09 Energy efficiency and sustainability of AI data processing in Data Centres (IA)",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-04-DATA-09",
+  "executive_summary": "Supports open pilot sites that improve the energy efficiency of AI data processing, including a work area on integrating data centres into energy-system planning and operation. Eligible consortia can include data centre operators, technical partners and energy-system organisations for the integration work. The topic budget is EUR 39 million, with EUR 9–10 million expected per project. Opening 2026-11-17. Full proposal deadline 2027-03-18 at 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-03-18",
+  "earliest_project_start_date": "2027-01-01",
+  "project_end_date": "2029-12-31",
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-15",
+  "status_rationale": "Digital, Industry and Space Work Programme, pp. 121–123, describes the eligible work in Scope. The Dutch beneficiary route is available subject to ownership screening. Scope area 6 explicitly covers energy-system planning and operation, where TenneT could validate grid-aware operation. This supports Type 1 and C1.3. Both project dates are date-helper defaults based on 1 January 2027 and 36 months.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T1",
+      "T5",
+      "T10"
+    ],
+    "role": [
+      "R2",
+      "R5",
+      "R10"
+    ],
+    "activity": [
+      "A4",
+      "A6",
+      "A7",
+      "A8",
+      "A11"
+    ],
+    "outcome": [
+      "O5",
+      "O6",
+      "O10"
+    ]
+  }
+}

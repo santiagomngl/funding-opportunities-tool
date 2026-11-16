@@ -1,0 +1,40 @@
+{
+  "id": "20261115-213307-05",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-MISS-2027-03-OCEAN-05 Large-scale demonstration of protection, restoration and management of blue forest ecosystems in European sea basins – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "Supporting the implementation of the Restore our Ocean and Waters Mission (HORIZON-MISS-2027-03)",
+  "call_module_title": "HORIZON-MISS-2027-03-OCEAN-05 Large-scale demonstration of protection, restoration and management of blue forest ecosystems in European sea basins",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2027-03-OCEAN-05",
+  "executive_summary": "This Innovation Action supports large-scale protection, restoration and management of vegetated marine and coastal habitats. Projects address one European basin and work with public authorities and communities. Eligible consortia must collaborate with public authorities and engage communities, scientists and NGOs. The topic budget is EUR 15.90 million with EUR 3.50–3.975 million expected per project. It opens 2027-02-09 and closes 2027-09-21 at 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-09-21",
+  "earliest_project_start_date": "2027-01-01",
+  "project_end_date": "2029-12-31",
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-15",
+  "status_rationale": "Missions Work Programme, pp. 136–139, Specific conditions and Scope, defines the work. Marine monitoring and restoration evidence can inform offshore planning, but the core work is habitat restoration and management and establishes no sufficiently evidenced TSO work package. The connection to FlatEMF study supports Type 3 and C3.7. The date helper provides both project dates as defaults from 1 January 2027 and 36 months.",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.7"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T9"
+    ],
+    "role": [],
+    "activity": [
+      "A2",
+      "A3",
+      "A7",
+      "A8",
+      "A16"
+    ],
+    "outcome": [
+      "O5"
+    ]
+  }
+}

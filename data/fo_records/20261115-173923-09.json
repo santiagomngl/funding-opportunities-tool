@@ -1,0 +1,45 @@
+{
+  "id": "20261115-173923-09",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-CL5-2027-04-Two-Stage-D2-07 Novel approaches towards next-generation battery concepts, leveraging the enabling role of innovative advanced materials (BATT4EU and IAM4EU Partnerships) – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "BATTERIES and MOBILITY (HORIZON-CL5-2027-04-Two-Stage)",
+  "call_module_title": "HORIZON-CL5-2027-04-Two-Stage-D2-07 Novel approaches towards next-generation battery concepts, leveraging the enabling role of innovative advanced materials (BATT4EU and IAM4EU Partnerships)",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-04-Two-Stage-D2-07",
+  "executive_summary": "Researches next-generation battery materials and cell-level concepts in one of three areas. Area C covers stationary grid storage and energy-intensive industry. Eligible research consortia can propose an area for mobility, grid storage or energy-intensive industry. The topic budget is EUR 48 million, with around EUR 4.8 million expected per project. Opening 2026-12-15. First stage 2027-04-14, invited full proposals 2027-10-07. Both submission deadlines are at 17:00 Brussels time.",
+  "pre_submission_deadline": "2027-04-14",
+  "full_proposal_deadline": "2027-10-07",
+  "earliest_project_start_date": "2027-01-01",
+  "project_end_date": "2029-12-31",
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-15",
+  "status_rationale": "Climate, Energy and Mobility Work Programme, pp. 101–104, describes the eligible work in Scope. General Annex B allows funded Dutch consortium participation. Area C explicitly calls for system-level integration potential and multi-hour grid flexibility, which can support TSO analysis of integration requirements. This supports Type 1 and C1.3. Both project dates are date-helper defaults based on 1 January 2027 and 36 months.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T5",
+      "T9"
+    ],
+    "role": [
+      "R2",
+      "R10"
+    ],
+    "activity": [
+      "A2",
+      "A3",
+      "A5",
+      "A8"
+    ],
+    "outcome": [
+      "O5",
+      "O6",
+      "O10"
+    ]
+  }
+}

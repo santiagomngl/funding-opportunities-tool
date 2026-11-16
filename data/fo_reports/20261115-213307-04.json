@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "Demonstrate practical ways to make riverbanks, coasts, waterfront cities and islands more resilient to climate change.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Expected Outcome"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Demonstrate ways to protect or restore riverbanks and coasts in the selected sea basin. The call encourages nature-based measures that can improve climate resilience and biodiversity.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Scope"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "Waterfront and island communities need ways to manage flooding, storms and erosion while keeping the benefits that functioning coastal and riparian habitats provide.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Expected Outcome"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "Deliver monitored demonstrations and a roadmap for scaling or replication. Provide guidance and practical support for authorities and other regions that may adopt the solutions.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Expected Outcome"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Reduce vulnerability to climate hazards and improve how riverbank and coastal areas function. The call also looks for social and economic benefits for communities.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Expected Outcome\nHorizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Scope"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "Help other regions prepare replication plans and build capacity. Cooperate with the support action for the selected sea basin and link relevant monitoring to the European Digital Twin Ocean (a virtual model of the ocean).",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Expected Outcome"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "The proposal needs at least three independent funded partners in three different eligible countries. At least one must be established in a European Union Member State. The other two must be established in different Member States or countries associated with Horizon Europe (countries formally participating in the European research programme).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "Work closely with public authorities and involve water-management bodies where relevant. The proposal should engage at least five additional regions represented by local or regional authorities or public bodies.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "Reserve effort to support additional regions and liaise with the support action for the selected sea basin. Separate trials and local monitoring from replication assistance.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Specific conditions"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "The group appoints a funded partner to lead the work on coastal and waterfront resilience and represent it to the funder.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "TenneT could coordinate the project if it can validate a coastal adaptation measure where electricity infrastructure is part of the wider community solution. The applicants choose their coordinator (the funded partner that represents the group to the funder).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Scope"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "TenneT could take part in coastal and waterfront resilience without receiving a grant. As an associated partner (an organisation that works without a grant), it could validate a coastal adaptation measure where electricity infrastructure is part of the wider community solution. It would cover its own costs and would not count towards the minimum number of funded partners.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Scope"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "TenneT can receive up to 70% of eligible costs (project costs the grant rules allow) for qualifying work. The Dutch entity could validate a coastal adaptation measure where electricity infrastructure is part of the wider community solution. Budget at least 30% of those costs from other resources.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Scope"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT could share knowledge of coastal grid exposure as part of a broader adaptation demonstration. Its work should help test an intervention that benefits the surrounding area.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Expected Outcome"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "Projects should demonstrate effective solutions and can build on existing research. The call encourages nature-based approaches where they can improve resilience and biodiversity together.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Scope"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Innovation can combine ecosystem measures, site design, coastal or water management and the ways public authorities implement and maintain the results.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Scope"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Select sites, demonstrate solutions in real conditions, monitor results locally and help additional regions prepare to replicate the measures.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Scope"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "The work should reach TRL 6–8 (technology readiness level: from demonstration in relevant conditions to a complete, qualified system) by project end.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Specific conditions"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "Run at least six real-condition demonstrations in at least three countries of the selected basin. Use varied sites, including waterfront cities and islands.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Specific conditions"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "Fit the measures to coastal or river systems and local authority plans. Connect demonstration and replication work with relevant programmes and the support action for the selected sea basin.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Scope"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "Demonstrate effectiveness in real conditions across at least six activities in at least three countries in the selected basin. Monitor both climate resilience and biodiversity benefits.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Expected Outcome"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "Work closely with responsible public authorities and local stakeholders. At least five additional regions are expected to engage in knowledge exchange and replication planning.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Scope"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "If the project collects marine observations in the field, publish them through the European Marine Observation and Data Network. Make the data findable, accessible, interoperable and reusable.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Specific conditions"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "The Commission indicates EUR 35.7 million for coastal and waterfront resilience. It expects 4 awards.\n- Grant request: EUR 8–8.925 million per project is indicative. The Commission can select a different request.\n- Funding form: Budget-based grant (paid using approved costs or rates for the funded work).",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Missions · p. 26 · Overview of this call\nIncreasing riparian and coastal areas resilience to climate change, including in waterfront cities and islands · Budget overview"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "For-profit organisations can receive up to 70% towards coastal and waterfront resilience.\n- For-profit organisations: Up to 70% of eligible costs (project costs the grant rules allow), leaving at least 30% to cover.\n- Non-profit legal entities: Up to 100% of eligible costs (project costs the grant rules allow).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Specific conditions"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Budget separately for the coastal demonstrations and any optional funding to additional regions.\n- Eligible costs (project costs the grant rules allow): Personnel, purchases and eligible subcontracting.\n- Overheads and value added tax (tax on purchases): The indirect-cost rate (overheads such as general office expenses) is 25% of the eligible direct-cost base after exclusions. value added tax is eligible where it is unrecoverable and the cost otherwise qualifies.\n- Onward grants: Up to EUR 100,000 once per eligible local or regional public authority outside the same project's beneficiary (organisations formally responsible for funded work) demonstration sites.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 32 · Budget categories and cost eligibility rules\nEU Annotated Grant Agreement · p. 143 · Value added tax\nHorizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Specific conditions"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "Plan cash flow for coastal and waterfront resilience around the initial advance and later payments.\n- Payment model: Usually pre-financing (an advance at the start of the grant), then interim payments linked to reporting and a final balance.\n- Retention or guarantee: 5–8% of the maximum grant is deducted from pre-financing for the mutual insurance mechanism (a common fund covering grant recovery risks).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 33 · Reporting & payment arrangements\nHorizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Specific conditions"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "Apply for coastal and waterfront resilience through the European Funding & Tenders Portal in one stage.\n- Full proposal: 21 September 2027, 17:00 Brussels time. Submit Part A (online administration form) and Part B (technical proposal). Part B is limited to 40 pages.\n- Opening: 9 February 2027.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · p. 26 · Overview of this call\nIncreasing riparian and coastal areas resilience to climate change, including in waterfront cities and islands · General information\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 4 · Page limits\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents"
+        },
+        {
+          "title": "Project window",
+          "answer": "The grant agreement (the contract setting the funded work and payment rules) sets the start date and duration for coastal and waterfront resilience.\n- Required start: Work normally starts after the grant agreement is signed. A reasoned exception needs approval.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · Starting date & project duration\nHorizon Europe Model Grant Agreement · p. 21 · Article 4 — Duration and starting date\nHorizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Specific conditions"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "The Commission’s timetable for assessing and contracting coastal and waterfront resilience is indicative.\n- Expected invitation or assessment result: Around five months after the deadline.\n- Grant agreement (the contract setting the funded work and payment rules): The indicative signature date is around eight months after the deadline.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · Indicative timetable for evaluation and for signature of the grant agreement"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "Use the portal’s forms to submit the proposal and supporting documents for coastal and waterfront resilience.\n- Application form: Complete Part A online and upload Part B as a fixed-format document with the required annexes.\n- Registration: Enter a participant identification code for each beneficiary (organisations formally responsible for funded work) and affiliated entity (organisations legally linked to funded partners).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Participant Register\nHorizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Specific conditions"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Coastal and waterfront resilience proposals compete on research quality, impact and the quality of the delivery plan.\n- Evaluation criteria: Excellence, impact, and quality and efficiency of implementation.\n- Thresholds: At least 3/5 per criterion and 10/15 overall.\n- Weighting: Impact is multiplied by 1.5 for the ranking.\n- Ranking rules: Mission basin portfolio: The highest-ranked proposal in each basin receives priority if it clears all thresholds.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria\nHorizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Specific conditions"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "The coastal-resilience project has conditions for partner regions and for sharing marine observations.\n- Conditional — Satellite services: If satellite-based Earth observation, positioning, navigation or timing is used, beneficiaries (organisations formally responsible for funded work) must use Copernicus for Earth observation and/or Galileo or the European Geostationary Navigation Overlay Service for satellite positioning, navigation or timing.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Missions · pp. 123–127 · Scope"
+        }
+      ]
+    }
+  ]
+}

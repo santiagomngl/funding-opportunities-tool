@@ -1,0 +1,45 @@
+{
+  "id": "20261115-173923-04",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-MISS-2027-01-CLIMA-02 Researching and applying the potential of Artificial Intelligence to foster climate resilience at the regional and local levels – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "Supporting the implementation of the Adaptation to Climate Change Mission (HORIZON-MISS-2027-01)",
+  "call_module_title": "HORIZON-MISS-2027-01-CLIMA-02 Researching and applying the potential of Artificial Intelligence to foster climate resilience at the regional and local levels",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2027-01-CLIMA-02",
+  "executive_summary": "Researches AI tools for more accessible local climate data or sector-specific adaptation. The second objective explicitly permits energy-system resilience and expects private-sector expertise. Eligible consortia can include private-sector experts in the sectoral adaptation route. The topic budget is EUR 12 million, with around EUR 3 million expected per project. Opening 2027-02-09. Full proposal deadline 2027-09-21 at 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-09-21",
+  "earliest_project_start_date": "2027-01-01",
+  "project_end_date": "2029-12-31",
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-15",
+  "status_rationale": "Missions Work Programme, pp. 61–63, describes the eligible work in Scope. Annex B permits a Dutch funded beneficiary and Objective 2 explicitly calls for relevant private-sector actors. TenneT could build and validate a grid resilience application across the required authorities' territories. This supports Type 1 and C1.3. Both project dates are date-helper defaults based on 1 January 2027 and 36 months.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T1",
+      "T8"
+    ],
+    "role": [
+      "R2",
+      "R5",
+      "R9",
+      "R10"
+    ],
+    "activity": [
+      "A2",
+      "A6",
+      "A7",
+      "A8"
+    ],
+    "outcome": [
+      "O9"
+    ]
+  }
+}

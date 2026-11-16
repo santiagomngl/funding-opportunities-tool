@@ -1,0 +1,45 @@
+{
+  "id": "20261115-213307-04",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-MISS-2027-03-OCEAN-01 Increasing riparian and coastal areas resilience to climate change, including in waterfront cities and islands. – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "Supporting the implementation of the Restore our Ocean and Waters Mission (HORIZON-MISS-2027-03)",
+  "call_module_title": "HORIZON-MISS-2027-03-OCEAN-01 Increasing riparian and coastal areas resilience to climate change, including in waterfront cities and islands.",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2027-03-OCEAN-01",
+  "executive_summary": "This Innovation Action supports real-condition demonstrations of climate adaptation in coastal and riparian areas. A proposal addresses one Mission basin and should demonstrate solutions in at least three countries of that basin. Eligible consortia should work closely with local authorities and water management bodies. The topic budget is EUR 35.70 million with EUR 8–8.925 million expected per project. It opens 2027-02-09 and closes 2027-09-21 at 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-09-21",
+  "earliest_project_start_date": "2027-01-01",
+  "project_end_date": "2029-12-31",
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-15",
+  "status_rationale": "Missions Work Programme, pp. 123–127, Specific conditions and Scope, defines the work. An eligible Dutch TSO can join a funded cross-sector demonstration with public authorities where flood resilience of coastal energy infrastructure is integral to the site and benefits communities. The connection to Hollandse Kust (west Beta) supports Type 1 and C1.3. The date helper provides both project dates as defaults from 1 January 2027 and 36 months.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T8",
+      "T9"
+    ],
+    "role": [
+      "R2",
+      "R10"
+    ],
+    "activity": [
+      "A3",
+      "A7",
+      "A8",
+      "A15",
+      "A16"
+    ],
+    "outcome": [
+      "O5",
+      "O9"
+    ]
+  }
+}

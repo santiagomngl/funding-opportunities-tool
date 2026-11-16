@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "Develop and validate defensive tools, procedures and training that help maintain essential services.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 87–90 · Scope\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 87–90 · Expected Outcome"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Develop and validate protective measures, tools, training and procedures that help operators and authorities maintain essential services. Consider how dependencies and changing hazards affect readiness.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 87–90 · Scope"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "Operators and public authorities need better ways to assess physical risks and maintain essential services as hazards and operating conditions change.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 87–90 · Scope\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 87–90 · Expected Outcome"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "Produce defensive tools, operator guidance and training or procedures that address the physical-security needs selected in the proposal.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 87–90 · Scope\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 87–90 · Expected Outcome"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Improve risk assessment and operating readiness. The selected measures should help maintain or restore the continuity of essential services.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 87–90 · Expected Outcome"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "Coordinate with relevant earlier European resilience projects to share what works and avoid duplicating research. Prepare materials and procedures that practitioners can use.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 87–90 · Scope"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "The consortium must include at least three funded security practitioners and satisfy the general three-country consortium minimum. At least one must be established in a European Union Member State. The other two must be established in different Member States or countries associated with Horizon Europe (countries formally participating in the European research programme).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 87–90 · Specific conditions"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "The proposal needs at least three funded security practitioners. These may be critical infrastructure operators, critical-infrastructure resilience or civil-protection authorities, law enforcement or companies providing relevant security services.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 87–90 · Scope\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 87–90 · Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "The security-practitioner roles must sit with funded partners. Include their details in the security-practitioner table in the application.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 87–90 · Scope\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 87–90 · Specific conditions"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "The group appoints a funded partner to lead the work on critical infrastructure protection and represent it to the funder.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "TenneT could coordinate as an eligible critical infrastructure operator with a funded practitioner role. The applicants choose their coordinator (the funded partner that represents the group to the funder).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 87–90 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 87–90 · Scope"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "TenneT could take part in critical infrastructure protection without receiving a grant. As an associated partner (an organisation that works without a grant), it could join as a Dutch critical infrastructure operator and perform relevant practitioner tasks. It would cover its own costs and would not count towards the minimum number of funded partners. Only funded participation counts for a mandatory practitioner or city role under the topic’s rules.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 87–90 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 87–90 · Scope"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "TenneT can receive up to 70% of eligible costs (project costs the grant rules allow) for qualifying work. The Dutch entity could join as a Dutch critical infrastructure operator and perform relevant practitioner tasks. Budget at least 30% of those costs from other resources. The rate helps set a lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending). The topic excludes organisations directly or indirectly controlled by China or by a legal entity established there.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 87–90 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 87–90 · Scope"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT could contribute essential-service operating requirements and validate defensive procedures with infrastructure and civil-protection partners.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 87–90 · Scope"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "Develop practical improvements to physical protection or incident readiness. The call allows proposals to address some or all of its expected outcomes.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 87–90 · Scope"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Innovation may concern underlying defensive technology, infrastructure design, operator procedures, training or cross-sector coordination.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 87–90 · Scope"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Analyse operator needs, develop defensive tools and procedures, then validate their readiness for use.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 87–90 · Scope"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "The work should reach TRL 6–7 (technology readiness level: technology demonstrated in relevant or operational conditions) by project end.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 87–90 · Specific conditions"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "Address dependencies between critical services where these affect resilience. Coordinate with earlier European research projects where their results support the proposed approach.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 87–90 · Scope"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "Show that the tools or practices selected for the project improve risk assessment, physical protection or incident readiness for essential-service operators.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 87–90 · Scope\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 87–90 · Expected Outcome"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "The consortium must include at least three eligible security practitioners as funded partners. They can contribute operating requirements, validation and guidance for practical use.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 87–90 · Scope"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "Security appraisal may restrict disclosure or require authorisation for protected material. Address whether the project will use classified background information or produce classified results.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 87–90 · Scope\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 87–90 · Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 16–17 · Security — EU classified and sensitive information"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "The Commission indicates EUR 12 million for critical infrastructure protection. It expects 2 awards.\n- Grant request: Around EUR 6 million per project. Different requests are eligible.\n- Funding form: Lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 87–90 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · p. 17 · Overview of this call\nEnhancing physical protection of critical infrastructures · Budget overview"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "For-profit organisations can receive up to 70% towards critical infrastructure protection. The rate is used to set the lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).\n- For-profit organisations: Up to 70% of eligible costs (project costs the grant rules allow), leaving at least 30% to cover.\n- Non-profit legal entities: Up to 100% of eligible costs (project costs the grant rules allow).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Plan the budget for critical infrastructure protection using the cost categories allowed by the grant. Use estimates to set the fixed grant.\n- Eligible costs (project costs the grant rules allow): Estimate costs by beneficiary (organisations formally responsible for funded work), work package (separately planned blocks of project work) and budget category.\n- Subcontracting or equipment: Apply best-value and conflict-of-interest rules. Estimate equipment depreciation when applicable.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nLump Sum Funding in Horizon Europe: What do I need to know? · pp. 7, 27, 34–36 · Writing a lump sum proposal and detailed budget table"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "Plan cash flow for critical infrastructure protection around acceptance of completed blocks of work.\n- Payment model: Pre-financing (an advance at the start of the grant) followed by reporting-period payments for completed work packages (separately planned blocks of project work). Incomplete packages can delay payment.\n- Retention or guarantee: The mutual insurance mechanism (a common fund covering grant recovery risks) deducts 5–8% of the maximum grant from pre-financing.\n- Financial reporting or audit: Retain evidence of task completion. Actual-cost reporting is not required for the lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 33 · Reporting & payment arrangements\nLump Sum Funding in Horizon Europe: What do I need to know? · pp. 17–23 · Payment schedule, Reporting and payment, Keeping records"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "Apply for critical infrastructure protection through the European Funding & Tenders Portal in one stage.\n- Full proposal: 4 November 2027, 17:00 Brussels time. Submit Part A (online administration form) and Part B (technical proposal) with a 45-page limit.\n- Opening: 5 May 2027.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · p. 17 · Overview of this call\nEnhancing physical protection of critical infrastructures · General information\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents"
+        },
+        {
+          "title": "Project window",
+          "answer": "The grant agreement (the contract setting the funded work and payment rules) sets the start date and duration for critical infrastructure protection.\n- Required start: Work normally starts after the grant agreement is signed. A reasoned exception needs approval.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · Starting date & project duration"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "The Commission’s timetable for assessing and contracting critical infrastructure protection is indicative.\n- Expected invitation or assessment result: Around five months from the full-proposal deadline.\n- Grant agreement (the contract setting the funded work and payment rules): Around eight months from the full-proposal deadline.\n- Conditions before starting: The beneficiaries (organisations formally responsible for funded work) must conclude a written consortium agreement (the partners’ written agreement on how the project will run).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium agreement"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "Use the portal’s forms to submit the proposal and supporting documents for critical infrastructure protection.\n- Application form: Complete online Part A and upload technical Part B and applicable annexes.\n- Registration: Beneficiaries (organisations formally responsible for funded work) and affiliated entities (organisations legally linked to funded partners) need a participant identification code before submission.\n- Partner documents: The coordinator confirms its authority to act for the applicant group at submission. Participants sign declarations of honour (signed confirmations of eligibility and other requirements) before grant signature.\n- Budget: Attach the detailed budget table from the submission system.\n- Mandatory additional information: Complete the security-practitioner table for the relevant beneficiaries.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 5 · Entities eligible to participate\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 87–90 · Specific conditions"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Critical infrastructure protection proposals compete on research quality, impact and the quality of the delivery plan.\n- Evaluation criteria: Excellence, impact, and quality and efficiency of implementation.\n- Thresholds: At least 3/5 on each criterion and 10/15 overall.\n- Ranking rules: Ties first favour uncovered topic aspects. The next criteria are impact then excellence.\n- Weighting: The impact score (the score for what the project is expected to achieve) has a 1.5 multiplier for ranking.\n- Budget assessment: Ineligible or overstated costs can reduce the lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 28–29 · Evaluation procedure and ranking\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Prepare the practitioner information and any security documents required by the infrastructure-protection topic.\n- Conditional — Classified or sensitive work: Follow the grant’s applicable security conditions and obtain clearances or approvals where required.\n- Conditional — Gender dimension in research: Address it if relevant to the research objectives.\n- Conditional — Satellite data or services: Use Copernicus for Earth observation and/or Galileo or the European Geostationary Navigation Overlay Service for satellite positioning, navigation or timing where the proposal uses the covered services.\n- Conditional — China control: Entities directly or indirectly controlled by China or an entity established there are ineligible.\n- Exception — Transfer of results: The granting authority may object to a transfer of ownership or to exclusive licensing (giving another party sole rights to use the results) for up to four years after the project ends.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 87–90 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 87–90 · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 16–17 · Security — EU classified and sensitive information"
+        }
+      ]
+    }
+  ]
+}

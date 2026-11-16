@@ -1,0 +1,41 @@
+{
+  "id": "20261115-213307-02",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-MISS-2027-04-CIT-02 Hydrogen cities – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "Supporting the implementation of the Climate-Neutral and Smart Cities Mission (HORIZON-MISS-2027-04)",
+  "call_module_title": "HORIZON-MISS-2027-04-CIT-02 Hydrogen cities",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2027-04-CIT-02",
+  "executive_summary": "This Coordination and Support Action twins Hydrogen Valleys with cities planning renewable hydrogen for hard-to-abate activities. It supports roadmaps and feasibility work and expects at least one selected Mission city. Eligible legal entities can apply under the Coordination and Support Action rules. The topic budget is EUR 5 million with around EUR 5 million expected per project. It opens 2027-02-09 and closes 2027-10-07 at 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-10-07",
+  "earliest_project_start_date": "2027-01-01",
+  "project_end_date": "2029-12-31",
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-15",
+  "status_rationale": "Missions Work Programme, pp. 161–163, Specific conditions and Scope, defines the work. An eligible Dutch beneficiary can contribute to city roadmaps through feasibility work on the grid demands and infrastructure needs of renewable hydrogen for hard-to-electrify sectors. The connection to Energy boards supports Type 1 and C1.3. The date helper provides both project dates as defaults from 1 January 2027 and 36 months.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T9"
+    ],
+    "role": [
+      "R2",
+      "R10"
+    ],
+    "activity": [
+      "A3",
+      "A15",
+      "A16"
+    ],
+    "outcome": [
+      "O5"
+    ]
+  }
+}

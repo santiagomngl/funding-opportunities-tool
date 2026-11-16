@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "Develop and demonstrate strategies to protect, restore and manage marine and coastal vegetated habitats, with local authorities and communities.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 136–139 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 136–139 · Expected Outcome"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Improve the area and condition of marine habitats, sustain natural carbon storage and ecosystem resilience, and build local capacity to manage them.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 136–139 · Expected Outcome"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "This suits habitat-restoration organisations and research groups working with public authorities and local communities. Coordinate through one of at least three independent grant recipients from different eligible countries, including one in a European Union Member State. Combine restoration, monitoring, financing and community expertise.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 136–139 · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 4–5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, Missions · pp. 136–139 · Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": "Combine ecosystem restoration with new financing and incentive mechanisms, monitoring of multiple stressors, and practical ways for communities to participate.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 136–139 · Scope"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": "Demonstrate restoration and protection at scale in the selected sea basin. Link habitat work to long-term management, ecological monitoring, financing, education and community involvement.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 136–139 · Scope"
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "Evidence on marine habitat recovery could inform TenneT’s offshore biodiversity planning and monitoring. The topic focuses on leading and managing habitat restoration and sets out no transmission-operator role.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 136–139 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 136–139 · Specific conditions"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "The Commission indicates EUR 15.9 million for blue forest restoration. It expects 4 awards.\n- Grant request: EUR 3.5–3.975 million per project is indicative. The Commission can select a different request.\n- Funding form: Budget-based grant (paid using approved costs or rates for the funded work).",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 136–139 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Missions · p. 26 · Overview of this call\nLarge-scale demonstration of protection, restoration and management of blue forest ecosystems in European sea basins · Budget overview"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "For-profit organisations can receive up to 70% towards blue forest restoration.\n- For-profit organisations: Up to 70% of eligible costs (project costs the grant rules allow), leaving at least 30% to cover.\n- Non-profit legal entities: Up to 100% of eligible costs (project costs the grant rules allow).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Missions · pp. 136–139 · Specific conditions"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "Apply for blue forest restoration through the European Funding & Tenders Portal in one stage.\n- Full proposal: 21 September 2027, 17:00 Brussels time. Submit Part A (online administration form) and Part B (technical proposal). Part B is limited to 40 pages.\n- Opening: 9 February 2027.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · p. 26 · Overview of this call\nLarge-scale demonstration of protection, restoration and management of blue forest ecosystems in European sea basins · General information\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 4 · Page limits\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents"
+        },
+        {
+          "title": "Project window",
+          "answer": "The grant agreement (the contract setting the funded work and payment rules) sets the start date and duration for blue forest restoration.\n- Required start: Work normally starts after the grant agreement is signed. A reasoned exception needs approval.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · Starting date & project duration\nHorizon Europe Model Grant Agreement · p. 21 · Article 4 — Duration and starting date\nHorizon Europe Work Programme 2026–2027, Missions · pp. 136–139 · Specific conditions"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Blue forest restoration proposals compete on research quality, impact and the quality of the delivery plan.\n- Evaluation criteria: Excellence, impact, and quality and efficiency of implementation.\n- Thresholds: At least 3/5 per criterion and 10/15 overall.\n- Weighting: Impact is multiplied by 1.5 for the ranking.\n- Ranking rules: Mission basin portfolio: The highest-ranked proposal in each basin receives priority if it clears all thresholds.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria\nHorizon Europe Work Programme 2026–2027, Missions · pp. 136–139 · Specific conditions"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Blue forest proposals compete within their selected sea basin and may have to publish marine observations.\n- Conditional — Satellite services: If the work uses satellite-based Earth observation, positioning, navigation or timing, beneficiaries (organisations formally responsible for funded work) must use Copernicus for Earth observation and/or Galileo or the European Geostationary Navigation Overlay Service for satellite positioning, navigation or timing.\n- Conditional — Marine observations: If projects collect in-situ data and marine observations, beneficiaries must publish them through European Marine Observation and Data Network using principles that make data findable, accessible, interoperable and reusable.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 136–139 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Missions · pp. 136–139 · Scope"
+        }
+      ]
+    }
+  ]
+}

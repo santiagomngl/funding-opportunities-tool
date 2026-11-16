@@ -1,0 +1,39 @@
+{
+  "id": "20261115-213307-01",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-CL5-2027-07-D3-16 Industrial processes and equipment for innovative, reliable and scalable tandem technologies (EUPI-PV Partnership) – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "ENERGY (HORIZON-CL5-2027-07)",
+  "call_module_title": "HORIZON-CL5-2027-07-D3-16 Industrial processes and equipment for innovative, reliable and scalable tandem technologies (EUPI-PV Partnership)",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-07-D3-16",
+  "executive_summary": "This Innovation Action supports tandem solar PV technologies with silicon-like lifetimes and higher efficiency. It funds industrial demonstrations of thin-film engineering and production processes. PV manufacturers, equipment suppliers and research partners can apply in eligible consortia. The topic budget is EUR 28.50 million with around EUR 9.50 million expected per project. It opens 2027-08-04 and closes 2027-12-01 at 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-12-01",
+  "earliest_project_start_date": "2027-01-01",
+  "project_end_date": "2029-12-31",
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-15",
+  "status_rationale": "Climate, Energy and Mobility Work Programme, pp. 153–154, Specific conditions and Scope, defines the work. TenneT could benefit from more efficient renewable generation entering the grid, but the eligible work is centred on producing tandem PV cells and modules and establishes no transmission work package. The connection to Grid Optimisation Plan (mandatory over-planting) supports Type 3 and C3.3. The date helper provides both project dates as defaults from 1 January 2027 and 36 months.",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T9",
+      "T10"
+    ],
+    "role": [],
+    "activity": [
+      "A4",
+      "A5",
+      "A7"
+    ],
+    "outcome": [
+      "O6"
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "Design and demonstrate efficient thermal management and waste-heat reuse for server rooms in buildings or small local data centres. Operators need ways to reuse heat that would otherwise be rejected.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 201–203 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 201–203 · Expected Outcome"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Show how better cooling and heat reuse can cut energy use, make waste heat useful and make performance data easier for others to access.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 201–203 · Expected Outcome"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "This suits building and small data-centre operators, cooling and controls suppliers, and local users of recovered heat. The group needs at least three independent grant recipients in different eligible countries, including one in a European Union Member State. Choose a lead from those recipients and include the organisations needed to integrate the heat recovery on site.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 201–203 · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 4–5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 201–203 · Specific conditions"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": "Integrate commercially credible cooling and waste-heat recovery with the building or local heat user. The call expects a combined system and a business case for using the recovered heat.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 201–203 · Scope"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "The work should reach TRL 6–7 (technology readiness level: technology demonstrated in relevant or operational conditions) by project end. The call allows work to start at any maturity level.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 201–203 · Specific conditions"
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": "Demonstrate heat recovery at existing server rooms or small data centres using 100–500 kilowatts, in both warm and cold climates. Integrate it with building controls and demonstrate a use for the heat on site or nearby.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 201–203 · Scope"
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "The pilots could change how small data centres use electricity and recover heat. The topic focuses on building systems and local heat use and sets out no transmission-operator work.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 201–203 · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 4–5, 11–13 · B — Eligibility"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "The Commission indicates EUR 15.75 million for small data-centre heat recovery. It expects 3 awards.\n- Grant request: around EUR 5.25 million per project. Different requests remain eligible.\n- Funding form: Lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 201–203 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 45 · Overview of this call\nThermal energy optimisation and waste heat recovery of high energy demand IT rooms in buildings or small edge data centres · Budget overview"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "For-profit organisations can receive up to 70% towards small data-centre heat recovery. The rate is used to set the lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).\n- For-profit organisations: Up to 70% of eligible costs (project costs the grant rules allow), leaving at least 30% to cover.\n- Non-profit legal entities: Up to 100% of eligible costs (project costs the grant rules allow).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 201–203 · Specific conditions"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "Apply for small data-centre heat recovery through the European Funding & Tenders Portal in one stage.\n- Full proposal: 15 September 2027 at 17:00 Brussels time. The technical proposal (Part B) is limited to 45 pages.\n- Opening: 5 May 2027.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 45 · Overview of this call\nThermal energy optimisation and waste heat recovery of high energy demand IT rooms in buildings or small edge data centres · General information\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents"
+        },
+        {
+          "title": "Project window",
+          "answer": "The grant agreement (the contract setting the funded work and payment rules) sets the start date and duration for small data-centre heat recovery.\n- Required start: Work normally starts after the grant agreement is signed. A reasoned exception needs approval.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · Starting date & project duration"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "The granting authority can restrict transfers of rights in the small data-centre heat-recovery results.\n- Conditional requirement: Screen beneficiary (organisations formally responsible for funded work) control and use Copernicus for Earth observation and/or Galileo or the European Geostationary Navigation Overlay Service for satellite positioning, navigation or timing if covered satellite data or services are used.\n- Exception — Transfer of results: The granting authority may object to a transfer of ownership or to exclusive licensing (giving another party sole rights to use the results) for up to four years after the project ends.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 201–203 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 201–203 · Scope"
+        }
+      ]
+    }
+  ]
+}

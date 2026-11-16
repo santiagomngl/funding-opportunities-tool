@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "Build a European community of practice and network of innovation hubs for data-based electricity-grid decisions.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 180–182 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 180–182 · Expected Outcome"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Build a community around data and analytics for European grid planning, operation and maintenance. Create places to experiment, involve complementary initiatives and showcase joint work by operators and researchers.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 180–182 · Scope"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "Operators and researchers need shared software and methods to manage more renewable generation and work effectively across institutions.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 180–182 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 180–182 · Expected Outcome"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "Deliver software repositories, blueprints and methods for observation, simulations, forecasts and asset decisions. Showcase cooperation on specific operator and research projects.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 180–182 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 180–182 · Expected Outcome"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Better shared tools should lower operating costs and improve cross-European grid planning and market integration. The community should make reusable tools available to the relevant research and energy actors.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 180–182 · Expected Outcome"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "Maintain results in a form others can find, access, combine and reuse as technologies change. Use shared repositories and take part in BRIDGE (the European network for sharing smart-grid, storage and digital energy results).",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 180–182 · Scope"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "A single eligible legal entity can apply, or several can apply together. The applicant must be based in a European Union Member State or a country formally participating in the European research programme.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 180–182 · Specific conditions"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "The community should bring together operators, universities and research teams, solution providers, energy suppliers and services, and consumer representatives.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 180–182 · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "Organise joint projects or programmes between operators and researchers. Connect the teams with complementary European and international groups through the proposed hubs.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 180–182 · Scope"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "The group appoints a funded partner to lead the work on the energy data community and represent it to the funder. A single eligible applicant can also apply for this topic.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 180–182 · Scope"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "TenneT could coordinate the project if it can coordinate shared grid planning or operating tools and contribute practical use cases. A single eligible applicant is allowed. A group of funded applicants selects its own coordinator (the organisation representing the group to the funder). Check the communications-network eligibility restrictions for the scope and participants.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 180–182 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 180–182 · Scope"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "TenneT could take part in the energy data community without receiving a grant. As an associated partner (an organisation that works without a grant), it could coordinate shared grid planning or operating tools and contribute practical use cases. It would cover its own costs and would not count towards the minimum number of funded partners.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 180–182 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 180–182 · Scope"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "TenneT can receive up to 100% of eligible costs (project costs the grant rules allow) for qualifying work. The Dutch entity could coordinate shared grid planning or operating tools and contribute practical use cases. The rate helps set a lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending). The project must meet the eligibility restrictions protecting European communications networks.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 180–182 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 180–182 · Scope"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT could contribute grid simulations and operator use cases, then work with research teams to define shared data and modelling methods.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 180–182 · Scope"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The community should coordinate generation of new open-source tools and can add modules to existing repositories. Its work also includes sharing and maintaining established methods.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 180–182 · Scope"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "The innovation is in cooperation and in open tools for simulation, forecasts, asset management and other grid decisions.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 180–182 · Scope"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Set up the hubs, let participants experiment and showcase specific projects or programmes run by grid operators and researchers.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 180–182 · Scope"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "Create European innovation hubs where energy-sector partners can experiment with digital projects. The call specifies a space for experimentation and examples of cooperative work.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 180–182 · Scope"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "Connect hub work to European and international initiatives. Put reusable software and methods into shared repositories so operators can combine them with their planning and operating tools.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 180–182 · Scope"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "Showcase concrete cooperation between grid operators and research teams on identified projects or programmes. The topic sets no numerical performance target for a site test.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 180–182 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 180–182 · Expected Outcome"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "Bring operators, researchers, technology providers, suppliers, energy-service providers and consumer representatives together to build and maintain tools.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 180–182 · Scope"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "Keep research outputs findable, accessible, interoperable and reusable. The topic also makes participation subject to restrictions protecting European communications networks.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 180–182 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 180–182 · Specific conditions"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "The Commission indicates EUR 6 million for the energy data community. It expects 1 award.\n- Grant request: Around EUR 6 million per project. Different requests are eligible.\n- Funding form: Lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 180–182 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 49 · Overview of this call\nCommunity of practice - Data-Driven Decision-Making in Energy · Budget overview"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "The grant can cover up to 100% of eligible costs (project costs the grant rules allow) for the energy data community. This is a coordination and support action (a grant for cooperation and support activities). The rate is used to calculate the lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Plan the budget for the energy data community using the cost categories allowed by the grant. Use estimates to set the fixed grant.\n- Eligible costs (project costs the grant rules allow): Estimate costs by beneficiary (organisations formally responsible for funded work), work package (separately planned blocks of project work) and budget category.\n- Subcontracting or equipment: Apply best-value and conflict-of-interest rules. Estimate equipment depreciation when applicable.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nLump Sum Funding in Horizon Europe: What do I need to know? · pp. 7, 27, 34–36 · Writing a lump sum proposal and detailed budget table"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "Plan cash flow for the energy data community around acceptance of completed blocks of work.\n- Payment model: Pre-financing (an advance at the start of the grant) followed by reporting-period payments for completed work packages (separately planned blocks of project work). Incomplete packages can delay payment.\n- Retention or guarantee: The mutual insurance mechanism (a common fund covering grant recovery risks) deducts 5–8% of the maximum grant from pre-financing.\n- Financial reporting or audit: Retain evidence of task completion. Actual-cost reporting is not required for the lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 33 · Reporting & payment arrangements\nLump Sum Funding in Horizon Europe: What do I need to know? · pp. 17–23 · Payment schedule, Reporting and payment, Keeping records"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "Apply for the energy data community through the European Funding & Tenders Portal in one stage.\n- Full proposal: 1 December 2027, 17:00 Brussels time. Submit Part A (online administration form) and Part B (technical proposal) with a 28-page limit.\n- Opening: 4 August 2027.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 49 · Overview of this call\nCommunity of practice - Data-Driven Decision-Making in Energy · General information\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents"
+        },
+        {
+          "title": "Project window",
+          "answer": "The grant agreement (the contract setting the funded work and payment rules) sets the start date and duration for the energy data community.\n- Required start: Work normally starts after the grant agreement is signed. A reasoned exception needs approval.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · Starting date & project duration"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "The Commission’s timetable for assessing and contracting the energy data community is indicative.\n- Expected invitation or assessment result: Around five months from the full-proposal deadline.\n- Grant agreement (the contract setting the funded work and payment rules): Around eight months from the full-proposal deadline.\n- Conditions before starting: A multi-beneficiary (organisations formally responsible for funded work) project must conclude a written consortium agreement (the partners’ written agreement on how the project will run).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium agreement"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "Use the portal’s forms to submit the proposal and supporting documents for the energy data community.\n- Application form: Complete online Part A and upload technical Part B and applicable annexes.\n- Registration: Beneficiaries (organisations formally responsible for funded work) and affiliated entities (organisations legally linked to funded partners) need a participant identification code before submission.\n- Partner documents: The coordinator confirms its authority to act for the applicant group at submission. Participants sign declarations of honour (signed confirmations of eligibility and other requirements) before grant signature.\n- Budget: Attach the detailed budget table from the submission system.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 5 · Entities eligible to participate"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "The energy data community proposals compete on research quality, impact and the quality of the delivery plan.\n- Evaluation criteria: Excellence, impact, and quality and efficiency of implementation.\n- Thresholds: At least 3/5 on each criterion and 10/15 overall.\n- Ranking rules: Ties first favour uncovered topic aspects. The next criteria are excellence then impact.\n- Budget assessment: Ineligible or overstated costs can reduce the lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 28–29 · Evaluation procedure and ranking\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Screen partners against the rules protecting European communications networks.\n- Conditional — High-risk mobile network suppliers: Check the European communications-network restrictions for participants and covered supply-chain roles.\n- Conditional — Satellite data or services: Use Copernicus for Earth observation and/or Galileo or the European Geostationary Navigation Overlay Service for satellite positioning, navigation or timing where the proposal uses the covered services.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 180–182 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 180–182 · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 7–8 · Restrictions for the protection of European communication networks"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "Develop and demonstrate a better solar-power system for either farming alongside crops or offshore and nearshore conditions.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 148–151 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 148–151 · Expected Outcome"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Choose either solar combined with crop production or offshore and nearshore solar. Cover yield modelling, component design, climate resilience, standards, permitting and demonstration.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 148–151 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 148–151 · Specific conditions"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "Solar developers need reliable designs for sites shared with farming or marine activities, while communities need the environmental and land or sea-use trade-offs addressed.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 148–151 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 148–151 · Expected Outcome"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "Demonstrate new installations with at least 5 megawatts in total. Deliver yield models, component designs and evidence supporting the design and permitting process.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 148–151 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 148–151 · Expected Outcome"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Improve energy output and reduce installation and operating costs while protecting land or marine uses. Offshore projects can support shared infrastructure for solar and wind.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 148–151 · Expected Outcome"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "If results are intended for a product or service, include a commercialisation and deployment plan. Report to the European Partnership for Innovation in Photovoltaics (the solar industry and research partnership).",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 148–151 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 148–151 · Expected Outcome"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "The proposal needs at least three independent funded partners in three different eligible countries. At least one must be established in a European Union Member State. The other two must be established in different Member States or countries associated with Horizon Europe (countries formally participating in the European research programme).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "Involve partners able to design and demonstrate the chosen solar system, together with policymakers, industry and affected communities. Include effective input from social sciences and humanities.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 148–151 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 148–151 · Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "The group appoints a funded partner to lead the work on offshore solar and agrivoltaics and represent it to the funder.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "TenneT could coordinate the project if it can optimise or validate the grid connection for the offshore or nearshore solar route. The applicants choose their coordinator (the funded partner that represents the group to the funder).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 148–151 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 148–151 · Scope"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "TenneT could take part in offshore solar and agrivoltaics without receiving a grant. As an associated partner (an organisation that works without a grant), it could optimise or validate the grid connection for the offshore or nearshore solar route. It would cover its own costs and would not count towards the minimum number of funded partners.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 148–151 · Scope"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "TenneT can receive up to 70% of eligible costs (project costs the grant rules allow) for qualifying work. The Dutch entity could optimise or validate the grid connection for the offshore or nearshore solar route. Budget at least 30% of those costs from other resources. The rate helps set a lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 148–151 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 148–151 · Scope"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT could assess the grid connection for offshore solar and wind at a shared site. It could help test whether sharing capacity changes connection and operating requirements.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 148–151 · Scope"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "Develop and demonstrate an improved system design. The demonstration concerns new solar installations and can build on operating offshore wind infrastructure where relevant.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 148–151 · Scope"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Innovation covers components and system architecture, yield modelling, network connections, resilience and how the project obtains consent.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 148–151 · Scope"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Model energy yield, design components and interfaces, address permitting and test new installations with at least 5 megawatts of combined capacity.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 148–151 · Scope"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "The work should reach TRL 7–8 (technology readiness level: from a prototype demonstrated in operation to a complete, qualified system) by project end. The call allows work to start at any maturity level.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 148–151 · Specific conditions"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "Combine at least 5 megawatts of demonstration capacity across sites. Show performance across the relevant climate or marine zones for the chosen route.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 148–151 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 148–151 · Specific conditions\nImproved system design for innovative PV applications (EUPI-PV Partnership) · Topic Q&A 82405, 91249"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "For the offshore route, optimise the electrical connection and consider integration with wind. Account for competing uses of marine space and how the design fits the site.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 148–151 · Scope"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "Provide credible yield estimates and test the system across relevant climate or marine zones. Show how the design affects efficiency, cost, resilience and environmental impacts.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 148–151 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 148–151 · Expected Outcome"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "Involve policymakers, industry and local communities. For offshore projects, assess how the design affects other users of the sea and potential shared sites.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 148–151 · Scope"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "The Commission indicates EUR 30 million for offshore solar and agrivoltaics. It expects 4 awards.\n- Grant request: around EUR 7.5 million per project. Different requests remain eligible.\n- Funding form: Lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 148–151 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 36 · Overview of this call\nImproved system design for innovative PV applications (EUPI-PV Partnership) · Budget overview"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "For-profit organisations can receive up to 70% towards offshore solar and agrivoltaics. The rate is used to set the lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).\n- For-profit organisations: Up to 70% of eligible costs (project costs the grant rules allow), leaving at least 30% to cover.\n- Non-profit legal entities: Up to 100% of eligible costs (project costs the grant rules allow).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 148–151 · Specific conditions"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Plan the budget for offshore solar and agrivoltaics using the cost categories allowed by the grant. Use estimates to set the fixed grant.\n- Equipment and infrastructure: For an agrivoltaic demonstration, estimate depreciation for project duration and use rather than charging full construction cost.\n- Budget detail: Provide estimates by beneficiary (organisations formally responsible for funded work) and work package (separately planned blocks of project work).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nImproved system design for innovative PV applications (EUPI-PV Partnership) · Topic Q&A 103301\nLump Sum Funding in Horizon Europe: What do I need to know? · pp. 6–7, 27, 36 · Detailed budget table"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "Plan cash flow for offshore solar and agrivoltaics around acceptance of completed blocks of work.\n- Payment model: Pre-financing (an advance at the start of the grant), then periodic payments for accepted work packages (separately planned blocks of project work) and a final balance.\n- Retention or guarantee: 5–8% of the maximum grant is deducted from pre-financing for mutual insurance.\n- Financial reporting or audit: Keep evidence of implementation and completion.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 33 · Reporting & payment arrangements\nLump Sum Funding in Horizon Europe: What do I need to know? · pp. 17–23 · Payment schedule, Reporting and payment, Keeping records"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "Apply for offshore solar and agrivoltaics through the European Funding & Tenders Portal in one stage.\n- Full proposal: 1 December 2026 at 17:00 Brussels time. The technical proposal (Part B) is limited to 45 pages.\n- Opening: 4 August 2026.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 36 · Overview of this call\nImproved system design for innovative PV applications (EUPI-PV Partnership) · General information\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents"
+        },
+        {
+          "title": "Project window",
+          "answer": "The grant agreement (the contract setting the funded work and payment rules) sets the start date and duration for offshore solar and agrivoltaics.\n- Required start: Work normally starts after the grant agreement is signed. A reasoned exception needs approval.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · Starting date & project duration"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "The Commission’s timetable for assessing and contracting offshore solar and agrivoltaics is indicative.\n- Expected invitation or assessment result: Around 5 months from the full-proposal deadline.\n- Grant agreement (the contract setting the funded work and payment rules): Around 8 months from the full-proposal deadline.\n- Conditions before starting: Beneficiaries (organisations formally responsible for funded work) must conclude a written consortium agreement (the partners’ written agreement on how the project will run).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium agreement"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "Use the portal’s forms to submit the proposal and supporting documents for offshore solar and agrivoltaics.\n- Application form: Complete Part A in the Portal and attach Part B and mandatory annexes.\n- Registration: Beneficiaries (organisations formally responsible for funded work) and affiliated entities (organisations legally linked to funded partners) need participant identification codes (organisation registration numbers).\n- Partner documents: The coordinator confirms its authority to act for the applicant group.\n- Budget: Provide the detailed lump-sum (a fixed grant paid for accepted work rather than reimbursing actual spending) budget table with the full proposal.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 4–5, 11–13 · B — Eligibility"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Offshore solar and agrivoltaics proposals compete on research quality, impact and the quality of the delivery plan.\n- Full proposal: Excellence, impact and implementation are scored. Each criterion needs 3/5 and the total needs 10/15.\n- Impact is weighted by 1.5 in Innovation Action (a grant for developing and demonstrating new solutions) full-proposal ranking.\n- Where thresholds are met, the portfolio should include at least the two highest-ranked proposals in each of the agrivoltaics and offshore/nearshore solar power areas.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 148–151 · Specific conditions"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Check the offshore or crop-based solar demonstration, permitting and portfolio requirements for the selected route.\n- Conditional requirement: New demonstrators: Design during the project. The portal’s published answer requires applying for and obtaining permits during the project and construction and commissioning after the start and permits.\n- Conditional requirement: Scope: Crop agrivoltaics excludes livestock-only co-location. The offshore/nearshore route excludes inland reservoirs, dams and lakes.\n- Conditional requirement: Use Copernicus for Earth observation and/or Galileo or the European Geostationary Navigation Overlay Service for covered satellite services.\n- Exception — Transfer of results: The granting authority may object to a transfer of ownership or to exclusive licensing (giving another party sole rights to use the results) for up to four years after the project ends.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 148–151 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 148–151 · Scope\nImproved system design for innovative PV applications (EUPI-PV Partnership) · Topic Q&A 101888, 103300, 103302, 103297, 103299"
+        }
+      ]
+    }
+  ]
+}

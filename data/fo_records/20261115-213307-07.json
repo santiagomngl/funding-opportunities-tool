@@ -1,0 +1,42 @@
+{
+  "id": "20261115-213307-07",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-CL5-2027-02-D2-05 Improvement of Adaptability, Flexibility and Efficiency of Existing Recycling Processes (BATT4EU Partnership) – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "BATTERIES and ENERGY (HORIZON-CL5-2027-02)",
+  "call_module_title": "HORIZON-CL5-2027-02-D2-05 Improvement of Adaptability, Flexibility and Efficiency of Existing Recycling Processes (BATT4EU Partnership)",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-02-D2-05",
+  "executive_summary": "This Innovation Action improves existing recycling processes for mixed battery feedstocks and scrap. It supports demonstrations that recover battery-grade material and quantify energy, cost and environmental gains. Eligible consortia can include recyclers, equipment suppliers and research teams. The topic budget is EUR 18.80 million with around EUR 9.40 million expected per project. It opens 2026-12-03 and closes 2027-03-31 at 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-03-31",
+  "earliest_project_start_date": "2027-01-01",
+  "project_end_date": "2029-12-31",
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-15",
+  "status_rationale": "Climate, Energy and Mobility Work Programme, pp. 96–98, Specific conditions and Scope, defines the work. Recovering battery-grade inputs can support the storage supply chain, but the scope establishes work on recycling plants and processes and provides no credible TSO work package. The connection to Time-dependent transmission rights contract (Lion Storage) supports Type 3 and C3.3. The date helper provides both project dates as defaults from 1 January 2027 and 36 months.",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T9",
+      "T10"
+    ],
+    "role": [],
+    "activity": [
+      "A3",
+      "A4",
+      "A5",
+      "A7",
+      "A11"
+    ],
+    "outcome": [
+      "O5",
+      "O6"
+    ]
+  }
+}
