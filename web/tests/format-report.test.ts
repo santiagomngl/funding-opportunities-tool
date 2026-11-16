@@ -11,8 +11,12 @@ import {
   formatSubmissionWindow,
 } from "../src/lib/format.ts";
 import { sourceLines, splitReport, textBlocks } from "../src/lib/report.ts";
+import type { FoReport } from "../src/lib/types.ts";
+import { fullReport, repoRoot } from "./helpers/fixtures.ts";
+import { readFileSync } from "node:fs";
+import path from "node:path";
 
-test("amounts follow RE_agent.md section 8", () => {
+test("amounts follow RE_agent.md section 6", () => {
   assert.equal(formatAmount(250_000), "EUR 250,000");
   assert.equal(formatAmount(5_000_000), "EUR 5 million");
   assert.equal(formatAmount(1_500_000), "EUR 1.5 million");
@@ -78,3 +82,20 @@ test("report: null answers are hidden, empty sections are hidden, blocks go to t
   assert.deepEqual(main[0].cards.map((c) => c.title), ["A"]);
   assert.equal(side[0].question, null);
 });
+
+// The detail page takes every title and question from the report file, so a
+// fully answered template must come out exactly as the template is written.
+for (const [name, mainBlock] of [
+  ["fo_report_type_1_2.template.json", "project_requirements"],
+  ["fo_report_type_3.template.json", "call_overview"],
+] as const) {
+  test(`${name}: every section and card is shown with the template's own title and question`, () => {
+    const template: FoReport = JSON.parse(readFileSync(path.join(repoRoot, "templates", name), "utf8"));
+    const { side, main } = splitReport(fullReport(name) as FoReport);
+    const shape = (sections: { title: string; question?: string | null; cards: { title: string; question?: string | null }[] }[]) =>
+      sections.map((s) => [s.title, s.question ?? null, s.cards.map((c) => [c.title, c.question ?? null])]);
+    assert.deepEqual(shape(main), shape(template[mainBlock]));
+    assert.deepEqual(shape(side), shape(template.funding_timing_submission));
+    assert.ok(main.every((s) => s.question && s.cards.every((c) => c.question)), "main column: all have a question");
+  });
+}

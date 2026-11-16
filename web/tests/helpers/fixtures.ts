@@ -77,6 +77,20 @@ export function fakeReport(templateName: string): Json {
   return report;
 }
 
+/** A report template with every card answered, to look at the whole layout. */
+export function fullReport(templateName: string): Json {
+  const report = readJson(path.join(repoRoot, "templates", templateName));
+  for (const sections of Object.values(report) as { cards: Json[] }[][]) {
+    for (const section of sections) {
+      for (const card of section.cards) {
+        card.answer = `FAKE FIXTURE answer for ${card.title}.\n- First fake bullet\n- Second fake bullet`;
+        card.sources = "fake-fixture.pdf · p. 1 · Fake section";
+      }
+    }
+  }
+  return report;
+}
+
 export function writeJson(file: string, value: unknown) {
   mkdirSync(path.dirname(file), { recursive: true });
   writeFileSync(file, JSON.stringify(value, null, 2) + "\n");

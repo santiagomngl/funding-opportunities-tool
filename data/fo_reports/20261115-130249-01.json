@@ -5,20 +5,38 @@
       "question": "What does the call offer, and who can apply?",
       "cards": [
         {
-          "title": "What the call funds",
-          "question": "What does the call fund?",
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
           "answer": "BMKB-Groen makes borrowing accessible for green equipment and business-premises improvements. Supported investments follow the referenced energy list or improve qualifying premises to at least energy label C.",
           "sources": "BMKB-Groen · Wat houden de verruiming en aanpassingen in?\nStaatscourant 2026, 23257 · Artikel I, onderdeel A"
         },
         {
-          "title": "Who can apply",
-          "question": "Who can apply: which organisation types and countries, and is it a single applicant or a consortium?",
-          "answer": "Individual SMEs established and predominantly active in the Netherlands, Bonaire, Sint Eustatius or Saba can seek credit through an accredited financier.\n- Size: At most 250 FTE and turnover up to EUR 50 million or a balance-sheet total up to EUR 43 million.\n- Group assessment: Relevant associated enterprises count toward SME size.\n- Excluded sectors: Finance, real estate and publicly insured healthcare; agricultural and fisheries restrictions also apply.",
-          "sources": "BMKB - Voorwaarden · Deelnemen als ondernemer; Wanneer geen BMKB?\nOverzicht BMKB voorwaarden tm 30-06-2027 v1.0 · pp. 1–2 · Ondernemerscriteria; Ad 1"
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "Individual SMEs established and predominantly active in the Netherlands, Bonaire, Sint Eustatius or Saba can seek credit through an accredited financier.\n- Size: At most 250 FTE and turnover up to EUR 50 million or a balance-sheet total up to EUR 43 million.\n- Group assessment: Relevant associated enterprises count toward SME size.\n- Excluded sectors: Finance, real estate and publicly insured healthcare; agricultural and fisheries restrictions also apply.\nSMEs investing in eligible energy equipment could use this route when insufficient collateral obstructs otherwise viable borrowing. It could suit an SME deploying storage or electrifying its processes; eligibility depends on the specific investment. The borrowing enterprise needs a credible business outlook and a financier willing to provide credit.",
+          "sources": "BMKB - Voorwaarden · Deelnemen als ondernemer; Wanneer geen BMKB?\nOverzicht BMKB voorwaarden tm 30-06-2027 v1.0 · pp. 1–2 · Ondernemerscriteria; Ad 1\nBorgstelling MKB-kredieten (BMKB) · introduction\nOverzicht BMKB voorwaarden tm 30-06-2027 v1.0 · pp. 1–2 · Ondernemerscriteria; Ad 2\nEnergielijst 2026 · pp. 65–68 · E. Energiebalancering; F. Energietransitie"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": null,
+          "sources": null
         },
         {
           "title": "Maturity",
-          "question": "Which TRL range does the call target?",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
           "answer": null,
           "sources": null
         }
@@ -33,12 +51,6 @@
           "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
           "answer": "Supported storage and conversion equipment could expand third-party flexibility relevant to TenneT’s balancing and congestion work. This overlaps the interests illustrated by Lion Storage and DataFleX. TenneT cannot borrow under the SME route because large companies are excluded; the reviewed rules establish no alternative TenneT project role.",
           "sources": "Energielijst 2026 · pp. 65–67 · E. Energiebalancering\nBMKB-Groen · Uitgesloten bedrijfsgroepen\nBMKB - Voorwaarden · Deelnemen als ondernemer; Deelnemen als financier"
-        },
-        {
-          "title": "Who it suits",
-          "question": "Which kinds of organisation does the call suit: suppliers, startups, universities or others?",
-          "answer": "SMEs investing in eligible energy equipment could use this route when insufficient collateral obstructs otherwise viable borrowing. It could suit an SME deploying storage or electrifying its processes; eligibility depends on the specific investment. The borrowing enterprise needs a credible business outlook and a financier willing to provide credit.",
-          "sources": "Borgstelling MKB-kredieten (BMKB) · introduction\nOverzicht BMKB voorwaarden tm 30-06-2027 v1.0 · pp. 1–2 · Ondernemerscriteria; Ad 2\nEnergielijst 2026 · pp. 65–68 · E. Energiebalancering; F. Energietransitie"
         }
       ]
     }

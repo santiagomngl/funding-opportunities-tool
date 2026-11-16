@@ -5,34 +5,40 @@
       "question": "What must the project address, develop and achieve?",
       "cards": [
         {
-          "title": "Problem and user",
-          "question": "Which problem or need must the project address, and whose need is it?",
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "Demonstrate new or improved storage technology integrated into infrastructure retrofits.",
+          "sources": "Integrated Approaches for Retrofitting Infrastructures with Innovative Energy Storage Technologies · Topic description, Scope"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Proposals should address storage performance, circularity and socioeconomic and environmental sustainability.",
+          "sources": "Integrated Approaches for Retrofitting Infrastructures with Innovative Energy Storage Technologies · Topic description, Scope"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
           "answer": "The energy system needs additional flexible storage capacity that makes productive use of obsolete infrastructure.",
           "sources": "Integrated Approaches for Retrofitting Infrastructures with Innovative Energy Storage Technologies · Topic description, Expected Outcome and Scope"
         },
         {
-          "title": "Scope",
-          "question": "Which activities and subjects are in scope, which are required, and which are excluded?",
-          "answer": "Demonstrate new or improved storage technology integrated into infrastructure retrofits. Proposals should address storage performance, circularity and socioeconomic and environmental sustainability.",
-          "sources": "Integrated Approaches for Retrofitting Infrastructures with Innovative Energy Storage Technologies · Topic description, Scope"
-        },
-        {
           "title": "Deliverables",
-          "question": "What must the project develop and deliver?",
+          "question": "Which concrete outputs must the project produce?",
           "answer": "Develop the storage retrofit demonstration and its essential monitoring deliverables. The standard form also requires data-management and dissemination/exploitation plans within six months.",
           "sources": "Integrated Approaches for Retrofitting Infrastructures with Innovative Energy Storage Technologies · Topic description, Scope\nStandard application form, HE RIA and IA, Part B, version 5.1 · Part B p. 17 of 23 · Table 3.1c: List of Deliverables"
         },
         {
-          "title": "Maturity",
-          "question": "What TRL is expected at the start and end of the project, and which stages are allowed (research, prototype, demonstration, deployment)?",
-          "answer": "Activities may start at any TRL and are expected to reach TRL 6–8 by project end.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 179 · Technology Readiness Level"
-        },
-        {
-          "title": "Expected impact",
-          "question": "Which outcomes and policy goals must the project contribute to?",
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
           "answer": "Results are expected to improve energy security, storage sustainability and circularity, and the economic viability of storage through infrastructure reuse.",
           "sources": "Integrated Approaches for Retrofitting Infrastructures with Innovative Energy Storage Technologies · Topic description, Expected Outcome"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "Selected projects are expected to participate actively in BRIDGE, the cooperation initiative for European energy projects. The proposal must include exploitation, dissemination and communication planning.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 180 · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 4 · Admissibility"
         }
       ]
     },
@@ -41,14 +47,26 @@
       "question": "How must collaboration be organised?",
       "cards": [
         {
-          "title": "Composition",
-          "question": "How many partners, of which types (including end users) and from which countries? Are there rules on how the budget is split?",
-          "answer": "At least three independent beneficiaries must come from three different countries: one EU Member State and two other Member States or associated countries.",
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "The consortium must include at least three independent beneficiaries.",
           "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
         },
         {
-          "title": "Leadership",
-          "question": "Who may or must coordinate or hold a leadership role?",
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "The beneficiaries must come from three different countries: one EU Member State and two other Member States or associated countries.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
           "answer": "The beneficiaries choose a coordinator from their consortium to manage the storage demonstration and represent them before the funder.",
           "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Coordinator"
         }
@@ -59,52 +77,94 @@
       "question": "What is TenneT's position within the consortium?",
       "cards": [
         {
-          "title": "Participation route",
-          "question": "Can TenneT apply, coordinate, join as a partner, or take part without funding?",
-          "answer": "TenneT TSO B.V. can join as a funded Dutch beneficiary, subject to the eligibility and consortium conditions. Unfunded associated participation is also permitted.",
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "TenneT may take part without receiving funding: unfunded associated participation is permitted.",
           "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 4–5, 11, 13 · Entities eligible to participate; Entities eligible for funding; Consortium composition"
         },
         {
-          "title": "Funding for TenneT",
-          "question": "Can TenneT receive funding, at what rate, and under which national rules?",
-          "answer": "TenneT’s company costs can receive up to 70% support through the lump-sum calculation. It must cover the remainder under the central Horizon rules.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount"
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "TenneT TSO B.V. can join as a funded Dutch beneficiary, subject to the eligibility and consortium conditions. TenneT’s company costs can receive up to 70% support through the lump-sum calculation. It must cover the remainder under the central Horizon rules.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 4–5, 11, 13 · Entities eligible to participate; Entities eligible for funding; Consortium composition\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount"
         },
         {
           "title": "TenneT's likely contribution",
-          "question": "What could TenneT credibly bring to the project?",
+          "question": "What contribution would make TenneT credible and useful within the project?",
           "answer": "TenneT could help define grid-integration requirements and assess the flexibility delivered by a storage retrofit. This interpretation follows the topic’s grid-flexibility objective and TenneT’s experience with flexible storage connections.",
           "sources": "Integrated Approaches for Retrofitting Infrastructures with Innovative Energy Storage Technologies · Topic description, Scope"
         }
       ]
     },
     {
-      "title": "Setting",
-      "question": "In which environment must the project take place?",
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
       "cards": [
         {
-          "title": "Test environment",
-          "question": "Where and under what conditions must the solution be tested (lab, simulation, real site, live infrastructure), and in which country or region?",
-          "answer": "Use obsolete or outdated infrastructure, such as decommissioned power plants, old hydropower facilities, former industrial sites or coal mines, for the storage demonstration.",
-          "sources": "Integrated Approaches for Retrofitting Infrastructures with Innovative Energy Storage Technologies · Topic description, Scope"
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": null,
+          "sources": null
         },
         {
-          "title": "Data, IP and security",
-          "question": "Does the call impose open-data, IP or security obligations that TenneT would have to accept?",
-          "answer": "Proposals should incorporate security by design. Participants must provide necessary background access; the funder does not acquire ownership of project results. Access supporting scientific publications must safeguard legitimate constraints.",
-          "sources": "Integrated Approaches for Retrofitting Infrastructures with Innovative Energy Storage Technologies · Topic description, Scope\nEU Lump Sum Model Grant Agreement · p. 31 · Articles 16.1–16.2\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 34 · Open science - additional practices, validation of scientific publications"
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "Activities may start at any TRL and are expected to reach TRL 6–8 by project end.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 179 · Technology Readiness Level"
         }
       ]
     },
     {
-      "title": "After the project",
-      "question": "How must the project scale, replicate or achieve uptake?",
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
       "cards": [
         {
-          "title": "Uptake",
-          "question": "What must happen with the result: replication, standards, an implementation model, dissemination, use after funding ends?",
-          "answer": "Selected projects are expected to participate actively in BRIDGE, the cooperation initiative for European energy projects. The proposal must include exploitation, dissemination and communication planning.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 180 · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 4 · Admissibility"
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "Use obsolete or outdated infrastructure, such as decommissioned power plants, old hydropower facilities, former industrial sites or coal mines, for the storage demonstration.",
+          "sources": "Integrated Approaches for Retrofitting Infrastructures with Innovative Energy Storage Technologies · Topic description, Scope"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "Proposals should incorporate security by design. Participants must provide necessary background access; the funder does not acquire ownership of project results. Access supporting scientific publications must safeguard legitimate constraints.",
+          "sources": "Integrated Approaches for Retrofitting Infrastructures with Innovative Energy Storage Technologies · Topic description, Scope\nEU Lump Sum Model Grant Agreement · p. 31 · Articles 16.1–16.2\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 34 · Open science - additional practices, validation of scientific publications"
         }
       ]
     }
