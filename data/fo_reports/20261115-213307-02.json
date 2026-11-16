@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "Create partnerships that pair cities with established Hydrogen Valleys to plan infrastructure and uses for renewable hydrogen.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Expected Outcome"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Pair experienced Hydrogen Valleys (places linking hydrogen production and use) with cities planning renewable hydrogen for hard-to-electrify uses. The scope excludes hydrogen for heating.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Scope"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "Cities and ports need workable plans for reducing emissions in industrial and transport uses that are hard to electrify directly.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Expected Outcome"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "Select city partners, run tailored paired activities and produce a deployment roadmap for every participating city. Share approaches and lessons across the group.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Expected Outcome"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Prepare investment and use of renewable hydrogen for eligible urban and port activities. Link city and hydrogen networks so they can share practical implementation knowledge.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Expected Outcome\nHorizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Scope"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "Use each roadmap to identify technology, financing, permitting and infrastructure steps. The project should build links between the European Cities Mission and the Clean Hydrogen Partnership.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Expected Outcome"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "A single eligible legal entity can apply, or several can apply together. The city pairings are participants in the project activities and can be selected separately from the grant applicants.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition\nHorizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Specific conditions"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "Bring together experienced Hydrogen Valleys (places linking hydrogen production and use) and city counterparts. At least one of the paired cities is expected to belong to the European climate-neutral cities mission.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "Select city pairings and tailor the work to their different needs. Plan for coordination with the European cities mission platform and with the Clean Hydrogen Partnership.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Specific conditions"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "The group appoints a funded partner to lead the work on hydrogen-city partnerships and represent it to the funder. A single eligible applicant can also apply for this topic.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Scope"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "TenneT could coordinate the project if it can assess electricity network or connection needs as part of a city’s renewable hydrogen roadmap. A single eligible applicant is allowed. A group of funded applicants selects its own coordinator (the organisation representing the group to the funder).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Scope"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "TenneT could take part in hydrogen-city partnerships without receiving a grant. As an associated partner (an organisation that works without a grant), it could assess electricity network or connection needs as part of a city’s renewable hydrogen roadmap. It would cover its own costs and would not count towards the minimum number of funded partners.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Scope"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "TenneT can receive up to 100% of eligible costs (project costs the grant rules allow) for qualifying work. The Dutch entity could assess electricity network or connection needs as part of a city’s renewable hydrogen roadmap. The rate helps set a lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Scope"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT could assess the network implications of electricity demand from proposed hydrogen production. The roadmap work would need an explicit infrastructure or connection assessment.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Expected Outcome"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The work transfers techniques and experience from existing Hydrogen Valleys (places linking hydrogen production and use). Each city then needs a roadmap suited to its own conditions.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Scope"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Innovation is primarily in coordinating cities, ports and existing hydrogen clusters, and adapting practical feasibility, governance and delivery methods to each city.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Scope"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Select the city partnerships, run tailored exchanges and feasibility work, and develop a roadmap for each participating city.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Scope"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "Connect local hydrogen uses, production or supply, permitting, infrastructure needs, financing and industry supply chains in one city roadmap.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Scope"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "Provide a detailed roadmap with realistic choices on equipment, renewable hydrogen sources and business cases, and assess their environmental and socioeconomic implications.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Expected Outcome"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "Cities and Hydrogen Valleys take part directly in tailored peer exchanges. The project should involve relevant local users and operators through feasibility work, training and shared practice.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Scope"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "The Commission indicates EUR 5 million for hydrogen-city partnerships. It expects 1 award.\n- Grant request: around EUR 5 million per project is indicative. The Commission can select a different request.\n- Funding form: Lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Missions · p. 27 · Overview of this call\nHydrogen cities · Budget overview"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "The grant can cover up to 100% of eligible costs (project costs the grant rules allow) for hydrogen-city partnerships. This is a coordination and support action (a grant for cooperation and support activities). The rate is used to calculate the lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Specific conditions"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Plan the budget for hydrogen-city partnerships using the cost categories allowed by the grant. Use estimates to set the fixed grant.\n- Eligible costs (project costs the grant rules allow): Include only realistic estimates consistent with Horizon Europe eligible-cost rules.\n- Subcontracting or equipment: Purchases and subcontracts must provide best value and avoid conflicts of interest.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nLump Sum Funding in Horizon Europe: What do I need to know? · pp. 6–7 · Writing a lump sum proposal"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "Plan cash flow for hydrogen-city partnerships around acceptance of completed blocks of work.\n- Payment model: Normally pre-financing (an advance at the start of the grant), periodic payments for accepted work packages (separately planned blocks of project work), and a final balance.\n- Retention or guarantee: 5–8% of the maximum grant is deducted from pre-financing for the mutual insurance mechanism (a common fund covering grant recovery risks).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 33 · Reporting & payment arrangements\nLump Sum Funding in Horizon Europe: What do I need to know? · pp. 3, 17–20 · Basic principles / Reporting and payment"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "Apply for hydrogen-city partnerships through the European Funding & Tenders Portal in one stage.\n- Full proposal: 7 October 2027, 17:00 Brussels time. Submit Part A (online administration form) and Part B (technical proposal). Part B is limited to 28 pages.\n- Opening: 9 February 2027.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · p. 27 · Overview of this call\nHydrogen cities · General information\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 4 · Page limits\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents"
+        },
+        {
+          "title": "Project window",
+          "answer": "The grant agreement (the contract setting the funded work and payment rules) sets the start date and duration for hydrogen-city partnerships.\n- Required start: Work normally starts after the grant agreement is signed. A reasoned exception needs approval.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · Starting date & project duration\nLump Sum Model Grant Agreement · p. 17 · Article 4 — Duration and starting date\nHorizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Specific conditions"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "The Commission’s timetable for assessing and contracting hydrogen-city partnerships is indicative.\n- Expected invitation or assessment result: Around five months after the deadline.\n- Grant agreement (the contract setting the funded work and payment rules): The indicative signature date is around eight months after the deadline.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · Indicative timetable for evaluation and for signature of the grant agreement"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "Use the portal’s forms to submit the proposal and supporting documents for hydrogen-city partnerships.\n- Application form: Complete Part A online and upload Part B as a fixed-format document with the required annexes.\n- Registration: Enter a participant identification code for each beneficiary (organisations formally responsible for funded work) and affiliated entity (organisations legally linked to funded partners).\n- Budget: Attach the detailed lump-sum (a fixed grant paid for accepted work rather than reimbursing actual spending) budget table.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Participant Register\nHorizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Specific conditions"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Hydrogen-city partnerships proposals compete on research quality, impact and the quality of the delivery plan.\n- Evaluation criteria: Excellence, impact, and quality and efficiency of implementation.\n- Thresholds: At least 3/5 per criterion and 10/15 overall.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "The hydrogen-city project must build its roadmaps around selected collaborations with established hydrogen clusters.\n- Required collaboration: Budget activities and resources for collaboration with the Cities Mission Platform. Formalise the collaboration through a memorandum of understanding as soon as possible after project start.\n- Recommended: Seek geographical balance among the twinning authorities.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Missions · pp. 161–163 · Scope"
+        }
+      ]
+    }
+  ]
+}

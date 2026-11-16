@@ -1,0 +1,43 @@
+{
+  "id": "20261115-173923-10",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-CL4-2027-02-MAT-PROD-32-two-stage Efficient energy input from renewable sources and energy management in the process industries (IA) (Processes4Planet and Innovative Advanced Materials for the EU partnerships) – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "INDUSTRY-two-stage (HORIZON-CL4-2027-02-two-stage)",
+  "call_module_title": "HORIZON-CL4-2027-02-MAT-PROD-32-two-stage Efficient energy input from renewable sources and energy management in the process industries (IA) (Processes4Planet and Innovative Advanced Materials for the EU partnerships)",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-02-MAT-PROD-32-two-stage",
+  "executive_summary": "Supports renewable process heat, industrial electrification and integrated storage for energy-intensive industries. Proposals are expected to pilot technologies and reduce the process carbon footprint by at least 20%. Eligible consortia can include process manufacturers and suppliers able to engineer and demonstrate the solution. The topic budget is EUR 52.50 million, with EUR 7–9 million expected per project. Opening 2026-10-13. First stage 2027-02-02, invited full proposals 2027-09-02. Both submission deadlines are at 17:00 Brussels time.",
+  "pre_submission_deadline": "2027-02-02",
+  "full_proposal_deadline": "2027-09-02",
+  "earliest_project_start_date": "2027-01-01",
+  "project_end_date": "2029-12-31",
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-15",
+  "status_rationale": "Digital, Industry and Space Work Programme, pp. 67–70, describes the eligible work in Scope. Annex B allows Dutch companies generally, but the topic establishes no practical TenneT role in the process-technology and materials pilots. Lower or more flexible industrial demand could indirectly benefit grid operations. This supports Type 3 and C3.3. Both project dates are date-helper defaults based on 1 January 2027 and 36 months.",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T5",
+      "T9",
+      "T10"
+    ],
+    "role": [],
+    "activity": [
+      "A4",
+      "A5",
+      "A7",
+      "A8"
+    ],
+    "outcome": [
+      "O5",
+      "O6",
+      "O10"
+    ]
+  }
+}

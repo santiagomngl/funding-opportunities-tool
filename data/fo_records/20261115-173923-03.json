@@ -1,0 +1,44 @@
+{
+  "id": "20261115-173923-03",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-MISS-2027-01-CLIMA-01 Demonstrating transformative solutions to increase cross-border climate resilience – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "Supporting the implementation of the Adaptation to Climate Change Mission (HORIZON-MISS-2027-01)",
+  "call_module_title": "HORIZON-MISS-2027-01-CLIMA-01 Demonstrating transformative solutions to increase cross-border climate resilience",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2027-01-CLIMA-01",
+  "executive_summary": "Demonstrates shared climate-risk assessment and resilience measures across at least two border-spanning sites, including governance and socioeconomic coordination. Eligible consortia need to involve authorities from the participating regions in their demonstrations. The topic budget is EUR 72.32 million, with EUR 10–15 million expected per project. Opening 2027-02-09. Full proposal deadline 2027-09-21 at 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-09-21",
+  "earliest_project_start_date": "2027-01-01",
+  "project_end_date": "2029-12-31",
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-15",
+  "status_rationale": "Missions Work Programme, pp. 58–61, describes the eligible work in Scope. Annex B permits a Dutch funded beneficiary. TenneT could assess grid service continuity under a shared flood or storm scenario as part of the authority-led, cross-border climate demonstrations. This supports Type 1 and C1.3. Both project dates are date-helper defaults based on 1 January 2027 and 36 months.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T8",
+      "T9"
+    ],
+    "role": [
+      "R2",
+      "R10"
+    ],
+    "activity": [
+      "A3",
+      "A7",
+      "A8",
+      "A13",
+      "A16"
+    ],
+    "outcome": [
+      "O9"
+    ]
+  }
+}

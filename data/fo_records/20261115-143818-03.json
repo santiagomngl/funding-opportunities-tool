@@ -1,0 +1,48 @@
+{
+  "id": "20261115-143818-03",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-CL5-2027-07-D3-28 Community of practice - Data-Driven Decision-Making in Energy – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "ENERGY (HORIZON-CL5-2027-07)",
+  "call_module_title": "HORIZON-CL5-2027-07-D3-28 Community of practice - Data-Driven Decision-Making in Energy",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-07-D3-28",
+  "executive_summary": "Creates a European community of practice and innovation hubs for reusable energy-data tools, grid planning and simulation, and open methods and repositories. Eligible consortium beneficiaries can receive 100% for the coordination and support action under Horizon Europe. The indicative topic budget is EUR 6 million, with around EUR 6 million expected per project. Opening 2027-08-04, full proposal deadline 2027-12-01 at 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-12-01",
+  "earliest_project_start_date": "2027-01-01",
+  "project_end_date": "2029-12-31",
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-15",
+  "status_rationale": "Work Programme Part 8, pp. 180–182, Scope and Specific conditions, funds this work, which connects to TSO Innovation Alliance. Grid operators are named in the scope. Annex B allows one or more eligible EU or associated-country legal entities to apply to a CSA, subject here to the European communications-network restrictions. The funded consortium role supports Type 1 and C1.3. The helper supplied both project dates from 1 January 2027 using its 36-month default.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T1",
+      "T4",
+      "T5",
+      "T6"
+    ],
+    "role": [
+      "R2",
+      "R5",
+      "R8",
+      "R10",
+      "R12"
+    ],
+    "activity": [
+      "A6",
+      "A13",
+      "A16"
+    ],
+    "outcome": [
+      "O6",
+      "O11"
+    ]
+  }
+}

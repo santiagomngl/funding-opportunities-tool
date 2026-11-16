@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "Demonstrate integrated use of renewable energy in process plants that need continuous and sometimes very high-temperature energy inputs.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 67–70 · Scope\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 67–70 · Expected Outcome"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Reduce greenhouse gas emissions and energy use in energy-intensive processes while allowing plants to use variable renewable energy reliably.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 67–70 · Expected Outcome"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "The call suits process manufacturers partnering with heat, storage, control and materials teams able to demonstrate systems at pilot scale. The group needs three independent grant recipients from different eligible countries, including one in a European Union Member State, and appoints its lead from among them.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 67–70 · Scope\nEfficient energy input from renewable sources and energy management in the process industries (IA) (Processes4Planet and Innovative Advanced Materials for the EU partnerships) · Topic Q&A 87045\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 4–5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 67–70 · Specific conditions"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": "The work can combine new storage, renewable process heat, advanced insulation and better plant controls. Rescheduling production to follow renewable supply alone is outside scope.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 67–70 · Scope"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "The work should reach TRL 6–7 (technology readiness level: technology demonstrated in relevant or operational conditions) by project end. The work is expected to start at TRL 4–5 (technology readiness level: technology validated in a laboratory or relevant conditions).",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 67–70 · Specific conditions"
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": "Demonstrate at pilot scale, preferably in a real industrial environment. Connect renewable energy, storage or new materials to the process equipment chosen for the project.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 67–70 · Scope"
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "A successful industrial heat and storage system could alter the shape of large electricity loads. The call covers in-plant process equipment and energy systems and sets out no specific transmission-operator role.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 67–70 · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 4–5, 11–13 · B — Eligibility"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "The Commission indicates EUR 52.5 million for renewable energy in process industries. It expects 6 awards.\n- Grant request: EUR 7–9 million per project. Different requests remain eligible.\n- Funding form: Lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 67–70 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · p. 20 · Overview of this call\nEfficient energy input from renewable sources and energy management in the process industries (IA) (Processes4Planet and Innovative Advanced Materials for the EU partnerships) · Budget overview"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "For-profit organisations can receive up to 70% towards renewable energy in process industries. The rate is used to set the lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).\n- For-profit organisations: Up to 70% of eligible costs (project costs the grant rules allow), leaving at least 30% to cover.\n- Non-profit legal entities: Up to 100% of eligible costs (project costs the grant rules allow).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 67–70 · Specific conditions"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "Apply for renewable energy in process industries through the European Funding & Tenders Portal in two stages, with a full proposal by invitation.\n- Stage 1 — Outline: 2 February 2027 at 17:00 Brussels time. Submit a 10-page outline with anonymised abstract and Part B.\n- Stage 2 — Full proposal: 2 September 2027 at 17:00 Brussels time. By invitation after stage one. The technical proposal (Part B) is limited to 48 pages.\n- Opening: 13 October 2026.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · p. 20 · Overview of this call\nEfficient energy input from renewable sources and energy management in the process industries (IA) (Processes4Planet and Innovative Advanced Materials for the EU partnerships) · General information\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 67–70 · Specific conditions"
+        },
+        {
+          "title": "Project window",
+          "answer": "The grant agreement (the contract setting the funded work and payment rules) sets the start date and duration for renewable energy in process industries.\n- Required start: Work normally starts after the grant agreement is signed. A reasoned exception needs approval.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · Starting date & project duration"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "Use the portal’s forms to submit the proposal and supporting documents for renewable energy in process industries.\n- Application form: Complete Part A in the Portal and attach Part B and mandatory annexes.\n- Registration: Beneficiaries (organisations formally responsible for funded work) and affiliated entities (organisations legally linked to funded partners) need participant identification codes (organisation registration numbers).\n- Partner documents: The coordinator confirms its authority to act for the applicant group.\n- Budget: Provide the detailed lump-sum (a fixed grant paid for accepted work rather than reimbursing actual spending) budget table with the full proposal.\n- Application form: Include the business case and exploitation strategy in the extended Part B at stage two.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 4–5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 67–70 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 67–70 · Scope"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Renewable energy in process industries proposals are scored first at outline stage and again if invited to submit a full proposal.\n- Outline: Excellence and impact each need 4/5. The overall threshold depends on competition and budget.\n- Full proposal: Excellence, impact and implementation are scored. Each criterion needs 3/5 and the total needs 10/15.\n- Impact is weighted by 1.5 in Innovation Action (a grant for developing and demonstrating new solutions) full-proposal ranking.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Renewable process-energy proposals follow the rules for demonstrating innovations at industrial pilot scale.\n- Conditional requirement: Stage one: Keep the abstract and Part B anonymous. Qualified applicants are invited to stage two.\n- Conditional requirement: At stage two, use the three additional pages to include the business case and exploitation strategy. The funder recommends a greenhouse-gas avoidance method.\n- Exception — Transfer of results: The granting authority may object to a transfer of ownership or to exclusive licensing (giving another party sole rights to use the results) for up to four years after the project ends.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 67–70 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 67–70 · Scope\nEfficient energy input from renewable sources and energy management in the process industries (IA) (Processes4Planet and Innovative Advanced Materials for the EU partnerships) · Topic Q&A 109693, 93340"
+        }
+      ]
+    }
+  ]
+}

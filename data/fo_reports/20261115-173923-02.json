@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "Test and scale a package of port measures for resilience, circular operations or marine restoration.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · Expected Outcome"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Test, deploy and scale port measures for at least one Ocean Mission objective. Depending on the local strategy, the project can include renewable energy, circularity, biodiversity or adaptation.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · Specific conditions"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "Ports and neighbouring communities need implementable ways to reduce environmental impacts and protect harbour activities from climate hazards.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · Expected Outcome"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "Provide port demonstrations and monitor their effectiveness. Develop replication plans and give local authorities and other ports practical implementation support.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · Expected Outcome"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Demonstrate measurable progress in the selected European ocean objectives. Build the capacity of ports to act and improve how port communities prepare for climate extremes.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · Expected Outcome"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "Share knowledge throughout the project with at least four other regions. Provide technical assistance so those regions can prepare to adopt the measures.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · Expected Outcome"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "The proposal needs at least three independent funded partners in three different eligible countries. At least one must be established in a European Union Member State. The other two must be established in different Member States or countries associated with Horizon Europe (countries formally participating in the European research programme).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "Engage port authorities, local communities, relevant public authorities, researchers and industry. The additional regions should be represented by suitable port authorities or public bodies.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "Plan one demonstration per basin and provide technical help to at least four additional regions. The project may give each eligible local or regional public authority up to EUR 100,000 once to showcase or replicate results.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · Specific conditions"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "The group appoints a funded partner to lead the work on green and resilient harbours and represent it to the funder.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "TenneT could coordinate the project if it can assess or validate a substantive transmission connection for a harbour renewable-energy measure. The applicants choose their coordinator (the funded partner that represents the group to the funder).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · Scope"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "TenneT could take part in green and resilient harbours without receiving a grant. As an associated partner (an organisation that works without a grant), it could assess or validate a substantive transmission connection for a harbour renewable-energy measure. It would cover its own costs and would not count towards the minimum number of funded partners.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · Scope"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "TenneT can receive up to 70% of eligible costs (project costs the grant rules allow) for qualifying work. The Dutch entity could assess or validate a substantive transmission connection for a harbour renewable-energy measure. Budget at least 30% of those costs from other resources.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · Scope"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT could help assess connection choices for a harbour’s renewable energy transition, particularly where port and distribution networks depend on a transmission connection.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · Scope"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "Test and scale systemic improvements for harbours. The call expects projects to build on the best available knowledge, methods and innovations.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · Scope"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "The innovation is in combining technical, environmental and organisational measures in ports, potentially including renewable energy, circularity or ecosystem restoration.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · Scope"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Test, deploy and scale the selected port measures, then help additional regions use the demonstrations to plan replication.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · Scope"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "The work should reach TRL 6–8 (technology readiness level: from demonstration in relevant conditions to a complete, qualified system) by project end.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · Specific conditions"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "Demonstrate in at least four harbours across the four Ocean Mission basins (large European sea or river regions). Show that measures are relevant to smaller ports and other sites.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · Specific conditions"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "Bring port operators, authorities, researchers, industry and local stakeholders together. Fit the solutions to port operations and link them to complementary European, national or regional programmes.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · Scope"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "Measure and verify progress toward one or more Ocean Mission objectives (European goals for healthier oceans and waters). Show that additional regions can understand and apply the approach.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · Expected Outcome"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "Involve local stakeholders, port authorities, industry and research organisations. Engage at least four additional regions and give them targeted help in preparing to replicate the measures.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · Scope"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "The Commission indicates EUR 11.9 million for green and resilient harbours. It expects 2 awards.\n- Grant request: EUR 5.5–5.95 million per project. Different requests remain eligible.\n- Funding form: Budget-based grant (paid using approved costs or rates for the funded work).",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Missions · p. 26 · Overview of this call\nGreen, circular and resilient harbours · Budget overview"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "For-profit organisations can receive up to 70% towards green and resilient harbours.\n- For-profit organisations: Up to 70% of eligible costs (project costs the grant rules allow), leaving at least 30% to cover.\n- Non-profit legal entities: Up to 100% of eligible costs (project costs the grant rules allow).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · Specific conditions"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Budget the harbour demonstrations separately from any grants to public authorities in additional regions.\n- Eligible costs (project costs the grant rules allow): Staff, purchases and subcontracting.\n- Overheads and value added tax (tax on purchases): A 25% flat rate (a set percentage applied to qualifying costs) applies to the eligible direct cost base with the scheduled exclusions.\n- Caps or mandatory allocations: Up to EUR 100,000 once for each eligible public-authority recipient.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 32 · Budget categories and cost eligibility rules\nHorizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · Specific conditions"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "Plan cash flow for green and resilient harbours around the initial advance and later payments.\n- Payment model: Normally pre-financing (an advance at the start of the grant) followed by periodic payments and the final balance.\n- Retention or guarantee: 5–8% of the maximum grant is deducted from pre-financing for mutual insurance.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 33 · Reporting & payment arrangements"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "Apply for green and resilient harbours through the European Funding & Tenders Portal in one stage.\n- Full proposal: 21 September 2027 at 17:00 Brussels time. The technical proposal (Part B) is limited to 40 pages.\n- Opening: 9 February 2027.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · p. 26 · Overview of this call\nGreen, circular and resilient harbours · General information\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents"
+        },
+        {
+          "title": "Project window",
+          "answer": "The grant agreement (the contract setting the funded work and payment rules) sets the start date and duration for green and resilient harbours.\n- Required start: Work normally starts after the grant agreement is signed. A reasoned exception needs approval.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · Starting date & project duration"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "The Commission’s timetable for assessing and contracting green and resilient harbours is indicative.\n- Expected invitation or assessment result: Around 5 months from the full-proposal deadline.\n- Grant agreement (the contract setting the funded work and payment rules): Around 8 months from the full-proposal deadline.\n- Conditions before starting: Beneficiaries (organisations formally responsible for funded work) must conclude a written consortium agreement (the partners’ written agreement on how the project will run).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium agreement"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "Use the portal’s forms to submit the proposal and supporting documents for green and resilient harbours.\n- Application form: Complete Part A in the Portal and attach Part B and mandatory annexes.\n- Registration: Beneficiaries (organisations formally responsible for funded work) and affiliated entities (organisations legally linked to funded partners) need participant identification codes (organisation registration numbers).\n- Partner documents: The coordinator confirms its authority to act for the applicant group.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 4–5, 11–13 · B — Eligibility"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Green and resilient harbours proposals compete on research quality, impact and the quality of the delivery plan.\n- Full proposal: Excellence, impact and implementation are scored. Each criterion needs 3/5 and the total needs 10/15.\n- Impact is weighted by 1.5 in Innovation Action (a grant for developing and demonstrating new solutions) full-proposal ranking.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "A harbour project can award grants to qualifying public authorities in additional regions.\n- Conditional requirement: Optional onward grants: Eligible local or regional public authorities outside the same project's demonstration beneficiaries (organisations formally responsible for funded work) may receive up to EUR 100,000 once to showcase or replicate a solution.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · Scope"
+        }
+      ]
+    }
+  ]
+}

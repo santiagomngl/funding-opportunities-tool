@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "Develop and demonstrate shared approaches to managing climate risks across national borders.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 58–61 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 58–61 · Expected Outcome"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Address at least one shared climate hazard and demonstrate integrated solutions on both sides of a national border. Include a common risk classification and shared governance or socioeconomic approaches.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 58–61 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 58–61 · Specific conditions"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "Neighbours on opposite sides of borders face flood, storm and other climate risks that can disrupt linked services and infrastructure.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 58–61 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 58–61 · Expected Outcome"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "Deliver shared risk assessments and responses demonstrated in two border regions. Identify another border-spanning site where the approach could be used.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 58–61 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 58–61 · Expected Outcome"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Help authorities prepare for cross-border and cascading effects. The work should clarify shared risks and responsibilities for long-term resilience.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 58–61 · Expected Outcome"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "Identify a site with credible replication potential. Reserve resources to work with the European adaptation support platform and the other projects in the group.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 58–61 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 58–61 · Expected Outcome"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "The proposal needs at least three independent funded partners in three different eligible countries. At least one must be established in a European Union Member State. The other two must be established in different Member States or countries associated with Horizon Europe (countries formally participating in the European research programme).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "Regional or local authorities on both sides should take part actively, ideally as funded or associated partners (organisations working without a grant). Include social sciences and humanities expertise.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 58–61 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 58–61 · Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "Clarify shared governance and responsibilities on both sides of the border. Include resources to work with the European adaptation mission implementation platform.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 58–61 · Scope"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "The group appoints a funded partner to lead the work on cross-border climate resilience and represent it to the funder.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "TenneT could coordinate the project if it can provide service-continuity or grid-risk analysis for a cross-border demonstration with participating authorities. The applicants choose their coordinator (the funded partner that represents the group to the funder).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Missions · pp. 58–61 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Missions · pp. 58–61 · Scope"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "TenneT could take part in cross-border climate resilience without receiving a grant. As an associated partner (an organisation that works without a grant), it could provide service-continuity or grid-risk analysis for a cross-border demonstration with participating authorities. It would cover its own costs and would not count towards the minimum number of funded partners.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Missions · pp. 58–61 · Scope"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "TenneT can receive up to 70% of eligible costs (project costs the grant rules allow) for qualifying work. The Dutch entity could provide service-continuity or grid-risk analysis for a cross-border demonstration with participating authorities. Budget at least 30% of those costs from other resources.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Missions · pp. 58–61 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Missions · pp. 58–61 · Scope"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT could model how a shared flood or storm scenario affects grid continuity and help authorities test coordination across a border.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 58–61 · Scope"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "Develop an integrated adaptation solution for a cross-border risk. The proposal can build on relevant existing adaptation methods and evidence.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 58–61 · Scope"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Innovation covers the measures that protect both sides of a border and the shared risk classifications, governance and finance arrangements that make them durable.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 58–61 · Scope"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Classify the shared risk, develop and demonstrate an integrated response at two sites, and identify an additional cross-border site for replication.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 58–61 · Scope"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "Demonstrate at no fewer than two distinct sites, each covering adjacent regions on both sides of a national border in eligible countries.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 58–61 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 58–61 · Specific conditions\nDemonstrating transformative solutions to increase cross-border climate resilience · Topic Q&A 100115"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "Set out how neighbouring authorities will manage the same risk, share responsibilities and connect the work to the European Mission’s implementation platform.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 58–61 · Scope"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "Demonstrate an integrated solution on both sides of each border and show how a shared risk classification supports a workable response.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 58–61 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 58–61 · Expected Outcome"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "Regional or local authorities on both sides should actively take part. The call prefers participation as funded partners or as associated partners (organisations that work without a grant).",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 58–61 · Scope"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "The Commission indicates EUR 72,323,812.37 for cross-border climate resilience. It expects 5 awards.\n- Grant request: EUR 10–15 million per project. Different requests remain eligible.\n- Funding form: Budget-based grant (paid using approved costs or rates for the funded work).",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 58–61 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Missions · p. 22 · Overview of this call\nDemonstrating transformative solutions to increase cross-border climate resilience · Budget overview"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "For-profit organisations can receive up to 70% towards cross-border climate resilience.\n- For-profit organisations: Up to 70% of eligible costs (project costs the grant rules allow), leaving at least 30% to cover.\n- Non-profit legal entities: Up to 100% of eligible costs (project costs the grant rules allow).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Missions · pp. 58–61 · Specific conditions"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Plan the budget for cross-border climate resilience using the cost categories allowed by the grant. The grant agreement (the contract setting the funded work and payment rules) specifies how those costs can be claimed.\n- Eligible costs (project costs the grant rules allow): Staff, purchases and subcontracting.\n- Overheads and value added tax (tax on purchases): A 25% flat rate (a set percentage applied to qualifying costs) applies to the eligible direct cost base with the scheduled exclusions.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 32 · Budget categories and cost eligibility rules\nHorizon Europe Work Programme 2026–2027, Missions · pp. 58–61 · Specific conditions"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "Plan cash flow for cross-border climate resilience around the initial advance and later payments.\n- Payment model: Normally pre-financing (an advance at the start of the grant) followed by periodic payments and the final balance.\n- Retention or guarantee: 5–8% of the maximum grant is deducted from pre-financing for mutual insurance.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 33 · Reporting & payment arrangements"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "Apply for cross-border climate resilience through the European Funding & Tenders Portal in one stage.\n- Full proposal: 21 September 2027 at 17:00 Brussels time. The technical proposal (Part B) is limited to 40 pages.\n- Opening: 9 February 2027.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · p. 22 · Overview of this call\nDemonstrating transformative solutions to increase cross-border climate resilience · General information\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents"
+        },
+        {
+          "title": "Project window",
+          "answer": "The grant agreement (the contract setting the funded work and payment rules) sets the start date and duration for cross-border climate resilience.\n- Required start: Work normally starts after the grant agreement is signed. A reasoned exception needs approval.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · Starting date & project duration"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "The Commission’s timetable for assessing and contracting cross-border climate resilience is indicative.\n- Expected invitation or assessment result: Around 5 months from the full-proposal deadline.\n- Grant agreement (the contract setting the funded work and payment rules): Around 8 months from the full-proposal deadline.\n- Conditions before starting: Beneficiaries (organisations formally responsible for funded work) must conclude a written consortium agreement (the partners’ written agreement on how the project will run).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium agreement"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "Use the portal’s forms to submit the proposal and supporting documents for cross-border climate resilience.\n- Application form: Complete Part A in the Portal and attach Part B and mandatory annexes.\n- Registration: Beneficiaries (organisations formally responsible for funded work) and affiliated entities (organisations legally linked to funded partners) need participant identification codes (organisation registration numbers).\n- Partner documents: The coordinator confirms its authority to act for the applicant group.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 4–5, 11–13 · B — Eligibility"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Cross-border climate resilience proposals compete on research quality, impact and the quality of the delivery plan.\n- Full proposal: Excellence, impact and implementation are scored. Each criterion needs 3/5 and the total needs 10/15.\n- Impact is weighted by 1.5 in Innovation Action (a grant for developing and demonstrating new solutions) full-proposal ranking.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Include plans for cooperation with the European adaptation support platform and work with the proposed replication site.\n- Conditional requirement: Cross-border layout: Each demonstration must cover both sides of a national border. Administrative units can be distributed unevenly across the two sides.\n- Recommended: Consider the CLIMAAX (a common framework for assessing regional climate risks) and the UNDERPIN (a framework for tracking regional adaptation progress) where applicable.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 58–61 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Missions · pp. 58–61 · Scope\nDemonstrating transformative solutions to increase cross-border climate resilience · Topic Q&A 100115"
+        }
+      ]
+    }
+  ]
+}
