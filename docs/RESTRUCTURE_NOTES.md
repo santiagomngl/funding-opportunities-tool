@@ -207,3 +207,10 @@ To confirm, step by step:
 - Sections 8.1, 8.2 and 10.5 of the developer report, which I did not have.
 - Browsers other than Chromium, and the Share fallback when the clipboard is blocked.
 - Windows. `check-data` needs `python3` on the PATH; on Windows the command may be `python`.
+
+## 9. Report format change (16 November 2026)
+
+- `templates/fo_report_type_1_2.template.json`, `templates/fo_report_type_3.template.json` and `RE_agent.md` were replaced by the new versions. Sections 2, 3 and 4 above describe the state before this change; where they cite a section of `RE_agent.md`, the number is the old one (the money and date formats are now in section 6).
+- The detail page needed no change to its layout code: it already takes every section and card title and question from the report file. A test now checks this against both templates.
+- The two reports in `data/fo_reports/` were moved to the new structure by hand, from their existing answers only. The calls were not read again, so every card the old format had no answer for is null and hidden. Re-run the RE agent on both to fill them.
+- There was no CM2026-01 brief or other demo data left to update: it was removed in the restructure (section 7).

@@ -24,13 +24,13 @@ Do these steps for each FO record you are given. Finish one report before starti
    - `Type 1` or `Type 2`: `fo_report_type_1_2.template.json`.
    - `Type 3`: `fo_report_type_3.template.json`.
    - `Not relevant`: write no report and stop.
-3. **Read the call.** Open `url`. Find the call text, annexes, national rules, FAQ and updates, and read what you need to answer the template. Never fill in a fact from a page you could not read.
+3. **Read the call.** Open `url`. Read the full call text and every annex, national rule and FAQ that applies to the Netherlands, plus any updates. Never fill in a fact from a page you could not read.
    - Long documents often come back in parts. Read every part with the reading tool itself, using its offset or page option. Do not download documents. Download only as a last resort, when the reading tool cannot reach a missing part in any way, and save the file in `pdfs/`.
    - Ask the reading tool for verbatim text with page numbers, and check rates, deadlines and eligibility in a second read.
    - Before you leave a card null, or write that the call excludes something, make sure you have read every document that could address it. If you could not, name the unread documents or pages in your final message.
    - If `url` shows no call text, look for the official call documents (call text, work programme) on the funder's site by the call's name or identifier. If you still cannot read the call, write no report, keep any existing report, and give the reason in your final message.
 4. **Fill in a copy of the template**, following "The report file" and "Writing guidelines" below.
-5. **Check and save.** Run the check in section 12 of the writing guidelines, confirm the file is valid JSON, and save it as `data/fo_reports/<id>.json`. If a report already exists for this id, replace it.
+5. **Check and save.** Run the check in section 8 of the writing guidelines, confirm the file is valid JSON, and save it as `data/fo_reports/<id>.json`. If a report already exists for this id, replace it.
 
 Two ground rules:
 
@@ -43,14 +43,74 @@ If your reading shows the call type is wrong (for example a Type 1 call that exc
 
 Fill in only the `answer` and `sources` of each card, both as plain text. Leave everything else in the template as it is.
 
-- `answer`: the answer, or null when the call does not address the card.
-- `sources`: the sources used for that card, one per line, in the format given in section 8 of the writing guidelines. Null when the answer is null.
+- `answer`: the answer, or null when the call does not address the card. Never write "Not stated", "N/A" or similar.
+- `sources`: the sources used for that card, one per line, in the format given in section 6 of the writing guidelines. Null when the answer is null.
 
-The cards in `project_requirements` and `call_overview` each have a `question`. Answer exactly that question.
+The cards in `project_requirements` and `call_overview` each have a `question`. Answer exactly that question, following the tables below.
 
-Three of them ask for your judgement instead of a rule from the call: TenneT's likely contribution, Why it matters to TenneT, and Who it suits. Use the FO record's `status_rationale` as the starting point for these.
+Two of them ask for your judgement instead of a rule from the call: TenneT's likely contribution (Type 1 and 2) and Why it matters to TenneT (Type 3). Use the FO record's `status_rationale` as the starting point for these.
 
-The cards in `funding_timing_submission` have no question. Their answer starts with one sentence that gives the bottom line, followed by one bullet per point below, each starting with its label, for example `- Maximum duration: 36 months`. Leave out a bullet the call does not address.
+**Type 1 and 2: What the call wants**
+
+| Card | What to write |
+| --- | --- |
+| Central object | The principal thing the project must develop, stated first. |
+| Scope | Which activities fall within the call's scope: which are mandatory, which are optional and which are excluded, in the call's own topic names. |
+| Problem | The type of problem or need that must justify the project, and where it must originate: with an operational user, industry, society, a region or a research community. Say whose need it is: system operators, regions, companies, consumers, public authorities or another group. |
+| Deliverables | The concrete outputs the project must produce: models, prototypes, tools, standards, datasets, methodologies or demonstrations. |
+| Impact | The wider system outcomes the project must support, such as transport capacity, grid availability, congestion reduction, renewable integration, affordability or environmental performance, and how it must contribute to climate targets, industrial capability, regional development, knowledge networks or broader societal objectives. Give any targets the call sets. |
+| After the project | Whether the result must be an isolated pilot or a solution designed for wider use; where and by whom it must be replicated or transferable; whether replication must happen during the project or the proposal only has to show that future replication is credible; whether the project must satisfy or develop specific standards, interfaces or interoperability requirements; whether the result must become operationally applicable or commercially available; whether a business, governance, ownership or implementation model must support continued use; whether knowledge-utilisation, dissemination, training or capacity-building activities are required; and whether someone must adopt, operate, finance or maintain the result after funding ends. |
+
+**Type 1 and 2: Consortium**
+
+| Card | What to write |
+| --- | --- |
+| Number of partners | The permitted or required consortium size: minimum and maximum. |
+| Partner composition | Whether the consortium must include universities, enterprises, SMEs, Need Owners, public authorities, end users or research institutes, and whether partners must come from a particular country or region. |
+| Distribution of work | How responsibilities, funding, work packages or research positions must be distributed among partners. |
+| Coordinator | What type of organisation may or must act as lead applicant. |
+
+**Type 1 and 2: TenneT's position**
+
+| Card | What to write |
+| --- | --- |
+| Coordinate | Whether TenneT may apply or coordinate, and under which conditions. |
+| Participate | Whether TenneT may take part as a self-financed or associated partner without receiving funding, and in which role. |
+| Receive funding | Whether TenneT may receive funding, which funding rate or cost rules apply, and under which Dutch rules. |
+| TenneT's likely contribution | Your judgement: what contribution would make TenneT credible and useful within the project, such as test sites, grid data or operational expertise. |
+
+**Type 1 and 2: Innovation**
+
+| Card | What to write |
+| --- | --- |
+| Innovation threshold | Whether the project must produce genuinely new knowledge or technology, or may integrate and apply existing solutions. |
+| Innovation object | Whether the innovation must be in technology, system architecture, operational methods, market arrangements, governance models or a combination of these. |
+| Development stages | Whether the project must support research, engineering, prototyping, demonstration, deployment or only particular combinations of these stages. |
+| Maturity | The TRL or technical and operational maturity expected at the beginning and at the end of the project. |
+
+**Type 1 and 2: Work**
+
+| Card | What to write |
+| --- | --- |
+| Demonstration | Whether the solution must be demonstrated through a laboratory, simulation, living lab, real region or operational infrastructure, and whether development or testing must take place under real operational conditions. |
+| Integration | Whether the activities must form one coherent system rather than separate or independent work packages, and how the project must interact with existing infrastructure, technologies and organisational processes. |
+| Evidence | What evidence the demonstration must produce to establish performance, feasibility or impact, with any indicators the call sets. |
+| User participation | Whether users must participate in defining requirements, co-designing solutions, testing or validation. |
+| Safety and cybersecurity | Safety, cybersecurity, data-access or operational-continuity requirements specific to the call. |
+
+**Type 3: About the call and Relevance to TenneT**
+
+| Card | What to write |
+| --- | --- |
+| What the call wants | The principal thing the project must develop, and the type of problem or need behind it: where it must originate (an operational user, industry, society, a region or a research community) and whose need it is. |
+| Project impact | The wider system outcomes the project must support, such as transport capacity, grid availability, congestion reduction, renewable integration, affordability or environmental performance, and its contribution to climate targets, industrial capability, regional development, knowledge networks or broader societal objectives. |
+| Who it suits | What type of organisation may or must act as lead applicant; whether the consortium must include universities, enterprises, SMEs, Need Owners, public authorities, end users or research institutes; how responsibilities, funding, work packages or research positions must be distributed among partners; and which kinds of organisation (suppliers, startups, universities) the call suits best. |
+| Innovation | Whether the project must produce genuinely new knowledge or technology, or may integrate and apply existing solutions, and whether the innovation must be in technology, system architecture, operational methods, market arrangements, governance models or a combination of these. |
+| Maturity | The TRL or technical and operational maturity expected at the beginning and at the end of the project. |
+| Demonstration and integration of work | Whether the solution must be demonstrated through a laboratory, simulation, living lab, real region or operational infrastructure, whether under real operational conditions, whether the activities must form one coherent system, and how the work must interact with existing infrastructure, technologies and organisational processes. |
+| Why it matters to TenneT | Your judgement: the specific TenneT topic or need the call touches, not "the energy transition", and one sentence on why TenneT cannot take part itself, naming the rule or saying that the call does not set out a route for TenneT. |
+
+The cards in `funding_timing_submission` have no question. Their answer starts with one sentence that gives the bottom line, followed by one bullet per point below, each starting with its label, for example `- Maximum duration: 36 months`. A bullet gives the value and, where there is one, the condition or consequence that comes with it, for example `- Grant request: up to EUR 1 million, shared by all Dutch partners`. Leave out a bullet the call does not address.
 
 **Funding: How much funding can the project receive?**
 
@@ -115,21 +175,16 @@ These rules apply to every text you write into an FO report: answers and sources
 - **Type 1 and Type 2 reports** are read by a TenneT colleague who has not read the call and must decide whether to build a proposal. They need the facts that decide this: who may take part, what TenneT can receive, what the project must do, how much money is available and when the deadlines are.
 - **Type 3 reports** are read by a TenneT colleague who may pass the call on to suppliers, startups or universities. They need to know what the call funds, who can apply and why TenneT cares.
 
-Test every sentence: does it tell this reader something about this call that they need? If not, delete it.
+The reader is an engineer, asset manager or project lead, not a funding specialist. They don't know funding terms or programme names.
+
+Test every sentence: does it tell this reader something about this call that they need? If not, improve it.
 
 ### 2. Report only what the call says
 
 - Answer from the official call documents: the call text, annexes, national rules, FAQ and official pages. Never answer from general knowledge of the programme or from a search snippet.
-- If the call does not address a card or field, leave it null, but only after reading every document that could address it (step 3). Never write "Not stated", "N/A" or "The call does not explicitly mention…, but…". Silence is not a requirement.
 - Keep the call's force. Must stays must, should stays should, may stays may. Do not soften "must" into "is expected to", and do not turn an encouragement into a requirement.
 - A conclusion that follows directly from the call's rules is allowed. State the rule, then the consequence: "…TenneT must therefore finance its own costs."
-- Judgements that go beyond the rules belong only in the three interpretation cards: TenneT's likely contribution, Why it matters to TenneT and Who it suits. Even there, name the fact in the call that the judgement rests on, and write "could", not "will".
-
-**Example**
-
-> **Instead of:** While the call does not explicitly address cybersecurity, applicants should ensure robust data protection measures are in place.
->
-> **Write:** Nothing. Leave Data, IP and security as null.
+- Every card may draw a conclusion for TenneT. Name the fact in the call it rests on, and write "could", not "will". The two judgement cards (TenneT's likely contribution, Why it matters to TenneT) are mainly interpretation.
 
 ### 3. Lead with the answer
 
@@ -139,17 +194,26 @@ Build each answer from up to three parts:
 - **Condition:** any condition, exception or reason that changes it.
 - **Consequence:** what the call therefore requires of the applicant or TenneT.
 
-Not every answer needs all three. The first sentence must carry the main point on its own, in 25 words or fewer, because the reader may stop there. Never open by restating the question or the call's purpose statement.
+Give the consequence whenever the call's rule has one for TenneT. A card that only restates the call is not finished. The first sentence must carry the main point on its own, in 25 words or fewer, because the reader may stop there. Never open by restating the question or the call's purpose statement.
 
-**Example**
+Write as much as the reader needs to act on it. A simple fact takes two or three sentences. Scope, the TenneT's position cards and the judgement cards usually need a full paragraph, plus bullets where items are listed.
 
-> **Write:** TenneT cannot receive NWO funding under this route. Universities and public research organisations may receive funding, but enterprises and public authorities may not. TenneT must therefore participate through self-financing or another eligible national instrument.
+### 4. Choose the format
 
-### 4. Be specific
+Use the format that makes the point clear.
+
+| Format | Use it when | Do not use it when |
+| --- | --- | --- |
+| Three sentences | The answer is yes, no or conditional, with at most one exception or consequence | Three or more separate conditions must be remembered |
+| List | The reader can check or act on each item separately; Turn a sentence into a list when it holds three or more parallel items the reader will check one by one. | The meaning depends on a continuous cause-and-effect explanation |
+| Full paragraph | The reader must understand a mechanism or a relationship between rules. | The content is mainly dates, amounts, categories or independent requirements |
+
+### 5. Be specific
 
 - Give the number, not the category: "EUR 1.5 million", not "substantial funding"; "at least three partners from two countries", not "an international consortium".
 - Name the organisation types, countries, TRLs, documents and stages the call names.
-- Use the call's own terms, such as "Need Owner" or "pre-proposal". Explain an unusual term once, in a short clause.
+- Use the call's own terms, such as "Need Owner" or "pre-proposal". Explain every funding term, programme name and acronym in plain words the first time it appears in each card, for example "TRL 6 (a prototype tested in a realistic setting)" or "lump sum (a fixed amount paid against results, not against costs)". Spell out every acronym.
+- When a rule has a practical effect, keep the technical term and add what it means in everyday terms in brackets, for example "two-stage call (you first send a short outline; only shortlisted consortia may then send a full proposal)".
 - TenneT means TenneT TSO B.V., the Dutch entity. Where national rules differ, report only the Dutch rules, such as the RVO or NWO section of a joint call.
 - Test: could this sentence appear unchanged in a report on another call? If yes, make it specific or delete it.
 
@@ -159,47 +223,7 @@ Not every answer needs all three. The first sentence must carry the main point o
 >
 > **Write:** The project must develop, demonstrate or validate methods, tools or operational solutions that make power systems or integrated energy systems more resilient under stressed, degraded or emergency conditions. It must address at least one intrinsic or external threat and at least one stage of the resilience cycle.
 
-### 5. Say each fact once
-
-Each fact has one home in the report. Another card may point to it in a few words, but does not repeat it.
-
-| Fact | Home |
-| --- | --- |
-| Project size, grant amounts, funding rates, own contribution | Funding cards |
-| Caps on cost categories, excluded costs, overheads | Budget constraints |
-| Deadlines, stages, start dates, duration | Timing cards |
-| Number, types and countries of partners; how the budget must be split among them | Composition |
-| Who may or must coordinate or lead | Leadership |
-| What TenneT itself may do and receive | Participation route and Funding for TenneT |
-
-Funding for TenneT gives only TenneT's own case: its rate and the national rules that apply to it. The full list of rates stays in the Funding rate and co-financing card.
-
-### 6. Give each sentence one job
-
-Each sentence does one of these:
-
-- States a rule
-- Explains a condition
-- Names an exception
-- States what the applicant or TenneT must do
-- Gives an example
-
-Do not combine a rule, several examples, an exception and a consequence in one sentence. Keep sentences to 25 words or fewer as a rule.
-
-### 7. Choose the format
-
-Use the shortest format that makes the point clear.
-
-| Format | Use it when | Do not use it when |
-| --- | --- | --- |
-| Three sentences | The answer is yes, no or conditional, with at most one exception or consequence | Three or more separate conditions must be remembered |
-| Answer + list + consequence | There is one main conclusion, several supporting conditions and a practical consequence | The answer fits in three sentences |
-| List | The reader can check or act on each item separately, especially numbers, deadlines, organisation types and mandatory documents | The meaning depends on a continuous cause-and-effect explanation |
-| Full paragraph | The reader must understand a mechanism or a relationship between rules | The content is mainly dates, amounts, categories or independent requirements |
-
-Turn a sentence into a list when it holds three or more parallel items the reader will check one by one. A short run of terms inside a definition can stay in the sentence.
-
-### 8. Write plain text
+### 6. Write plain text
 
 - In answers, use no formatting symbols: no asterisks, no #, no underscores, no HTML. Do not add bold.
 - For a list inside an answer, put each item on a new line starting with "- ".
@@ -220,40 +244,17 @@ Turn a sentence into a list when it holds three or more parallel items the reade
 > - Stage 1 — Pre-proposal: 8 October 2026  
 > - Stage 2 — Full proposal: 11 March 2027, by invitation only, after Stage 1
 
-### 9. Keep it short
+### 7. Type 3 reports
 
-- Card answer: aim for 40 to 60 words, about 90 at most; Type 3 answers about 50. A joint call or a multi-step route may need more: then give each country or step its own bullet rather than writing longer sentences.
-- Funding, timing or submission card: one sentence with the bottom line, then bullets of a phrase or one sentence each.
-- When an answer runs long, cut detail the reader does not need to decide. Never cut the decisive condition.
-
-### 10. Cut these
-
-| Instead of | Write |
-| --- | --- |
-| Restating the question or the call's purpose statement | The answer |
-| "It is important to note that", "It should be noted that" | Delete the phrase |
-| "aims to foster / enhance / leverage / drive" | What the project must do |
-| robust, comprehensive, innovative, cutting-edge, holistic, key, crucial, various, a wide range of | The specific thing, or nothing. Keep such a word only when quoting the call or in the call's own defined terms, such as Key Exploitable Result. |
-| "may potentially", "could possibly" | One hedge at most |
-| "In summary", "Overall", closing recaps | Delete |
-| "The call does not explicitly state…, but…" | null |
-
-### 11. Type 3 reports
-
-- What the call funds, Who can apply and Maturity must make sense to someone outside TenneT, so a colleague can forward them without editing.
-- **What the call funds:** two or three sentences on the purpose and the kind of project it pays for.
-- **Who can apply:** organisation types, countries, and whether a single applicant may apply or a consortium is required.
-- **Maturity:** the TRL range in one sentence; null if the call gives none.
-- **Why it matters to TenneT:** the specific TenneT topic or need the call touches, not "the energy transition". Add one sentence on why TenneT cannot take part itself, naming the rule, or saying that the call does not set out a route for TenneT.
-- **Who it suits:** concrete organisation types and the reason, for example "SMEs developing inspection robots at TRL 5–7".
+- Every card except Why it matters to TenneT must make sense to someone outside TenneT, so a colleague can forward it without editing.
 - **Funding, timing and submission:** fill Funding envelope, Funding rate and co-financing, Application route and Project window. Fill the other cards only where the call states the point plainly; leave the rest null.
 
-### 12. Check before saving
+### 8. Check before saving
 
 - Every first sentence answers its question on its own.
+- Each answer tells the reader something they would not get from the call's summary page.
 - Every number has a unit or currency; every deadline has a date and a stage.
-- No card repeats what another card says.
 - No sentence could appear unchanged in a report on another call.
 - Every answer that is not null has a source, and nothing was filled in from silence.
 - Must, should and may match the call.
-- No formatting symbols, internal terms or phrases from section 10.
+- No formatting symbols or internal terms.

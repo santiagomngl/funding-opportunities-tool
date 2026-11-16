@@ -5,20 +5,38 @@
       "question": "What does the call offer, and who can apply?",
       "cards": [
         {
-          "title": "What the call funds",
-          "question": "What does the call fund?",
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
           "answer": null,
           "sources": null
         },
         {
-          "title": "Who can apply",
-          "question": "Who can apply: which organisation types and countries, and is it a single applicant or a consortium?",
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
           "answer": null,
           "sources": null
         },
         {
           "title": "Maturity",
-          "question": "Which TRL range does the call target?",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
           "answer": null,
           "sources": null
         }
@@ -31,12 +49,6 @@
         {
           "title": "Why it matters to TenneT",
           "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
-          "answer": null,
-          "sources": null
-        },
-        {
-          "title": "Who it suits",
-          "question": "Which kinds of organisation does the call suit: suppliers, startups, universities or others?",
           "answer": null,
           "sources": null
         }
