@@ -1,4 +1,4 @@
-// How amounts and dates appear on screen. Amounts follow RE_agent.md, section 6:
+// How amounts and dates appear on screen. Amounts follow AGENT.md, writing guidelines, section 6:
 // EUR 250,000; EUR 1.5 million; ranges as EUR 0.5–3 million.
 
 const MILLION = 1_000_000;

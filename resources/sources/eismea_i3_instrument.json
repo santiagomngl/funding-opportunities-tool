@@ -6,7 +6,7 @@
     "first_run_on": "2026-11-16",
     "last_completed_scan_at": "2026-11-15T12:50:50+01:00"
   },
-  "parameters_passed_to_the_search_agent": {
+  "parameters_passed_to_the_agent": {
     "portal_type": "programme",
     "starting_url": "https://eismea.ec.europa.eu/programmes/interregional-innovation-investments-i3-instrument_en",
     "search_scope": "Open and forthcoming Investment calls of the I3 Instrument under the Work Programme 2025-2027: Strand 1 (interregional innovation investments by regions that share smart specialisation areas) and Strand 2a (value chain development in less developed regions). Include a Strand 2b call (regional innovation ecosystems and capacity building) if one is published. Each strand topic is its own FO, with the topic ID (for example I3-2026-INV1) as the call reference. Skip calls for tenders, calls for expert evaluators, funded-project lists, news and events.",

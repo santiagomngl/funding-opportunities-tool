@@ -266,3 +266,10 @@ The filter is **cleared** on Edit profile, as on Reset and Start over. This was 
 3. *`check-data` counts the null project dates of the two real records as problems*, so it still ends with a failure on this repository, as before.
 4. *The filter is not in the link that Share copies.* A shared link opens the opportunity, not the filtered list. That matches "stores nothing outside the browser".
 
+## Later: one agent file (AGENT.md)
+
+`SA_agent.md` and `RE_agent.md` were replaced by one file, `AGENT.md` (SARA: Search, Assessment and Report Agent). Where the sections above name the two old files, read `AGENT.md`.
+
+- The date helper, the gate programme and the Known Calls script in `AGENT.md` are the same code as in the old `SA_agent.md`. `check-data` now reads the gate from `AGENT.md`.
+- `templates/source.template.json` and the three files in `resources/sources/` use the key `parameters_passed_to_the_agent` (was `parameters_passed_to_the_search_agent`), as `AGENT.md` reads it.
+- The other templates, the taxonomy, the call types and the project files did not change.

@@ -4,7 +4,7 @@
 //   npm run check-data
 //
 // 1. FO records: runs the gate programme on every file in data/fo_records/.
-//    The gate's code is read from SA_agent.md each time, so the rules live in
+//    The gate's code is read from AGENT.md each time, so the rules live in
 //    one place. Needs python3, as the agents do.
 // 2. FO reports: each file in data/fo_reports/ must be its template with only
 //    `answer` and `sources` filled in, and belong to a Type 1, 2 or 3 record.
@@ -21,7 +21,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { CALL_TYPE_KEYS, loadSiteData } from "../build/load-data.mjs";
 
-// The folder that holds data/, resources/, templates/ and SA_agent.md.
+// The folder that holds data/, resources/, templates/ and AGENT.md.
 // `--root <folder>` checks another folder (used by the tests).
 const rootFlag = process.argv.indexOf("--root");
 const root = path.resolve(
@@ -48,20 +48,20 @@ function jsonFiles(dir) {
   return readdirSync(full).filter((name) => name.endsWith(".json")).sort().map((name) => `${dir}/${name}`);
 }
 
-/** The Python code of the gate programme, taken from its code block in SA_agent.md. */
+/** The Python code of the gate programme, taken from its code block in AGENT.md. */
 function gateCode() {
-  const lines = readFileSync(path.join(root, "SA_agent.md"), "utf8").split(/\r?\n/);
+  const lines = readFileSync(path.join(root, "AGENT.md"), "utf8").split(/\r?\n/);
   const heading = lines.findIndex((line) => /^##\s+The gate programme\s*$/.test(line));
-  if (heading === -1) throw new Error('SA_agent.md has no "## The gate programme" section');
+  if (heading === -1) throw new Error('AGENT.md has no "## The gate programme" section');
   const start = lines.findIndex((line, i) => i > heading && /^python3 - .*<<'EOF'\s*$/.test(line));
   const end = lines.findIndex((line, i) => i > start && line.trim() === "EOF");
-  if (start === -1 || end === -1) throw new Error("SA_agent.md: cannot find the gate's code block");
+  if (start === -1 || end === -1) throw new Error("AGENT.md: cannot find the gate's code block");
   return lines.slice(start + 1, end).join("\n");
 }
 
 // --- 1. FO records ------------------------------------------------------------
 
-say("FO records (the gate programme from SA_agent.md)");
+say("FO records (the gate programme from AGENT.md)");
 const recordFiles = jsonFiles("data/fo_records");
 const callTypeOf = new Map();
 if (recordFiles.length === 0) say("  none");
