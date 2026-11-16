@@ -1,16 +1,15 @@
-import type { MouseEvent } from "react";
+import { useState, type MouseEvent } from "react";
 import {
   ArrowRight,
   CalendarRange,
+  ChevronDown,
   ChevronRight,
   CircleHelp,
   Clock,
   Coins,
-  Info,
   Pencil,
   RotateCcw,
   Search,
-  TriangleAlert,
   X,
 } from "lucide-react";
 
@@ -33,15 +32,7 @@ import {
   splitTitle,
 } from "@/lib/format.ts";
 import type { Listing, ListingCard, ListingOptions, SortKey } from "@/lib/listing.ts";
-import {
-  dimensions,
-  type CallTypeGroup,
-  type Dimension,
-  type Taxonomy,
-} from "@/lib/types.ts";
-
-/** How many matched answers a card names before "+N". */
-const MATCH_CHIPS = 3;
+import type { CallTypeGroup, Dimension, Taxonomy } from "@/lib/types.ts";
 
 export function Results({
   listing,
@@ -80,6 +71,7 @@ export function Results({
   onStart: () => void;
   onReset: () => void;
 }) {
+  const [profileOpen, setProfileOpen] = useState(true);
   const { cards, total, hiddenByFilters } = listing;
   const narrowed = options.query.trim() !== "" || options.openOnly;
   const labelOf = (dimension: Dimension, code: string) =>
@@ -116,31 +108,45 @@ export function Results({
       {ranked ? (
         // The answers stay in view; each one opens its own question.
         <div className="sticky top-[var(--header-h)] z-20 -mx-4 mt-4 border-b border-[#dfe3e8] bg-[#f6f7f9]/95 px-4 py-2 backdrop-blur sm:-mx-7 sm:px-7">
-          <div className="flex items-center gap-2">
-            <span className="shrink-0 text-xs font-bold uppercase tracking-[0.06em] text-[#164d73] max-sm:sr-only">
+          <div className="flex items-center justify-between gap-2">
+            <button
+              type="button"
+              aria-expanded={profileOpen}
+              aria-controls="your-project-answers"
+              onClick={() => setProfileOpen((current) => !current)}
+              className={`-ml-2 inline-flex min-h-[2.25rem] items-center gap-1.5 rounded-lg px-2 text-xs font-bold uppercase tracking-[0.06em] text-[#164d73] transition-colors hover:bg-[#e7f2fb] ${focusRingClassName}`}
+            >
               Your project
-            </span>
-            <ul className="no-scrollbar flex min-w-0 flex-1 items-center gap-1.5 py-0.5 max-sm:overflow-x-auto sm:flex-wrap">
-              {steps.map((step, index) => (
-                <li key={step} className="shrink-0">
-                  <button
-                    type="button"
-                    title={stepTitle(step)}
-                    aria-label={stepTitle(step)}
-                    onClick={() => onEditStep(index)}
-                    className={`group inline-flex min-h-[2rem] items-center gap-1.5 rounded-full border border-[#d6dbe1] bg-white px-3 text-xs font-medium whitespace-nowrap transition-colors hover:border-[#82b8dc] hover:bg-[#e7f2fb] ${focusRingClassName}`}
-                  >
-                    <span className="font-semibold text-[#164d73]">{stepMeta[step].label}</span>
-                    <span>{stepValue(step)}</span>
-                    <Pencil className="size-3 text-[#58636d] opacity-60 group-hover:opacity-100" aria-hidden="true" />
-                  </button>
-                </li>
-              ))}
-            </ul>
+              <ChevronDown
+                className={`size-4 transition-transform ${profileOpen ? "rotate-180" : ""}`}
+                aria-hidden="true"
+              />
+            </button>
             <button type="button" onClick={onReset} className={`${ghostControlClassName} shrink-0 px-2`}>
               <RotateCcw className="size-4" aria-hidden="true" />
-              <span className="max-sm:sr-only">Start over</span>
+              Start over
             </button>
+          </div>
+          <div id="your-project-answers" className="collapsible" data-open={profileOpen} inert={!profileOpen}>
+            <div>
+              <ul className="flex flex-wrap items-center gap-1.5 pt-1 pb-1.5">
+                {steps.map((step, index) => (
+                  <li key={step} className="max-w-full">
+                    <button
+                      type="button"
+                      title={stepTitle(step)}
+                      aria-label={stepTitle(step)}
+                      onClick={() => onEditStep(index)}
+                      className={`group inline-flex min-h-[2rem] max-w-full items-center gap-1.5 rounded-full border border-[#d6dbe1] bg-white px-3 py-1 text-left text-xs font-medium transition-colors hover:border-[#82b8dc] hover:bg-[#e7f2fb] ${focusRingClassName}`}
+                    >
+                      <span className="font-semibold text-[#164d73]">{stepMeta[step].label}</span>
+                      <span>{stepValue(step)}</span>
+                      <Pencil className="size-3 shrink-0 text-[#58636d] opacity-60 group-hover:opacity-100" aria-hidden="true" />
+                    </button>
+                  </li>
+                ))}
+              </ul>
+            </div>
           </div>
         </div>
       ) : (
@@ -160,7 +166,7 @@ export function Results({
             {narrowed ? `${cards.length} of ${total}` : total}{" "}
             {ranked ? (total === 1 ? "match" : "matches") : total === 1 ? "opportunity" : "opportunities"}
           </p>
-          <label className="relative order-3 block w-full sm:w-[17rem]">
+          <label className="relative order-3 block w-full sm:w-[12.5rem]">
             <span className="sr-only">Search the list</span>
             <Search
               className="pointer-events-none absolute top-1/2 left-3 size-4 -translate-y-1/2 text-[#58636d]"
@@ -170,7 +176,7 @@ export function Results({
               type="search"
               value={options.query}
               onChange={(event) => onOptions({ ...options, query: event.target.value })}
-              placeholder="Search titles or call IDs"
+              placeholder="Search titles or IDs"
               className={`min-h-[2.25rem] w-full rounded-lg border border-[#d6dbe1] bg-white pr-3 pl-9 text-sm placeholder:text-[#6b7781] ${focusRingClassName}`}
             />
           </label>
@@ -220,7 +226,6 @@ export function Results({
               today={today}
               href={hrefFor(card.opportunity.record.id)}
               onOpen={onOpen}
-              labelOf={labelOf}
             />
           </li>
         ))}
@@ -290,24 +295,19 @@ function ResultCard({
   today,
   href,
   onOpen,
-  labelOf,
 }: {
   card: ListingCard;
   callTypes: CallTypeGroup[];
   today: string;
   href: string;
   onOpen: (id: string) => void;
-  labelOf: (dimension: Dimension, code: string) => string;
 }) {
-  const { match, filter } = card;
+  const { match } = card;
   const record = card.opportunity.record;
   const { callId, title } = splitTitle(record.display_title, record.programme);
   const status = deadlineStatus(record.pre_submission_deadline, record.full_proposal_deadline, today);
   const hasWindow = record.earliest_project_start_date !== null || record.project_end_date !== null;
   const hasSize = record.minimum_project_size !== null || record.maximum_project_size !== null;
-  const matched = match
-    ? dimensions.flatMap((dimension) => match.matches[dimension].map((code) => labelOf(dimension, code)))
-    : [];
 
   // A real link, so it can be opened in a new tab; a plain click stays in the page.
   function open(event: MouseEvent<HTMLAnchorElement>) {
@@ -363,41 +363,6 @@ function ResultCard({
 
         <CallTypeTags record={record} callTypes={callTypes} className="mt-2" />
 
-        {matched.length > 0 && (
-          <p className="mt-2 flex flex-wrap items-center gap-1.5 text-xs leading-[1.4]">
-            <span className="font-semibold text-[#164d73]">Matches</span>
-            {matched.slice(0, MATCH_CHIPS).map((label) => (
-              <span key={label} className="rounded-full bg-[#e7f2fb] px-2 py-0.5 font-medium">
-                {label}
-              </span>
-            ))}
-            {matched.length > MATCH_CHIPS && (
-              <span
-                title={matched.slice(MATCH_CHIPS).join(", ")}
-                className="rounded-full bg-[#eef1f4] px-2 py-0.5 font-medium"
-              >
-                +{matched.length - MATCH_CHIPS}
-              </span>
-            )}
-          </p>
-        )}
-
-        {(filter.warnings.length > 0 || filter.notes.length > 0) && (
-          <ul className="mt-2 space-y-1 text-sm leading-[1.45]">
-            {filter.warnings.map((warning) => (
-              <li key={warning} className="flex items-start gap-2 font-medium text-[#7a4b00]">
-                <TriangleAlert className="mt-0.5 size-4 shrink-0" aria-hidden="true" />
-                <span>{warning}</span>
-              </li>
-            ))}
-            {filter.notes.map((note) => (
-              <li key={note} className="flex items-start gap-2 text-[#164d73]">
-                <Info className="mt-0.5 size-4 shrink-0" aria-hidden="true" />
-                <span>{note}</span>
-              </li>
-            ))}
-          </ul>
-        )}
       </div>
 
       <div className="flex shrink-0 items-center gap-1 self-start sm:gap-2 sm:self-center">

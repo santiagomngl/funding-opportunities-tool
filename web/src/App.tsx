@@ -170,12 +170,6 @@ export default function App() {
   let detail = null;
   if (opportunity && route.screen === "opportunity") {
     const index = listing.cards.findIndex((card) => card.opportunity.record.id === opportunity.record.id);
-    const neighbour = (offset: number) => {
-      const card = index >= 0 ? listing.cards[index + offset] : undefined;
-      if (!card) return null;
-      const id = card.opportunity.record.id;
-      return { id, href: addressOf({ screen: "opportunity", id, ranked }) };
-    };
     const back: Route = { screen: ranked ? "results" : "browse" };
     detail = (
       <OpportunityPage
@@ -183,13 +177,9 @@ export default function App() {
         callTypes={callTypes}
         match={index >= 0 ? listing.cards[index].match : null}
         today={today}
-        position={index >= 0 ? { index, total: listing.cards.length } : null}
-        previous={neighbour(-1)}
-        next={neighbour(1)}
         backLabel={ranked ? "Back to results" : "All opportunities"}
         backHref={addressOf(back)}
         onBack={() => go(back)}
-        onOpen={openOpportunity}
       />
     );
   }

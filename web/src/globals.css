@@ -205,11 +205,12 @@ button,
   container-type: inline-size;
 }
 
-/* Report cards: a fixed grid that reads across. Cards in a row share a height. */
+/* Report cards: a fixed grid that reads across. Each card is as tall as its own text. */
 .question-card-grid {
   display: grid;
+  align-items: start;
   grid-template-columns: minmax(0, 1fr);
-  gap: 0.75rem;
+  gap: 1.5rem 1.75rem;
 }
 
 @container (min-width: 40rem) {

@@ -4,8 +4,6 @@ import {
   CalendarRange,
   Check,
   ChevronDown,
-  ChevronLeft,
-  ChevronRight,
   ChevronsDownUp,
   ChevronsUpDown,
   Clock,
@@ -19,13 +17,11 @@ import { ArticleView } from "@/components/article-view.tsx";
 import { CallTypeInfo } from "@/components/call-type-tags.tsx";
 import { DeadlineBadge, MatchRing } from "@/components/facts.tsx";
 import { PlainText, Sources } from "@/components/plain-text.tsx";
-import { scrollToAnchor, useActiveAnchor } from "@/components/scroll-spy.ts";
 import {
   controlClassName,
   detailContainerClassName,
   focusRingClassName,
   ghostControlClassName,
-  iconControlClassName,
   outlineControlClassName,
 } from "@/components/styles.ts";
 import {
@@ -49,34 +45,24 @@ const palettes = [
 type Palette = (typeof palettes)[number];
 
 type View = "cards" | "article";
-type Neighbour = { id: string; href: string } | null;
 
 export function OpportunityPage({
   opportunity,
   callTypes,
   match,
   today,
-  position,
-  previous,
-  next,
   backLabel,
   backHref,
   onBack,
-  onOpen,
 }: {
   opportunity: Opportunity;
   callTypes: SiteData["callTypes"];
   /** The match with the questionnaire answers; null when opened from the full list. */
   match: Match | null;
   today: string;
-  /** Where this opportunity sits in the list it was opened from. */
-  position: { index: number; total: number } | null;
-  previous: Neighbour;
-  next: Neighbour;
   backLabel: string;
   backHref: string;
   onBack: () => void;
-  onOpen: (id: string) => void;
 }) {
   const record = opportunity.record;
   const [shareStatus, setShareStatus] = useState<"idle" | "copied">("idle");
@@ -89,25 +75,12 @@ export function OpportunityPage({
   const hasContent = all.length > 0;
   const paletteOf = (id: string) => palettes[Math.max(all.findIndex((section) => section.id === id), 0) % palettes.length];
 
-  // Sections start open. A closed one is remembered while this opportunity is on screen.
-  const [closed, setClosed] = useState<Set<string>>(() => new Set());
-  const [activeId, setActiveId] = useActiveAnchor("[data-section-anchor]", `${record.id}-${view}`);
+  // Sections start closed. An opened one is remembered while this opportunity is on screen.
+  const [open, setOpen] = useState<Set<string>>(() => new Set());
   const title = useRef<HTMLHeadingElement>(null);
-  const sectionNav = useRef<HTMLElement>(null);
-
-  // Keep the current section's name in view in the row of section links.
-  useEffect(() => {
-    const nav = sectionNav.current;
-    const link = nav?.querySelector<HTMLElement>('[aria-current="location"]');
-    if (!nav || !link) return;
-    const left = link.offsetLeft - 16;
-    const right = link.offsetLeft + link.offsetWidth + 16;
-    if (left < nav.scrollLeft) nav.scrollTo({ left, behavior: "instant" });
-    else if (right > nav.scrollLeft + nav.clientWidth) nav.scrollTo({ left: right - nav.clientWidth, behavior: "instant" });
-  }, [activeId]);
 
   useEffect(() => {
-    setClosed(new Set());
+    setOpen(new Set());
     setShareStatus("idle");
     title.current?.focus({ preventScroll: true });
   }, [record.id]);
@@ -119,23 +92,12 @@ export function OpportunityPage({
   const origin = [record.organization_or_parent_framework, record.programme].filter(Boolean).join(" · ");
 
   function toggleSection(id: string) {
-    setClosed((current) => {
+    setOpen((current) => {
       const nextSet = new Set(current);
       if (nextSet.has(id)) nextSet.delete(id);
       else nextSet.add(id);
       return nextSet;
     });
-  }
-
-  function jumpTo(id: string) {
-    setClosed((current) => {
-      if (!current.has(id)) return current;
-      const nextSet = new Set(current);
-      nextSet.delete(id);
-      return nextSet;
-    });
-    scrollToAnchor(id);
-    setActiveId(id);
   }
 
   // Share copies a link that opens this opportunity directly.
@@ -150,14 +112,14 @@ export function OpportunityPage({
     }
   }
 
-  // Real links, so Back and Previous/Next also work in a new tab.
+  // A real link, so Back also works in a new tab.
   const inPage = (action: () => void) => (event: MouseEvent<HTMLAnchorElement>) => {
     if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey || event.button !== 0) return;
     event.preventDefault();
     action();
   };
 
-  const allClosed = hasContent && all.every((section) => closed.has(section.id));
+  const allOpen = hasContent && all.every((section) => open.has(section.id));
 
   return (
     <div className="min-h-[calc(100dvh-var(--header-h))] bg-white text-[#27313a]">
@@ -170,60 +132,21 @@ export function OpportunityPage({
             <ArrowLeft className="size-4" aria-hidden="true" />
             {backLabel}
           </a>
-          {position && (
-            <nav aria-label="Other opportunities in the list" className="flex items-center gap-1">
-              <span className="mr-1 text-sm font-medium tabular-nums text-[#58636d]">
-                {position.index + 1} of {position.total}
-              </span>
-              <NeighbourLink neighbour={previous} label="Previous opportunity" onOpen={onOpen} inPage={inPage}>
-                <ChevronLeft className="size-5" aria-hidden="true" />
-              </NeighbourLink>
-              <NeighbourLink neighbour={next} label="Next opportunity" onOpen={onOpen} inPage={inPage}>
-                <ChevronRight className="size-5" aria-hidden="true" />
-              </NeighbourLink>
-            </nav>
-          )}
-        </div>
-        {hasContent && view === "cards" && (
-          <div className={`${detailContainerClassName} flex items-center gap-2 pb-1.5`}>
-            <nav ref={sectionNav} aria-label="Report sections" className="no-scrollbar relative min-w-0 flex-1 overflow-x-auto">
-              <ul className="flex items-center gap-1 py-0.5">
-                {all.map((section) => {
-                  const current = activeId === section.id;
-                  return (
-                    <li key={section.id} className="shrink-0">
-                      <a
-                        href={`#${section.id}`}
-                        aria-current={current ? "location" : undefined}
-                        onClick={inPage(() => jumpTo(section.id))}
-                        className={`inline-flex min-h-[2rem] items-center gap-1.5 rounded-full px-3 text-sm whitespace-nowrap transition-colors ${focusRingClassName} ${
-                          current
-                            ? "bg-[#e7f2fb] font-semibold text-[#164d73]"
-                            : "font-medium text-[#27313a] hover:bg-[#f0f2f4]"
-                        }`}
-                      >
-                        <span className={`size-2 rounded-full ${paletteOf(section.id).dot}`} aria-hidden="true" />
-                        {section.title}
-                      </a>
-                    </li>
-                  );
-                })}
-              </ul>
-            </nav>
+          {hasContent && view === "cards" && (
             <button
               type="button"
-              onClick={() => setClosed(allClosed ? new Set() : new Set(all.map((section) => section.id)))}
+              onClick={() => setOpen(allOpen ? new Set() : new Set(all.map((section) => section.id)))}
               className={`${ghostControlClassName} shrink-0 px-2`}
             >
-              {allClosed ? (
-                <ChevronsUpDown className="size-4" aria-hidden="true" />
-              ) : (
+              {allOpen ? (
                 <ChevronsDownUp className="size-4" aria-hidden="true" />
+              ) : (
+                <ChevronsUpDown className="size-4" aria-hidden="true" />
               )}
-              <span className="max-sm:sr-only">{allClosed ? "Expand all" : "Collapse all"}</span>
+              {allOpen ? "Collapse all" : "Expand all"}
             </button>
-          </div>
-        )}
+          )}
+        </div>
       </div>
 
       <header key={record.id} className="screen-enter border-b border-[#dfe3e8]">
@@ -339,7 +262,7 @@ export function OpportunityPage({
             key={record.id}
             side={sections.side}
             main={sections.main}
-            closed={closed}
+            open={open}
             onToggle={toggleSection}
             paletteOf={paletteOf}
           />
@@ -361,51 +284,17 @@ export function OpportunityPage({
   );
 }
 
-function NeighbourLink({
-  neighbour,
-  label,
-  onOpen,
-  inPage,
-  children,
-}: {
-  neighbour: Neighbour;
-  label: string;
-  onOpen: (id: string) => void;
-  inPage: (action: () => void) => (event: MouseEvent<HTMLAnchorElement>) => void;
-  children: React.ReactNode;
-}) {
-  const className = `${iconControlClassName} border border-[#d6dbe1] bg-white text-[#27313a]`;
-  if (!neighbour) {
-    return (
-      <span aria-disabled="true" aria-label={label} className={`${className} opacity-40`}>
-        {children}
-      </span>
-    );
-  }
-  return (
-    <a
-      href={neighbour.href}
-      aria-label={label}
-      title={label}
-      onClick={inPage(() => onOpen(neighbour.id))}
-      className={`${className} hover:border-[#aebbc6] hover:bg-[#f4f8fb]`}
-    >
-      {children}
-    </a>
-  );
-}
-
 /** Funding, timing and submission on the left; the rest of the report on the right. */
 function CardView({
   side,
   main,
-  closed,
+  open,
   onToggle,
   paletteOf,
 }: {
   side: VisibleSection[];
   main: VisibleSection[];
-  closed: Set<string>;
+  open: Set<string>;
   onToggle: (id: string) => void;
   paletteOf: (id: string) => Palette;
 }) {
@@ -415,7 +304,7 @@ function CardView({
         key={section.id}
         section={section}
         palette={paletteOf(section.id)}
-        open={!closed.has(section.id)}
+        open={open.has(section.id)}
         onToggle={() => onToggle(section.id)}
         compact={compact}
       />
@@ -451,7 +340,7 @@ function ReportSectionView({
 }) {
   const panelId = `${section.id}-cards`;
   return (
-    <section id={section.id} tabIndex={-1} data-section-anchor className="pb-5 outline-none">
+    <section id={section.id} className="pb-4">
       <h2>
         <button
           type="button"
@@ -482,10 +371,10 @@ function ReportSectionView({
       </h2>
       <div id={panelId} className="collapsible" data-open={open} inert={!open}>
         <div>
-          <div className={compact ? "grid gap-3 pt-2" : "question-card-container pt-2"}>
+          <div className={compact ? "grid gap-5 pt-3 pb-6" : "question-card-container pt-3 pb-6"}>
             <div className={compact ? "contents" : "question-card-grid"}>
               {section.cards.map((card) => (
-                <ReportCardView key={card.id} card={card} palette={palette} compact={compact} />
+                <ReportCardView key={card.id} card={card} palette={palette} />
               ))}
             </div>
           </div>
@@ -496,7 +385,7 @@ function ReportSectionView({
 }
 
 /** One surface: what the card is about, the question, the answer, and its sources. */
-function ReportCardView({ card, palette, compact }: { card: VisibleCard; palette: Palette; compact: boolean }) {
+function ReportCardView({ card, palette }: { card: VisibleCard; palette: Palette }) {
   const [copyStatus, setCopyStatus] = useState<"idle" | "copied" | "failed">("idle");
 
   async function copyCard() {
@@ -511,7 +400,7 @@ function ReportCardView({ card, palette, compact }: { card: VisibleCard; palette
   }
 
   return (
-    <div className={`relative flex min-w-0 flex-col rounded-xl border p-4 ${compact ? "" : "sm:p-5"} ${palette.card}`}>
+    <div className={`relative flex min-w-0 flex-col rounded-xl border px-4 py-3 ${palette.card}`}>
       <button
         type="button"
         onClick={copyCard}
@@ -530,14 +419,14 @@ function ReportCardView({ card, palette, compact }: { card: VisibleCard; palette
       </span>
       <h3 className={`pr-8 text-sm font-semibold leading-[1.45] ${palette.title}`}>{card.title}</h3>
       {card.question && (
-        <p className={`mt-1 pr-8 font-semibold leading-[1.45] text-black ${compact ? "text-sm" : "text-base"}`}>
+        <p className={`mt-1 pr-8 font-semibold leading-[1.45] text-black text-sm`}>
           {card.question}
         </p>
       )}
-      <div className={`mt-2 text-black ${compact ? "text-sm leading-[1.5]" : "text-base leading-[1.55]"}`}>
-        <PlainText text={card.answer} compact={compact} />
+      <div className="mt-1.5 text-sm leading-[1.5] text-black">
+        <PlainText text={card.answer} compact />
       </div>
-      {card.sources && <Sources sources={card.sources} className="mt-auto pt-3" />}
+      {card.sources && <Sources sources={card.sources} className="pt-2" />}
     </div>
   );
 }
