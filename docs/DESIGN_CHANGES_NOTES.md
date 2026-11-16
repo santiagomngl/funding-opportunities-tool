@@ -7,7 +7,7 @@
 1. **`call_types.json` does not have the fields the prompt describes.** It has no `display`, `label`, `starter` or `completion`; each type and category has a `tag`, `value` (categories only) and `definition`. So the tags keep today's wording, and the definitions have no "Call Type I" lead-in, because no file text says that. I did not invent one.
 2. **The definitions show no category code.** The prompt's example reads `C1.1 · <category value>: <category definition>`. The earlier rule for this site is that no category code appears on screen, so the line reads `<category value>: <category definition>`. Say so if you want the code shown; it is a one-line change.
 3. **The sources text is not smaller in pixels.** It was already 12 px, the lowest size the prompt allows. It is lighter in weight instead (see change 3).
-4. **The old logo was shown nowhere except as the browser-tab icon.** The header only had an empty space of the logo's size. The new logo is now in that space. The tab icon still uses the old file, as the prompt says to leave a favicon alone.
+4. **The old logo was shown nowhere except as the browser-tab icon.** The header only had an empty space of the logo's size. The new logo is now in that space. The tab icon was later replaced with its own file, `web/public/favicon.png`.
 5. **`check-data` still ends with a failure**, as before this change: the two real records have null project dates. The reports and the call types pass.
 6. **There is no lint script** in this repository. I ran the type check (`tsc --noEmit`) in its place.
 
@@ -78,7 +78,7 @@ Files: `web/public/innovation-funding-desk-logo.png` (new), `web/src/App.tsx`.
 - The attached image (778 × 771 px, transparent corners) is saved next to the old file.
 - The header's empty logo space (`h-16 w-16`, `sm:h-20 sm:w-20`) now holds the image, at the same height: 60 px on a desktop, 64 px on a phone, with the width following the image's own ratio. Alt text: "Innovation Funding Desk logo". The header shows on every screen, including the landing page; the landing page has no logo of its own.
 - At 2× screens the 778 px file is drawn at up to 128 px, so it is sharp. It sits on the page background `#f6f7f9`; the pale blue square and the dark blue strokes both read clearly on it.
-- **Left alone:** the browser-tab icon in `web/index.html` still points to `funding-desk-logo.png`, the old drawing with two arrows. That is the one remaining reference to the old file, so I did not delete it. There is no social-preview image.
+- **Tab icon:** later replaced. `web/index.html` now points to `web/public/favicon.png`, and the old `funding-desk-logo.png` (the drawing with two arrows) was deleted. There is no social-preview image.
 
 ## Checks
 
