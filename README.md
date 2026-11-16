@@ -18,7 +18,7 @@ There is no server, database, API key or login. Pushing a file to GitHub is the 
 | `RE_agent.md` | Instructions for the RE agent (reports). | Admin |
 | `templates/` | The five blank `*.template.json` files the agents copy. | Admin |
 | `resources/tennet_taxonomy.json` | The Topic, Role, Activity and Outcome values. The questionnaire shows its `value` and `definition` texts. | Admin |
-| `resources/call_types.json` | The categories of each call type, and the `tag` texts the site shows for them (see "Call-type tags and filter"). | Admin |
+| `resources/call_types.json` | The categories of each call type, and the texts the site shows for them (see "Call-type tags"). | Admin |
 | `resources/sources/` | One file per source the SA agent searches. | Team members. The SA agent updates the scan time at the end of a run. |
 | `resources/projects/` | One file per TenneT project (the innovation profile). | Team members |
 | `data/fo_records/` | One record per funding call, named `<id>.json`. | SA agent |
@@ -57,13 +57,13 @@ What the site does with the files:
 - A file that is broken or incomplete is left out. The build log on Vercel and `check-data` both name the file and the problem. The rest of the site still works.
 - Changing a `value` or `definition` in `resources/tennet_taxonomy.json` changes the text in the questionnaire.
 
-## Call-type tags and filter
+## Call-type tags
 
-Every result card and detail page says, in plain words, how TenneT relates to the call: one tag for the call type, then one tag per category of the record. The results page also has a filter built from the same tags.
+Every result card and detail page says, in plain words, how TenneT relates to the call: one tag per category of the record. The detail page also shows each category's name and definition under the tags.
 
-- **Where the wording lives.** Only in `resources/call_types.json`: the `tag` of each entry in `types`, and the `tag` of each category in `type_1`, `type_2` and `type_3`. The site shows each tag exactly as written. FO records hold codes only.
-- **How to change it.** Edit a `tag` in `resources/call_types.json`, run `npm run check-data`, and push. No code changes. `check-data` fails when a type or category has no tag, when a category tag contains a category code, or when a code sits under two types.
-- **What the filter does.** It sits above the result cards, with one group per call type and one checkbox per category. With nothing ticked, every card is shown; otherwise a card is shown when it holds at least one ticked category. Ticking a group's heading ticks all its categories. The number next to each option counts the cards that fit the profile, budget and timing, whatever is ticked. The filter only hides cards: it never changes a score or the order. It is cleared when the user edits the profile or resets.
+- **Where the wording lives.** Only in `resources/call_types.json`: the `tag`, `value` and `definition` of each category in `type_1`, `type_2` and `type_3`. The site shows each text exactly as written. FO records hold codes only.
+- **How to change it.** Edit the text in `resources/call_types.json`, run `npm run check-data`, and push. No code changes. `check-data` fails when a category has no tag, when a category tag contains a category code, or when a code sits under two types.
+- **What the site does not show.** The call type itself (its `tag` and `definition` in `types`), and the `executive_summary` of an FO record. Both stay in the files for the agents.
 
 ## Run the site on your computer
 

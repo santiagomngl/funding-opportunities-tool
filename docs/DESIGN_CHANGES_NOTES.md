@@ -111,3 +111,16 @@ Before and after, cards view, with the first section and first card of each colu
 3. *The tab icon.* Pointing it to the new logo is a one-line change in `web/index.html`, after which the old file can be deleted.
 4. *A lead-in for the type's definition.* Adding a `display` text per type to `call_types.json` (for example "Call Type I") would let the first definition line start with it.
 5. *The unused sidebar width variables* in `globals.css` can be removed.
+
+## Later the same day: filter, type tags and summary removed
+
+After seeing the result, these were taken out again. Where this section and the text above differ, this section is the current state.
+
+- **Results page.** The call-type filter box, the "Showing X of Y" line and "Clear filters" are gone, with their code (`web/src/lib/call-type-filter.ts`, `web/src/components/call-type-filter.tsx`) and tests. Section 10 of `RESTRUCTURE_NOTES.md` describes the filter as it was.
+- **Type tag.** The blue tag of the call type ("Call Type 1: …") is no longer shown on the result cards or the detail page. The grey category tags stay.
+- **Type definition.** The detail page no longer shows the definition of the call type. It shows one line per category: its `value` and `definition`.
+- **Executive summary.** No longer shown anywhere, and no longer bundled into the site. The header of the detail page is now title, category tags, category definitions.
+- **Sources.** 10 px (was 12 px), on every screen.
+- **`check-data`** no longer asks for the `types` list or its tags, because the site does not use them. The category rules stay.
+
+Not changed: `resources/call_types.json` still holds `types` with their tags, the FO records and the record template still hold `executive_summary`, and the SA agent still writes it and its gate still requires it. Removing the field from the record format means changing `SA_agent.md`, the template and the gate together.

@@ -25,8 +25,8 @@ const FALLBACK_RECORD_KEYS = [
   "status_rationale", "call_type", "category_codes", "taxonomy_values",
 ];
 
-// Fields the site never shows (internal judgement and bookkeeping); kept out of the bundle.
-const NOT_BUNDLED = ["source", "status_rationale", "date_last_checked"];
+// Fields the site never shows (internal judgement, bookkeeping and the executive summary); kept out of the bundle.
+const NOT_BUNDLED = ["source", "status_rationale", "date_last_checked", "executive_summary"];
 
 const isObject = (v) => v !== null && typeof v === "object" && !Array.isArray(v);
 const isText = (v) => typeof v === "string" && v.trim() !== "";
@@ -173,40 +173,30 @@ function loadCodeList(file, keys, label, warn) {
 }
 
 /**
- * Reads resources/call_types.json: per call type its tag and its categories,
- * each with a tag. A type or category without a tag is left out (no tag on the
- * cards, no filter option) and reported.
+ * Reads resources/call_types.json: the categories of each call type, each with
+ * its tag. A category without a tag is left out (no tag on the cards) and
+ * reported.
  */
 function loadCallTypes(file, warn) {
   let raw;
   try {
     raw = readJson(file);
   } catch (error) {
-    warn(file, `cannot be read (${error.message}); the site shows no call-type tags and no call-type filter`);
-    return [];
-  }
-  const types = isObject(raw) && Array.isArray(raw.types) ? raw.types : null;
-  if (!types) {
-    warn(file, '"types" must be a list; the site shows no call-type tags and no call-type filter');
+    warn(file, `cannot be read (${error.message}); the site shows no call-type tags`);
     return [];
   }
   const groups = [];
   const seenCodes = new Set();
   for (const [type, key] of Object.entries(CALL_TYPE_KEYS)) {
-    const entry = types.find((item) => isObject(item) && item.type === type);
-    if (!entry || !isText(entry.tag)) {
-      warn(file, `"types" has no tag for ${type}; its cards show no tags and the filter leaves it out`);
-      continue;
-    }
     const categories = [];
-    if (!Array.isArray(raw[key])) {
-      warn(file, `"${key}" must be a list; the site shows no categories for it`);
+    if (!isObject(raw) || !Array.isArray(raw[key])) {
+      warn(file, `"${key}" must be a list; the site shows no tags for ${type} calls`);
     } else {
       raw[key].forEach((category, index) => {
         if (!isObject(category) || !isText(category.code)) {
           warn(file, `${key}[${index}] needs a code; entry skipped`);
         } else if (!isText(category.tag)) {
-          warn(file, `${key}: category ${category.code} has no tag; the site shows no tag and no filter option for it`);
+          warn(file, `${key}: category ${category.code} has no tag; the site shows no tag for it`);
         } else if (seenCodes.has(category.code)) {
           warn(file, `${key}: category code ${category.code} appears more than once; the later entry is skipped`);
         } else {
@@ -220,12 +210,7 @@ function loadCallTypes(file, warn) {
         }
       });
     }
-    groups.push({
-      type,
-      tag: entry.tag,
-      definition: typeof entry.definition === "string" ? entry.definition : "",
-      categories,
-    });
+    groups.push({ type, categories });
   }
   return groups;
 }

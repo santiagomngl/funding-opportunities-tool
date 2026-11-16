@@ -16,7 +16,6 @@ function opportunity(title: string, values: Partial<FoRecord["taxonomy_values"]>
       call_module_title: null,
       call_year: 2020,
       url: null,
-      executive_summary: null,
       pre_submission_deadline: null,
       full_proposal_deadline: null,
       earliest_project_start_date: "2027-01-01",

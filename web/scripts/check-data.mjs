@@ -8,8 +8,8 @@
 //    one place. Needs python3, as the agents do.
 // 2. FO reports: each file in data/fo_reports/ must be its template with only
 //    `answer` and `sources` filled in, and belong to a Type 1, 2 or 3 record.
-// 3. Call types: every type and category in resources/call_types.json needs a
-//    `tag`, the plain-language text the site shows on its cards and filter.
+// 3. Call types: every category in resources/call_types.json needs a `tag`,
+//    the plain-language text the site shows on its cards.
 // 4. Site: prints the warnings the site build would print.
 //
 // Exits with code 1 when anything fails. Writes nothing. A warning about a
@@ -171,20 +171,6 @@ function callTypeProblems(raw) {
   const isObject = (v) => v !== null && typeof v === "object" && !Array.isArray(v);
   const hasTag = (entry) => typeof entry.tag === "string" && entry.tag.trim() !== "";
   if (!isObject(raw)) return ["the file must hold one JSON object"];
-
-  if (!Array.isArray(raw.types)) problems.push('"types" must be a list with one entry per call type');
-  else {
-    raw.types.forEach((entry, i) => {
-      if (!isObject(entry) || !hasTag(entry)) {
-        problems.push(`types[${i}]${isObject(entry) && entry.type ? ` (${entry.type})` : ""}: needs a non-empty tag`);
-      }
-    });
-    for (const type of Object.keys(CALL_TYPE_KEYS)) {
-      if (!raw.types.some((entry) => isObject(entry) && entry.type === type)) {
-        problems.push(`types: no entry for ${type}`);
-      }
-    }
-  }
 
   const typesOfCode = new Map();
   for (const key of Object.values(CALL_TYPE_KEYS)) {
