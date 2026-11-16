@@ -16,7 +16,6 @@ export type FoRecord = {
   call_module_title: string | null;
   call_year: number | string | null;
   url: string | null;
-  executive_summary: string | null;
   pre_submission_deadline: string | null;
   full_proposal_deadline: string | null;
   earliest_project_start_date: string | null;
@@ -38,9 +37,9 @@ export type ReportSection = { title: string; question?: string | null; cards: Re
 /** One FO report: block name -> sections, as the RE agent writes it. */
 export type FoReport = Record<string, ReportSection[]>;
 
-/** One call type with its plain-language tag and its categories, from resources/call_types.json. */
+/** The categories of one call type, each with its plain-language tag, from resources/call_types.json. */
 export type CallTypeCategory = { code: string; tag: string; value: string; definition: string };
-export type CallTypeGroup = { type: string; tag: string; definition: string; categories: CallTypeCategory[] };
+export type CallTypeGroup = { type: string; categories: CallTypeCategory[] };
 
 export type Opportunity = { record: FoRecord; report: FoReport | null };
 

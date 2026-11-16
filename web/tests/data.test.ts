@@ -35,6 +35,7 @@ test("the site gets every usable record, with its report, and never a Not releva
   assert.deepEqual(Object.keys(opportunities[1].report!), ["call_overview", "funding_timing_submission"]);
   assert.equal(opportunities[2].report, null);
   assert.ok(!JSON.stringify(opportunities).includes("rationale"), "internal fields stay out of the bundle");
+  assert.ok(!JSON.stringify(opportunities).includes("summary"), "the executive summary is never on the site");
 });
 
 test("the taxonomy file drives the labels", () => {
@@ -154,11 +155,9 @@ const callTypesOf = (root: string) =>
 test("changing a tag in call_types.json changes what the site shows, without a code change", () => {
   const root = fixtureRoot();
   editCallTypes(root, (raw) => {
-    raw.types[0].tag = "FAKE type tag";
     raw.type_1[0].tag = "FAKE category tag";
   });
   const [type1] = callTypesOf(root);
-  assert.equal(type1.tag, "FAKE type tag");
   assert.equal(type1.categories[0].tag, "FAKE category tag");
   assert.equal(runCheck(root).status, 0);
 });
@@ -181,28 +180,26 @@ test("a category code missing from call_types.json: a warning names the file and
   assert.match(check.output, new RegExp(`WARNING data/fo_records/${ids.funded}\\.json: category code C9\\.9 `));
 });
 
-test("check-data fails when a type or a category has no tag, and warns for the records that use it", () => {
+test("check-data fails when a category has no tag, and warns for the records that use it", () => {
   const root = fixtureRoot();
   editCallTypes(root, (raw) => {
-    raw.types[1].tag = " ";
+    delete raw.types; // the site no longer uses the type entries
     delete raw.type_1[0].tag; // the category of the fake Type 1 record
   });
   const callTypes = callTypesOf(root);
-  assert.deepEqual(callTypes.map((g) => g.type), ["Type 1", "Type 3"]);
   assert.ok(!callTypes[0].categories.some((c) => c.code === "C1.1"));
 
   const { status, output } = runCheck(root);
   assert.equal(status, 1);
   assert.match(output, /FAIL {2}resources\/call_types\.json/);
-  assert.match(output, /types\[1\] \(Type 2\): needs a non-empty tag/);
   assert.match(output, /type_1\[0\] \(C1\.1\): needs a non-empty tag/);
   // The record passes the gate, so its missing tag is a warning, not a failure of the record.
   assert.match(output, new RegExp(`PASS {2}data/fo_records/${ids.funded}\\.json`));
   assert.match(output, new RegExp(`WARNING data/fo_records/${ids.funded}\\.json: category code C1\\.1 `));
-  // Counted: the call-types file once, and the two build warnings about it.
-  // Not counted: the warnings about the records that use those categories.
-  assert.equal(output.match(/WARNING data\/fo_records\//g)?.length, 2);
-  assert.match(output, /check-data: 3 problem\(s\) found/);
+  // Counted: the call-types file once, and the build warning about it.
+  // Not counted: the warning about the record that uses the category.
+  assert.equal(output.match(/WARNING data\/fo_records\//g)?.length, 1);
+  assert.match(output, /check-data: 2 problem\(s\) found/);
 });
 
 test("check-data fails when a category tag holds a category code, or a code sits under two types", () => {

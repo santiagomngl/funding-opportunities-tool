@@ -99,14 +99,9 @@ export function OpportunitySheet({
                   </div>
                   <Actions url={opportunity.record.url} onShare={share} shareStatus={shareStatus} />
                 </div>
-                {/* Always on their own lines, below the title: tags, definitions, summary. */}
+                {/* Always on their own lines, below the title: tags, then their definitions. */}
                 <CallTypeTags record={opportunity.record} callTypes={callTypes} className="mt-2.5" />
                 <CallTypeDefinitions record={opportunity.record} callTypes={callTypes} className="mt-2" />
-                {opportunity.record.executive_summary && (
-                  <p data-executive-summary className="mt-2.5 text-sm leading-[1.5] text-[#27313a]">
-                    {opportunity.record.executive_summary}
-                  </p>
-                )}
                 {hasContent && (
                   <button
                     type="button"

@@ -1,34 +1,22 @@
 import { tagsFor } from "../../build/call-type-tags.mjs";
 import type { CallTypeGroup, FoRecord } from "@/lib/types.ts";
 
+type Props = { record: FoRecord; callTypes: CallTypeGroup[]; className?: string };
+
 /**
  * How TenneT relates to a call, in the words of resources/call_types.json:
- * the type's tag once, then one tag per category. Shown exactly as written.
+ * one tag per category of the record. Shown exactly as written.
  */
-export function CallTypeTags({
-  record,
-  callTypes,
-  className = "",
-}: {
-  record: FoRecord;
-  callTypes: CallTypeGroup[];
-  className?: string;
-}) {
-  const { type, categories } = tagsFor(record, callTypes);
-  if (!type && categories.length === 0) return null;
-  const tagClassName = "max-w-full rounded-md px-2 py-1 text-xs leading-[1.4] break-words";
+export function CallTypeTags({ record, callTypes, className = "" }: Props) {
+  const { categories } = tagsFor(record, callTypes);
+  if (categories.length === 0) return null;
   return (
     <ul data-call-type-tags className={`flex flex-wrap gap-1.5 ${className}`}>
-      {type && (
-        <li title={type.definition || undefined} className={`${tagClassName} bg-[#e7f2fb] font-semibold text-[#164d73]`}>
-          {type.tag}
-        </li>
-      )}
       {categories.map((category, index) => (
         <li
           key={index}
           title={category.definition || undefined}
-          className={`${tagClassName} bg-[#eef1f4] font-medium text-[#27313a]`}
+          className="max-w-full rounded-md bg-[#eef1f4] px-2 py-1 text-xs font-medium leading-[1.4] break-words text-[#27313a]"
         >
           {category.tag}
         </li>
@@ -38,31 +26,18 @@ export function CallTypeTags({
 }
 
 /**
- * The definitions behind the tags, from resources/call_types.json: the type's
- * definition once, then one per category, each led by the category's `value`.
- * Shown exactly as written, always in full.
+ * The definitions behind the tags, from resources/call_types.json: one per
+ * category, led by the category's `value`. Shown exactly as written, in full.
  */
-export function CallTypeDefinitions({
-  record,
-  callTypes,
-  className = "",
-}: {
-  record: FoRecord;
-  callTypes: CallTypeGroup[];
-  className?: string;
-}) {
-  const { type, categories } = tagsFor(record, callTypes);
-  const lines = [
-    ...(type?.definition ? [{ lead: "", text: type.definition }] : []),
-    ...categories.filter((category) => category.definition).map((category) => ({ lead: category.value, text: category.definition })),
-  ];
+export function CallTypeDefinitions({ record, callTypes, className = "" }: Props) {
+  const lines = tagsFor(record, callTypes).categories.filter((category) => category.definition);
   if (lines.length === 0) return null;
   return (
     <ul data-call-type-definitions className={`space-y-1 text-sm leading-[1.45] text-[#27313a] ${className}`}>
       {lines.map((line, index) => (
         <li key={index}>
-          {line.lead && <span className="font-semibold">{line.lead}: </span>}
-          <span data-definition>{line.text}</span>
+          {line.value && <span className="font-semibold">{line.value}: </span>}
+          <span data-definition>{line.definition}</span>
         </li>
       ))}
     </ul>
