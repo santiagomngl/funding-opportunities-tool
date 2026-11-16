@@ -59,7 +59,7 @@ What the site does with the files:
 
 ## Call-type tags
 
-Every result card and detail page says, in plain words, how TenneT relates to the call: one tag per category of the record. The detail page also shows each category's name and definition under the tags.
+Every result card and detail page says, in plain words, how TenneT relates to the call: one tag per category of the record. On the detail page, clicking a tag opens each category's name and definition under the tags.
 
 - **Where the wording lives.** Only in `resources/call_types.json`: the `tag`, `value` and `definition` of each category in `type_1`, `type_2` and `type_3`. The site shows each text exactly as written. FO records hold codes only.
 - **How to change it.** Edit the text in `resources/call_types.json`, run `npm run check-data`, and push. No code changes. `check-data` fails when a category has no tag, when a category tag contains a category code, or when a code sits under two types.
@@ -80,6 +80,20 @@ Other commands:
 | `npm run build` | Builds the site into `web/dist/`, exactly as Vercel does. |
 | `npm run preview` | Serves the built site locally. |
 | `npm test` | Runs the unit tests (filters, match score, data loading, `check-data`). |
+
+## Screens and addresses
+
+The site is one page; the part of the address after `#` says which screen is open, so the browser's Back button, a refresh and a shared link all work.
+
+| Address | Screen |
+| --- | --- |
+| (nothing) | Landing page |
+| `#/questions/<step>?…` | One question (`topic`, `role`, `activity`, `outcome`, `budget`, `timing`) |
+| `#/results?…` | The ranked results of a questionnaire |
+| `#/browse` | Every opportunity, soonest deadline first, without a score |
+| `#/opportunity/<id>` | One opportunity. With `?…` it was opened from results and shows its match. |
+
+`?…` holds the answers: `t`, `r`, `a`, `o` (taxonomy codes, joined by `.`), `b` (budget slider positions), `s` and `e` (start and end quarters, such as `2027Q3-2028Q3`). Links in the earlier format `#opportunity=<id>` still open.
 
 ## More
 

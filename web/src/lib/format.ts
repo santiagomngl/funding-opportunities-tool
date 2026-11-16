@@ -82,3 +82,53 @@ export function localToday(now = new Date()) {
   const pad = (n: number) => String(n).padStart(2, "0");
   return `${now.getFullYear()}-${pad(now.getMonth() + 1)}-${pad(now.getDate())}`;
 }
+
+/** Whole days from `today` to `iso` (both YYYY-MM-DD); negative when `iso` is in the past. */
+export function daysUntil(iso: string, today: string) {
+  const utc = (date: string) => {
+    const [year, month, day] = date.split("-").map(Number);
+    return Date.UTC(year, month - 1, day);
+  };
+  return Math.round((utc(iso) - utc(today)) / 86_400_000);
+}
+
+export type DeadlineStatus =
+  | { kind: "open"; step: "Pre-submission" | "Full proposal"; date: string; days: number }
+  | { kind: "closed" }
+  | { kind: "none" };
+
+/** The next deadline that has not passed; "closed" when all have; "none" when none is published. */
+export function deadlineStatus(pre: string | null, full: string | null, today: string): DeadlineStatus {
+  const steps = [
+    { step: "Pre-submission" as const, date: pre },
+    { step: "Full proposal" as const, date: full },
+  ].filter((entry): entry is { step: "Pre-submission" | "Full proposal"; date: string } => entry.date !== null);
+  if (steps.length === 0) return { kind: "none" };
+  const next = steps.filter((entry) => entry.date >= today).sort((a, b) => a.date.localeCompare(b.date))[0];
+  if (!next) return { kind: "closed" };
+  return { kind: "open", step: next.step, date: next.date, days: daysUntil(next.date, today) };
+}
+
+/** "Closes today", "Closes tomorrow", "Closes in 122 days". */
+export function closesIn(days: number) {
+  if (days <= 0) return "Closes today";
+  if (days === 1) return "Closes tomorrow";
+  return `Closes in ${days} days`;
+}
+
+/**
+ * How a title is shown: without the programme name the line above it already
+ * gives, and with a leading call identifier (HORIZON-CL5-2027-07-D3-25) apart.
+ * Display only; the record keeps its full title.
+ */
+export function splitTitle(displayTitle: string, programme: string | null) {
+  let title = displayTitle.trim();
+  if (programme) {
+    const suffix = programme.trim().toLowerCase();
+    const cut = title.match(/^(.*\S)\s+[–—-]\s+(.+)$/);
+    if (suffix && cut && cut[2].trim().toLowerCase() === suffix) title = cut[1];
+  }
+  // An identifier starts in capitals, has at least three parts and holds a digit.
+  const lead = title.match(/^([A-Z][A-Z0-9]*(?:-[A-Za-z0-9]+){2,})\s+(\S.*)$/);
+  return lead && /\d/.test(lead[1]) ? { callId: lead[1], title: lead[2] } : { callId: null, title };
+}

@@ -1,6 +1,7 @@
-import { useEffect, useMemo, useRef, useState, type MouseEvent } from "react";
+import { useMemo, useState, type MouseEvent } from "react";
 import { ChevronRight } from "lucide-react";
 
+import { scrollToAnchor, useActiveAnchor } from "@/components/scroll-spy.ts";
 import { detailContainerClassName } from "@/components/styles.ts";
 import { PlainText } from "@/components/plain-text.tsx";
 import { sourceLines, type VisibleSection } from "@/lib/report.ts";
@@ -30,56 +31,16 @@ function collectReferences(sections: VisibleSection[]) {
 
 /** The same report as one continuous text, with a contents list and references. */
 export function ArticleView({ sections }: { sections: VisibleSection[] }) {
-  const viewport = useRef<HTMLDivElement>(null);
-  const [activeId, setActiveId] = useState(sections[0]?.id ?? "");
+  const [activeId, setActiveId] = useActiveAnchor("[data-article-anchor]", sections);
   const [expanded, setExpanded] = useState<Set<string>>(() => new Set());
   const { references, byCard } = useMemo(() => collectReferences(sections), [sections]);
-
-  // Highlight the section being read in the contents list.
-  useEffect(() => {
-    const root = viewport.current;
-    if (!root) return;
-    let frame = 0;
-    const update = () => {
-      frame = 0;
-      const readingLine = root.getBoundingClientRect().top + 48;
-      let current = "";
-      for (const target of root.querySelectorAll<HTMLElement>("[data-article-anchor]")) {
-        if (current && target.getBoundingClientRect().top > readingLine) break;
-        current = target.id;
-      }
-      setActiveId(current);
-    };
-    const schedule = () => {
-      if (!frame) frame = window.requestAnimationFrame(update);
-    };
-    update();
-    root.addEventListener("scroll", schedule, { passive: true });
-    window.addEventListener("resize", schedule);
-    return () => {
-      root.removeEventListener("scroll", schedule);
-      window.removeEventListener("resize", schedule);
-      if (frame) window.cancelAnimationFrame(frame);
-    };
-  }, [sections]);
 
   function jump(event: MouseEvent<HTMLAnchorElement>, id: string) {
     if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
     event.preventDefault();
-    const root = viewport.current;
     const target = document.getElementById(id);
-    if (!root || !target || !root.contains(target)) return;
-    const behavior = window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "instant" : "smooth";
-    if (root.scrollHeight > root.clientHeight) {
-      root.scrollTo({
-        top: root.scrollTop + target.getBoundingClientRect().top - root.getBoundingClientRect().top - 24,
-        behavior,
-      });
-    } else {
-      // Small screens: the whole detail view scrolls, not this pane.
-      target.scrollIntoView({ behavior, block: "start" });
-    }
-    target.focus({ preventScroll: true });
+    if (!target) return;
+    scrollToAnchor(id);
     if (target.hasAttribute("data-article-anchor")) setActiveId(id);
   }
 
@@ -96,11 +57,11 @@ export function ArticleView({ sections }: { sections: VisibleSection[] }) {
     `hover:underline ${current ? "font-semibold text-black" : "text-[#1f6f9f]"}`;
 
   return (
-    <div ref={viewport} className="bg-white lg:min-h-0 lg:flex-1 lg:overflow-y-auto" aria-label="Funding opportunity article view">
+    <div className="screen-enter bg-white" aria-label="Funding opportunity article view">
       <div className={`${detailContainerClassName} grid items-start gap-8 py-7 sm:py-9 lg:grid-cols-[calc(17rem*var(--tool-ui-scale))_minmax(0,1fr)] lg:gap-12`}>
         <nav
           aria-label="Article contents"
-          className="min-w-0 rounded-lg border border-[#e4e8eb] bg-[#fbfcfd] p-4 text-sm lg:sticky lg:top-6 lg:max-h-[calc(100dvh-15rem)] lg:overflow-y-auto lg:rounded-none lg:border-0 lg:border-r lg:bg-white lg:py-0 lg:pl-0 lg:pr-5"
+          className="min-w-0 rounded-lg border border-[#e4e8eb] bg-[#fbfcfd] p-4 text-sm lg:sticky lg:top-[calc(var(--header-h)+4.5rem)] lg:max-h-[calc(100dvh-var(--header-h)-6rem)] lg:overflow-y-auto lg:rounded-none lg:border-0 lg:border-r lg:bg-white lg:py-0 lg:pl-0 lg:pr-5"
         >
           <h2 className="mb-3 font-bold text-black">Contents</h2>
           <ul className="space-y-2">
@@ -116,7 +77,7 @@ export function ArticleView({ sections }: { sections: VisibleSection[] }) {
                       aria-label={`${open ? "Collapse" : "Expand"} ${section.title} index`}
                       aria-expanded={open}
                       aria-controls={`index-${section.id}`}
-                      className="mt-0.5 grid size-6 shrink-0 place-items-center rounded text-[#58636d] hover:bg-[#edf5f9] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#9bccea]"
+                      className="grid size-[1.75rem] shrink-0 place-items-center rounded text-[#58636d] hover:bg-[#edf5f9] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#9bccea]"
                     >
                       <ChevronRight aria-hidden="true" className={`size-3.5 transition-transform ${open ? "rotate-90" : ""}`} />
                     </button>
