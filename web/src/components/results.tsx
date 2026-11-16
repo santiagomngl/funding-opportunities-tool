@@ -71,7 +71,7 @@ export function Results({
   onStart: () => void;
   onReset: () => void;
 }) {
-  const [profileOpen, setProfileOpen] = useState(true);
+  const [profileOpen, setProfileOpen] = useState(false);
   const { cards, total, hiddenByFilters } = listing;
   const narrowed = options.query.trim() !== "" || options.openOnly;
   const labelOf = (dimension: Dimension, code: string) =>
