@@ -1,7 +1,7 @@
 // Clearly fake data for the tests. Nothing here describes a real call.
 //
 // makeFixtureRoot() builds a temporary folder shaped like the repository root
-// (data/, resources/, templates/, SA_agent.md), using the real templates,
+// (data/, resources/, templates/, AGENT.md), using the real templates,
 // taxonomy, call types and gate, plus the fake files below. Nothing is written
 // into the real data/, resources/ or templates/.
 
@@ -113,7 +113,7 @@ export function writeFixtures(root: string) {
 export function makeFixtureRoot() {
   const root = mkdtempSync(path.join(tmpdir(), "funding-desk-fixture-"));
   cpSync(path.join(repoRoot, "templates"), path.join(root, "templates"), { recursive: true });
-  for (const file of ["resources/tennet_taxonomy.json", "resources/call_types.json", "SA_agent.md"]) {
+  for (const file of ["resources/tennet_taxonomy.json", "resources/call_types.json", "AGENT.md"]) {
     mkdirSync(path.dirname(path.join(root, file)), { recursive: true });
     cpSync(path.join(repoRoot, file), path.join(root, file));
   }

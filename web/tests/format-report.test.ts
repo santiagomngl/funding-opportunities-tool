@@ -16,7 +16,7 @@ import { fullReport, repoRoot } from "./helpers/fixtures.ts";
 import { readFileSync } from "node:fs";
 import path from "node:path";
 
-test("amounts follow RE_agent.md section 6", () => {
+test("amounts follow AGENT.md, writing guidelines, section 6", () => {
   assert.equal(formatAmount(250_000), "EUR 250,000");
   assert.equal(formatAmount(5_000_000), "EUR 5 million");
   assert.equal(formatAmount(1_500_000), "EUR 1.5 million");

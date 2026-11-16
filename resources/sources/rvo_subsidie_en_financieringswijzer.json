@@ -6,7 +6,7 @@
     "first_run_on": "2026-11-16",
     "last_completed_scan_at": "2026-11-15T13:06:08+01:00"
   },
-  "parameters_passed_to_the_search_agent": {
+  "parameters_passed_to_the_agent": {
     "portal_type": "gateway",
     "starting_url": "https://www.rvo.nl/subsidies-financiering?sortBy=title&sortOrder=ASC&status=3294%2C3295",
     "search_scope": "Dutch national subsidies, loans and other financing run by RVO that are open or about to open and are relevant to the energy sector in any way: energy and climate innovation (the Energy Innovation NL schemes, for example MOOI and DEI+), electricity grids, offshore wind, storage and flexibility, hydrogen, industrial electrification and sustainability, digitalisation, artificial intelligence and cybersecurity (for example CIF-NL), and general innovation financing (for example the Innovatiekrediet). Skip schemes only for households, agriculture, fisheries, nature or housing, and pages that are permits, registrations or import and export procedures. RVO pages that only explain an EU programme and send applicants to the EU Funding & Tenders Portal are covered by that source; record them here only when RVO runs a national scheme with its own budget or application period (for example national co-financing).",

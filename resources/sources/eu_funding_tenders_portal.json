@@ -6,7 +6,7 @@
     "first_run_on": "2026-11-16",
     "last_completed_scan_at": "2026-11-15T12:54:48+01:00"
   },
-  "parameters_passed_to_the_search_agent": {
+  "parameters_passed_to_the_agent": {
     "portal_type": "gateway",
     "starting_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals",
     "search_scope": "Open and forthcoming EU calls for proposals that are relevant to the energy sector in any way. Programmes to cover: Horizon Europe (mainly Cluster 5 'Climate, Energy and Mobility', Cluster 4 'Digital, Industry and Space', Cluster 3 'Civil Security for Society', Cluster 6 where a topic concerns the offshore or marine environment, the European Innovation Council, the Missions, and the European Partnerships and Joint Undertakings such as Clean Hydrogen), the Connecting Europe Facility for Energy, the Innovation Fund, the LIFE Clean Energy Transition sub-programme and the Digital Europe Programme. Each topic is its own FO, with the topic ID (for example HORIZON-CL5-2027-D3-01-05) as the call reference; the call ID (for example HORIZON-CL5-2027-D3-01) groups related topics. Skip calls for tenders, cascade funding calls, calls for experts, and I3 Instrument topics (they have their own source file).",

@@ -1,291 +1,377 @@
-import { useMemo } from "react";
-import { ArrowLeft, ArrowRight, CircleHelp, Info, RotateCcw, TriangleAlert } from "lucide-react";
-
-import { Button } from "@/components/ui/button";
-import { CallTypeTags } from "@/components/call-type-tags.tsx";
-import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@/components/ui/tooltip";
-import { definitionTooltipClassName } from "@/components/styles.ts";
-import type { UserBudget, UserTiming } from "@/lib/filters.ts";
+import { useState, type MouseEvent } from "react";
 import {
-  allDeadlinesPassed,
+  ArrowRight,
+  CalendarRange,
+  ChevronDown,
+  ChevronRight,
+  CircleHelp,
+  Clock,
+  Coins,
+  Pencil,
+  RotateCcw,
+  Search,
+  X,
+} from "lucide-react";
+
+import { CallTypeTags } from "@/components/call-type-tags.tsx";
+import { DeadlineBadge, MatchRing } from "@/components/facts.tsx";
+import { Switch, stepMeta, type StepKey } from "@/components/questionnaire.tsx";
+import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
+import {
+  focusRingClassName,
+  ghostControlClassName,
+  outlineControlClassName,
+  primaryControlClassName,
+} from "@/components/styles.ts";
+import { budgetLabel, quarterLabel, type Answers } from "@/lib/answers.ts";
+import {
+  deadlineStatus,
   formatProjectSize,
   formatProjectWindow,
   formatSubmissionWindow,
-  localToday,
+  splitTitle,
 } from "@/lib/format.ts";
-import { percentage } from "@/lib/match.ts";
-import { buildResults } from "@/lib/results.ts";
-import {
-  dimensions,
-  type CallTypeGroup,
-  type Dimension,
-  type Opportunity,
-  type Selections,
-  type Taxonomy,
-} from "@/lib/types.ts";
-
-const factLabelClassName = "text-xs font-bold uppercase tracking-[0.06em] text-[#164d73]";
-const factValueClassName = "mt-1.5 text-sm leading-[1.45] text-[#58636d]";
+import type { Listing, ListingCard, ListingOptions, SortKey } from "@/lib/listing.ts";
+import type { CallTypeGroup, Dimension, Taxonomy } from "@/lib/types.ts";
 
 export function Results({
-  opportunities,
+  listing,
+  ranked,
+  options,
+  onOptions,
+  published,
   taxonomy,
   callTypes,
-  selections,
-  budget,
-  timing,
-  profileSummary,
-  dimensionLabels,
-  onEdit,
+  answers,
+  steps,
+  firstYear,
+  today,
+  hrefFor,
+  onOpen,
+  onEditStep,
+  onStart,
   onReset,
-  onSelect,
 }: {
-  opportunities: Opportunity[];
+  listing: Listing;
+  /** False when every opportunity is listed, without a questionnaire. */
+  ranked: boolean;
+  options: ListingOptions;
+  onOptions: (options: ListingOptions) => void;
+  /** How many opportunities the site holds at all. */
+  published: number;
   taxonomy: Taxonomy;
   callTypes: CallTypeGroup[];
-  selections: Selections;
-  budget: UserBudget;
-  timing: UserTiming;
-  /** Budget and timing answers, ready to show. */
-  profileSummary: string[];
-  dimensionLabels: Record<Dimension, { label: string }>;
-  onEdit: () => void;
+  answers: Answers;
+  steps: StepKey[];
+  firstYear: number;
+  today: string;
+  hrefFor: (id: string) => string;
+  onOpen: (id: string) => void;
+  onEditStep: (step: number) => void;
+  onStart: () => void;
   onReset: () => void;
-  onSelect: (id: string) => void;
 }) {
-  const { cards, hiddenByFilters } = useMemo(
-    () => buildResults(opportunities, selections, budget, timing),
-    [opportunities, selections, budget, timing],
-  );
-  const today = localToday();
-  const totalSelected = dimensions.reduce((total, d) => total + selections[d].length, 0);
+  const [profileOpen, setProfileOpen] = useState(false);
+  const { cards, total, hiddenByFilters } = listing;
+  const narrowed = options.query.trim() !== "" || options.openOnly;
   const labelOf = (dimension: Dimension, code: string) =>
     taxonomy[dimension].find((entry) => entry.code === code)?.value ?? "";
 
+  const stepValue = (step: StepKey) => {
+    if (step === "budget") return budgetLabel(answers.budget);
+    if (step === "timing") {
+      const start = `${quarterLabel(answers.start[0], firstYear)} – ${quarterLabel(answers.start[1], firstYear)}`;
+      return answers.end
+        ? `${start}, end ${quarterLabel(answers.end[0], firstYear)} – ${quarterLabel(answers.end[1], firstYear)}`
+        : start;
+    }
+    return String(answers.selections[step].length);
+  };
+  const stepTitle = (step: StepKey) =>
+    step === "budget" || step === "timing"
+      ? `Change ${stepMeta[step].label.toLowerCase()}`
+      : `Change ${stepMeta[step].label.toLowerCase()}: ${answers.selections[step].map((code) => labelOf(step, code)).join(", ")}`;
+
   return (
-    <div className="mx-auto max-w-6xl">
-      <div className="flex flex-col justify-between gap-5 border-b border-[#dfe3e8] pb-6 sm:flex-row sm:items-end">
-        <div>
-          <h1 className="text-3xl font-semibold tracking-[-0.035em] sm:text-4xl">
-            Your funding opportunity matches
-          </h1>
-          <p className="mt-3 text-base leading-[1.5]">
-            Explore funding opportunities ranked by their alignment with your project’s selected characteristics.
-          </p>
-        </div>
-        <div className="flex gap-2">
-          <Button
-            type="button"
-            variant="outline"
-            onClick={onEdit}
-            className="rounded-lg border-[#d6dbe1] bg-white shadow-none"
-          >
-            <ArrowLeft /> Edit profile
-          </Button>
-          <Button type="button" variant="ghost" onClick={onReset} className="rounded-lg">
-            <RotateCcw /> Reset
-          </Button>
-        </div>
+    <div className="screen-enter mx-auto max-w-6xl">
+      <div>
+        <h1 className="text-3xl font-semibold tracking-[-0.035em] sm:text-4xl">
+          {ranked ? "Your funding opportunity matches" : "All funding opportunities"}
+        </h1>
+        <p className="mt-2 text-base leading-[1.5] text-[#58636d]">
+          {ranked
+            ? "Ranked by how closely each call fits the project you described."
+            : "Every call on the desk, soonest deadline first."}
+        </p>
       </div>
 
-      <details className="group mt-5 rounded-xl border border-[#dfe3e8] bg-white">
-        <summary className="flex cursor-pointer list-none items-center justify-between px-4 py-3 text-sm font-semibold marker:content-none">
-          <span>Selected profile</span>
-          <span>{totalSelected} values</span>
-        </summary>
-        <div className="flex flex-wrap gap-1.5 border-t border-[#e2e6ea] px-4 py-4">
-          {dimensions.flatMap((dimension) =>
-            selections[dimension].map((code) => (
-              <span
-                key={`${dimension}-${code}`}
-                className="rounded-full bg-[#eef1f4] px-2.5 py-1 text-xs font-medium"
-              >
-                <span className="font-semibold">{dimensionLabels[dimension].label} · </span>
-                {labelOf(dimension, code)}
-              </span>
-            )),
-          )}
-          {profileSummary.map((line) => (
-            <span key={line} className="rounded-full bg-[#e7f2fb] px-2.5 py-1 text-xs font-medium">
-              {line}
-            </span>
-          ))}
-        </div>
-      </details>
-
-      <TooltipProvider delayDuration={0}>
-        <div className="mt-5 space-y-3">
-          {cards.map(({ match, filter }) => {
-            const record = match.opportunity.record;
-            const closed = allDeadlinesPassed(
-              record.pre_submission_deadline,
-              record.full_proposal_deadline,
-              today,
-            );
-
-            return (
-              <article
-                key={record.id}
-                className="overflow-hidden rounded-xl border border-[#d7dde2] bg-white transition-colors hover:border-[#80badc] hover:bg-[#f4f9fd]"
-              >
-                <button
-                  type="button"
-                  onClick={() => onSelect(record.id)}
-                  className="group relative w-full cursor-pointer px-5 pb-16 pt-5 text-left focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-inset focus-visible:ring-[#9bccea] sm:px-6 sm:pb-6 sm:pr-20"
-                >
-                  <div className="flex flex-col gap-5 sm:flex-row sm:items-start sm:justify-between">
-                    <div className="min-w-0">
-                      {record.programme && (
-                        <p className="text-sm font-medium leading-[1.45] text-[#58636d]">
-                          {record.programme}
-                        </p>
-                      )}
-                      <h2 className="mt-2 text-xl font-semibold uppercase leading-[1.55] tracking-[-0.015em] text-[#164d73] sm:text-2xl sm:leading-[1.35]">
-                        {record.display_title}
-                      </h2>
-                      <CallTypeTags record={record} callTypes={callTypes} className="mt-3" />
-                    </div>
-                    <div className="flex shrink-0 items-center gap-2.5">
-                      <span
-                        aria-label={`${percentage(match.score)} match`}
-                        className={`shrink-0 rounded-lg px-3 py-2 text-lg font-semibold tabular-nums ${
-                          match.score >= 0.5
-                            ? "bg-[#e7f5ed] text-[#176b46]"
-                            : "bg-[#fbeaea] text-[#a13a3a]"
-                        }`}
-                      >
-                        {percentage(match.score)}
-                      </span>
-                      <Tooltip>
-                        <TooltipTrigger asChild>
-                          <span
-                            aria-label="How the match percentage is calculated"
-                            className="grid size-9 shrink-0 place-items-center rounded-full bg-[#f2f6f9] text-[#5e6973]"
-                          >
-                            <CircleHelp className="size-5" strokeWidth={1.9} />
-                          </span>
-                        </TooltipTrigger>
-                        <TooltipContent
-                          side="top"
-                          align="start"
-                          sideOffset={4}
-                          className={`${definitionTooltipClassName} w-80 max-w-[calc(100vw-2rem)] animate-none text-left font-normal text-wrap [&>svg]:hidden`}
-                        >
-                          The matching percentage shows how closely a funding opportunity aligns with the project characteristics selected in the questionnaire. Budget and timing do not change it.
-                        </TooltipContent>
-                      </Tooltip>
-                    </div>
-                  </div>
-
-                  <dl className="mt-5 grid gap-x-7 gap-y-4 border-t border-[#e1e6ea] pt-5 sm:grid-cols-3">
-                    <div>
-                      <dt className={factLabelClassName}>Project size</dt>
-                      <dd className={factValueClassName}>
-                        {formatProjectSize(record.minimum_project_size, record.maximum_project_size)}
-                      </dd>
-                    </div>
-                    <div>
-                      <dt className={factLabelClassName}>Project window</dt>
-                      <dd className={factValueClassName}>
-                        {formatProjectWindow(record.earliest_project_start_date, record.project_end_date)}
-                      </dd>
-                    </div>
-                    <div>
-                      <dt className={factLabelClassName}>Proposal submission window</dt>
-                      <dd className={factValueClassName}>
-                        {formatSubmissionWindow(
-                          record.pre_submission_deadline,
-                          record.full_proposal_deadline,
-                        ).map((line) => (
-                          <span key={line} className="block">
-                            {line}
-                          </span>
-                        ))}
-                        {closed && (
-                          <span className="mt-1.5 inline-block rounded-md bg-[#fbeaea] px-2 py-0.5 font-semibold text-[#a13a3a]">
-                            The submission deadline has passed
-                          </span>
-                        )}
-                      </dd>
-                    </div>
-                  </dl>
-
-                  {(filter.warnings.length > 0 || filter.notes.length > 0) && (
-                    <ul className="mt-4 space-y-1.5 text-sm leading-[1.45]">
-                      {filter.warnings.map((warning) => (
-                        <li
-                          key={warning}
-                          className="flex items-start gap-2 rounded-lg bg-[#fff4dc] px-3 py-2 font-medium text-[#7a4b00]"
-                        >
-                          <TriangleAlert className="mt-0.5 size-4 shrink-0" aria-hidden="true" />
-                          <span>{warning}</span>
-                        </li>
-                      ))}
-                      {filter.notes.map((note) => (
-                        <li
-                          key={note}
-                          className="flex items-start gap-2 rounded-lg bg-[#eef6fb] px-3 py-2 text-[#164d73]"
-                        >
-                          <Info className="mt-0.5 size-4 shrink-0" aria-hidden="true" />
-                          <span>{note}</span>
-                        </li>
-                      ))}
-                    </ul>
-                  )}
-
-                  <span
-                    aria-hidden="true"
-                    className="absolute bottom-0 right-0 grid size-13 place-items-center rounded-tl-[1.65rem] bg-[#164d73] text-white transition-colors group-hover:bg-[#0f638d]"
-                  >
-                    <ArrowRight className="size-5 transition-transform group-hover:translate-x-0.5" />
-                  </span>
-                </button>
-              </article>
-            );
-          })}
-
-          {cards.length === 0 && (
-            <div className="rounded-xl border border-dashed border-[#c6ccd2] bg-white px-6 py-14 text-center">
-              {opportunities.length === 0 ? (
-                <>
-                  <h2 className="text-lg font-semibold">No funding opportunities yet</h2>
-                  <p className="mx-auto mt-2 max-w-md text-sm leading-[1.5]">
-                    No funding opportunities have been published here yet. Please check back later.
-                  </p>
-                </>
-              ) : hiddenByFilters > 0 ? (
-                <>
-                  <h2 className="text-lg font-semibold">No opportunity fits your budget and timing</h2>
-                  <p className="mx-auto mt-2 max-w-md text-sm leading-[1.5]">
-                    {hiddenByFilters === 1
-                      ? "One opportunity matches your project, but it"
-                      : `${hiddenByFilters} opportunities match your project, but they`}{" "}
-                    cannot fund a project with the budget or timing you gave. Edit the profile to
-                    widen them.
-                  </p>
-                </>
-              ) : (
-                <>
-                  <h2 className="text-lg font-semibold">No overlapping opportunities</h2>
-                  <p className="mx-auto mt-2 max-w-md text-sm leading-[1.5]">
-                    None of the funding opportunities share a characteristic you selected. Edit the
-                    profile to broaden the comparison.
-                  </p>
-                </>
-              )}
+      {ranked ? (
+        // The answers stay in view; each one opens its own question.
+        <div className="sticky top-[var(--header-h)] z-20 -mx-4 mt-4 border-b border-[#dfe3e8] bg-[#f6f7f9]/95 px-4 py-2 backdrop-blur sm:-mx-7 sm:px-7">
+          <div className="flex items-center justify-between gap-2">
+            <button
+              type="button"
+              aria-expanded={profileOpen}
+              aria-controls="your-project-answers"
+              onClick={() => setProfileOpen((current) => !current)}
+              className={`-ml-2 inline-flex min-h-[2.25rem] items-center gap-1.5 rounded-lg px-2 text-xs font-bold uppercase tracking-[0.06em] text-[#164d73] transition-colors hover:bg-[#e7f2fb] ${focusRingClassName}`}
+            >
+              Your project
+              <ChevronDown
+                className={`size-4 transition-transform ${profileOpen ? "rotate-180" : ""}`}
+                aria-hidden="true"
+              />
+            </button>
+            <button type="button" onClick={onReset} className={`${ghostControlClassName} shrink-0 px-2`}>
+              <RotateCcw className="size-4" aria-hidden="true" />
+              Start over
+            </button>
+          </div>
+          <div id="your-project-answers" className="collapsible" data-open={profileOpen} inert={!profileOpen}>
+            <div>
+              <ul className="flex flex-wrap items-center gap-1.5 pt-1 pb-1.5">
+                {steps.map((step, index) => (
+                  <li key={step} className="max-w-full">
+                    <button
+                      type="button"
+                      title={stepTitle(step)}
+                      aria-label={stepTitle(step)}
+                      onClick={() => onEditStep(index)}
+                      className={`group inline-flex min-h-[2rem] max-w-full items-center gap-1.5 rounded-full border border-[#d6dbe1] bg-white px-3 py-1 text-left text-xs font-medium transition-colors hover:border-[#82b8dc] hover:bg-[#e7f2fb] ${focusRingClassName}`}
+                    >
+                      <span className="font-semibold text-[#164d73]">{stepMeta[step].label}</span>
+                      <span>{stepValue(step)}</span>
+                      <Pencil className="size-3 shrink-0 text-[#58636d] opacity-60 group-hover:opacity-100" aria-hidden="true" />
+                    </button>
+                  </li>
+                ))}
+              </ul>
             </div>
-          )}
+          </div>
+        </div>
+      ) : (
+        <div className="mt-4 flex flex-wrap items-center justify-between gap-3 rounded-xl border border-[#c9ddea] bg-[#f4f9fd] px-4 py-3">
+          <p className="text-sm leading-[1.45]">
+            Answer {steps.length} questions about your project to rank these calls by fit.
+          </p>
+          <button type="button" onClick={onStart} className={primaryControlClassName}>
+            Rank them for my project <ArrowRight className="size-4" aria-hidden="true" />
+          </button>
+        </div>
+      )}
 
-          {cards.length > 0 && hiddenByFilters > 0 && (
-            <p className="px-1 pt-1 text-sm leading-[1.5] text-[#58636d]">
-              {hiddenByFilters === 1
-                ? "One more matching opportunity is"
-                : `${hiddenByFilters} more matching opportunities are`}{" "}
-              not shown, because the call cannot fund a project with the budget or timing you gave.
-            </p>
+      {total > 0 && (
+        <div className="mt-4 flex flex-wrap items-center gap-x-3 gap-y-2">
+          <p className="order-1 mr-auto text-sm font-semibold" aria-live="polite">
+            {narrowed ? `${cards.length} of ${total}` : total}{" "}
+            {ranked ? (total === 1 ? "match" : "matches") : total === 1 ? "opportunity" : "opportunities"}
+          </p>
+          <label className="relative order-3 block w-full sm:w-[12.5rem]">
+            <span className="sr-only">Search the list</span>
+            <Search
+              className="pointer-events-none absolute top-1/2 left-3 size-4 -translate-y-1/2 text-[#58636d]"
+              aria-hidden="true"
+            />
+            <input
+              type="search"
+              value={options.query}
+              onChange={(event) => onOptions({ ...options, query: event.target.value })}
+              placeholder="Search titles or IDs"
+              className={`min-h-[2.25rem] w-full rounded-lg border border-[#d6dbe1] bg-white pr-3 pl-9 text-sm placeholder:text-[#6b7781] ${focusRingClassName}`}
+            />
+          </label>
+          {ranked && (
+            <label className="order-4 flex items-center gap-2 text-sm font-medium">
+              <span className="text-[#58636d]">Sort</span>
+              <select
+                value={options.sort}
+                onChange={(event) => onOptions({ ...options, sort: event.target.value as SortKey })}
+                className={`min-h-[2.25rem] rounded-lg border border-[#d6dbe1] bg-white px-2 text-sm font-medium ${focusRingClassName}`}
+              >
+                <option value="match">Best match</option>
+                <option value="deadline">Deadline soonest</option>
+              </select>
+            </label>
+          )}
+          <span className="order-5 inline-flex">
+            <Switch
+              checked={options.openOnly}
+              onChange={(openOnly) => onOptions({ ...options, openOnly })}
+              label="Open calls only"
+            />
+          </span>
+          {ranked && (
+            <Popover>
+              <PopoverTrigger asChild>
+                <button type="button" className={`${ghostControlClassName} order-2 px-2 text-[#286a99] sm:order-6`}>
+                  <CircleHelp className="size-4" aria-hidden="true" />
+                  How matching works
+                </button>
+              </PopoverTrigger>
+              <PopoverContent align="end">
+                The matching percentage shows how closely a funding opportunity aligns with the project
+                characteristics selected in the questionnaire. Budget and timing do not change it.
+              </PopoverContent>
+            </Popover>
           )}
         </div>
-      </TooltipProvider>
+      )}
+
+      <ul className="mt-3 space-y-2.5">
+        {cards.map((card) => (
+          <li key={card.opportunity.record.id}>
+            <ResultCard
+              card={card}
+              callTypes={callTypes}
+              today={today}
+              href={hrefFor(card.opportunity.record.id)}
+              onOpen={onOpen}
+            />
+          </li>
+        ))}
+      </ul>
+
+      {cards.length === 0 && (
+        <div className="mt-3 rounded-xl border border-dashed border-[#c6ccd2] bg-white px-6 py-14 text-center">
+          {published === 0 ? (
+            <>
+              <h2 className="text-lg font-semibold">No funding opportunities yet</h2>
+              <p className="mx-auto mt-2 max-w-md text-sm leading-[1.5]">
+                No funding opportunities have been published here yet. Please check back later.
+              </p>
+            </>
+          ) : total > 0 ? (
+            <>
+              <h2 className="text-lg font-semibold">Nothing fits this search</h2>
+              <p className="mx-auto mt-2 max-w-md text-sm leading-[1.5]">
+                None of the {total} {ranked ? "matches" : "opportunities"} fit the search
+                {options.openOnly ? " among the open calls" : ""}.
+              </p>
+              <button
+                type="button"
+                onClick={() => onOptions({ ...options, query: "", openOnly: false })}
+                className={`${outlineControlClassName} mt-4`}
+              >
+                <X className="size-4" aria-hidden="true" /> Clear search and filter
+              </button>
+            </>
+          ) : hiddenByFilters > 0 ? (
+            <>
+              <h2 className="text-lg font-semibold">No opportunity fits your budget and timing</h2>
+              <p className="mx-auto mt-2 max-w-md text-sm leading-[1.5]">
+                {hiddenByFilters === 1
+                  ? "One opportunity matches your project, but it"
+                  : `${hiddenByFilters} opportunities match your project, but they`}{" "}
+                cannot fund a project with the budget or timing you gave. Change them in the bar above.
+              </p>
+            </>
+          ) : (
+            <>
+              <h2 className="text-lg font-semibold">No overlapping opportunities</h2>
+              <p className="mx-auto mt-2 max-w-md text-sm leading-[1.5]">
+                None of the funding opportunities share a characteristic you selected. Change your
+                answers in the bar above to broaden the comparison.
+              </p>
+            </>
+          )}
+        </div>
+      )}
+
+      {cards.length > 0 && hiddenByFilters > 0 && (
+        <p className="px-1 pt-3 text-sm leading-[1.5] text-[#58636d]">
+          {hiddenByFilters === 1
+            ? "One more matching opportunity is"
+            : `${hiddenByFilters} more matching opportunities are`}{" "}
+          not shown, because the call cannot fund a project with the budget or timing you gave.
+        </p>
+      )}
     </div>
+  );
+}
+
+function ResultCard({
+  card,
+  callTypes,
+  today,
+  href,
+  onOpen,
+}: {
+  card: ListingCard;
+  callTypes: CallTypeGroup[];
+  today: string;
+  href: string;
+  onOpen: (id: string) => void;
+}) {
+  const { match } = card;
+  const record = card.opportunity.record;
+  const { callId, title } = splitTitle(record.display_title, record.programme);
+  const status = deadlineStatus(record.pre_submission_deadline, record.full_proposal_deadline, today);
+  const hasWindow = record.earliest_project_start_date !== null || record.project_end_date !== null;
+  const hasSize = record.minimum_project_size !== null || record.maximum_project_size !== null;
+
+  // A real link, so it can be opened in a new tab; a plain click stays in the page.
+  function open(event: MouseEvent<HTMLAnchorElement>) {
+    if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey || event.button !== 0) return;
+    event.preventDefault();
+    onOpen(record.id);
+  }
+
+  return (
+    <a
+      href={href}
+      onClick={open}
+      className={`group flex items-center gap-3 rounded-xl border border-[#d7dde2] bg-white px-4 py-3.5 transition-colors hover:border-[#80badc] hover:bg-[#f4f9fd] sm:gap-4 sm:px-5 ${focusRingClassName} ${
+        status.kind === "closed" ? "opacity-75" : ""
+      }`}
+    >
+      <div className="min-w-0 flex-1">
+        <p className="flex flex-wrap items-baseline gap-x-2 text-xs leading-[1.5] text-[#58636d]">
+          {callId && <span className="font-mono font-semibold tracking-[-0.01em] text-[#164d73]">{callId}</span>}
+          {record.programme && <span className="font-medium">{record.programme}</span>}
+        </p>
+        <h2 className="mt-0.5 text-lg font-semibold leading-[1.35] tracking-[-0.015em] text-[#164d73]">
+          {title}
+        </h2>
+
+        <div className="mt-2 flex flex-wrap items-center gap-x-4 gap-y-1.5 text-sm leading-[1.45] text-[#27313a]">
+          <span className="inline-flex flex-wrap items-center gap-x-2 gap-y-1">
+            <Clock className="size-4 shrink-0 text-[#58636d]" aria-hidden="true" />
+            <DeadlineBadge status={status} />
+            <span className="text-[#58636d]">
+              {formatSubmissionWindow(record.pre_submission_deadline, record.full_proposal_deadline).join(" · ")}
+            </span>
+          </span>
+          {hasWindow && (
+            <span className="inline-flex items-center gap-2 text-[#58636d]">
+              <CalendarRange className="size-4 shrink-0" aria-hidden="true" />
+              <span>
+                <span className="sr-only">Project window: </span>
+                {formatProjectWindow(record.earliest_project_start_date, record.project_end_date)}
+              </span>
+            </span>
+          )}
+          {hasSize && (
+            <span className="inline-flex items-center gap-2 text-[#58636d]">
+              <Coins className="size-4 shrink-0" aria-hidden="true" />
+              <span>
+                <span className="sr-only">Project size: </span>
+                {formatProjectSize(record.minimum_project_size, record.maximum_project_size)}
+              </span>
+            </span>
+          )}
+        </div>
+
+        <CallTypeTags record={record} callTypes={callTypes} className="mt-2" />
+
+      </div>
+
+      <div className="flex shrink-0 items-center gap-1 self-start sm:gap-2 sm:self-center">
+        {match && <MatchRing score={match.score} />}
+        <ChevronRight
+          className="size-5 text-[#58636d] transition-transform group-hover:translate-x-0.5 group-hover:text-[#164d73] max-sm:hidden"
+          aria-hidden="true"
+        />
+      </div>
+    </a>
   );
 }

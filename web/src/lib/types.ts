@@ -6,7 +6,7 @@ export const dimensions: Dimension[] = ["topic", "role", "activity", "outcome"];
 export type TaxonomyEntry = { code: string; value: string; definition: string };
 export type Taxonomy = Record<Dimension, TaxonomyEntry[]>;
 
-/** One FO record, as the SA agent writes it (minus the fields the site never shows). */
+/** One FO record, as the agent (SARA) writes it (minus the fields the site never shows). */
 export type FoRecord = {
   id: string;
   display_title: string;
@@ -34,7 +34,7 @@ export type ReportCard = {
   sources: string | null;
 };
 export type ReportSection = { title: string; question?: string | null; cards: ReportCard[] };
-/** One FO report: block name -> sections, as the RE agent writes it. */
+/** One FO report: block name -> sections, as the agent (SARA) writes it. */
 export type FoReport = Record<string, ReportSection[]>;
 
 /** The categories of one call type, each with its plain-language tag, from resources/call_types.json. */

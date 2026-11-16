@@ -149,7 +149,7 @@ It appears next to the programme on the card and as a chip on the detail page. T
 
 - *InterOPERA example.* Still hardcoded, but as codes (T4, T7; R2, R8; A4, A6, A7, A8, A13; O7, O4). Labels come from the taxonomy; a code that no longer exists is left out. The old example also listed "System Integration", which the taxonomy no longer has.
 - *Labels are shown as written.* The old site capitalised outcome labels; that is gone, so a changed `value` appears exactly.
-- *Share* copies a link that opens the opportunity directly. The link ends in `#opportunity=<id>`: the ID is in the address, never in the page.
+- *Share* copies a link that opens the opportunity directly. The link ends in `#/opportunity/<id>`, followed by the questionnaire answers when it was opened from results (see "Screens and addresses" in the README). Links in the earlier format `#opportunity=<id>` still open.
 - *Detail page.* `funding_timing_submission` is on the left; every other block is on the right, in file order. So a new block in a template appears without a code change. The Article View is kept and built from the same data.
 - *Report without answers.* A report whose cards are all null is treated like a missing report.
 - *Unsafe links.* A record whose `url` does not start with `http://` or `https://` is skipped, because Apply opens it.
@@ -266,3 +266,10 @@ The filter is **cleared** on Edit profile, as on Reset and Start over. This was 
 3. *`check-data` counts the null project dates of the two real records as problems*, so it still ends with a failure on this repository, as before.
 4. *The filter is not in the link that Share copies.* A shared link opens the opportunity, not the filtered list. That matches "stores nothing outside the browser".
 
+## Later: one agent file (AGENT.md)
+
+`SA_agent.md` and `RE_agent.md` were replaced by one file, `AGENT.md` (SARA: Search, Assessment and Report Agent). Where the sections above name the two old files, read `AGENT.md`.
+
+- The date helper, the gate programme and the Known Calls script in `AGENT.md` are the same code as in the old `SA_agent.md`. `check-data` now reads the gate from `AGENT.md`.
+- `templates/source.template.json` and the three files in `resources/sources/` use the key `parameters_passed_to_the_agent` (was `parameters_passed_to_the_search_agent`), as `AGENT.md` reads it.
+- The other templates, the taxonomy, the call types and the project files did not change.

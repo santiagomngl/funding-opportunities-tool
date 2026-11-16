@@ -6,7 +6,7 @@
     "first_run_on": null,
     "last_completed_scan_at": null
   },
-  "parameters_passed_to_the_search_agent": {
+  "parameters_passed_to_the_agent": {
     "portal_type": null,
     "starting_url": null,
     "search_scope": null,
