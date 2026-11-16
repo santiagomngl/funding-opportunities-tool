@@ -108,10 +108,18 @@ test("check-data prints PASS for records that pass the gate and reports that fol
 test("check-data: the gate rejects a bad record", () => {
   const root = fixtureRoot();
   writeJson(path.join(root, `data/fo_records/${ids.funded}.json`),
-    fakeRecord(ids.funded, "Type 1", { earliest_project_start_date: null }));
+    fakeRecord(ids.funded, "Type 1", { date_last_checked: null }));
   const check = runCheck(root);
   assert.equal(check.status, 1);
-  assert.match(check.output, /earliest_project_start_date: must be filled in/);
+  assert.match(check.output, /date_last_checked: must be filled in/);
+});
+
+test("a record without project dates passes the gate and is shown without a warning", () => {
+  const root = fixtureRoot();
+  writeJson(path.join(root, `data/fo_records/${ids.funded}.json`),
+    fakeRecord(ids.funded, "Type 1", { earliest_project_start_date: null, project_end_date: null }));
+  assert.deepEqual(load(root).warnings, []);
+  assert.equal(runCheck(root).status, 0);
 });
 
 test("check-data: a report must be its template, with only answer and sources filled", () => {
