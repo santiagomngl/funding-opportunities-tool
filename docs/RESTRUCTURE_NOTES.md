@@ -214,3 +214,55 @@ To confirm, step by step:
 - The detail page needed no change to its layout code: it already takes every section and card title and question from the report file. A test now checks this against both templates.
 - The two reports in `data/fo_reports/` were moved to the new structure by hand, from their existing answers only. The calls were not read again, so every card the old format had no answer for is null and hidden. Re-run the RE agent on both to fill them.
 - There was no CM2026-01 brief or other demo data left to update: it was removed in the restructure (section 7).
+
+## 10. Call-type tags and filter (16 November 2026)
+
+### What changed
+
+- **Agent files.** `resources/call_types.json` and `SA_agent.md` were replaced by the new versions. Against the old files, `call_types.json` gains the `types` list and a `tag` on every category, and nothing else; `SA_agent.md` differs in the one `call_types.json` row of its ground-rules table. The gate is still read from `SA_agent.md` and run from the repository root, unchanged.
+- **Loading.** `web/build/load-data.mjs` now reads `types` and the three category lists and bundles, per call type, its tag and its categories with their tags. A type or category without a tag is left out and reported.
+- **Tags.** `web/build/call-type-tags.mjs` holds `tagsFor(record, callTypes)`: the type's tag, one category tag per code in the order of `category_codes`, and the codes it could not resolve. The build and the site both use it. A code that is not a category of the record's own type gives a build warning naming the file and the code; the card shows no tag for it.
+- **Result card.** The programme stays above the title; the type tag and the category tags sit under the title as small labels that wrap. The old text after the programme ("TenneT can receive funding" and so on) is gone.
+- **Filter.** `web/src/lib/call-type-filter.ts` (pure functions) and `web/src/components/call-type-filter.tsx`. It sits below "Selected profile" in a panel with the same look, with "Showing X of Y" and "Clear filters" above the cards, and its own empty state. It is separate from `filters.ts` and runs after `buildResults`, on the finished list.
+- **Hard-coded wording removed.** `web/src/lib/wording.ts` is deleted. The table "Call-type wording" in section 5 above no longer applies.
+- **`check-data`.** A new part, "Call types", fails on a type or category without a tag, a category tag that contains a category code, a code under more than one type, and a type missing from `types`. A record whose category code the site could not load gives a `WARNING` that is not counted as a problem.
+- **Tests.** 18 new unit tests (61 in all): tags, filter, counts, unchanged ranking, and the `check-data` rules.
+
+### Edit profile
+
+The filter is **cleared** on Edit profile, as on Reset and Start over. This was the simpler choice: the filter's state lives in the results screen, which closes in all three cases, so there is no extra reset code. It also means a changed profile never comes back to "Showing 0 of N" because of an old tick.
+
+### How the options are counted
+
+- The counts are taken over the cards left after the match score (at least one shared value) and the budget and timing filters, and before the call-type filter. A card hidden by budget or timing is not counted. Ticking boxes does not move the numbers.
+- A category's count is the number of those cards that hold its code.
+- A heading's count is the number of those cards that hold at least one category of the group. A record with two codes of one type counts once for the heading and once for each of its two categories, so the category counts can add up to more than the heading.
+- "Showing X of Y": Y is the same set of cards, X the ones that pass the call-type filter.
+- An option with a count of 0 stays visible, greyed, and can still be ticked.
+
+### Readings and choices
+
+- **Detail page.** Its header showed the old hard-coded call-type wording and the category `value`. Because the only call-type wording on screen may be the tag text, it now shows the same tags as the card. The category `value` is no longer shown anywhere on the site.
+- **Definitions.** The `definition` of a type or category appears as a hover text on its tag and on its filter option. It comes from the file unchanged.
+- **Filter panel.** Open on wide screens, closed on narrow ones, where its 15 options would push the cards far down. The summary line shows how many options are ticked.
+- **A type without a tag** is left out of the filter, and its cards show no tags. A **category without a tag** gets no filter option and no tag.
+- **"No stray terms"** was checked on what a user can see or hover (the page text and the `title` and `aria-label` texts), not on the JavaScript file. The bundled data must hold the category and taxonomy codes and `Type 1`, because the filter, the score and `tagsFor` work on them.
+
+### Tested
+
+- Unit tests: the three tag cases of the acceptance criteria against the real `call_types.json`; nothing selected, one category, two codes, the heading, the partly ticked state, the counts and the empty state; the same scores and order with the filter on and off; a hidden card never counted and a Partly card keeping its warning; a changed tag reaching the site without a code change; a missing code warned about by name while the site still loads; `check-data` failing on each of its four rules.
+- In a headless browser, with five temporary fake records next to the two real ones (removed afterwards): the exact tag texts on the cards, the filter's headings, labels and counts, one category, a heading, the partly ticked state, the empty state and both "Clear filters" buttons, the filter cleared after Edit profile, the same tags on the detail page, no stray term on the results or detail page, and no sideways scrolling at 390 pixels wide.
+
+### Not tested
+
+- A real Vercel deployment; the pull request's preview is the first real run.
+- Browsers other than Chromium, and a screen reader on the partly ticked heading.
+- The agents running with the new files. Only the gate was run.
+
+### Suggestions I did not apply
+
+1. *The Type 3 category tags are long and repeat their type tag.* Each starts with "TenneT cannot receive funding, nor take part, but may benefit from …", directly under a type tag that says the same. On a card and in the filter this is the heaviest text. A shorter category tag ("May benefit from flexibility and demand that ease congestion") would read better; it is a wording change in `call_types.json` only.
+2. *"Call Type 1:" in the type tags* is the one place where an internal label reaches the screen. Dropping the prefix from the three tags would remove it.
+3. *`check-data` counts the null project dates of the two real records as problems*, so it still ends with a failure on this repository, as before.
+4. *The filter is not in the link that Share copies.* A shared link opens the opportunity, not the filtered list. That matches "stores nothing outside the browser".
+

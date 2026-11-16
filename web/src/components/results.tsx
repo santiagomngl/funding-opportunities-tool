@@ -1,9 +1,12 @@
-import { useMemo } from "react";
+import { useMemo, useState } from "react";
 import { ArrowLeft, ArrowRight, CircleHelp, Info, RotateCcw, TriangleAlert } from "lucide-react";
 
 import { Button } from "@/components/ui/button";
+import { CallTypeFilter } from "@/components/call-type-filter.tsx";
+import { CallTypeTags } from "@/components/call-type-tags.tsx";
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@/components/ui/tooltip";
 import { definitionTooltipClassName } from "@/components/styles.ts";
+import { applyCallTypeFilter, countOptions } from "@/lib/call-type-filter.ts";
 import type { UserBudget, UserTiming } from "@/lib/filters.ts";
 import {
   allDeadlinesPassed,
@@ -14,8 +17,14 @@ import {
 } from "@/lib/format.ts";
 import { percentage } from "@/lib/match.ts";
 import { buildResults } from "@/lib/results.ts";
-import { dimensions, type Dimension, type Opportunity, type Selections, type Taxonomy } from "@/lib/types.ts";
-import { callTypeWording } from "@/lib/wording.ts";
+import {
+  dimensions,
+  type CallTypeGroup,
+  type Dimension,
+  type Opportunity,
+  type Selections,
+  type Taxonomy,
+} from "@/lib/types.ts";
 
 const factLabelClassName = "text-xs font-bold uppercase tracking-[0.06em] text-[#164d73]";
 const factValueClassName = "mt-1.5 text-sm leading-[1.45] text-[#58636d]";
@@ -23,6 +32,7 @@ const factValueClassName = "mt-1.5 text-sm leading-[1.45] text-[#58636d]";
 export function Results({
   opportunities,
   taxonomy,
+  callTypes,
   selections,
   budget,
   timing,
@@ -34,6 +44,7 @@ export function Results({
 }: {
   opportunities: Opportunity[];
   taxonomy: Taxonomy;
+  callTypes: CallTypeGroup[];
   selections: Selections;
   budget: UserBudget;
   timing: UserTiming;
@@ -44,10 +55,20 @@ export function Results({
   onReset: () => void;
   onSelect: (id: string) => void;
 }) {
-  const { cards, hiddenByFilters } = useMemo(
+  // The ranked cards that fit the budget and timing. The call-type filter comes
+  // after them and only hides cards; its state lives here, so it is cleared
+  // whenever the user leaves the results (Edit profile, Reset, Start over).
+  const { cards: rankedCards, hiddenByFilters } = useMemo(
     () => buildResults(opportunities, selections, budget, timing),
     [opportunities, selections, budget, timing],
   );
+  const [selectedCategories, setSelectedCategories] = useState<Set<string>>(() => new Set());
+  const counts = useMemo(() => countOptions(rankedCards, callTypes), [rankedCards, callTypes]);
+  const cards = useMemo(
+    () => applyCallTypeFilter(rankedCards, selectedCategories),
+    [rankedCards, selectedCategories],
+  );
+  const clearFilters = () => setSelectedCategories(new Set());
   const today = localToday();
   const totalSelected = dimensions.reduce((total, d) => total + selections[d].length, 0);
   const labelOf = (dimension: Dimension, code: string) =>
@@ -104,8 +125,33 @@ export function Results({
         </div>
       </details>
 
+      {rankedCards.length > 0 && (
+        <>
+          <CallTypeFilter
+            callTypes={callTypes}
+            selected={selectedCategories}
+            counts={counts}
+            onChange={setSelectedCategories}
+          />
+          <div className="mt-5 flex flex-wrap items-center justify-between gap-x-4 gap-y-2 px-1">
+            <p role="status" className="text-sm font-medium text-[#58636d]">
+              Showing {cards.length} of {rankedCards.length}
+            </p>
+            <Button
+              type="button"
+              variant="ghost"
+              disabled={selectedCategories.size === 0}
+              onClick={clearFilters}
+              className="h-8 rounded-lg px-2.5 text-sm"
+            >
+              Clear filters
+            </Button>
+          </div>
+        </>
+      )}
+
       <TooltipProvider delayDuration={0}>
-        <div className="mt-5 space-y-3">
+        <div className="mt-3 space-y-3">
           {cards.map(({ match, filter }) => {
             const record = match.opportunity.record;
             const closed = allDeadlinesPassed(
@@ -126,14 +172,15 @@ export function Results({
                 >
                   <div className="flex flex-col gap-5 sm:flex-row sm:items-start sm:justify-between">
                     <div className="min-w-0">
-                      <p className="text-sm font-medium leading-[1.45] text-[#58636d]">
-                        {[record.programme, callTypeWording[record.call_type]]
-                          .filter(Boolean)
-                          .join(" · ")}
-                      </p>
+                      {record.programme && (
+                        <p className="text-sm font-medium leading-[1.45] text-[#58636d]">
+                          {record.programme}
+                        </p>
+                      )}
                       <h2 className="mt-2 text-xl font-semibold uppercase leading-[1.55] tracking-[-0.015em] text-[#164d73] sm:text-2xl sm:leading-[1.35]">
                         {record.display_title}
                       </h2>
+                      <CallTypeTags record={record} callTypes={callTypes} className="mt-3" />
                     </div>
                     <div className="flex shrink-0 items-center gap-2.5">
                       <span
@@ -236,7 +283,25 @@ export function Results({
 
           {cards.length === 0 && (
             <div className="rounded-xl border border-dashed border-[#c6ccd2] bg-white px-6 py-14 text-center">
-              {opportunities.length === 0 ? (
+              {rankedCards.length > 0 ? (
+                <>
+                  <h2 className="text-lg font-semibold">No opportunity matches the selected filters</h2>
+                  <p className="mx-auto mt-2 max-w-md text-sm leading-[1.5]">
+                    {rankedCards.length === 1
+                      ? "One opportunity matches your project, but it is"
+                      : `${rankedCards.length} opportunities match your project, but they are`}{" "}
+                    hidden by the filters you ticked.
+                  </p>
+                  <Button
+                    type="button"
+                    variant="outline"
+                    onClick={clearFilters}
+                    className="mt-5 rounded-lg border-[#d6dbe1] bg-white shadow-none"
+                  >
+                    Clear filters
+                  </Button>
+                </>
+              ) : opportunities.length === 0 ? (
                 <>
                   <h2 className="text-lg font-semibold">No funding opportunities yet</h2>
                   <p className="mx-auto mt-2 max-w-md text-sm leading-[1.5]">
@@ -266,7 +331,7 @@ export function Results({
             </div>
           )}
 
-          {cards.length > 0 && hiddenByFilters > 0 && (
+          {rankedCards.length > 0 && hiddenByFilters > 0 && (
             <p className="px-1 pt-1 text-sm leading-[1.5] text-[#58636d]">
               {hiddenByFilters === 1
                 ? "One more matching opportunity is"

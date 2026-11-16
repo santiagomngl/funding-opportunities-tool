@@ -11,7 +11,7 @@ import { quarterEnd, quarterStart, type UserBudget, type UserTiming } from "@/li
 import { formatAmount } from "@/lib/format.ts";
 import { dimensions, type Dimension, type Selections } from "@/lib/types.ts";
 
-const { taxonomy, opportunities } = siteData;
+const { taxonomy, callTypes, opportunities } = siteData;
 
 type QuestionnaireStep = Dimension | "budget" | "timing";
 
@@ -573,6 +573,7 @@ export default function App() {
             <Results
               opportunities={opportunities}
               taxonomy={taxonomy}
+              callTypes={callTypes}
               selections={selections}
               budget={budget}
               timing={timing}
@@ -588,7 +589,7 @@ export default function App() {
 
       <OpportunitySheet
         opportunity={opportunities.find((o) => o.record.id === selectedId) ?? null}
-        categories={siteData.categories}
+        callTypes={callTypes}
         onClose={() => selectOpportunity(null)}
       />
     </main>

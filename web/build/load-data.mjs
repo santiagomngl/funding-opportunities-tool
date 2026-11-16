@@ -8,10 +8,13 @@
 
 import { existsSync, readdirSync, readFileSync } from "node:fs";
 import path from "node:path";
+import { tagsFor } from "./call-type-tags.mjs";
 
 export const DIMENSIONS = ["topic", "role", "activity", "outcome"];
 export const CALL_TYPES = ["Type 1", "Type 2", "Type 3", "Not relevant"];
 export const SIDE_BLOCK = "funding_timing_submission";
+/** call_type -> the key of its category list in resources/call_types.json. */
+export const CALL_TYPE_KEYS = { "Type 1": "type_1", "Type 2": "type_2", "Type 3": "type_3" };
 
 // Used only when templates/fo_record.template.json cannot be read.
 const FALLBACK_RECORD_KEYS = [
@@ -170,24 +173,80 @@ function loadCodeList(file, keys, label, warn) {
 }
 
 /**
+ * Reads resources/call_types.json: per call type its tag and its categories,
+ * each with a tag. A type or category without a tag is left out (no tag on the
+ * cards, no filter option) and reported.
+ */
+function loadCallTypes(file, warn) {
+  let raw;
+  try {
+    raw = readJson(file);
+  } catch (error) {
+    warn(file, `cannot be read (${error.message}); the site shows no call-type tags and no call-type filter`);
+    return [];
+  }
+  const types = isObject(raw) && Array.isArray(raw.types) ? raw.types : null;
+  if (!types) {
+    warn(file, '"types" must be a list; the site shows no call-type tags and no call-type filter');
+    return [];
+  }
+  const groups = [];
+  const seenCodes = new Set();
+  for (const [type, key] of Object.entries(CALL_TYPE_KEYS)) {
+    const entry = types.find((item) => isObject(item) && item.type === type);
+    if (!entry || !isText(entry.tag)) {
+      warn(file, `"types" has no tag for ${type}; its cards show no tags and the filter leaves it out`);
+      continue;
+    }
+    const categories = [];
+    if (!Array.isArray(raw[key])) {
+      warn(file, `"${key}" must be a list; the site shows no categories for it`);
+    } else {
+      raw[key].forEach((category, index) => {
+        if (!isObject(category) || !isText(category.code)) {
+          warn(file, `${key}[${index}] needs a code; entry skipped`);
+        } else if (!isText(category.tag)) {
+          warn(file, `${key}: category ${category.code} has no tag; the site shows no tag and no filter option for it`);
+        } else if (seenCodes.has(category.code)) {
+          warn(file, `${key}: category code ${category.code} appears more than once; the later entry is skipped`);
+        } else {
+          seenCodes.add(category.code);
+          categories.push({
+            code: category.code,
+            tag: category.tag,
+            definition: typeof category.definition === "string" ? category.definition : "",
+          });
+        }
+      });
+    }
+    groups.push({
+      type,
+      tag: entry.tag,
+      definition: typeof entry.definition === "string" ? entry.definition : "",
+      categories,
+    });
+  }
+  return groups;
+}
+
+/**
  * @param {string} root the folder that holds data/, resources/ and templates/
- * @returns {{ data: object, warnings: { file: string, problem: string }[], counts: { shown: number, notRelevant: number } }}
+ * @returns {{ data: object, warnings: { file: string, problem: string, soft?: boolean }[], counts: { shown: number, notRelevant: number } }}
  */
 export function loadSiteData(root) {
   const warnings = [];
-  const warn = (file, problem) =>
-    warnings.push({ file: path.relative(root, file).split(path.sep).join("/"), problem });
+  // A soft warning is printed, but check-data does not count it as a failure.
+  const warn = (file, problem, soft = false) =>
+    warnings.push({
+      file: path.relative(root, file).split(path.sep).join("/"),
+      problem,
+      ...(soft ? { soft } : {}),
+    });
 
   const taxonomy = loadCodeList(
     path.join(root, "resources/tennet_taxonomy.json"), DIMENSIONS, "questionnaire options", warn,
   );
-  const callTypes = loadCodeList(
-    path.join(root, "resources/call_types.json"), ["type_1", "type_2", "type_3"], "call-type categories", warn,
-  );
-  const categories = {};
-  for (const list of Object.values(callTypes)) {
-    for (const { code, value, definition } of list) categories[code] = { value, definition };
-  }
+  const callTypes = loadCallTypes(path.join(root, "resources/call_types.json"), warn);
 
   let requiredKeys = FALLBACK_RECORD_KEYS;
   try {
@@ -215,6 +274,13 @@ export function loadSiteData(root) {
     if (record.call_type === "Not relevant") {
       notRelevant += 1;
       continue; // never shown, so never bundled
+    }
+    for (const code of tagsFor(record, callTypes).unknownCodes) {
+      warn(
+        file,
+        `category code ${code} is not a ${record.call_type} category the site could load from resources/call_types.json; the card shows no tag for it`,
+        true,
+      );
     }
     const bundled = { ...record };
     NOT_BUNDLED.forEach((key) => delete bundled[key]);
@@ -244,7 +310,7 @@ export function loadSiteData(root) {
   }
 
   return {
-    data: { taxonomy, categories, opportunities: [...records.values()] },
+    data: { taxonomy, callTypes, opportunities: [...records.values()] },
     warnings,
     counts: { shown: records.size, notRelevant },
   };

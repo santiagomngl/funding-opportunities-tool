@@ -3,11 +3,11 @@ import { Check, ChevronDown, Copy, ExternalLink, Share2 } from "lucide-react";
 
 import { Sheet, SheetContent, SheetHeader, SheetTitle } from "@/components/ui/sheet";
 import { ArticleView } from "@/components/article-view.tsx";
+import { CallTypeTags } from "@/components/call-type-tags.tsx";
 import { PlainText, Sources } from "@/components/plain-text.tsx";
 import { formatProjectSize, formatProjectWindow, formatSubmissionWindow } from "@/lib/format.ts";
 import { splitReport, type VisibleCard, type VisibleSection } from "@/lib/report.ts";
 import type { FoRecord, Opportunity, SiteData } from "@/lib/types.ts";
-import { callTypeWording } from "@/lib/wording.ts";
 
 const palettes = [
   {
@@ -44,11 +44,11 @@ const paletteAt = (index: number) => palettes[index % palettes.length];
 
 export function OpportunitySheet({
   opportunity,
-  categories,
+  callTypes,
   onClose,
 }: {
   opportunity: Opportunity | null;
-  categories: SiteData["categories"];
+  callTypes: SiteData["callTypes"];
   onClose: () => void;
 }) {
   const [shareStatus, setShareStatus] = useState<"idle" | "copied">("idle");
@@ -94,23 +94,7 @@ export function OpportunitySheet({
                   <SheetTitle className="mt-2 max-w-5xl text-2xl font-semibold leading-[1.35] tracking-[-0.03em] text-[#27313a] sm:text-3xl sm:leading-[1.35]">
                     {opportunity.record.display_title}
                   </SheetTitle>
-                  <div className="mt-3 flex flex-wrap gap-1.5">
-                    <span className="rounded-full bg-[#e7f2fb] px-2.5 py-1 text-xs font-semibold text-[#164d73]">
-                      {callTypeWording[opportunity.record.call_type]}
-                    </span>
-                    {opportunity.record.category_codes.map(
-                      (code) =>
-                        categories[code] && (
-                          <span
-                            key={code}
-                            title={categories[code].definition}
-                            className="rounded-full bg-[#eef1f4] px-2.5 py-1 text-xs font-medium"
-                          >
-                            {categories[code].value}
-                          </span>
-                        ),
-                    )}
-                  </div>
+                  <CallTypeTags record={opportunity.record} callTypes={callTypes} className="mt-3" />
                   {opportunity.record.executive_summary && (
                     <p className="mt-3 max-w-5xl text-base leading-[1.55] text-[#27313a]">
                       {opportunity.record.executive_summary}
