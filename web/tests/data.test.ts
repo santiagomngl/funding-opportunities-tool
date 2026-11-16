@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import { spawnSync } from "node:child_process";
-import { rmSync, writeFileSync } from "node:fs";
+import { readFileSync, rmSync, writeFileSync } from "node:fs";
 import path from "node:path";
 import test, { after } from "node:test";
 import { fileURLToPath } from "node:url";
@@ -137,4 +137,82 @@ test("check-data: a report must be its template, with only answer and sources fi
   assert.match(output, new RegExp(`FAIL {2}data/fo_reports/${ids.forOthers}\\.json\\n\\s+- the report: the keys must be exactly`));
   assert.match(output, /its record has call_type "Not relevant"/);
   assert.match(output, /no record data\/fo_records\/20200101-000000-05\.json/);
+});
+
+// --- Call types ---------------------------------------------------------------
+
+type RawCallTypes = Record<string, { type?: string; code?: string; tag?: string }[]>;
+function editCallTypes(root: string, edit: (raw: RawCallTypes) => void) {
+  const file = path.join(root, "resources/call_types.json");
+  const raw = JSON.parse(readFileSync(file, "utf8"));
+  edit(raw);
+  writeJson(file, raw);
+}
+const callTypesOf = (root: string) =>
+  (load(root).data as { callTypes: { type: string; tag: string; categories: { code: string; tag: string }[] }[] }).callTypes;
+
+test("changing a tag in call_types.json changes what the site shows, without a code change", () => {
+  const root = fixtureRoot();
+  editCallTypes(root, (raw) => {
+    raw.types[0].tag = "FAKE type tag";
+    raw.type_1[0].tag = "FAKE category tag";
+  });
+  const [type1] = callTypesOf(root);
+  assert.equal(type1.tag, "FAKE type tag");
+  assert.equal(type1.categories[0].tag, "FAKE category tag");
+  assert.equal(runCheck(root).status, 0);
+});
+
+test("a category code missing from call_types.json: a warning names the file and the code, and the site still loads", () => {
+  const root = fixtureRoot();
+  writeJson(path.join(root, `data/fo_records/${ids.funded}.json`),
+    fakeRecord(ids.funded, "Type 1", { category_codes: ["C1.1", "C9.9", "C2.1"] }));
+  const { opportunities, warnings } = load(root);
+  assert.equal(opportunities.length, 3, "the record is still on the site");
+  assert.deepEqual(warnings.map((w) => [w.file, (w as { soft?: boolean }).soft]), [
+    [`data/fo_records/${ids.funded}.json`, true],
+    [`data/fo_records/${ids.funded}.json`, true],
+  ]);
+  assert.match(warnings[0].problem, /category code C9\.9 /);
+  assert.match(warnings[1].problem, /category code C2\.1 is not a Type 1 category/);
+
+  const check = runCheck(root);
+  assert.equal(check.status, 1, "the gate rejects the record");
+  assert.match(check.output, new RegExp(`WARNING data/fo_records/${ids.funded}\\.json: category code C9\\.9 `));
+});
+
+test("check-data fails when a type or a category has no tag, and warns for the records that use it", () => {
+  const root = fixtureRoot();
+  editCallTypes(root, (raw) => {
+    raw.types[1].tag = " ";
+    delete raw.type_1[0].tag; // the category of the fake Type 1 record
+  });
+  const callTypes = callTypesOf(root);
+  assert.deepEqual(callTypes.map((g) => g.type), ["Type 1", "Type 3"]);
+  assert.ok(!callTypes[0].categories.some((c) => c.code === "C1.1"));
+
+  const { status, output } = runCheck(root);
+  assert.equal(status, 1);
+  assert.match(output, /FAIL {2}resources\/call_types\.json/);
+  assert.match(output, /types\[1\] \(Type 2\): needs a non-empty tag/);
+  assert.match(output, /type_1\[0\] \(C1\.1\): needs a non-empty tag/);
+  // The record passes the gate, so its missing tag is a warning, not a failure of the record.
+  assert.match(output, new RegExp(`PASS {2}data/fo_records/${ids.funded}\\.json`));
+  assert.match(output, new RegExp(`WARNING data/fo_records/${ids.funded}\\.json: category code C1\\.1 `));
+  // Counted: the call-types file once, and the two build warnings about it.
+  // Not counted: the warnings about the records that use those categories.
+  assert.equal(output.match(/WARNING data\/fo_records\//g)?.length, 2);
+  assert.match(output, /check-data: 3 problem\(s\) found/);
+});
+
+test("check-data fails when a category tag holds a category code, or a code sits under two types", () => {
+  const root = fixtureRoot();
+  editCallTypes(root, (raw) => {
+    raw.type_1[1].tag = "TenneT leads (C1.2) an innovation project";
+    raw.type_3[0].code = "C2.1";
+  });
+  const { status, output } = runCheck(root);
+  assert.equal(status, 1);
+  assert.match(output, /type_1\[1\] \(C1\.2\): the tag contains the category code C1\.2/);
+  assert.match(output, /category code C2\.1 appears under more than one type: type_2, type_3/);
 });

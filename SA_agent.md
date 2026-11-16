@@ -26,7 +26,7 @@ Known Calls and No Duplicate are a double check against duplicates. Known Calls 
    | `resources/sources/<name>.json` | One file per source, following `templates/source.template.json`. Written by people. | Read. In the run's own source file, change only what "End of the run" allows. |
    | `resources/projects/<name>.json` | One file per TenneT project, following `templates/project.template.json`: `project_name`, `project_description`, `priority`, `priority_until` and its `topic`, `role`, `activity` and `outcome` codes. Together they are the TenneT innovation profile. Written by people. | Read only. |
    | `resources/tennet_taxonomy.json` | The Topic, Role, Activity and Outcome values, each with a `code`, a `value` and a `definition`. | Read only. |
-   | `resources/call_types.json` | The categories of each call type, under `type_1`, `type_2` and `type_3`, each with a `code`, a `value` and a `definition`. | Read only. |
+   | `resources/call_types.json` | The categories of each call type, under `type_1`, `type_2` and `type_3`, each with a `code`, a `value` and a `definition`. It also holds a `types` list and a `tag` on each type and each category; only the website uses the tags, as plain-language text on its cards and filter. You use `code`, `value` and `definition`. | Read only. |
    | `templates/` | `fo_record.template.json`, `source.template.json`, `project.template.json`. | Read only. |
    | `data/fo_records/<id>.json` | One file per FO, written by the SA Agent. | Read all. Create new ones in Task 4. Never change or delete an existing one. |
    | `pdfs/` | The PDFs you download to read. | Save every PDF you download here, under its own file name. |

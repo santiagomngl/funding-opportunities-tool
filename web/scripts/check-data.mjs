@@ -8,15 +8,18 @@
 //    one place. Needs python3, as the agents do.
 // 2. FO reports: each file in data/fo_reports/ must be its template with only
 //    `answer` and `sources` filled in, and belong to a Type 1, 2 or 3 record.
-// 3. Site: prints the warnings the site build would print.
+// 3. Call types: every type and category in resources/call_types.json needs a
+//    `tag`, the plain-language text the site shows on its cards and filter.
+// 4. Site: prints the warnings the site build would print.
 //
-// Exits with code 1 when anything fails. Writes nothing.
+// Exits with code 1 when anything fails. Writes nothing. A warning about a
+// record's category code that the site cannot show is printed but not counted.
 
 import { spawnSync } from "node:child_process";
 import { existsSync, readdirSync, readFileSync } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { loadSiteData } from "../build/load-data.mjs";
+import { CALL_TYPE_KEYS, loadSiteData } from "../build/load-data.mjs";
 
 // The folder that holds data/, resources/, templates/ and SA_agent.md.
 // `--root <folder>` checks another folder (used by the tests).
@@ -160,13 +163,80 @@ if (withoutReport.length) {
   say(`  Note: no report yet for ${withoutReport.join(", ")} (the site says so on its page).`);
 }
 
-// --- 3. What the site build will say -------------------------------------------
+// --- 3. Call types --------------------------------------------------------------
+
+/** Lists what is wrong with the tags in resources/call_types.json. */
+function callTypeProblems(raw) {
+  const problems = [];
+  const isObject = (v) => v !== null && typeof v === "object" && !Array.isArray(v);
+  const hasTag = (entry) => typeof entry.tag === "string" && entry.tag.trim() !== "";
+  if (!isObject(raw)) return ["the file must hold one JSON object"];
+
+  if (!Array.isArray(raw.types)) problems.push('"types" must be a list with one entry per call type');
+  else {
+    raw.types.forEach((entry, i) => {
+      if (!isObject(entry) || !hasTag(entry)) {
+        problems.push(`types[${i}]${isObject(entry) && entry.type ? ` (${entry.type})` : ""}: needs a non-empty tag`);
+      }
+    });
+    for (const type of Object.keys(CALL_TYPE_KEYS)) {
+      if (!raw.types.some((entry) => isObject(entry) && entry.type === type)) {
+        problems.push(`types: no entry for ${type}`);
+      }
+    }
+  }
+
+  const typesOfCode = new Map();
+  for (const key of Object.values(CALL_TYPE_KEYS)) {
+    if (!Array.isArray(raw[key])) {
+      problems.push(`"${key}" must be a list of categories`);
+      continue;
+    }
+    raw[key].forEach((entry, i) => {
+      const name = `${key}[${i}]${isObject(entry) && entry.code ? ` (${entry.code})` : ""}`;
+      if (!isObject(entry) || typeof entry.code !== "string" || entry.code.trim() === "") {
+        problems.push(`${name}: needs a code`);
+        return;
+      }
+      typesOfCode.set(entry.code, [...(typesOfCode.get(entry.code) ?? []), key]);
+      if (!hasTag(entry)) {
+        problems.push(`${name}: needs a non-empty tag`);
+        return;
+      }
+      const codes = entry.tag.match(/\bC\d+\.\d+\b/g);
+      if (codes) {
+        problems.push(`${name}: the tag contains the category code ${[...new Set(codes)].join(", ")}; tags are shown on screen, so they hold no codes`);
+      }
+    });
+  }
+  for (const [code, keys] of typesOfCode) {
+    const distinct = [...new Set(keys)];
+    if (distinct.length > 1) problems.push(`category code ${code} appears under more than one type: ${distinct.join(", ")}`);
+    else if (keys.length > 1) problems.push(`category code ${code} appears more than once in ${distinct[0]}`);
+  }
+  return problems;
+}
+
+say();
+say("Call types (the tags the site shows)");
+{
+  const file = "resources/call_types.json";
+  let problems;
+  try {
+    problems = callTypeProblems(JSON.parse(readFileSync(path.join(root, file), "utf8")));
+  } catch (error) {
+    problems = [`cannot be read: ${error.message}`];
+  }
+  result(problems.length === 0, file, problems);
+}
+
+// --- 4. What the site build will say -------------------------------------------
 
 say();
 say("Site build");
 const { warnings, counts } = loadSiteData(root);
 warnings.forEach(({ file, problem }) => say(`  WARNING ${file}: ${problem}`));
-failures += warnings.length;
+failures += warnings.filter((warning) => !warning.soft).length;
 say(`  ${counts.shown} funding opportunities will be on the site; ${counts.notRelevant} not relevant left out.`);
 
 say();
