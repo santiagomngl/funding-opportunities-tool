@@ -1,0 +1,37 @@
+{
+  "id": "20261117-181500-01",
+  "source": "European Innovation Council",
+  "display_title": "EIC Pathfinder Open 2027 (HORIZON-EIC-2027-PATHFINDEROPEN-01) – European Innovation Council (EIC)",
+  "organization_or_parent_framework": "Horizon Europe",
+  "programme": "European Innovation Council (EIC)",
+  "call_title": "EIC Pathfinder Open 2027 (HORIZON-EIC-2027-PATHFINDEROPEN-01)",
+  "call_module_title": null,
+  "call_year": 2027,
+  "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-pathfinder/eic-pathfinder-open-0_en",
+  "executive_summary": "EIC Pathfinder Open 2027 funds high-risk, interdisciplinary research in any field of science or technology that lays the scientific basis for a radically new technology, from early TRLs to an experimental proof of concept or lab validation (TRL 3-4). Only consortia of at least three independent legal entities from three different countries may apply, at least one in an EU Member State and the others in Member States or Associated Countries; universities, research organisations, SMEs, start-ups and industrial partners may take part. The grant is a Research and Innovation Action lump sum at 100% of eligible costs, with an EU contribution of up to EUR 4 million per project considered appropriate (more if duly justified), from an indicative call budget of EUR 166 million. The call is two-stage: short proposals by 25 February 2027 and, by invitation, full proposals by 16 September 2027, both at 17:00 Brussels time; the call opens on 25 November 2026.",
+  "pre_submission_deadline": "2027-02-25",
+  "full_proposal_deadline": "2027-09-16",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": 4000000,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "EIC Pathfinder Open funds breakthrough science-towards-technology research in any field up to lab validation (EIC Work Programme 2027, Section II.1, pp. 26-29). Because it has no thematic priority it allows breakthrough work on electricity-system technologies, although no project file is close: TenneT's research projects such as NFDTES and TenneTwin are applied research at higher maturity. The eligibility rules let any legal entity, explicitly including industrial partners, take part as a beneficiary of a consortium of at least three entities from three countries, and the grant pays 100% of eligible costs as a lump sum (p. 29), so TenneT TSO B.V. could be a funded partner or coordinator. C1.3 fits because TenneT's realistic place is as one partner guiding grid use cases in a research-led consortium.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [],
+    "role": [
+      "R1",
+      "R2",
+      "R10"
+    ],
+    "activity": [
+      "A2",
+      "A8"
+    ],
+    "outcome": []
+  }
+}

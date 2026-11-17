@@ -1,0 +1,36 @@
+{
+  "id": "20261117-181500-05",
+  "source": "European Innovation Council",
+  "display_title": "EIC Transition Open 2027 (HORIZON-EIC-2027-TRANSITIONOPEN-01) – European Innovation Council (EIC)",
+  "organization_or_parent_framework": "Horizon Europe",
+  "programme": "European Innovation Council (EIC)",
+  "call_title": "EIC Transition Open 2027 (HORIZON-EIC-2027-TRANSITIONOPEN-01)",
+  "call_module_title": null,
+  "call_year": 2027,
+  "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-transition_en",
+  "executive_summary": "EIC Transition Open 2027 funds the maturation of a technology from lab validation (TRL 4) to validation in application environments (TRL 5 or beyond) together with a validated business model and business plan, in any field. Proposals must build on results of an eligible earlier project (EIC Pathfinder or FET, ERC Proof of Concept, Horizon 2020/Horizon Europe Pillar II or European Defence Fund Research and Innovation Actions, or Horizon Europe Research Infrastructures actions). Only a single legal entity may apply: a start-up, SME or research performing organisation; larger companies cannot apply but may be subcontractors or sign the mandatory Letter of Intent from a potential customer or user. The grant is a Research and Innovation Action lump sum at 100% of eligible costs, with an EU contribution of more than EUR 0.5 million and less than EUR 2.5 million and a duration of 1 to 3 years considered appropriate, from an indicative budget of EUR 92 million. The deadline is 14 September 2027 at 17:00 Brussels time; the call opens on 30 April 2027.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-09-14",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": 500000,
+  "maximum_project_size": 2500000,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "EIC Transition funds a single start-up, SME or research organisation to mature a TRL 4 result from an eligible EU project towards application and market (EIC Work Programme 2027, Section III, pp. 50-57). Any field is allowed, so grid technologies coming out of university research qualify; the closest project file is NFDTES, where TenneT and Delft University of Technology run a validation environment. Larger companies such as TenneT TSO B.V. are not eligible to apply but may sign the mandatory Letter of Intent as a potential customer or user, pledging resources such as infrastructure or data, and may then receive no money from the action (p. 54, footnote 77; p. 55). C2.2 fits TenneT as end user or test-environment provider for a developer, and C2.4 fits the letter of intent itself.",
+  "call_type": "Type 2",
+  "category_codes": [
+    "C2.2",
+    "C2.4"
+  ],
+  "taxonomy_values": {
+    "topic": [],
+    "role": [
+      "R9"
+    ],
+    "activity": [
+      "A5",
+      "A8"
+    ],
+    "outcome": []
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "A technology matured from lab validation to validation in its intended application, together with a validated business model and business plan.\nEIC Transition (a scheme of the European Innovation Council, the EU's funding body for breakthrough technologies) funds a single organisation to take a research result from an earlier EU-funded project towards the market. The expected outcomes are a technology shown to work for its intended application and a validated business model and plan for bringing it to market.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 50–52 · III, Why should you apply?"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "The project must develop a result from an eligible earlier EU project further, in any field, and work on technology and business in parallel.\nMandatory:\n- further technology development of results from an eligible earlier project (EIC Pathfinder or its predecessors, ERC Proof of Concept, Horizon 2020 or Horizon Europe Pillar II or European Defence Fund Research and Innovation Actions, or Horizon Europe Research Infrastructures actions);\n- user-centric methods with learning from early customer or user feedback;\n- business readiness work: market research, value proposition, business plan and business model, intellectual property protection, and regulation, certification and standardisation;\n- a stated path to market and milestones with verifiable KPIs (key performance indicators).\nOptional: forming and spinning out a new company as part of the project.\nExcluded: results already at TRL 5 or beyond; results of earlier EIC Transition projects; results from projects funded through financial support to third parties; and, as not recommended, niche or very small markets. Business planning, market validation and customer engagement should not be subcontracted.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 50–52 · III, Why should you apply?\nEIC-2027-Work-Programme.pdf · pp. 52–56 · III, Can you apply?\nEIC-2027-Work-Programme.pdf · p. 50 · footnote 62"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "A promising research result with real commercial potential, backed by early market research that identifies potential customers or users and use cases.\nThe applicant must have explored potential commercial customers (for example industry or the public sector), specific use cases and competitors. Evaluators score how clearly the target users or paying customers are defined and how well their need is substantiated. The need is therefore that of the future customers; for a grid technology, these could include grid operators such as TenneT.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 50–52 · III, Why should you apply?\nEIC-2027-Work-Programme.pdf · pp. 58–61 · III, How does the EIC decide if your proposal will be funded?, Tables 4+5"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "A technology validated for its application, a validated business model and plan, protected intellectual property and first-year results that meet set KPIs.\n- A technology demonstrated to be effective for its intended application (TRL 5 or beyond)\n- A validated business model and a business plan for development towards market, with the business model tested on first customers\n- Adequately protected intellectual property\n- Pre-defined technological objectives and KPIs met after the first year, checked in a project review\n- A chosen path to market: own exploitation, a spin-off, licensing to an established company, or another route",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 50–52 · III, Why should you apply?\nEIC-2027-Work-Programme.pdf · p. 55 · III, Can you apply? (single legal entity)\nEIC-2027-Work-Programme.pdf · pp. 56–57 · III, What support will you receive if your proposal is funded?"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The innovation must show high commercial potential and scale-up prospects, and may help reduce Europe's strategic dependencies; the call sets no numeric targets.\nEvaluators score market demand and scale-up potential supported by credible evidence, including the Letters of Intent, the credibility of the business plan and its attractiveness to private investors, and the contribution to economic security in strategically important areas.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 58–61 · III, How does the EIC decide if your proposal will be funded?, Tables 4+5"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "At the end the technology and team should be investment-ready, with a defined route to market.\n- Next steps named by the call: the EIC Accelerator (for SMEs), other investors or funding, licensing or collaboration agreements, or other routes to market deployment.\n- Business model: it must be tested on first customers during the project.\n- Standards: regulation, certification and standardisation aspects must be addressed.\n- Support: coaching is mandatory unless well justified; Investor Readiness training is strongly encouraged in the first year; Booster grants of up to EUR 50,000 and the EIC Accelerator Fast Track are available.\n- Exploitation obligations: best efforts to exploit results, preferably in Member States or Associated Countries; the agency may object to a transfer of ownership or an exclusive licence; exploitation must be reported on request for 4 years after the final payment.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 50–52 · III, Why should you apply?\nEIC-2027-Work-Programme.pdf · pp. 56–57 · III, What support will you receive if your proposal is funded?\nEIC-2027-Work-Programme.pdf · p. 59 · III, Investor Readiness training\nEIC-2027-Work-Programme.pdf · pp. 197–198 · Annex 2, G.8 Provisions concerning project implementation\nEIC-2027-Work-Programme.pdf · pp. 206–211 · Annex 6, Additional provisions concerning Intellectual Property"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "One organisation only: the grant is signed by a single beneficiary.\nThe beneficiary may involve affiliated entities (organisations legally or financially linked to it, such as a university's spin-off), and members of the original project may be involved as third parties, for example as associated partners or subcontractors.",
+          "sources": "EIC-2027-Work-Programme.pdf · p. 55 · III, Can you apply? (single legal entity)"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "The single applicant must be a start-up, SME or research performing organisation in an EU Member State or an Associated Country.\nResearch performing organisations include universities and research or technology organisations, with their teams, principal investigators and inventors who intend to form a spin-off. The applicant must also obtain a Letter of Intent from at least one interested third party, a potential customer or user, who is not a partner.",
+          "sources": "EIC-2027-Work-Programme.pdf · p. 55 · III, Can you apply? (single legal entity)\nEIC-2027-Work-Programme.pdf · pp. 54–55 · III, Can you apply?, Letter of Intent and footnotes 77–78"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "All work sits with one beneficiary, which must do the core business work itself rather than subcontract it.\nBusiness planning, market research and validation and customer engagement should generally be carried out by the beneficiary. SMEs taking part must be actively involved in research, development and commercialisation. Evaluators score how the lump-sum budget is allocated across work packages, including to third parties.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 50–52 · III, Why should you apply?\nEIC-2027-Work-Programme.pdf · p. 55 · III, Can you apply? (single legal entity)\nEIC-2027-Work-Programme.pdf · pp. 58–61 · III, How does the EIC decide if your proposal will be funded?, Tables 4+5"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "The single applicant: a start-up, SME or research performing organisation; larger companies may not apply.\nThe call states: \"Larger companies (i.e. which do not qualify as SMEs) are not eligible to apply as a single legal entity\".",
+          "sources": "EIC-2027-Work-Programme.pdf · p. 55 · III, Can you apply? (single legal entity)"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "No, TenneT TSO B.V. cannot apply or lead, because only start-ups, SMEs and research organisations may apply and larger companies are excluded.",
+          "sources": "EIC-2027-Work-Programme.pdf · p. 55 · III, Can you apply? (single legal entity)"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes, but only without a grant: most usefully as the potential customer or user who signs the mandatory Letter of Intent.\n- Letter of Intent: every proposal must include one from at least one interested third party (a potential customer or user), on the EIC template, confirming that no financial or other incentives were exchanged. The signer may not receive money, subcontracts or other support from the project, and may not later become its subcontractor.\n- Verification: the agency may check the authenticity and depth of the commitment at any stage, including whether pledged resources such as infrastructure, data or personnel are available, and may ask for evidence such as a signed NDA (non-disclosure agreement). A gap between promise and reality can lower the score; deliberate misrepresentation can lead to rejection.\n- Other roles: the call allows larger companies to be involved as subcontractors, but that role is paid work for the beneficiary and excludes signing the Letter of Intent.\nA Letter of Intent from TenneT would therefore be a real commitment that TenneT must be able to honour.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 54–55 · III, Can you apply?, Letter of Intent and footnotes 77–78\nEIC-2027-Work-Programme.pdf · p. 55 · III, Can you apply? (single legal entity)"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "No, TenneT cannot receive a grant: only the single applicant, a start-up, SME or research organisation, is funded.\nThe grant covers 100% of the beneficiary's eligible costs as a lump sum. A signer of the Letter of Intent may not receive any money from the project. TenneT would therefore finance its own effort, such as staff time or access to test facilities.",
+          "sources": "EIC-2027-Work-Programme.pdf · p. 55 · III, Can you apply? (single legal entity)\nEIC-2027-Work-Programme.pdf · pp. 54–55 · III, Can you apply?, Letter of Intent and footnotes 77–78\nEIC-2027-Work-Programme.pdf · pp. 56–57 · III, What support will you receive if your proposal is funded?"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT would be most credible as launching customer or end user signing the Letter of Intent and offering a test setting and data.\nThis is an interpretation, based on the mandatory Letter of Intent and the call's mention of pledged infrastructure, data and personnel. TenneT could:\n- back a grid-relevant result coming from a university or start-up, for example from Delft University of Technology, with which it runs the digital twin facility NFDTES;\n- offer that facility, grid data or a pilot location for validation in the application environment;\n- give operational feedback during user testing and help validate the business model as a first customer.\nThe commitment must be real and checkable, as the agency may verify it.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 54–55 · III, Can you apply?, Letter of Intent and footnotes 77–78\nEIC-2027-Work-Programme.pdf · pp. 50–52 · III, Why should you apply?"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The technology must be a clear deep-tech breakthrough that builds on earlier research results; it is matured, not invented from scratch.\nEvaluators score whether it offers a substantial performance or value improvement over existing or competing solutions, backed by evidence.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 52–56 · III, Can you apply?\nEIC-2027-Work-Programme.pdf · pp. 58–61 · III, How does the EIC decide if your proposal will be funded?, Tables 4+5"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Technology and business together: the technology must mature and so must its business model and plan.\nThe call allows novel technologies for the public sector where relevant. It does not fund pure organisational or market-design innovation.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 50–52 · III, Why should you apply?\nEIC-2027-Work-Programme.pdf · p. 51 · footnote 63"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Validation and early commercialisation: prototyping, formulation, modelling, user testing and other validation, plus business development.\nThe project starts from a result in lab validation and stops before market deployment, preparing the next step such as investment or licensing.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 50–52 · III, Why should you apply?"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "From TRL 4 at the start to TRL 5 or beyond at the end.\nTRL is the technology readiness level, a 1–9 scale of how close a technology is to real use: TRL 4 is validated in the lab, TRL 5 validated in a relevant environment. Proposals built on results already at TRL 5 or beyond are not eligible; with several technologies, the lowest TRL counts.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 50–52 · III, Why should you apply?\nEIC-2027-Work-Programme.pdf · pp. 52–56 · III, Can you apply?\nEIC-2027-Work-Programme.pdf · p. 52 · footnote 68"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "In relevant application environments, beyond the lab, through prototyping, modelling, user testing and other validation.\nThe call does not require operational infrastructure or real operating conditions.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 50–52 · III, Why should you apply?"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The technology and business tracks must run in parallel and inform each other, with iterative learning from early customer feedback.\nThe call does not set requirements for integration with existing infrastructure.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 50–52 · III, Why should you apply?"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "Measurable first-year KPIs and evidence that the technology works for its application and the business model holds with first customers.\nAfter the first year a review checks the pre-defined technical objectives and KPIs; a project whose objectives are no longer achievable or relevant will not continue. KPIs are judged on relevance and rigour, not ambition alone. Evaluators also want technical and market claims backed by specific evidence such as original data, test results or customer evidence.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 56–57 · III, What support will you receive if your proposal is funded?\nEIC-2027-Work-Programme.pdf · pp. 58–61 · III, How does the EIC decide if your proposal will be funded?, Tables 4+5"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "Users must take part: user-centric methods, a business model tested on first customers, and a customer or user Letter of Intent.\nEngaging users and prospective customers is a key activity that the beneficiary should carry out itself.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 50–52 · III, Why should you apply?\nEIC-2027-Work-Programme.pdf · pp. 54–55 · III, Can you apply?, Letter of Intent and footnotes 77–78"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "The call sets no specific safety or cybersecurity requirements; the general ethics and security rules apply.\nAn ethics self-assessment is required, classified or sensitive information triggers a security appraisal, and proposals on European communication networks (5G and later) face security restrictions.",
+          "sources": "EIC-2027-Work-Programme.pdf · p. 56 · III, participation restrictions\nEIC-2027-Work-Programme.pdf · pp. 182–183 · Annex 2, B.6 Ethics, B.7 Security"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "More than EUR 0.5 million and less than EUR 2.5 million of EU contribution per project, from EUR 92 million.\n- Total project size: the call sets no separate limit; at 100% funding the grant can cover all estimated eligible costs.\n- Grant request: more than EUR 0.5 million and less than EUR 2.5 million, for the single beneficiary.\n- Funding form: lump sum (a fixed amount set during evaluation and paid against completed work, not against actual costs).",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 56–57 · III, What support will you receive if your proposal is funded?"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "One rate: 100% of the beneficiary's eligible costs, with no own contribution required.\n- Co-financing conditions: none; organisations that support the project, such as the signer of the Letter of Intent, bear their own costs.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 56–57 · III, What support will you receive if your proposal is funded?\nEIC-2027-Work-Programme.pdf · pp. 54–55 · III, Can you apply?, Letter of Intent and footnotes 77–78"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "The lump sum rests on a detailed budget table that must follow normal EU cost rules, and core business work should not be subcontracted.\n- Eligible costs: personnel, subcontracting, purchases and, where used, unit costs.\n- Caps or mandatory allocations: the EU contribution must be more than EUR 0.5 million and less than EUR 2.5 million.\n- Overheads and VAT: indirect costs are a 25% flat rate on direct costs, excluding subcontracting and some other categories.\n- Subcontracting or equipment: business planning, market research and validation and customer engagement should generally not be subcontracted; signers of the Letter of Intent may not become subcontractors; purchases and subcontracts must give best value for money.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 56–57 · III, What support will you receive if your proposal is funded?\nEIC-2027-Work-Programme.pdf · pp. 50–52 · III, Why should you apply?\nEIC-2027-Work-Programme.pdf · pp. 54–55 · III, Can you apply?, Letter of Intent and footnotes 77–78\nEIC-2027-Work-Programme.pdf · pp. 190–191 · Annex 2, E.1 Submission (lump sum budget table)\nEIC-2027-Work-Programme.pdf · pp. 195–196 · Annex 2, G.4 Budget categories and cost eligibility rules"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "Funding can stop after the first year if the review finds the objectives unachievable or no longer relevant.\n- Payment model: pre-financing of normally 160% of the average EU funding per reporting period, then interim and final payments; milestones may be tied to pre-financing instalments.\n- Retention or guarantee: 5% to 8% of the maximum grant goes to the mutual insurance mechanism (an EU fund covering unrecoverable amounts).\n- Financial reporting or audit: a certificate on financial statements may be required, depending on grant size.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 56–57 · III, What support will you receive if your proposal is funded?\nEIC-2027-Work-Programme.pdf · p. 56 · footnote 85\nEIC-2027-Work-Programme.pdf · pp. 196–197 · Annex 2, G.5, G.6"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One written stage on the Funding & Tenders Portal (the EU's online application system), followed by an interview for the best proposals.\n- Stage 1 — Proposal: 14 September 2027, 17:00 Brussels time; Part B sections 1–3 and the cover page at most 22 A4 pages; with a short video pitch (the work programme gives its length as 3-5\") and the Letter of Intent. The call opens on 30 April 2027; the opening may move by up to one month and the deadline may be delayed by up to two months.\n- Stage 2 — Interview: by invitation, about 11–13 weeks after the deadline, before a jury of at most six EIC Jury members, with at most five people representing the proposal.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 57–58 · III, How do you apply; how long does it take?\nEIC-2027-Work-Programme.pdf · p. 57 · footnote 87\nEIC-2027-Work-Programme.pdf · pp. 58–61 · III, How does the EIC decide if your proposal will be funded?, Tables 4+5"
+        },
+        {
+          "title": "Project window",
+          "answer": "Projects of 1 to 3 years are considered appropriate, starting 1–2 months after the grant agreement is signed.\n- Maximum duration: 36 months.\n- Required start: expected within 1–2 months after signing the grant agreement.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 56–57 · III, What support will you receive if your proposal is funded?\nEIC-2027-Work-Programme.pdf · pp. 57–58 · III, How do you apply; how long does it take?"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Interview results come 4–5 weeks after interviews start, and grant agreements within about 6 months of the deadline, all indicative.\n- Expected invitation: interviews about 11–13 weeks after the deadline, so roughly December 2027 (indicative).\n- Funding decision: the jury recommends GO, GO Reserve (reserve list) or NO GO, about 4–5 weeks after the interviews start; proposals above all thresholds that are not funded receive a Seal of Excellence (a quality label other funders may use).\n- Grant agreement: within 6 months of the deadline, so by about mid-March 2028 (indicative).\n- Conditions before starting: legal entity validation, financial capacity and exclusion checks, and any ethics review.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 57–58 · III, How do you apply; how long does it take?\nEIC-2027-Work-Programme.pdf · pp. 58–61 · III, How does the EIC decide if your proposal will be funded?, Tables 4+5\nEIC-2027-Work-Programme.pdf · p. 192 · Annex 2, F.1"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "Online forms, a video pitch, the Letter of Intent and proof of the earlier EU project are all required.\n- Application form: Part A online and Part B with cover page uploaded as PDF, at most 22 pages for sections 1–3 and cover page.\n- Budget: a detailed budget table that justifies the proposed lump sum.\n- Mandatory annexes: a short video pitch; the Letter of Intent from at least one potential customer or user, on the EIC template; the ethics self-assessment.\n- Partner documents: the grant number and acronym of the earlier project and where its results were reported; if the applicant took part in it, confirmation that it owns or holds the rights to the results; if not, a commitment letter from the owner to negotiate fair access to the results for the project and at least 1 year after.\n- Registration: a PIC (participant identification code) in the Participant Register before submitting.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 52–56 · III, Can you apply?\nEIC-2027-Work-Programme.pdf · pp. 54–55 · III, Can you apply?, Letter of Intent and footnotes 77–78\nEIC-2027-Work-Programme.pdf · pp. 57–58 · III, How do you apply; how long does it take?\nEIC-2027-Work-Programme.pdf · pp. 190–191 · Annex 2, E. Documents"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Remote evaluators score three criteria, the best proposals go to a jury interview, and the jury decides GO, GO Reserve or NO GO.\n- Evaluation criteria: Excellence (technological breakthrough and maturity; objectives, milestones and first-year KPIs); Impact (credibility of use cases, customers and business plan; high commercial potential and contribution to economic security); Quality and efficiency of the implementation (team quality and motivation; work plan, lump-sum budget and evidence behind claims).\n- Thresholds: 4 out of 5 for each criterion.\n- Ranking rules: the total is the sum of the three scores; proposals are invited to interview from the top until their requested funding reaches 2.5 times the budget, with extra women-led proposals invited until they make up at least 30% of the pool. The European Patent Office gives a non-binding novelty assessment. Reserve-list ties go to the smaller budget.\n- Budget assessment: the lump sum is fixed during evaluation and can be lower than requested.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 58–61 · III, How does the EIC decide if your proposal will be funded?, Tables 4+5\nEIC-2027-Work-Programme.pdf · p. 194 · Annex 2, G.3"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Timing rules on the earlier project, repeat-proposal limits and Letter of Intent checks can exclude a proposal or lower its score.\n- Conditional — earlier project still running: it must have started more than 18 months before the deadline (more than 6 months for ERC Proof of Concept).\n- Conditional — earlier project finished: the deadline must fall within 24 months of its end.\n- Conditional — ERC Proof of Concept results: only one proposal per originating project; duplicates all become ineligible.\n- Conditional — applicant with an ongoing Transition project or several proposals: it must show the operational capacity to run all of them.\n- Conditional — doubtful Letter of Intent: the agency may verify it; discrepancies lower the score and deliberate misrepresentation can lead to rejection and exclusion procedures.\n- Recommended — apply only well into the second half of the earlier project; undertake Investor Readiness training in the first year.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 52–56 · III, Can you apply?\nEIC-2027-Work-Programme.pdf · pp. 54–55 · III, Can you apply?, Letter of Intent and footnotes 77–78\nEIC-2027-Work-Programme.pdf · p. 53 · footnote 75\nEIC-2027-Work-Programme.pdf · p. 59 · III, Investor Readiness training"
+        }
+      ]
+    }
+  ]
+}

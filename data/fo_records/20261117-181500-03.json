@@ -1,0 +1,44 @@
+{
+  "id": "20261117-181500-03",
+  "source": "European Innovation Council",
+  "display_title": "Safe and Controlled Continual Learning in Open World for Reliable AI Agents (CLOWAI) – European Innovation Council (EIC)",
+  "organization_or_parent_framework": "Horizon Europe",
+  "programme": "European Innovation Council (EIC)",
+  "call_title": "EIC Pathfinder Challenges 2027 (HORIZON-EIC-2027-PATHFINDERCHALLENGES-01)",
+  "call_module_title": "Safe and Controlled Continual Learning in Open World for Reliable AI Agents (CLOWAI)",
+  "call_year": 2027,
+  "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-pathfinder/eic-pathfinder-challenges-2027/safe-and-controlled-continual-learning-open-world-reliable-ai-agents-clowai_en",
+  "executive_summary": "This EIC Pathfinder Challenge funds research on AI agents that keep learning safely after deployment in changing, open-world settings, with novelty detection, controlled and auditable model updates, rollback, and robustness against drift, poisoning and sensor failures. Projects must validate their approach in at least two application domains (or justify one), such as reliable AI agents, adaptive robotics, digital twins or safety-critical systems, and deliver a TRL 4 demonstrator in a lab or simulated setting, quantitative reliability evidence, a reusable artefact for the portfolio and an assurance and governance package. Single legal entities (not mid-caps or large companies) or consortia of two, or three or more, entities may apply. The grant is a Research and Innovation Action lump sum at 100% of eligible costs, with up to EUR 4 million per project considered appropriate; the EUR 82 million Challenges budget is shared roughly equally across three Challenges. The deadline is 29 September 2027 at 17:00 Brussels time; the call opens on 27 May 2027.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-09-29",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": 4000000,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "The Challenge funds methods and TRL 4 demonstrators for AI agents that learn safely after deployment, validated in open application domains that explicitly include digital twins and safety-critical systems (EIC Work Programme 2027, Section II.2.2, pp. 43-46). This allows grid-control applications and is close to GNN4GC (AI agents for grid control using TenneT data) and to the Digital Twin Programme, NFDTES and TenneTwin, though the call is generic AI research rather than energy-specific. Large companies may be beneficiaries in consortia (Section II.2, pp. 35-36), so TenneT TSO B.V. could be a funded partner at 100% of eligible costs, for example supplying a grid use case and simulation setting. C1.3 fits because that would be a partner role in a research-led consortium.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T1",
+      "T2"
+    ],
+    "role": [
+      "R1",
+      "R2",
+      "R9",
+      "R10"
+    ],
+    "activity": [
+      "A2",
+      "A6",
+      "A8"
+    ],
+    "outcome": [
+      "O2"
+    ]
+  }
+}

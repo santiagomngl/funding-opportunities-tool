@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "An experimental proof of concept or lab validation of the scientific basis for a radically new technology, in any field.\nThe EIC (European Innovation Council, the EU's funding body for breakthrough technologies and start-ups within Horizon Europe) Pathfinder Open funds high-risk research that lays the foundations of a future technology. The project must reach at least an experimental proof of concept or a validation in a lab, proving the technology is feasible. The call states that it does not expect the final solution, and that even a prototype is not among the expected outputs.",
+          "sources": "EIC-2027-Work-Programme.pdf · p. 26 · II.1 EIC Pathfinder Open, essential characteristics (Gatekeepers)\nEIC-2027-Work-Programme.pdf · pp. 27–29 · II.1, Expected outcome and impact"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Any field of science, technology or application, as long as the research is high-risk, breakthrough and aimed at a radically new technology.\nMandatory (the four Gatekeepers, essential characteristics every proposal must meet):\n- a convincing long-term vision of a radically new technology, with a commitment to reach an experimental proof of concept or lab validation;\n- a concrete, novel and ambitious scientific breakthrough underpinning it, and a team able to realise it;\n- a high-risk, high-gain approach in an interdisciplinary collaboration, with concrete objectives;\n- an important global challenge or unsolved problem the technology could help solve.\nExcluded:\n- incremental or known approaches, and technology already validated in the lab that only seeks implementation funding;\n- research directed towards nuclear energy applications, which belongs in Euratom calls;\n- military applications: Pathfinder is for civil applications only.\nApplicants should first check whether their project fits one of the 2027 Pathfinder Challenges (themed topics), which include advanced materials for electricity grids.",
+          "sources": "EIC-2027-Work-Programme.pdf · p. 26 · II.1 EIC Pathfinder Open, essential characteristics (Gatekeepers)\nEIC-2027-Work-Programme.pdf · p. 27 · II.1, Why should you apply?\nEIC-2027-Work-Programme.pdf · p. 29 · II.1, Can you apply?\nEIC-2027-Work-Programme.pdf · p. 8 · I. Introduction, Overview of the 2027 Work Programme\nEIC Pathfinder Open (eic.ec.europa.eu web page) · EIC Pathfinder Open 2027"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "An important global challenge or unsolved specific problem in the economy, society or environment, which no existing technology fully solves.\nThe call calls its approach problem-oriented: the starting point is a fundamental issue, for example linked to the UN Sustainable Development Goals or an economic, environmental or societal problem. It does not tie the need to a particular user group or sector. The proposal must give a high-level vision of how the technology, alone or with others, could enable a future solution. A grid problem such as transmission losses or system stability could therefore qualify, but the applicants must make the case.",
+          "sources": "EIC-2027-Work-Programme.pdf · p. 26 · II.1 EIC Pathfinder Open, essential characteristics (Gatekeepers)\nEIC-2027-Work-Programme.pdf · pp. 27–29 · II.1, Expected outcome and impact"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "A lab-validated technology, open-access publications, protected intellectual property and plans for future exploitation.\n- At least an experimental proof of concept or lab validation of the technology, done through integrated use cases where relevant to the technology's maturity\n- Top-level scientific publications in open access\n- Adequate formal protection of the intellectual property generated (patents, designs, copyright)\n- A well-thought-through plan for future exploitation\n- An assessment of regulation, certification and standardisation aspects\nA prototype or final solution is not expected.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 27–29 · II.1, Expected outcome and impact"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The technology must have the potential for a transformative positive effect on the economy, environment and society; the call sets no numeric targets.\nEvaluators score the significance of the problem the technology could help solve, whether it could provide building blocks for the solution, its potential for future disruptive innovations, new markets or the disruption of existing industries, and the measures to translate results into innovation. The call does not name energy-system outcomes; any such impact would come from the problem the applicants choose.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 27–29 · II.1, Expected outcome and impact\nEIC-2027-Work-Programme.pdf · pp. 31–34 · II.1, How does the EIC decide if your proposal will be funded?, Tables 2a and 2b"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "The project does not need a usable product, but it must prepare future uptake through intellectual property protection, an exploitation plan and a standards assessment.\n- Wider use: no replication or deployment is required; the project is the first phase of a longer route from science to use.\n- Key actors: the team should include the actors needed to guide development and those who could later lead the translation into innovation; evaluators score these measures.\n- Standards: the project must assess regulation, certification and standardisation, and for up to 4 years after the project must tell the EU agency if results could contribute to European or international standards.\n- Exploitation: beneficiaries must use their best efforts to exploit results, preferably through organisations in Member States or Associated Countries; the agency may object to a transfer of ownership or an exclusive licence; exploitation must be reported on request for 4 years after the final payment.\n- Sharing: the EIC Programme Manager may ask for information on results, which is shared in confidence with other EIC projects.\n- Follow-on: Booster grants of up to EUR 50,000, EIC Transition (the next EIC scheme, towards market), the EIC Accelerator Fast Track for SMEs, and the Next Generation Innovation Talents scheme.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 27–29 · II.1, Expected outcome and impact\nEIC-2027-Work-Programme.pdf · pp. 29–30 · II.1, What support will you receive if your proposal is funded?\nEIC-2027-Work-Programme.pdf · pp. 197–198 · Annex 2, G.8 Provisions concerning project implementation\nEIC-2027-Work-Programme.pdf · pp. 206–211 · Annex 6, Additional provisions concerning Intellectual Property"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "At least three partners that sign the grant agreement, each from a different country; the call sets no maximum.\nAt least one partner must be established in an EU Member State and at least two others in different Member States or Associated Countries (non-EU countries that take part in Horizon Europe on near-equal terms). The partners must be independent of each other. Affiliated entities (organisations legally linked to a partner) do not count towards the minimum.",
+          "sources": "EIC-2027-Work-Programme.pdf · p. 29 · II.1, Can you apply?\nEIC-2027-Work-Programme.pdf · p. 10 · Table 1, footnote 8"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "No partner type is mandatory: universities, research organisations, SMEs, start-ups, industrial partners and natural persons may all take part.\nCountry rules are those in the partner-number rules. Organisations established in China cannot take part in Horizon Europe Research and Innovation Actions in any role. The call encourages teams to include future leaders such as excellent early-career researchers and promising high-tech SMEs and start-ups, and to empower female researchers.",
+          "sources": "EIC-2027-Work-Programme.pdf · p. 29 · II.1, Can you apply?\nEIC-2027-Work-Programme.pdf · p. 27 · II.1, Why should you apply?\nEIC-2027-Work-Programme.pdf · pp. 172–173 · Annex 2, B.1, Restrictions on the participation of legal entities established in China"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "The call fixes no split of work or budget; evaluators judge whether resources are well allocated to work packages and partners.\nEach organisation must send a letter of commitment at the first stage, and the consortium should stay the same at the second stage, with only exceptional, justified changes. Gender balance among work package leaders is encouraged and used to break ties between proposals with equal scores.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 30–31 · II.1, How do you apply; how long does it take?\nEIC-2027-Work-Programme.pdf · pp. 31–34 · II.1, How does the EIC decide if your proposal will be funded?, Tables 2a and 2b"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "Any partner in the consortium may coordinate; the call names no required type.\nThe coordinator submits the proposal on behalf of the consortium and confirms it has the mandate of all applicants.",
+          "sources": "EIC-2027-Work-Programme.pdf · p. 29 · II.1, Can you apply?\nEIC-2027-Work-Programme.pdf · p. 190 · Annex 2, E.1 Submission"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "Yes, TenneT TSO B.V. may coordinate, since any eligible organisation in the consortium may submit as coordinator.\nThe Netherlands is an EU Member State, so TenneT can be the Member State partner the consortium needs; it would then need at least two independent partners from two other countries. As coordinator TenneT would collect the commitment letters, assemble the lump-sum budget and present at the interview. Because the call funds early research, a university or research organisation would usually lead, but the rules do not require it.",
+          "sources": "EIC-2027-Work-Programme.pdf · p. 29 · II.1, Can you apply?\nEIC-2027-Work-Programme.pdf · pp. 30–31 · II.1, How do you apply; how long does it take?\nEIC-2027-Work-Programme.pdf · pp. 31–34 · II.1, How does the EIC decide if your proposal will be funded?, Tables 2a and 2b"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes, either as a funded partner or as an associated partner that receives no money.\nThe general conditions allow associated partners: organisations that take part without signing the grant agreement and without the right to charge costs. They do not count towards the three required partners.",
+          "sources": "EIC-2027-Work-Programme.pdf · p. 172 · Annex 2, B.1, Associated partners"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Yes, at 100% of eligible costs, paid as a lump sum, with no lower rate for large companies.\n- Funding rate: the grant is a Research and Innovation Action (an EU grant type for research projects) at 100% of eligible costs for every beneficiary, so TenneT would not need to finance part of its costs.\n- Form: a lump sum (a fixed amount set during evaluation and paid against completed work rather than actual costs), proposed by the applicants from their estimated costs.\n- Ceiling: up to EUR 4 million per project, for all partners together, is considered appropriate; more may be requested if duly justified.\n- Dutch rules: the call sets none; the grant comes directly from the EU through its executive agency (EISMEA).",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 29–30 · II.1, What support will you receive if your proposal is funded?\nEIC-2027-Work-Programme.pdf · p. 195 · Annex 2, G.3"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT would be most credible as the problem owner that frames a hard grid problem and keeps the research aimed at a usable grid technology.\nThis is an interpretation. The call wants teams that include the actors needed to guide development and who could later take the technology forward. TenneT could:\n- define a grid problem no current technology solves, such as losses, stability with power electronics, or monitoring of subsea assets;\n- give operating requirements and data for the lab validation use cases;\n- offer a test or simulation setting, for example the digital twin facility it runs with Delft University of Technology (NFDTES);\n- advise on certification, standards and future adoption.\nThe research itself would sit with universities and research organisations.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 27–29 · II.1, Expected outcome and impact\nEIC-2027-Work-Programme.pdf · pp. 31–34 · II.1, How does the EIC decide if your proposal will be funded?, Tables 2a and 2b"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The project must produce a genuine scientific breakthrough; incremental or known approaches will not be funded.\nThe call asks for a \"concrete, novel and ambitious scientific breakthrough\". The resulting solution may combine novel and existing technologies or find new uses for established ones, but the breakthrough itself must be new.",
+          "sources": "EIC-2027-Work-Programme.pdf · p. 26 · II.1 EIC Pathfinder Open, essential characteristics (Gatekeepers)\nEIC-2027-Work-Programme.pdf · p. 27 · II.1, Why should you apply?\nEIC-2027-Work-Programme.pdf · pp. 27–29 · II.1, Expected outcome and impact"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "The innovation must be in technology: a radically new, future or emerging technology grounded in science.\nThe call does not fund market arrangements, governance or organisational change.",
+          "sources": "EIC-2027-Work-Programme.pdf · p. 26 · II.1 EIC Pathfinder Open, essential characteristics (Gatekeepers)"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Research up to lab validation: from establishing basic principles to at least a proof of concept or validation in the lab.\nPrototyping, demonstration and deployment are outside the call.",
+          "sources": "EIC-2027-Work-Programme.pdf · p. 27 · II.1, Why should you apply?\nEIC-2027-Work-Programme.pdf · pp. 27–29 · II.1, Expected outcome and impact"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "From an early TRL to TRL 3 or 4.\nTRL is the technology readiness level, a 1–9 scale of how close a technology is to real use: TRL 3 is an experimental proof of concept, TRL 4 a technology validated in the lab. A technology already validated in the lab is not eligible.",
+          "sources": "EIC-2027-Work-Programme.pdf · p. 10 · Table 1, Summary of main calls in 2027\nEIC-2027-Work-Programme.pdf · p. 27 · II.1, Why should you apply?"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "In the lab only; no field or operational demonstration is required.\nValidation must be done through integrated use cases where relevant and appropriate to the technology's maturity, showing steps towards the envisioned solution.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 27–29 · II.1, Expected outcome and impact"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "All work must be aligned towards one envisioned solution, in an interdisciplinary team; no link to existing infrastructure is required.\nEvaluators score how coherent and effective the work plan is, and whether the interdisciplinary approach can reach the objectives.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 27–29 · II.1, Expected outcome and impact\nEIC-2027-Work-Programme.pdf · pp. 31–34 · II.1, How does the EIC decide if your proposal will be funded?, Tables 2a and 2b"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "The project must prove the technology's feasibility through an experimental proof of concept or lab validation; the call sets no indicators.\nAt the second stage, objectives must be specific, measurable, attainable and time-bound.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 27–29 · II.1, Expected outcome and impact\nEIC-2027-Work-Programme.pdf · pp. 31–34 · II.1, How does the EIC decide if your proposal will be funded?, Tables 2a and 2b"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "Users are not required as partners, but the methodology should engage citizens and end users where applicable.\nThis is part of the Excellence criterion at the second stage, together with the gender dimension and open science.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 31–34 · II.1, How does the EIC decide if your proposal will be funded?, Tables 2a and 2b"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "The call sets no specific safety or cybersecurity requirements; the general ethics and security rules apply.\nAn ethics self-assessment is required, and proposals with ethics issues undergo an ethics review. Classified or sensitive information triggers a security appraisal. Proposals on European communication networks (5G and later) are subject to security restrictions.",
+          "sources": "EIC-2027-Work-Programme.pdf · p. 29 · II.1, Can you apply?\nEIC-2027-Work-Programme.pdf · pp. 182–183 · Annex 2, B.6 Ethics, B.7 Security"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "Up to EUR 4 million of EU contribution per project is considered appropriate, from a call budget of EUR 166 million.\n- Total project size: the call sets no limit on total project costs; at a 100% rate the grant can cover all estimated eligible costs.\n- Grant request: up to EUR 4 million per project, for all partners together; more if duly justified.\n- Funding form: lump sum (a fixed amount set during evaluation and paid against completed work, not against actual costs).",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 29–30 · II.1, What support will you receive if your proposal is funded?"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "One rate for all: 100% of eligible costs for every beneficiary, including large companies, with no own contribution required.\n- Co-financing conditions: none; the call requires no cash or in-kind contribution.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 29–30 · II.1, What support will you receive if your proposal is funded?"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "A lump sum built on a detailed budget table that follows normal EU cost rules; ineligible costs can reduce the grant.\n- Eligible costs: personnel, subcontracting, purchases (equipment, goods, services) and, where used, unit costs; the personnel costs of researchers in the EIC Next Generation Innovation Talents scheme are eligible.\n- Overheads and VAT: indirect costs are a 25% flat rate on direct costs, excluding subcontracting and some other categories.\n- Subcontracting or equipment: purchases and subcontracting must give best value for money and be free of conflicts of interest.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 29–30 · II.1, What support will you receive if your proposal is funded?\nEIC-2027-Work-Programme.pdf · pp. 190–191 · Annex 2, E.1 Submission (lump sum budget table)\nEIC-2027-Work-Programme.pdf · pp. 195–196 · Annex 2, G.4 Budget categories and cost eligibility rules"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "An advance at the start, minus 5–8% for an EU insurance fund; overpayments are repaid at the end.\n- Payment model: pre-financing (an advance) of normally 160% of the average EU funding per reporting period, then interim payments linked to periodic reports and a final payment.\n- Retention or guarantee: 5% to 8% of the maximum grant is deducted from the pre-financing and paid into the mutual insurance mechanism (a fund that covers money the EU cannot recover from beneficiaries).\n- Financial reporting or audit: a certificate on the financial statements may be required, depending on grant size and beneficiary type. Each beneficiary is liable only for its own debts.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 196–197 · Annex 2, G.5 Reporting and payment arrangements, G.6 Certificates, G.7 Liability regime for recoveries"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "Two mandatory stages on the Funding & Tenders Portal (the EU's online application system), with an interview; only invited applicants send a full proposal.\n- Stage 1 — Short proposal: 25 February 2027, 17:00 Brussels time; Part B sections 1–2 (Excellence and Impact) at most 10 A4 pages; plus a separate letter of commitment from every planned partner, without which the proposal is ineligible. The call opens on 25 November 2026; the opening may move by up to one month and deadlines may be delayed by up to two months.\n- Stage 2 — Full proposal: 16 September 2027, 17:00 Brussels time; by invitation only, after Stage 1; Part B sections 1–3 at most 23 A4 pages.\n- Additional procedure — Interview: every Stage 2 proposal above the thresholds is invited, about 10–14 weeks after the deadline; consortium members pitch for at most 10 minutes to the EIC Evaluation Committee.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 30–31 · II.1, How do you apply; how long does it take?\nEIC-2027-Work-Programme.pdf · p. 30 · footnote 44\nEIC-2027-Work-Programme.pdf · p. 34 · II.1, Interview"
+        },
+        {
+          "title": "Project window",
+          "answer": "The call sets no duration or start date; both are fixed in the grant agreement.\n- Required start: normally after the grant agreement is signed; an earlier start can be granted only exceptionally and for duly justified reasons.",
+          "sources": "EIC-2027-Work-Programme.pdf · p. 194 · Annex 2, G.1 Starting date and project duration"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Final results come about 4 months after the Stage 2 deadline and grant agreements about 8 months after it, all indicative.\n- Expected invitation: Stage 1 outcome by about the end of May 2027 (indicative).\n- Funding decision: by about mid-January 2028, 4 months after the Stage 2 deadline (indicative).\n- Grant agreement: signed by about mid-May 2028, 8 months after the Stage 2 deadline (indicative).\n- Conditions before starting: legal entity validation of each partner's PIC (participant identification code), financial capacity and exclusion checks, any ethics review, and a consortium agreement settling ownership of results and dissemination approvals.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 30–31 · II.1, How do you apply; how long does it take?\nEIC-2027-Work-Programme.pdf · p. 192 · Annex 2, F.1, No commitment to provide funding\nEIC-2027-Work-Programme.pdf · p. 209 · Annex 6, 3.1 Plan for exploitation and dissemination"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "Online application forms, letters of commitment from all partners at Stage 1, a lump-sum budget table and an ethics self-assessment.\n- Application form: Part A (administrative data, online) and Part B (technical description, uploaded as PDF), using the forms in the Portal; 10 pages at Stage 1, 23 pages at Stage 2.\n- Budget: a detailed budget table that justifies the proposed lump sum.\n- Mandatory annexes: the ethics self-assessment; a plan for exploitation and dissemination including communication, not required at Stage 1.\n- Partner documents: a letter of commitment from each organisation at Stage 1, confirming it will take part if successful; a declaration of honour by each partner before the grant.\n- Registration: every beneficiary and affiliated entity must register in the Participant Register to get a PIC before submitting.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 30–31 · II.1, How do you apply; how long does it take?\nEIC-2027-Work-Programme.pdf · pp. 169–171 · Annex 2, A. Admissibility, B.1\nEIC-2027-Work-Programme.pdf · pp. 190–191 · Annex 2, E. Documents"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Each stage scores the proposal against weighted criteria with thresholds; Stage 2 adds an interview, and the committee sets the final score.\n- Evaluation criteria: Stage 1 scores Excellence (vision, novelty and feasibility of the breakthrough, objectives) and Impact (importance of the problem, the technology as a building block). Stage 2 adds Quality and efficiency of the implementation (work plan, resources, consortium).\n- Thresholds: Excellence 4 out of 5 and Impact 4 out of 5 at both stages; Implementation 3 out of 5.\n- Weighting: Stage 1, Excellence 60% and Impact 40%; Stage 2, Excellence 50%, Impact 30%, Implementation 20%.\n- Ranking rules: after Stage 1, proposals are invited from the top until their requested funding reaches 2.5 times the call budget. Ties at Stage 2 are broken by Excellence, then Impact, gender balance of work package leaders, number of SMEs, and number of countries.\n- Budget assessment: the lump sum is fixed during evaluation and can be lower than requested.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 31–34 · II.1, How does the EIC decide if your proposal will be funded?, Tables 2a and 2b\nEIC-2027-Work-Programme.pdf · p. 31 · II.1, How do you apply; how long does it take?\nEIC-2027-Work-Programme.pdf · p. 194 · Annex 2, G.3"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Nuclear, telecom-network, ethics and classified-information aspects trigger extra rules; checking the Pathfinder Challenges first is advised.\n- Conditional — research for nuclear energy applications: must go to Euratom calls instead.\n- Conditional — elements on European communication networks (5G and later): subject to restrictions to protect those networks.\n- Conditional — ethics issues: an ethics review before funding, with possible ethics deliverables.\n- Conditional — classified or sensitive information: a security appraisal before funding.\n- Recommended — check whether the project matches one of the EIC Pathfinder Challenges before applying here.\n- Recommended — involve early-career researchers and high-tech SMEs or start-ups, and aim for gender balance among work package leaders.",
+          "sources": "EIC-2027-Work-Programme.pdf · p. 29 · II.1, Can you apply?\nEIC-2027-Work-Programme.pdf · p. 27 · II.1, Why should you apply?\nEIC Pathfinder Open (eic.ec.europa.eu web page) · EIC Pathfinder Open 2027\nEIC-2027-Work-Programme.pdf · pp. 182–183 · Annex 2, B.6 Ethics, B.7 Security"
+        }
+      ]
+    }
+  ]
+}

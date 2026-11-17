@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "Scientific foundations, methods and validation tools for AI agents that keep learning safely and auditably after they are deployed.\nThis is a Challenge (a themed topic with its own objectives) of the EIC Pathfinder, the European Innovation Council's scheme for early-stage research towards breakthrough technologies. CLOWAI stands for Safe and Controlled Continual Learning in Open World for Reliable AI Agents: AI systems with a defined purpose that adapt when their environment changes beyond what they were trained for, with novelty detection, controlled updates, traceability and rollback.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 43–46 · II.2.2 Safe and Controlled Continual Learning in Open World for Reliable AI Agents (CLOWAI), Background and Scope, Specific Objectives"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Projects must advance at least one of four capabilities for continual learning and show auditable, explainable model changes, validated in at least two application domains.\nMandatory:\n- Contribute to one or more capabilities: 1 Open-world novelty management (recognising unknown inputs, uncertainty, abstaining or escalating); 2 Reliable continual adaptation (avoiding forgetting and harmful drift, safe rollback loops); 3 Memory, grounding and verification (long-term memory, grounding decisions in trusted evidence such as sensors and simulators, safe exploration); 4 Robustness, security and resilience under changing conditions (defences against poisoning and manipulation, safe degradation and recovery).\n- Demonstrate auditable and explainable learning and model changes, including provenance, data and model lineage and operational controls.\n- Show applicability in at least two distinct domains or deployment settings, or justify a single domain scientifically.\n- Explain how the safety and assurance of post-deployment updates will be demonstrated and governed.\nThe call says approaches should also cover robust decision rules under changing conditions and safe incorporation of new concepts. Application domains are open: reliable AI agents, adaptive robotics, digital twins and safety-critical systems, for example in industry, health, education or public services, on cloud, edge or hybrid infrastructure.\nExcluded: unrestricted learning of unrelated tasks; adaptation must stay within the agent's defined purpose. All EIC Pathfinder work is civil only.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 43–46 · II.2.2 Safe and Controlled Continual Learning in Open World for Reliable AI Agents (CLOWAI), Background and Scope, Specific Objectives\nEIC-2027-Work-Programme.pdf · p. 8 · I. Introduction, Overview of the 2027 Work Programme"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "Today's AI is trained once and then frozen, so it cannot adapt safely when tasks, data or surroundings change after deployment.\nThe call names the risks of learning after deployment: distribution drift (data changing over time), normative drift (behaviour moving away from safety, legal or ethical limits), catastrophic forgetting (losing earlier skills), compounding errors, hallucinations, data poisoning and sensor failures. The need lies with organisations that run long-lived AI in changing settings, which the call describes as industry and public sector operators, and with the research community, in line with the EU AI Act.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 43–46 · II.2.2 Safe and Controlled Continual Learning in Open World for Reliable AI Agents (CLOWAI), Background and Scope"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "Each project must deliver a TRL 4 demonstrator, a technical contribution, quantitative reliability evidence, a reusable artefact and an assurance package.\n- A validated prototype or proof-of-concept demonstrator at TRL 4 (validated in the lab) in a controlled lab or simulated setting relevant to the application, with long-horizon evaluation under drift and novelty\n- A clear technical contribution (methods, theory, architectures or components) with stated assumptions\n- Quantitative evidence of reliability gains against strong baselines, including uncertainty handling and at least one risk dimension\n- A reusable artefact for the portfolio, such as a dataset slice, simulator scenario, benchmark task or evaluation harness\n- An assurance and governance package for updates: monitoring signals, triggers to abstain, escalate, roll back or quarantine, logging and provenance, and explanations of what changes and why\n- As in every Pathfinder Challenge: top-level publications, intellectual property protection and an assessment of regulation, certification and standardisation",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 43–46 · II.2.2 Safe and Controlled Continual Learning in Open World for Reliable AI Agents (CLOWAI), Specific Objectives\nEIC-2027-Work-Programme.pdf · p. 35 · II.2 EIC Pathfinder Challenges, Why should you apply?"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "More resilient, adaptable and trustworthy AI in real settings, with less re-engineering and higher uptime for operators; no numeric targets are set.\nThe call expects AI that:\n- sustains performance in changing conditions;\n- needs fewer costly re-engineering and retraining cycles;\n- adapts quickly to new products, services, regulations and usage patterns;\n- supports personalised services without compromising safety;\n- improves resilience and uptime for industry and public sector operators;\n- is more transparent and controllable over time;\n- is easier to deploy in safety-critical or high-liability contexts.\nIt also aims to build a European community in trustworthy AI and support the AI Act.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 43–46 · II.2.2 Safe and Controlled Continual Learning in Open World for Reliable AI Agents (CLOWAI), Expected Impact"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "Results are lab or simulation demonstrators, but they must feed shared benchmarks and reference architectures and be protected and exploited.\n- Portfolio outputs: together the projects are expected to deliver a common evaluation framework, at least one open benchmark suite for virtual and physical agents, and reference architectures for cloud and edge deployment; each project adds a reusable artefact.\n- Standards: the project must assess regulation, certification and standardisation, and for 4 years after the project must tell the EU agency if results could feed standards.\n- Exploitation: best efforts to exploit results, preferably in Member States or Associated Countries; the agency may object to a transfer of ownership or an exclusive licence.\n- Follow-on: Booster grants of up to EUR 50,000, EIC Transition and, for SMEs, the EIC Accelerator Fast Track; the Challenge Guide will describe opportunities for transition to innovation.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 43–46 · II.2.2 Safe and Controlled Continual Learning in Open World for Reliable AI Agents (CLOWAI), Specific Objectives, Portfolio Approach and Activities\nEIC-2027-Work-Programme.pdf · p. 35 · II.2 EIC Pathfinder Challenges, Why should you apply?\nEIC-2027-Work-Programme.pdf · p. 37 · II.2, What support will you receive if your proposal is funded?\nEIC-2027-Work-Programme.pdf · pp. 197–198 · Annex 2, G.8 Provisions concerning project implementation\nEIC-2027-Work-Programme.pdf · pp. 206–211 · Annex 6, Additional provisions concerning Intellectual Property"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "One organisation alone, two partners, or three or more partners may apply; the call sets no maximum.\n- One organisation (a single beneficiary, the organisation that signs the grant agreement and receives the grant): it must be established in an EU Member State or an Associated Country (a non-EU country that takes part in Horizon Europe on near-equal terms).\n- Two partners: two independent organisations from two different Member States or Associated Countries.\n- Three or more partners: at least three independent organisations, each in a different country, with at least one in an EU Member State and at least two others in different Member States or Associated Countries.\nAffiliated entities (organisations legally linked to a partner that do the work alongside it without signing the grant agreement) do not count towards these minimums.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 35–36 · II.2 EIC Pathfinder Challenges, Can you apply?\nEIC-2027-Work-Programme.pdf · p. 10 · Table 1, Summary of main calls in 2027, footnote 8"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "No partner type is mandatory, but large companies and mid-caps may not apply alone.\nThe call names universities, research organisations, SMEs (small and medium-sized enterprises), start-ups and natural persons as examples of eligible organisations. It states: \"In the case of single beneficiary projects, mid-caps and larger companies will not be permitted.\" In a consortium of two or more, the general rules let any legal entity take part, so a large company such as TenneT TSO B.V. may be a partner.\nCountry rules are those in the partner-number rules (Member States and Associated Countries). Organisations established in China cannot take part in Horizon Europe Research and Innovation Actions in any role.\nThe call encourages teams to include future leaders such as excellent early-career researchers and promising high-tech SMEs and start-ups, and to empower female researchers.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 35–36 · II.2 EIC Pathfinder Challenges, Why should you apply? and Can you apply?\nEIC-2027-Work-Programme.pdf · pp. 171–173 · Annex 2, B.1 Entities eligible to participate"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "No fixed split of work or budget, but a portfolio work package of at least 10 person-months is advised.\nPortfolio activities are the joint work with the other projects selected under the same Challenge, steered by the EIC Programme Manager (an EIC official who manages the group of projects). Evaluators score how appropriately person-months and other costs are allocated to work packages and consortium members. Gender balance among work package leaders is encouraged.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 36–37 · II.2, What support will you receive if your proposal is funded?\nEIC-2027-Work-Programme.pdf · p. 39 · Table 3, Quality and efficiency of the implementation"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "Any eligible partner may lead a consortium; a single-organisation project cannot be led by a large company.\nIn a consortium the coordinator submits the proposal on behalf of all partners and confirms it has their mandate. The call does not reserve the coordinator role for a particular type of organisation.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 35–36 · II.2, Can you apply?\nEIC-2027-Work-Programme.pdf · p. 190 · Annex 2, E.1 Submission"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "Yes, TenneT TSO B.V. may coordinate a consortium of two or more partners, but it may not apply alone.\nThe Netherlands is an EU Member State, so TenneT can be the Member State partner a consortium of three must include. A consortium of two needs one partner from another Member State or Associated Country; a consortium of three or more needs at least two further partners, each from a different country. Single-organisation projects exclude large companies. As coordinator TenneT would submit the proposal, prepare the lump-sum budget table with the partners and later lead the joint portfolio work with the EIC Programme Manager. Given the research focus (starting around TRL 2, an early research stage), a university or research organisation would usually lead, but the rules do not require it.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 35–36 · II.2, Can you apply?\nEIC-2027-Work-Programme.pdf · pp. 40–41 · II.2, What happens after a proposal is evaluated and retained for funding?"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes, either as a funded partner or as an associated partner that receives no money.\nThe general conditions allow associated partners: organisations that take part in the project without signing the grant agreement and without the right to charge costs. An associated partner does not count towards the minimum number of partners. TenneT could therefore, for example, advise on grid requirements without being a beneficiary.",
+          "sources": "EIC-2027-Work-Programme.pdf · p. 172 · Annex 2, B.1, Associated partners"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Yes, at 100% of eligible costs, paid as a lump sum, with no lower rate for large companies.\n- Funding rate: the grant is a Research and Innovation Action (an EU grant type for research projects) at 100% of eligible costs for every beneficiary, so TenneT would not need to finance part of its own costs.\n- Form: a lump sum (a fixed amount agreed during evaluation and paid against completed work rather than against actual costs). The applicants propose it from their estimated costs, which must follow normal EU cost rules.\n- Ceiling: up to EUR 4 million per project, shared by all partners, is considered appropriate; more may be requested if duly justified. TenneT's share would therefore come out of that project total.\n- Dutch rules: the call sets none; the grant comes directly from the EU through its executive agency (EISMEA).",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 36–37 · II.2, What support will you receive if your proposal is funded?\nEIC-2027-Work-Programme.pdf · pp. 195–196 · Annex 2, G.3 Form of grant, funding rate and maximum grant amount"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT would be most credible as owner of a safety-critical grid-control use case, with a simulated grid setting and operator expertise.\nThis is an interpretation. The call accepts digital twins and safety-critical systems as domains and requires validation in a lab or simulated setting with long-horizon drift. TenneT could offer:\n- a grid-operation use case, for example AI agents that suggest topology actions, building on GNN4GC (graph neural networks for grid control);\n- a simulated environment with realistic drift, such as changing renewable feed-in and grid topology, through the digital twin facility it runs with Delft University of Technology (NFDTES);\n- control-room knowledge on human oversight, escalation and auditability requirements.\nSince projects need at least two domains, TenneT would usually cover one domain in a consortium led by an AI research group.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 43–46 · II.2.2 Safe and Controlled Continual Learning in Open World for Reliable AI Agents (CLOWAI), Specific Objectives"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The project must produce new scientific methods and knowledge, beyond today's offline-trained AI.\nThe Challenge aims to go beyond current limitations by letting agents learn after deployment under explicit governance. Novelty beyond the state of the art is scored under Excellence. Existing AI may be used as a baseline, but the contribution must be new methods, theory, architectures or components.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 43–46 · II.2.2 Safe and Controlled Continual Learning in Open World for Reliable AI Agents (CLOWAI), Background and Scope, Specific Objectives\nEIC-2027-Work-Programme.pdf · p. 38 · Table 3, Excellence"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "The innovation must be in technology and system architecture: learning methods, memory, verification and assurance mechanisms for AI agents.\nThe call also asks for governance mechanisms for post-deployment updates (monitoring, triggers, logging, explanations), as technical assurance packages, not organisational governance models.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 43–46 · II.2.2 Safe and Controlled Continual Learning in Open World for Reliable AI Agents (CLOWAI), Specific Objectives, Portfolio Approach and Activities"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Research through to a validated proof-of-concept demonstrator in the lab or in simulation.\nDeployment and field demonstration are not part of the call.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 43–46 · II.2.2 Safe and Controlled Continual Learning in Open World for Reliable AI Agents (CLOWAI), Specific Objectives"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "From an early research stage, typically TRL 2, to a TRL 4 demonstrator.\nTRL is the technology readiness level, a 1–9 scale of how close a technology is to real use: TRL 4 means validated in the lab, here in a controlled lab or simulated setting.",
+          "sources": "EIC-2027-Work-Programme.pdf · p. 35 · II.2 EIC Pathfinder Challenges, Why should you apply?\nEIC-2027-Work-Programme.pdf · pp. 43–46 · II.2.2 Safe and Controlled Continual Learning in Open World for Reliable AI Agents (CLOWAI), Specific Objectives"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "In a controlled lab or simulated setting relevant to the intended application, virtual or physical; no real operating environment is required.\nThe evaluation must run over a long horizon under drift and novelty, not only on static test sets.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 43–46 · II.2.2 Safe and Controlled Continual Learning in Open World for Reliable AI Agents (CLOWAI), Specific Objectives"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "Each project's work must fit a common portfolio structure and integrate with cloud, edge or hybrid AI deployment.\n- The portfolio is built on three axes: scientific building blocks, a system integration layer (context and memory, orchestration, model adaptation) and the demonstration pathway.\n- Projects share milestones, benchmarking and joint activities steered by the EIC Programme Manager.\n- Grounding must link decisions to trusted evidence such as tools, sensors, databases, simulators and rules.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 43–46 · II.2.2 Safe and Controlled Continual Learning in Open World for Reliable AI Agents (CLOWAI), Specific Objectives, Portfolio Approach and Activities"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "Quantitative proof of better reliability than strong baselines, over a long period of change, with at least one risk dimension measured.\nThe evidence must cover uncertainty handling and at least one risk such as catastrophic forgetting, compounding errors, robustness and security, or ungrounded inferences and hallucinations. Projects must also show how the safety of updates is demonstrated and governed. The call sets no numeric indicators.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 43–46 · II.2.2 Safe and Controlled Continual Learning in Open World for Reliable AI Agents (CLOWAI), Specific Objectives"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "Users are not required as project partners, but human feedback and human oversight may be built into the learning process.\nLearning after deployment may use human feedback within governed update, validation and rollback processes, and explanations for human overseers should be human-readable where applicable.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 43–46 · II.2.2 Safe and Controlled Continual Learning in Open World for Reliable AI Agents (CLOWAI), Background and Scope, Specific Objectives"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "Safety and security are central: projects must defend against manipulation and make every model update auditable and reversible.\n- Defences against data poisoning and adversarial manipulation, including prompt injection where relevant\n- Safe degradation and recovery, including sensor degradation for physical agents\n- Traceability and auditability of update decisions, with provenance and data and model lineage\n- Controlled updates with rollback or quarantine when evidence is insufficient\n- Consistency with the ambitions of the EU AI Act\nThe general ethics self-assessment and security rules also apply.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 43–46 · II.2.2 Safe and Controlled Continual Learning in Open World for Reliable AI Agents (CLOWAI), Background and Scope, Specific Objectives\nEIC-2027-Work-Programme.pdf · pp. 182–183 · Annex 2, B.6 Ethics, B.7 Security"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "Up to EUR 4 million of EU contribution per project, from EUR 82 million shared across three Challenges.\n- Total project size: the call sets no limit on total project costs; at a 100% rate the grant can cover all estimated eligible costs.\n- Grant request: up to EUR 4 million per project (for all partners together); larger amounts are possible if duly justified. With roughly equal shares, each Challenge has about EUR 27 million (an estimate from the stated budget).\n- Funding form: lump sum (a fixed amount agreed during evaluation and paid against completed work, not against actual costs).",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 36–37 · II.2, What support will you receive if your proposal is funded?\nEIC-2027-Work-Programme.pdf · p. 167 · Annex 1, Estimated Indicative Budget"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "One rate for all: 100% of eligible costs for every beneficiary, including large companies, with no own contribution required.\n- Co-financing conditions: none; the call requires no cash or in-kind contribution from partners.",
+          "sources": "EIC-2027-Work-Programme.pdf · p. 36 · II.2, What support will you receive if your proposal is funded?\nEIC-2027-Work-Programme.pdf · p. 195 · Annex 2, G.3, maximum Horizon Europe funding rates"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "A lump sum built on a detailed budget table that follows normal EU cost rules; ineligible costs can reduce the grant.\n- Eligible costs: personnel, subcontracting, purchases (equipment, goods, services) and, where used, unit costs; the personnel costs of researchers in the EIC Next Generation Innovation Talents scheme are eligible.\n- Caps or mandatory allocations: at least 10 person-months are advised for a work package on portfolio activities.\n- Overheads and VAT: indirect costs are a 25% flat rate on direct costs, excluding subcontracting and some other categories.\n- Subcontracting or equipment: purchases and subcontracting must give best value for money and be free of conflicts of interest.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 36–37 · II.2, What support will you receive if your proposal is funded?\nEIC-2027-Work-Programme.pdf · pp. 190–191 · Annex 2, E.1 Submission (lump sum budget table)\nEIC-2027-Work-Programme.pdf · pp. 195–196 · Annex 2, G.4 Budget categories and cost eligibility rules"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "An advance at the start, minus 5–8% for an EU insurance fund; overpayments are repaid at the end.\n- Payment model: pre-financing (an advance) of normally 160% of the average EU funding per reporting period, then interim payments linked to periodic reports and a final payment.\n- Retention or guarantee: 5% to 8% of the maximum grant is deducted from the pre-financing and paid into the mutual insurance mechanism (a fund that covers money the EU cannot recover from beneficiaries).\n- Financial reporting or audit: a certificate on the financial statements may be required, depending on grant size and beneficiary type. Each beneficiary is liable only for its own debts.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 196–197 · Annex 2, G.5 Reporting and payment arrangements, G.6 Certificates, G.7 Liability regime for recoveries"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: a full proposal on the Funding & Tenders Portal (the EU's online application system) by 29 September 2027, 17:00 Brussels time.\n- Stage 1 — Full proposal: 29 September 2027, 17:00 Brussels time; Part B sections 1–3 (Excellence, Impact, Implementation) at most 30 A4 pages; open to all eligible applicants. The call opens on 27 May 2027; the opening may move by up to one month and the deadline may be delayed by up to two months.\n- Additional procedure: none; there is no interview for the Pathfinder Challenges.",
+          "sources": "EIC-2027-Work-Programme.pdf · p. 37 · II.2, How do you apply; how long does it take? and footnote 47"
+        },
+        {
+          "title": "Project window",
+          "answer": "The call sets no duration or start date; both are fixed in the grant agreement.\n- Required start: normally after the grant agreement is signed; an earlier start can be granted only exceptionally and for duly justified reasons.",
+          "sources": "EIC-2027-Work-Programme.pdf · p. 194 · Annex 2, G.1 Starting date and project duration"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Results are expected about 5 months after the deadline and grant agreements about 8 months after it, both indicative.\n- Expected assessment result: by about the end of February 2028 (5 months after the deadline, indicative).\n- Grant agreement: signed by about the end of May 2028 (8 months after the deadline, indicative); after the letter announcing selection, preparation and signature is expected within three months.\n- Conditions before starting: legal entity validation of each partner's PIC (participant identification code), financial capacity and exclusion checks, any ethics review, and a consortium agreement that settles ownership of results and dissemination approvals. The EIC Project Officer and Programme Manager help plan the portfolio activities during grant preparation.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 37 · II.2, How do you apply; how long does it take?\nEIC-2027-Work-Programme.pdf · pp. 40–41 · II.2, What happens after a proposal is evaluated and retained for funding?\nEIC-2027-Work-Programme.pdf · p. 192 · Annex 2, F.1, No commitment to provide funding\nEIC-2027-Work-Programme.pdf · p. 209 · Annex 6, 3.1 Plan for exploitation and dissemination"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "A two-part online application with a detailed lump-sum budget table and an ethics self-assessment; incomplete applications are ineligible.\n- Application form: Part A (administrative data, filled in online) and Part B (technical description, uploaded as PDF), using the forms in the Portal submission system; Part B sections 1–3 at most 30 A4 pages.\n- Budget: a detailed budget table that justifies the proposed lump sum.\n- Mandatory annexes: the ethics self-assessment, and a plan for exploitation and dissemination of results including communication activities.\n- Partner documents: the coordinator confirms it has the mandate of all applicants; each partner signs a declaration of honour before the grant.\n- Registration: every beneficiary and affiliated entity must register in the Participant Register to get a PIC before submitting.",
+          "sources": "EIC-2027-Work-Programme.pdf · p. 37 · II.2, How do you apply; how long does it take?\nEIC-2027-Work-Programme.pdf · pp. 169–171 · Annex 2, A. Admissibility, B.1\nEIC-2027-Work-Programme.pdf · pp. 182 · Annex 2, B.6 Ethics\nEIC-2027-Work-Programme.pdf · pp. 190–191 · Annex 2, E. Documents"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Proposals are scored against three criteria with thresholds, then a committee picks a balanced portfolio rather than simply the top scores.\n- Evaluation criteria: Excellence (objectives and relevance to the Challenge, novelty, plausibility of the methodology); Impact (credible pathways to the Challenge outcomes, innovation potential, communication and dissemination); Quality and efficiency of the implementation (work plan, allocation of resources, quality of the applicant or consortium).\n- Thresholds: Excellence 4 out of 5; Impact 4 out of 5; Implementation 3 out of 5.\n- Weighting: Excellence 50%, Impact 30%, Implementation 20%.\n- Ranking rules: all proposals above the thresholds go to a second step, where an evaluation committee of experts and EIC Programme Managers maps them into categories and selects a coherent portfolio of projects; it may propose minor adjustments.\n- Budget assessment: the lump sum is fixed during evaluation and can be lower than requested; budget comments are given for proposals invited, reserved, or rejected for clearly over- or underestimated costs.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 38–40 · II.2, How does the EIC decide if your proposal will be funded?, Table 3\nEIC-2027-Work-Programme.pdf · p. 194 · Annex 2, G.3"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Telecom-network elements, ethics issues and classified information trigger extra checks; reading the Challenge Guide is strongly encouraged.\n- Conditional — elements on European communication networks (5G and later): the proposal is subject to restrictions to protect those networks.\n- Conditional — ethics issues: an ethics review before funding, with possible ethics deliverables in the grant agreement.\n- Conditional — classified or sensitive information: a security appraisal before funding and specific security rules.\n- Recommended — read the Challenge Guide (a document with the Challenge's technical background and portfolio considerations), which the EIC will publish on its website and the Funding & Tenders Portal.\n- Recommended — involve early-career researchers and high-tech SMEs or start-ups, and aim for gender balance among work package leaders.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 35–36 · II.2, Why should you apply? and Can you apply?\nEIC-2027-Work-Programme.pdf · pp. 182–183 · Annex 2, B.6 Ethics, B.7 Security"
+        }
+      ]
+    }
+  ]
+}
