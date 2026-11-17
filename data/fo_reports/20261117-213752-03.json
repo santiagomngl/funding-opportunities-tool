@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "Sustainable, structural investments by a group of companies on a Groningen business park that reduce grid congestion, based on renewable energy and following an implementation plan.\nExamples on the SNN page are smart energy solutions and batteries; batteries must be lithium-based, stationary, behind the meter and below 1 MW. Fossil-fuel or biomass technology, and stand-alone building-mounted generation such as rooftop solar, are excluded. Batteries meant for trading energy at moments that burden the grid are given as an example of an investment that does not count. The need is the companies': congestion blocks their business activities.",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · pp. 1-3 · Artikel 1 (c); Artikel 5, lid 3; Artikel 6, onderdeel g; Artikel 9, onderdelen d, e and h\nToelichting Subsidieregeling Netcongestie (NPG).pdf · p. 2 · Artikel 9 sub d\nSNN, Subsidieregeling netcongestie (NPG) · Een toelichting op de activiteiten (Investering)"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Less grid congestion for the applicants and the business park, more cooperation between companies, and a smart, flexible energy system based on renewables.\nInvestments are scored on how far they reduce congestion for more companies than the applicants alone, build cooperation beyond the applicants, respond flexibly to external market signals that affect production and use of energy, are innovative, and can be scaled to more companies on the park.",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · pp. 2 and 4 · Artikel 2; Artikel 15, lid 2\nToelichting Subsidieregeling Netcongestie (NPG).pdf · p. 2 · Artikel 15 Beoordelingscriteria"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "Groups of at least two companies on a Groningen business park that have an implementation plan; suppliers of batteries, energy-management and smart-grid solutions would deliver the work.\nThe scheme is for companies (any entity with legal personality that carries out an economic activity) that operate in the province of Groningen and experience problems from grid congestion on a business park (bedrijventerrein, an area zoned for trade, industry and services). This module is open only to collaborations of at least two companies not in the same group, and the investment must concern the business park of one of them; the lead company applies on behalf of all. Companies whose main business is supplying solar or wind energy or balancing services (services that restore the system balance for grid operators) are excluded.",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · pp. 1-3 · Artikel 1 (j, n); Artikel 3, lid 5; Artikel 6, onderdeel h; Artikel 7, onderdeel e"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": "The solution may combine existing techniques: it scores on innovation (5 of 35 points) if it uses innovative technology, a new combination of existing techniques, or a technique not yet used this way or for this purpose in Groningen.",
+          "sources": "Toelichting Subsidieregeling Netcongestie (NPG).pdf · p. 2 · Artikel 15 Beoordelingscriteria, criterion 4"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": "The investment is installed permanently on the business park for real use; equipment not permanently on site is excluded. It must follow from an implementation plan no older than two years, and investments must be on the balance sheet, not above their valuation and not written off within two years.",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · pp. 3 and 5 · Artikel 7, onderdeel d; Artikel 9, onderdeel f; Artikel 18, lid 3e\nToelichting Subsidieregeling Netcongestie (NPG).pdf · p. 2 · Artikelen 7 sub c en d"
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "My judgement: this module puts batteries and flexible, market-responsive energy systems behind the meter on Groningen business parks, which could reduce peak load on congested stations and make better use of existing connections. It touches TenneT's congestion problem directly: grid congestion (too little capacity in cables, transformers or connections for the demand or supply in an area) is what TenneT and the regional grid operators face in Groningen, and the scheme pays grid users on business parks to understand their load profile and adopt flexible, collective solutions. That could free up capacity, reduce peak demand on congested substations and create flexible loads, in the same spirit as TenneT's time-dependent transport contracts such as the one with Lion Storage. TenneT cannot take part itself: only companies or collaborations of companies with a business park in Groningen that experience congestion problems may apply, and the scheme sets out no role for a grid operator. TenneT could pass the scheme on to companies waiting for a connection or more capacity on Groningen business parks. The exclusion of companies selling balancing services means the batteries are meant to solve local congestion rather than to trade on TenneT's balancing markets.",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · pp. 2-4 · Artikel 3, lid 5; Artikel 5, lid 3; Artikel 6, onderdelen g and h; Artikel 15\nToelichting Subsidieregeling Netcongestie (NPG).pdf · p. 2 · Artikel 6 sub h; Artikel 9 sub d"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "Up to EUR 250,000 per project, or EUR 100,000 for a battery, from a EUR 4.31 million sub-budget.\n- Total project size: not stated; at 30% the caps correspond to about EUR 833,000 and EUR 333,000 of eligible costs (my calculation)\n- Grant request: up to EUR 100,000 for a battery; up to EUR 250,000 for other investments\n- Funding form: a share of actual purchase and installation costs\n- Sub-budget: EUR 4,310,000, of which EUR 750,000 for batteries; SNN showed EUR 4,310,000 remaining on 17 November 2026",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · pp. 3-4 · Artikel 8, onderdeel b; Artikel 12, onderdeel c; Artikel 13, lid 3\nSNN, Subsidieregeling netcongestie (NPG) · scheme page header (Resterend budget)"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "30% of eligible costs; the companies finance the rest.\n- Co-financing conditions: aid is granted under article 41 of the General Block Exemption Regulation (EU rules on investment aid for renewable energy); otherwise under de minimis rules or another notified state-aid framework\n- Evidence required: an explanation that the investment falls within article 41, or a de minimis declaration or state-aid analysis",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · pp. 3-4 · Artikel 10, leden 5-6; Artikel 13, lid 3; Artikel 16, leden 2-3"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Purchase and installation costs of permanent, sustainable investments count.\n- Caps or mandatory allocations: batteries below 1 MW only, with their own EUR 750,000 share of the budget\n- Excluded costs: fossil or biomass technology, equipment not permanently on site, intangible assets, stand-alone building-mounted energy generation, investments that do not help sustainability, CO2 reduction or congestion, and measures needed for legal energy-saving duties",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · pp. 2-4 · Artikel 6, onderdeel g; Artikel 8, onderdeel b; Artikel 9; Artikel 12, onderdeel c"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "A 20% advance on request, then advances on costs paid, up to 80%.\n- Payment model: 20% advance before the work; further advances on paid costs times 30%; no advance if financing is not secured\n- Financial reporting or audit: yearly progress reports; at settlement, investments must be shown as capitalised, not above valuation and not written off within two years",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · p. 5 · Artikel 18, lid 3; Artikel 19"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: an electronic application through SNN's web portal from 25 March 2025 to 31 December 2027, submitted by the lead company; budget goes first come, first served by the minute of a complete application.\n- Stage 1 — Application: project plan and budget in SNN's format with the implementation plan and state-aid explanation\n- Additional procedure: if the sub-budget runs out, applications completed in the same minute are ranked by lot",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · pp. 3-4 · Artikel 10; Artikel 11, leden 1 and 3; Artikel 14"
+        },
+        {
+          "title": "Project window",
+          "answer": "Start within 12 months of the grant and finish within 24 months, by 1 July 2029 at the latest.\n- Maximum duration: 24 months from the grant decision, unless a longer term is set in the decision, never beyond 1 July 2029\n- Required start: within 12 months of the grant, not before the application",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · p. 5 · Artikel 18, lid 3c-d and lid 5"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "A decision within 22 weeks of the application.\n- Conditions before starting: a collaboration agreement signed by all companies; financing must be secured to receive an advance",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · pp. 3 and 5 · Artikel 10, lid 2; Artikel 17, lid 2; Artikel 19, lid 3"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "Project plan, budget and the earlier plan are the core.\n- Application form: project plan in SNN's format\n- Budget: SNN budget format\n- Mandatory annexes: the implementation plan (no older than two years); explanation that the investment fits article 41 of the General Block Exemption Regulation, or a de minimis declaration or state-aid analysis\n- Partner documents: collaboration agreement signed by all companies",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · p. 3 · Artikel 7, onderdeel d; Artikel 10"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Investments are scored on five criteria and need at least 15 of 35 points, including at least 5 on congestion relief.\n- Evaluation criteria and weighting: reduces congestion, for the applicants only (5) or for more companies (10); builds cooperation, between applicants (5) or beyond (10); future-proof smart and flexible system responding to market signals (5); innovative (5); scalable to more companies on the park (5)\n- Ranking rules: first come, first served among complete applications that reach the threshold",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · p. 4 · Artikel 14; Artikel 15\nToelichting Subsidieregeling Netcongestie (NPG).pdf · p. 2 · Artikel 15 Beoordelingscriteria"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Several refusal grounds can rule a project out.\n- Conditional — battery above 1 MW: refused\n- Conditional — main business in solar, wind or balancing services: refused\n- Conditional — biofuel production or fossil energy on the site: refused\n- Conditional — no implementation plan, or one older than two years: refused",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · pp. 2-3 · Artikel 6, onderdelen b, g, h and i; Artikel 7, onderdeel d\nToelichting Subsidieregeling Netcongestie (NPG).pdf · p. 2 · Artikelen 7 sub c en d"
+        }
+      ]
+    }
+  ]
+}

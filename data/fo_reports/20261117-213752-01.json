@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "An independent feasibility study that shows a company's energy situation and the solutions to its grid-congestion barriers on a Groningen business park.\nThe study must be carried out by an independent expert registered with the Chamber of Commerce. It must at least include quarter-hourly measurements of energy use and generation over 24 hours for at least one representative week, an analysis of the company's energy situation, and solutions to the barriers that grid congestion creates for it. If several companies do the study together, it must show both the joint and the individual situation. The need is the companies': they cannot connect, expand or run their business as planned because the electricity grid is full.",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · pp. 1-2 · Artikel 1 (h, i); Artikel 2 Doel; Artikel 5, lid 1\nToelichting Subsidieregeling Netcongestie (NPG).pdf · p. 1 · Artikelsgewijze toelichting, Artikel 1 sub i, Artikel 5 lid 1\nSNN, Subsidieregeling netcongestie (NPG) · Een toelichting op de activiteiten (Haalbaarheidsonderzoek)"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Fewer congestion barriers for Groningen companies, a better business climate, and a contribution to climate and energy goals.\nThe aim is to support the business and investment climate in the province by helping companies that suffer from grid congestion, while contributing to the climate and energy targets. Solutions must be based on renewable energy; fossil-fuel solutions on the applicant's site are refused. Effects must land in the province of Groningen.",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · p. 2 · Artikel 2 Doel; Artikel 6, onderdelen b and f\nToelichting Subsidieregeling Netcongestie (NPG).pdf · p. 2 · Artikel 6 sub f"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "Individual companies or collaborations of companies on Groningen business parks; the work itself is done by an energy consultant.\nThe scheme is for companies (any entity with legal personality that carries out an economic activity) that operate in the province of Groningen and experience problems from grid congestion on a business park (bedrijventerrein, an area zoned for trade, industry and services). A collaboration needs at least two companies that are not part of the same group, and the lead company (penvoerder) applies for all. Companies whose main business is supplying solar or wind energy or balancing services (services that restore the system balance for grid operators) are excluded. The study must be done by an independent expert with no financial or family ties to the applicant, which makes the scheme a source of work for energy consultancies and metering suppliers.",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · pp. 1-2 · Artikel 1 (i, j, n); Artikel 3 Doelgroep; Artikel 6, onderdeel h\nToelichting Subsidieregeling Netcongestie (NPG).pdf · pp. 1-2 · Artikel 1 sub i (Onafhankelijk); Artikel 6 sub h"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": "The study is done on the company's own site, with real metering of its energy use and generation, and it is the first step in a chain: an implementation plan must build on it, and investments on the plan.\nA study used later must be no older than two years and still reflect the company's energy situation.",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · p. 3 · Artikel 7, onderdelen c and d\nToelichting Subsidieregeling Netcongestie (NPG).pdf · pp. 1-2 · Artikel 5 lid 1; Artikelen 7 sub c en d"
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "My judgement: this module helps congested Groningen businesses understand their own load and find ways round the full grid, which is the first step towards flexible or collective connections. It touches TenneT's congestion problem directly: grid congestion (too little capacity in cables, transformers or connections for the demand or supply in an area) is what TenneT and the regional grid operators face in Groningen, and the scheme pays grid users on business parks to understand their load profile and adopt flexible, collective solutions. That could free up capacity, reduce peak demand on congested substations and create flexible loads, in the same spirit as TenneT's time-dependent transport contracts such as the one with Lion Storage. TenneT cannot take part itself: only companies or collaborations of companies with a business park in Groningen that experience congestion problems may apply, and the scheme sets out no role for a grid operator. TenneT could pass the scheme on to companies waiting for a connection or more capacity on Groningen business parks.",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · pp. 1-3 · Artikel 1 (h); Artikel 2; Artikel 3; Artikel 7"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "Up to EUR 10,000 per company, or EUR 15,000 for a collaboration, from a EUR 500,000 sub-budget.\n- Total project size: not stated; at 75% the caps correspond to about EUR 13,300 and EUR 20,000 of eligible costs (my calculation)\n- Grant request: up to EUR 10,000 for an individual company; up to EUR 15,000 for a collaboration\n- Funding form: a share of eligible costs for the independent expert and metering equipment such as smart meters\n- Sub-budget: EUR 500,000, of which EUR 300,000 for collaborations and EUR 200,000 for individual companies; SNN showed EUR 353,582.50 remaining on 17 November 2026",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · pp. 3-4 · Artikel 8, onderdeel a; Artikel 12, onderdeel a; Artikel 13, lid 1\nSNN, Subsidieregeling netcongestie (NPG) · scheme page header (Resterend budget)"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "75% of eligible costs, granted under the EU de minimis rules (small amounts of aid that need no state-aid approval).\n- Evidence required: a signed de minimis declaration from the applicant or all participants",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · pp. 3-4 · Artikel 10, lid 4; Artikel 13, lid 1; Artikel 16, lid 1"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Only the independent expert's hours and metering equipment count.\n- Excluded costs: brainstorm or creativity sessions, websites and social media, measures needed to meet the legal energy-saving obligations, and generators or other fossil or biomass technology",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · p. 3 · Artikel 8, onderdeel a; Artikel 9\nToelichting Subsidieregeling Netcongestie (NPG).pdf · p. 1 · Artikel 8 sub a"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: an electronic application through SNN's web portal from 25 March 2025 to 1 July 2028; budget goes first come, first served by the minute of a complete application.\n- Stage 1 — Application: project plan and budget in SNN's format for the feasibility study, with a quote for the advice\n- Additional procedure: if the sub-budget runs out, applications completed in the same minute are ranked by lot",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · pp. 3-4 · Artikel 10; Artikel 11, leden 1-2; Artikel 14\nSNN, Subsidieregeling netcongestie (NPG) · Aanvraag voorbereiden (Haalbaarheidsonderzoek)"
+        },
+        {
+          "title": "Project window",
+          "answer": "The study must be completed within 12 months of the grant.\n- Required start: not before the application is submitted\n- Completion deadline: all activities by 1 July 2029",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · p. 5 · Artikel 18, leden 1 and 5\nSNN, Subsidieregeling netcongestie (NPG) · Wat zijn de voorwaarden?"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "A decision within 13 weeks; the full subsidy is paid in advance.\n- Funding decision: within 13 weeks of the application\n- Payment: a 100% advance of the granted amount; settlement request within 13 weeks of completion",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · p. 5 · Artikel 17, lid 1; Artikel 18, lid 6; Artikel 19, lid 1"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "A short package built around SNN's formats.\n- Application form: project plan in SNN's format for the feasibility study\n- Budget: SNN budget format with quotes for the advice\n- Mandatory annexes: de minimis declaration; previous year's (consolidated) annual accounts\n- Partner documents: proof of signing authority; for collaborations, a collaboration agreement signed by all and partner details signed by hand; legal structure if there are linked companies\n- Registration: eHerkenning (the Dutch business login), or a hand-signed application form",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · p. 3 · Artikel 10 Indieningsvereisten\nSNN, Subsidieregeling netcongestie (NPG) · Aanvraag voorbereiden (Haalbaarheidsonderzoek)"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "No scoring: complete, eligible applications are funded in order of receipt.",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · p. 4 · Artikel 14 Verdeelcriteria; Artikel 15, lid 1"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Several refusal grounds can rule a company out.\n- Conditional — earlier subsidy: a company that already received this subsidy for the same activity is refused\n- Conditional — legal energy-saving duty: applicants must meet their legal obligations on energy saving and CO2 reduction under the Dutch environmental rules\n- Exception — collaboration: the study covers both the joint and each company's individual situation",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · p. 2 · Artikel 6, onderdelen a and j\nToelichting Subsidieregeling Netcongestie (NPG).pdf · pp. 1-2 · Artikel 5 lid 1; Artikel 6 sub j"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "20261117-213752-01",
+  "source": "SNN",
+  "display_title": "Haalbaarheidsonderzoek – Nationaal Programma Groningen",
+  "organization_or_parent_framework": "Provincie Groningen",
+  "programme": "Nationaal Programma Groningen",
+  "call_title": "Subsidieregeling netcongestie (NPG)",
+  "call_module_title": "Haalbaarheidsonderzoek",
+  "call_year": 2025,
+  "url": "https://www.snn.nl/zakelijke-subsidies/subsidieregeling-netcongestie-npg",
+  "executive_summary": "Feasibility-study module of the provincial Groningen scheme against grid congestion on business parks (Subsidieregeling Oplossen netcongestiebelemmeringen op bedrijventerreinen, Nationaal Programma Groningen), run by SNN. It funds a study by an independent expert, including quarter-hourly metering, that maps a company's energy use and generation and identifies solutions to the grid-congestion barriers it faces. Individual companies or collaborations of companies active in the province of Groningen may apply. The subsidy is 75% of eligible costs, up to EUR 10,000 for an individual company or EUR 15,000 for a collaboration, under de minimis rules, from a sub-budget of EUR 500,000 allocated first come, first served. Applications are open from 25 March 2025 to 1 July 2028; the study must be completed within 12 months.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2028-07-01",
+  "earliest_project_start_date": "2025-03-25",
+  "project_end_date": "2029-06-30",
+  "minimum_project_size": null,
+  "maximum_project_size": 20000,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "The module funds an independent feasibility study, with quarter-hourly metering, of a company's energy situation and solutions to grid-congestion barriers on business parks in Groningen (Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG), art. 2, 5 lid 1 and 13 lid 1). It touches TenneT's field directly, since it targets congestion and flexible use of grid connections, sharing aims with the Lion Storage time-dependent transmission rights contract, the Energy boards and Grids & Benefits, but it acts behind the meter at grid users rather than in the grid. Only companies or collaborations of companies that experience congestion problems on a business park may apply (art. 2, 3 and 7), and the scheme sets out no role for a grid operator, so TenneT cannot take part. It fits C3.3 because the studies can lead to flexible loads, storage and better use of connections.",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T5",
+      "T10"
+    ],
+    "role": [],
+    "activity": [
+      "A3"
+    ],
+    "outcome": [
+      "O7",
+      "O10"
+    ]
+  }
+}

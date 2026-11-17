@@ -1,0 +1,37 @@
+{
+  "id": "20261117-213752-04",
+  "source": "SNN",
+  "display_title": "Subsidieregeling Investeren in Toekomstbestendige Industrie 2025 (SITI 2025) – Nationaal Programma Groningen",
+  "organization_or_parent_framework": "Provincie Groningen",
+  "programme": "Nationaal Programma Groningen",
+  "call_title": "Subsidieregeling Investeren in Toekomstbestendige Industrie 2025 (SITI 2025)",
+  "call_module_title": null,
+  "call_year": 2025,
+  "url": "https://www.snn.nl/siti2025",
+  "executive_summary": "Provincial Groningen subsidy under the Nationaal Programma Groningen, run by SNN, for investments in sustainable business equipment and related buildings by process and manufacturing companies (NACE section C) that make Groningen's industry future-proof in green chemistry, circular and biobased industry, biotechnology or 'net zero' industry (for example green hydrogen as an industrial feedstock, or making batteries, electrolysers, solar panels or heat pumps). Large companies qualify only for new establishments or diversification; SMEs also for expansion or transformation. The subsidy is regional investment aid of at most 30% for small, 20% for medium-sized and 10% for large companies, up to EUR 7,500,000 per project, with minimum eligible costs of EUR 2.5 million (EUR 1 million on the Zernike campus) and at least 25% own contribution free of public support; the budget of EUR 9,214,000 is allocated first come, first served to projects scoring at least 70 of 100 points. Applications close on 31 December 2026 (extended from 30 June 2026); projects must be completed by 1 July 2029.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2026-12-31",
+  "earliest_project_start_date": "2025-03-25",
+  "project_end_date": "2029-07-01",
+  "minimum_project_size": 1000000,
+  "maximum_project_size": 75000000,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "The call funds investments in sustainable equipment and buildings by process and manufacturing companies in Groningen for green chemistry, circular and biobased industry, biotechnology and net zero industry, including production of green hydrogen as feedstock (Subsidieregeling Investeren in Toekomstbestendige Industrie 2025, art. 2, 5 and 7; Toelichting, art. 7). It touches TenneT's field through new large electric loads and flexible demand in Groningen's industrial cluster, such as electrolysers and electrified processes; no project file is close. TenneT cannot take part: only companies in NACE section C may apply (art. 1r and 3), and regional investment aid is excluded for energy production, storage, transmission, distribution and infrastructure (art. 6 lid 2; Toelichting, art. 6, p. 2). It fits C3.3 because the funded industrial electrification and electrolysers add demand and potential flexibility on the grid.",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T9",
+      "T10"
+    ],
+    "role": [],
+    "activity": [
+      "A10"
+    ],
+    "outcome": [
+      "O5"
+    ]
+  }
+}
