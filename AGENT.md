@@ -40,7 +40,7 @@ Known Calls and No Duplicate are a double check against duplicates. Known Calls 
 
 3. **Task by task.** Do the four tasks in order. Each task works only from the output of the task before it and the inputs listed for it, not from page text you read earlier. Write a task's output in full before starting the next task.
 
-4. **Official information only; never guess.** Fill a field only with a value the official call information supports. Do not invent or infer missing facts, and do not infer a document's contents from a search snippet. For the dates, try hard to make a date from what the call states (Task 4, step 1); a date the call gives no basis for is `null`. Keep what the call states separate from your interpretation and from a proposed TenneT application, and say when something is your interpretation.
+4. **Official information only; never guess.** Fill a field only with a value the official call information supports. Do not invent or infer missing facts, and do not infer a document's contents from a search snippet. For the dates, try hard to make a date from what the call states (Task 4, step 1); a date the call gives no basis for is `null`. Keep what the call states separate from your interpretation and from a proposed TenneT application, and say when something is your interpretation. For a cascade call, the official call information is what the issuing project publishes: its call page, call text and guide for applicants. A portal listing that summarises it is not enough.
 
 5. **Missing information** is `null` for a single value and `[]` for a list. Never N/A, Unknown, TBD, an empty string or any other text.
 
@@ -60,6 +60,7 @@ Known Calls and No Duplicate are a double check against duplicates. Known Calls 
 | FO (funding opportunity) | A call, or a module or topic of a call, that can be assessed on its own. Only funding calls are FOs. |
 | Funding call | A call that passes both tests of Task 2, rule 5: it gives money that is not repaid, and it has a dated round. |
 | Rolling scheme | A funding call that accepts applications continuously, with no fixed deadline, while its budget lasts. It has a dated round when it states the year it is open in or a yearly budget. |
+| Cascade call | A call issued not by a public funder but by a funded project (a consortium) that passes part of its own grant on to third parties, often SMEs, startups or researchers. Also called an open call or financial support to third parties (FSTP). It is a funding call when it passes both tests of Task 2, rule 5. The issuing project's own grant from its parent programme is not the cascade call. |
 | FO record | The file `data/fo_records/<id>.json` for one FO: the template filled in. One per FO, whatever its call type. |
 | FO report | The file `data/fo_reports/<id>.json` for one FO of Type 1, Type 2 or Type 3: a report template filled in (Task 4, step 8). It explains the call in depth to a TenneT colleague. |
 | Card | One question in an FO report template, with an `answer` and `sources` to fill in. |
@@ -138,14 +139,14 @@ call_year: 2026
    - `navigation_instructions`: how to move through the website: filters, language, pages.
    - `link_scope`: which links you may follow.
    - `completion_rules`: when the search of this source is done.
-2. If `starting_url` or `navigation_instructions` no longer work (a page moved, a filter is gone), find the closest official calls listing on the source organisation's own website and note exactly what changed: you correct it in "End of the run". Leave the source's website only to open official call documents the funder links to.
+2. If `starting_url` or `navigation_instructions` no longer work (a page moved, a filter is gone), find the closest official calls listing on the source organisation's own website and note exactly what changed: you correct it in "End of the run". Leave the source's website only to open official call documents the funder links to, or, for a cascade call, the call page and documents on the issuing project's own website.
 3. Read the project files in `resources/projects/` and list the priority projects in the conversation, by `project_name`. Read their `project_description` and the definitions of their codes in `resources/tennet_taxonomy.json`. If there are none, write `Priority projects: none` and search as usual.
 
 *Search*
 
 4. If there are priority projects, search for them first. For each one, run searches built from its `project_description` and the definitions of its codes, including local-language equivalents, and name in the conversation the project each search is for. Stay within `search_scope` and `link_scope`. Then do the general search (rule 6) only if the priority searches found no new candidate. All other rules apply to both searches.
 5. Take as candidates only funding calls that are open or forthcoming. Skip a call that is cancelled or whose deadlines have all passed. A call is a funding call only if it passes both tests:
-   - **Funding instrument.** It gives money that is not repaid: a grant, a subsidy, co-financing of project costs, a prize or competition award, or a pre-commercial procurement or public procurement of innovation action. A mixed instrument passes if it has a grant part. Skip loans, credit schemes, guarantees, equity or venture funding, tax credits and deductions, and any other support that is repaid.
+   - **Funding instrument.** It gives money that is not repaid: a grant, a subsidy, co-financing of project costs, financial support from a cascade call, a prize or competition award, or a pre-commercial procurement or public procurement of innovation action. A mixed instrument passes if it has a grant part. Skip loans, credit schemes, guarantees, equity or venture funding, tax credits and deductions, and any other support that is repaid.
    - **Dated round.** It states at least one of these: a submission deadline, an opening date, or a year for the call or round. A rolling scheme passes when it states the year it is open in or a yearly budget. A call that states none of these is not a funding call: skip it.
 
    Do not report calls skipped under this rule; they do not count towards the limit in rule 13.
@@ -154,7 +155,7 @@ call_year: 2026
    - A larger portal: run a small set of searches covering concrete subjects (assets, technologies, systems, operational tasks), problems and intended benefits (resilience, service continuity, interoperability, reliability, safety, environmental performance), and methods and capabilities (inspection, robotics, monitoring, digital tools, testing, standardisation, coordination, market mechanisms).
    - When filtering, use portal categories and local-language equivalents. An energy filter can be one search route but must not define the whole search. Keywords help discovery; they do not decide relevance.
 7. Go through the whole selected scope, not only the first results page: continue through pages, Load More and nested structures (programme → call → topic or module), and identify each FO at the right child level.
-8. Prefer the specific call or topic page over a programme homepage. A programme announcement becomes a candidate only when it names a concrete current or forthcoming call, topic, module or application route.
+8. Prefer the specific call or topic page over a programme homepage. A programme announcement becomes a candidate only when it names a concrete current or forthcoming call, topic, module or application route. A cascade call is a candidate at the level of the open call the project issues (for example "Open Call 2"); its challenges or tracks follow rule 12. The issuing project itself is never a candidate.
 9. Do not decide relevance here; Task 4 does. Every new, open or forthcoming funding call (rule 5) within the search scope is a candidate. Never dismiss a call from its title.
 10. To read a long document, page through it with the fetch tool's offset or page option. Download it into `pdfs/` only if the tool has no such option.
 
@@ -179,7 +180,7 @@ call_year: 2026
 
 1. Check each candidate against every FO record in `data/fo_records/`: first the records whose `source` equals the source name, then all the others. A call can already be recorded from another source, for example when two portals list it.
 2. Compare these five fields together: `organization_or_parent_framework`, `programme`, `call_title`, `call_module_title`, `call_year`. One equal field is not a match; judge whether the five together describe the same opportunity.
-3. A new year of the same call is a different opportunity. A different call module is a different opportunity. A translated title or an alternate listing of the same call can be the same opportunity.
+3. A new year of the same call is a different opportunity. A different call module is a different opportunity. A translated title or an alternate listing of the same call can be the same opportunity. A cascade call and the parent call that funded its issuing project are different opportunities, and so are two open calls of the same project.
 4. When there are many records, you may write and run a short script that prints `id`, `source` and the five fields of every record.
 
 ## Task 4: Assessment and report
@@ -213,6 +214,8 @@ Hard cases:
 - Funded buyer means the call itself pays TenneT to buy: TenneT is in the buyers' group of a pre-commercial procurement or public procurement of innovation action, and the grant co-finances its purchase. Only then is it Type 1.
 - A supplier receives the grant to develop something TenneT may later buy through its own tenders: Type 2 if TenneT has a role in the project (for example a letter of support or intent, or a pilot), Type 3 if it has none, even when TenneT pointed the supplier to the call.
 - Only a single startup or SME may apply, and TenneT could at most sign a letter of intent or host a pilot: Type 2.
+- A cascade call open only to SMEs, startups or other small organisations is covered by the case above. If it names a role for an organisation like TenneT, such as challenge owner, pilot or test site, mentor or end user, that role is the route: Type 2.
+- TenneT is a partner in the project that issues a cascade call: it usually cannot apply to that call itself. Choose the type from the call's rules as usual, and say in `status_rationale` that TenneT is in the issuing project.
 - A general call, for example on AI or cybersecurity, touches TenneT's field only if it allows an application in the energy system.
 
 ### Step 1. Read the call documents
@@ -392,13 +395,13 @@ A filled-in record has this shape (the values are only illustrations):
 | `id` | Creation date and time to the second from the system clock (Europe/Amsterdam), then a two-digit counter starting at 01: `YYYYMMDD-HHMMSS-NN`, e.g. `20261112-193700-01`. If that id already exists in `data/fo_records/` or was used earlier in the same run, raise the counter (02, 03 …). Created in Discovery and kept from then on. Text, never a number. It is also the file name. |
 | `source` | The source file's `source_name`, exactly as written there, e.g. `CETPartnership`. |
 | `display_title` | `call_module_title` when filled, otherwise `call_title`, then " – " (space, en dash, space) and `programme`. When `programme` is `null`, the title alone. |
-| `organization_or_parent_framework` | The organisation or parent framework behind the call. |
-| `programme` | The programme the call belongs to. |
-| `call_title` | The call's official title. |
+| `organization_or_parent_framework` | The organisation or parent framework behind the call. For a cascade call: the parent programme that funds the issuing project, e.g. `Horizon Europe`. |
+| `programme` | The programme the call belongs to. For a cascade call: the issuing project's name, as the project writes it. |
+| `call_title` | The call's official title. For a cascade call: the open call's title as the project writes it, e.g. `Open Call 2`. |
 | `call_module_title` | Only when the call explicitly has modules whose conditions change per module: the module's official title, with its code in front when the call gives one (e.g. `CM2026-01 Integrated Energy System Resilience in a Changing Environment`). Otherwise `null`. |
 | `call_year` | The year of the call, four plain digits without quotes, e.g. `2026`: the year in the call's name or round; if the call names none, the year it opens (or opened) for submissions. For a rolling scheme: the current year if the scheme is still open for applications this year, otherwise the next year (for example, the 2026 budget is used up or the 2026 window has closed → `2027`). |
-| `url` | The official call page: the page of the specific call or module, not a programme homepage. |
-| `executive_summary` | A short summary of the opportunity, from the call's facts: what it funds, who may take part, the funding available and the key dates. If the call's amounts are not in euros, say so here and name the currency. For a rolling scheme, say that it is on a rolling basis with no fixed deadline. |
+| `url` | The official call page: the page of the specific call or module, not a programme homepage. For a cascade call: the open call's page on the issuing project's website. |
+| `executive_summary` | A short summary of the opportunity, from the call's facts: what it funds, who may take part, the funding available and the key dates. If the call's amounts are not in euros, say so here and name the currency. For a rolling scheme, say that it is on a rolling basis with no fixed deadline. For a cascade call, say that it is a cascade call and name the issuing project and its parent programme. |
 | All five date fields | Set by the date helper (below), never by hand: copy the lines it prints. Each is an ISO date `YYYY-MM-DD` (a real calendar date, with no time or time zone) or `null`; only `date_last_checked` is always filled. |
 | `pre_submission_deadline` | The deadline of the pre-submission stage (pre-proposal, expression of interest or similar), only as a day the funder has published. `null` when the call has no pre-submission stage or publishes no day. |
 | `full_proposal_deadline` | The full-proposal deadline, only as a day the funder has published, otherwise `null`. Drop any time: "11 March 2027, 17:00 CET" → `2027-03-11`. With several rounds or cut-offs, take both deadlines from the same round: the next round whose full-proposal deadline has not passed. |

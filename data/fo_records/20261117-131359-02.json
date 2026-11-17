@@ -1,0 +1,28 @@
+{
+  "id": "20261117-131359-02",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "Strand B – Open calls – RENEW-BOOSTER",
+  "organization_or_parent_framework": "Single Market Programme",
+  "programme": "RENEW-BOOSTER",
+  "call_title": "RENEW-BOOSTER Eurocluster Call N°2 for Financial Support to Third Parties",
+  "call_module_title": "Strand B – Open calls",
+  "call_year": 2026,
+  "url": "https://ec.europa.eu/eusurvey/files/bed90ddf-a7eb-4a85-84aa-7667a1173add/9f6a0a1f-53ec-46b0-af99-d3b497a4ef70",
+  "executive_summary": "Cascade call issued by the RENEW-BOOSTER Eurocluster project, funded by the EU Single Market Programme. Strand B is a single-stage, bottom-up open call for SMEs from the EU-27 and SMP countries, alone or in consortia of up to three SMEs, with innovations at TRL 6–7 in the photovoltaics, offshore wind or energy grids value chains, such as SF6-free equipment, recycled-material cables, cable health monitoring, dynamic line rating and predictive maintenance. SMEs can request EUR 10,000, 30,000 or 60,000, with private co-funding of about 30% to 50% (no in-kind contributions); 12 to 72 projects are expected, with a total budget per project of about EUR 14,000 to 120,000 and a cap of EUR 60,000 per SME. The deadline is 30 November 2026, 17:00 CET; projects last 3 to 6 months from contract signature, expected at the end of January 2027.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2026-11-30",
+  "earliest_project_start_date": "2027-01-01",
+  "project_end_date": "2027-06-30",
+  "minimum_project_size": 14000,
+  "maximum_project_size": 120000,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "Strand B funds SME innovations at TRL 6–7 in the PV, offshore wind and energy grids value chains, including SF6-free equipment, cable health monitoring, dynamic line rating, predictive maintenance and offshore grid technologies (Call text, 'Scope and objectives of the call' and 'Call structure and funding strands'). This is TenneT's field: it is close to the Reliability Centered Maintenance, ICCP and Digital Twin Programme project files. Only SMEs may apply and receive funding ('Eligibility criteria'), but the call expects new suppliers and solutions 'validated through pilot testing', so TenneT could support an SME with a letter of intent or by hosting a pilot or test site without receiving funding. C2.2 fits because TenneT would act as end user or test-environment provider for an SME-led project, and C2.4 because a letter of support is the lightest route. The project end date (2027-06-30) was derived from the indicative contract signature at the end of January 2027 and the maximum duration of 6 months ('Timetable and deadlines').",
+  "call_type": "Type 2",
+  "category_codes": ["C2.2", "C2.4"],
+  "taxonomy_values": {
+    "topic": ["T3", "T4", "T7", "T9"],
+    "role": ["R9"],
+    "activity": ["A5", "A6", "A7"],
+    "outcome": ["O3", "O5", "O6"]
+  }
+}

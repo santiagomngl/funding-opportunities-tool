@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "An innovation audit in which an SME maps its own energy-related challenges and opportunities, written up in a Challenge Description Report.\nPowerBoost is the first of four open calls from GreenGrid, an EU-funded cluster project that passes part of its grant on to SMEs to make the energy system cleaner, smarter and more resilient. The audit is the only eligible activity. It must examine the SME's processes, technologies and gaps and identify where innovation or new technology could improve efficiency, grid flexibility, digitalisation, renewable integration or sustainability. The need originates with the applicant SME itself. General training, unrelated consultancy and technology implementation are not eligible.",
+          "sources": "Green_Grid_PowerBoost_Open_Call_V2_FINAL.pdf · 1. About GreenGrid; 2. About PowerBoost Open Call; 5. Funded Activities"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The audit must lead to well-defined, measurable improvement areas that help the SME contribute to a more resilient and flexible grid.\nThe Challenge Description Report must quantify the expected impact with indicators such as efficiency gains, flexibility potential, CO2 reduction or digital maturity. The challenges it defines can then go to GreenGrid's Challenge Hunt (where startups propose solutions) or to the Solution Box call, which funds pilots of up to EUR 30,000.",
+          "sources": "Green_Grid_PowerBoost_Open_Call_V2_FINAL.pdf · 2. About PowerBoost Open Call; 5. Funded Activities (Expected result; Link to next support stage)"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "Single SMEs in energy-relevant industries, registered for at least one year, that want to prepare for a later pilot.\n- Applicant: an SME under the EU definition (fewer than 250 staff and turnover up to EUR 50 million or balance sheet up to EUR 43 million), established in a European Economic Area country or a country associated with the Single Market Programme.\n- Conditions: registered for at least one year with at least one closed and approved financial year; active in an industrial sector relevant to the green transition, such as energy-intensive industry; no conflict of interest or connection with the GreenGrid consortium.\n- Partners: the call foresees individual SMEs only. The audit may be done in house by qualified staff or by an external expert the SME hires; the SME stays responsible for the result.\nIt suits manufacturing and energy-intensive SMEs, and the consultants who audit them.",
+          "sources": "Green_Grid_PowerBoost_Open_Call_V2_FINAL.pdf · 3. Eligibility criteria; 4. Conflict of Interest; 5. Funded Activities (Who can carry out the activity?)"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": "No new technology is required: the audit diagnoses needs and defines possible solution directions; it does not develop or implement them.\nThe audit may point to innovation in processes, digitalisation, renewable integration, resource management or new technology adoption.",
+          "sources": "Green_Grid_PowerBoost_Open_Call_V2_FINAL.pdf · 2. About PowerBoost Open Call; 5. Funded Activities"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": "Nothing is demonstrated: the work is an audit of the SME's own operations, which feeds into a later, separate pilot call.\nThe signed Challenge Description Report is a mandatory entry document for the Solution Box open calls (funding of up to EUR 30,000 to pilot or validate solutions), but it does not guarantee funding there.",
+          "sources": "Green_Grid_PowerBoost_Open_Call_V2_FINAL.pdf · 5. Funded Activities (Link to next support stage); 11. Reporting (Link to future opportunities)"
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "The audits push industrial SMEs to look for grid flexibility in their own energy use, a first step towards flexible demand that could ease congestion.\nThis is my interpretation. TenneT's DataFleX and Grids & Benefits projects work on unlocking decentral flexibility and grid-aware energy use; SMEs that map their flexibility potential here and pilot it under Solution Box could later become flexibility providers. The effect is small and indirect: each audit gets EUR 2,000 and produces a planning document, not a grid solution. GreenGrid separately invites grid operators to submit challenges to its Challenge Hunt, but that is not part of this call.\nTenneT cannot take part itself: only SMEs may apply, and applicants must have no connection with the GreenGrid consortium; the call sets out no role for other organisations.",
+          "sources": "Green_Grid_PowerBoost_Open_Call_V2_FINAL.pdf · 1. About GreenGrid; 3. Eligibility criteria; 5. Funded Activities"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "A fixed lump sum of EUR 2,000 per SME, for 50 SMEs in total.\n- Total project size: at least EUR 2,500 if the SME adds only the minimum 20% co-financing (my calculation).\n- Grant request: EUR 2,000 per SME; total call budget EUR 100,000. About 30 grants had been awarded by 30 September 2026.\n- Funding form: lump sum (a fixed amount paid against the accepted report, whatever the actual costs), paid once as a reimbursement after the audit.",
+          "sources": "Green_Grid_PowerBoost_Open_Call_V2_FINAL.pdf · 2. About PowerBoost Open Call (Funding information); 10. Payments; Q&A FA1\nGreenGrid_PowerBoost_Winners.pdf · Last update 30.09.2026\nEU Funding & Tenders Portal, PowerBoost – unlock energy related challenges · General information"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "The SME must add at least 20% from private financial sources, as its own money or debt.\n- Evidence required: the final financial summary must give a cost breakdown, covering staff, external experts and other costs, and show the 20% own contribution.",
+          "sources": "Green_Grid_PowerBoost_Open_Call_V2_FINAL.pdf · 2. About PowerBoost Open Call; 10. Payments (Co-financing); Q&A FA2 and Reporting"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Only audit costs after the sub-grant agreement is signed count; audits already done or paid are not eligible.\n- Excluded costs: general training, unrelated consultancy and technology implementation.",
+          "sources": "Green_Grid_PowerBoost_Open_Call_V2_FINAL.pdf · 5. Funded Activities; Q&A FA3 and AA2"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "The SME must pay for the whole audit up front; the EUR 2,000 arrives only after the report is accepted.\n- Payment model: a single payment by bank transfer after approval of the Challenge Description Report and financial summary; nothing is paid if the activity or documents are not delivered on time.\n- Retention or guarantee: none, but payment may be withheld or recovered after false declarations or breach of the sub-grant agreement.",
+          "sources": "Green_Grid_PowerBoost_Open_Call_V2_FINAL.pdf · 10. Payments"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage, with cut-offs on the 1st and 15th of each month until the budget is used or 31 August 2027; the next cut-off is 1 December 2026.\n- Stage 1 — Application: online PowerBoost application form via the EU Survey platform, with a Declaration of Honour signed with a qualified electronic signature; individual SMEs only. Cut-offs falling on a weekend or a public holiday in a partner country move to the next working day.",
+          "sources": "Green_Grid_PowerBoost_Open_Call_V2_FINAL.pdf · 2. About PowerBoost Open Call (2.5–2.6); 6. Application Process; Q&A FA4"
+        },
+        {
+          "title": "Project window",
+          "answer": "The audit may start only after the sub-grant agreement is signed, and the final report must be in by 31 October 2027 at the latest.\n- Required start: after both parties sign the sub-grant agreement; costs before that are not eligible.\n- Completion deadline: report within 15 calendar days after finishing the audit, and no later than 31 October 2027.",
+          "sources": "Green_Grid_PowerBoost_Open_Call_V2_FINAL.pdf · 8. Evaluation & Selection Process (Step 4); 11. Reporting; Q&A FA3, FA4 and AA1"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Results come about four weeks after each cut-off, and the agreement must be signed within one month of the award.\n- Funding decision: about 4 weeks after the cut-off.\n- Grant agreement: a sub-grant agreement with Sunrise Tech Park (the GreenGrid coordinator), signed electronically within one month of notification.",
+          "sources": "Green_Grid_PowerBoost_Open_Call_V2_FINAL.pdf · 6. Application Process; Q&A FA5"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "An online application form plus a Declaration of Honour signed with a qualified electronic signature.\n- Partner documents: the signature must be valid in the European Commission's digital signature validation tool.\n- Evaluation basis: only the information in the form counts; external links are not evaluated.",
+          "sources": "Green_Grid_PowerBoost_Open_Call_V2_FINAL.pdf · 6. Application Process; 7. Evaluation Criteria; 8. Evaluation & Selection Process (Step 1)"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Two evaluators score three criteria from 1 to 5; at least 12 of 15 points are needed, then grants go by score and submission time until the money runs out.\n- Evaluation criteria: company capability to carry out or commission the audit; relevance of the planned audit to grid flexibility, digitalisation, renewable integration or sustainability; expected impact and use of the results.\n- Thresholds: 12 out of 15 points.\n- Ranking rules: by score, then by date and time of submission, per cut-off.",
+          "sources": "Green_Grid_PowerBoost_Open_Call_V2_FINAL.pdf · 7. Evaluation Criteria; 8. Evaluation & Selection Process (Steps 2–3)"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Payment depends on a signed Challenge Description Report delivered within 15 days of finishing the audit.\n- Conditional — reporting: the report, using GreenGrid's template and signed with a qualified electronic signature by whoever did the audit, plus the financial summary; late, unsigned or incomplete reports may delay or block payment.\n- Exception — complaints: on procedural grounds only, within 7 calendar days of the results.",
+          "sources": "Green_Grid_PowerBoost_Open_Call_V2_FINAL.pdf · 9. Appealing Procedure; 10. Payments; 11. Reporting"
+        }
+      ]
+    }
+  ]
+}

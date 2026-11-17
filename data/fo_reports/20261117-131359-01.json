@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "A small SME solution, tested quickly, that answers one of four practical problems set by named energy and industrial companies.\nStrand A is the challenge-driven part of the second RENEW-BOOSTER call (RENEW-BOOSTER is an EU-funded cluster project for the solar, offshore wind and energy grid supply chains, which passes part of its grant on to SMEs). Each challenge comes from a challenge owner (the company that describes its problem and helps judge the answers):\n- Challenge 1, EDF power solutions (France): robotic or drone solutions to strip and repaint boat landings, turbine foundations and offshore substation jackets, so that rope-access technicians are no longer needed.\n- Challenge 2, Navacel Process Industries (Spain): cheaper, faster and more automated production of large steel suction anchors for floating offshore wind, especially top plates of up to 8 metres in diameter.\n- Challenge 3, Estabanell Impulsa (Spain, an electricity retailer): second-life uses, health assessment and a business model for industrial lithium-ion batteries at the end of their first life.\n- Challenge 4, PGE Baltica (Poland): trusted positioning for offshore wind work when satellite navigation (GPS or GNSS) is jammed or spoofed, as is happening in the Baltic Sea.\nThe need therefore originates with industry: each challenge owner's own operational problem. Every project must also show how it supports the EU Critical Raw Materials Act and Net-Zero Industry Act (EU laws on secure raw material supply and on manufacturing clean technologies in Europe).",
+          "sources": "RENEW-BOOSTER_Challenges_Call_2.pdf · pp. 1–8 · Challenge #1 to Challenge #4\nCall_text_RENEW-BOOSTER_Call_2.pdf · pp. 2–4, 7 · Background and policy context; Scope and objectives of the call; Call structure and funding strands"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Projects must make European clean-energy supply chains less dependent on critical raw materials and more diverse, while delivering measurable gains for the challenge owner.\nThe call text asks every project to:\n- reduce dependency on critical materials and supply chain weak points in wind, solar and grid technologies;\n- support the green and digital transition;\n- explicitly show alignment with the Critical Raw Materials Act and the Net-Zero Industry Act, for example through CO2 or resource savings or moving part of a value chain into the EU. The Net-Zero Industry Act aims for at least 40% of net-zero technology manufacturing, including grid technologies, to take place in the EU.\nThe challenges add their own targets: safer offshore maintenance without rope access (Challenge 1), lower cost and shorter lead times for suction anchors (Challenge 2), longer battery life and less waste (Challenge 3), and fewer delays and safer offshore installation during satellite-navigation outages (Challenge 4). Each funded SME must report measured or well-justified estimated results and the related earnings or savings in its final deliverable.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · pp. 2, 4 · Background and policy context; Scope and objectives of the call\nCall_text_RENEW-BOOSTER_Call_2.pdf · p. 12 · Final deliverable requirements\nRENEW-BOOSTER_Challenges_Call_2.pdf · pp. 1–8 · Intended Impact (Challenges #1 to #4)"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "Single SMEs with a nearly market-ready product that fits one of the four challenges; consortia are not allowed in this strand.\n- Lead applicant: one SME under the EU definition (fewer than 250 staff and turnover up to EUR 50 million or balance sheet up to EUR 43 million, counting group companies where relevant), established in the EU-27 or another country taking part in the Single Market Programme.\n- Partners: none. Consortia are not eligible under Strand A; the SME applies alone.\n- Sharing of work: in Stage 1 three SMEs per challenge each work on their own proof of concept; in Stage 2 only one of them continues.\n- Other rules: an SME may submit one application per strand and receive at most EUR 60,000 in total from all RENEW-BOOSTER calls. At least 10% of funded SMEs should come from countries other than those of the project partners (Denmark, Norway, Poland, France, Bulgaria and Spain).\nThe call suits technology suppliers and startups in offshore robotics and drones, steel fabrication and welding automation, battery diagnostics and repurposing, and maritime positioning and navigation.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · pp. 4–5 · Eligibility criteria; Consortia\nCall_text_RENEW-BOOSTER_Call_2.pdf · p. 7 · Strand A – Challenge-driven projects\nEU Funding & Tenders Portal, RENEW-BOOSTER Eurocluster Call N°2 · Submission & evaluation process"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": "The solution must be new or clearly improved, but it may build on existing technology; what counts is a working answer to the challenge owner's problem.\nThe call scores the level of innovation and ambition, including the novelty and added value of the solution. The challenges ask for applied, solution-oriented proposals that may combine hardware, software, data services or integrated solutions. The innovation can lie in:\n- technology and products, such as robots, sensors, positioning systems or battery diagnostics;\n- manufacturing processes, such as automated welding or digital quality control;\n- business models, which Challenge 3 explicitly requires for second-life batteries.\nExamples of eligible innovations in the call text include substitutes for critical materials, new suppliers validated through pilot tests, and digital tools for supply chain monitoring and traceability.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · p. 3 · Examples of eligible innovations include\nCall_text_RENEW-BOOSTER_Call_2.pdf · p. 12 · Evaluation criteria (Excellence)\nRENEW-BOOSTER_Challenges_Call_2.pdf · pp. 1–8 · Scope and Expectations for Proposals"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "Stage 1 starts from a solution that can be shown at TRL 6–7 (a prototype shown in a realistic setting); the Stage 2 winner must reach TRL 8–9 (a complete, qualified system ready for or in operation).\nStage 1 lasts about 3 weeks and is a product demonstration at TRL 6–7. Stage 2 lasts 12 weeks and must lead to product innovation and scale-up at TRL 8–9.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · p. 2 · Scope and objectives of the call\nCall_text_RENEW-BOOSTER_Call_2.pdf · p. 7 · Strand A – Challenge-driven projects"
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": "Demonstration is expected with or at the challenge owner, and the solution must fit the owner's existing assets and workflows.\n- Challenge 1 asks how the solution could be tested or validated at or in connection with EDF power solutions sites, in harsh marine conditions comparable to traditional painting.\n- Challenge 2 asks what is needed to demonstrate the solution with Navacel: data, equipment, facilities and integration into existing production.\n- Challenge 4 accepts simulation, laboratory tests, analysis of historical data or tests in representative Baltic Sea conditions, and asks how the solution fits existing vessel, survey and construction workflows, including cybersecurity and data interfaces.\n- Stage 1 is a product demonstration; Stage 2 develops the solution further to demonstrator readiness and scale-up.\nChallenge owners may join the evaluation panel and follow the projects' progress.",
+          "sources": "RENEW-BOOSTER_Challenges_Call_2.pdf · pp. 1–8 · What Proposals Should Address (Challenges #1, #2, #4)\nCall_text_RENEW-BOOSTER_Call_2.pdf · p. 7 · Strand A – Challenge-driven projects\nCall_text_RENEW-BOOSTER_Call_2.pdf · p. 14 · Evaluation workflow"
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "Challenge 1 targets a problem TenneT shares: corrosion and repainting of offshore substation jackets, today done by rope-access technicians.\nThis is my interpretation of the call's relevance. TenneT maintains many offshore platforms, and its ICCP project (corrosion protection for offshore infrastructure) and its Reliability Centered Maintenance approach (condition-based maintenance using drones and sensors) address the same assets and risks. A robotic stripping and painting solution proven with EDF could later be offered in TenneT's own maintenance tenders. Challenge 4 (positioning that still works when satellite navigation is jammed) is relevant to the offshore cable and platform installation work that TenneT commissions, especially in the Baltic and North Seas. The call also aims to diversify European supply chains for offshore wind and grid components, which could ease TenneT's supplier shortages.\nTenneT cannot take part itself: only SMEs may apply in Strand A, and the four challenge owners of this round are already named in the published challenges, so the call offers no role for TenneT.",
+          "sources": "RENEW-BOOSTER_Challenges_Call_2.pdf · pp. 1–2, 6–8 · Challenge #1; Challenge #4\nCall_text_RENEW-BOOSTER_Call_2.pdf · pp. 4–5 · Eligibility criteria"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "Up to EUR 60,000 per SME: EUR 10,000 for each of three SMEs per challenge in Stage 1, then EUR 50,000 for the one SME selected for Stage 2.\n- Total project size: about EUR 12,500 for a Stage 1 project and about EUR 83,300 for Stage 2, if the SME adds only the minimum co-funding (my calculation from the grant and co-funding rates).\n- Grant request: fixed amounts per SME, EUR 10,000 in Stage 1 and EUR 50,000 in Stage 2. The whole call (Strand A and Strand B together) has EUR 800,000.\n- Funding form: financial support to third parties (cascade funding, where an EU-funded project passes money on to companies) through a sub-grant agreement with the RENEW-BOOSTER consortium.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · p. 7 · Strand A – Challenge-driven projects\nCall_text_RENEW-BOOSTER_Call_2.pdf · pp. 10–11 · Funding conditions and grant allocation\nEU Funding & Tenders Portal, RENEW-BOOSTER Eurocluster Call N°2 · General information (Total funding available)"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "The SME must add its own private money: at least 20% in Stage 1 and at least 40% in Stage 2.\n- Stage 1: EUR 10,000 grant with at least 20% private co-funding.\n- Stage 2: EUR 50,000 grant with at least 40% private co-funding.\n- Co-financing conditions: co-funding must be the SME's own money or debt; in-kind contributions, personnel costs, salaries and staff time do not count. Applications that do not complete the co-funding budget table are not funded.\n- Evidence required: the SME must show at application that it can provide the co-funding and document it at reporting.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · p. 6 · Co-funding requirements & budget allocation\nCall_text_RENEW-BOOSTER_Call_2.pdf · p. 7 · Strand A – Challenge-driven projects\nCall_text_RENEW-BOOSTER_Call_2.pdf · p. 11 · Co-funding and grant amounts (indicative)\nRENEW-BOOSTER_Call_2_FAQ.pdf · p. 3 · Co-Funding Requirements"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Applicants must submit two budget tables, one for the grant and one for their own co-funding, and depreciation is not eligible.\n- Eligible costs: equipment and materials, software and licences, personnel costs (in the grant budget only), external services and justified subcontracting, other project costs.\n- Caps or mandatory allocations: at most EUR 60,000 per SME across all RENEW-BOOSTER calls.\n- Excluded costs: depreciation of existing or newly bought equipment, costs unrelated to the project, and costs already funded by other public sources.\n- Overheads and VAT: VAT is eligible only if it cannot be recovered.\n- Subcontracting or equipment: subcontracting must be necessary and consistent with the work plan.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · pp. 5–7 · Consortia; Eligible Costs; Ineligible Costs"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One application by 30 November 2026, 17:00 CET; the move from Stage 1 to Stage 2 is decided after the Stage 1 results and a final pitch, with no new application.\n- Stage 1 — Application: 30 November 2026, 17:00 CET, through the EU Survey online form, in English, within the character limits of each text box.\n- Stage 2 — Selection after a final pitch: one of the three Stage 1 SMEs per challenge is selected on its pitch and results.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · p. 5 · Eligibility requirements and deadline\nCall_text_RENEW-BOOSTER_Call_2.pdf · p. 7 · Strand A – Challenge-driven projects\nEU Funding & Tenders Portal, RENEW-BOOSTER Eurocluster Call N°2 · Submission & evaluation process"
+        },
+        {
+          "title": "Project window",
+          "answer": "A project lasts 3 to 6 months from the signature of the sub-grant agreement, which is expected at the end of January 2027.\n- Maximum duration: 6 months; Stage 1 takes about 3 weeks and Stage 2 about 12 weeks.\n- Required start: on signature of the sub-grant agreement (the contract between the SME and the RENEW-BOOSTER consortium), indicatively end of January 2027.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · p. 7 · Strand A – Challenge-driven projects\nCall_text_RENEW-BOOSTER_Call_2.pdf · p. 10 · Timetable and deadlines"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Results are expected in mid-January 2027 and contracts at the end of January 2027 (both indicative).\n- Expected invitation or assessment result: evaluation in December 2026; results in mid-January 2027 (indicative).\n- Grant agreement: contract signature at the end of January 2027 (indicative); Stage 2 needs its own sub-grant agreement.\n- Conditions before starting: the Stage 1 payment is made on signature of the Stage 1 sub-grant agreement.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · p. 10 · Timetable and deadlines\nCall_text_RENEW-BOOSTER_Call_2.pdf · p. 11 · Payment schedule"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "A complete EU Survey application in English, with both budget tables and a registered PIC; incomplete applications may be rejected.\n- Application form: EU Survey online form, in English, within the character limit of each text box; no annexes beyond those asked for on the platform.\n- Budget: a grant budget table and a co-funding budget table.\n- Mandatory annexes: signed declarations where applicable, a Financial Identification Form and a Do No Significant Harm self-declaration (confirming the project does not seriously harm EU environmental objectives).\n- Registration: a 9-digit Participant Identification Code (PIC) on the EU Funding & Tenders Portal.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · pp. 6, 10, 14 · Eligible Costs; Do No Significant Harm (DNSH) – mandatory principle; How to apply\nEU Funding & Tenders Portal, RENEW-BOOSTER Eurocluster Call N°2 · Submission & evaluation process"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Proposals are scored on three criteria out of 10 each, with at least 6 needed on every criterion, and ranked by total score.\n- Evaluation criteria: Excellence (novelty, technical soundness, fit with the strand), Impact (supply chain resilience in PV, offshore wind or grids, green or digital benefits, market uptake, measurable indicators), Quality and efficiency of implementation (work plan, team, budget, risks).\n- Thresholds: 6 out of 10 per criterion; maximum 30 points.\n- Ranking rules: ties are broken by Impact, then Excellence, then Implementation, then geographical balance; at least 10% of funded SMEs must come from regions outside the partners' countries, with attention to the EU-13 (the countries that joined the EU from 2004 onwards).\n- Panel: for Strand A, the challenge owner and two independent external evaluators.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · pp. 12–14 · Evaluation criteria and selection process; Tie-breaking procedure; Evaluation workflow"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Payment depends on a final deliverable with an impact assessment and a feedback questionnaire.\n- Conditional — final payment: a final deliverable (slides, technical report or KPI summary) with measured or estimated results and savings, plus the completed Single Market Programme feedback questionnaire; without it there is no final payment.\n- Conditional — non-compliance: payments may be suspended if milestones or reports are missed.\n- Exception — complaints: may be sent to the call manager within 14 days of the results, on procedural or factual errors only.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · p. 12 · Final deliverable requirements; Suspension of payments\nCall_text_RENEW-BOOSTER_Call_2.pdf · p. 15 · Complaints procedure"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "20261117-131359-04",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "RESIST II Product Innovation Open Call – RESIST II",
+  "organization_or_parent_framework": "Single Market Programme",
+  "programme": "RESIST II",
+  "call_title": "RESIST II Product Innovation Open Call",
+  "call_module_title": null,
+  "call_year": 2027,
+  "url": "https://resisteucluster.eu/wp-content/uploads/2026/05/RESIST-Product-Innovation-Guide-for-applicants.pdf",
+  "executive_summary": "Cascade call issued by the RESIST II Eurocluster project, funded by the EU Single Market Programme. It funds SMEs from the EU and SMP countries that are active in the mobility, transport and automotive ecosystem to develop new or significantly improved products or services that lower carbon emissions, raise resource efficiency or reduce critical raw material dependence, for example electric drivetrain components, smart charging systems and second-life battery products. SMEs apply alone or in consortia of up to three SMEs from different NUTS2 regions; lump-sum grants of up to EUR 20,000 for individual projects and EUR 30,000 per SME in collaborative projects, with at least 10% private co-financing; the total call budget is EUR 800,000 over two cut-offs. The first cut-off closed on 13 July 2026; the second cut-off is expected to open in May 2027, with no deadline yet published by the project. Projects last up to 9 months.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": null,
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": 100000,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "The call funds new or improved mobility products and services from SMEs, with indicative examples including smart charging systems, energy-efficient vehicle subsystems and second-life battery products (Guide for Applicants, Product Innovation, 2.2 Objectives and scope). It touches TenneT's field only at the edge, through smart charging and battery storage as sources of flexibility; this is close to the Grids & Benefits project file (grid-aware EV charging), but here the work is product development by automotive SMEs, not grid operation. TenneT cannot take part: only SMEs active in the mobility, transport and automotive ecosystem may apply and receive funding, and other organisations may join only as subcontractors (2.4 Who can apply). C3.3 fits because smart charging and second-life storage products could add flexibility that eases congestion.",
+  "call_type": "Type 3",
+  "category_codes": ["C3.3"],
+  "taxonomy_values": {
+    "topic": ["T5", "T10"],
+    "role": [],
+    "activity": ["A5"],
+    "outcome": ["O10"]
+  }
+}
