@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "The project must scale up an existing Direct Air Capture technology (machines that remove carbon dioxide directly from ambient air) to at least a pilot plant demonstrated in a relevant environment.\nThe need is a climate-policy and industry need: the topic's single expected outcome is to accelerate the commercial availability of Direct Air Capture, which the work programme treats as a carbon dioxide removal option for negative emissions. The need therefore belongs to technology developers and, through climate targets, to society at large, not to an operational user such as a grid operator.\nProjects are expected to demonstrate all of the following:\n- Lower cost of the capture and regeneration process (releasing the captured carbon dioxide so the capture material can be reused), including the balance of plant (fans, pumps, heat and power supply around the core unit)\n- Better capture materials and process designs, for example capture and release capacity and speed, durability and long-term stability in air\n- Potential for manufacturing and scale-up, including recycling and reuse of materials\n- Flexible operation under intermittent or surplus renewable energy supply\nDepending on the technology, projects should also address lower energy use for regenerating the sorbent or solvent (the material that binds the carbon dioxide), alternative separation materials and approaches, materials for cold, humid or heavily polluted locations, how well simulations predict validation experiments, and new high-flux air contactors (the units that bring air into contact with the capture material). Projects must develop a comprehensive life cycle assessment of the whole Direct Air Capture system, from material extraction and energy use to greenhouse gas emissions and end of life.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 183–185 · HORIZON-CL5-2027-02-D3-30, Expected Outcome and Scope\nFunding & Tenders Portal topic page HORIZON-CL5-2027-02-D3-30 · Topic destination"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Projects must help make Direct Air Capture commercially available sooner, as a way to remove carbon dioxide from the atmosphere.\nThe topic sits in the work programme's Destination (a thematic chapter of the work programme) on sustainable, secure and competitive energy supply. For carbon capture and carbon dioxide removal, that Destination seeks accelerated deployment of carbon capture, use and storage as a way to cut carbon dioxide emissions from power generation and industry, and carbon dioxide removal for negative emissions. The topic sets no numeric target. Because the scope also requires flexible operation under intermittent or surplus renewable energy supply, a successful project would show how a Direct Air Capture plant can run when renewable electricity is abundant; this is a design requirement of the call, not an impact target it sets.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 184–185 · HORIZON-CL5-2027-02-D3-30, Expected Outcome and Scope\nFunding & Tenders Portal topic page HORIZON-CL5-2027-02-D3-30 · Topic destination"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "Best suited to Direct Air Capture technology developers working with capture-material suppliers, engineering firms and research institutes in a consortium of at least three organisations.\n- Lead applicant: the topic sets no restriction, so any organisation that may take part may coordinate.\n- Consortium: at least three independent legal entities (organisations not controlled by one another), each in a different country: at least one in an EU Member State and two more in different EU Member States or Associated Countries (non-EU countries that take part in Horizon Europe on near-equal terms).\n- Excluded: organisations established in China, and organisations in eligible countries that are directly or indirectly controlled from China, may not take part.\n- Distribution of work: the topic sets no rules on how work or funding must be shared.\n- Encouraged, not required: use of ECCSEL (the European research infrastructure for carbon dioxide capture, use, transport and storage), and international cooperation with countries taking part in the Mission Innovation Carbon Dioxide Removal Mission (an international government initiative on carbon removal).\nSuppliers of sorbents, solvents, air contactors, fans or heat-integration equipment, start-ups with a working capture unit, and universities with materials or process-modelling expertise fit the scope best.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 13 · B — Eligibility, Consortium composition\nwp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 183–185 · HORIZON-CL5-2027-02-D3-30, Specific conditions, Eligibility conditions and Scope"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": "The project may build on existing technical solutions, but must improve them markedly in technology and in how the plant operates.\nThe scope asks projects to scale up existing Direct Air Capture solutions rather than invent new capture principles. The innovation must lie mainly in technology: capture materials, process design, regeneration energy, air contactors and manufacturability. It must also cover operational methods, since the plant must be shown to operate flexibly when renewable energy supply is intermittent or in surplus. The topic does not ask for innovation in market arrangements or governance.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 184–185 · HORIZON-CL5-2027-02-D3-30, Scope"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "Projects may start at any maturity level and are expected to reach TRL 7 by the end.\nTRL 7 (technology readiness level 7) means a system prototype demonstrated in an operational environment. The scope says projects should reach at least pilot demonstration in relevant environments, at TRL 7 or higher.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · p. 184 · HORIZON-CL5-2027-02-D3-30, Specific conditions, Technology Readiness Level\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 15 · B — Technology readiness levels"
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": "The capture system must be demonstrated as a pilot in a relevant environment, as a complete plant including its supporting equipment and energy supply.\n- Setting: pilot demonstration in relevant environments, at TRL 7 or higher (a prototype system working in operational conditions).\n- Coherent system: the cost improvements must cover the capture and regeneration process including the balance of plant, so the core unit and its supporting equipment are addressed together.\n- Interaction with the energy system: the plant must be shown to operate flexibly under intermittent or surplus renewable energy supply.\n- Evidence: simulated predictions are to be compared with validation experiments where relevant, and a life cycle assessment must cover the entire system.\n- Infrastructure: use of the ECCSEL research infrastructure for carbon capture, use, transport and storage is encouraged but not mandatory.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 184–185 · HORIZON-CL5-2027-02-D3-30, Scope"
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "Direct Air Capture plants are large electricity users; if built to run flexibly on surplus renewable power, they could become flexible demand that helps relieve grid congestion.\nThis is our interpretation. The call explicitly requires flexible operation under intermittent or surplus renewable energy supply. A plant that ramps up when offshore wind output is high and the grid is congested, and ramps down otherwise, would act like the flexible large loads TenneT already works with, such as the time-dependent transmission rights contract signed with battery operator Lion Storage. Suppliers and research partners TenneT knows could use this call to develop such plants, and TenneT could later see them as connection requests or flexibility providers in the Netherlands.\nTenneT cannot usefully take part itself because the topic covers only capture technology and sets out no work or role for a grid operator.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 184–185 · HORIZON-CL5-2027-02-D3-30, Scope"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "EUR 16 million in total for about two projects, around EUR 8 million of EU funding each, paid as a lump sum.\n- Grant request: around EUR 8 million per project is the Commission's estimate; proposals requesting other amounts may still be submitted and selected.\n- Funding form: lump sum (a fixed amount agreed in advance and paid against completed work, not against costs actually incurred).",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 183–184 · HORIZON-CL5-2027-02-D3-30, Specific conditions\nwp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · p. 40 · Call - BATTERIES and ENERGY, Overview of this call"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "As an Innovation Action, the topic funds up to 70% of eligible costs for companies and up to 100% for non-profit organisations.\n- Companies and other for-profit organisations: up to 70%, so they must finance at least 30% of their costs themselves.\n- Non-profit organisations, such as universities and research institutes: up to 100%.\n- Co-financing conditions: for lump-sum grants the funding rate is built into the calculation of the lump sum and is not shown in the grant agreement.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 31–32 · G — Legal and financial set-up of the grants, Funding rates\nwp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · p. 184 · HORIZON-CL5-2027-02-D3-30, Specific conditions, Legal and financial set-up"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "The lump sum must be backed by a detailed budget table that follows the normal EU cost-eligibility rules.\n- Eligible costs: the costs in the budget table must meet the basic eligibility conditions of EU actual-cost grants; purchases and subcontracting must give best value for money and be free of conflicts of interest.\n- Excluded costs: if the budget table contains ineligible costs, the grant may be reduced, even during or after the project.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 27 · E — Documents, lump sum budget table"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One submission stage, through the Funding & Tenders Portal electronic submission system.\n- Stage 1 — Full proposal: 31 March 2027, 17:00 Brussels time; the call opens on 3 December 2026. Any eligible consortium may apply.\n- Additional procedure: the responsible Director-General may open the call up to one month earlier or later than planned and may delay the deadline by up to two months.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 38–39 · Call - BATTERIES and ENERGY, Overview of this call\nFunding & Tenders Portal topic page HORIZON-CL5-2027-02-D3-30 · General information\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 4 · A — Admissibility"
+        },
+        {
+          "title": "Project window",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Applicants hear the result about five months after the deadline and sign the grant about eight months after it.\n- Expected assessment result: around late August 2027 (about 5 months after 31 March 2027), indicative.\n- Grant agreement: around late November 2027 (about 8 months after the deadline), indicative.\n- Conditions before starting: each participant must have its organisation validated by the Central Validation Service and confirm a declaration of honour before the grant is signed.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 30 · F — Indicative timetable for evaluation and grant agreement\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 5, 27 · A and E — Registration and Documents"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "The proposal must be submitted complete on the forms in the electronic submission system, with a detailed lump-sum budget table.\n- Application form: the forms inside the Funding & Tenders Portal submission system; Part B (the technical description) is limited to 45 pages for lump-sum Innovation Actions.\n- Budget: a detailed budget table, used to justify and fix the lump sum.\n- Registration: every beneficiary must register in the Participant Register to obtain a PIC (participant identification code) before submitting.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 4 · A — Admissibility, Page limits\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 27 · E — Documents\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 5 · B — Registration"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Proposals are scored on Excellence, Impact and Quality and efficiency of implementation, with Impact weighted 1.5 for ranking.\n- Evaluation criteria: Excellence, Impact, and Quality and efficiency of implementation, the standard Horizon Europe criteria; the topic adds none.\n- Thresholds: at least 3 out of 5 on each criterion and at least 10 out of 15 overall.\n- Weighting: the Impact score counts 1.5 times when ranking Innovation Actions.\n- Ranking rules: for equal scores, proposals covering parts of the call not covered by higher-ranked ones come first, then the Impact score, then Excellence, then gender balance of lead researchers and geographical diversity.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 26–28 · D — Award criteria, Scores and weighting, Ranking"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Satellite data must come from EU systems if used, and China-controlled organisations are excluded.\n- Conditional — use of satellite data: projects using satellite Earth observation, positioning, navigation or timing data must use Copernicus and/or Galileo/EGNOS (the EU's satellite programmes); others may be used in addition.\n- Exception — China-controlled organisations: organisations established in China or controlled from China may not take part.\n- Recommended: using the ECCSEL research infrastructure, and cooperating internationally with Mission Innovation Carbon Dioxide Removal Mission countries.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 184–185 · HORIZON-CL5-2027-02-D3-30, Eligibility conditions and Scope"
+        }
+      ]
+    }
+  ]
+}

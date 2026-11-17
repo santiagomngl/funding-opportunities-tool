@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "The project must build a first-of-a-kind operational demonstrator, or optimise a newly installed one, that decarbonises production in an energy-intensive industry such as steel, cement or chemicals.\nThe need comes from industry and from EU climate and competitiveness policy: the Clean Industrial Deal (the EU's 2025 plan to decarbonise industry while keeping it competitive) seeks to keep energy-intensive manufacturing in Europe while cutting its emissions. Each proposal must choose one main technology area and may combine it with the others within one industrial sector:\n- Carbon cycle management: capture, use or storage of carbon dioxide or carbon monoxide from industrial installations, with a target of about 30% less energy per tonne captured than current technologies\n- Clean energy use in production: electrification of processes, decarbonised production, alternative clean energy carriers such as hydrogen or bio-based feedstock, on-site renewable energy storage, and use and upgrading of waste heat\n- Circularity and resource efficiency: a 30% improvement in material, energy and water efficiency by 2035, turning industrial side-streams or waste into new feedstock\nApplicants choose the specific technologies themselves and must justify the choice in technical and business terms. Solutions must have an overall positive life cycle assessment and stay commercially viable under the expected rules at the end of the project.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 37–40 · HORIZON-CID-2027-01-01, Expected Outcome and Scope\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 27–28 · Horizontal call - R&I in Support of the Clean Industrial Deal, introduction"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Projects must speed up the market uptake of industrial decarbonisation technologies and show that the resulting clean products are ready for the market.\nExpected outcomes for every project:\n- Faster use of innovative technologies that decarbonise industrial processes, bringing more cost-effective clean products to market and strengthening the competitiveness, sustainability (including biodiversity) and resilience of EU industry\n- New first-of-a-kind operational demonstrators, or optimisation of newly installed decarbonisation solutions, in Europe\n- Market readiness shown through a credible business plan and industrialisation strategy, including market-tested use cases\nAt call level, proposals are expected to set out a credible pathway to several of these impacts: faster roll-out of decarbonised and clean technology across EU industry, energy and transport; European competitiveness; more European manufacturing capacity and less dependence on imports; more public and private investment in clean energy and industrial decarbonisation technologies, assets, grids and processes; and lower energy prices. The topic sets numeric targets of about 30% lower capture energy for carbon capture and 30% better resource efficiency by 2035.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 38–39 · HORIZON-CID-2027-01-01, Expected Outcome and Scope\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 28–29 · Horizontal call - R&I in Support of the Clean Industrial Deal, expected impacts"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "Best suited to a small, industry-led consortium around an energy-intensive plant operator, with technology suppliers, SMEs and research partners.\n- Lead applicant: the topic sets no restriction, so any organisation that may take part may coordinate; the consortium should be industry driven.\n- Consortium: at least three independent legal entities (organisations not controlled by one another), each in a different country: at least one in an EU Member State and two more in different EU Member States or Associated Countries (non-EU countries that take part in Horizon Europe on near-equal terms). The consortium should be small and manageable, and its size must be justified.\n- Partners: SME participation is encouraged; before the go/no-go point the project must clearly identify the industrial partner or partners that will lead deployment.\n- Excluded: organisations in eligible countries that are directly or indirectly controlled from China, or by an entity established in China, may not take part.\n- Sectors: the topic implements the Processes4Planet and Clean Steel partnerships (EU partnerships with the process industries and the steel sector); the portal's topic questions and answers list the Processes4Planet sectors, including cement, ceramics and chemicals.\nSteel, chemicals, cement, ceramics and other process-industry companies, their technology suppliers, and universities or institutes with process expertise fit the call best.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 37–40 · HORIZON-CID-2027-01-01, Specific conditions and Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 13 · B — Eligibility, Consortium composition\nFunding & Tenders Portal topic page HORIZON-CID-2027-01-01 · Topic Q&As"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": "The project may integrate and optimise existing technologies, but must deliver a first-of-a-kind demonstrator and a market-ready clean product or process.\nProjects must demonstrate an adequate integration of relevant technologies, either directly (for example lower greenhouse gas emissions from a process) or indirectly (for example a new clean product). Using results of earlier EU, national or regional research projects is encouraged. The innovation must lie mainly in technology and process integration, and also in the business model: the business plan and market-readiness strategy (the plan to overcome obstacles to market launch) are mandatory and decisive under the Impact criterion.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 38–40 · HORIZON-CID-2027-01-01, Expected Outcome and Scope\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · p. 29 · Instructions for the Business Plan and the Market-Readiness Strategy"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "Projects are expected to start at TRL 6 and reach TRL 7 to 8 by the end.\nTRL 6 means technology demonstrated in a relevant (industrially relevant) environment; TRL 7 a system prototype demonstrated in an operational environment; TRL 8 a complete and qualified system.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · p. 37 · HORIZON-CID-2027-01-01, Specific conditions, Technology Readiness Level\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 15 · B — Technology readiness levels"
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": "The solution must be demonstrated in a first-of-a-kind operational demonstrator at an industrial site, with a go/no-go decision before building it.\n- Setting: real industrial operation; the expected outcome is new operational demonstrators, or optimisation of newly installed decarbonisation solutions, in Europe.\n- Go/no-go: before the contracting and demonstration phase the project must deliver detailed engineering plans, a techno-economic assessment, all permits needed for the demonstrator, a complete business plan and market-readiness strategy, and name the industrial partner or partners that will lead deployment.\n- Permits: proposals must show a clear and credible pathway to all permits needed for the demonstration.\n- Integration: technologies must be integrated into the industrial process, and proposals may combine the three technology areas within one sector.\n- Coordination: projects are encouraged to work with related projects under HORIZON-CID-2026-01-02 and HORIZON-CID-2027-01-02 (the clean-technology topics of the same call) and the Processes4Planet and Clean Steel partnerships.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 38–40 · HORIZON-CID-2027-01-01, Expected Outcome and Scope"
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "Electrifying energy-intensive plants with on-site storage could create large new, potentially flexible electricity demand at industrial sites on TenneT's grid.\nThis is our interpretation. One of the topic's three areas is clean energy use in production, covering electrification of processes and on-site renewable energy storage. Demonstrators in Dutch industrial clusters could become connection requests for TenneT, and if designed to vary their consumption they could ease congestion and add balancing resources, as TenneT pursues with flexible arrangements such as the time-dependent transmission rights contract with Lion Storage and the regional Energy boards that coordinate industrial connection needs.\nTenneT cannot take part in a meaningful way because the topic funds industry-led process demonstrators and, unlike its sibling topic HORIZON-CID-2027-01-02, sets out no grid-integration work or role for a grid operator.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 38–40 · HORIZON-CID-2027-01-01, Scope"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "EUR 125 million in total for about eight projects, each with an EU contribution of EUR 15–25 million.\n- Grant request: EUR 15–25 million per project is the Commission's estimate; proposals requesting other amounts may still be submitted and selected.\n- Funding form: budget-based grant (actual costs: the grant reimburses the eligible costs actually incurred, at the funding rate).",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 36–37 · HORIZON-CID-2027-01-01, Specific conditions\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · p. 8 · Call - R&I in Support of the Clean Industrial Deal, Overview of this call\nFunding & Tenders Portal topic page HORIZON-CID-2027-01-01 · General information"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "As an Innovation Action, the topic funds up to 70% of eligible costs for companies and up to 100% for non-profit organisations.\n- Companies and other for-profit organisations: up to 70%, so they must finance at least 30% of their costs themselves.\n- Non-profit organisations, such as universities and research institutes: up to 100%.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 31 · G — Legal and financial set-up of the grants, Funding rates"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Costs are reimbursed under the standard Horizon Europe actual-cost rules, with a 25% flat rate for indirect costs.\n- Eligible costs: personnel, subcontracting and purchase costs as actually incurred, or as unit costs where allowed.\n- Overheads: indirect costs are covered by a flat rate of 25% of eligible direct costs, excluding subcontracting and financial support to third parties.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 32 · G — Budget categories and cost eligibility rules"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One submission stage, through the Funding & Tenders Portal electronic submission system.\n- Stage 1 — Full proposal: 15 September 2027, 17:00 Brussels time; the call opens on 12 January 2027. Any eligible consortium may apply.\n- Additional procedure: the responsible Director-General may open the call up to one month earlier or later than planned and may delay the deadline by up to two months.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · p. 7 · Call - R&I in Support of the Clean Industrial Deal, Overview of this call\nFunding & Tenders Portal topic page HORIZON-CID-2027-01-01 · General information"
+        },
+        {
+          "title": "Project window",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Applicants hear the result about five months after the deadline and sign the grant about eight months after it.\n- Expected assessment result: around February 2028 (about 5 months after 15 September 2027), indicative.\n- Grant agreement: around May 2028 (about 8 months after the deadline), indicative.\n- Conditions before starting: each participant must have its organisation validated by the Central Validation Service and confirm a declaration of honour before the grant is signed.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 30 · F — Indicative timetable for evaluation and grant agreement\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 5, 27 · A and E — Registration and Documents"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "The proposal must be complete on the submission-system forms and include a business plan and market-readiness strategy, within a 60-page Part B.\n- Application form: the forms in the Funding & Tenders Portal submission system; Part B (the technical description) is exceptionally extended to a maximum of 60 pages to fit the business plan and market-readiness strategy.\n- Mandatory annexes: the business plan and market-readiness strategy are mandatory for all proposals as part of the dissemination and exploitation plan; the market-readiness strategy must include a comprehensive risk assessment.\n- Registration: every beneficiary must register in the Participant Register to obtain a PIC (participant identification code) before submitting.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · p. 37 · HORIZON-CID-2027-01-01, Admissibility conditions\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · p. 29 · Instructions for the Business Plan and the Market-Readiness Strategy\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 5 · B — Registration"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Proposals are scored on Excellence, Impact and Quality and efficiency of implementation, with Impact weighted 1.5, and at least one project is funded per technology area.\n- Evaluation criteria: the standard Excellence, Impact, and Quality and efficiency of implementation; the business plan and market-readiness strategy are decisive factors under Impact.\n- Thresholds: at least 3 out of 5 on each criterion and at least 10 out of 15 overall.\n- Weighting: the Impact score counts 1.5 times when ranking Innovation Actions.\n- Ranking rules: besides ranking order, grants go to at least the highest-ranked proposal in each of the three technology areas, by the main area the proposal selects, provided it passes all thresholds.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 26 · D — Scores and weighting\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · p. 37 · HORIZON-CID-2027-01-01, Procedure\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · p. 29 · Instructions for the Business Plan and the Market-Readiness Strategy"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Satellite data must come from EU systems if used, the Commission can block transfers of results for four years, and China-controlled organisations are excluded.\n- Conditional — use of satellite data: projects using satellite Earth observation, positioning, navigation or timing data must use Copernicus and/or Galileo/EGNOS (the EU's satellite programmes).\n- Conditional — transfer of results: up to 4 years after the project ends, the granting authority may object to a transfer of ownership or exclusive licensing of results.\n- Exception — China-controlled organisations: organisations controlled directly or indirectly from China may not take part.\n- Conditional — after selection: the business plan and market-readiness strategy will be further developed and updated during the project through a yearly deliverable and a final report.\n- Recommended: SME participation, reuse of results of earlier EU, national or regional research projects, and coordination with related projects and partnerships are encouraged.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 37–38 · HORIZON-CID-2027-01-01, Eligibility conditions and Legal and financial set-up\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · p. 29 · Instructions for the Business Plan and the Market-Readiness Strategy"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "20261118-001322-05",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-CID-2027-01-01 R&I in Support of the Clean Industrial Deal: Decarbonisation of energy intensive industries (IA) (Processes4Planet and Clean Steel partnerships) – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "R&I in Support of the Clean Industrial Deal (HORIZON-CID-2027-01)",
+  "call_module_title": "HORIZON-CID-2027-01-01 R&I in Support of the Clean Industrial Deal: Decarbonisation of energy intensive industries (IA) (Processes4Planet and Clean Steel partnerships)",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CID-2027-01-01",
+  "executive_summary": "A Horizon Europe Innovation Action under the Processes4Planet and Clean Steel partnerships that funds first-of-a-kind demonstrators decarbonising energy-intensive industries in one main area: carbon capture, use or storage; clean energy use in production (process electrification, clean energy carriers, on-site renewable energy storage, waste heat); or circularity and resource efficiency. Consortia should be industry driven and small, under the standard Horizon Europe rules, excluding entities controlled from China; projects start at TRL 6 and reach TRL 7 to 8, with a go/no-go moment before the demonstration phase. The topic budget is EUR 125 million, EUR 15–25 million per project for about eight projects. The call opens on 12 January 2027 and the single-stage deadline is 15 September 2027, 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-09-15",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "The Horizontal Activities Work Programme 2026-2027 (Part 14), pp. 36–40, Specific conditions, Expected Outcome and Scope, funds industry-driven demonstrators that decarbonise energy-intensive production, including process electrification and on-site energy storage. This touches TenneT's field through large new electrified and potentially flexible industrial loads, as in the Time-dependent transmission rights contract (Lion Storage), the CERRE study on flexibility and data centres and the Energy boards, but unlike its sibling topic HORIZON-CID-2027-01-02 the scope includes no grid-integration work or role for a grid operator, so it does not establish a route for TenneT: Type 3. C3.3 fits because electrified, flexible industrial demand and on-site storage could ease congestion and add balancing resources.",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T5",
+      "T9",
+      "T10"
+    ],
+    "role": [],
+    "activity": [
+      "A4",
+      "A7"
+    ],
+    "outcome": [
+      "O5",
+      "O10"
+    ]
+  }
+}

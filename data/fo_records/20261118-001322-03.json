@@ -1,0 +1,39 @@
+{
+  "id": "20261118-001322-03",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-CL5-2027-02-D3-30 Advancements in Direct Air Capture – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "BATTERIES and ENERGY (HORIZON-CL5-2027-02)",
+  "call_module_title": "HORIZON-CL5-2027-02-D3-30 Advancements in Direct Air Capture",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-02-D3-30",
+  "executive_summary": "A Horizon Europe Innovation Action, funded as a lump sum, that funds scaling up Direct Air Capture (DAC, capturing CO2 directly from the air) to pilot demonstration in relevant environments (TRL 7), improving capture cost, materials and process design, manufacturing potential and flexible operation under intermittent or surplus renewable energy supply, with a full life cycle assessment. Any legal entity eligible under the standard Horizon Europe rules may take part, except entities controlled from China. The topic budget is EUR 16 million, around EUR 8 million per project for about two projects. The call opens on 3 December 2026 and the single-stage deadline is 31 March 2027, 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-03-31",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "The Climate, Energy and Mobility Work Programme 2026-2027 (Part 8), pp. 183–185, Specific conditions, Expected Outcome and Scope, funds pilot demonstration of Direct Air Capture plants, including flexible operation under intermittent or surplus renewable energy supply. This touches TenneT's field only through that flexible electricity demand, loosely like the Time-dependent transmission rights contract (Lion Storage) and the CERRE study on flexibility and data centres, which also treat large loads as flexibility; the topic itself concerns capture technology, not the grid. The scope sets out no work or role for a grid operator, so it does not establish a route for TenneT: Type 3. C3.3 fits because flexible DAC plants could, in our interpretation, add flexible demand that eases congestion.",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T5",
+      "T9"
+    ],
+    "role": [],
+    "activity": [
+      "A5",
+      "A7"
+    ],
+    "outcome": [
+      "O5",
+      "O10"
+    ]
+  }
+}
