@@ -1,0 +1,43 @@
+{
+  "id": "20261117-122441-01",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "DIGITAL-ECCC-2027-DEPLOY-CYBER-11-DUALUSE Dual-use technologies – Digital Europe Programme",
+  "organization_or_parent_framework": "European Cybersecurity Competence Centre (ECCC)",
+  "programme": "Digital Europe Programme",
+  "call_title": "Strengthening European Cybersecurity Technologies, Capacities and Preparedness (DIGITAL-ECCC-2027-DEPLOY-CYBER-11)",
+  "call_module_title": "DIGITAL-ECCC-2027-DEPLOY-CYBER-11-DUALUSE Dual-use technologies",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-ECCC-2027-DEPLOY-CYBER-11-DUALUSE",
+  "executive_summary": "Funds civil-defence cooperation on dual-use cybersecurity: working prototypes, ready-to-market products and operational infrastructures in areas such as quantum-safe cryptography, Zero Trust architectures, AI-driven threat detection, cyber ranges and digital twins, and SOAR platforms, demonstrated and deployed for uses such as protecting critical infrastructure, including energy grids and undersea infrastructure. Any public or private legal entity established in and controlled from an EU or EEA country may apply, alone or in a consortium. Simple Grants at a 50% funding rate; EU contribution expected at EUR 3–5 million per project, EUR 10 million for about 3 projects; indicative duration 36 months. Opened 1 September 2026; single-stage deadline 14 January 2027, 17:00 CET.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-01-14",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": 6000000,
+  "maximum_project_size": 10000000,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "The call document (DEP 11, pp. 42-46, DUALUSE Objectives and Scope) funds dual-use cybersecurity prototypes, products and infrastructures, and names deployment of AI-driven tools to secure critical infrastructures such as energy grids and undersea infrastructure, cyber ranges with digital twins, and countering cable sabotage. This touches TenneT's protection of its grid and offshore cables, close to TwinEU (grid resilience and cybersecurity) and to the digital twin work of the Digital Twin Programme and NFDTES, which differ by not addressing defence use. Targeted stakeholders include industrial players (p. 45) and section 6 (pp. 48-50) admits any EU or EEA legal entity as a beneficiary with no consortium minimum, so TenneT TSO B.V. could be a funded partner at the 50% rate, for example as the critical-infrastructure operator where tools are demonstrated. A funded partner role fits C1.3.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T8",
+      "T1"
+    ],
+    "role": [
+      "R2",
+      "R9"
+    ],
+    "activity": [
+      "A5",
+      "A6",
+      "A7"
+    ],
+    "outcome": [
+      "O2",
+      "O9"
+    ]
+  }
+}
