@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "Test or demonstrate a new way to keep materials in use and reduce emissions. The project must address resource efficiency, secondary materials, waste prevention or treatment, reuse, recycling or circular product design. A pilot develops a solution that still has technical uncertainties; a demonstration involves an end user investing in an innovative practical application. A proposed TenneT project must centre on this circular-material improvement.",
+          "sources": "Handleiding DEI+ · pp. 6, 16–17 · Soorten projecten; Circulaire economie algemeen"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Five circular-material routes qualify, with different limits for pilots and demonstrations.\n- Reduce raw materials for the same production capacity, or replace primary materials with reused or recycled materials.\n- Prevent waste or prepare, clean and recycle waste from the applicant or third parties.\n- Collect, sort, clean or treat products and materials that would otherwise be unused or used less efficiently.\n- Collect and sort waste separately for reuse or recycling.\n- Develop products suitable for repair, reuse and recycling at the end of their technical life.\nFuel substitution, carbon-dioxide reuse and projects belonging to the separate biopolyester subthemes are excluded. Circular design is a pilot route. Demonstrations must fit the investment rules for resource efficiency and recycling; producing energy from waste is excluded.",
+          "sources": "Handleiding DEI+ · pp. 16–17, 66–67 · Circulaire economie algemeen; Artikel 47 AGVV"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The proposal must solve inefficient material use or waste handling and show why an innovative solution needs support. The circular-material improvement must deliver credible emissions savings within ten years of project start. For a project performed in the Netherlands, savings in overseas extraction or materials production may count through a quantified global footprint comparison. For TenneT, an interpretation would be a defined waste or material-use problem in equipment manufacture, reuse or end-of-life handling, backed by evidence rather than a general sustainability ambition.",
+          "sources": "Handleiding DEI+ · pp. 5, 16–17, 47–49 · Waar krijgt u subsidie voor?; Circulaire economie algemeen; Toelichting afwijzingsgronden\nStaatscourant 2026, 19339 · Artikel I, onderdeel B"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "Deliver a tested circular solution and documented evidence of its technical performance, emissions effect and prospects for use. Pilots require a systematic test programme with questions, parameters, recorded results and a feedback loop for further development. Demonstrations must show the installation working within the funded period. Annual reporting, where the project exceeds twelve months, and final public and confidential reporting document results and lessons. TenneT should therefore budget for evidence collection as well as the physical trial.",
+          "sources": "Handleiding DEI+ · pp. 6, 44–45, 58 · Soorten projecten; Verplichtingen; Pilotprojecten\nDEI+: Aanvragen · U stuurt ons uw voortgangsrapportage"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Achieve cost-effective emissions reduction through better material use, with credible potential for wider adoption. The circular-material project must reduce emissions within ten years of its start. The 2026 amendment permits worldwide savings in raw-material extraction and production for projects performed in the Netherlands. The proposal must compare its footprint with a credible less environmentally friendly alternative. Assessment considers the project effect and realistic replication potential within five years of implementation; it sets no common numerical emissions target for every project.",
+          "sources": "Handleiding DEI+ · pp. 5, 47–48 · Waar krijgt u subsidie voor?; Toelichting afwijzingsgronden\nStaatscourant 2026, 19339 · Artikel I, onderdeel B; Toelichting §2.1"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "Show credible scaling or replication and explain who could use the result after a successful trial. The proposal must set out follow-on development and market introduction, with steps within five years after completion, and address non-technical barriers such as space, environmental effects, acceptance and required skills. Demonstration installations must remain in use after the project. A knowledge-sharing plan must identify results, lessons, audiences and channels during and after the project. Circular-design pilots must substantiate that parties can repair, reuse or recycle the product at end of life. TenneT could help establish operational acceptance criteria and a credible subsequent-use route.",
+          "sources": "Handleiding DEI+ · pp. 6, 43, 48–50 · Soorten projecten; Onderdelen van de subsidieaanvraag; Toelichting afwijzingsgronden"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "One enterprise may apply alone; a consortium is also permitted. A consortium must contain at least one enterprise. Neither the eligibility section nor the call page imposes a maximum number, so a TenneT proposal need not create an international consortium merely to qualify.",
+          "sources": "Handleiding DEI+ · p. 30 · Voorwaarden"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "An enterprise must participate, while universities and research institutes are optional. The project takes place in the Netherlands, including Bonaire, Sint Eustatius or Saba. Research organisations can join, but their role cannot dominate costs. Provinces and municipalities may participate without receiving a grant. Foreign enterprises need a Dutch permanent establishment or subsidiary, and all partners’ activities must benefit the Dutch economy. TenneT could join a materials developer or recycler without a mandatory university partner.",
+          "sources": "Handleiding DEI+ · pp. 30–31, 40 · Voorwaarden; Afwijzingsgronden; Ben ik een onderzoeksorganisatie?\nVeelgestelde vragen energie-innovatieregelingen · Mag een buitenlandse deelnemer meedoen? En kan die subsidie krijgen?; Moet een kennisinstelling/onderzoeksorganisatie meedoen aan het project?"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "Partners must perform substantive work at their own cost and risk, and research organisations must not carry most project costs. Each entity budgets the costs it actually incurs. A demonstration applicant must invest in and own the installation; a developer can join where it still carries out experimental development. When a research organisation participates, a signed agreement before project start must allocate costs, risks, results and intellectual-property rights without passing an indirect subsidy advantage to companies.",
+          "sources": "Handleiding DEI+ · pp. 6, 30–31, 35, 39–40 · Soorten projecten; Voorwaarden; Afwijzingsgronden; Projectkosten; Samenwerkingsovereenkomst"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "The applicant may be an individual enterprise or a participant authorised by the other consortium members. For a consortium, one participant submits the application as lead and handles correspondence. Every participant must sign its own authorisation. An intermediary submitting for that lead requires a separate mandate. TenneT could undertake this role if it is an eligible participant carrying out the circular-material project.",
+          "sources": "Handleiding DEI+ · p. 30 · Voorwaarden\nDEI+: Aanvragen · Zorg voor de juiste machtigingen"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "Yes, TenneT could apply alone or lead an eligible circular-material consortium. The enterprise route has no small-company restriction. TenneT must carry out substantive project activities at its own risk, show financing for its contribution, and meet the innovation and emissions requirements. A demonstration applicant must invest in and own the relevant installation. Ordinary regulated transmission infrastructure does not become eligible simply because it uses recycled materials; the proposal needs a qualifying circular-material pilot or investment.",
+          "sources": "Handleiding DEI+ · pp. 6, 30–31, 66–68, 83 · Soorten projecten; Voorwaarden; Afwijzingsgronden; Artikel 47 AGVV; Artikel 56 AGVV; Energie-infrastructuur"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes, the rules allow a contribution through work, cash or provision of equipment. The official frequently asked questions distinguish participants acting at their own cost and risk from paid subcontractors. The guidance also explicitly permits a company that cannot claim funding because it is in financial difficulty to work without requesting subsidy, while eligible partners apply. For TenneT, an unfunded role must still contribute to an eligible circular-material project and be reflected in the collaboration and financing arrangements.",
+          "sources": "Handleiding DEI+ · p. 79 · De aanvrager is een OIM volgens de AGVV, wat nu?\nVeelgestelde vragen energie-innovatieregelingen · Wanneer ben ik een deelnemer in een project?"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Yes, at large-enterprise rates for eligible circular-material work, subject to the project conditions and remaining budget.\n- Pilot: at most 25% of eligible experimental-development costs, meaning work that develops and tests a technically uncertain solution. TenneT finances at least 75%, plus excluded costs.\n- Circular-economy demonstration: at most 40% of eligible additional investment costs against a credible less environmentally friendly alternative. TenneT finances at least 60% of that eligible amount, the reference investment and excluded costs.\nThe call caps grants at EUR 25 million for a pilot and EUR 30 million for a demonstration. The 40% rate generally applies to additional investment costs, not the entire asset cost. RVO warns that requests already exceed the shared budget.",
+          "sources": "Handleiding DEI+ · pp. 33–38, 71–72 · Subsidiebudget en maximale subsidie; Subsidiepercentages; Projectkosten; Financiering eigen aandeel; Artikel 47 AGVV\nDEI+: Circulaire economie en grootschalige biobased projecten · Budget en aanvraagperiode"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT could define a grid-material problem, provide representative equipment and validate whether a circular solution is usable in practice. This is an interpretation of the call’s materials scope and testing requirements. A credible proposal could compare reuse or recycling routes for a defined equipment stream, document performance and environmental savings, and identify who would use the result. Renewables Grid Initiative provides an environmental connection; the corrosion-protection project illustrates TenneT’s interest in conserving infrastructure materials. Neither establishes eligibility by itself. TenneT would need a technically innovative circular process or product, an eligible Dutch trial, and a credible adoption and financing plan.",
+          "sources": "Handleiding DEI+ · pp. 6, 16–17, 30–31, 47–49 · Soorten projecten; Circulaire economie algemeen; Voorwaarden; Toelichting afwijzingsgronden"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "Pilots must advance the international state of the art; demonstrations must be new for the Netherlands and carry technical and economic risk. Marginal improvements to established technology fail the innovation test. A pilot must be creative, uncertain, systematic and transferable, with technical questions that existing methods cannot readily resolve. A demonstration may apply an existing technology in a substantially new Dutch application, but routine equipment replacement is insufficient.",
+          "sources": "Handleiding DEI+ · pp. 6, 48–49, 58 · Soorten projecten; Mate van nieuwheid; Pilotprojecten"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Innovate in a circular product, process, technique or substantive new application. The theme includes resource-efficient processing, recovery and recycling methods, and product design for repair and reuse. A proposal centred on a new organisational arrangement without a qualifying technical innovation would not meet the stated scope. Software can qualify in a pilot where it controls an innovative physical process, or where it has technical uncertainty and demonstrably enables recycling, reuse, renewable generation or energy savings.",
+          "sources": "Handleiding DEI+ · pp. 16–17, 49, 58 · Circulaire economie algemeen; Mate van nieuwheid; Pilotprojecten"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Choose a pilot or a demonstration according to the work and investment involved. A pilot develops and improves a technically uncertain solution through representative testing. A demonstration applies innovative equipment through an investing end user and proves it operates during the project. A single application cannot combine a pilot and demonstration as two project types, although limited experimental test work can accompany a demonstration. Standalone test-infrastructure construction belongs to the separate hydrogen theme.",
+          "sources": "Handleiding DEI+ · pp. 6–7, 37 · Soorten projecten; Demonstratieprojecten met experimentele ontwikkeling en randvoorwaardelijke innovaties"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "The required maturity is defined by project type rather than a numerical technology-readiness level. Pilots must still face substantive technical uncertainty and use representative tests to improve the solution. Demonstrations must be ready for practical investment and operation by an end user, while retaining sufficient novelty and technical and economic risk. TenneT should select the route from the planned work and evidence, rather than assign an unsupported numerical maturity target.",
+          "sources": "Handleiding DEI+ · pp. 6, 49, 57–58 · Soorten projecten; Mate van nieuwheid; Pilotprojecten"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "Pilots require a setting representative of real operating conditions; demonstrations require a practical installation operated by an end user. Pilot tests must have a systematic design and feed results back into technical improvement. A demonstration must show the installation working during the project and keep it in use afterwards. The circular project is performed in the Netherlands; permitted overseas footprint savings do not remove that location condition.",
+          "sources": "Handleiding DEI+ · pp. 5–6, 58 · Waar krijgt u subsidie voor?; Soorten projecten; Pilotprojecten\nStaatscourant 2026, 19339 · Toelichting §2.1"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The activities must form a coherent circular-material pilot or demonstration with a credible execution plan. Pilots need connected technical questions, tests and feedback; demonstrations must link the investment to an operating application and its environmental effect. The proposal must explain work per participant, resources, risks and decision points. There is no requirement here to build an integrated energy system, so any TenneT connection must serve the circular-material objective.",
+          "sources": "Handleiding DEI+ · pp. 6, 47–48, 58 · Soorten projecten; Kwaliteit van het project; Pilotprojecten"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "Substantiate technical performance, emissions savings, feasibility and prospects for adoption against a credible alternative. Pilots need measured test parameters and documented results; demonstrations need proof of operation. For global material-chain savings, calculate the footprint of project materials or products against the prevailing less environmentally friendly alternative. The application requires an emissions calculation, supported technical claims, financial evidence and a business case. Use the prescribed electricity emissions factor of 0.14 kg of carbon dioxide per kilowatt-hour where applicable.",
+          "sources": "Handleiding DEI+ · pp. 6, 42–43, 47–49 · Soorten projecten; Onderdelen van de subsidieaanvraag; Toelichting afwijzingsgronden\nStaatscourant 2026, 19339 · Artikel I, onderdeel B\nDEI+: Aanvragen · Verzamel de bijlagen bij uw aanvraag"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "Demonstrations require an investing end user; all proposals must show credible demand and subsequent application. The end user owns the demonstration equipment and must keep it operating after the project. Assessment considers both the developer’s and user’s business case, and the implementation steps and non-technical needs of relevant market actors. TenneT could fulfil an end-user role only where the proposed investment itself qualifies under the circular-material conditions.",
+          "sources": "Handleiding DEI+ · pp. 6, 48 · Soorten projecten; Slaagkans in de Nederlandse markt en maatschappij"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "Grants are capped by project type and share a budget already oversubscribed in requested funding.\n- Grant request: up to EUR 25 million per pilot or EUR 30 million per demonstration.\n- Funding form: a cost-based subsidy, settled against actual eligible costs rather than a fixed payment for outputs.\n- Call budget: EUR 60 million shared with the separate large biopolyester subtheme. RVO still accepts applications but warns that funding may be unavailable.",
+          "sources": "Handleiding DEI+ · pp. 33, 45 · Subsidiebudget en maximale subsidie; Verplichtingen\nDEI+: Circulaire economie en grootschalige biobased projecten · Budget en aanvraagperiode"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "Rates depend on the applicant and whether the work is a pilot or circular-economy demonstration.\n- Large enterprise: pilot 25%, own contribution at least 75%; demonstration 40%, own contribution at least 60% of eligible additional investment costs.\n- Medium enterprise: pilot 35%, own contribution at least 65%; demonstration 50%, own contribution at least 50% of eligible additional investment costs.\n- Small enterprise: pilot 45%, own contribution at least 55%; demonstration 60%, own contribution at least 40% of eligible additional investment costs.\n- Research organisation: 80% for non-economic pilot work, meaning independent research rather than commercial contract work; its own contribution is at least 20%.\n- Co-financing conditions: each applicant must finance its remaining eligible and excluded costs; other public support can reduce the award under subsidy-combination rules.\n- Evidence required: recent financial statements and documented financing commitments, with a project-specific guarantee where relying on an affiliated company’s resources. Expected future project income is not accepted as financing.",
+          "sources": "Handleiding DEI+ · pp. 33–34, 37–40, 52–56 · Subsidiepercentages; Financiering eigen aandeel; Samenloop van DEI+ subsidie met andere publieke bijdragen"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Pilot costs and demonstration investments use different eligible-cost calculations.\n- Eligible costs: pilot personnel, project equipment depreciation, consumed materials and directly related subcontracting; demonstrations generally the additional investment against a credible reference.\n- Caps or mandatory allocations: a research organisation must not carry most project costs. Grants of EUR 2 million or more require a milestone budget.\n- Excluded costs: contingency as a separate line, financing, audit statements, administrative project management and dissemination of completed results. Direct technical project-management work may qualify.\n- Overheads and VAT: the salary-plus method includes a 50% salary overhead; alternatively the fixed rate is EUR 80 per hour including overhead, or an accepted full-cost method. Recoverable value-added tax is excluded.\n- Subcontracting or equipment: equipment is generally depreciated over project use for pilots; demonstrations require capitalised investment. Under the circular investment rules, full investment costs are possible only for the stated no-equivalent add-on or demonstrable no-investment-without-support exceptions.",
+          "sources": "Handleiding DEI+ · pp. 31, 35–37, 44, 71–72 · Afwijzingsgronden; Projectkosten; Voorschotten; Artikel 47 AGVV\nVeelgestelde vragen energie-innovatieregelingen · Welke kosten voor projectmanagement komen in aanmerking voor subsidie?"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "Applicants must cover their own contribution and carry costs until scheduled advances and final settlement.\n- Payment model: first advance normally within two weeks after award or the later project start, followed by quarterly advances. Milestone-based budgeting is compulsory for grants of EUR 2 million or more.\n- Retention or guarantee: 90% is advanced; the final 10% follows completion and settlement. A project-specific group guarantee is required when affiliated-company accounts support the financing plan.\n- Financial reporting or audit: maintain project accounts, report progress annually where the project exceeds twelve months, and request settlement within thirteen weeks after completion. Grants of EUR 125,000 or more require an accountant’s audit statement. Final subsidy cannot exceed the original award.",
+          "sources": "Handleiding DEI+ · pp. 38, 44–45 · Financiering eigen aandeel; Voorschotten; Verplichtingen\nDEI+: Aanvragen · U stuurt ons uw voortgangsrapportage; U vraagt vaststelling aan"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One mandatory full application goes through RVO’s electronic portal; project-idea advice is optional.\n- Full application: 16 June 2026, 09:00, to 17 December 2026, 17:00; submit a complete application and required annexes. The page states no time zone.\n- Additional procedure: the optional project-idea form should reach RVO by 26 November for advice before closing. The portal requires eHerkenning level 3, the Dutch organisational login service, with the required RVO authorisation. Completeness determines queue position; missing material cannot be added after closing.",
+          "sources": "Handleiding DEI+ · p. 41 · De aanvraagprocedure in vijf stappen\nDEI+: Circulaire economie en grootschalige biobased projecten · Toets uw projectidee; Aanvragen\nDEI+: Aanvragen · Log in met eHerkenning"
+        },
+        {
+          "title": "Project window",
+          "answer": "Projects last at most four years and cannot start before the application is submitted.\n- Maximum duration: 48 months.\n- Required start: within six months after the award letter. A research-partner agreement must be signed before activities start.\n- Eligible-cost period: necessary costs incurred and paid after submission within the approved project; binding equipment orders and other irreversible commitments before submission breach the incentive requirement. Preparatory feasibility work and permits are distinguished from project start.",
+          "sources": "Handleiding DEI+ · pp. 30, 39–40, 86 · Voorwaarden; Samenwerkingsovereenkomst; Benodigde vergunningen; Projectkosten"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "RVO normally decides within eight weeks of receiving a complete application, with a possible eight-week extension.\n- Funding decision: eight weeks from completeness, extendable once by eight weeks; no fixed calendar decision date is promised on the current application page.\n- Conditions before starting: submit before commencing irreversible work or commitments, and sign the required agreement before starting if a research organisation participates. The award letter sets the amount, payment and obligations.",
+          "sources": "DEI+: Aanvragen · Wij beoordelen uw aanvraag; U ontvangt onze beslissing\nHandleiding DEI+ · pp. 30, 39–41 · Voorwaarden; Samenwerkingsovereenkomst; De aanvraagprocedure in vijf stappen"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "Submit the electronic form with the call’s project, budget, emissions and financial evidence.\n- Application form: RVO electronic portal, digitally signed through eHerkenning level 3, the Dutch organisational login service.\n- Budget: the prescribed spreadsheet with relevant cost, financing and milestone worksheets.\n- Mandatory annexes: model project plan, emissions calculation, financing plan, knowledge-sharing plan, and an operating calculation for demonstrations or pilots whose installation remains in use.\n- Partner documents: signed participation and lead mandates; intermediary mandate where used; declaration that the enterprise is not in financial difficulty, decision tree, recent financial statements and legal group chart.\n- Conditional — circular-design pilot: substantiate parties’ ability to repair, reuse or recycle the product at end of life.\n- Registration: obtain the portal login and RVO authorisation before submission; the application page advises allowing about two weeks.",
+          "sources": "Handleiding DEI+ · pp. 42–43 · Onderdelen van de subsidieaanvraag\nDEI+: Aanvragen · Verzamel de bijlagen bij uw aanvraag; Zorg voor de juiste machtigingen; Log in met eHerkenning"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Complete eligible applications are considered in arrival order, rather than through a published competitive points ranking.\n- Evaluation criteria: contribution to emissions reduction, project quality, Dutch market and societal prospects, novelty, technical and economic feasibility, financing, partner capability and knowledge dissemination.\n- Ranking rules: the date of completeness determines the queue; awards depend on remaining budget.\n- Budget assessment: RVO checks credible own financing, proportionality between costs and impact, and eligible reference investment. A research organisation carrying most costs is a rejection ground. RVO warns that requested funding already exceeds the budget.",
+          "sources": "Handleiding DEI+ · pp. 31, 47–50 · Beoordeling; Afwijzingsgronden; Toelichting afwijzingsgronden\nDEI+: Circulaire economie en grootschalige biobased projecten · Budget en aanvraagperiode"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Research participation, circular design and other public support create additional obligations.\n- Conditional — research partner: sign and provide the collaboration agreement before project start, covering costs, risks, results and intellectual-property rights. Missing agreements can cause refusal, suspended advances or recovery.\n- Conditional — circular-design pilot: identify a credible repair, reuse or recycling route at product end of life.\n- Conditional — overseas emissions savings: perform the project in the Netherlands and calculate a global material footprint against the prevailing alternative.\n- Conditional — other public support: disclose it so RVO can apply the relevant deduction or maximum-support rules.\n- Recommended: seek project-idea advice early and submit at least two weeks before closing, while recognising that only timely completeness secures a queue position.",
+          "sources": "Handleiding DEI+ · pp. 39–43, 52–56 · Samenwerkingsovereenkomst; De aanvraagprocedure in vijf stappen; Onderdelen van de subsidieaanvraag; Samenloop van DEI+ subsidie met andere publieke bijdragen\nStaatscourant 2026, 19339 · Artikel I, onderdeel B"
+        }
+      ]
+    }
+  ]
+}
