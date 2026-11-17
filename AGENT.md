@@ -9,7 +9,7 @@ In a run, your job is to find the new funding opportunities (FOs) at that source
 | # | Task | Input | Output |
 | --- | --- | --- | --- |
 | 1 | Known Calls | The source name | The known-calls list (may be empty) |
-| 2 | Discovery | The source name, the known-calls list, the source file, the priority projects | One identification note per new candidate, 1 to 3 in all |
+| 2 | Discovery | The source name, the known-calls list, the source file, the priority projects | One identification note per new candidate, 1 to 5 in all |
 | 3 | No Duplicate | The identification notes, the files in `data/fo_records/` | `new` or `duplicate` per candidate, with a one-sentence reason |
 | 4 | Assessment and report | The note of each new candidate, the call documents, the project files, the taxonomy, the call types, the report templates | One `data/fo_records/<id>.json` per new candidate, passed by the gate, and one `data/fo_reports/<id>.json` per new candidate of Type 1, Type 2 or Type 3 |
 
@@ -162,7 +162,7 @@ call_year: 2026
 
 11. Before reading a call in depth, compare it with the known-calls list. If you judge that it is a call already on the list, skip it and move on. There is no fixed match rule: decide from all the fields in the list (title, module, year, programme) whether it is the same call. A new year of a call, or a different module, is a different call. Do not report skipped calls; they do not count towards the limit in rule 13.
 12. Each module of a call that the call explicitly sets up with its own conditions is a separate candidate with its own note.
-13. Stop the search once you have one new candidate, or one group of related new candidates (such as the modules of one call or the calls of one programme round): at least 1 and at most 3 new candidates. When the priority searches find new candidates, those are the run's candidates. Calls you leave are found in later runs. Also stop when `completion_rules` say the search of this source is done.
+13. **Cap: at most 5 new candidates per run.** Keep searching until you have 5 new candidates, then stop, even if more calls remain. Also stop when `completion_rules` say the search of this source is done, or when you have gone through the whole scope; a run may then have fewer than 5. Keep related candidates (such as the modules of one call or the calls of one programme round) together and in the order the call lists them; if a group would take you past 5, take only as many as fit. When the priority searches find new candidates, those are the run's candidates. Calls you leave are found in later runs.
 
 ## Task 3: No Duplicate
 
