@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState, type MouseEvent } from "react";
+import { useEffect, useLayoutEffect, useMemo, useRef, useState, type MouseEvent, type RefObject } from "react";
 import {
   ArrowLeft,
   CalendarRange,
@@ -371,10 +371,10 @@ function ReportSectionView({
       </h2>
       <div id={panelId} className="collapsible" data-open={open} inert={!open}>
         <div>
-          <div className={compact ? "grid gap-5 pt-3 pb-6" : "question-card-container pt-3 pb-6"}>
+          <div className={compact ? "grid gap-3 pt-3 pb-6" : "question-card-container pt-3 pb-3"}>
             <div className={compact ? "contents" : "question-card-grid"}>
               {section.cards.map((card) => (
-                <ReportCardView key={card.id} card={card} palette={palette} />
+                <ReportCardView key={card.id} card={card} palette={palette} packed={!compact} />
               ))}
             </div>
           </div>
@@ -384,9 +384,37 @@ function ReportSectionView({
   );
 }
 
+/**
+ * Lets a card in `.question-card-grid` span as many of the grid's small rows as its
+ * height needs, plus one gap, so the cards pack together like a masonry wall.
+ */
+function useMasonrySpan(ref: RefObject<HTMLElement | null>, enabled: boolean) {
+  useLayoutEffect(() => {
+    const element = ref.current;
+    const grid = element?.parentElement;
+    if (!enabled || !element || !grid) return;
+    const update = () => {
+      const style = getComputedStyle(grid);
+      const row = Number.parseFloat(style.gridAutoRows);
+      const gap = Number.parseFloat(style.columnGap) || 0;
+      element.style.gridRowEnd =
+        row > 0 ? `span ${Math.max(1, Math.ceil((element.offsetHeight + gap) / row))}` : "";
+    };
+    update();
+    const observer = new ResizeObserver(update);
+    observer.observe(element);
+    return () => {
+      observer.disconnect();
+      element.style.gridRowEnd = "";
+    };
+  }, [ref, enabled]);
+}
+
 /** One surface: what the card is about, the question, the answer, and its sources. */
-function ReportCardView({ card, palette }: { card: VisibleCard; palette: Palette }) {
+function ReportCardView({ card, palette, packed }: { card: VisibleCard; palette: Palette; packed: boolean }) {
   const [copyStatus, setCopyStatus] = useState<"idle" | "copied" | "failed">("idle");
+  const surface = useRef<HTMLDivElement>(null);
+  useMasonrySpan(surface, packed);
 
   async function copyCard() {
     const text = [card.title, card.question, card.answer, card.sources].filter(Boolean).join("\n\n");
@@ -400,7 +428,7 @@ function ReportCardView({ card, palette }: { card: VisibleCard; palette: Palette
   }
 
   return (
-    <div className={`relative flex min-w-0 flex-col rounded-xl border px-4 py-3 ${palette.card}`}>
+    <div ref={surface} className={`relative flex min-w-0 flex-col rounded-xl border px-4 py-3 ${palette.card}`}>
       <button
         type="button"
         onClick={copyCard}

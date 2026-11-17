@@ -217,18 +217,27 @@ export default function App() {
               Innovation Funding Desk
             </span>
           </a>
-          {canUseFullscreen && (
-            <button
-              type="button"
-              aria-label={isFullscreen ? "Exit full screen" : "Enter full screen"}
-              title={isFullscreen ? "Exit full screen" : "Full screen"}
-              aria-pressed={isFullscreen}
-              onClick={toggleFullscreen}
-              className={`${iconControlClassName} ml-auto text-[#58636d] hover:bg-[#e7f2fb] hover:text-[#27313a]`}
-            >
-              {isFullscreen ? <Minimize2 className="size-4" /> : <Maximize2 className="size-4" />}
-            </button>
-          )}
+          <div className="ml-auto flex shrink-0 items-center gap-2 sm:gap-3">
+            <img
+              src="/tennet-logo.webp"
+              alt="TenneT"
+              width={1280}
+              height={242}
+              className="h-[1.125rem] w-auto object-contain sm:h-[1.5rem]"
+            />
+            {canUseFullscreen && (
+              <button
+                type="button"
+                aria-label={isFullscreen ? "Exit full screen" : "Enter full screen"}
+                title={isFullscreen ? "Exit full screen" : "Full screen"}
+                aria-pressed={isFullscreen}
+                onClick={toggleFullscreen}
+                className={`${iconControlClassName} text-[#58636d] hover:bg-[#e7f2fb] hover:text-[#27313a]`}
+              >
+                {isFullscreen ? <Minimize2 className="size-4" /> : <Maximize2 className="size-4" />}
+              </button>
+            )}
+          </div>
         </div>
       </header>
 
