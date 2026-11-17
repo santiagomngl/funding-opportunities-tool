@@ -1,0 +1,43 @@
+{
+  "id": "20261117-115555-05",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "DIGITAL-ECCC-2027-DEPLOY-CYBER-11-EULEG Strengthening EU cybersecurity capacities & capabilities in line with legislative requirements – Digital Europe Programme",
+  "organization_or_parent_framework": "European Cybersecurity Competence Centre (ECCC)",
+  "programme": "Digital Europe Programme",
+  "call_title": "Strengthening European Cybersecurity Technologies, Capacities and Preparedness (DIGITAL-ECCC-2027-DEPLOY-CYBER-11)",
+  "call_module_title": "DIGITAL-ECCC-2027-DEPLOY-CYBER-11-EULEG Strengthening EU cybersecurity capacities & capabilities in line with legislative requirements",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-ECCC-2027-DEPLOY-CYBER-11-EULEG",
+  "executive_summary": "Funds support for implementing EU cybersecurity legislation (Cyber Resilience Act, NIS 2 Directive, GDPR, DORA, Cybersecurity Act, AI Act): compliance and self-assessment tools, incident and vulnerability reporting platforms, certification and conformity-assessment capacity, sector-level threat-intelligence sharing, training and security by design, including for Operational Technology. Any public or private legal entity established in an EU or EEA country and not controlled from outside them may apply, alone or in a consortium; operators of essential services, sectoral CSIRTs and ISACs are among the targeted stakeholders. Simple Grants at 50%; EU contribution expected at EUR 3–5 million per project, EUR 20 million for about 5 projects; indicative duration 36 months. Opened 1 September 2026; single-stage deadline 14 January 2027, 17:00 CET.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-01-14",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": 6000000,
+  "maximum_project_size": 10000000,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "The call document (DEP 11, pp. 35-42, EULEG Objectives, Scope and Targeted stakeholders) funds support for applying EU cybersecurity law, including NIS 2 audit and incident-notification tools, threat-intelligence sharing within a sector, and security by design for Operational Technology. This touches TenneT's obligations as an essential entity under NIS 2 and its cyber protection; the closest project file is TwinEU (grid resilience and cybersecurity), which differs by focusing on cross-border data federation rather than compliance. Operators of Essential Services and sectoral CSIRTs and ISACs are named targeted stakeholders (pp. 41-42) and section 6 (pp. 48-50) admits any EU or EEA legal entity as a beneficiary with no consortium minimum, so TenneT TSO B.V. could be a funded partner at the 50% rate, for example in an energy-sector information-sharing or compliance project. A funded partner role fits C1.3.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T8",
+      "T1"
+    ],
+    "role": [
+      "R2",
+      "R10"
+    ],
+    "activity": [
+      "A6",
+      "A13",
+      "A16"
+    ],
+    "outcome": [
+      "O2",
+      "O13"
+    ]
+  }
+}

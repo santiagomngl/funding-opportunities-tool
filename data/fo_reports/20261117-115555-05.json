@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "Tools, services and capacity that help organisations and authorities comply with EU cybersecurity law, such as NIS 2 and the Cyber Resilience Act.\nThe laws named are the Cyber Resilience Act (CRA, security of products with digital elements), the NIS 2 Directive (cybersecurity duties of essential and important entities, including electricity operators), the GDPR (data protection), DORA (digital resilience in finance), the Cybersecurity Act (EU certification schemes) and parts of the AI Act. A proposal must address at least one of them.",
+          "sources": "Call Document  DEP 11.pdf · pp. 35–42 · EULEG, Objectives; Scope"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "A broad menu: proposals choose what to cover, provided they address at least one eligible law.\nMain areas in scope:\n- Practical guidelines and user-friendly compliance tools, in particular for SMEs\n- Reporting platforms for NIS 2 (incident reporting) and the CRA (single vulnerability reporting platform)\n- Capacity of national certification authorities, conformity assessment bodies (organisations that check products against requirements) and certification laboratories, including a Certification and Evaluation as a Service software platform\n- Audit and compliance capacity of NIS 2 competent authorities, and common tools for targeted security audits and incident notification\n- Information exchange: a national platform federating threat-intelligence actors and authorities; unclassified cyber threat intelligence sharing within a sector (vertical); EU-level cooperation\n- Security and privacy by design in IoT, Operational Technology (OT, systems that control physical equipment), identity and e-government systems, including privacy-enhancing technologies\n- Training, professional preparation, cybersecurity challenges and competitions, diversity and youth programmes\nThe call names no excluded activities.",
+          "sources": "Call Document  DEP 11.pdf · pp. 35–42 · EULEG, Scope"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The need comes from new legal obligations that public and private entities, and the authorities supervising them, must now meet.\nThe call notes that cybersecurity maturity differs by sector, that certification costs can block start-ups and SMEs, and that NIS 2 competent authorities must build audit and compliance capacity to check that essential and important entities meet their duties. Electricity transmission operators such as TenneT are essential entities under NIS 2, so this need applies to them directly.",
+          "sources": "Call Document  DEP 11.pdf · pp. 35–42 · EULEG, Objectives; Scope"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "Depending on the proposal: guidelines, tools, platforms, training programmes and pilots, plus mandatory reporting deliverables.\nExamples in the expected outcomes:\n- Guidelines, standardised processes or manuals for the hardest compliance issues in specific sectors\n- Tools for conformity assessment under the CRA, and pilots testing CRA compliance with open-source tools\n- A single entry point for incident notification; secure communication channels for information sharing\n- Training courses based on the ECSF (European Cybersecurity Skills Framework) and exercises\n- Benchmarking, peer-exchange and fellowship programmes\nEvery project must also deliver a dissemination and exploitation plan within six months and yearly Project Outputs and KPIs (key performance indicators) reports.",
+          "sources": "Call Document  DEP 11.pdf · pp. 35–42 · EULEG, Expected Outcomes\nCall Document  DEP 11.pdf · p. 57 · 10. Milestones and deliverables"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The project must raise cybersecurity maturity and support implementation of EU cybersecurity law, and report how many stakeholders it supported.\nThe mandatory indicator is the number of stakeholders supported in understanding, preparing for or implementing EU cybersecurity law, broken down into SMEs and start-ups, competent authorities and CSIRTs (computer security incident response teams), market surveillance authorities, certification authorities, conformity assessment bodies and other entities. Optional indicators include tools helping stakeholders meet NIS 2 requirements and activities supporting cooperation between authorities, CSIRTs, SOCs (security operations centres), ISACs (information sharing and analysis centres) and essential entities. No numerical targets are set.",
+          "sources": "Call Document  DEP 11.pdf · pp. 35–42 · EULEG, KPIs"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "Results should spread across Member States: the call favours common methodologies, harmonised tools and cross-border cooperation.\nThe call aims at a homogeneous approach across the EU, mutual recognition of certification across Member States, and harmonised documentation across Europe. Multi-country consortia are not required but increase impact. Results may only be exploited in EU or EEA countries, with limits on transfers and licensing. The call does not say who runs the tools after the grant.",
+          "sources": "Call Document  DEP 11.pdf · pp. 35–42 · EULEG, Objectives; Scope; Targeted stakeholders\nCall Document  DEP 11.pdf · p. 61 · 10. IPR rules"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "No minimum: a single organisation may apply. Multi-country consortia are not mandatory but will add to the impact.",
+          "sources": "Call Document  DEP 11.pdf · p. 50 · 6. Consortium composition\nCall Document  DEP 11.pdf · pp. 35–42 · EULEG, Targeted stakeholders"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "No partner types are required; for privacy-enhancing technology work, consortia should consider covering the whole value chain.\nTargeted stakeholders include industry, SMEs and start-ups under the CRA, NIS 2 entities, competent authorities, CSIRTs including sectoral CSIRTs, SOCs, operators of essential services, digital service providers, ISACs and certification bodies. For privacy-enhancing technologies the call suggests at least one researcher, one provider, one developer integrating them and one user organisation. All partners must be established in and controlled from EU or EEA countries.",
+          "sources": "Call Document  DEP 11.pdf · pp. 35–42 · EULEG, Scope; Targeted stakeholders\nCall Document  DEP 11.pdf · p. 48 · 6. Eligibility"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "The call sets no split of work or budget.\nMain participants should be beneficiaries or affiliated entities; associated partners take part at their own cost; subcontracting beyond 30% of eligible costs is only possible in very exceptional cases. A consortium agreement is required when there is more than one beneficiary.",
+          "sources": "Call Document  DEP 11.pdf · p. 65 · 13. Important, Consortium roles\nCall Document  DEP 11.pdf · p. 62 · 10. Other specificities"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "Any eligible legal entity may coordinate; the call does not restrict the role.\nThe coordinator manages the project, represents the consortium and receives all payments.",
+          "sources": "Call Document  DEP 11.pdf · p. 65 · 13. Important, Coordinator"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "Yes: TenneT TSO B.V. could apply alone or coordinate a consortium.\nAny public or private legal entity may be a beneficiary (a partner that receives part of the grant) if it is established in an EU Member State, Norway, Iceland or Liechtenstein and is not directly or indirectly controlled from any other country.\nThis security restriction (Article 12(5) of the Digital Europe Regulation, the EU law that sets up the programme) applies to every topic of this call and to every role: beneficiary, affiliated entity, associated partner and subcontractor. Every participant must submit an ownership control declaration, except entities validated as public bodies. All project work, including subcontracted work, must take place in those eligible countries. TenneT TSO B.V. is a Dutch company owned by the Dutch State, so it meets these conditions; it must still file the declaration if it is not validated as a public body. A TenneT-led proposal could, for example, build compliance or information-sharing tools for the energy sector; more often such projects are led by an ISAC, CSIRT or authority.",
+          "sources": "Call Document  DEP 11.pdf · pp. 48–50 · 6. Eligibility\nCall Document  DEP 11.pdf · pp. 69–70 · Annex 2\nCall Document  DEP 11.pdf · pp. 35–42 · EULEG, Targeted stakeholders"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes, as a funded beneficiary or as an associated partner at its own cost.\nAn associated partner works in the project without grant money and need not be validated, but must still meet the EU-control restriction and file an ownership control declaration.",
+          "sources": "Call Document  DEP 11.pdf · p. 65 · 13. Important, Associated partners\nCall Document  DEP 11.pdf · p. 48 · 6. Eligibility"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Yes, at 50% of its eligible costs as a beneficiary.\nTenneT would fund the other half itself. Costs only count for work done in EU or EEA countries, indirect costs are a flat 7% of direct costs, only depreciation of equipment is eligible, and the grant may not produce a profit. The ECCC (European Cybersecurity Competence Centre, the EU body that manages the call) funds partners directly; there are no separate Dutch rules.",
+          "sources": "Call Document  DEP 11.pdf · pp. 35–42 · EULEG, Type of action and funding rate\nCall Document  DEP 11.pdf · pp. 57–59 · 10. Form of grant; Budget categories"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT would be credible as an essential entity under NIS 2 that tests compliance tools and shares energy-sector threat intelligence.\nThe call names operators of essential services, sectoral CSIRTs and ISACs as targets and includes threat-intelligence sharing within a sector and security by design for Operational Technology. TenneT could bring its NIS 2 compliance experience, OT security requirements for substations and control systems, and participation in energy-sector information sharing, for example through the European Energy ISAC or the Dutch energy CSIRT. This is an interpretation: the call does not name the energy sector.",
+          "sources": "Call Document  DEP 11.pdf · pp. 35–42 · EULEG, Scope; Targeted stakeholders"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "New technology is not required: the call mainly funds implementation support, tools, platforms and training, though security-by-design work may include research and innovation.\nThe call says it promotes security and privacy by design by supporting and/or funding research and innovation opportunities.",
+          "sources": "Call Document  DEP 11.pdf · pp. 35–42 · EULEG, Scope"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "A combination: software tools and platforms, operational and compliance methods, governance (cooperation between authorities) and skills.",
+          "sources": "Call Document  DEP 11.pdf · pp. 35–42 · EULEG, Scope; Expected Outcomes"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Mainly development and deployment of tools, platforms and programmes, with pilots for CRA compliance testing.",
+          "sources": "Call Document  DEP 11.pdf · pp. 35–42 · EULEG, Scope; Expected Outcomes"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "The call sets no TRL (technology readiness level); it scores the maturity of the project.",
+          "sources": "Call Document  DEP 11.pdf · p. 55 · 9. Award criteria"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "The call does not require demonstration in a specific setting; it mentions pilot projects to test CRA compliance.",
+          "sources": "Call Document  DEP 11.pdf · pp. 35–42 · EULEG, Expected Outcomes"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The call does not require one integrated system; tools should connect authorities and stakeholders and support existing NIS structures.\nThe action should increase collaboration between national authorities, support or supplement NIS structures that must comply with the CRA, and federate national threat-intelligence actors around a common platform.",
+          "sources": "Call Document  DEP 11.pdf · pp. 35–42 · EULEG, Scope"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "Evidence comes from the indicators the applicant proposes, reported yearly with baselines, targets and means of verification.\nThe mandatory indicator counts stakeholders supported by type; optional ones count tools, platforms, training activities and cooperation activities.",
+          "sources": "Call Document  DEP 11.pdf · pp. 35–42 · EULEG, KPIs\nCall Document  DEP 11.pdf · pp. 9–11 · 2. Guidance on milestones, deliverables and KPIs"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "Users should take part where the call asks for it: certification platforms should involve certification bodies, assessment bodies and client representatives, and privacy-enhancing technology work should involve user organisations.",
+          "sources": "Call Document  DEP 11.pdf · pp. 35–42 · EULEG, Scope"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "Strict security rules apply: only EU- or EEA-controlled entities may take part, and work must take place in eligible countries.\n- Data security and protection must be promoted in the design and development of ICT products and services.\n- Projects with EU classified information need security scrutiny; the grant cannot be signed until at least one beneficiary has facility security clearance.\n- Results may only be exploited in eligible countries, with limits on transfers and licensing.",
+          "sources": "Call Document  DEP 11.pdf · pp. 35–42 · EULEG, Objectives\nCall Document  DEP 11.pdf · pp. 48, 51–52 · 6. Eligibility; Security\nCall Document  DEP 11.pdf · p. 61 · 10. IPR rules"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "About EUR 3–5 million of EU funding per project, from a topic budget of EUR 20 million for about 5 projects.\n- Total project size: the call states no project size; at the 50% rate a EUR 3–5 million grant implies total eligible costs of about EUR 6–10 million.\n- Grant request: per project; other amounts may be requested if duly justified, and the grant awarded may be lower than requested.\n- Funding form: budget-based mixed actual-cost grant (actual costs incurred are reimbursed, with some unit-cost and flat-rate elements, not the budgeted amounts).",
+          "sources": "Call Document  DEP 11.pdf · p. 46 · 3. Available budget\nCall Document  DEP 11.pdf · p. 57 · 10. Form of grant, funding rate and maximum grant amount\nTopic page, Budget overview (EU Funding & Tenders Portal)"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "A single rate of 50% of eligible costs applies to every partner, whatever its size.\n- Co-financing conditions: the other 50% must come from the partners' own resources or other income; Simple Grants (the call's standard grant type) pay no higher rate for SMEs in this topic.\n- Evidence required: no co-financing letter is required; financial capacity is checked during grant preparation.",
+          "sources": "Call Document  DEP 11.pdf · p. 57–58 · 10. Form of grant, funding rate and maximum grant amount\nCall Document  DEP 11.pdf · p. 66 · Annex 1, Digital Europe types of action\nCall Document  DEP 11.pdf · p. 65 · 13. Important, Consortium roles"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Only actual costs of work in eligible countries count, with a 7% flat rate for indirect costs.\n- Eligible costs: personnel (average personnel costs allowed), subcontracting, travel (actual costs only), equipment, other goods and services, internally invoiced goods and services, indirect costs.\n- Caps or mandatory allocations: subcontracting should normally be a limited part; going beyond 30% of total eligible costs is only possible in very exceptional cases and must be justified.\n- Excluded costs: costs of activities outside the EU and EEA countries; separate project websites; in-kind contributions given for free cannot be declared as costs.\n- Overheads and VAT: indirect costs at a flat 7% of eligible direct costs; non-deductible VAT is eligible, except VAT paid by public bodies acting as public authority.\n- Subcontracting or equipment: for this topic only depreciation of equipment is eligible, not its full purchase cost; subcontracted work must be performed in eligible countries.",
+          "sources": "Call Document  DEP 11.pdf · pp. 58–59 · 10. Budget categories and cost eligibility rules\nCall Document  DEP 11.pdf · p. 65 · 13. Important, Consortium roles"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "Most of the grant is paid up front, but grants may not make a profit and overpayments are recovered.\n- Payment model: prefinancing of normally 80% of the maximum grant after signature, one or more interim payments, then the balance; all payments go to the coordinator.\n- Retention or guarantee: a prefinancing guarantee, normally from the coordinator, may be required if financial capacity is judged weak; public bodies are not checked for financial capacity.\n- Financial reporting or audit: for-profit organisations must declare revenues and any profit is deducted from the final grant.",
+          "sources": "Call Document  DEP 11.pdf · pp. 52, 59–60 · 7. Financial capacity; 10. Reporting and payment arrangements; Prefinancing guarantees\nCall Document  DEP 11.pdf · p. 58 · 10. Form of grant"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: a full proposal submitted online through the EU Funding & Tenders Portal by 14 January 2027, 17:00 CET (Brussels).\n- Stage 1 — Full proposal: 14 January 2027, 17:00:00 CET; Part A (administrative data and budget, filled in online), Part B (technical description, at most 70 pages) and ownership control declarations for all participants; every beneficiary, affiliated entity and associated partner needs a PIC (a 9-digit participant identification code from the Participant Register).\n- Additional procedure: none; each proposal may address only one topic of the call.",
+          "sources": "Call Document  DEP 11.pdf · p. 4 · 0. Introduction\nCall Document  DEP 11.pdf · pp. 46–48 · 4. Timetable and deadlines; 5. Admissibility and documents\nCall Document  DEP 11.pdf · p. 62 · 11. How to submit an application"
+        },
+        {
+          "title": "Project window",
+          "answer": "An indicative duration of 36 months, starting after grant signature, which is expected in October 2027.\n- Maximum duration: 36 months indicative; other durations are not excluded and extensions are possible through an amendment if duly justified.\n- Required start: normally after grant signature; a retroactive start may exceptionally be granted, but never before the proposal submission date.\n- Eligible-cost period: from the start date fixed in the grant agreement.",
+          "sources": "Call Document  DEP 11.pdf · p. 56–57 · 10. Starting date and project duration\nCall Document  DEP 11.pdf · pp. 46–47 · 4. Timetable and deadlines"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Results are expected in April 2027 and grant signature in October 2027 (both indicative).\n- Expected invitation or assessment result: evaluation February–March 2027; information on results April 2027.\n- Funding decision: April 2027, indicative; an invitation to grant preparation is not yet a commitment to fund.\n- Grant agreement: October 2027, indicative.\n- Conditions before starting: legal entity validation, financial capacity and exclusion checks, ownership control assessment, ethics review; a consortium agreement where there is more than one beneficiary; if EU classified information is involved, at least one beneficiary must hold facility security clearance before signature.",
+          "sources": "Call Document  DEP 11.pdf · pp. 46–47 · 4. Timetable and deadlines\nCall Document  DEP 11.pdf · pp. 51–52, 55 · 6. Ethics; Security; 8. Evaluation and award procedure\nCall Document  DEP 11.pdf · p. 62 · 10. Other specificities"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "The proposal must contain Part A, Part B and ownership control declarations, all through the Portal submission system.\n- Application form: Part A online; Part B downloaded from the submission system, at most 70 pages; any official EU language, but the abstract must be in English and English is strongly advised.\n- Budget: summarised budget in Part A; no detailed budget table is required.\n- Mandatory annexes: ownership control declarations, including for associated partners and subcontractors.\n- Partner documents: the coordinator confirms a mandate to act for all applicants; each beneficiary signs a declaration of honour before grant signature.\n- Registration: EU Login account and PIC for every participant; beneficiaries are validated by the Central Validation Service.",
+          "sources": "Call Document  DEP 11.pdf · pp. 47–48 · 5. Admissibility and documents\nCall Document  DEP 11.pdf · pp. 62, 64–65 · 11. How to submit; 13. Important, Registration; Language"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Proposals are scored on relevance, implementation and impact, each out of 5, and need at least 3 on each and 10 overall.\n- Evaluation criteria: relevance (fit with the topic, policy contribution, supply-chain security where applicable); implementation (maturity, soundness of the plan, capacity of the applicants); impact (expected outcomes, competitiveness and benefits for society).\n- Thresholds: 3 out of 5 per criterion; 10 out of 15 overall.\n- Ranking rules: ties are broken first by themes not covered by higher-ranked proposals, then by the relevance score, then by the impact score, then by portfolio considerations.\n- Budget assessment: the grant awarded may be lower than requested and costs may be adjusted in grant preparation.",
+          "sources": "Call Document  DEP 11.pdf · pp. 54–56 · 8. Evaluation and award procedure; 9. Award criteria"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Some conditions depend on the project's content.\n- Conditional — privacy-enhancing technologies: the consortium should consider including a researcher, a provider, a developer and a user organisation.\n- Conditional — EU classified information: security scrutiny and facility security clearance before signature.\n- Exception — equipment: depreciation only.\n- Exception — award criteria: supply-chain security, overcoming lack of market finance and environmental sustainability are not scored for this topic.\n- Recommended: apply for membership of the Cybersecurity Competence Community (the ECCC's network of cybersecurity organisations) through the National Coordination Centre and attach proof.",
+          "sources": "Call Document  DEP 11.pdf · pp. 35–42 · EULEG, Scope; Specific topic conditions\nCall Document  DEP 11.pdf · pp. 51–52 · 6. Security\nCall Document  DEP 11.pdf · p. 47 · 5. Admissibility and documents"
+        }
+      ]
+    }
+  ]
+}
