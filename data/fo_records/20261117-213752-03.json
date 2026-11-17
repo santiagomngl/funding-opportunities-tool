@@ -1,0 +1,40 @@
+{
+  "id": "20261117-213752-03",
+  "source": "SNN",
+  "display_title": "Investeringen – Nationaal Programma Groningen",
+  "organization_or_parent_framework": "Provincie Groningen",
+  "programme": "Nationaal Programma Groningen",
+  "call_title": "Subsidieregeling netcongestie (NPG)",
+  "call_module_title": "Investeringen",
+  "call_year": 2025,
+  "url": "https://www.snn.nl/zakelijke-subsidies/subsidieregeling-netcongestie-npg",
+  "executive_summary": "Investment module of the provincial Groningen scheme against grid congestion on business parks (Subsidieregeling Oplossen netcongestiebelemmeringen op bedrijventerreinen, Nationaal Programma Groningen), run by SNN. It funds sustainable, structural investments by a collaboration of companies on a business park that reduce grid congestion and are based on renewable energy, following an implementation plan no older than two years, including behind-the-meter lithium batteries below 1 MW. Only collaborations of at least two companies active in the province of Groningen may apply; companies whose main business is supplying solar or wind energy or balancing services are excluded. The subsidy is 30% of eligible costs, up to EUR 100,000 for a battery and EUR 250,000 for other investments, from a sub-budget of EUR 4,310,000 (EUR 750,000 for batteries) allocated first come, first served to applications scoring at least 15 of 35 points. Applications are open from 25 March 2025 to 31 December 2027; projects start within 12 months and finish within 24 months of the grant, and no later than 1 July 2029.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-12-31",
+  "earliest_project_start_date": "2025-03-25",
+  "project_end_date": "2029-06-30",
+  "minimum_project_size": null,
+  "maximum_project_size": 833333,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "The module funds renewable, structural investments by collaborations of companies on Groningen business parks that reduce grid congestion, including batteries below 1 MW, scored on congestion relief, cooperation, a smart and flexible energy system responding to market signals, innovation and scalability (Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG), art. 5 lid 3, 13 lid 3 and 15; Toelichting, art. 15). It touches TenneT's field directly, sharing the aim of relieving congestion and adding flexibility with the Lion Storage contract, the Energy boards and Grids & Benefits, though the assets sit behind the meter of grid users. Only collaborations of companies on a business park may apply, companies whose main business is balancing services are excluded (art. 3 lid 5 and 6h), and no role is set out for a grid operator, so TenneT cannot take part. It fits C3.3: batteries and flexible loads that ease congestion and make better use of connections.",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T5",
+      "T6",
+      "T10"
+    ],
+    "role": [],
+    "activity": [
+      "A10"
+    ],
+    "outcome": [
+      "O5",
+      "O7",
+      "O10"
+    ]
+  }
+}

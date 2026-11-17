@@ -1,0 +1,28 @@
+{
+  "id": "20261117-181430-02",
+  "source": "SNN",
+  "display_title": "Slimme energiesystemen en duurzame energie – EFRO Noord-Nederland 2021-2027",
+  "organization_or_parent_framework": "Samenwerkingsverband Noord-Nederland (SNN)",
+  "programme": "EFRO Noord-Nederland 2021-2027",
+  "call_title": "Slimme energiesystemen en duurzame energie",
+  "call_module_title": null,
+  "call_year": 2025,
+  "url": "https://www.snn.nl/zakelijke-subsidies/slimme-energiesystemen-en-duurzame-energie",
+  "executive_summary": "ERDF-funded (EFRO) subsidy, run by SNN, for collaborative research, development and first-rollout projects on smart energy systems, local energy storage, flexibility, system integration (including power-to-heat and power-to-X), new business models and renewable generation that let more renewable energy be produced and used within the existing local and regional energy infrastructure, explicitly to tackle grid congestion. Applicants must be a consortium of at least two independent parties or a collaboration with legal personality such as an energy cooperative; projects mainly target Fryslan and Drenthe, may be at northern scale, and are excluded if their effects land mostly in the province of Groningen. The grant is EUR 200,000 to EUR 5,000,000 per project at up to 50% of eligible costs, from a EUR 10 million budget allocated first come, first served. Applications are open from 1 July 2025 to 31 March 2027 12:00; projects last at most four years and must end by 30 June 2029.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-03-31",
+  "earliest_project_start_date": "2025-07-01",
+  "project_end_date": "2029-06-30",
+  "minimum_project_size": 400000,
+  "maximum_project_size": 10000000,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "The call funds collaborative research, development and first rollout of smart energy systems, local storage, flexibility and system integration so that more renewable energy can be generated and used within existing local and regional grids, with grid congestion named as the core problem (Uitvoeringsregeling Slimme energiesystemen en duurzame energie, pp. 1-3). It touches TenneT's field directly, sharing the congestion and flexibility aims of the Lion Storage time-dependent transmission rights contract, Grids & Benefits, DataFleX and the Energy boards, though at local and regional rather than transmission scale. Beneficiaries are a consortium of relevant parties with no exclusion of large companies, at up to 50% of eligible costs unless state-aid rules require less (pp. 3 and 8), so TenneT could be a funded consortium partner (C1.3), provided the project's effects land mainly in Fryslan or Drenthe rather than Groningen.",
+  "call_type": "Type 1",
+  "category_codes": ["C1.3"],
+  "taxonomy_values": {
+    "topic": ["T1", "T5", "T6", "T10"],
+    "role": ["R2", "R5", "R9"],
+    "activity": ["A2", "A5", "A6", "A7", "A14"],
+    "outcome": ["O5", "O7", "O10"]
+  }
+}

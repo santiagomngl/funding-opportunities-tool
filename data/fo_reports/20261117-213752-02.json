@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "An implementation plan, drawn up by an independent expert for a group of companies on a Groningen business park, that turns a feasibility study into collective congestion solutions ready to carry out.\nThe plan must at least contain an overview of possible collective solutions, a plan of approach for carrying them out, and a cost estimate and business case. It must build on a feasibility study (funded under this scheme or not) that is no older than two years. The need is the companies': they cannot grow or connect because the grid on their business park is full.",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · pp. 2-3 · Artikel 5, lid 2; Artikel 7, onderdelen c, e and g\nToelichting Subsidieregeling Netcongestie (NPG).pdf · pp. 1-2 · Artikel 5 lid 2; Artikelen 7 sub c en d\nSNN, Subsidieregeling netcongestie (NPG) · Een toelichting op de activiteiten (Uitvoeringsplan)"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Fewer congestion barriers for Groningen companies, a better business climate, and a contribution to climate and energy goals.\nThe aim is to support the business and investment climate in the province by helping companies that suffer from grid congestion, while contributing to the climate and energy targets. Solutions must be based on renewable energy; fossil-fuel solutions on the applicant's site are refused. Effects must land in the province of Groningen.",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · p. 2 · Artikel 2 Doel; Artikel 6, onderdelen b and f\nToelichting Subsidieregeling Netcongestie (NPG).pdf · p. 2 · Artikel 6 sub f"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "Groups of at least two companies on a Groningen business park; the plan itself is written by an independent energy consultant.\nThe scheme is for companies (any entity with legal personality that carries out an economic activity) that operate in the province of Groningen and experience problems from grid congestion on a business park (bedrijventerrein, an area zoned for trade, industry and services). This module is open only to collaborations of at least two companies that are not part of the same group, and the plan must concern the business park of one of them. The lead company (penvoerder) applies on behalf of all. Companies whose main business is supplying solar or wind energy or balancing services (services that restore the system balance for grid operators) are excluded. The scheme suits business-park associations, park managers and energy consultancies that organise shared solutions.",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · pp. 1-3 · Artikel 1 (i, k, n); Artikel 3, lid 4; Artikel 6, onderdeel h; Artikel 7, onderdeel e"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": "The plan is the middle step: it must follow a feasibility study and is the required basis for any later investment subsidy, which must follow from a plan no older than two years.",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · p. 3 · Artikel 7, onderdelen c and d\nToelichting Subsidieregeling Netcongestie (NPG).pdf · p. 2 · Artikelen 7 sub c en d"
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "My judgement: collective plans on business parks are where shared connections, peak-sharing and joint storage get designed, which is how congestion on full stations can be relieved without waiting for grid expansion. It touches TenneT's congestion problem directly: grid congestion (too little capacity in cables, transformers or connections for the demand or supply in an area) is what TenneT and the regional grid operators face in Groningen, and the scheme pays grid users on business parks to understand their load profile and adopt flexible, collective solutions. That could free up capacity, reduce peak demand on congested substations and create flexible loads, in the same spirit as TenneT's time-dependent transport contracts such as the one with Lion Storage. TenneT cannot take part itself: only companies or collaborations of companies with a business park in Groningen that experience congestion problems may apply, and the scheme sets out no role for a grid operator. TenneT could pass the scheme on to companies waiting for a connection or more capacity on Groningen business parks.",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · pp. 1-3 · Artikel 1 (h); Artikel 2; Artikel 3, lid 4; Artikel 5, lid 2"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "Up to EUR 15,000 per plan, from a EUR 550,000 sub-budget.\n- Total project size: not stated; at 75% the cap corresponds to EUR 20,000 of eligible costs (my calculation)\n- Grant request: up to EUR 15,000\n- Funding form: a share of eligible costs for the independent expert and metering equipment\n- Sub-budget: EUR 550,000; SNN showed EUR 535,000 remaining on 17 November 2026",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · pp. 3-4 · Artikel 8, onderdeel a; Artikel 12, onderdeel b; Artikel 13, lid 2\nSNN, Subsidieregeling netcongestie (NPG) · scheme page header (Resterend budget)"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "75% of eligible costs, granted under the EU de minimis rules (small amounts of aid that need no state-aid approval).\n- Evidence required: a signed de minimis declaration from all participants of the collaboration",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · pp. 3-4 · Artikel 10, lid 4; Artikel 13, lid 2; Artikel 16, lid 1"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Only the independent expert's hours and metering equipment count.\n- Excluded costs: brainstorm or creativity sessions, websites and social media, measures needed to meet the legal energy-saving obligations, and generators or other fossil or biomass technology",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · p. 3 · Artikel 8, onderdeel a; Artikel 9\nToelichting Subsidieregeling Netcongestie (NPG).pdf · p. 1 · Artikel 8 sub a"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: an electronic application through SNN's web portal from 25 March 2025 to 1 July 2028, submitted by the lead company; budget goes first come, first served by the minute of a complete application.\n- Stage 1 — Application: project plan and budget in SNN's format for the implementation plan, the feasibility-study report, and a quote for the plan\n- Additional procedure: if the sub-budget runs out, applications completed in the same minute are ranked by lot",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · pp. 3-4 · Artikel 10; Artikel 11, leden 1-2; Artikel 14\nSNN, Subsidieregeling netcongestie (NPG) · Aanvraag voorbereiden (Uitvoeringsplan)"
+        },
+        {
+          "title": "Project window",
+          "answer": "The plan must be completed within 12 months of the grant.\n- Required start: not before the application is submitted\n- Completion deadline: all activities by 1 July 2029",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · p. 5 · Artikel 18, leden 2 and 5\nSNN, Subsidieregeling netcongestie (NPG) · Wat zijn de voorwaarden?"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "A decision within 13 weeks; the full subsidy is paid in advance.\n- Funding decision: within 13 weeks of the application\n- Payment: a 100% advance of the granted amount; settlement request within 13 weeks of completion",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · p. 5 · Artikel 17, lid 1; Artikel 18, lid 6; Artikel 19, lid 1"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "A short package built around SNN's formats.\n- Application form: project plan in SNN's format for the implementation plan\n- Budget: SNN budget format with a quote for the plan\n- Mandatory annexes: the feasibility-study report; de minimis declarations; previous year's (consolidated) annual accounts\n- Partner documents: collaboration agreement signed by all companies; proof of signing authority\n- Registration: eHerkenning (the Dutch business login), or a hand-signed application form",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · p. 3 · Artikel 10 Indieningsvereisten\nSNN, Subsidieregeling netcongestie (NPG) · Aanvraag voorbereiden (Uitvoeringsplan)"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "No scoring: complete, eligible applications are funded in order of receipt.",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · p. 4 · Artikel 14 Verdeelcriteria; Artikel 15, lid 1"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "The plan depends on an earlier study and on the group's composition.\n- Conditional — feasibility study: a study no older than two years, without major changes in the companies' energy situation since, must be supplied; otherwise the application is refused\n- Conditional — earlier subsidy: a group that already received this subsidy for the same activity is refused\n- Conditional — legal energy-saving duty: applicants must meet their legal energy-saving and CO2-reduction obligations",
+          "sources": "Verordening Subsidieregeling Oplossen netcongestie bedrijventerreinen (NPG).pdf · pp. 2-3 · Artikel 6, onderdelen a and j; Artikel 7, onderdeel c\nToelichting Subsidieregeling Netcongestie (NPG).pdf · p. 2 · Artikelen 7 sub c en d"
+        }
+      ]
+    }
+  ]
+}
