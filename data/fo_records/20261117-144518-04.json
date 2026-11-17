@@ -1,0 +1,38 @@
+{
+  "id": "20261117-144518-04",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "Vergunning windpark IJmuiden Ver Gamma-B – Windenergie op zee (Wet windenergie op zee)",
+  "organization_or_parent_framework": "Dutch Ministry of Climate Policy and Green Growth (executed by the Netherlands Enterprise Agency, RVO)",
+  "programme": "Windenergie op zee (Wet windenergie op zee)",
+  "call_title": "Vergunning windpark IJmuiden Ver Gamma-B",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://www.rvo.nl/subsidies-financiering/windenergie-op-zee/ijmuiden-ver-gamma-b",
+  "executive_summary": "A tender for the permit to build and operate a roughly 1 GW offshore wind farm on lot Gamma-B in the IJmuiden Ver wind area, about 61 km off the Dutch coast, with an SDE++-type operating subsidy (payment for the unprofitable part of the electricity price over 15 years); applicants may alternatively bid without subsidy in an auction. The maximum subsidy is EUR 4.698 billion and the maximum tender amount EUR 0.116 per kWh; the lowest tender amount wins. Wind farm developers and energy companies can apply from 2026-11-26 to 2026-12-10 at 17:00. Gamma-B connects to the same TenneT 2 GW platform as Gamma-A, which is tendered in parallel under its own regulation.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2026-12-10",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "The RVO scheme page (Hoeveel subsidie, Voorwaarden) and the Gamma-B regulation (Staatscourant 2026, 21303), read alongside the parallel Gamma-A rules in Staatscourant 2026, 21297, offer a permit with a 15-year operating subsidy to the best bid. TenneT connects Gamma-B to the same direct-current platform as Gamma-A and delivers the grid on a fixed schedule, so the call decides when its second 1 GW is used (Q&A Gamma-B, Ontwikkelkader). TenneT cannot apply as the permit and subsidy go to wind farm developers and energy companies. Type 3 is the closest label, but none of the C3 categories describes grid-connected generation, so C3.3 (better use of connections) is the nearest fit. The call states no project start or end date, so both are null.",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T7",
+      "T4"
+    ],
+    "role": [],
+    "activity": [
+      "A10"
+    ],
+    "outcome": [
+      "O7",
+      "O9"
+    ]
+  }
+}

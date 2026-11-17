@@ -1,0 +1,37 @@
+{
+  "id": "20261117-144518-05",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "Nationale Investeringsregeling Klimaatprojecten Industrie (NIKI) – Regeling nationale EZ-, LVVN- en KGG-subsidies, titel 4.13",
+  "organization_or_parent_framework": "Dutch Ministry of Climate Policy and Green Growth (executed by the Netherlands Enterprise Agency, RVO)",
+  "programme": "Regeling nationale EZ-, LVVN- en KGG-subsidies, titel 4.13",
+  "call_title": "Nationale Investeringsregeling Klimaatprojecten Industrie (NIKI)",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://www.rvo.nl/subsidies-financiering/niki",
+  "executive_summary": "A tender subsidy for industrial companies in the Netherlands to scale up an innovative technology commercially and cut CO2 or other greenhouse gas emissions: category A covers direct emission cuts in the production process (large-scale process efficiency, electrification and hydrogen) and category B replaces primary fossil carbon in the production chain. Applicants must request at least EUR 30 million, bid no more than EUR 300 per tonne of CO2 avoided, and have finished basic engineering; applications are ranked by the lowest subsidy per tonne avoided. The budget is EUR 250 million, expected to fund about two to four applications. Applications run from 2026-11-16 to 2026-12-16 at 17:00, and the accountant's statement can follow by 2027-01-29.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2026-12-16",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "The RVO scheme page (Waarvoor krijgt u subsidie, Voorwaarden) and Staatscourant 2026, 33351 (title 4.13), fund commercial scale-up of industrial decarbonisation, including electrification, for industrial companies that stay owner of the plant. This touches TenneT's field through the extra electricity demand and grid connections of electrifying industry, and the page warns applicants to check for grid congestion. TenneT cannot apply because only industrial companies in the listed sector groups can, and it would benefit through connection demand it must serve. Type 3 and C3.3 (industrial electrification) fit. The call gives no project start or end date, so both are null.",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T10",
+      "T9"
+    ],
+    "role": [],
+    "activity": [
+      "A10"
+    ],
+    "outcome": [
+      "O5"
+    ]
+  }
+}

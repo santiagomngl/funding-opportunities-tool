@@ -1,0 +1,38 @@
+{
+  "id": "20261117-144518-03",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "Vergunning windpark IJmuiden Ver Gamma-A – Windenergie op zee (Wet windenergie op zee)",
+  "organization_or_parent_framework": "Dutch Ministry of Climate Policy and Green Growth (executed by the Netherlands Enterprise Agency, RVO)",
+  "programme": "Windenergie op zee (Wet windenergie op zee)",
+  "call_title": "Vergunning windpark IJmuiden Ver Gamma-A",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://www.rvo.nl/subsidies-financiering/windenergie-op-zee/ijmuiden-ver-gamma",
+  "executive_summary": "A tender for the permit to build and operate a roughly 1 GW offshore wind farm on lot Gamma-A in the IJmuiden Ver wind area, about 53 km off the Dutch coast, with an operating subsidy of the SDE++ type (a payment for the unprofitable part of the electricity price over 15 years, up to 4,000 full-load hours a year). Applicants may alternatively bid without subsidy in an auction. The maximum subsidy is EUR 4.758 billion and the maximum tender amount EUR 0.117 per kWh; the lowest tender amount wins the permit and subsidy. Wind farm developers and energy companies can apply from 2026-11-26 to 2026-12-10 at 17:00; the winner must provide a EUR 100 million bank guarantee and connect to a TenneT 2 GW platform.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2026-12-10",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "The RVO scheme page (Hoeveel subsidie, Voorwaarden) and Staatscourant 2026, 21297 (Regeling kavel Gamma-A), art. 2–4 and 10–16, offer a permit with a 15-year operating subsidy to the best bid from wind farm developers or energy companies. TenneT is the designated system operator that connects the farm to its 2 GW direct-current platform and tests it jointly with the permit holder (Staatscourant 2026, 21297, Toelichting 5.3; Q&A, Ontwikkelkader), so the call determines when and how much generation TenneT must connect. TenneT cannot apply, since the permit and subsidy go to wind farm developers and energy companies. Type 3 is the closest label, but none of the C3 categories describes grid-connected generation, so C3.3 (better use of connections) was chosen as the nearest fit. The call states no project start or end date, so both are null.",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T7",
+      "T4"
+    ],
+    "role": [],
+    "activity": [
+      "A10"
+    ],
+    "outcome": [
+      "O7",
+      "O9"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "20261117-144518-01",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV – Specifieke uitkering (Kaderwet EZ-, LVVN- en KGG-subsidies)",
+  "organization_or_parent_framework": "Dutch Ministry of Climate Policy and Green Growth (executed by the Netherlands Enterprise Agency, RVO)",
+  "programme": "Specifieke uitkering (Kaderwet EZ-, LVVN- en KGG-subsidies)",
+  "call_title": "Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://www.rvo.nl/subsidies-financiering/gebiedsinvesteringen-hoogspanning-op-land",
+  "executive_summary": "A one-off specific payment (a grant from the national government) to municipalities hosting a new 220/380 kV high-voltage station, a substantial station extension or a new overhead line of at least 1 km from a project list, for local investments that improve living quality for nearby residents, such as parks, paths, playgrounds, community centres or retrofitting nearby homes. The amount is fixed per project: up to EUR 6 million per new station, EUR 3 million per extension and EUR 150,000 per kilometre of new overhead line, all including VAT. The total budget in the regulation is EUR 193.4 million (the RVO page states EUR 197 million), paid in order of receipt of complete applications. Applications run from 2026-10-15 to 2031-03-31 at 17:00; the municipality must run a participation process and its council must approve a spending plan.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2031-03-31",
+  "earliest_project_start_date": "2026-10-01",
+  "project_end_date": "2036-12-31",
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "The RVO scheme page (Voorwaarden) and Staatscourant 2026, 26122, art. 2–5, give grants only to municipalities with a listed 220/380 kV station or overhead-line project, to improve residents' living quality. The scheme touches TenneT's field directly: the listed projects come from TenneT's Investment Plan 2026 (close to the Onshore and Offshore Grid Investment Plans 2026 project file), and the regulation's explanatory note links local resistance to delay in those projects. TenneT cannot apply because art. 3 and 5 limit the payment to municipalities, so it would benefit only through faster acceptance and delivery of its projects; Type 3 and C3.7 (public support and permitting) fit. The eligible-cost period (from 2026-10-01 to 2036-12-31) gave the two project dates.",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.7"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T4"
+    ],
+    "role": [],
+    "activity": [
+      "A15"
+    ],
+    "outcome": [
+      "O7"
+    ]
+  }
+}

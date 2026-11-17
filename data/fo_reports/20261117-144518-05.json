@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "A commercial-scale installation that cuts CO2 or other greenhouse gas emissions in an industrial process or product chain.\nThe subsidy supports scaling up an innovative technology commercially. Category A is direct emission savings in the production process (themes: large-scale process efficiency, electrification and hydrogen). Category B is replacing primary fossil carbon in the production chain. The need originates with industry: companies that want to decarbonise far-reaching but cannot make the investment pay on their own.",
+          "sources": "RVO.nl, Nationale Investeringsregeling Klimaatprojecten Industrie (NIKI) (scheme page) · Waarvoor krijgt u subsidie?; Voorwaarden\nStaatscourant 2026, 33351, Regeling tot wijziging van titel 4.13 (NIKI) van de Regeling nationale EZ-, LVVN- en KGG-subsidies · Toelichting 2.1"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The project should avoid CO2 and other greenhouse gas emissions; the subsidy is ranked on euros per tonne of CO2 avoided.\nThe scheme helps reduce emissions in industrial processes and product chains. Applicants must calculate the emission reduction with the mandatory NIKI model, and may bid at most EUR 300 per tonne of CO2 avoided. The call names no national emission target.",
+          "sources": "RVO.nl, Nationale Investeringsregeling Klimaatprojecten Industrie (NIKI) (scheme page) · Waarvoor krijgt u subsidie?; Hoe vraagt u aan?"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "Industrial companies in the Netherlands that will own a new production installation and can request at least EUR 30 million of support.\n- Who leads: the applicant is or has an industrial company in the main group C (manufacturing) or E (waste and waste water treatment, subgroups 37 and 38.2) of the Dutch standard industrial classification; an adviser may be authorised to apply\n- Requirements: investment in a production installation in the Netherlands that the company keeps owning; basic engineering (the first design stage) finished before applying; at least EUR 30 million requested\n- Fit: suits large industrial investors; the plant must remain operational after the 10 operating years and then operate profitably without subsidy\nThe company must not be a company in difficulty under the EU rules.",
+          "sources": "RVO.nl, Nationale Investeringsregeling Klimaatprojecten Industrie (NIKI) (scheme page) · Voorwaarden; Verklaring ‘Geen onderneming in moeilijkheden’; Een adviseur inschakelen voor uw aanvraag"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": "The technology must be innovative and ready to be scaled up; for category B it must go beyond established practice across the EU.\nThe scheme finances commercial scale-up of an innovative technology. The condition of going beyond established commercial practice in the whole EU applies to category B (replacing fossil carbon); it was dropped for category A. Techniques that are already in the SDE++ (the Dutch renewable energy and CO2-reduction subsidy) are excluded.",
+          "sources": "RVO.nl, Nationale Investeringsregeling Klimaatprojecten Industrie (NIKI) (scheme page) · Waarvoor krijgt u subsidie?; Waarvoor krijgt u geen subsidie?\nStaatscourant 2026, 33351, Regeling tot wijziging van titel 4.13 (NIKI) van de Regeling nationale EZ-, LVVN- en KGG-subsidies · Toelichting 2.1 Wijziging van artikel 4.13.6"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "Basic engineering must be finished; the project starts within one year of the decision and the plant runs within four years.\nAfter commissioning the installation runs for 10 operating years, and must remain operational and profitable without subsidy afterwards.",
+          "sources": "RVO.nl, Nationale Investeringsregeling Klimaatprojecten Industrie (NIKI) (scheme page) · Voorwaarden; Basic engineering en rekenmethoden"
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": "This is a real production installation in the Netherlands, and applicants must check whether grid congestion could affect them.\n- Excluded activities: new infrastructure, cogeneration of heat and power, hydrogen from electrolysis, electricity from hydrogen, projects where more than 10% of the products are fuels, carbon capture and storage, and techniques already in the SDE++\n- Grid: a company that will use or produce more electricity because of the project must check before applying whether it will face an overloaded grid (grid congestion)",
+          "sources": "RVO.nl, Nationale Investeringsregeling Klimaatprojecten Industrie (NIKI) (scheme page) · Waarvoor krijgt u geen subsidie?; Hoe vraagt u aan?\nStaatscourant 2026, 33351, Regeling tot wijziging van titel 4.13 (NIKI) van de Regeling nationale EZ-, LVVN- en KGG-subsidies · Toelichting 5.3 (referentieproces)"
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "Industrial electrification under this tender adds large electricity demand that TenneT must connect; TenneT cannot take part because only industrial companies can apply.\nCategory A names electrification as a theme, so funded projects can raise electricity demand, which relates to TenneT's work on connection capacity and congestion. The page itself warns applicants to check for grid congestion before applying, and excludes projects for new infrastructure. The Dutch rule limits applicants to industrial companies in the listed sector groups, so TenneT cannot be an applicant. This is our interpretation: TenneT benefits from early information about large new industrial connections and about which sites decarbonise by electrification.",
+          "sources": "RVO.nl, Nationale Investeringsregeling Klimaatprojecten Industrie (NIKI) (scheme page) · Waarvoor krijgt u geen subsidie?; Voorwaarden; Hoe vraagt u aan?"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "The tender budget is EUR 250 million, for projects requesting at least EUR 30 million each; about two to four awards are expected.\n- Total project size: not stated\n- Grant request: at least EUR 30 million; no maximum per project is stated on the scheme page\n- Funding form: a subsidy for the unprofitable part of the project, based on investment costs and the net present value (today's value) of operating cash flows, with the bid at most EUR 300 per tonne of CO2 avoided",
+          "sources": "RVO.nl, Nationale Investeringsregeling Klimaatprojecten Industrie (NIKI) (scheme page) · Budget en aanvraagperiode; Waarvoor krijgt u subsidie?; Voorwaarden\nStaatscourant 2026, 33351, Regeling tot wijziging van titel 4.13 (NIKI) van de Regeling nationale EZ-, LVVN- en KGG-subsidies · Toelichting 9. Regeldruk"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "There is no percentage rate: the subsidy covers the calculated unprofitable part, and profitable projects are excluded.\nThe needed subsidy is calculated with the mandatory NIKI subsidy calculation model, based on the investment in the installation and on the operating-phase cash flows minus sales revenue of the NIKI products. Projects with a positive net present value in that calculation get no subsidy.",
+          "sources": "RVO.nl, Nationale Investeringsregeling Klimaatprojecten Industrie (NIKI) (scheme page) · Waarvoor krijgt u subsidie?; Waarvoor krijgt u geen subsidie?"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "The subsidy is capped by a price per tonne and fixed by the mandatory calculation; several project types are excluded.\n- Caps or mandatory allocations: bid of at most EUR 300 per tonne of CO2 avoided\n- Excluded costs: projects for new infrastructure, cogeneration, hydrogen from electrolysis, electricity from hydrogen, carbon capture and storage, and plants with more than 10% fuel products\n- Final amount: fixed only 10 years after the start of operation, at most the granted amount, with no increase",
+          "sources": "RVO.nl, Nationale Investeringsregeling Klimaatprojecten Industrie (NIKI) (scheme page) · Waarvoor krijgt u geen subsidie?\nStaatscourant 2026, 33351, Regeling tot wijziging van titel 4.13 (NIKI) van de Regeling nationale EZ-, LVVN- en KGG-subsidies · Toelichting 1.1; 5.3"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "Advances are paid partly during construction and partly during operation; the final amount is settled 10 years after operation starts.\n- Payment model: advances paid partly in the investment phase and partly in the operating phase; the first advance is the lower of 40% of the maximum granted subsidy and the total investment costs\n- Financial reporting or audit: a progress report once a year; an application for final determination after the project, which settles too little or too much subsidy; an auditor's statement is part of the application",
+          "sources": "RVO.nl, Nationale Investeringsregeling Klimaatprojecten Industrie (NIKI) (scheme page) · Waarvoor krijgt u subsidie?; Na uw aanvraag\nStaatscourant 2026, 33351, Regeling tot wijziging van titel 4.13 (NIKI) van de Regeling nationale EZ-, LVVN- en KGG-subsidies · Artikel 4.13.11 lid 2; Toelichting 1.1"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage; applications are due by 16 December 2026, 17:00, and only the accountant's statement may follow, by 29 January 2027.\n- Stage 1 — Application: 16 November 2026, 09:00 to 16 December 2026, 17:00, in the RVO eLoket with eHerkenning level 3 (a business login). Every document except the accountant's statement must be in by then\n- Additional procedure: the accountant's statement may be uploaded later, by 29 January 2027, 17:00, with a note in the application saying so; the earlier phase for submitting project ideas is closed",
+          "sources": "RVO.nl, Nationale Investeringsregeling Klimaatprojecten Industrie (NIKI) (scheme page) · Budget en aanvraagperiode; Accountantsverklaring; Aanvragen"
+        },
+        {
+          "title": "Project window",
+          "answer": "The project must start within one year of the decision, run commercially within four years of its start, and then operate for 10 years.\n- Maximum duration: four years from project start to commissioning, followed by 10 operating years\n- Required start: within one year after the decision",
+          "sources": "RVO.nl, Nationale Investeringsregeling Klimaatprojecten Industrie (NIKI) (scheme page) · Voorwaarden"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "RVO assesses within 13 weeks, which can be extended once by 13 weeks, and then sends a decision letter with payment details and obligations.\n- Expected invitation or assessment result: 13 weeks, extendable once by 13 weeks\n- Funding decision: a decision letter (subsidy decision) with payment details and obligations\n- Conditions before starting: none stated beyond the decision; the project must start within one year",
+          "sources": "RVO.nl, Nationale Investeringsregeling Klimaatprojecten Industrie (NIKI) (scheme page) · Na uw aanvraag; Voorwaarden"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "An incomplete application is not assessed; the package below is mandatory.\n- Application form: online form in the RVO eLoket\n- Mandatory annexes: project plan, climate plan, management statement (new this round, confirming financial data and CO2 values match internal budgets), accountant's statement (by 29 January 2027), the statement ‘no company in difficulty’ with its four parts (decision scheme, declaration, latest annual accounts, group chart), and the two mandatory calculation models (CO2 reduction and subsidy)\n- Registration: eHerkenning level 3 with RVO services authorisation; an adviser can apply on the company's behalf with authorisation",
+          "sources": "RVO.nl, Nationale Investeringsregeling Klimaatprojecten Industrie (NIKI) (scheme page) · Uw aanvraag voorbereiden; Verzamel de bijlagen; Aanvragen"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Complete applications are ranked on the bid: the lowest subsidy per tonne of CO2 avoided ranks first.\n- Evaluation criteria: completeness; fit with a category and theme; meeting all conditions; feasibility; correct use of the CO2 reduction method; correct use of the subsidy calculation method\n- Ranking rules: by the bid in euros per tonne of CO2 avoided, lowest first\n- Budget assessment: no additions or changes after the closing date for information that affects the assessment",
+          "sources": "RVO.nl, Nationale Investeringsregeling Klimaatprojecten Industrie (NIKI) (scheme page) · Hoe vraagt u aan?; Na uw aanvraag"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Some obligations apply after the award or only in certain situations.\n- Conditional — grid congestion: a company that will use or generate more electricity must check beforehand whether its region has grid congestion\n- Conditional — project changes: important changes must be reported at once, and some need prior permission; otherwise subsidy can be lost\n- Conditional — annual progress report: once a year after the award, on the RVO form\n- Exception — accountant's statement: may follow after the closing date, by 29 January 2027",
+          "sources": "RVO.nl, Nationale Investeringsregeling Klimaatprojecten Industrie (NIKI) (scheme page) · Hoe vraagt u aan?; Accountantsverklaring; Na uw aanvraag"
+        }
+      ]
+    }
+  ]
+}

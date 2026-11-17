@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "Research that lets at least three companies decide whether to form or expand an energy hub, a local agreement to use the electricity grid better.\nAn energy hub is a local collective agreement between companies on matching electricity demand and supply, using storage, energy conversion or other measures, so that they use less or more efficiently the transport capacity of the grid they are connected to. The subsidy pays for a scan (an exploratory study of current and future use and at least three packages of measures) or a study (an organisational, technical, financial or legal design). The need originates with companies that face grid congestion (a full electricity grid) and want to grow or become more sustainable.",
+          "sources": "RVO.nl, Onderzoek Energiehubs (EHUB) (scheme page) · Voor wie?; Krijgt u subsidie?\nStaatscourant 2026, 31575, Regeling tot wijziging van de Regeling nationale EZ-, LVVN- en KGG-subsidies (titel 4.16 Onderzoek Energiehubs) · Artikel 4.16.1 Begripsbepalingen; Artikel 4.16.2 Subsidieverstrekking"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The research should lead to hubs that use the electricity grid better and reduce congestion; the government aims for 500 energy hubs by 2030.\nThe page says a hub lets companies grow and become more sustainable despite grid overload, gives insight into their flexible capacity (the amount of electricity they can use more, less or at another time) and contributes directly to tackling congestion. The explanatory note refers to the goal of 500 energy hubs in 2030 and an evaluation of how far the scheme contributes to it.",
+          "sources": "RVO.nl, Onderzoek Energiehubs (EHUB) (scheme page) · Voor wie?\nStaatscourant 2026, 31575, Regeling tot wijziging van de Regeling nationale EZ-, LVVN- en KGG-subsidies (titel 4.16 Onderzoek Energiehubs) · Toelichting 10 Regeldrukeffecten; 12 Evaluatie"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "Dutch companies with a large grid connection that want to cooperate locally; at least three unconnected companies must take part.\n- Who applies: a company with a large connection (above 3x80 ampere), or, for a study, a legal entity set up for the hub (for example a cooperative); an agent such as a park manager, hub coordinator, business association or municipality can apply on their behalf\n- Partners: at least three companies in the Netherlands, each with a large connection, not part of the same group; other participating companies may be connected or have smaller connections\n- Fit: companies on the same business park or electricity ring (an underground cable loop linking companies to the regional grid)\nThe scan or study can be carried out by hired advisers or by the companies' own staff.",
+          "sources": "RVO.nl, Onderzoek Energiehubs (EHUB) (scheme page) · Voorwaarden; Uw aanvraag voorbereiden\nStaatscourant 2026, 31575, Regeling tot wijziging van de Regeling nationale EZ-, LVVN- en KGG-subsidies (titel 4.16 Onderzoek Energiehubs) · Artikel 4.16.2 lid 2–3"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": "The innovation is organisational and contractual: new ways for companies to share grid capacity, not necessarily new technology.\nThe study designs how the hub cooperates, its technical design, and agreements on joining, leaving, liability and costs. Measures can include storage, energy conversion, steering of demand and generation. The call does not ask for new technology.",
+          "sources": "RVO.nl, Onderzoek Energiehubs (EHUB) (scheme page) · Subsidie voor een studie\nStaatscourant 2026, 31575, Regeling tot wijziging van de Regeling nationale EZ-, LVVN- en KGG-subsidies (titel 4.16 Onderzoek Energiehubs) · Artikel 4.16.1 energiehub; Artikel 4.16.2 lid 1"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "The call sets no TRL: a scan explores options and a study produces a design; neither builds anything.\nA scan precedes a study: the scan compares at least three packages of measures, and the study works out the chosen design, so the project ends at design and business-case stage.",
+          "sources": "RVO.nl, Onderzoek Energiehubs (EHUB) (scheme page) · Subsidie voor een scan; Subsidie voor een studie\nStaatscourant 2026, 31575, Regeling tot wijziging van de Regeling nationale EZ-, LVVN- en KGG-subsidies (titel 4.16 Onderzoek Energiehubs) · Artikel 4.16.2; Artikel 4.16.10"
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": "No demonstration is funded: the work is research that must fit the local electricity grid and contracts with the grid operator.\nApplicants must show with a grid operator's overview on which ring their partners are connected (or a written statement for cooperation at transmission level). The final study report must include, where relevant, the draft terms of a group transport agreement (a joint grid transport contract) with the grid operator and the limits of the contracted capacity.",
+          "sources": "RVO.nl, Onderzoek Energiehubs (EHUB) (scheme page) · Uw aanvraag voorbereiden\nStaatscourant 2026, 31575, Regeling tot wijziging van de Regeling nationale EZ-, LVVN- en KGG-subsidies (titel 4.16 Onderzoek Energiehubs) · Artikel 4.16.9 onderdeel h; Artikel 4.16.10"
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "Energy hubs reduce congestion that TenneT must manage, but the subsidy goes only to companies and hub entities, so TenneT cannot take part.\nHubs aim to use less or more efficiently the transport capacity of the distribution or transmission grid, and hubs on TenneT's high-voltage grid would need a group transport agreement with the transmission system operator, a role TenneT could fill as counterparty. TenneT's work on flexibility and congestion (DataFleX, Grids & Benefits) points the same way. The regulation limits the subsidy to Dutch companies with a large connection and legal entities set up for a hub (Article 4.16.2), and TenneT is the grid operator rather than a hub partner.",
+          "sources": "Staatscourant 2026, 31575, Regeling tot wijziging van de Regeling nationale EZ-, LVVN- en KGG-subsidies (titel 4.16 Onderzoek Energiehubs) · Artikel 4.16.1 energiehub; Artikel 4.16.2 lid 2; Artikel 4.16.10 lid 2 onderdeel b"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "The total budget is EUR 9.6 million, with grants of EUR 5,000–42,000 per application.\n- Total project size: not stated\n- Grant request: scan EUR 5,000 (hub of up to 5 companies) or EUR 8,500 (6 or more); study EUR 25,000–42,000 for a new hub or EUR 25,000–32,000 for an expansion\n- Funding form: a fixed amount for a scan; a percentage of costs for a study, based on a fixed hourly rate",
+          "sources": "RVO.nl, Onderzoek Energiehubs (EHUB) (scheme page) · Budget en aanvraagperiode; Hoeveel subsidie krijgt u?\nStaatscourant 2026, 31575, Regeling tot wijziging van de Regeling nationale EZ-, LVVN- en KGG-subsidies (titel 4.16 Onderzoek Energiehubs) · Artikel 4.16.3 Hoogte subsidie; Artikel 4.16.4 Subsidiabele kosten"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "A study gets 70% of costs for a new hub and 40% for an expansion, within set limits; a scan gets a fixed amount.\n- New hub study: 70% of eligible costs, at least EUR 25,000 and at most EUR 42,000\n- Expansion study: 40% of eligible costs, at least EUR 25,000 and at most EUR 32,000\n- Scan: fixed EUR 5,000 or EUR 8,500; the applicant advances the scan costs, and only costs incurred before the application count\nIf a scan and a study are applied for together, the scan costs count towards the study subsidy.",
+          "sources": "RVO.nl, Onderzoek Energiehubs (EHUB) (scheme page) · Hoeveel subsidie krijgt u?\nStaatscourant 2026, 31575, Regeling tot wijziging van de Regeling nationale EZ-, LVVN- en KGG-subsidies (titel 4.16 Onderzoek Energiehubs) · Artikel 4.16.3 lid 1–2"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Costs are calculated with a fixed hourly rate, and some costs are excluded.\n- Eligible costs: the costs of the scan or study, calculated with the fixed hourly rate system\n- Excluded costs: costs of making each company's own energy use visible and costs of process guidance (help in bringing companies together); process guidance can be requested from the province under the national energy hub programme\n- Caps or mandatory allocations: the minimum and maximum amounts above",
+          "sources": "RVO.nl, Onderzoek Energiehubs (EHUB) (scheme page) · Waarvoor krijgt u geen subsidie?\nStaatscourant 2026, 31575, Regeling tot wijziging van de Regeling nationale EZ-, LVVN- en KGG-subsidies (titel 4.16 Onderzoek Energiehubs) · Artikel 4.16.4 Subsidiabele kosten"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "For a study, the applicant receives an advance and the rest after the final report.\n- Payment model: a provisional decision with an advance of 90% of the study subsidy, then the remaining 10% after the final decision on the final report; the scan subsidy is paid with the decision\n- Retention or guarantee: none stated",
+          "sources": "RVO.nl, Onderzoek Energiehubs (EHUB) (scheme page) · Maximale subsidie voor een scan en studie, Rekenvoorbeeld"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage; companies apply online between 1 October 2026 and 1 May 2027, 17:00.\n- Stage 1 — Application: from 1 October 2026, 09:00 to 1 May 2027, 17:00, in the RVO online application environment with eHerkenning (a business login). A scan must have been carried out after the scheme was published on 4 September 2026\n- Order: applications are handled in order of receipt, with a lottery if the budget is insufficient",
+          "sources": "RVO.nl, Onderzoek Energiehubs (EHUB) (scheme page) · Budget en aanvraagperiode; Voorwaarden; Uw aanvraag voorbereiden\nStaatscourant 2026, 31575, Regeling tot wijziging van de Regeling nationale EZ-, LVVN- en KGG-subsidies (titel 4.16 Onderzoek Energiehubs) · Artikel 4.16.5 Verdeling van het subsidieplafond"
+        },
+        {
+          "title": "Project window",
+          "answer": "A study must be finished within one year; a scan is done before applying.\n- Maximum duration: one year for a study\n- Required start: a study starts after approval; a scan must be done after the publication on 4 September 2026 and before applying",
+          "sources": "Staatscourant 2026, 31575, Regeling tot wijziging van de Regeling nationale EZ-, LVVN- en KGG-subsidies (titel 4.16 Onderzoek Energiehubs) · Artikel 4.16.6 Realisatietermijn\nRVO.nl, Onderzoek Energiehubs (EHUB) (scheme page) · Voorwaarden; Maximale subsidie voor een studie"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "Send all details with the application; RVO handles only complete applications.\n- Application form: the RVO form, with company data, establishment numbers and the EAN code of each connection\n- Mandatory annexes: a collective usage profile and graph of current electricity use, a description of future activities and demand, and for a scan at least three packages of measures, or for a study a plan of approach (goal, measures, research method, tasks, planning and financing plan)\n- Partner documents: a signed declaration of intent from each hub partner that it will take part actively; a statement that the applicant and at least two partners have a large connection (unless the applicant is a hub entity without one)\n- Registration: registration of the hub on the national energy hub initiatives radar and its registration number; an overview from the grid operator showing the ring, or a written statement for cooperation on the national grid",
+          "sources": "RVO.nl, Onderzoek Energiehubs (EHUB) (scheme page) · Uw aanvraag voorbereiden\nStaatscourant 2026, 31575, Regeling tot wijziging van de Regeling nationale EZ-, LVVN- en KGG-subsidies (titel 4.16 Onderzoek Energiehubs) · Artikel 4.16.9 Informatieverplichtingen"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "There is no scoring: applications are handled in order of receipt, and the Minister rejects them on listed grounds, including an insufficient plan of approach.\n- Ranking rules: order of receipt, with a lottery if the budget is insufficient\n- Rejection grounds: an applicant or partner that took part before in a subsidised scan or study of the same kind, or a study plan of insufficient quality (effective and efficient use of funds)",
+          "sources": "Staatscourant 2026, 31575, Regeling tot wijziging van de Regeling nationale EZ-, LVVN- en KGG-subsidies (titel 4.16 Onderzoek Energiehubs) · Artikel 4.16.5; Artikel 4.16.7 Afwijzingsgronden\nRVO.nl, Onderzoek Energiehubs (EHUB) (scheme page) · Budget en aanvraagperiode"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Recipients must share results, join the provincial programme and register the initiative.\n- Conditional — dissemination: cooperate in spreading the results and in an evaluation if the Minister asks\n- Conditional — provincial programme: a study recipient must take part in the provincial energy hub programme, where one exists in its province\n- Exception — scan costs: for a scan only costs incurred before the application count\n- Recommended: register the initiative at the national initiatives radar for energy hubs",
+          "sources": "Staatscourant 2026, 31575, Regeling tot wijziging van de Regeling nationale EZ-, LVVN- en KGG-subsidies (titel 4.16 Onderzoek Energiehubs) · Artikel 4.16.8 Verplichtingen subsidieontvanger; Artikel 4.16.4 lid 2\nRVO.nl, Onderzoek Energiehubs (EHUB) (scheme page) · Voorwaarden"
+        }
+      ]
+    }
+  ]
+}

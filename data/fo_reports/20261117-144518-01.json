@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "Local investments that improve living quality for residents near new 220/380 kV high-voltage stations and overhead lines, chosen together with those residents.\n220/380 kV is the national high-voltage backbone. The call gives a municipality a one-off specific payment (a grant from the national government to a municipality) for projects such as parks, walking and cycling paths, playgrounds and sports facilities, a community centre, or measures that make nearby homes more sustainable. The need originates with residents and other people affected by grid expansion in their area, and the regulation says the aim is to improve their living quality.",
+          "sources": "RVO.nl, Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV (scheme page) · Waarvoor krijgt u de specifieke uitkering?\nStaatscourant 2026, 26122, Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV · Artikel 2 Doel van de regeling; Artikel 3 Activiteiten"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The investments should improve living quality around grid projects, which the regulation links to local acceptance and fewer delays in grid expansion.\nThe explanatory note says that resistance in the surroundings of high-voltage projects strains relations between government levels and causes delays, while timely expansion is needed for climate goals and to reduce grid congestion. The call sets no measurable targets, such as a number of homes or hectares.",
+          "sources": "Staatscourant 2026, 26122, Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV · Toelichting 1. Inleiding; 2. Achtergrond"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "Only municipalities can apply, and only for a project on the national list of 220/380 kV stations and overhead lines in their territory.\n- Who leads: the municipality (gemeente); no consortium is needed\n- Eligible projects: a new station, a station extension that makes the site at least twice as large or adds at least 5 hectares, or a new overhead line of at least 1 km; projects entirely on an industrial estate do not qualify\n- Decision basis: the project must rest on a decision under the Environment Act (project decision, zoning-plan change, permit-type decision or instruction decision) taken between 1 January 2024 and 31 December 2030\n- Participation: the municipality must run a participation process with residents, including at least those within 200 metres, and its council must approve the spending plan\nThe municipality may get help with participation from an RVO expert pool for energy infrastructure projects.",
+          "sources": "RVO.nl, Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV (scheme page) · Voor wie?; Voorwaarden; Krijg hulp bij het participatieproces\nStaatscourant 2026, 26122, Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV · Artikel 3; Artikel 4; Artikel 9; Artikel 10"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "The listed projects are TenneT's own grid expansion, and the grant funds local measures that TenneT cannot provide itself, which could reduce resistance and delay.\nThe regulation takes its project list from TenneT's Investment Plan 2026 (about 30 projects expected to qualify) and names stations and lines such as Almere, Eemshaven Oostpolderweg, Maasbracht and the Diemen–Lelystad–Ens connection. Its note says requests from the surroundings sometimes go beyond the legal requirements and fall outside TenneT's authority, which is why the government pays municipalities for local investments. This is our interpretation of the benefit: better local acceptance of TenneT's stations and lines could shorten procedures. TenneT cannot take part because the specific payment goes only to municipalities (Articles 3 and 5).",
+          "sources": "Staatscourant 2026, 26122, Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV · Toelichting 2. Achtergrond; Projectenlijst\nStaatscourant 2026, 26122, Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV · Artikel 3 Activiteiten; Artikel 5 Hoogte, plafond en verdeling"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "The total budget is EUR 193.4 million, paid as fixed amounts per project in order of receipt of complete applications.\n- Total project size: not stated\n- Grant request: EUR 6 million for a new station, EUR 3 million for a station extension, and EUR 150,000 per kilometre of new overhead line (at least 1 km in the municipality), all including VAT\n- Funding form: fixed amount per project\nThe RVO page shows a total budget of EUR 197 million, which differs from the regulation's EUR 193.4 million; the regulation is the legal text.",
+          "sources": "Staatscourant 2026, 26122, Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV · Artikel 5 Hoogte, plafond en verdeling\nRVO.nl, Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV (scheme page) · Budget en aanvraagperiode; Hoe hoog is de specifieke uitkering?"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "There is no funding rate: the municipality receives a fixed amount per project, and the call states no own contribution.\nA request for a new overhead line can be combined with the request for a new station or station extension in the same municipality. The municipality is itself responsible for complying with state aid rules (rules that prevent unfair advantages to companies), so that businesses building the facilities do not receive an unlawful advantage.",
+          "sources": "Staatscourant 2026, 26122, Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV · Artikel 5; Artikel 6 Aanvraag, lid 2; Artikel 12 Verplichtingen, lid 3\nRVO.nl, Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV (scheme page) · Waarvoor krijgt u de specifieke uitkering?"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Only reasonable costs that are directly tied to the investments and incurred between 1 October 2026 and 31 December 2036 count.\n- Eligible costs: reasonable costs directly connected to the living-quality investments\n- Overheads and VAT: VAT is not covered, unless the municipality demonstrably cannot offset it or receive compensation under the VAT compensation fund law\n- Publicity: every publication about a funded project must state that it is funded by the specific payment",
+          "sources": "Staatscourant 2026, 26122, Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV · Artikel 7 In aanmerking komende kosten; Artikel 12 Verplichtingen, lid 4"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "The municipality receives 20% soon after the decision and 80% after the council has approved its spending plan.\n- Payment model: a first advance of 20% (excluding VAT) within two weeks of the decision, and a second advance of 80% within eight weeks of receiving the council decision and its documents\n- Retention or guarantee: none stated\n- Financial reporting or audit: the municipality accounts for the spending under the Financial Relations Act; unspent or unlawfully spent amounts can be reclaimed",
+          "sources": "Staatscourant 2026, 26122, Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV · Artikel 8 Voorschotten; Artikel 15 Verantwoording en terugvordering"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage; a municipality applies online at any time from 15 October 2026 until 31 March 2031, 17:00.\n- Stage 1 — Application: from 15 October 2026, 09:00 to 31 March 2031, 17:00, in the RVO eLoket (online application portal), with eHerkenning level 3 (a business login). The application includes a participation plan and a reference to the project decision\n- Order: complete applications are handled in order of receipt",
+          "sources": "RVO.nl, Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV (scheme page) · Budget en aanvraagperiode; Aanvragen\nStaatscourant 2026, 26122, Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV · Artikel 5 lid 2; Artikel 6 Aanvraag"
+        },
+        {
+          "title": "Project window",
+          "answer": "After the decision, the municipality has up to 5 years in total to complete its investments.\n- Maximum duration: the council decision and documents are due within 2 years of the grant decision, and the activities must be finished within 3 years of the council decision, which can be extended in exceptional cases\n- Eligible-cost period: costs incurred from 1 October 2026 to 31 December 2036",
+          "sources": "Staatscourant 2026, 26122, Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV · Artikel 7; Artikel 10 Raadsbesluit; Artikel 12 Verplichtingen\nRVO.nl, Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV (scheme page) · Na uw aanvraag"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "RVO decides within 8 weeks of a complete application, and the first advance follows within 2 weeks of the decision.\n- Expected invitation or assessment result: within 8 weeks of receipt of the complete application; this can be extended once by up to 8 weeks\n- Funding decision: the decision letter follows the assessment; the first advance of 20% follows within 2 weeks\n- Conditions before starting: the council decision approving the spending plan, with the participation report and council minutes, before the second advance",
+          "sources": "Staatscourant 2026, 26122, Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV · Artikel 6 lid 4–5; Artikel 8; Artikel 10\nRVO.nl, Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV (scheme page) · Na uw aanvraag"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "A complete application needs the municipality's details, a reference to the project decision, the calculated amount and a participation plan.\n- Application form: the RVO online form, with the date of application\n- Mandatory annexes: the participation plan on the RVO format (describing the groups involved, how they are informed and heard, how input is used and a timeline)\n- Partner documents: a reference to the decision (project decision, zoning-plan change or similar) for the grid project\n- Registration: municipality name, Chamber of Commerce number, bank details and a contact person; eHerkenning level 3 with the authorisation for RVO services",
+          "sources": "Staatscourant 2026, 26122, Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV · Artikel 6 Aanvraag, lid 3; Artikel 9 Participatie\nRVO.nl, Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV (scheme page) · Uw aanvraag voorbereiden; Aanvragen"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "There is no scoring: complete applications from eligible municipalities are granted in order of receipt until the budget is used.\n- Ranking rules: order of receipt of complete applications\n- Rejection ground: the Minister rejects an application if there are well-founded reasons to expect that the municipality will not meet the obligations in the regulation",
+          "sources": "Staatscourant 2026, 26122, Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV · Artikel 5 lid 2; Artikel 13 Afwijsgronden\nRVO.nl, Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV (scheme page) · Na uw aanvraag"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Participation with residents is mandatory and must be documented, and the project list can change each year.\n- Conditional — participation: the municipality must run a participation process, including at least residents within 200 metres, and report on it\n- Conditional — council approval: the municipal council must approve the spending plan before the second advance\n- Conditional — project list: the list of eligible grid projects is updated every year, so projects can be added or removed\n- Exception — annulled decision: if the project decision is annulled after payment, the payment is settled under Article 16, part a",
+          "sources": "RVO.nl, Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV (scheme page) · Voorwaarden\nStaatscourant 2026, 26122, Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV · Artikel 9; Artikel 10; Artikel 15 lid 3; Artikel 16"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "20261117-144518-02",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "Onderzoek Energiehubs (EHUB) – Regeling nationale EZ-, LVVN- en KGG-subsidies, titel 4.16 (Stimuleringsprogramma Energiehubs)",
+  "organization_or_parent_framework": "Dutch Ministry of Climate Policy and Green Growth (executed by the Netherlands Enterprise Agency, RVO)",
+  "programme": "Regeling nationale EZ-, LVVN- en KGG-subsidies, titel 4.16 (Stimuleringsprogramma Energiehubs)",
+  "call_title": "Onderzoek Energiehubs (EHUB)",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://www.rvo.nl/subsidies-financiering/ehub",
+  "executive_summary": "Subsidy for research into forming or expanding an energy hub: a local agreement between at least three unconnected companies with a large grid connection (above 3x80 ampere) to use the electricity grid more efficiently, for example with storage, conversion or flexible demand. Two kinds of research are funded: a scan (fixed EUR 5,000 for up to 5 companies, EUR 8,500 for 6 or more) and a study (70% of costs, EUR 25,000-42,000, for a new hub; 40%, EUR 25,000-32,000, for an expansion). The budget is EUR 9.6 million, handled in order of receipt with a lottery if the budget is short. Applications run from 2026-10-01 to 2027-05-01 at 17:00; a study must be completed within one year.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-05-01",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": 35714,
+  "maximum_project_size": 80000,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "The RVO scheme page (Voorwaarden) and Staatscourant 2026, 31575, art. 4.16.2–4.16.3, fund feasibility scans and design studies for energy hubs that reduce use of the electricity grid, which relates to TenneT's work on flexibility and congestion (DataFleX, Grids & Benefits). Only Dutch companies with a large connection, or a legal entity set up for the hub, can apply (art. 4.16.2), so TenneT cannot take part, although the study report must include a draft group transport agreement with the relevant system operator (art. 4.16.10), which could be TenneT for hubs on the transmission grid. TenneT could benefit through reduced congestion; this supports Type 3 and C3.3 (flexibility and demand). The two project sizes are the subsidy limits divided by the 70% and 40% rates, and both project dates are null because the call states none.",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T5",
+      "T10"
+    ],
+    "role": [],
+    "activity": [
+      "A3",
+      "A4",
+      "A14"
+    ],
+    "outcome": [
+      "O7",
+      "O10"
+    ]
+  }
+}
