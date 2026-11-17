@@ -1,0 +1,28 @@
+{
+  "id": "20261117-115555-04",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "DIGITAL-ECCC-2027-DEPLOY-CYBER-11-NCC Enhancing the NCC Network – Digital Europe Programme",
+  "organization_or_parent_framework": "European Cybersecurity Competence Centre (ECCC)",
+  "programme": "Digital Europe Programme",
+  "call_title": "Strengthening European Cybersecurity Technologies, Capacities and Preparedness (DIGITAL-ECCC-2027-DEPLOY-CYBER-11)",
+  "call_module_title": "DIGITAL-ECCC-2027-DEPLOY-CYBER-11-NCC Enhancing the NCC Network",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-ECCC-2027-DEPLOY-CYBER-11-NCC",
+  "executive_summary": "Funds the operation of the National Coordination Centres (NCCs) for cybersecurity: support to the national cybersecurity community and SMEs, uptake of cybersecurity solutions, start-up support, awareness and skills, cyber exercises and financial support to third parties of up to EUR 100,000 each. Targets NCCs recognised by the Commission, with other public and private entities in consortium with them; entities must be established in and controlled from EU or EEA countries. Simple Grants at 50%; EU contribution expected at EUR 2–3 million per project, EUR 11 million for about 4 projects; indicative duration 36 months. Opened 1 September 2026; single-stage deadline 14 January 2027, 17:00 CET.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-01-14",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": 4000000,
+  "maximum_project_size": 6000000,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "The call document (DEP 11, pp. 28-35, NCC Objectives, Scope and Targeted stakeholders) funds the running of the National Coordination Centres: community building, awareness, skills, start-up support and help with applications to ECCC calls. No project file is close: TwinEU concerns grid resilience and cybersecurity of the electricity system, while this topic builds the general national cybersecurity ecosystem, and the one item on national cyber exercises for critical sectors names no energy application, so it does not touch TenneT's field.",
+  "call_type": "Not relevant",
+  "category_codes": [],
+  "taxonomy_values": {
+    "topic": [],
+    "role": [],
+    "activity": [],
+    "outcome": []
+  }
+}

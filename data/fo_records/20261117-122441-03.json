@@ -1,0 +1,39 @@
+{
+  "id": "20261117-122441-03",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "DIGITAL-ECCC-2027-DEPLOY-CYBER-12-CBCH Cross-border Cyber Hubs – Digital Europe Programme",
+  "organization_or_parent_framework": "European Cybersecurity Competence Centre (ECCC)",
+  "programme": "Digital Europe Programme",
+  "call_title": "Cyber Hubs Capacity Building (DIGITAL-ECCC-2027-DEPLOY-CYBER-12)",
+  "call_module_title": "DIGITAL-ECCC-2027-DEPLOY-CYBER-12-CBCH Cross-border Cyber Hubs",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-ECCC-2027-DEPLOY-CYBER-12-CBCH",
+  "executive_summary": "Funds new Cross-Border Cyber Hubs, or enlargement of existing ones, that pool threat data and intelligence between National Cyber Hubs of several Member States and share it with CSIRTs, ISACs and operators of critical infrastructure; may also cover monitoring of submarine cables. Targets public bodies acting as National Cyber Hubs; consortia need beneficiaries from at least 3 eligible countries, and grants go only to applicants that succeed in the linked joint-procurement expression of interest; entities must be established in and controlled from EU or EEA countries. Simple Grants at 50%; EU contribution indicatively EUR 1–2 million per project, EUR 2 million in total; indicative duration 36 months. Opened 15 October 2026; single-stage deadline 16 March 2027, 17:00 CET.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-03-16",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": 2000000,
+  "maximum_project_size": 4000000,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "The call document (DEP 12 Call fiche, pp. 11-15, CBCH Objectives and Scope) funds cross-border platforms that pool cyber threat intelligence and spread it to CSIRTs, ISACs and operators of critical infrastructures, with optional monitoring of submarine cables, which touches the protection of TenneT's grid and offshore cables; TwinEU (grid resilience and cybersecurity) is the closest project file. The targeted stakeholders are public bodies acting as National Cyber Hubs (p. 14), and grants go only to applicants that succeed in the joint-procurement expression of interest (section 6, p. 18), so the call sets out no route for a grid operator such as TenneT; operators of critical infrastructures appear only as recipients of the shared information. The hubs' threat intelligence would benefit TenneT through others, which fits C3.4.",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.4"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T8",
+      "T1"
+    ],
+    "role": [],
+    "activity": [
+      "A6",
+      "A10",
+      "A16"
+    ],
+    "outcome": [
+      "O2"
+    ]
+  }
+}

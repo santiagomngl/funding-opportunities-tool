@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "Working dual-use cybersecurity systems (prototypes, ready-to-market products or operational infrastructures) that serve both civilian and defence users.\nDual use means a technology useful in both civilian and military settings. The call wants civilian and defence organisations to build working systems together, not studies.",
+          "sources": "Call Document  DEP 11.pdf · pp. 42–46 · DUALUSE, Objectives; Scope"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Projects choose a technology domain and deploy it for one or more use areas; the lists are examples, not limits.\nDomains of interest:\n- Quantum-safe cryptography (encryption that resists future quantum computers)\n- Zero Trust Architectures (no user or device is trusted by default, every access is checked)\n- AI-driven threat detection and response, including anomaly detection in critical networks\n- Cyber ranges (training and test environments that simulate networks) including digital twins for cybersecurity\n- SOAR platforms (Security Orchestration, Automation and Response: tools that automate incident handling)\n- Other cybersecurity domains of common civil-defence interest\nUse areas for demonstration and deployment:\n- Critical infrastructure protection, with energy grids, undersea infrastructure, transport, communication and healthcare named as examples\n- Secure communications between civilian and defence stakeholders\n- Hybrid threat management, for example GPS jamming, cable sabotage or ransomware combined with disinformation\n- Extending SOC/CSIRT (security operations and incident response team) functions to military requirements\n- Digital fraud and digital violence prevention\nOn request of the ECCC (European Cybersecurity Competence Centre, which runs the call), consortia must join clustering activities with other projects.",
+          "sources": "Call Document  DEP 11.pdf · pp. 42–46 · DUALUSE, Scope"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The need is shared by civilian critical-infrastructure protectors and defence bodies facing the same cyber and hybrid threats.\nThe call argues that combining civilian and military technology strengthens resilience of critical infrastructure and that spill-overs between the two drive innovation and market uptake. Operators of energy grids are explicitly among the infrastructures to protect.",
+          "sources": "Call Document  DEP 11.pdf · pp. 42–46 · DUALUSE, Objectives; Scope"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "Working dual-use systems and frameworks, plus mandatory reporting deliverables.\nExpected outcomes include:\n- A secure, standardised data-sharing framework between civilian and military stakeholders\n- European-level early warning systems for cyber and hybrid threats to critical infrastructure\n- Joint civil-military training programmes with AI and cybersecurity scenarios\n- Integrated threat detection systems using AI, Zero Trust and digital twins across sectors\n- Harmonised cross-sector security standards for dual-use technology\nEvery project also delivers a dissemination and exploitation plan within six months and yearly Project Outputs and KPIs (key performance indicators) reports.",
+          "sources": "Call Document  DEP 11.pdf · pp. 42–46 · DUALUSE, Expected Outcomes\nCall Document  DEP 11.pdf · p. 57 · 10. Milestones and deliverables"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The project must strengthen protection of civilian and defence critical infrastructure and bring the two communities together, measured by set indicators.\nMandatory topic indicators:\n- Number of civilian and defence stakeholders involved\n- Number of dual-use use cases, scenarios or good practices documented\nOptional ones count industrial stakeholders, publications and joint knowledge-transfer actions. No numerical targets are set.",
+          "sources": "Call Document  DEP 11.pdf · pp. 42–46 · DUALUSE, KPIs"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "Results should be ready for market or operational use and interoperable across Member States.\nThe call asks for ready-to-market products or operational infrastructures, harmonised standards for interoperability and scalability, and EU-wide frameworks. Results may only be exploited in EU or EEA countries, with limits on transfers and licensing. The call does not say who runs the systems after the grant.",
+          "sources": "Call Document  DEP 11.pdf · pp. 42–46 · DUALUSE, Scope; Expected Outcomes\nCall Document  DEP 11.pdf · p. 61 · 10. IPR rules"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "No minimum: a single organisation may apply. Multi-country consortia are not mandatory but add to the impact.",
+          "sources": "Call Document  DEP 11.pdf · p. 50 · 6. Consortium composition\nCall Document  DEP 11.pdf · pp. 42–46 · DUALUSE, Targeted stakeholders"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "No partner types are required, but the call aims at joint civil-defence consortia.\nTargeted stakeholders: industrial players, defence ministries and agencies, interior ministries, SMEs and start-ups, and other actors in the civilian (including law enforcement) and defence cybersecurity spheres. All partners must be established in and controlled from EU or EEA countries.",
+          "sources": "Call Document  DEP 11.pdf · pp. 42–46 · DUALUSE, Targeted stakeholders\nCall Document  DEP 11.pdf · p. 48 · 6. Eligibility"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "The call sets no split of work or budget.\nMain participants should be beneficiaries or affiliated entities; associated partners take part at their own cost; subcontracting beyond 30% of eligible costs is only possible in very exceptional cases. A consortium agreement is required with more than one beneficiary.",
+          "sources": "Call Document  DEP 11.pdf · p. 65 · 13. Important, Consortium roles\nCall Document  DEP 11.pdf · p. 62 · 10. Other specificities"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "Any eligible legal entity may coordinate; the call does not restrict the role.",
+          "sources": "Call Document  DEP 11.pdf · p. 65 · 13. Important, Coordinator"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "Yes: TenneT TSO B.V. could apply alone or coordinate.\nAny public or private legal entity may be a beneficiary (a partner that receives part of the grant) if it is established in an EU Member State, Norway, Iceland or Liechtenstein and is not directly or indirectly controlled from any other country.\nThis security restriction (Article 12(5) of the Digital Europe Regulation, the EU law that sets up the programme) applies to every topic of this call and to every role: beneficiary, affiliated entity, associated partner and subcontractor. Every participant must submit an ownership control declaration, except entities validated as public bodies. All project work, including subcontracted work, must take place in those eligible countries. TenneT TSO B.V. is a Dutch company owned by the Dutch State, so it meets these conditions; it must still file the declaration if it is not validated as a public body. A credible lead would normally be a technology provider or a defence or security body; TenneT would more plausibly join.",
+          "sources": "Call Document  DEP 11.pdf · pp. 48–50 · 6. Eligibility\nCall Document  DEP 11.pdf · pp. 69–70 · Annex 2"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes, as a funded beneficiary or as an associated partner at its own cost.\nAn associated partner works in the project without grant money but must still meet the EU-control restriction and file an ownership control declaration.",
+          "sources": "Call Document  DEP 11.pdf · p. 65 · 13. Important, Associated partners"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Yes, at 50% of its eligible costs as a beneficiary.\nTenneT would fund the other half itself. Only costs of work in EU or EEA countries count, indirect costs are a flat 7% of direct costs, and the grant may not produce a profit. The ECCC funds partners directly; there are no separate Dutch rules.",
+          "sources": "Call Document  DEP 11.pdf · pp. 42–46 · DUALUSE, Type of action and funding rate\nCall Document  DEP 11.pdf · pp. 57–59 · 10. Form of grant; Budget categories"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT would be credible as the energy-grid operator where dual-use detection and hybrid-threat tools are demonstrated.\nThe call names energy grids, undersea infrastructure and cable sabotage. TenneT could offer OT (operational technology) security requirements, a cyber range or digital-twin environment of grid control systems, and its offshore cable assets as a use case, alongside defence partners that bring threat intelligence. This is an interpretation of the call's use areas.",
+          "sources": "Call Document  DEP 11.pdf · pp. 42–46 · DUALUSE, Scope"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "Working systems are required, not research: prototypes, ready-to-market products or operational infrastructures, which may build on results of Digital Europe, Horizon Europe and the European Defence Fund.",
+          "sources": "Call Document  DEP 11.pdf · pp. 42–46 · DUALUSE, Objectives; Scope"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Mainly technology (cryptography, Zero Trust, AI detection, cyber ranges, SOAR), with operational cooperation and standards between civilian and defence actors.",
+          "sources": "Call Document  DEP 11.pdf · pp. 42–46 · DUALUSE, Scope; Expected Outcomes"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Prototyping, demonstration and deployment; the domains are expected to be demonstrated and deployed.",
+          "sources": "Call Document  DEP 11.pdf · pp. 42–46 · DUALUSE, Scope"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "The call sets no TRL (technology readiness level); it asks for working prototypes to ready-to-market products and scores project maturity.",
+          "sources": "Call Document  DEP 11.pdf · pp. 42–46 · DUALUSE, Scope\nCall Document  DEP 11.pdf · p. 55 · 9. Award criteria"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "The solutions must be demonstrated and deployed in use areas such as critical infrastructure protection; the call does not fix a laboratory or live setting.",
+          "sources": "Call Document  DEP 11.pdf · pp. 42–46 · DUALUSE, Scope"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The call asks for integrated, interoperable systems across sectors and between civilian and military users, such as unified threat detection and secure data sharing.",
+          "sources": "Call Document  DEP 11.pdf · pp. 42–46 · DUALUSE, Expected Outcomes"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "Evidence comes from the applicant's indicators, reported yearly with baselines, targets and verification; mandatory ones count stakeholders involved and dual-use use cases documented.",
+          "sources": "Call Document  DEP 11.pdf · pp. 42–46 · DUALUSE, KPIs\nCall Document  DEP 11.pdf · pp. 9–11 · 2. Guidance on milestones, deliverables and KPIs"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "The call does not require users to co-design, but expects partnerships among national authorities, SMEs, academia and industry, and joint training with civilian and military personnel.",
+          "sources": "Call Document  DEP 11.pdf · pp. 42–46 · DUALUSE, Expected Outcomes"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "Strict security rules apply and defence links may bring classified information.\n- Only EU- or EEA-controlled entities may take part, in any role; work must take place in eligible countries.\n- AI-driven detection must respect the GDPR and the AI Act.\n- Projects with EU classified information need security scrutiny; the grant cannot be signed until at least one beneficiary has facility security clearance.\n- Results may only be exploited in eligible countries, with limits on transfers and licensing.",
+          "sources": "Call Document  DEP 11.pdf · pp. 42–46 · DUALUSE, Scope\nCall Document  DEP 11.pdf · pp. 48, 51–52 · 6. Eligibility; Security\nCall Document  DEP 11.pdf · p. 61 · 10. IPR rules"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "About EUR 3–5 million of EU funding per project, from a topic budget of EUR 10 million for about 3 projects.\n- Total project size: the call states no project size; at the 50% rate a EUR 3–5 million grant implies total eligible costs of about EUR 6–10 million.\n- Grant request: per project; other amounts may be requested if duly justified, and the grant awarded may be lower than requested.\n- Funding form: budget-based mixed actual-cost grant (actual costs incurred are reimbursed, with some unit-cost and flat-rate elements, not the budgeted amounts).",
+          "sources": "Call Document  DEP 11.pdf · p. 46 · 3. Available budget\nCall Document  DEP 11.pdf · p. 57 · 10. Form of grant, funding rate and maximum grant amount\nTopic page, Budget overview (EU Funding & Tenders Portal)"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "A single rate of 50% of eligible costs applies to every partner, whatever its size.\n- Co-financing conditions: the other 50% must come from the partners' own resources or other income; Simple Grants (the call's standard grant type) pay no higher rate for SMEs.\n- Evidence required: no co-financing letter is required; financial capacity is checked during grant preparation.",
+          "sources": "Call Document  DEP 11.pdf · p. 57–58 · 10. Form of grant, funding rate and maximum grant amount\nCall Document  DEP 11.pdf · p. 66 · Annex 1, Digital Europe types of action\nCall Document  DEP 11.pdf · p. 65 · 13. Important, Consortium roles"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Only actual costs of work in eligible countries count, with a 7% flat rate for indirect costs.\n- Eligible costs: personnel (average personnel costs allowed), subcontracting, travel (actual costs only), equipment, other goods and services, internally invoiced goods and services, indirect costs.\n- Caps or mandatory allocations: subcontracting should normally be a limited part; going beyond 30% of total eligible costs is only possible in very exceptional cases and must be justified.\n- Excluded costs: costs of activities outside the EU and EEA countries; separate project websites; in-kind contributions given for free cannot be declared as costs.\n- Overheads and VAT: indirect costs at a flat 7% of eligible direct costs; non-deductible VAT is eligible, except VAT paid by public bodies acting as public authority.\n- Subcontracting or equipment: for this topic depreciation of equipment is eligible, and the full cost of listed equipment; subcontracted work must be performed in eligible countries.",
+          "sources": "Call Document  DEP 11.pdf · pp. 58–59 · 10. Budget categories and cost eligibility rules\nCall Document  DEP 11.pdf · p. 65 · 13. Important, Consortium roles"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "Most of the grant is paid up front, but grants may not make a profit and overpayments are recovered.\n- Payment model: prefinancing of normally 80% of the maximum grant after signature, one or more interim payments, then the balance; all payments go to the coordinator.\n- Retention or guarantee: a prefinancing guarantee, normally from the coordinator, may be required if financial capacity is judged weak; public bodies are not checked for financial capacity.\n- Financial reporting or audit: for-profit organisations must declare revenues and any profit is deducted from the final grant.",
+          "sources": "Call Document  DEP 11.pdf · pp. 52, 59–60 · 7. Financial capacity; 10. Reporting and payment arrangements; Prefinancing guarantees\nCall Document  DEP 11.pdf · p. 58 · 10. Form of grant"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: a full proposal submitted online through the EU Funding & Tenders Portal by 14 January 2027, 17:00 CET (Brussels).\n- Stage 1 — Full proposal: 14 January 2027, 17:00:00 CET; Part A (administrative data and budget, filled in online), Part B (technical description, at most 70 pages) and ownership control declarations for all participants; every beneficiary, affiliated entity and associated partner needs a PIC (a 9-digit participant identification code from the Participant Register).\n- Additional procedure: none; each proposal may address only one topic of the call.",
+          "sources": "Call Document  DEP 11.pdf · p. 4 · 0. Introduction\nCall Document  DEP 11.pdf · pp. 46–48 · 4. Timetable and deadlines; 5. Admissibility and documents\nCall Document  DEP 11.pdf · p. 62 · 11. How to submit an application"
+        },
+        {
+          "title": "Project window",
+          "answer": "An indicative duration of 36 months, starting after grant signature, which is expected in October 2027.\n- Maximum duration: 36 months indicative; other durations are not excluded and extensions are possible through an amendment if duly justified.\n- Required start: normally after grant signature; a retroactive start may exceptionally be granted, but never before the proposal submission date.\n- Eligible-cost period: from the start date fixed in the grant agreement.",
+          "sources": "Call Document  DEP 11.pdf · p. 56–57 · 10. Starting date and project duration\nCall Document  DEP 11.pdf · pp. 46–47 · 4. Timetable and deadlines"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Results are expected in April 2027 and grant signature in October 2027 (both indicative).\n- Expected invitation or assessment result: evaluation February–March 2027; information on results April 2027.\n- Funding decision: April 2027, indicative; an invitation to grant preparation is not yet a commitment to fund.\n- Grant agreement: October 2027, indicative.\n- Conditions before starting: legal entity validation, financial capacity and exclusion checks, ownership control assessment, ethics review; a consortium agreement where there is more than one beneficiary; if EU classified information is involved, at least one beneficiary must hold facility security clearance before signature.",
+          "sources": "Call Document  DEP 11.pdf · pp. 46–47 · 4. Timetable and deadlines\nCall Document  DEP 11.pdf · pp. 51–52, 55 · 6. Ethics; Security; 8. Evaluation and award procedure\nCall Document  DEP 11.pdf · p. 62 · 10. Other specificities"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "The proposal must contain Part A, Part B and ownership control declarations, all through the Portal submission system.\n- Application form: Part A online; Part B downloaded from the submission system, at most 70 pages; any official EU language, but the abstract must be in English and English is strongly advised.\n- Budget: summarised budget in Part A; no detailed budget table is required.\n- Mandatory annexes: ownership control declarations, including for associated partners and subcontractors.\n- Partner documents: the coordinator confirms a mandate to act for all applicants; each beneficiary signs a declaration of honour before grant signature.\n- Registration: EU Login account and PIC for every participant; beneficiaries are validated by the Central Validation Service.",
+          "sources": "Call Document  DEP 11.pdf · pp. 47–48 · 5. Admissibility and documents\nCall Document  DEP 11.pdf · pp. 62, 64–65 · 11. How to submit; 13. Important, Registration; Language"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Proposals are scored on relevance, implementation and impact, each out of 5, and need at least 3 on each and 10 overall.\n- Evaluation criteria: relevance (fit with the topic, policy contribution, supply-chain security where applicable); implementation (maturity, soundness of the plan, capacity of the applicants); impact (expected outcomes, competitiveness and benefits for society).\n- Thresholds: 3 out of 5 per criterion; 10 out of 15 overall.\n- Ranking rules: ties are broken first by themes not covered by higher-ranked proposals, then by the relevance score, then by the impact score, then by portfolio considerations.\n- Budget assessment: the grant awarded may be lower than requested and costs may be adjusted in grant preparation.",
+          "sources": "Call Document  DEP 11.pdf · pp. 54–56 · 8. Evaluation and award procedure; 9. Award criteria"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Some conditions depend on the project.\n- Conditional — ECCC request: consortia must join clustering activities with other projects.\n- Conditional — EU classified information: security scrutiny and facility security clearance before signature.\n- Exception — award criteria: supply-chain security, overcoming lack of market finance and environmental sustainability are not scored for this topic.\n- Recommended: apply for membership of the Cybersecurity Competence Community through the National Coordination Centre and attach proof.",
+          "sources": "Call Document  DEP 11.pdf · pp. 42–46 · DUALUSE, Scope; Specific topic conditions\nCall Document  DEP 11.pdf · pp. 51–52 · 6. Security\nCall Document  DEP 11.pdf · p. 47 · 5. Admissibility and documents"
+        }
+      ]
+    }
+  ]
+}
