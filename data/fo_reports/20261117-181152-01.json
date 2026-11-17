@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "The project must develop one open, transferable methodological framework that gives a system view of (critical) materials in the Dutch energy system.\nThe framework must show where materials embedded in products and infrastructure are located, in what form, how much technical value they keep, when they become available for reuse and whether that secondary supply matches future demand. The call names electricity networks, renewable generation, energy storage and emerging energy technologies as the parts of the energy system that depend on these materials. It must not be \"another stand-alone model\": the framework must let existing and future datasets, models and monitoring systems work together, be compared consistently and be updated over time.",
+          "sources": "System-perspective-on-materials-NWA-PL2-EN.pdf · pp. 3–4 · 2.1 Aim of the programme\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · p. 2 · 1.1 Brief summary"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "The project should address six linked themes; the call sets no list of excluded activities.\n- Technical value of materials: how composition, purity, form and recoverability are created, kept or lost through design, use, reuse and recycling, and how product design affects later circular availability\n- Dynamic material stocks and timing: when, in what quantity and quality, materials in energy-transition products and infrastructure become available, using dynamic stock models, material flow analysis and scenarios linked to existing Dutch energy-transition scenarios\n- Strategic autonomy and resilience: vulnerabilities from import dependence, geopolitics, technological change and supply-chain concentration, with quantitative evaluation of interventions such as circular design, reuse, substitution, stockpiling and policy measures\n- Data infrastructures, interoperability and digitalisation: data needs, data governance, AI and links with existing national and international data infrastructures\n- Longevity and accessibility: methods, data structures and software must stay open, reusable and maintainable after the project\n- Governance and implementation: ownership, stewardship, financial incentives and mechanisms for circulating materials across sectors, and who maintains the framework afterwards\nThe research must be interdisciplinary (natural sciences and engineering through to governance and law) and must connect fundamental, applied and practice-oriented research.",
+          "sources": "System-perspective-on-materials-NWA-PL2-EN.pdf · pp. 4–5 · 2.1.1 Substantive framework\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · pp. 3–4 · 2.1 Aim of the programme"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The need is national and policy-driven: the Netherlands cannot yet see whether its energy-transition materials will be available and reusable.\nThe call states that supply security, technical usability and circular access are increasingly uncertain for several material groups, including critical raw materials, while global competition and supply-chain dependencies grow. Large quantities are already embedded in products and infrastructure, but existing datasets, models and monitoring give only fragmented insight. The call was initiated by the Ministry of Economic Affairs and Climate, the Ministry of Infrastructure and Water Management and Energy Innovation NL (the Dutch public-private programme for energy innovation), so the need belongs to policy makers first, and also to industry along the value chain and knowledge institutions as future users of the framework. A proposal must give a clear problem definition linked to these objectives; the assessment weighs its societal and scientific urgency.",
+          "sources": "System-perspective-on-materials-NWA-PL2-EN.pdf · pp. 2–3 · 1.2 Introduction; 2.1 Aim of the programme\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · p. 19 · 4.1 Criteria"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "The call expects an open methodological framework with the models, data infrastructure and governance needed to use it.\nIts expected outcomes are:\n- A scientifically grounded methodology for integrated material system analysis\n- Interoperable models and data infrastructures that build on existing models and public datasets (the call lists relevant ones in annex 7.4)\n- Improved insight into material stocks and future availability\n- Quantitative resilience assessments\n- Governance frameworks for long-term implementation and policy support\nMethods, data structures and software must remain openly accessible. The proposal itself must include an Impact Plan and a data management section, and the project must produce a data management plan before it starts.",
+          "sources": "System-perspective-on-materials-NWA-PL2-EN.pdf · pp. 4–5 · 2.1.1 Substantive framework\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · p. 7 · 2.2.2 Impact Plan approach in the NWA\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · p. 25 · 5.1.2 Data management plan"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The project must support strategic autonomy of the Netherlands in materials for the energy transition and evidence-based policy making; the call sets no numerical targets.\nThe framework should let users evaluate interventions (circular design, reuse, substitution, stockpiling, policy) that make the Dutch energy system more robust against import dependence and supply disruptions. The call places the work in four NWA routes (the Dutch Research Agenda's thematic networks): Energy Transition, Materials – Made in Holland, Circular economy, and Towards resilient societies. Applicants must set out the intended scientific and societal impact and a route to impact, including the role of each partner, in an Impact Plan drawn up with stakeholders; this counts for 20% of the score.",
+          "sources": "System-perspective-on-materials-NWA-PL2-EN.pdf · pp. 3–5 · 2.1 Aim of the programme; 2.1.1 Substantive framework\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · pp. 6–7 · 2.2.1 Societal impact of research; 2.2.2 Impact Plan approach\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · p. 19 · 4.1 Criteria"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "The result must be designed for long-term, wider use, not as an isolated study.\n- Wider use: the framework must be transferable and open, so that industry along the value chain, policy makers and knowledge institutions can use it\n- Interoperability: it must work with existing national and international data infrastructures and modelling initiatives, and allow periodic updating\n- Continued use: methods, data and software must stay accessible, reusable and maintainable beyond the project, and the project should develop governance for who maintains, updates and owns the framework institutionally\n- Knowledge utilisation: a knowledge utilisation budget of 5–20% of the grant is mandatory, and an Impact Plan describes how stakeholders take up the results\n- Programme events: a kick-off within six months of the start, at least yearly programme meetings with the supervisory committee, a midterm meeting with a public session, and a public closing meeting\n- Open science: publications must be open access",
+          "sources": "System-perspective-on-materials-NWA-PL2-EN.pdf · pp. 3–5 · 2.1 Aim of the programme; 2.1.1 Substantive framework\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · p. 14 · 3.3.4 Knowledge utilisation\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · pp. 26–27 · 5.2.3 Programme activities\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · p. 29 · 5.5 Research results – Open Science"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "At least three participants: a main applicant, a co-applicant and a cooperation partner; the call sets no maximum.\nOnly one proposal is expected to be funded, so in practice one large consortium is formed through the two collaborative workshops NWO organises. Co-funders may be added on top of the minimum.",
+          "sources": "System-perspective-on-materials-NWA-PL2-EN.pdf · p. 8 · 3.2 Who can apply\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · p. 2 · 1.1 Brief summary"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "The consortium must be interdisciplinary and knowledge-chain-wide, and must include at least one societal stakeholder as cooperation partner.\n- Main applicant: a researcher at a Dutch university, university of applied sciences, university medical centre, KNAW or NWO institute, TO2 institute (applied research institutes such as TNO) or a recognised public knowledge institution\n- Co-applicants: either researchers at research organisations (non-Dutch ones only after NWO assesses them) or societal organisations such as expertise centres and interest groups, funded under the EU de-minimis rules\n- Cooperation partners (mandatory): public or private societal stakeholders, and where relevant citizens, actively involved from co-design of the research questions to knowledge utilisation\n- Co-funders (optional): organisations contributing cash or in kind; organisations whose researchers may be main applicant cannot co-fund, except TO2 institutes\nKnowledge-chain-wide means the proposal connects fundamental, applied and practice-oriented research across universities, universities of applied sciences and institutes. No particular country is required for partners, but foreign researchers need NWO assessment and may take at most 50% of the grant for personnel.",
+          "sources": "System-perspective-on-materials-NWA-PL2-EN.pdf · pp. 8–12 · 3.2 Who can apply; 3.2.2 Cooperation partners; 3.2.3 Co-funders\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · p. 4 · 2.1 Aim of the programme\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · p. 13 · 3.3.1 Personnel"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "The main applicant's organisation receives and administers the whole grant; co-applicants share project leadership, and cooperation partners receive no NWO salary funding.\n- Main applicant: submits the proposal, becomes project leader, and their organisation becomes main beneficiary and grant administrator\n- Co-applicants: active role and joint responsibility for the whole project; societal co-applicants receive their part through the main applicant, within the de-minimis cap of EUR 300,000 per organisation over three years\n- Cooperation partners: no salary or research costs may be requested for their staff, but they can be paid as third parties through the materials, knowledge utilisation or project management budgets\n- Limits: a main applicant may submit one proposal and be co-applicant once elsewhere; a co-applicant may join at most two consortia\nThe assessment checks for a clear division of tasks and roles in both research and governance (30% weight for consortium quality).",
+          "sources": "System-perspective-on-materials-NWA-PL2-EN.pdf · pp. 11–12 · 3.2 Who can apply; 3.2.1 Additional conditions; 3.2.2 Cooperation partners\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · p. 19 · 4.1 Criteria"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "The lead must be a researcher with a permanent or tenure-track contract at a Dutch research organisation who attended both collaborative workshops.\nEligible organisations are Dutch universities, universities of applied sciences, university medical centres, KNAW and NWO institutes, TO2 institutes, recognised public knowledge institutions and a few named institutes. Lecturers at universities of applied sciences and TO2 researchers may lead on a fixed-term contract. The main applicant or a registered replacement must take part in both workshops (24 November 2026 and 12 January 2027); otherwise the proposal is not considered.",
+          "sources": "System-perspective-on-materials-NWA-PL2-EN.pdf · p. 9 · 3.2 Who can apply, Main applicants\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · p. 14 · 3.5 Registration for and participation in collaborative workshops"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "No. TenneT cannot apply or coordinate, because only researchers at Dutch research organisations may be main applicant.\nThe call limits the main applicant role to universities, universities of applied sciences, university medical centres, KNAW, NWO and TO2 institutes and recognised public knowledge institutions. TenneT TSO B.V. is a company, so it could only influence the proposal from inside the consortium as cooperation partner or co-funder, and possibly as a societal co-applicant if NWO accepts it as a societal organisation.",
+          "sources": "System-perspective-on-materials-NWA-PL2-EN.pdf · p. 9 · 3.2 Who can apply, Main applicants"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes. TenneT can join without funding as a cooperation partner, which the call makes mandatory, or as an optional co-funder.\n- Cooperation partner: a public or private societal stakeholder that is actively involved from co-design of the research questions to implementation and knowledge utilisation, and can sit on the advisory committee. It signs a declaration of support describing its role, and confirms it later in the consortium agreement\n- Co-funder: contributes cash or in kind (personnel hours at fixed Dutch government rates, or materials) and signs a co-funding declaration with the proposal. In-kind contributions must be integral, traceable project work; overhead, supervision, consultancy and sitting on the supervisory committee do not count. Total co-funding may not exceed 49% of project costs\nAn organisation is either cooperation partner or co-funder, not both. Either role gives TenneT a seat at the table in the only project this call is expected to fund.",
+          "sources": "System-perspective-on-materials-NWA-PL2-EN.pdf · pp. 12, 15–17 · 3.2.2 Cooperation partners; 3.2.3 Co-funders; 3.6.1 Co-funding; 3.6.2 Declaration of support"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Unclear. The only route is as a societal co-applicant under the de-minimis rules, which the call describes for organisations, expertise centres and interest groups.\nSocietal co-applicants receive their grant through the main applicant, capped by the EU de-minimis Regulation (state aid small enough to be exempt from approval): at most EUR 300,000 per organisation over three years, including other de-minimis aid it already received. The application must justify the organisation's substantial, active contribution, and the organisation signs a de-minimis declaration. The call does not say whether a company such as TenneT counts as a societal organisation, so this would need confirming with NWO. As cooperation partner, TenneT's staff costs cannot be funded, but NWO money can pay TenneT as a third party through the materials, knowledge utilisation or project management budgets. As co-funder, TenneT receives nothing.",
+          "sources": "System-perspective-on-materials-NWA-PL2-EN.pdf · pp. 10–11 · 3.2 Co-applicants affiliated to societal organisations; De-minimis threshold\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · p. 12 · 3.2.2 Cooperation partners\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · p. 17 · 3.6.3 De-minimis aid declaration"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "Interpretation: TenneT would be most useful as the grid owner whose assets form one of the largest material stocks in the energy system.\nIt could contribute:\n- Data or estimates on the material content and age of cables, overhead lines, transformers, substations and offshore platforms, which the dynamic stock theme needs to model when materials become available for reuse\n- Demand-side insight from its grid expansion plans (Target Grid 2045, the investment plans, the 2 GW offshore programme), showing future demand for copper, aluminium, steel and critical materials\n- Supply-chain knowledge of import dependence and supplier concentration for grid equipment, useful for the strategic autonomy theme\n- A user's view on the governance theme: who would maintain and use the framework\nThis would most naturally be a cooperation partner role with in-kind hours, or a co-funder role if TenneT wants to commit staff time formally.",
+          "sources": "Interpretation based on: System-perspective-on-materials-NWA-PL2-EN.pdf · pp. 3–5 · 2.1 Aim of the programme; 2.1.1 Substantive framework\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · pp. 12, 15–16 · 3.2.2 Cooperation partners; 3.6.1 Co-funding"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The project must produce new scientific knowledge and methods, but must build on existing models and public datasets rather than replace them.\nThe call explicitly rejects developing \"another stand-alone model\". It expects an open framework that integrates and harmonises existing approaches (listed in annex 7.4), while the research question must be original and innovative within the disciplines involved, which is part of the 30% research-quality score.",
+          "sources": "System-perspective-on-materials-NWA-PL2-EN.pdf · p. 3 · 2.1 Aim of the programme\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · pp. 19–20 · 4.1 Criteria, Quality of the research"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "The innovation lies in methods, data architecture and governance together, not in hardware.\nThe framework combines new concepts of the technical value of materials, dynamic stock and timing models, resilience assessment methods, interoperable data infrastructure (possibly with AI) and governance models for ownership, stewardship and incentives for material circulation, including governance of the framework itself.",
+          "sources": "System-perspective-on-materials-NWA-PL2-EN.pdf · pp. 4–5 · 2.1.1 Substantive framework"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Research and model development only; the call does not fund engineering, prototyping or physical demonstration.\nThe consortium must combine fundamental, applied and practice-oriented research. Investments in equipment are possible (up to EUR 500,000 per research organisation) but only at research organisations.",
+          "sources": "System-perspective-on-materials-NWA-PL2-EN.pdf · p. 4 · 2.1 Aim of the programme\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · pp. 13–14 · 3.3.3 Investments"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "The call requires no physical demonstration; results must be shown in policy and practice through stakeholder involvement and public programme meetings.\nThe framework should be usable by industry, policy makers and knowledge institutions, and the midterm and closing meetings include public sessions to show insights to stakeholders. No laboratory, living-lab or operational test is required.",
+          "sources": "System-perspective-on-materials-NWA-PL2-EN.pdf · pp. 3–4 · 2.1 Aim of the programme\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · p. 27 · 5.2.3 Programme activities"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The work must form one coherent, integrated framework, and must connect to existing models, datasets and data infrastructures.\nThe six themes are described as interconnected, and the research plan must have work packages with logical coherence; the supervisory committee also checks cohesion between work packages. The framework must interoperate with existing national and international data infrastructures and modelling initiatives and link to existing Dutch energy-transition scenarios.",
+          "sources": "System-perspective-on-materials-NWA-PL2-EN.pdf · pp. 4–5 · 2.1.1 Substantive framework\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · p. 20 · 4.1 Criteria, Quality of the research\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · p. 26 · 5.2.2 Supervisory committee"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "The project must deliver quantitative resilience assessments and quantitative evaluation of interventions; the call sets no specific indicators.\nThe framework should support quantitative evaluation of measures that improve the robustness and adaptive capacity of the Dutch energy system, and should show whether future secondary supply matches future demand.",
+          "sources": "System-perspective-on-materials-NWA-PL2-EN.pdf · pp. 4–5 · 2.1.1 Substantive framework"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "Mandatory. Societal stakeholders must be actively involved from defining the research questions through to implementation and knowledge utilisation.\nCooperation partners must take part in co-design (formulating questions and developing the project) and co-creation (carrying out the research and using the results). The Impact Plan is drawn up with stakeholders, and active involvement of consortium members from problem definition to implementation is scored under consortium quality (30%).",
+          "sources": "System-perspective-on-materials-NWA-PL2-EN.pdf · pp. 7, 12 · 2.2.2 Impact Plan approach; 3.2.2 Cooperation partners\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · p. 19 · 4.1 Criteria, Quality of the consortium"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "The call sets knowledge-security requirements, not operational safety or cybersecurity requirements.\nThe main applicant must sign a statement that the proposal follows the research organisation's knowledge security policy (Dutch national rules on risks of international research collaboration), prepared with its knowledge security officer. NWO may impose extra conditions in the award letter. Data must be handled under a data management plan following FAIR principles (findable, accessible, interoperable, reusable).",
+          "sources": "System-perspective-on-materials-NWA-PL2-EN.pdf · p. 23 · 4.3.5 Knowledge security\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · pp. 25, 27 · 5.1.2 Data management plan; 5.3.1 Compliance with the National Knowledge Security Guidelines"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "EUR 3,343,000 is available for a single project, and the whole budget can go to that one proposal.\n- Grant request: up to EUR 3,343,000 per project; no more than one proposal is expected to be funded\n- Total project size: the grant plus any optional co-funding, which may not exceed 49% of total project costs\n- Funding form: actual-cost grant built from NWO budget modules (personnel, materials, investments, knowledge utilisation, project management) at NWO and Dutch government rates",
+          "sources": "System-perspective-on-materials-NWA-PL2-EN.pdf · p. 2 · 1.1 Brief summary\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · pp. 12–14 · 3.3 What can be applied for\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · p. 16 · 3.6.1 Co-funding"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "NWO funds the eligible budget modules in full; co-funding is welcome but not required.\n- Co-financing conditions: in cash (paid to the main applicant, which reduces the NWO grant for the same costs) or in kind (personnel hours at fixed Dutch government rates, or materials), integral to the project and traceable; co-funding above 49% of total project costs makes the proposal ineligible; organisations that may themselves apply cannot co-fund, except TO2 institutes\n- Evidence required: a co-funding declaration signed by an authorised signatory for every co-funder, submitted with the proposal and confirmed later in the consortium agreement\n- Societal co-applicants: funded within the de-minimis cap of EUR 300,000 per organisation over three years, with a signed de-minimis declaration",
+          "sources": "System-perspective-on-materials-NWA-PL2-EN.pdf · pp. 15–17 · 3.6.1 Co-funding\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · pp. 10–11 · 3.2 De-minimis threshold for societal organisations"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Several caps and two mandatory budget shares shape the budget.\n- Eligible costs: personnel (PhD, EngD, postdoc, non-scientific staff, research leave), materials, investments, knowledge utilisation, project management\n- Caps or mandatory allocations: knowledge utilisation 5–20% of the grant (mandatory); project management up to 5% (mandatory); materials up to 25% of the grant, of which at most half to third parties; research leave up to 20%; investments up to EUR 500,000 per research organisation; foreign researchers' personnel up to 50% of the grant\n- Excluded costs: overhead and standard infrastructure such as workplaces, accommodation and office automation; hybrid open access journal fees\n- Overheads and VAT: overhead is not eligible; in-kind hours use rates excluding VAT\n- Subcontracting or equipment: work by third parties only within the materials budget; investments only at research organisations",
+          "sources": "System-perspective-on-materials-NWA-PL2-EN.pdf · pp. 12–14 · 3.3 What can be applied for\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · pp. 32–37 · 7.1 Explanation of budget modules\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · p. 29 · 5.5 Research results – Open Science"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One proposal stage, after two compulsory workshops for the main applicant; proposals go in through ISAAC, NWO's online application system, in English.\n- Collaborative workshops: 24 November 2026 and 12 January 2027; the main applicant or a registered replacement must attend both (workshop registration closed 16 November 2026, 14:00 CEST)\n- Additional procedure — organisation check: organisations not yet assessed (societal or foreign co-applicants) must send documents to NWO by 16 March 2027, 14:00 CEST\n- Stage 1 — Full proposal: 13 April 2027, 14:00 CEST, with budget and mandatory annexes; maximum project duration 5 years\n- Additional procedure — interview: end of May to early June 2027, with an opportunity for rebuttal",
+          "sources": "System-perspective-on-materials-NWA-PL2-EN.pdf · p. 8 · 3.1 Timeline\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · pp. 14–15 · 3.4 Phases; 3.5 Registration; 3.6 Preparing and submitting a proposal in ISAAC\nNWO call page, System Perspective on Materials · Consortium building"
+        },
+        {
+          "title": "Project window",
+          "answer": "The project may last at most 5 years; the call states no fixed start or end date.\n- Maximum duration: 60 months\n- Required start: only after the award (decision July 2027) and once the start form, data management plan and consortium agreement are in place\n- Eligible-cost period: from the start registered with NWO; staff already working on the project before the award cannot be funded",
+          "sources": "System-perspective-on-materials-NWA-PL2-EN.pdf · pp. 12, 18 · 3.3 What can be applied for; 3.7 Requirements for consideration\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · p. 25 · 5.1 Start of the project\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · p. 32 · 7.1.1 Personnel"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "NWO's Executive Board decides in July 2027, after interviews and an assessment committee meeting.\n- Expected assessment result: interviews and committee meeting end of May to early June 2027 (indicative)\n- Funding decision: July 2027\n- Conditions before starting: a start form, a data management plan approved by NWO and a consortium agreement signed by all partners (covering IP, publication, confidentiality and co-funding payments) must be submitted in ISAAC before work starts; the grant is paid in instalments after that",
+          "sources": "System-perspective-on-materials-NWA-PL2-EN.pdf · p. 8 · 3.1 Timeline\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · pp. 25–26 · 5.1 Start of the project; 5.1.3 Consortium agreement"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "A proposal is only considered if it is complete, uses NWO's templates and the main applicant attended both workshops.\n- Application form: NWO template downloaded from ISAAC, in English, within the page and word limits, with a 50–100-word lay summary in Dutch and English and a data management section\n- Budget: NWO Excel budget form with the latest rates\n- Mandatory annexes: knowledge security declaration; NWA declaration of support for each cooperation partner; form Statements and signature; co-funding declarations, appointment and supervision statement and de-minimis statement where applicable; no other annexes allowed\n- Partner documents: signed declarations from cooperation partners and co-funders\n- Registration: an ISAAC account; new organisations must be registered with NWO up to five working days before the deadline\nNWO allows one round of administrative corrections, within ten working days.",
+          "sources": "System-perspective-on-materials-NWA-PL2-EN.pdf · pp. 14–18 · 3.6 Preparing and submitting a proposal in ISAAC; 3.7 Requirements for consideration"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Proposals are scored on four weighted criteria by an assessment committee, ranked, and only one is expected to be funded.\n- Evaluation criteria: problem definition and analysis (20%); envisaged impact and route to impact (20%); quality of the consortium (30%); quality of the research (30%), including how it builds on existing models\n- Thresholds: overall at least very good, and at least very good for problem definition and good for the others (section 4.1); section 4.2.5 instead says very good for each criterion\n- Ranking rules: scale 1 (excellent) to 9; if more than three times the fundable number apply, only the top proposals are interviewed; ties are broken by problem definition, then consortium, research and impact scores\n- Budget assessment: the committee checks the budget is fitting and properly justified as part of research quality",
+          "sources": "System-perspective-on-materials-NWA-PL2-EN.pdf · pp. 19–22 · 4.1 Criteria; 4.2 Procedure\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · p. 24 · 4.3.7 Ex aequo"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Two conditions decide eligibility early: workshop attendance by the main applicant and NWO's prior check of new co-applicant organisations.\n- Conditional — workshop attendance: the main applicant or a replacement must attend both workshops; a replacement must be reported to NWO by email before the workshop starts, otherwise the proposal is not considered\n- Conditional — new co-applicant organisation: documents (Chamber of Commerce extract, articles, annual accounts, research organisation statement) by 16 March 2027, otherwise it is not accepted as co-applicant\n- Exception — societal co-applicant: funded under de-minimis rules, with a signed de-minimis declaration\n- Conditional — contract ends early: a statement from the employer guaranteeing supervision\n- Recommended: complete NWO's online impact workshop module to prepare the Impact Plan",
+          "sources": "System-perspective-on-materials-NWA-PL2-EN.pdf · pp. 9–11, 14 · 3.2 Who can apply; 3.5 Registration\nSystem-perspective-on-materials-NWA-PL2-EN.pdf · p. 6 · 2.2.1 Societal impact of research"
+        }
+      ]
+    }
+  ]
+}
