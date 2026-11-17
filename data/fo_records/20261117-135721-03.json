@@ -1,0 +1,43 @@
+{
+  "id": "20261117-135721-03",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-CL5-2027-07-D3-32 Delivery of industrial CCUS clusters – Societal Readiness pilot – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "ENERGY (HORIZON-CL5-2027-07)",
+  "call_module_title": "HORIZON-CL5-2027-07-D3-32 Delivery of industrial CCUS clusters – Societal Readiness pilot",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-07-D3-32",
+  "executive_summary": "Funds Innovation Actions that are the de-risking first step towards local or regional industrial carbon capture, utilisation and storage (CCUS) clusters: retrofit planning for capture systems, demonstration of system components, tools to design and operate shared CO2 transport and storage, business models for regional CO2 networks, permitting preparation and scenarios for integrating CO2 infrastructure into electricity, hydrogen and gas networks, reaching TRL 6-8. Proposals need substantial industrial involvement and social-sciences-and-humanities expertise (Societal Readiness pilot, page limit extended to 42); entities controlled by China are excluded. Up to 70% for for-profit beneficiaries; the indicative topic budget is EUR 30 million, with around EUR 10 million per project for around 3 projects. Opening 2027-08-04; single-stage full proposal deadline 2027-12-01 at 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-12-01",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "Work Programme Part 8, pp. 187–189, Specific conditions, Expected Outcome and Scope, funds Innovation Actions (TRL 6-8) that prepare industrial CCUS clusters, including scenarios for integrating CO2 infrastructure into regional, national or cross-border electricity, hydrogen and gas networks. The link to TenneT is narrow and rests on those network-integration scenarios, which relate loosely to Target Grid 2045 and Onshore and Offshore Grid Investment Plans 2026; the call itself centres on CO2 capture and transport. The Specific conditions add only a China-control restriction to General Annex B, so TenneT TSO B.V. can be a funded Dutch beneficiary at the Innovation Action rate (General Annex G) and could contribute the grid-integration scenarios in an industry-led consortium. A funded consortium role supports Type 1 and C1.3. Both project dates are null because the call states no start, end or duration.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T4",
+      "T9"
+    ],
+    "role": [
+      "R2",
+      "R10"
+    ],
+    "activity": [
+      "A3",
+      "A6",
+      "A7",
+      "A15"
+    ],
+    "outcome": [
+      "O5"
+    ]
+  }
+}

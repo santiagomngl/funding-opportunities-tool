@@ -1,0 +1,44 @@
+{
+  "id": "20261117-135721-01",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-CL3-2027-01-INFRA-02 Impact of malicious use of Open-Source Intelligence on critical infrastructure business continuity – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "Civil Security for Society 2027 (HORIZON-CL3-2027-01)",
+  "call_module_title": "HORIZON-CL3-2027-01-INFRA-02 Impact of malicious use of Open-Source Intelligence on critical infrastructure business continuity",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL3-2027-01-INFRA-02",
+  "executive_summary": "Funds Innovation Actions that analyse how publicly available information (open-source intelligence, OSINT) can be misused against critical infrastructure operators and develop an OSINT mapping toolbox with risk flagging, improved incident-response and business-continuity models, ways to remove harmful OSINT from the public domain, and awareness and training material, reaching TRL 8. The consortium must include at least 3 beneficiary practitioners from Member States or associated countries (critical infrastructure operators, resilience authorities, law enforcement or private security companies); entities controlled by China are excluded. Paid as a lump sum at up to 70% for for-profit beneficiaries; the indicative topic budget is EUR 7.67 million, with around EUR 3.835 million per project for around 2 projects. Opening 2027-05-05; single-stage full proposal deadline 2027-11-04 at 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-11-04",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "Work Programme Part 6, pp. 90–92, Specific conditions, Expected Outcome and Scope, funds Innovation Actions on malicious OSINT use against critical infrastructure, with a mapping toolbox, response and business-continuity models and training. This is close to SylWin1 HVDC retrofit (operational-technology security), TwinEU (grid resilience and cybersecurity) and TSO Innovation Alliance (grid resilience), but it targets exposure of public information about operators and staff rather than equipment or data exchange. The Specific conditions require at least three practitioner beneficiaries and name critical infrastructure operators, so TenneT TSO B.V. can join as a funded Dutch beneficiary at the Innovation Action rate of 70% (General Annexes B and G), subject to the China-control restriction. A funded consortium role supports Type 1 and C1.3. Both project dates are null because the call states no start, end or duration.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T8"
+    ],
+    "role": [
+      "R2",
+      "R10"
+    ],
+    "activity": [
+      "A2",
+      "A6",
+      "A8",
+      "A11"
+    ],
+    "outcome": [
+      "O2",
+      "O4",
+      "O9"
+    ]
+  }
+}

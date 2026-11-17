@@ -1,0 +1,41 @@
+{
+  "id": "20261117-135721-04",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-BRIDGING-2027-04-03 Bringing innovative climate preparedness and resilience solutions closer to the market – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "Bridging actions 2027 (HORIZON-BRIDGING-2027-04)",
+  "call_module_title": "HORIZON-BRIDGING-2027-04-03 Bringing innovative climate preparedness and resilience solutions closer to the market",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-BRIDGING-2027-04-03",
+  "executive_summary": "Funds one Coordination and Support Action that runs buyer mapping and demand aggregation, advisory services and cascade calls (financial support to third parties) so that at least 25 private for-profit companies can bring climate preparedness and resilience solutions at TRL 7 closer to market, with priority to at least one solution each in water, food and agriculture, transport, energy, health, civil security and critical infrastructure. Third parties can receive grants of up to EUR 800,000 each, at least 80% of the EU contribution must go to third parties, and the first cascade call must launch within 12 months of the start. Funded at up to 100% as a coordination and support action; the indicative topic budget is EUR 20 million for around 1 project. Opened 2026-10-06; single-stage full proposal deadline 2027-02-16 at 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-02-16",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "Work Programme Part 14 (Horizontal Activities), pp. 66–70, Specific conditions, Expected Outcome and Scope, funds a central consortium that runs buyer mapping, demand aggregation and cascade grants of up to EUR 800,000 to businesses bringing TRL 7 climate resilience solutions to market, with energy and critical infrastructure among the priority areas. This is only loosely related to the TSO Innovation Alliance (grid resilience); no project file is close, since the call funds solution providers and an intermediary rather than a grid operator. The scope says the project should engage operators of critical infrastructures and utilities in demand aggregation and matchmaking, and its market-ready pilots need real settings, but it sets no funded role for such operators, so TenneT's route is an unfunded end-user or pilot-host role (Type 2, C2.2). Both project dates are null because the call states no start, end or duration.",
+  "call_type": "Type 2",
+  "category_codes": [
+    "C2.2"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T8"
+    ],
+    "role": [
+      "R3",
+      "R9"
+    ],
+    "activity": [
+      "A7",
+      "A16"
+    ],
+    "outcome": [
+      "O3",
+      "O9"
+    ]
+  }
+}
