@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "A support programme that helps businesses bring climate preparedness and resilience solutions closer to the market, mostly by passing EU money on to them.\nThe project is a coordination and support action (a project that supports and coordinates rather than carries out research) run by a central consortium. It provides a common framework for support, matches businesses with buyers, and launches competitive calls that give grants to at least 25 third parties (the businesses supported, who are not partners in the consortium).",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 67–69 · Expected Outcome and Scope"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "The work covers central services of the consortium and grants to businesses, which must reach solutions at TRL 7 in several priority sectors.\nMandatory (the proposal should address all of these):\n- a common framework of intervention, a blueprint for the financial support to third parties\n- buyer mapping and demand aggregation, matching businesses with interested public and private buyers\n- identifying structural and operational bottlenecks to deploying climate resilience solutions, with good practices and policy-relevant lessons\n- direct support to businesses through competitive calls, for business development, innovation acceleration, market deployment preparation and market-ready pilots\nPriority is to be given to at least one solution in each of: water, food and agriculture, transport, energy, health, civil security, and critical infrastructure including buildings, with particular attention to nature-based solutions and to SMEs. The call does not list excluded activities, but requires that the same activity is not funded twice by the EU budget.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 67–70 · Scope"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The need is a gap between proven climate adaptation solutions and their wider use, which originates with businesses and public and private buyers.\nThe call says many promising solutions stay at demonstration stage because demand is fragmented, real-world testing is scarce and innovators lack links to buyers and users. It names public authorities as the main buyers, and also operators of critical infrastructures, utilities, insurers and large industrial users exposed to systemic climate risks.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 67–68 · Scope, Rationale and Activities of the project"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "A framework for support, at least 25 funded businesses, buyer matchmaking and a set of policy-relevant lessons.\n- A common framework of intervention (blueprint for financial support to third parties), described in the FSTP annex of the application\n- Competitive calls that give grants to at least 25 third parties, the first call within the first 12 months of the project\n- Advisory services and direct support to the businesses\n- Buyer mapping, demand aggregation and matchmaking activities\n- Identification of bottlenecks and good practices, and policy-relevant insights from lessons learned",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 67–69 · Expected Outcome and Scope"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The project should advance solutions towards investment, mobilise public buyers and show what blocks deployment, in support of the EU climate resilience framework.\nThe call lists: climate resilience solutions, including nature-based solutions, advance in their investment journey and get closer to the market; public authorities are mobilised to stimulate demand and help build a European resilience market; and bottlenecks and good practices are identified. It sets numeric targets only for the number of supported businesses (at least 25) and the share of funds passed on (at least 80%).",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · p. 67 · Expected Outcome\nHorizon Europe Work Programme 2026–2027, Horizontal Activities · p. 69 · Scope, Direct support to businesses"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "The project should leave a replicable support route: a blueprint for support, demand pooling and policy lessons that can feed later EU funding.\nThe call describes the project as a bridge between Horizon Europe, the future framework programme FP10 and the European Competitiveness Fund. It asks to pool demand and match businesses with buyers, and to turn lessons into policy-relevant insights. It sets no requirement on who must operate or finance results after funding ends.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 67–69 · Scope, Rationale and Activities of the project"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "No minimum or maximum is stated: a coordination and support action may be submitted by one or more legal entities.\nThe general rule of three organisations from three countries does not apply to this type of action. The entities must be established in an EU Member State or a country associated with Horizon Europe (a non-EU country taking part in the programme), unless the topic says otherwise, and the call adds no such exception.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 12–13 · B — Eligibility, Consortium composition and Coordination and Support Actions\nHorizon Europe Work Programme 2026–2027, Horizontal Activities · p. 66 · Specific conditions, Eligibility conditions"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "The consortium should have expertise in business support, legal and regulatory affairs and financial management for climate resilience markets, and perspectives from the humanities.\nThe call asks for partners with expertise in business innovation and market analysis and development, legal and regulatory affairs, and operational and financial management applicable to climate resilience markets, and for relevant expertise on integrating social sciences, humanities and cultural heritage. It does not require universities, SMEs, public authorities or end users as partners, although public authorities are to be engaged in demand aggregation.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · p. 70 · Scope, Activities of the project\nHorizon Europe Work Programme 2026–2027, Horizontal Activities · p. 68 · Scope, Services provided by the central consortium"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "At least 80% of the requested EU contribution must go to third parties; the consortium keeps the rest for its own services.\n- The central consortium sets up the framework, runs buyer mapping and demand aggregation, identifies bottlenecks and runs the competitive calls\n- Third parties receive the financial support through grants only, up to EUR 800,000 each\n- The first competitive call (cascade call) should be launched within the first 12 months of the project\nThe application must set out in the FSTP annex (a form on financial support to third parties) the maximum amount per third party, how amounts are calculated, a closed list of qualifying activities, who may receive support and the criteria for giving it.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 67–70 · Specific conditions, Scope"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "No organisation type is prescribed; the consortium picks one of its beneficiaries, which must be able to run competitive calls.\nThe coordinator represents the consortium towards the granting authority (the European Commission). The requirement to run cascade calls and manage at least 80% of the budget as third-party support implies an organisation with financial and call-management experience; this is our reading of the call.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 36 · Consortium roles and Coordinator\nHorizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 67–70 · Scope"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "Allowed in principle, but not realistic: the project is a business-support and cascade-funding service, far from TenneT's role as grid operator.\nTenneT TSO B.V. is a Dutch legal entity in an EU Member State and could apply. However, the coordinator would have to run competitive calls, manage grants to at least 25 businesses and provide business and market expertise, which the call expects from specialised partners.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 12–13 · B — Eligibility, Consortium composition and Coordination and Support Actions\nHorizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 69–70 · Scope"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes, without funding: as an associated partner, or by being engaged as an operator of critical infrastructure in the demand-aggregation activities.\nThe call says the project should engage operators of critical infrastructures and utilities, among others, where relevant, to pool demand and match them with businesses. It sets no formal role or funding for these operators. An associated partner takes part without funding and bears its own costs.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · p. 68 · Scope, Services provided by the central consortium\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 36 · Consortium roles and Associated partners"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "TenneT could be funded up to 100% as a beneficiary, but the call gives it no task; as a funded business it fits poorly.\n- As beneficiary: a coordination and support action is funded at up to 100% of eligible costs (project costs the grant rules allow), but only for work the consortium needs from it\n- As third party: grants of up to EUR 800,000 go to private for-profit entities established in an EU Member State or associated country, for solutions that businesses have developed to help people, assets, industry or systems cope with climate change and that are near TRL 7. TenneT would qualify only if it has such a solution itself\nThe call refers to no Dutch national rules.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 31 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 66–67, 69 · Specific conditions, Legal and financial set-up; Scope"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT could be a lead user and pilot host: state grid resilience needs, give demand a voice and offer real settings for market-ready pilots.\nThis is our interpretation. The call names energy and critical infrastructure as priority areas, asks for buyer mapping and demand aggregation with operators of critical infrastructures and utilities, and funds market-ready pilots (pilot implementation and performance testing). TenneT could describe which climate hazards, such as heat, floods or storms, affect its grid assets, express that as demand for solutions, and offer substations or data for pilots of solutions that suppliers bring through the cascade calls. This relates loosely to the grid resilience goals of the TSO Innovation Alliance.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 68–69 · Scope, Services provided by the central consortium; Direct support to businesses"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The project need not produce new knowledge or technology; it supports solutions that are already near market.\nA coordination and support action excludes research and innovation activities. The supported businesses should bring solutions at TRL 7, with particular attention to solutions that previously received Horizon Europe funding, without funding the same activities twice.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 14 · Eligible activities\nHorizon Europe Work Programme 2026–2027, Horizontal Activities · p. 69 · Scope, Direct support to businesses"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "The innovation lies in the support mechanism and market uptake: business services, demand aggregation and policy insight, not a technology.\nThe supported solutions are products and services developed by businesses to help people, assets, industry or systems cope with climate change, including nature-based solutions. The project itself innovates in how financial support, matchmaking and public demand are combined.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 68–69 · Scope"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "The support covers late-stage business development, final product development, market deployment preparation and market-ready pilots.\n- Business development: strategic and financial planning, regulatory guidance\n- Innovation acceleration: support to final product development and capacity building\n- Market deployment preparation: market knowledge, support to commercialisation, regulatory compliance\n- Market-ready pilots: pilot implementation and performance testing\nEarly research stages are not covered.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · p. 69 · Scope, Direct support to businesses"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "TRL 7 (a system prototype demonstrated in an operational environment) for the solutions supported at the start.\nThe call says the financial support is aimed at solutions that are already relatively close to market at TRL 7. It states no end TRL.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · p. 69 · Scope, Direct support to businesses\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · Technology Readiness Levels"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "Pilots are funded as part of the support but the call sets no required demonstration setting or operating conditions.\nThe financial support covers market-ready pilots, meaning pilot implementation and performance testing. The call does not say whether they must run in a laboratory, living lab or real infrastructure.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · p. 69 · Scope, Direct support to businesses"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The central services and the cascade calls should form one programme, built on a common framework and linked to existing EU initiatives.\nThe consortium builds a common framework of intervention (a blueprint) for the support, and connects its buyer mapping to EU initiatives such as the Mission on Adaptation to Climate Change and other EU Missions, the Covenant of Mayors, the New European Bauhaus and the Union Civil Protection Knowledge Network. The aim is to pool demand and match buyers with the supported businesses.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 67–68 · Scope, Services provided by the central consortium"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "The project must identify bottlenecks and good practices; the only numeric markers are at least 25 businesses and at least 80% of funds passed on.\nThe call asks to identify structural and operational bottlenecks to deploying climate resilience solutions, with good practices, and to derive policy-relevant insights from the experience. It sets no performance indicators for the solutions.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 67–69 · Expected Outcome and Scope"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "Public authorities are to be mobilised as buyers, and critical infrastructure operators, utilities, insurers and large users engaged where relevant.\nThis engagement is organised centrally by the consortium as coordination activities, through buyer mapping and demand aggregation, with the aim of pooling demand and matching it with the supported businesses. The call does not require users to define requirements or validate solutions in a formal way.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · p. 68 · Scope, Services provided by the central consortium"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "The call sets no safety, cybersecurity or data-access rules beyond a satellite-data condition.\nProjects that use satellite earth observation, positioning, navigation or related timing data must use Copernicus and/or Galileo/EGNOS (the EU satellite systems). Other data and services may be used in addition.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · p. 66 · Specific conditions, Eligibility conditions"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "The Commission estimates EUR 20 million for one project, of which at least 80% must go to third parties.\n- Total project size: not stated\n- Grant request: around EUR 20 million for the project; other amounts remain eligible. At least 80% of the requested EU contribution (about EUR 16 million if EUR 20 million is requested) must be financial support to third parties\n- Funding form: budget-based action grant with financial support to third parties (grants of up to EUR 800,000 each)\nBudgets can still change by up to 20% after evaluation.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 22–23 · Overview of this call\nHorizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 66–67, 69 · Specific conditions, Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 29 · F — Procedure, Budget flexibility"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "A coordination and support action is funded at up to 100% of eligible costs; the call sets no co-financing rules.\n- Beneficiaries (the consortium): up to 100% of eligible costs\n- Third parties: they receive grants of up to EUR 800,000 each; the call sets no own-contribution rule for them\nGrants may not produce a profit: any surplus is deducted from the final amount.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 31 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 67, 69 · Specific conditions; Scope"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "At least 80% of the requested EU contribution goes to third parties, at most EUR 800,000 each, and only as grants.\n- Caps or mandatory allocations: at least 80% of the requested EU contribution for financial support to third parties; at most EUR 800,000 per third party\n- Eligible costs: personnel, subcontracting, purchase costs and the cost of financial support to third parties, plus unit costs where allowed\n- Overheads and VAT: indirect costs are a flat 25% of eligible direct costs, excluding subcontracting and financial support to third parties\n- Excluded costs: activities already funded by the EU budget must not be funded a second time",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 67, 69 · Specific conditions, Legal and financial set-up; Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 32 · Budget categories and cost eligibility rules"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "After signing, the consortium normally receives a pre-financing advance, from which a small share is held back; later payments follow periodic reports.\n- Payment model: normally pre-financing of 160% of the average EU funding per reporting period, then interim payments linked to periodic reports and a final report that fixes the final grant\n- Retention or guarantee: 5% to 8% of the maximum grant is deducted from the pre-financing and paid into a mutual insurance mechanism (a shared fund covering sums that cannot be recovered from beneficiaries)\n- Financial reporting or audit: a certificate on the financial statements may be required depending on grant size; each beneficiary is liable only for its own debts",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 32–33 · Reporting & payment arrangements, Certificates, Liability regime for recoveries"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage; the submission session is already open and full proposals are due by 16 February 2027 through the EU Funding & Tenders Portal.\n- Stage 1 — Full proposal: 16 February 2027, 17:00 Brussels time. Part A (an online administrative form), Part B (a technical description, 25-page limit for this type of action) and the FSTP annex on financial support to third parties. Open to legal entities that meet the eligibility rules\n- Opening: 6 October 2026. The Commission may delay the deadline by up to two months",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 22–23 · Overview of this call\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 4 · A — Admissibility, Page limits\nHorizon Europe Work Programme 2026–2027, Horizontal Activities · p. 69 · Scope, Direct support to businesses\nFunding & Tenders Portal, topic page HORIZON-BRIDGING-2027-04-03 · Topic updates (6 October 2026)"
+        },
+        {
+          "title": "Project window",
+          "answer": "The call states no duration or start date; the grant agreement fixes them.\n- Maximum duration: not stated in the call; the grant agreement gives the duration in months, and extensions are possible only exceptionally\n- Required start: normally after the grant agreement is signed; a start before signature is possible only exceptionally, for duly justified reasons and if the granting authority agrees\n- Completion deadline: the first competitive call for third parties should be launched within the first 12 months of the project",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · Starting date & project duration\nHorizon Europe Work Programme 2026–2027, Horizontal Activities · p. 69 · Scope, Direct support to businesses"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Indicatively, the result is known about 5 months after the deadline and the grant agreement is signed about 8 months after it.\n- Expected invitation or assessment result: around July 2027 (about 5 months after the deadline; indicative)\n- Grant agreement: around October 2027 (about 8 months after the deadline; indicative)\n- Conditions before starting: an invitation to grant preparation is not a funding commitment, since legal entity validation, financial capacity and exclusion checks follow; a written consortium agreement is required",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 29 · F — Procedure\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 36 · Consortium agreement"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "Submit the proposal through the portal with the forms and the FSTP annex; an incomplete application is rejected.\n- Application form: Part A online and Part B uploaded as a PDF, within 25 pages; applications must include a plan for exploiting and disseminating results\n- Mandatory annexes: the FSTP annex, stating the maximum amount per third party, how amounts are calculated, the closed list of qualifying activities, who may receive support and the criteria for giving it\n- Partner documents: the coordinator confirms at submission that it has the mandate to act for all applicants; each participant signs a declaration of honour before the grant is signed\n- Registration: every beneficiary needs a participant identification code (a number from the Participant Register) before submission\n- Parallel submission: none stated",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 4, 27 · A — Admissibility; E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 5 · IMPORTANT, Registration\nHorizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 69–70 · Scope, Direct support to businesses"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Independent experts score three criteria out of 5; proposals need 3 on each and 10 overall; ties are broken by topic coverage.\n- Evaluation criteria: Excellence (clarity of objectives and quality of the coordination and support measures, including methodology), Impact (pathways to the expected outcomes, dissemination and exploitation) and Quality and efficiency of implementation (work plan, risks, partner capacity)\n- Thresholds: at least 3 out of 5 per criterion and 10 out of 15 overall\n- Ranking rules: ties are broken first in favour of proposals covering topic aspects not yet covered, then by Excellence and then Impact scores, then by other rules in the Annex; the extra weight on Impact applies only to innovation actions",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 24, 26 · D — Award criteria, Scores and weighting\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 28–29 · Evaluation procedure and ranking"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Financial support to third parties comes with fixed limits, and a satellite-data condition applies if relevant.\n- Conditional — financial support to third parties: beneficiaries must provide it, in the form of grants only, up to EUR 800,000 each, to private for-profit entities established in a Member State or associated country; at least 25 third parties and at least 80% of the requested EU contribution; the first cascade call within the first 12 months\n- Conditional — satellite data: projects that use earth observation, positioning, navigation or timing data must use Copernicus and/or Galileo/EGNOS\n- Recommended — focus: particular attention to SMEs, to nature-based solutions and to solutions previously funded by Horizon Europe, avoiding double funding of the same activities",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 66–67, 69 · Specific conditions; Scope\nHorizon Europe Work Programme 2026–2027, Horizontal Activities · p. 66 · Specific conditions, Eligibility conditions"
+        }
+      ]
+    }
+  ]
+}

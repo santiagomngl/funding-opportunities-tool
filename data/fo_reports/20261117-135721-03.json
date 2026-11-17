@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "A preparatory project that de-risks local or regional industrial carbon capture, utilisation and storage (CCUS) clusters.\nCCUS means capturing CO2 from industry, using it or storing it underground. A cluster links several emitters (sources) with shared transport and storage (sinks). The project is the first step towards such a cluster for hard-to-abate industry in a region (industries that cannot easily cut emissions), and is meant to be the basis and orientation for later full-size projects.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 188 · Scope"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Projects should address most, but not necessarily all, of the listed planning, technical, business and permitting issues of a CCUS cluster.\nThe call lists these issues:\n- detailed planning and preparation for retrofitting capture systems to existing industrial plants\n- demonstrating important system components\n- identifying the clustering potential of regional, including cross-border, CO2 emitters, and optimising industrial symbiosis (exchange of by-products) between emitters and users of CO2\n- tools to optimise the design and operation of the cluster and to run CO2 streams of different composition, flow and operating regimes within the limits of the shared transport and storage infrastructure\n- identifying potential regional users of a common CO2 infrastructure, which may include enlargement countries such as the Western Balkans, Ukraine and Moldova\n- economic and technical assessment of the best multimodal transport options, including re-use of existing infrastructure\n- business models for regional CO2 transport networks, including for dispersed industrial sites\n- feasible geological CO2 storage services\n- studies and preparatory actions leading to permitting\n- scenarios for integrating CO2 infrastructure into regional, national or cross-border energy networks (electricity, hydrogen, natural gas), also in relation to future changes in industry and the energy supply mix\nThe call lists no excluded activities.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 188 · Scope"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "Industry needs a de-risked route to shared CO2 capture, transport and storage, and public acceptability of that infrastructure is paramount.\nThe need originates with energy- and carbon-intensive industry in a region, which must decarbonise but depends on shared infrastructure. The call also treats society's needs and concerns as part of the problem: it expects projects to understand the needs and concerns of diverse social groups involved in or affected by the technology, so that results can be taken up and trusted.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 187 · Expected Outcome\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 188 · Scope"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "Projects should deliver near-to-market solutions, a pipeline of scalable projects, an exploitation strategy and two public reports on societal readiness.\n- Near-to-market solutions for the safe integration and use of CCUS technologies in industry\n- A pipeline of projects with potential for commercial scale-up\n- A strategy for exploiting the results, including plans for scalability, commercialisation, deployment, permitting procedures and identified public and private funding sources for capital and operating costs\n- A public First report on Societal Readiness within the first six months and a public Final report within the last three months\n- The planning, assessment, business-model, permitting and scenario work listed in the scope, in the form the proposal chooses",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 187 · Expected Outcome\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 188–189 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 16–17 · Instructions for Societal Readiness pilot projects"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The project should bring industrial CCUS closer to commercial roll-out and build public understanding and trust in it.\nThe call asks for a deeper understanding of the needs and concerns of social groups, to increase beneficial societal uptake and trust. It sets no quantified targets such as tonnes of CO2 or number of clusters.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 187 · Expected Outcome"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "The project is a first step: its results must show how the cluster can be scaled, financed, permitted and deployed in later full-size projects.\nProjects are expected to be the basis for future full-size projects, and must deliver an exploitation strategy with plans for scalability, commercialisation, deployment, permitting, and funding sources for investment and operation (examples named: private equity, InvestEU, the EU Catalyst Partnership, the Innovation Fund and regional development funds). The call also asks for business models for regional CO2 transport networks. It sets no replication target during the project.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 188 · Scope"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "At least three independent organisations from three different countries; no maximum is stated, but substantial industrial involvement is expected.\nThe general rule requires three independent legal entities as beneficiaries (organisations that sign the grant agreement and receive funding), each in a different country: at least one in an EU Member State and the others in different Member States or countries associated with Horizon Europe (non-EU countries taking part in the programme).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 188 · Scope"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "The consortium should have substantial industrial involvement and must include experts in social sciences and humanities (SSH).\nThe call asks for partners with appropriate SSH expertise (for example in interviews, co-creation and inclusion), who bridge the social and technical sides and design the project objectives and work packages so that they fit Societal Readiness activities. All partners should take part in the Societal Readiness tasks where relevant. Entities controlled by China or by a legal entity established there are not eligible.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 188–189 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 16–17 · Instructions for Societal Readiness pilot projects\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 187 · Specific conditions, Eligibility conditions"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "Societal readiness work must be built into the whole project, with its own resources, rather than added as a separate extra.\n- Resources must be explicitly allocated to Societal Readiness activities, either as tasks across work packages or as a transversal work package (a work package that runs through the whole project)\n- The proposal must describe in section 1.2 Methodology how Societal Readiness is integrated, using the Responsible Research and Innovation guiding questions (questions on how research responds to societal needs)\n- A dedicated task with reasonable resources must support engagement with the Commission-funded support action HORIZON-CL5-2026-01-D2-09, which monitors the pilot (annual workshops, interviews and exchanges with other pilot projects); its travel costs for physical workshops are covered by that action\nThe call sets no other split of work or budget.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 16–17 · Instructions for Societal Readiness pilot projects\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 189 · Scope, Societal-Readiness pilot"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "No type of organisation is prescribed; the beneficiaries choose one of themselves as coordinator.\nThe coordinator manages the project and represents the consortium towards the granting authority (the European Commission). Given the call's emphasis on industrial involvement, an industrial or research partner is the more natural lead, but this is our reading, not a rule.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 36 · Consortium roles and Coordinator\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 188 · Scope"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "Yes, in principle, but a CCUS project is more naturally led by industry; TenneT TSO B.V. would normally join rather than lead.\nThe Netherlands is an EU Member State, so a Dutch entity is eligible, and the call does not limit who may coordinate. The consortium needs substantial industrial involvement and social sciences and humanities experts, which TenneT would not bring itself.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 11 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 36 · Consortium roles and Coordinator\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 188–189 · Scope"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes, as an associated partner, which takes part without funding and bears its own costs.\nAn associated partner does not sign the grant agreement and does not count towards the minimum of three beneficiaries from three countries. The call does not give associated partners any specific role.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 36 · Consortium roles and Associated partners\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Yes: as a beneficiary TenneT can receive up to 70% of its eligible costs; it must fund the rest itself.\nThis is an innovation action (a project that develops, pilots and demonstrates solutions), for which the maximum rate is 70% for organisations other than non-profit legal entities. The grant reimburses actual costs, plus a flat-rate 25% for indirect costs, so only costs actually incurred count. The call sets no Dutch national rules. Entities controlled by China or by a legal entity established there are excluded.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount, Budget categories\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 187 · Specific conditions, Eligibility conditions\nFunding & Tenders Portal, topic page HORIZON-CL5-2027-07-D3-32 · Topic details"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT could add the electricity-network view: scenarios for how CO2 capture, transport and storage connect to the power grid.\nThis is our interpretation. The call asks for scenarios integrating CO2 infrastructure into regional, national or cross-border energy networks, including electricity. TenneT could supply grid-planning input based on its Target Grid 2045 and Onshore and Offshore Grid Investment Plans 2026, such as expected connection capacity and timing for industrial clusters whose capture plants need electricity. The link is narrow, since the call is centred on CO2 capture and transport rather than power transmission, so TenneT would be a minor partner in an industry-led consortium.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 188 · Scope"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The call asks for near-to-market solutions and the demonstration of important system components, not necessarily new technology.\nThe project may combine and de-risk existing capture, transport and storage solutions in a cluster design. The general award criteria still assess whether the work is ambitious and goes beyond the state of the art.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 187–188 · Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 23 · D — Award criteria"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "The innovation is a combination of technology, system design, business models, permitting preparation and social engagement.\nThe call mixes retrofitting of capture systems, tools to optimise cluster design and operation, business models for regional CO2 networks, preparation for permits, and an interdisciplinary Societal Readiness approach.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 188 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 16–17 · Instructions for Societal Readiness pilot projects"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Planning, engineering preparation, demonstration of components and preparation for permits; not full-scale construction.\nThe call calls the projects a de-risking first step and the basis for future full-size projects, with detailed retrofit planning, demonstration of important system components, studies and permitting preparation. It says nothing about building the full cluster.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 188 · Scope"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "TRL 6–8 (a technology demonstrated in a relevant environment up to a complete, qualified system) by the end; activities may start at any TRL.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 187 · Specific conditions, Technology Readiness Level\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · Technology Readiness Levels"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "Important system components must be demonstrated, but the call sets no required demonstration site or operating condition.\nIt asks for demonstration of important system components and for tools that handle CO2 streams of different composition and flow. It does not say whether this must happen in a laboratory, a pilot plant or a real operating cluster.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 188 · Scope"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The activities should form one regional cluster concept that fits existing industrial plants, infrastructure and energy networks.\nThe scope asks for retrofitting of capture systems to existing plants, re-use of existing infrastructure, and scenarios integrating CO2 infrastructure into electricity, hydrogen and gas networks and into regional industrial change. Societal Readiness tasks must run through the work rather than sit apart.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 188 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 16–17 · Instructions for Societal Readiness pilot projects"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "The call asks for economic and technical assessments and a pipeline of projects ready to scale, and sets no performance indicators.\nThe evidence is the comprehensive economic and technical assessment of transport options, the studies leading to permitting, and the documented societal needs and concerns in the two public Societal Readiness reports.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 187–188 · Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 16–17 · Instructions for Societal Readiness pilot projects"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "Users and society must be engaged: end users and societal stakeholders take part in deliberative activities.\nThe call expects projects to identify and engage relevant end users and societal stakeholders (such as civil society organisations, non-governmental organisations and local associations) in deliberative activities (structured discussions), so as to consider and respond to their needs and concerns. It also asks to identify potential regional users of a common CO2 infrastructure.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 188–189 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 16–17 · Instructions for Societal Readiness pilot projects"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "The call sets no cybersecurity or data-access rules; it expects safe integration and use of CCUS technologies and a satellite-data condition.\n- Safety: one expected outcome is near-to-market solutions for the safe integration and use of CCUS technologies in industry\n- Satellite data: projects that use earth observation, positioning, navigation or timing data must use Copernicus and/or Galileo/EGNOS (the EU satellite systems)",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 187 · Expected Outcome, Specific conditions"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "The Commission estimates EUR 10 million per project, within a topic budget of EUR 30 million for around 3 projects.\n- Total project size: not stated\n- Grant request: around EUR 10 million per project; other amounts remain eligible\n- Funding form: actual-cost grant (the grant reimburses costs actually incurred) with a flat rate for indirect costs\nBudgets can still change by up to 20% after evaluation.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 48–49 · Overview of this call\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 187 · Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 29, 31–32 · Budget flexibility, Form of grant, Budget categories\nFunding & Tenders Portal, topic page HORIZON-CL5-2027-07-D3-32 · Topic details"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "For-profit organisations receive up to 70% of eligible costs and must cover the rest; non-profit legal entities can receive up to 100%.\n- For-profit organisations such as companies: up to 70%, leaving at least 30% to finance from own resources\n- Non-profit legal entities: up to 100%\nThe call sets no cash or in-kind co-financing rules beyond this rate. Grants may not produce a profit: any surplus is deducted from the final amount.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 31 · Form of grant, funding rate and maximum grant amount"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Costs are reimbursed as actually incurred, with a 25% flat rate for indirect costs; subcontracting is limited and must give best value.\n- Eligible costs: personnel, subcontracting and purchase costs, plus unit costs where allowed\n- Overheads and VAT: indirect costs are a flat 25% of eligible direct costs, excluding subcontracting and unit costs that already include indirect costs\n- Subcontracting or equipment: subcontracting should normally be a limited part and must be done by third parties; purchases must give best value for money",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 32 · Budget categories and cost eligibility rules\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 27 · IMPORTANT, Consortium roles; E — Documents"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "After signing, partners normally receive a pre-financing advance, from which a small share is held back; later payments follow periodic reports.\n- Payment model: normally pre-financing of 160% of the average EU funding per reporting period, then interim payments linked to periodic reports and a final report that fixes the final grant\n- Retention or guarantee: 5% to 8% of the maximum grant is deducted from the pre-financing and paid into a mutual insurance mechanism (a shared fund covering sums that cannot be recovered from beneficiaries)\n- Financial reporting or audit: costs actually incurred must be reported; a certificate on the financial statements may be required depending on grant size; each beneficiary is liable only for its own debts",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 32–33 · Reporting & payment arrangements, Certificates, Liability regime for recoveries"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage; full proposals are due by 1 December 2027 through the EU Funding & Tenders Portal.\n- Stage 1 — Full proposal: 1 December 2027, 17:00 Brussels time. Part A (an online administrative form) and Part B (a technical description) with a page limit extended by two pages to 42 to cover Societal Readiness. Open to legal entities that meet the consortium rules\n- Opening: 4 August 2027. The Commission may move the opening by up to one month and delay the deadline by up to two months",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 48–49 · Overview of this call\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 187 · Specific conditions, Admissibility conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 4, 27 · A — Admissibility; E — Documents"
+        },
+        {
+          "title": "Project window",
+          "answer": "The call states no duration or start date; the grant agreement fixes them.\n- Maximum duration: not stated in the call; the grant agreement gives the duration in months, and extensions are possible only exceptionally\n- Required start: normally after the grant agreement is signed; a start before signature is possible only exceptionally, for duly justified reasons and if the granting authority agrees",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · Starting date & project duration"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Indicatively, the result is known about 5 months after the deadline and the grant agreement is signed about 8 months after it.\n- Expected invitation or assessment result: around May 2028 (about 5 months after the deadline; indicative)\n- Grant agreement: around August 2028 (about 8 months after the deadline; indicative)\n- Conditions before starting: an invitation to grant preparation is not a funding commitment, since legal entity validation, financial capacity and exclusion checks follow; a written consortium agreement is required",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 29 · F — Procedure\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 36 · Consortium agreement"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "Submit the proposal through the portal with the forms and registrations listed here; an incomplete application is rejected.\n- Application form: Part A online and Part B uploaded as a PDF, within 42 pages; applications must include a plan for exploiting and disseminating results\n- Budget: the detailed budget of the proposal in the submission system\n- Partner documents: the coordinator confirms at submission that it has the mandate to act for all applicants; each participant signs a declaration of honour before the grant is signed\n- Registration: every beneficiary needs a participant identification code (a number from the Participant Register) before submission\n- Societal Readiness: the proposal must show in section 1.2 Methodology how Societal Readiness is integrated\n- Parallel submission: none stated",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 4, 27 · A — Admissibility; E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 5 · IMPORTANT, Registration\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 16–17 · Instructions for Societal Readiness pilot projects\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 187 · Specific conditions, Admissibility conditions"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Independent experts score three criteria out of 5; proposals need 3 on each and 10 overall, and impact counts 1.5 times for ranking.\n- Evaluation criteria: Excellence (ambition, methodology), Impact (pathways to the expected outcomes, dissemination and exploitation) and Quality and efficiency of implementation (work plan, risks, partner capacity)\n- Thresholds: at least 3 out of 5 per criterion and 10 out of 15 overall\n- Weighting: for innovation actions the Impact score is multiplied by 1.5 for ranking\n- Ranking rules: ties are broken first in favour of proposals covering topic aspects not yet covered, then by Impact and then Excellence scores, then by other rules in the Annex\nThe call sets no additional criteria; Societal Readiness is assessed through the methodology.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23, 26 · D — Award criteria, Scores and weighting\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 28–29 · Evaluation procedure and ranking\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 16–17 · Instructions for Societal Readiness pilot projects"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Societal Readiness duties apply to every proposal in this topic; China-control and satellite-data conditions apply in addition.\n- Conditional — Societal Readiness reports: a public First report within the first six months and a public Final report within the last three months of the project\n- Conditional — monitoring support action: allocate resources to a dedicated task for the Commission-funded monitoring action HORIZON-CL5-2026-01-D2-09\n- Exception — China-controlled entities: entities established in an eligible country but directly or indirectly controlled by China or a legal entity established in China are not eligible\n- Conditional — satellite data: projects that use earth observation, positioning, navigation or timing data must use Copernicus and/or Galileo/EGNOS",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 16–17 · Instructions for Societal Readiness pilot projects\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 187 · Specific conditions, Eligibility conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 9–10 · Restrictions on control in Innovation Actions in critical technology areas"
+        }
+      ]
+    }
+  ]
+}
