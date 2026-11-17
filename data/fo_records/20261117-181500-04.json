@@ -1,0 +1,28 @@
+{
+  "id": "20261117-181500-04",
+  "source": "European Innovation Council",
+  "display_title": "Quantum Energetics – European Innovation Council (EIC)",
+  "organization_or_parent_framework": "Horizon Europe",
+  "programme": "European Innovation Council (EIC)",
+  "call_title": "EIC Pathfinder Challenges 2027 (HORIZON-EIC-2027-PATHFINDERCHALLENGES-01)",
+  "call_module_title": "Quantum Energetics",
+  "call_year": 2027,
+  "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-pathfinder/eic-pathfinder-challenges-2027/quantum-energetics_en",
+  "executive_summary": "This EIC Pathfinder Challenge funds research to make quantum technologies energy-efficient and to benchmark their energy use: each project focuses on one area, full-stack quantum computing, quantum communication or quantum sensing, and must reach TRL 3-4 with prototypes or testbeds that use less energy than classical counterparts (or than state-of-the-art quantum solutions for fault-tolerant computing). Single legal entities (not mid-caps or large companies) or consortia of two, or three or more, entities may apply. The grant is a Research and Innovation Action lump sum at 100% of eligible costs, with up to EUR 4 million per project considered appropriate; the EUR 82 million Challenges budget is shared roughly equally across three Challenges. The deadline is 29 September 2027 at 17:00 Brussels time; the call opens on 27 May 2027.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-09-29",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": 4000000,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "The Challenge funds research on the energy consumption of quantum computing, communication and sensing hardware, with energy-per-task benchmarks and pre-normative energy accounting (EIC Work Programme 2027, Section II.2.3, pp. 46-50). The energy it addresses is the power drawn by the quantum devices themselves, not the electricity system, and the call names no grid or energy-system application, so no project file is close and it does not touch TenneT's field.",
+  "call_type": "Not relevant",
+  "category_codes": [],
+  "taxonomy_values": {
+    "topic": [],
+    "role": [],
+    "activity": [],
+    "outcome": []
+  }
+}
