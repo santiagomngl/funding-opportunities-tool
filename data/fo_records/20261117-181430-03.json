@@ -1,0 +1,28 @@
+{
+  "id": "20261117-181430-03",
+  "source": "SNN",
+  "display_title": "Een nieuwe, groene economie met marktgedreven onderzoeks- en investeringsprojecten – JTF 2021-2027",
+  "organization_or_parent_framework": "Samenwerkingsverband Noord-Nederland (SNN)",
+  "programme": "JTF 2021-2027",
+  "call_title": "Een nieuwe, groene economie met marktgedreven onderzoeks- en investeringsprojecten",
+  "call_module_title": null,
+  "call_year": 2025,
+  "url": "https://www.snn.nl/zakelijke-subsidies/een-nieuwe-groene-economie-met-marktgedreven-onderzoeks-en",
+  "executive_summary": "Just Transition Fund (JTF) subsidy, run by SNN under chapter 2.16 of the Dutch JTF-regeling 2021-2027, for market-driven research and/or investment projects that give the Groningen-Emmen region a new economic or green perspective after the end of gas extraction (Tracks 1 and 2 of the Territorial Just Transition Plan). Eligible work includes research and innovation, digitalisation and robotics, investments in technology, systems and infrastructure for affordable clean energy including storage, system studies of the energy infrastructure, renewable energy production, renewable gases and hydrogen, circular economy and 'demonstrators at scale', plus optional linked retraining measures. Any legal entity or consortium may apply, but private companies must be partners and carry at least 20% of the eligible costs, and large companies' productive investments are limited to new establishments, diversification and environmental investments. The grant is 50% for research (up to EUR 4 million) and 30% for investments, with at least EUR 1 million and at most EUR 10 million per project (EUR 11 million with training measures), from a EUR 70 million budget allocated first come, first served. Applications close on 15 December 2026 at 17:00 after a mandatory intake talk with the province of Groningen or the municipality of Emmen and SNN; projects must be completed by 29 June 2029.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2026-12-15",
+  "earliest_project_start_date": "2025-07-14",
+  "project_end_date": "2029-06-29",
+  "minimum_project_size": 2000000,
+  "maximum_project_size": 33333333,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "The call funds market-driven research and investment projects in Groningen-Emmen, explicitly including investments in systems and infrastructure for affordable clean energy and storage, system studies of the energy infrastructure, and regional transport backbones and smart energy systems for industrial clusters (JTF-regeling, chapter 2.16, art. 2.16.4 and explanatory note pp. 6-7). It touches TenneT's field directly; it shares regional grid planning and connection of new industrial demand with the Energy boards, Target Grid 2045 and Additional bays project files, but is regional, industry-led and requires private companies to bear at least 20% of costs (art. 2.16.1 and 2.16.9). Any legal entity may apply or partner (art. 2.16.3), research is funded at 50% and investments at 30%, though large companies' productive investments are limited to new establishments, diversification and environmental investments (art. 2.16.4 and explanatory note p. 10), so TenneT could be a funded consortium partner (C1.3).",
+  "call_type": "Type 1",
+  "category_codes": ["C1.3"],
+  "taxonomy_values": {
+    "topic": ["T4", "T5", "T9", "T10", "T11"],
+    "role": ["R1", "R2", "R10"],
+    "activity": ["A2", "A3", "A4", "A7", "A9"],
+    "outcome": ["O5", "O7", "O14"]
+  }
+}

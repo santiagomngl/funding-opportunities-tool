@@ -1,0 +1,28 @@
+{
+  "id": "20261117-181430-05",
+  "source": "SNN",
+  "display_title": "Ontwikkeling waterstofketens (NPG) – Nationaal Programma Groningen",
+  "organization_or_parent_framework": "Provincie Groningen",
+  "programme": "Nationaal Programma Groningen",
+  "call_title": "Ontwikkeling waterstofketens (NPG)",
+  "call_module_title": null,
+  "call_year": 2025,
+  "url": "https://www.snn.nl/zakelijke-subsidies/ontwikkeling-waterstofketens-npg",
+  "executive_summary": "Provincial subsidy of Groningen under the Nationaal Programma Groningen (NPG), run by SNN, for collaborations that develop a hydrogen chain (production, transport, storage and use of green or blue hydrogen) in the province. Four activities qualify: a feasibility study (up to EUR 100,000), an implementation-ready design (up to EUR 1,000,000), investment in realising a hydrogen chain (up to EUR 2,500,000) and investment in upgrading installations from fossil fuel to blue hydrogen (up to EUR 2,500,000), each at most 50% of eligible costs within EU state-aid limits. Only a collaboration of at least three unrelated parties may apply, two thirds of them established in the province of Groningen, and the applicants must finance at least 50% of eligible costs themselves without other public support. The budget of EUR 10,100,000 is allocated first come, first served to applications scoring at least 80 points; applications are open from 29 April 2025 to 31 December 2028, and activities must be completed before 1 July 2029.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2028-12-31",
+  "earliest_project_start_date": "2025-04-29",
+  "project_end_date": "2029-06-30",
+  "minimum_project_size": null,
+  "maximum_project_size": 5000000,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "The call funds feasibility studies, implementation-ready designs and investments for hydrogen chains in Groningen, including electrolysers for green hydrogen, pipelines and storage (Subsidieregeling Ontwikkeling waterstofketens (NPG), art. 5 and explanatory note on activities 1-4). It touches TenneT's field through large electrolysers as flexible grid loads and the grid connections they need; no project file is close, though the flexibility aims of the Lion Storage contract and the CERRE study are related. Only a collaboration of at least three unrelated parties that develops a hydrogen chain may apply (art. 1m and 3), so TenneT could join as the grid partner providing connection data and studies, but whether its own costs would be funded is unclear because the subsidy targets the hydrogen-chain developers. This fits Type 2, category C2.2 (TenneT as data or test-environment provider while the developers receive the grant).",
+  "call_type": "Type 2",
+  "category_codes": ["C2.2"],
+  "taxonomy_values": {
+    "topic": ["T5", "T9"],
+    "role": ["R2", "R9", "R10"],
+    "activity": ["A3", "A4", "A9", "A10"],
+    "outcome": ["O5", "O10"]
+  }
+}

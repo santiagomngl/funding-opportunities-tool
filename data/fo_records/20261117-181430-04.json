@@ -1,0 +1,28 @@
+{
+  "id": "20261117-181430-04",
+  "source": "SNN",
+  "display_title": "Waterstof kennisontwikkeling en innovatie (NPG) – Nationaal Programma Groningen",
+  "organization_or_parent_framework": "Provincie Groningen",
+  "programme": "Nationaal Programma Groningen",
+  "call_title": "Waterstof kennisontwikkeling en innovatie (NPG)",
+  "call_module_title": null,
+  "call_year": 2025,
+  "url": "https://www.snn.nl/zakelijke-subsidies/waterstof-kennisontwikkeling-en-innovatie-npg",
+  "executive_summary": "Provincial subsidy of Groningen under the Nationaal Programma Groningen (NPG), run by SNN, for knowledge and innovation on hydrogen in the province: experimental or industrial research and modelling on low-carbon hydrogen, experimental or industrial development of innovative technologies and processes for the hydrogen chain, hydrogen training and education programmes, internships at hydrogen companies, and investments in hydrogen research facilities. Companies, knowledge institutions, public-law bodies and collaborations may apply, provided the benefits land mainly in the province of Groningen; collaboration between companies and knowledge institutions is scored. The subsidy is at most 50% of eligible costs and at most EUR 2,500,000 per application, within EU state-aid ceilings, and the applicant must co-finance at least 50% of total project costs; the budget of EUR 9,900,000 is allocated first come, first served. Applications are open from 20 May 2025 to 1 July 2028; projects must start within one year of the grant and be carried out before 1 July 2029.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2028-07-01",
+  "earliest_project_start_date": "2025-05-20",
+  "project_end_date": "2029-06-30",
+  "minimum_project_size": null,
+  "maximum_project_size": 5000000,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "The call funds hydrogen research and modelling, development of hydrogen-chain technologies, training, internships and research facilities in Groningen (Subsidieregeling Waterstof kennisontwikkeling en innovatie (NPG), art. 2 and 5). It touches TenneT's field only through the electricity-hydrogen link, such as electrolysers as large flexible loads and system modelling of hydrogen production on the grid; no project file is close, though the flexibility focus of the CERRE study and the Lion Storage contract is related. Companies, knowledge institutions and public-law bodies may apply or join a collaboration and receive up to 50% within AGVV limits, with at least 50% own co-financing (art. 3, 8c and 14), so TenneT could be a funded partner in a collaborative research project (C1.3), provided the benefits land mainly in Groningen (art. 7).",
+  "call_type": "Type 1",
+  "category_codes": ["C1.3"],
+  "taxonomy_values": {
+    "topic": ["T5", "T9", "T11"],
+    "role": ["R2", "R10"],
+    "activity": ["A2", "A5", "A6"],
+    "outcome": ["O5", "O10", "O14"]
+  }
+}

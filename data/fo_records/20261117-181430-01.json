@@ -1,0 +1,28 @@
+{
+  "id": "20261117-181430-01",
+  "source": "SNN",
+  "display_title": "Valorisatie 2026 – EFRO Noord-Nederland 2021-2027",
+  "organization_or_parent_framework": "Samenwerkingsverband Noord-Nederland (SNN)",
+  "programme": "EFRO Noord-Nederland 2021-2027",
+  "call_title": "Valorisatie 2026",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://www.snn.nl/zakelijke-subsidies/valorisatie-2026",
+  "executive_summary": "ERDF-funded (EFRO) subsidy, run by SNN, for projects that develop, test and demonstrate an innovative prototype product, service or process (mainly TRL 5-7) using one of the four RIS3 transitions of Northern Netherlands, including the shift from fossil to renewable energy. It is aimed at SMEs in Groningen, Fryslan and Drenthe, but other organisations from inside or outside the region, including large companies, may take part or apply as long as SMEs are central and the effects land in Northern Netherlands. The grant is EUR 250,000 to EUR 1,000,000 per project (at most EUR 625,000 per partner) at 35%, rising to 45% or 50% for collaboration with another company and/or a knowledge institution; the total budget is EUR 10 million in four sub-budgets, allocated first come, first served. A mandatory 2-page project proposal must be sent by 2 June 2027 and the full application by 30 June 2027 12:00; projects last at most 3 years and must end by 30 October 2029.",
+  "pre_submission_deadline": "2027-06-02",
+  "full_proposal_deadline": "2027-06-30",
+  "earliest_project_start_date": "2026-05-07",
+  "project_end_date": "2029-10-30",
+  "minimum_project_size": 714286,
+  "maximum_project_size": 2857143,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "The call funds the development, testing and demonstration of an innovative prototype product, service or process at TRL 5-7 in one of the RIS3 transitions, with priority 2 covering circular and energy innovation (Uitvoeringsregeling Valorisatie 2026, pp. 2-6 and 10). It touches TenneT's field only through energy applications, such as SME-developed sensors, inspection or grid-related digital tools; no project file is close, though RCM and Grids & Benefits share the idea of supplier-built monitoring or congestion tools. Other parties than SMEs, including large companies, may take part as project partners and receive subsidy within the per-partner cap of EUR 625,000 and the state-aid limits (pp. 6 and 9; FAQ 'Kan ik een aanvraag doen namens een grote onderneming?'), so TenneT could be a funded consortium partner. The realistic role is a regional problem owner or test partner alongside SMEs, which fits C1.3.",
+  "call_type": "Type 1",
+  "category_codes": ["C1.3"],
+  "taxonomy_values": {
+    "topic": ["T1", "T9", "T10"],
+    "role": ["R2", "R9"],
+    "activity": ["A2", "A5", "A7", "A8"],
+    "outcome": ["O5"]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "A new prototype product, service or process that is built, tested and demonstrated, with a clear business case for the Northern Netherlands SMEs (small and medium-sized enterprises) involved.\nThe call funds valorisation projects: innovation projects that turn new knowledge or technology into a product, concept or service, or test an innovative application in a practical setting. Research is allowed only where it serves the intended prototype. The innovation may come from new technology or knowledge, or from smartly combining existing technologies. The SMEs must themselves be (co-)innovators, hold a significant share of and rights to the knowledge developed, and be able to earn new turnover from the result.",
+          "sources": "Uitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 2 · Valorisatie 2026: In het kort\nUitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 5 · Wat maakt een project een goed project?\nUitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · pp. 10 and 14 · Wijze van projectselectie, criterion 1; Dit bedoelen wij met de begrippen (j. Valorisatieproject)"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Prototype development, testing and demonstration in one of four regional innovation themes; energy work fits mainly under the 'greener' priority.\nThe themes are the four transitions of RIS3, the innovation strategy of Northern Netherlands: from linear to circular economy, from fossil to renewable energy, from care to (sustainable) health, and from analogue to digital. The budget is split into two priorities:\n- Priority 1, 'a smarter and more innovative Northern Netherlands': mainly health and digital, and crossovers of these with circular and energy.\n- Priority 2, 'a greener and more innovative Northern Netherlands': mainly circular and energy, and crossovers with health and digital.\nIn scope: researching, developing, testing and demonstrating an innovative prototype product, service or process. Mandatory: the project must use an opportunity from at least one RIS3 transition and contribute to regional economic strengths. Excluded: work started before the application is received, and projects in the form of a financial instrument (a loan, guarantee or equity).",
+          "sources": "Uitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · pp. 2-3 · In het kort; De RIS3-transities voor Noord-Nederland\nUitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 6 · De hoogte van het subsidiebedrag (priorities 1 and 2)\nUitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 11 · Afwijzen van een aanvraag"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The project should solve a problem, where possible together with a regional problem owner, and must create economic and societal impact in Northern Netherlands.\nThe need is the region's: the main aim is to make SMEs in Groningen, Fryslan and Drenthe more innovative and to strengthen the northern innovation ecosystem. The call states that the project \"lost u een probleem op, waar mogelijk doet u dit samen met een regionale probleemeigenaar\" (solves a problem, where possible with a regional problem owner). Solving a regional problem that also solves a national or international problem is given as one way to create societal impact. For TenneT this means it could take part as the regional party whose operational problem the SME prototype addresses.",
+          "sources": "Uitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 2 · Valorisatie 2026: In het kort\nUitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · pp. 3-4 · Achtergrond: Het belang van innovatieve projecten en samenwerking; Valorisatie 2026: Waar zijn we naar op zoek?"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "A tested and demonstrated prototype product, service or process, plus a knowledge-sharing plan that feeds the results into education or training.\n- The prototype, developed and tested mainly at TRL 5-7 (validated in a relevant or real environment).\n- A business case: the potential economic value, margins, markets and the steps to market introduction must be substantiated.\n- A plan, delivered halfway through the project in a progress report, for using the results for curriculum renewal, linking education levels, new research agendas of an education or knowledge institution, or lifelong-learning programmes for employees.\n- At least one progress report a year and a final settlement request within 4 weeks of the project's end date.",
+          "sources": "Uitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 8 · Als aan u subsidie is toegekend\nUitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · pp. 10-11 · Wijze van projectselectie, criteria 1 and 3\nUitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 12 · Rapportage en bevoorschotting; Vaststelling van de subsidie"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Economic impact for northern SMEs (new turnover and jobs) together with societal impact and sustainable development in the region.\n- Economic: the SMEs must be able to generate new turnover, hire staff and future-proof their business; future employment from the result is assessed.\n- Societal and sustainable: the project must do no significant harm to the environment and is scored on how green (including circular) and digital the innovation is, on CO2 and greenhouse-gas reduction and energy saving, on investment in people, and on social sustainability.\n- Ecosystem: the project should use regional knowledge institutions, test facilities and clusters, and make new connections.\n- Programme indicators: the contribution to the EFRO programme's indicators is part of criterion 1.\nThe call sets no numerical targets.",
+          "sources": "Uitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · pp. 4-5 · Hoe u maatschappelijke impact kunt maken?; Wat maakt een project een goed project?\nUitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · pp. 10-11 · Wijze van projectselectie, criteria 1-3"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "The result must lead to market introduction by the SMEs; the proposal has to show the path from prototype to market and how knowledge is passed on.\n- Commercial uptake: applicants must explain how each participant finances its share up to market introduction, which steps follow the project, the markets and market share expected, and how intellectual property and results are divided.\n- Structural innovation: the project must fit the long-term innovation strategy of the SMEs involved.\n- Knowledge sharing is mandatory: the beneficiary must share knowledge and act as an ambassador, for example by contributing to an article or attending a knowledge market or cluster meeting, and must use the results for education, research agendas or lifelong learning.\nThe call sets no replication or standardisation requirement.",
+          "sources": "Uitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 5 · Stimuleren van het structureel innovatievermogen\nUitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 8 · Als aan u subsidie is toegekend\nUitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 10 · Wijze van projectselectie, criterion 3"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "One applicant is enough; collaboration is optional but raises the subsidy rate.\nA project with two or more independent parties counts as a collaborative project. Parties that are linked or partner enterprises count as one project partner. Contract research and research services do not count as collaboration.",
+          "sources": "Uitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 5 · Stimuleren van (nieuwe) samenwerking\nUitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 14 · Dit bedoelen wij met de begrippen (k. Samenwerkingsproject, l. Projectpartner)"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "SMEs must be central; large companies, knowledge institutions and parties from outside the region may join.\n- Northern SMEs: the subsidy is basically meant for them, and the impact must land mainly with northern SMEs.\n- Large companies: may take part and apply, \"zolang het mkb maar centraal staat\" (as long as SMEs are central).\n- Knowledge institutions: encouraged; partnering with one, or hiring one, raises the rate. A vocational (MBO) school is not a knowledge institution under EU rules, but SNN still rewards working with one.\n- Location: partners may come from outside Northern Netherlands, as long as the effects land in Groningen, Fryslan or Drenthe.\nNew collaborations score better than long-standing ones. Informal collaboration through a specific letter of support with concrete commitments is also recognised.",
+          "sources": "Uitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · pp. 4-5 · Valorisatie 2026: Waar zijn we naar op zoek?; Stimuleren van (nieuwe) samenwerking\nUitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 9 · Begunstigden\nSNN, Valorisatie 2026 · Veelgestelde vragen (Kan ik een aanvraag doen namens een grote onderneming?; Valt een MBO school ook onder kennisinstellingen?)"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "No partner may carry more than 70% of the eligible costs if the consortium wants the collaboration bonus, and each partner can receive at most EUR 625,000.\n- Collaboration bonus with companies: none of the companies may bear more than 70% of the eligible costs, and at least one must be an SME.\n- Collaboration bonus with a knowledge institution: its activities must account for at least 10% of the eligible costs, and it must have the right to publish its own results.\n- Lead partner: the lead partner (penvoerder) submits the application, receives the subsidy from SNN and passes it on to the other partners, as laid down in a collaboration agreement signed by all.\n- Work packages and partner effort must be logical and proportionate; this is scored under the quality criterion.",
+          "sources": "Uitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 6 · Wat bieden wij (subsidie)?; De hoogte van het subsidiebedrag\nUitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 9 · Penvoerderschap; Samenwerkingsovereenkomst\nUitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 11 · Wijze van projectselectie, criterion 5"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "Any participant may be lead applicant, including a large company, a natural person running a business or another legal entity.\nThe subsidy may be requested by natural persons running a business, legal entities or collaborations; in a collaboration one participant applies with the consent of all. The lead partner is SNN's contact point and receives and passes on the subsidy. In practice the lead is expected to be or represent the northern SMEs, since SMEs must be central.",
+          "sources": "Uitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 9 · Penvoerderschap; Begunstigden; Samenwerkingsovereenkomst\nSNN, Valorisatie 2026 · Veelgestelde vragen (Kan ik een aanvraag doen namens een grote onderneming?)"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "Formally yes, but only if SMEs remain central to the project and its impact.\nThe call lets large companies apply, provided SMEs are central and the effects land in Northern Netherlands. A TenneT-led project in which the SMEs play a minor part would score poorly on the criteria that assess the SME share of the results and the SMEs' long-term innovation strategy. TenneT could therefore lead only a project built around northern SMEs' innovations.",
+          "sources": "Uitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 9 · Begunstigden\nUitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 10 · Wijze van projectselectie, criterion 1\nSNN, Valorisatie 2026 · Veelgestelde vragen (Kan ik een aanvraag doen namens een grote onderneming?)"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes, as a self-financed partner or through a letter of support with concrete commitments.\nThe call recognises informal collaboration through \"een specifieke Letter of Support met concrete toezeggingen\" (a specific letter of support with concrete commitments). TenneT could thus act as problem owner or test environment without being a funded partner. A party that only provides contract research or services does not count as a collaboration partner for the bonus.",
+          "sources": "Uitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 4 · Valorisatie 2026: Waar zijn we naar op zoek? (Samenwerken is geen doel op zich)\nUitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 14 · Dit bedoelen wij met de begrippen (k. Samenwerkingsproject)"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Yes, as a project partner, at the project's rate of 35-50%, capped at EUR 625,000 per partner and possibly lower under state-aid rules.\nThe rate applies to the eligible costs and depends on the consortium, not on company size:\n- 35%: standard rate\n- 45%: with another independent company or a knowledge institution (possibly hired)\n- 50%: with both\nThe subsidy per partner may be cut where EU state-aid rules require it, which mainly affects large companies: the General Block Exemption Regulation (AGVV, the EU rules on which aid governments may give without notifying Brussels) sets lower ceilings for large enterprises. No provincial co-financing is available. TenneT must finance the rest of its own costs.",
+          "sources": "Uitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 6 · Wat bieden wij (subsidie)?; De hoogte van het subsidiebedrag\nUitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 9 · Nadere bepalingen, Subsidie"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "My judgement: TenneT would be most credible as the regional problem owner and test site for an SME prototype aimed at a grid problem in the North.\nExamples could be an SME sensor, drone or data tool for asset inspection, a congestion-forecasting service, or a circular solution for grid materials. TenneT could define the operational requirements, provide data or access to a substation or test location in Groningen, Fryslan or Drenthe, and validate the prototype at TRL 6-7. This matches the call's emphasis on a regional problem owner and on testing in a relevant environment. A modest funded share, or a letter of support with concrete commitments, would keep SMEs central as the call requires.",
+          "sources": "Uitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · pp. 2 and 4 · In het kort; Waar zijn we naar op zoek?\nUitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 10 · Wijze van projectselectie, criterion 1 (TRL)"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The result must be new compared with the state of the art, but it may come from smartly combining existing technologies and knowledge.\nThe degree of innovation is a scored criterion (20 of 100 points): how the result differs from existing products, services or processes, how it relates to national and international developments, how partners bring in and exchange knowledge, and whether there is a cross-over between sectors.",
+          "sources": "Uitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 5 · Wat maakt een project een goed project?\nUitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 11 · Wijze van projectselectie, criterion 4; Puntenscore projecten"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "A product, service or process: in practice technology or a technology-based service, with a business model for the SMEs.\nThe call does not fund governance or market-design innovation as such; the scored business case (margins, markets, value distribution) shows that the innovation must be marketable.",
+          "sources": "Uitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · pp. 2 and 5 · In het kort; Wat maakt een project een goed project?\nUitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 10 · Wijze van projectselectie, criterion 3"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Mainly prototyping, testing and demonstration; research is allowed only in support of the prototype.\nThe activities must centre on building and testing a new product, service or process; research for the intended prototype is possible. Market introduction itself is not funded but must be planned.",
+          "sources": "Uitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 10 · Wijze van projectselectie, criterion 1"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "Mainly TRL 5-7, with TRL 4 allowed as a starting point.\nTRL 4 is a proof of concept in a lab, TRL 5 a prototype validated in a relevant environment, TRL 6 a demonstration in a test environment such as a pilot plant or regional test facility, and TRL 7 a demonstration with end users in the real setting. Most activities must lie at TRL 5-7.",
+          "sources": "Uitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 10 · Wijze van projectselectie, criterion 1\nSNN, Valorisatie 2026 · Veelgestelde vragen (Wat bedoelen jullie precies met TRL-niveaus?)"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "The prototype must be tested and demonstrated, preferably at regional test facilities or with end users in a relevant environment.\nThe call encourages using regional innovation infrastructure, such as test facilities (proeftuinen), knowledge clusters and innovation workshops, where staff, data, machines and test set-ups are available; projects that do so score better. TRL 6 means testing in a test environment, and TRL 7 demonstrating with end users in a relevant environment.",
+          "sources": "Uitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · pp. 4-5 · Hoe u maatschappelijke impact kunt maken?; Stimuleren van gebruik van innovatiehubs en open innovatie-ecosystemen\nSNN, Valorisatie 2026 · Veelgestelde vragen (Wat bedoelen jullie precies met TRL-niveaus?)"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The project needs a clear structure with logical work packages, and it must connect to the northern innovation ecosystem rather than stand alone.\nThe quality criterion scores the project set-up, work packages, costs and the proportionate effort of consortium members. The societal-impact criterion assesses how the project builds on regional knowledge, skills, local resources and facilities.",
+          "sources": "Uitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 5 · Impact maken voor de regio\nUitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 11 · Wijze van projectselectie, criterion 5"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "The call asks for evidence of economic potential and sustainability rather than set technical indicators.\nThe application must quantify the potential economic value, margins, markets and future jobs, and may use a life-cycle analysis to show how green the innovation is. Projects also report on the EFRO programme indicators. The call states that many earlier applications were rejected because figures were not substantiated, and advises giving the basis and sources of forecasts.",
+          "sources": "Uitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · pp. 10-11 · Wijze van projectselectie, criteria 1-3\nSNN, Valorisatie 2026 · Veelgestelde vragen (Wanneer heb ik in mijn projectplan onderwerpen voldoende onderbouwd?)"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "A grant of EUR 250,000 to EUR 1 million per project, from a EUR 10 million budget split into four sub-budgets.\n- Total project size: not stated; at the 35% standard rate a EUR 250,000 to EUR 1 million grant corresponds to EUR 0.71-2.86 million of eligible costs (my calculation).\n- Grant request: EUR 250,000 to EUR 1,000,000 per project; at most EUR 625,000 per project partner.\n- Funding form: a share of actual eligible costs (hours and invoices; depreciation and in-kind contributions under conditions).\n- Sub-budgets: EUR 3.5 million each for priority 1 and priority 2 in Groningen (the 'more developed' region), and EUR 3.5 million each in Fryslan and Drenthe (the 'transition' region). On 17 November 2026 the SNN page said the priority 1 sub-budget for Groningen was oversubscribed.",
+          "sources": "Uitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 6 · De hoogte van het subsidiebedrag\nSNN, Valorisatie 2026 · scheme page header and 'Let op: een deel van het budget is op'\nSNN, Valorisatie 2026 · Veelgestelde vragen (Welke kostentypes zijn er allemaal mogelijk?)"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "One rate for the whole project, set by who collaborates: 35%, 45% or 50% of eligible costs; partners finance the rest.\n- Single applicant: 35%\n- With another independent company or a knowledge institution (possibly hired): 45%\n- With both another company and a knowledge institution: 50%\n- Co-financing conditions: no provincial co-financing is available; each partner must show how it finances its share in cash and hours, and up to market introduction.\nState-aid rules may lower the subsidy for an individual partner.",
+          "sources": "Uitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 6 · Wat bieden wij (subsidie)?\nUitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 10 · Wijze van projectselectie, criterion 3"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Costs count only if they follow from commitments made after SNN receives the application and are paid within 4 weeks of the project's end.\n- Eligible costs: costs with a direct link to the project results and proportionate to the activities; the cost types follow the EU Common Provisions Regulation, the Dutch REES rules and the EFRO handbook.\n- Caps or mandatory allocations: EUR 625,000 per partner; a hired knowledge institution must account for at least 10% of costs to earn the bonus.\n- Subcontracting or equipment: hiring a knowledge institution must follow procurement and sound-financial-management rules, and may require several quotes; depreciation needs extra evidence such as a valuation report or machine-hour records.",
+          "sources": "Uitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 9 · Nadere bepalingen (Kosten komen voor subsidie in aanmerking)\nUitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 6 · Wat bieden wij (subsidie)?\nSNN, Valorisatie 2026 · Veelgestelde vragen (inhuur kennisinstelling; Welke kostentypes zijn er allemaal mogelijk?)"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "Advances of up to 95% are paid during the project; the rest follows the final settlement.\n- Payment model: a 30% advance once the project starts, then further advances after each progress report based on costs incurred and paid, up to 95% in total.\n- Financial reporting or audit: the settlement request is due within 4 weeks of the end date and may need an auditor's report; the subsidy is reduced if costs are lower or obligations are not met. SNN may suspend payment if EU funding is not available.",
+          "sources": "Uitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 12 · Rapportage en bevoorschotting; Vaststelling van de subsidie"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "Two mandatory steps, both on SNN channels; budget goes first come, first served to complete applications.\n- Stage 1 — Project proposal in 2 pages: by 2 June 2027, 12:00, sent as a Word file to projectvoorstel@snn.nl in the mandatory format; it covers the project, its economic prospects and its impact on Northern Netherlands. A provincial project adviser replies within 3 weeks with a non-binding written reflection.\n- Stage 2 — Full application: from 7 May 2026, 12:00, until 30 June 2027, 12:00, through the EFRO web portal with eHerkenning (the Dutch business login, level EH2+). The reflection from Stage 1 is a mandatory annex; a negative reflection does not stop you applying.\n- Additional procedure: SNN offers optional feedback on an 80-90% complete project plan.",
+          "sources": "Uitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · pp. 6-7 and 9 · Wat vragen wij van u; Hoe zit het proces in elkaar?; Openstellingsperiode\nSNN · Lever in: Projectvoorstel in 2 pagina's voor de subsidie Valorisatie\nSNN, Valorisatie 2026 · Aanvraag voorbereiden"
+        },
+        {
+          "title": "Project window",
+          "answer": "At most 3 years from the grant decision, ending no later than 30 October 2029.\n- Maximum duration: 36 months\n- Required start: work may not start before SNN receives the application\n- Eligible-cost period: from submission of the application (or the later start date) to the project's end date\n- Completion deadline: 30 October 2029",
+          "sources": "Uitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · pp. 6, 11 · Wat bieden wij (subsidie)?; Afwijzen van een aanvraag; Projectperiode en kosten"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "SNN's board decides within 26 weeks of a complete application.\n- Funding decision: within 26 weeks of receipt of the complete application; longer if SNN asks for more information\n- Conditions before starting: a collaboration agreement signed by all partners",
+          "sources": "Uitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 8 · Besluitvorming en beschikking\nUitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 9 · Samenwerkingsovereenkomst"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "Only complete applications are assessed, and budget is claimed only once an application is complete.\n- Application form: project plan in SNN's model format (Model projectplan Valorisatie 2026), within the page limit\n- Budget: SNN's EFRO 2021-2027 budget format, fully completed\n- Mandatory annexes: the 2-page project proposal with its reflection\n- Partner documents: signature forms for the lead partner and each project partner, signed by authorised persons, with proof of signing authority\n- Registration: eHerkenning level EH2+ for the EFRO web portal\nRecommended for faster handling: the legal group structure, statements on financial difficulties with the annual accounts behind them, SME declarations and, where used, an intermediary's authorisation form.",
+          "sources": "Uitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 7 · Fase 2 (De verplichte documenten voor deze openstelling)\nSNN, Valorisatie 2026 · Aanvraag voorbereiden (Dit heb je nodig voor je aanvraag; Formats)"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "An independent expert committee scores five criteria; complete applications above the threshold are funded in order of completeness.\n- Evaluation criteria and weighting: contribution to the EFRO programme and this call 25 points; societal impact and sustainable development 20; financial and economic prospects 20; degree of innovation 20; quality of the application 15\n- Thresholds: at least 70 of 100 points, and at least half the maximum on each criterion\n- Ranking rules: first come, first served, counted from the moment an application is complete, within the relevant sub-budget\n- Budget assessment: value for money is part of criterion 1; SNN checks state aid in parallel",
+          "sources": "Uitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · pp. 6, 8 · Wat vragen wij van u; Beoordeling\nUitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · pp. 10-11 · Wijze van projectselectie; Puntenscore projecten"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Extra conditions apply to the collaboration bonus and to hiring a knowledge institution.\n- Conditional — collaboration bonus: no company over 70% of the costs, at least one SME, and a knowledge institution carrying at least 10% of the costs with the right to publish; otherwise the rate stays at 35%\n- Conditional — hired knowledge institution: a quote must support the costs; the rate rises but the state-aid room does not, so contact SNN first\n- Exception — MBO school: rewarded like a knowledge institution, but state-aid limits may apply\n- Recommended: submit the 2-page proposal well before 2 June 2027, and ask SNN to review an 80-90% complete plan",
+          "sources": "Uitvoeringsregeling Valorisatie EFRO 2026 Versie20260304.pdf · p. 6 · Wat bieden wij (subsidie)? (Let op)\nSNN, Valorisatie 2026 · Veelgestelde vragen (inhuur kennisinstelling; Valt een MBO school ook onder kennisinstellingen?)\nSNN · Lever in: Projectvoorstel in 2 pagina's voor de subsidie Valorisatie"
+        }
+      ]
+    }
+  ]
+}

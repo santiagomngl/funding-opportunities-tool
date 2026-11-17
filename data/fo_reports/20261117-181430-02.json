@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "New technical or business solutions that let more renewable energy be generated and used within today's local and regional grid capacity.\nThe call names smart energy systems, energy storage at local level, flexible demand and system integration, including power-to-heat and other power-to-X (converting electricity into heat, gas or another carrier). It also covers coupling with existing infrastructure, the control systems and ICT behind it, and new business models and value chains. Projects may be technology-led or business-model-led.",
+          "sources": "Uitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · pp. 1-2 · De openstelling in het kort; Waarom deze openstelling?; Doelstelling"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Research, development and testing, including first or smart rollout, of solutions for the shift from fossil to renewable energy at local and regional level.\nIn scope:\n- developing individual technologies, or combining existing ones in new concepts\n- system solutions: smart energy systems, storage, flexible demand, system integration, power-to-heat and power-to-X\n- coupling with existing infrastructure, steering, control systems and ICT\n- new business models and value chains, including energy communities\n- innovative renewable generation that fits the landscape and wins public acceptance\n- one overarching northern project for exchanging knowledge on pilots and demonstrations\nApplications can be in agriculture, business parks or residential areas, at variable scale. Excluded: projects whose effects land mostly in the province of Groningen, projects started before the application is received, and financial instruments.",
+          "sources": "Uitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · pp. 1-2 · De openstelling in het kort; Waarom deze openstelling?\nUitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · p. 3 · Wat bieden wij?\nUitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · p. 9 · Afwijzen van een aanvraag"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "Grid congestion in Northern Netherlands: renewable output and rising demand exceed what local and regional grids can carry, and grid expansion is slow and costly.\nThe call states \"Netcongestie is een grote rem op de voortgang van de energietransitie en de economische ontwikkeling\" (grid congestion is a major brake on the energy transition and economic development). The need is society's and the region's: grid users, businesses, households and energy communities that cannot connect or expand, and the system operators who must keep supply and demand in balance. Projects should also fit the energy vision of the province(s) concerned and the northern or local context, such as biomass, water, geothermal sources and green hydrogen.",
+          "sources": "Uitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · pp. 1-2 · Waarom deze openstelling?; Wat maakt een project een goed project?"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "Researched, developed and tested solutions with a business case, and active knowledge sharing within and beyond the consortium.\nThe call does not list fixed outputs. It expects:\n- the solution itself (technology, system concept or business model), tested and possibly rolled out for the first time\n- an economic and societal business case showing how the earnings model balances energy supply and demand\n- objective, measurable project goals and scores on the programme's result and output indicators\n- at least one progress report a year and a settlement request within 4 weeks of the end date",
+          "sources": "Uitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · pp. 5-7 · Beoordelingskader, criteria A, B and D\nUitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · p. 9 · Rapportage en bevoorschotting; Vaststelling van de subsidie"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "More renewable energy generated and used within existing grids, with more system flexibility, affordable energy and new market opportunities for northern SMEs.\n- Energy system: more flexibility to keep supply and demand in balance and the system reliable, which eases grid congestion.\n- Affordability: the project must consider the affordability of energy and raw materials for the buyer; household energy bills should not rise.\n- Economy: the solutions must offer northern SMEs new market potential or a stronger competitive position.\n- Society: public support and acceptance, spatial fit and shared ownership.\n- Sustainability: the project must qualify as sustainable development in the Brundtland sense (meeting today's needs without compromising future generations).\nThe call sets no numerical targets; it scores the result and output indicators that apply.",
+          "sources": "Uitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · pp. 2-3 · Wat maakt een project een goed project?\nUitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · pp. 5-6 · Beoordelingskader, criteria A, B and C"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "Solutions should be replicable elsewhere, and the knowledge gained must be shared; long-term impact after the subsidy period is scored.\n- Replication: the call seeks projects that can also offer solutions in other places, and scores the potential to scale up or develop further, here or elsewhere. Replication during the project is not required.\n- Continued use: the business case must show the economic and societal prospects after the subsidy ends, including follow-on initiatives.\n- Knowledge sharing: the application must show how knowledge is actively shared within and outside the consortium.\nThe call sets no standards or interoperability requirements.",
+          "sources": "Uitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · p. 3 · Wat maakt een project een goed project? (Herhaalpotentieel en kennisdeling)\nUitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · p. 6 · Beoordelingskader, criterion B"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "At least two independent parties, or one collaboration with legal personality such as an energy cooperative.\nLinked or partner enterprises count as one project partner. The call sets no maximum.",
+          "sources": "Uitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · p. 2 · Doelgroep\nUitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · p. 10 · Dit bedoelen wij met de begrippen (Samenwerkingsproject; Projectpartner)"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "A relevant, complementary and representative consortium: the parties that logically belong in the project must be involved.\nThe call gives companies and knowledge institutions, and energy cooperatives or energy communities, as examples. It names no mandatory partner type, but the project must offer opportunities for northern SMEs, and the consortium's representativeness is scored. Partners do not have to come from the region, but the effects must land mainly in Fryslan and Drenthe, or at northern scale, and not mostly in Groningen.",
+          "sources": "Uitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · pp. 2-3 · Doelgroep; Wat bieden wij?\nUitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · p. 7 · Beoordelingskader, criterion D"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "The call sets no split of work or budget; the lead partner receives the subsidy and passes it on under a collaboration agreement.\nActivities must be clearly described and logically linked to the goal, and the budget must be complete and clear; both are scored under the quality criterion.",
+          "sources": "Uitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · pp. 7-8 · Beoordelingskader, criterion D; Penvoerderschap; Samenwerkingsovereenkomst"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "Any participant in the consortium may be lead applicant, with the consent of all participants.\nThe lead partner (penvoerder) submits the application, is SNN's contact point, receives the subsidy and pays the other partners their share. The call places no restriction on the type of organisation.",
+          "sources": "Uitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · p. 8 · Penvoerderschap; Begunstigden; Samenwerkingsovereenkomst"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "Yes, the rules allow TenneT to lead a consortium, but the project's effects must land mainly in Fryslan or Drenthe, or at northern scale, not in Groningen.\nThe call is open to any consortium of relevant parties. A TenneT-led project would still need to show opportunities for northern SMEs, fit the provincial energy vision, and offer local or regional solutions within existing grids, which the call stresses.",
+          "sources": "Uitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · pp. 2-3 and 8 · Doelgroep; Wat bieden wij?; Begunstigden"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes. Nothing stops TenneT from joining as a partner that bears its own costs, although the call does not describe an unfunded partner role.\nAll partners must have a demonstrable interest in the project; TenneT's interest in congestion relief and flexibility would meet this.",
+          "sources": "Uitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · p. 10 · Dit bedoelen wij met de begrippen (Samenwerkingsproject; Projectpartner)"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Yes, at up to 50% of eligible costs, unless EU state-aid rules require a lower rate for TenneT's activities.\nThe subsidy is granted only without state aid, under de minimis rules, or within the categories of the General Block Exemption Regulation (AGVV, the EU rules on aid that governments may give without notifying Brussels). These set lower ceilings for large enterprises, for example for experimental development. The application must show that the subsidy is necessary at the amount requested, and how the rest of the costs are financed. TenneT must finance the rest of its costs itself.",
+          "sources": "Uitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · p. 3 · Wat bieden wij?\nUitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · p. 8 · Nadere bepalingen, Subsidie"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "My judgement: TenneT would add most as the transmission operator that shows how local flexibility and storage can relieve congestion at the high-voltage level in Drenthe and Fryslan.\nIt could provide congestion data and grid insight for the project area, help design flexible connection or time-dependent transport contracts (as with the Lion Storage contract), and validate the effect of a local smart energy system on its stations. Zeijerveen near Assen, where large producers are on a waiting list, is one example of a congested location. Working with the regional grid operator and an energy cooperative would match the call's local focus and its stress on business models that balance supply and demand.",
+          "sources": "Uitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · pp. 1-3 · Waarom deze openstelling?; Wat maakt een project een goed project? (Flexibiliteit)"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "Projects need not be highly innovative technically; new combinations of technologies, collaboration forms, business models or value chains also count.\nThe application must explain how the project is new compared with other initiatives. Innovativeness is scored for 20 of 100 points, including the project's contribution to flexibility and to public acceptance.",
+          "sources": "Uitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · p. 2 · Wat maakt een project een goed project? (Innovativiteit)\nUitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · p. 6 · Beoordelingskader, criterion C"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Technology, system architecture, business models or collaboration, alone or combined.\nThe call names technologies, system solutions and control systems with their ICT, earnings models shared between parties with a fair split of costs and benefits, new value chains, and new forms of collaboration such as energy communities.",
+          "sources": "Uitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · pp. 1-2 · Waarom deze openstelling?; Wat maakt een project een goed project?\nUitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · p. 6 · Beoordelingskader, criterion C"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Research, development and testing, including a first or smart rollout of the innovation.",
+          "sources": "Uitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · p. 2 · Waarom deze openstelling?; Doelstelling"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "The call expects testing and first rollout in real local settings, such as farms, business parks or residential areas, but does not require a specific test environment.\nDemonstrating innovations in people's own surroundings is named as a way to build public support.",
+          "sources": "Uitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · pp. 1-3 · Waarom deze openstelling?; Wat maakt een project een goed project? (Draagvlak)"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "Solutions must work within the existing local and regional energy infrastructure, and system solutions that combine several elements are explicitly wanted.\nThe call names the coupling with existing infrastructure and its dynamics, and the steering, control systems and ICT, as areas for innovation. It also notes that organising the stakeholders and the business case of such systems is complex and may itself need innovation.",
+          "sources": "Uitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · pp. 1-2 · Waarom deze openstelling?"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "The call asks for qualitative and quantitative evidence of societal impact and for scores on the applicable result and output indicators.\nGoals must be objective and measurable. The business case must show how the earnings model balances energy supply and demand, and how affordability for buyers is ensured.",
+          "sources": "Uitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · pp. 5-7 · Beoordelingskader, criteria A, B and D"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "Users must take part: public support requires a high degree of participation and acceptance among consumers, citizens and businesses.\nThe application must show how it builds public support, for example through spatial fit, shared ownership, demonstrations in people's surroundings or new broad coalitions. Public acceptance is also scored under innovativeness.",
+          "sources": "Uitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · p. 3 · Wat maakt een project een goed project? (Draagvlak)\nUitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · p. 6 · Beoordelingskader, criterion C"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "A grant of EUR 200,000 to EUR 5 million per project, from a EUR 10 million budget.\n- Total project size: not stated; at the 50% maximum rate the grant range corresponds to EUR 0.4-10 million of eligible costs (my calculation)\n- Grant request: EUR 200,000 to EUR 5,000,000 per project\n- Funding form: a share of actual eligible costs\n- Sub-budget: at most EUR 5 million of the EUR 10 million is for Groningen (the 'more developed' region); the SNN page showed EUR 15,000,000 remaining budget on 17 November 2026, which does not match the regulation's EUR 10 million ceiling, so check with SNN.",
+          "sources": "Uitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · p. 3 · Wat bieden wij?\nSNN, Slimme energiesystemen en duurzame energie · scheme page header (Resterend budget)"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "Up to 50% of eligible costs for everyone, unless state-aid rules require less; the partners finance the rest.\n- Co-financing conditions: the application must show how the remaining costs are financed and whether other subsidies are used for parts of the project\n- Evidence required: a motivation that the subsidy is necessary at the amount requested (additionality)",
+          "sources": "Uitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · p. 3 · Wat bieden wij?\nUitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · p. 5 · Beoordelingskader, criterion A"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Costs count only if they follow from commitments made after SNN receives the application and are paid within 4 weeks of the project's end.\n- Eligible costs: costs directly and logically linked to the project results and proportionate to the activities; the cost types follow the EU Common Provisions Regulation, the Dutch rules for European subsidies (REES) and the EFRO handbook\n- Excluded costs: cost types may be limited where state-aid rules require",
+          "sources": "Uitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · p. 8 · Nadere bepalingen (Kosten komen voor subsidie in aanmerking)"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "Advances of up to 95% are paid during the project; the rest follows the final settlement.\n- Payment model: a 25% advance once the project starts, and further advances on request with each progress report, based on costs incurred and paid, up to 95% in total\n- Financial reporting or audit: the settlement request is due within 4 weeks of the end date and may need an auditor's report; SNN may suspend payment if EU funding is not available",
+          "sources": "Uitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · p. 9 · Rapportage en bevoorschotting; Vaststelling van de subsidie"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: a complete application through the EFRO web portal, which needs eHerkenning (the Dutch business login) at level EH2+; budget is allocated first come, first served.\n- Stage 1 — Full application: from 1 July 2025, 12:00, until 31 March 2027, 12:00; applications submitted later are rejected",
+          "sources": "Uitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · p. 4 · Openstellingsperiode\nSNN, Slimme energiesystemen en duurzame energie · Aanvraag voorbereiden"
+        },
+        {
+          "title": "Project window",
+          "answer": "At most four years from the grant decision, ending no later than 30 June 2029.\n- Maximum duration: 48 months\n- Required start: work may not start before SNN receives the application\n- Eligible-cost period: from submission of the application (or the later start date) to the end date\n- Completion deadline: 30 June 2029",
+          "sources": "Uitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · p. 3 · Wat bieden wij?\nUitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · p. 9 · Afwijzen van een aanvraag; Projectperiode en kosten"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "The call states no decision period; SNN's board grants the subsidy after advice from the expert committee.\n- Conditions before starting: a collaboration agreement signed by all participants",
+          "sources": "Uitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · pp. 4 and 8 · Beoordeling; Samenwerkingsovereenkomst"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "Only complete applications are assessed.\n- Application form: project plan in SNN's model format, at most 25 pages excluding annexes, cover and contents (stated on the SNN page and in the model, not in the regulation)\n- Budget: SNN's EFRO 2021-2027 budget format\n- Partner documents: signature forms for the lead partner and every project partner, signed by authorised persons, with proof of who may sign\n- Registration: eHerkenning level EH2+\nRecommended for faster handling: the legal group structure, statements on financial difficulties with the related annual accounts, SME declarations and, where relevant, an intermediary's authorisation form.",
+          "sources": "Uitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · p. 4 · Openstellingsperiode (De verplichte documenten)\nSNN, Slimme energiesystemen en duurzame energie · Aanvraag voorbereiden (Wat heb je nodig voor jouw aanvraag?; Formats)"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "An independent expert committee scores four criteria; complete applications above the threshold are funded in order of completeness.\n- Evaluation criteria and weighting: A, contribution to the programme, the call, societal impact and sustainable development, 40 points; B, financial and economic prospects, 20; C, innovativeness, 20; D, quality of the applicant and project plan, 20\n- Thresholds: at least 70 of 100 points, and at least half the maximum on each criterion\n- Ranking rules: first come, first served, counted from the moment the application is complete\n- Budget assessment: value for money and the necessity of the subsidy are part of criterion A; SNN checks maximum state aid",
+          "sources": "Uitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · pp. 4-7 · Beoordeling; Wijze van projectselectie; Beoordelingskader; Puntenscore per beoordelingscriteria"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Applications are rejected outright on several grounds, so check these before applying.\n- Conditional — effects mainly in Groningen: the project is excluded; JTF calls may be an alternative\n- Conditional — work already started before the application: rejection\n- Conditional — applicant in financial difficulty under the General Block Exemption Regulation: rejection\n- Recommended: align the project with the energy vision of the province(s) concerned",
+          "sources": "Uitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · pp. 2-3 · Wat maakt een project een goed project?; Wat bieden wij?\nUitvoeringsregeling EFRO Slimme energiesystemen en duurzame energie.pdf · p. 9 · Afwijzen van een aanvraag"
+        }
+      ]
+    }
+  ]
+}

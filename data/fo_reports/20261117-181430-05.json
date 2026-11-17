@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "A sustainable hydrogen chain in the province of Groningen: linked production, transport, storage and use of green or blue hydrogen as an energy carrier or feedstock.\nGreen hydrogen is made by electrolysis with renewable electricity; blue hydrogen is made from natural gas with the CO2 captured and stored. The project may take a chain, or part of one, from feasibility study through an implementation-ready design to physical investment.",
+          "sources": "Subsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · pp. 1-2 · Artikel 1 Begripsbepalingen (c, f, n); Artikel 2 Doel"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Four activities, from study to investment, each with its own cap and state-aid basis.\n- Activity 1, feasibility study of a potential hydrogen chain: technical, economic and organisational feasibility; up to EUR 100,000\n- Activity 2, implementation-ready design: technical specifications, financial planning, timeline and risks, so that investment can start; up to EUR 1,000,000\n- Activity 3, investment in realising a hydrogen chain: for example electrolysers, blue-hydrogen plants with CO2 capture, pipelines, compressors, storage tanks or adapted industrial processes; up to EUR 2,500,000\n- Activity 4, investment in converting existing fossil-fuel installations to blue hydrogen, including hybrid systems; up to EUR 2,500,000\nExcluded: projects using fossil fuels or high-CO2 technologies without clear mitigation or transition plans; under activity 4, investments in production or transport infrastructure for blue hydrogen; and land and buildings.",
+          "sources": "Subsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · p. 3 · Artikel 5 Subsidiabele activiteiten\nSubsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · p. 6 · Artikel 14 Subsidiehoogte\nSubsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · pp. 8-10 · Toelichting, Artikel 5 and Artikel 7"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The province wants a hydrogen ecosystem with enough blue and green hydrogen to make Groningen's industry sustainable, which needs chains that bring supply and demand of hydrogen together.\nThe need is the province's and its industry's, set out in the provincial Climate Agenda and Economic Vision under the Nationaal Programma Groningen (NPG, a national programme for the region's future after gas extraction). The project must fit these policy goals.",
+          "sources": "Subsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · pp. 1 and 8 · Overwegende dat; Toelichting, Algemeen\nSubsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · p. 3 · Artikel 6, lid 1a"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "A feasibility report, an implementation-ready design or a built chain, depending on the activity, plus a knowledge-sharing plan and public sharing of results.\n- Activity 1: a report on feasibility and the main next steps\n- Activity 2: a concrete realisation plan (technical, organisational, financial)\n- Activities 3 and 4: the installed physical infrastructure or converted installations, with a realistic implementation plan with milestones\n- For all: a plan for knowledge sharing and evaluation of impact on the hydrogen sector, annual progress reports for projects longer than 12 months, and a settlement request within 13 weeks of completion",
+          "sources": "Subsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · pp. 3-4 · Artikel 8, onderdeel a\nSubsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · pp. 6-7 · Artikel 11; Artikel 17; Artikel 19\nSubsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · pp. 8-9 · Toelichting, Activiteit 1-3"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Stronger chain cooperation in Groningen, regional economic and technological benefits, and significant CO2 reduction.\n- Hydrogen chain in Groningen (30 points): how the project links chain partners in Groningen and strengthens the regional ecosystem, and concrete regional benefits such as jobs, technology or stronger infrastructure.\n- Sustainability (20 points): a significant contribution to CO2 reduction or other sustainability goals, and how sustainability is built into the chain, for example through circular processes or energy efficiency.\n- Basic conditions: demonstrable greenhouse-gas reduction compared with existing technology, and a contribution to a robust hydrogen infrastructure that stays relevant long term.\nThe call sets no numerical targets.",
+          "sources": "Subsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · p. 4 · Artikel 8, onderdelen c and e\nSubsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · p. 10 · Toelichting, Artikel 7"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "Results must be kept in place for five years after the final settlement and shared publicly; scalable technologies are preferred.\n- Durability: results must be maintained for five years after the decision settling the subsidy.\n- Knowledge sharing: results and lessons must be made public and actively shared, including with the province of Groningen.\n- Scaling: preferably the project uses technologies that can scale up or spread hydrogen use to other sectors.\n- Water: for electrolysis, the project must show it has considered future water use and possible freshwater scarcity.",
+          "sources": "Subsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · pp. 3 and 7 · Artikel 7, onderdeel c; Artikel 17, onderdelen e, f and i\nSubsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · p. 10 · Toelichting, Artikel 7"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "At least three parties that are not part of the same group.",
+          "sources": "Subsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · p. 2 · Artikel 1, onderdeel m (Samenwerkingsverband)"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "Two thirds of the parties must be established in the province of Groningen; knowledge institutions are encouraged but not required.\nConsortium quality (30 points) scores the partners' relevant experience and complementarity. Active involvement of knowledge institutions, or knowledge transfer through publications, workshops, education or internships, earns up to 10 points.",
+          "sources": "Subsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · p. 2 · Artikel 1, onderdeel m\nSubsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · pp. 4-5 · Artikel 8, onderdelen d and g"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "A collaboration agreement must set out the roles, responsibilities and financial contributions of all partners; the call sets no fixed split.",
+          "sources": "Subsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · pp. 3-4 and 6 · Artikel 7, onderdeel b; Artikel 8, onderdeel d; Artikel 11, lid 2d"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "A participant in the collaboration that has legal personality submits the application, with the demonstrable consent of all participants.",
+          "sources": "Subsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · p. 2 · Artikel 3 Doelgroep"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "Only formally: the applicant must be a participant in a collaboration that develops a hydrogen chain, so TenneT could lead only if it were part of such a chain.\nThe call is aimed at hydrogen producers, transporters, storage operators and users. A TenneT-led application would have to show that the collaboration as a whole develops a hydrogen chain in Groningen.",
+          "sources": "Subsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · pp. 1-2 · Artikel 1, onderdeel n; Artikel 3 Doelgroep"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes. TenneT could be one of the three or more parties, for example as the grid partner, and as a non-Groningen party it would fall within the one third allowed outside the province.\nThe call does not describe an unfunded role, but the collaboration agreement sets each partner's role and financial contribution.",
+          "sources": "Subsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · p. 2 · Artikel 1, onderdeel m; Artikel 3"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Unclear: the subsidy goes to a collaboration developing a hydrogen chain, and the call does not say whether a grid partner's own costs are eligible.\nIf TenneT's work, such as connection studies, formed part of a feasibility study or implementation-ready design, its costs would fall under article 49 of the General Block Exemption Regulation (AGVV, the EU rules on aid governments may give without notifying Brussels), at up to 50%. Investment aid under articles 41 and 36 is for hydrogen production, transport, storage and use. Co-financing must be free of any public support.",
+          "sources": "Subsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · pp. 3, 5-6 · Artikel 5; Artikel 7, onderdeel a; Artikel 9; Artikel 14; Artikel 16"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "My judgement: TenneT would be useful as the grid partner in a feasibility study or implementation-ready design for a large electrolyser in Groningen, for example at Eemshaven.\nIt could provide connection capacity, congestion and timing data, and advise on siting and flexible operation, so the chain is designed around what the grid can deliver. This matches the call's own emphasis on balancing supply and demand and on the electricity source of green hydrogen, but TenneT's role would be supporting, with the hydrogen developers receiving the grant.",
+          "sources": "Subsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · pp. 1-2 · Artikel 1, onderdelen f and n (Opslag)\nSubsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · p. 8 · Toelichting, Activiteit 1 and 2"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "Projects must meet a basic innovation condition, but innovation is worth only 10 of 100 points and can come from new applications, unique solutions or ground-breaking collaborations.\nThe regulation defines innovation as developing or applying new ideas, technologies, processes or products that are a significant improvement on the existing situation and support scaling up within the hydrogen chain.",
+          "sources": "Subsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · pp. 2-3 · Artikel 1, onderdeel i; Artikel 7, onderdeel d\nSubsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · p. 5 · Artikel 8, onderdeel f"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Technologies, methods and processes in the hydrogen chain, or new forms of collaboration, or the competitiveness of the hydrogen sector.",
+          "sources": "Subsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · p. 5 · Artikel 8, onderdeel f"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Feasibility, engineering design and deployment: the explanatory note calls them phase 1 (feasibility), phase 2 (implementation-ready design) and phase 3 (realisation and conversion). An investment must follow from an implementation plan.",
+          "sources": "Subsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · pp. 8-9 · Toelichting, Activiteit 1-4\nSNN, Ontwikkeling waterstofketens (NPG) · Wat zijn de voorwaarden?"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "Investments are built for real use in the province: the realisation activity must contribute directly to physically delivering the hydrogen chain in Groningen.",
+          "sources": "Subsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · p. 9 · Toelichting, Activiteit 3"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The activities must form a coherent chain: production, transport, storage and use linked together, with realisation building on the earlier design phases.\nActivity 4 differs: it covers only converting existing installations to use hydrogen, not production or transport infrastructure.",
+          "sources": "Subsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · p. 2 · Artikel 1, onderdeel n\nSubsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · p. 9 · Toelichting, Activiteit 3 and 4"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "The call asks for substantiated CO2 reduction, a cost-benefit analysis and, for electrolysis, evidence that future water use was considered.\nThe cost-benefit analysis is a knock-out criterion: the investment must outweigh benefits such as economic growth, a stronger chain and sustainability effects.",
+          "sources": "Subsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · pp. 3-4 · Artikel 7, onderdeel c; Artikel 8, onderdelen b and e"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "Caps depend on the activity, from EUR 100,000 to EUR 2.5 million, from a EUR 10.1 million budget.\n- Total project size: not stated; at 50% the EUR 2.5 million investment cap corresponds to EUR 5 million of eligible costs (my calculation)\n- Grant request: feasibility study up to EUR 100,000; implementation-ready design up to EUR 1,000,000; investment in a chain up to EUR 2,500,000; upgrade to blue hydrogen up to EUR 2,500,000\n- Funding form: a share of eligible costs; staff costs at a fixed EUR 60 per hour or EUR 8,600 per month",
+          "sources": "Subsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · pp. 5-6 · Artikel 9, lid 2; Artikel 13 Subsidieplafond; Artikel 14 Subsidiehoogte"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "At most 50% of eligible costs for every activity, lower where state-aid rules require.\n- Co-financing conditions: applicants must finance at least 50% of total eligible costs themselves, from own funds or external financing that is free of any public support, and demonstrably traceable\n- Evidence required: all funding sources subject to state-aid rules count towards the aid intensity",
+          "sources": "Subsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · pp. 3 and 6 · Artikel 7, onderdeel a; Artikel 14\nSubsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · p. 11 · Toelichting, Artikel 14"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Eligible costs follow the state-aid article for each activity, and several cost types are excluded.\n- Eligible costs: studies and designs as in AGVV article 49; chain investments as in article 41; blue-hydrogen upgrades as in article 36\n- Excluded costs: costs before a complete application or after the end date; regular business costs (overheads, operations, maintenance, administration); fines and legal costs; above-market costs or costs without quotes; general marketing; recoverable VAT and other taxes; purchase, rent or lease of land and buildings\n- Overheads and VAT: no general overheads; recoverable VAT excluded",
+          "sources": "Subsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · p. 5 · Artikel 9 Subsidiabele kosten; Artikel 10 Niet subsidiabele kosten"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "Studies and designs get an 80% advance; investments get 20% up front and further advances on costs paid, up to 80%.\n- Payment model: 80% advance for activities 1 and 2; 20% advance on request for activities 3 and 4, then advances on costs incurred and paid; no advance if financing is not secured\n- Financial reporting or audit: settlement request within 13 weeks of completion",
+          "sources": "Subsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · p. 7 · Artikel 18 Bevoorschotting en betaling; Artikel 19"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: an electronic application to SNN through www.snn.nl from 29 April 2025 to 31 December 2028; budget goes first come, first served.\n- Stage 1 — Full application: a project plan and budget in SNN's format for the chosen activity, with all annexes listed on the website\n- Additional procedure: if the budget threatens to run out on one day, complete applications received that day are ranked by lot",
+          "sources": "Subsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · p. 6 · Artikel 11, lid 1; Artikel 12 Indieningstermijn; Artikel 15 Verdeelcriteria"
+        },
+        {
+          "title": "Project window",
+          "answer": "Start within one year of the grant; complete before 1 July 2029, and sooner for studies.\n- Maximum duration: feasibility study one year; implementation-ready design two years; investments four years from the grant\n- Required start: within one year of the grant, and not before a complete application\n- Completion deadline: before 1 July 2029 for all activities",
+          "sources": "Subsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · p. 7 · Artikel 17, onderdelen a-d"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "The provincial rules set a decision within 13 weeks of receipt, or 22 weeks if advice is sought or further investigation is needed.\n- Conditions before starting: a signed collaboration agreement",
+          "sources": "Procedureregeling subsidies provincie Groningen 2018.pdf · p. 4 · Artikel 2.4 Beslistermijnen subsidieverlening\nSubsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · p. 3 · Artikel 7, onderdeel b"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "Documents differ slightly by activity; for a feasibility study they are:\n- Application form: project plan in SNN's format for the activity, with a description at activity level\n- Budget: SNN's budget format for the activity, with quotes for external costs\n- Mandatory annexes: knowledge-sharing and impact-evaluation plan; state-aid analysis for the relevant AGVV article (49, 41 or 36); collaboration agreement; decisions on other subsidies applied for\n- Partner documents: proof of signing authority; statement on financial difficulties signed by hand; previous year's (consolidated) annual accounts; partner details signed by hand; employer statement if using the monthly rate; legal structure if there are linked companies\n- Registration: eHerkenning, or a hand-signed lead-partner form without it",
+          "sources": "Subsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · p. 6 · Artikel 11 Indieningsvereisten\nSNN, Ontwikkeling waterstofketens (NPG) · Aanvraag voorbereiden (Dit heb je nodig voor je aanvraag)"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Applications must pass two knock-out criteria and score at least 80 of 100 points.\n- Knock-out criteria: feasibility (technical and organisational feasibility, risk analysis, and for investments a realistic implementation plan); cost-efficiency (realistic costs, market-rate hourly rates, cost-benefit analysis)\n- Evaluation criteria and weighting: impact on the hydrogen chain in Groningen 30; consortium quality 30; sustainability 20; innovation 10; cooperation with knowledge institutions 10\n- Thresholds: 80 points\n- Ranking rules: first come, first served from the day the application is complete; ties by lot",
+          "sources": "Subsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · pp. 3-5 · Artikel 6, lid 1e; Artikel 8 Beoordelingscriteria\nSubsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · p. 6 · Artikel 15"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Extra conditions apply to electrolysis, investments and blue hydrogen.\n- Conditional — electrolysis: the project must show it has considered future water use and freshwater scarcity\n- Conditional — investment (activities 3 and 4): it must follow from an implementation plan\n- Exception — upgrade to blue hydrogen: only converting existing installations to use blue hydrogen; production or transport infrastructure for blue hydrogen is excluded by state-aid rules\n- Conditional — financing not secured: no advance is paid",
+          "sources": "Subsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · pp. 3 and 7 · Artikel 7, onderdeel c; Artikel 18, lid 3\nSubsidieregeling Ontwikkeling waterstofketens (NPG) - samengevoegd met wijziging 08-10-2025.pdf · p. 9 · Toelichting, Activiteit 4\nSNN, Ontwikkeling waterstofketens (NPG) · Wat zijn de voorwaarden?"
+        }
+      ]
+    }
+  ]
+}
