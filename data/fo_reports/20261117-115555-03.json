@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "A Regional Cable Hub: a cross-border structure for one EU sea basin that detects threats to undersea cables and shares threat and incident information between national authorities.\nThe hubs come from the EU Action Plan on Cable Security, in which the Commission and volunteering Member States set up surveillance mechanisms per sea basin. A project may set up a new hub, extend an existing hub funded in earlier rounds to new Member States, or upgrade a hub's capabilities.",
+          "sources": "Call Document  DEP 11.pdf · pp. 24–27 · REGCABH, Introduction; Objectives"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "The grant covers setting up and running the hub and equipping it with detection capacity.\nIn scope:\n- Processes, tools and services to detect and analyse emerging threats and give near-real-time situational awareness around undersea cables\n- Aggregating data from all available sources, for example the Integrated Maritime System, CISE (the Common Information Sharing Environment for maritime surveillance) or National Cyber Hubs, and analysing it automatically\n- An incident-reporting function and an information-sharing procedure between national authorities, including for classified information\n- Preparatory activities, cooperation between members and with stakeholders, and running costs\n- Buying infrastructures, tools, instruments or services, such as detection capacities, in-situ sensors, satellite imagery or undersea drones\nOptional:\n- Structured partnership with the private sector, especially cable operators, for voluntary information sharing\n- Progressive integration of defence capacities (for example navy surveillance) in a dual-use approach\n- Coordinating deployment of modular repair equipment across the sea basin, if the Member States decide so\nThe call names no excluded activities.",
+          "sources": "Call Document  DEP 11.pdf · pp. 24–27 · REGCABH, Objectives; Expected Outcomes"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The need is the security of undersea cables as critical infrastructure, owned by the Member States and their authorities.\nThe call notes that undersea cables fall under the NIS 2 Directive (the EU law that sets cybersecurity duties for essential entities), which follows an all-hazards approach, so their physical environment must be protected against malicious acts such as cuts. The hubs serve the security of providers of essential services such as global connectivity and power supply, which includes subsea power cables of operators such as TenneT.",
+          "sources": "Call Document  DEP 11.pdf · pp. 24–27 · REGCABH, Introduction; Expected Outcomes"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "An operating hub with its detection tools, procedures and information-sharing arrangements, plus reporting deliverables.\n- Infrastructure, tools and services developed or acquired to set up, run or upgrade the hub\n- Processes for threat detection and analysis, incident reporting and information sharing between authorities\n- Procedural arrangements on cooperation and information sharing, set by the participating authorities\n- A dissemination and exploitation deliverable within six months, and yearly Project Outputs and KPIs (key performance indicators) deliverables, classified as sensitive",
+          "sources": "Call Document  DEP 11.pdf · pp. 24–27 · REGCABH, Expected Outcomes; KPIs\nCall Document  DEP 11.pdf · p. 8 · 2. Guidance on milestones, deliverables and KPIs\nCall Document  DEP 11.pdf · p. 57 · 10. Milestones and deliverables"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The hubs must consolidate collective situational awareness and detection capacity for undersea cables across a sea basin.\nThey should act as a central point for pooling security data, spreading threat information on a regional scale and allowing rapid exchange, even of classified information, between authorities.\nMandatory topic indicators:\n- Number of infrastructures, tools and services developed or acquired for the hub\n- Number of processes established for threat detection, incident reporting and information sharing\nOptional indicators include surveillance and protection solutions for submarine cables, active collaborations for voluntary incident reporting, and automated detection tools. No numerical targets are set.",
+          "sources": "Call Document  DEP 11.pdf · pp. 24–27 · REGCABH, Expected Outcomes; KPIs"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "The hub is meant to be a lasting regional structure that can grow: later projects may extend it to more Member States or upgrade its capabilities.\nThe call foresees expansion of hubs funded under earlier rounds and capability upgrades such as defence integration or more predictive, automated and interoperable situational awareness. Hubs may build on existing systems such as Copernicus (the EU earth-observation programme) and MARSUR (the European maritime surveillance network). Results may only be exploited in eligible countries, with limits on transfers and licensing. The call does not say how the hub is financed after the grant.",
+          "sources": "Call Document  DEP 11.pdf · pp. 24–27 · REGCABH, Expected Outcomes; Actions may address\nCall Document  DEP 11.pdf · p. 61 · 10. IPR rules"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "At least 2 independent beneficiaries from 2 different eligible countries; more Member States are preferred. There is no maximum.",
+          "sources": "Call Document  DEP 11.pdf · p. 50 · 6. Consortium composition\nCall Document  DEP 11.pdf · pp. 24–27 · REGCABH, Objectives"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "The consortium must include competent public authorities from at least two Member States that border the sea basin; other public or private partners may join.\nExamples of required authorities are ministries, agencies or other public bodies responsible for cable security, maritime security, resilience or critical-infrastructure protection. Other public or private partners may join to support technical and operational implementation, and the hubs should cooperate directly with private entities, especially cable operators. All partners must be established in and controlled from EU or EEA countries.",
+          "sources": "Call Document  DEP 11.pdf · p. 50 · 6. Consortium composition\nCall Document  DEP 11.pdf · pp. 24–27 · REGCABH, Objectives; Targeted stakeholders\nCall Document  DEP 11.pdf · p. 48 · 6. Eligibility"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "The call sets no split of work or budget; the participating authorities must agree cooperation and information-sharing arrangements among themselves.\nMain participants should be beneficiaries or affiliated entities; associated partners take part at their own cost; subcontracting should stay limited. A consortium agreement is required when there is more than one beneficiary.",
+          "sources": "Call Document  DEP 11.pdf · pp. 24–27 · REGCABH, Expected Outcomes\nCall Document  DEP 11.pdf · p. 65 · 13. Important, Consortium roles\nCall Document  DEP 11.pdf · p. 62 · 10. Other specificities"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "The call does not restrict the coordinator role, but in practice a national authority would lead, because the hub is a cooperation of Member State authorities.\nThe coordinator manages the project, represents the consortium and receives all payments.",
+          "sources": "Call Document  DEP 11.pdf · p. 50 · 6. Consortium composition\nCall Document  DEP 11.pdf · p. 65 · 13. Important, Coordinator"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "Formally possible but unrealistic: the rules do not bar a private partner from coordinating, yet the hub is a structure of national authorities.\nAny public or private legal entity may be a beneficiary (a partner that receives part of the grant) if it is established in an EU Member State, Norway, Iceland or Liechtenstein and is not directly or indirectly controlled from any other country.\nThis security restriction (Article 12(5) of the Digital Europe Regulation, the EU law that sets up the programme) applies to every topic of this call and to every role: beneficiary, affiliated entity, associated partner and subcontractor. Every participant must submit an ownership control declaration, except entities validated as public bodies. All project work, including subcontracted work, must take place in those eligible countries. TenneT TSO B.V. is a Dutch company owned by the Dutch State, so it meets these conditions; it must still file the declaration if it is not validated as a public body. Because the consortium must be built around competent public authorities from at least two Member States, TenneT could only take part in a proposal those authorities set up for the North Sea.",
+          "sources": "Call Document  DEP 11.pdf · pp. 48–50 · 6. Eligibility; Consortium composition\nCall Document  DEP 11.pdf · pp. 69–70 · Annex 2\nCall Document  DEP 11.pdf · pp. 24–27 · REGCABH, Objectives"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes: the call says other public or private partners may join, and explicitly wants cooperation with cable operators.\nTenneT could join as a beneficiary or as an associated partner (taking part without grant money), or simply share information with a hub on a voluntary basis. Associated partners must also meet the EU-control restriction and file an ownership control declaration.",
+          "sources": "Call Document  DEP 11.pdf · pp. 24–27 · REGCABH, Objectives; Expected Outcomes\nCall Document  DEP 11.pdf · p. 65 · 13. Important, Associated partners"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Yes, at 70% of its eligible costs as a beneficiary, within a project grant of about EUR 2.5 million shared by all partners.\nTenneT would fund the remaining 30% itself. Costs only count for work done in EU or EEA countries, indirect costs are a flat 7% of direct costs, and the grant may not produce a profit. The ECCC (European Cybersecurity Competence Centre, the EU body that manages the call) funds partners directly; there are no separate Dutch rules.",
+          "sources": "Call Document  DEP 11.pdf · pp. 24–27 · REGCABH, Type of action and funding rate\nCall Document  DEP 11.pdf · pp. 57–59 · 10. Form of grant; Budget categories"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT would be credible as an operator of subsea power cables in the North Sea that shares incident and asset information with the hub.\nTenneT operates offshore export cables and interconnectors, such as those of Hollandse Kust and LionLink. It could contribute cable routes and asset data under secure arrangements, monitoring data (for example from cable sensing or asset monitoring), incident reports, and its experience with offshore operations and cooperation with other North Sea TSOs. A realistic role would be as a partner or associated partner in a hub led by Dutch and neighbouring authorities. This is an interpretation of the call's wish for cable-operator cooperation.",
+          "sources": "Call Document  DEP 11.pdf · pp. 24–27 · REGCABH, Expected Outcomes"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "No new technology is required: the call funds setting up and equipping an operational structure, which may reuse existing systems.\nHubs could use systems not originally built for cable security, such as the Integrated Maritime Systems, CISE, Copernicus and MARSUR. Capability upgrades may apply new technologies for more predictive and automated situational awareness.",
+          "sources": "Call Document  DEP 11.pdf · pp. 24–27 · REGCABH, Expected Outcomes; Actions may address"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Mainly governance and operational methods (a cross-border cooperation structure and information-sharing procedures), supported by detection technology.",
+          "sources": "Call Document  DEP 11.pdf · pp. 24–27 · REGCABH, Objectives; Expected Outcomes"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Deployment and operation: preparation, setting up and running the hub, and buying equipment; no research stage.",
+          "sources": "Call Document  DEP 11.pdf · pp. 24–27 · REGCABH, Expected Outcomes"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "The call sets no TRL (technology readiness level); it expects an operating hub and scores the maturity of the project.",
+          "sources": "Call Document  DEP 11.pdf · p. 55 · 9. Award criteria"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "The hub must work in real operations around undersea cables in an EU sea basin, not in a laboratory.\nThe call speaks of near-real-time situational awareness and operational security around the cables, with in-situ sensors, satellite imagery or undersea drones as possible inputs.",
+          "sources": "Call Document  DEP 11.pdf · pp. 24–27 · REGCABH, Objectives; Expected Outcomes"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The hub must form one coherent cooperation structure that pulls data from existing national and EU systems.\nIt must aggregate information from sources such as the Integrated Maritime System, CISE and National Cyber Hubs, connect the authorities each Member State designates (for example National Hubs and CSIRTs), and progressively integrate cable operators and defence capacities.",
+          "sources": "Call Document  DEP 11.pdf · pp. 24–27 · REGCABH, Objectives; Expected Outcomes"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "Evidence comes from the indicators the applicant proposes, reported yearly with baselines, targets and means of verification.\nMandatory indicators count the infrastructures, tools and services built or acquired and the processes set up for detection, incident reporting and information sharing.",
+          "sources": "Call Document  DEP 11.pdf · pp. 24–27 · REGCABH, KPIs\nCall Document  DEP 11.pdf · pp. 9–11 · 2. Guidance on milestones, deliverables and KPIs"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "The users are the participating authorities themselves; cable operators should be involved through direct, highly secured cooperation and voluntary incident reporting.",
+          "sources": "Call Document  DEP 11.pdf · pp. 24–27 · REGCABH, Expected Outcomes"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "The hub will handle sensitive and possibly classified information, so strict security rules apply.\n- Only entities established in and controlled from EU or EEA countries may take part, in any role, and work must take place there.\n- Information exchange, even classified, must be rapid between authorities; cooperation with private entities must run in a highly secured framework.\n- Projects with EU classified information need security scrutiny; the grant cannot be signed until at least one beneficiary has facility security clearance.\n- Results may only be exploited in eligible countries, with limits on transfers and licensing.",
+          "sources": "Call Document  DEP 11.pdf · pp. 24–27 · REGCABH, Expected Outcomes\nCall Document  DEP 11.pdf · pp. 48, 51–52 · 6. Eligibility; Security\nCall Document  DEP 11.pdf · p. 61 · 10. IPR rules"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "About EUR 2.5 million of EU funding per project, from a topic budget of EUR 5 million for about 2 projects.\n- Total project size: the call states no project size; at the 70% rate a EUR 2.5 million grant implies total eligible costs of about EUR 3.6 million.\n- Grant request: per project; other amounts may be requested if duly justified, and the grant awarded may be lower than requested.\n- Funding form: budget-based mixed actual-cost grant (actual costs incurred are reimbursed, with some unit-cost and flat-rate elements, not the budgeted amounts).",
+          "sources": "Call Document  DEP 11.pdf · p. 46 · 3. Available budget\nCall Document  DEP 11.pdf · p. 57 · 10. Form of grant, funding rate and maximum grant amount\nTopic page, Budget overview (EU Funding & Tenders Portal)"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "A single rate of 70% of eligible costs applies to every partner; the call raised it from the usual 50% because of the geopolitical importance of cable security.\n- Co-financing conditions: the other 30% must come from the partners' own resources; the call does not say whether it must be cash or in kind.\n- Evidence required: no co-financing letter is required; financial capacity is checked during grant preparation, except for public bodies.",
+          "sources": "Call Document  DEP 11.pdf · p. 57–58 · 10. Form of grant, funding rate and maximum grant amount\nCall Document  DEP 11.pdf · p. 66 · Annex 1, Digital Europe types of action\nCall Document  DEP 11.pdf · p. 65 · 13. Important, Consortium roles"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Only actual costs of work in eligible countries count, with a 7% flat rate for indirect costs.\n- Eligible costs: personnel (average personnel costs allowed), subcontracting, travel (actual costs only), equipment, other goods and services, internally invoiced goods and services, indirect costs.\n- Caps or mandatory allocations: subcontracting should normally be a limited part; going beyond 30% of total eligible costs is only possible in very exceptional cases and must be justified.\n- Excluded costs: costs of activities outside the EU and EEA countries; separate project websites; in-kind contributions given for free cannot be declared as costs.\n- Overheads and VAT: indirect costs at a flat 7% of eligible direct costs; non-deductible VAT is eligible, except VAT paid by public bodies acting as public authority.\n- Subcontracting or equipment: for this topic the full cost of listed equipment may be charged, besides depreciation of other equipment; the grant may also cover buying the infrastructures, tools, services and detection capacities the hub needs; subcontracted work must be performed in eligible countries.",
+          "sources": "Call Document  DEP 11.pdf · pp. 58–59 · 10. Budget categories and cost eligibility rules\nCall Document  DEP 11.pdf · p. 65 · 13. Important, Consortium roles"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "Most of the grant is paid up front, but grants may not make a profit and overpayments are recovered.\n- Payment model: prefinancing of normally 80% of the maximum grant after signature, one or more interim payments, then the balance; all payments go to the coordinator.\n- Retention or guarantee: a prefinancing guarantee, normally from the coordinator, may be required if financial capacity is judged weak; public bodies are not checked for financial capacity.\n- Financial reporting or audit: for-profit organisations must declare revenues and any profit is deducted from the final grant.",
+          "sources": "Call Document  DEP 11.pdf · pp. 52, 59–60 · 7. Financial capacity; 10. Reporting and payment arrangements; Prefinancing guarantees\nCall Document  DEP 11.pdf · p. 58 · 10. Form of grant"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: a full proposal submitted online through the EU Funding & Tenders Portal by 14 January 2027, 17:00 CET (Brussels).\n- Stage 1 — Full proposal: 14 January 2027, 17:00:00 CET; Part A (administrative data and budget, filled in online), Part B (technical description, at most 70 pages) and ownership control declarations for all participants; every beneficiary, affiliated entity and associated partner needs a PIC (a 9-digit participant identification code from the Participant Register).\n- Additional procedure: none; each proposal may address only one topic of the call.",
+          "sources": "Call Document  DEP 11.pdf · p. 4 · 0. Introduction\nCall Document  DEP 11.pdf · pp. 46–48 · 4. Timetable and deadlines; 5. Admissibility and documents\nCall Document  DEP 11.pdf · p. 62 · 11. How to submit an application"
+        },
+        {
+          "title": "Project window",
+          "answer": "An indicative duration of 36 months, starting after grant signature, which is expected in October 2027.\n- Maximum duration: 36 months indicative; other durations are not excluded and extensions are possible through an amendment if duly justified.\n- Required start: normally after grant signature; a retroactive start may exceptionally be granted, but never before the proposal submission date.\n- Eligible-cost period: from the start date fixed in the grant agreement.",
+          "sources": "Call Document  DEP 11.pdf · p. 56–57 · 10. Starting date and project duration\nCall Document  DEP 11.pdf · pp. 46–47 · 4. Timetable and deadlines"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Results are expected in April 2027 and grant signature in October 2027 (both indicative).\n- Expected invitation or assessment result: evaluation February–March 2027; information on results April 2027.\n- Funding decision: April 2027, indicative; an invitation to grant preparation is not yet a commitment to fund.\n- Grant agreement: October 2027, indicative.\n- Conditions before starting: legal entity validation, financial capacity and exclusion checks, ownership control assessment, ethics review; a consortium agreement where there is more than one beneficiary; if EU classified information is involved, at least one beneficiary must hold facility security clearance before signature.",
+          "sources": "Call Document  DEP 11.pdf · pp. 46–47 · 4. Timetable and deadlines\nCall Document  DEP 11.pdf · pp. 51–52, 55 · 6. Ethics; Security; 8. Evaluation and award procedure\nCall Document  DEP 11.pdf · p. 62 · 10. Other specificities"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "The proposal must contain Part A, Part B and ownership control declarations, all through the Portal submission system.\n- Application form: Part A online; Part B downloaded from the submission system, at most 70 pages; any official EU language, but the abstract must be in English and English is strongly advised.\n- Budget: summarised budget in Part A; no detailed budget table is required.\n- Mandatory annexes: ownership control declarations, including for associated partners and subcontractors.\n- Partner documents: the coordinator confirms a mandate to act for all applicants; each beneficiary signs a declaration of honour before grant signature.\n- Registration: EU Login account and PIC for every participant; beneficiaries are validated by the Central Validation Service.",
+          "sources": "Call Document  DEP 11.pdf · pp. 47–48 · 5. Admissibility and documents\nCall Document  DEP 11.pdf · pp. 62, 64–65 · 11. How to submit; 13. Important, Registration; Language"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Proposals are scored on relevance, implementation and impact, each out of 5, and need at least 3 on each and 10 overall.\n- Evaluation criteria: relevance (fit with the topic, policy contribution, supply-chain security where applicable); implementation (maturity, soundness of the plan, capacity of the applicants); impact (expected outcomes, competitiveness and benefits for society).\n- Thresholds: 3 out of 5 per criterion; 10 out of 15 overall.\n- Ranking rules: ties are broken first by themes not covered by higher-ranked proposals, then by the relevance score, then by the impact score, then by portfolio considerations.\n- Budget assessment: the grant awarded may be lower than requested and costs may be adjusted in grant preparation.",
+          "sources": "Call Document  DEP 11.pdf · pp. 54–56 · 8. Evaluation and award procedure; 9. Award criteria"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Some conditions depend on the project's set-up.\n- Conditional — expansion of an existing hub: allowed for hubs funded under earlier rounds of this topic, to bring in more Member States.\n- Conditional — EU classified information: security scrutiny and a security aspects letter; facility security clearance for at least one beneficiary before signature.\n- Exception — funding rate: 70% instead of the usual 50%.\n- Exception — award criteria: supply-chain security, overcoming lack of market finance and environmental sustainability are not scored for this topic.\n- Recommended: apply for membership of the Cybersecurity Competence Community (the ECCC's network of cybersecurity organisations) through the National Coordination Centre and attach proof.",
+          "sources": "Call Document  DEP 11.pdf · pp. 24–27 · REGCABH, Actions may address; Specific topic conditions\nCall Document  DEP 11.pdf · pp. 51–52 · 6. Security\nCall Document  DEP 11.pdf · p. 47 · 5. Admissibility and documents"
+        }
+      ]
+    }
+  ]
+}
