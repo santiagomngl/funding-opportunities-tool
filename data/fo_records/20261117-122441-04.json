@@ -1,0 +1,28 @@
+{
+  "id": "20261117-122441-04",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "AI compute evaluation and deployment platform for EU infrastructure (DIGITAL-JU-CHIPS-2026-AI-GFP) – Digital Europe Programme",
+  "organization_or_parent_framework": "Chips Joint Undertaking (Chips JU)",
+  "programme": "Digital Europe Programme",
+  "call_title": "AI compute evaluation and deployment platform for EU infrastructure (DIGITAL-JU-CHIPS-2026-AI-GFP)",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-JU-CHIPS-2026-AI-GFP",
+  "executive_summary": "Funds a buyers' group that runs a common EU evaluation platform for European AI chips and racks and then procures pilot AI compute racks for EU AI Factories and cloud service providers. The consortium must include at least one public contracting authority operating an EU AI Factory or comparable public AI/HPC facility and at least two EU-established cloud service providers. Grant for Procurement co-funded with national funding authorities, EU rate up to 50%; EU contribution up to EUR 70 million for one project. Opened 7 July 2026; single-stage deadline extended to 1 December 2026, 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2026-12-01",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": 140000000,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "Appendix 8 of the Chips JU Work Programme (GB_2026.139, section 5.2.4, Topic B Expected Outcomes and Scope) funds an evaluation platform and pilot procurement of European AI chips and racks for AI Factories and cloud data centres. No project file is close: the CERRE study on flexibility and data centres concerns data centres as grid users, whereas this topic concerns the computing hardware inside them, with no energy-system application, so it does not touch TenneT's field.",
+  "call_type": "Not relevant",
+  "category_codes": [],
+  "taxonomy_values": {
+    "topic": [],
+    "role": [],
+    "activity": [],
+    "outcome": []
+  }
+}

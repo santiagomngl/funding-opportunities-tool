@@ -1,0 +1,44 @@
+{
+  "id": "20261117-115555-03",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "DIGITAL-ECCC-2027-DEPLOY-CYBER-11-REGCABH Regional Cable Hubs – Digital Europe Programme",
+  "organization_or_parent_framework": "European Cybersecurity Competence Centre (ECCC)",
+  "programme": "Digital Europe Programme",
+  "call_title": "Strengthening European Cybersecurity Technologies, Capacities and Preparedness (DIGITAL-ECCC-2027-DEPLOY-CYBER-11)",
+  "call_module_title": "DIGITAL-ECCC-2027-DEPLOY-CYBER-11-REGCABH Regional Cable Hubs",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-ECCC-2027-DEPLOY-CYBER-11-REGCABH",
+  "executive_summary": "Funds the set-up, expansion or upgrade of Regional Cable Hubs: cross-border structures, one per EU sea basin, that detect and analyse threats to undersea cables (including those for power supply), give near-real-time situational awareness, and organise incident reporting and information sharing between national authorities, with cooperation from cable operators. Consortia of at least 2 independent beneficiaries from 2 eligible countries, including competent public authorities from at least two Member States of the sea basin; other public or private partners may join; entities must be established in and controlled from EU or EEA countries. Simple Grants at 70%; EU contribution expected around EUR 2.5 million per project, EUR 5 million for about 2 projects; indicative duration 36 months. Opened 1 September 2026; single-stage deadline 14 January 2027, 17:00 CET.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-01-14",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": 3571429,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "The call document (DEP 11, pp. 24-27, REGCABH Objectives and Expected Outcomes) funds regional hubs that pool data and detect threats to undersea cables, naming providers of power supply among the essential services concerned and calling for direct cooperation with cable operators. This touches TenneT's subsea export cables and interconnectors in the North Sea, as in Hollandse Kust (west Beta), LionLink and the Offshore TSO Collaboration (OTC), although those projects concern building and planning the grid rather than its protection. The consortium must include competent public authorities from at least two Member States of the sea basin, but other public or private partners may participate (p. 24 and section 6, p. 50), and any legal entity established in and controlled from an EU or EEA country may be a beneficiary (p. 48), so TenneT TSO B.V. could be a funded partner at the 70% rate alongside Dutch and other North Sea authorities. A funded partner role fits C1.3.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T8",
+      "T7",
+      "T4"
+    ],
+    "role": [
+      "R2",
+      "R9"
+    ],
+    "activity": [
+      "A6",
+      "A10",
+      "A16"
+    ],
+    "outcome": [
+      "O2",
+      "O9"
+    ]
+  }
+}

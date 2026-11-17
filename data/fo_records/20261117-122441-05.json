@@ -1,0 +1,28 @@
+{
+  "id": "20261117-122441-05",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "AI chip demonstrators for EU compute infrastructure (DIGITAL-JU-CHIPS-2026-AI1-SG) – Digital Europe Programme",
+  "organization_or_parent_framework": "Chips Joint Undertaking (Chips JU)",
+  "programme": "Digital Europe Programme",
+  "call_title": "AI chip demonstrators for EU compute infrastructure (DIGITAL-JU-CHIPS-2026-AI1-SG)",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-JU-CHIPS-2026-AI1-SG",
+  "executive_summary": "Funds working AI chip demonstrators (chip on a printed circuit board, integrated with its software stack) by EU fabless chip design companies, benchmarked on the common EU evaluation platform; the best receive an AI Compute Excellence label needed for later rack development. Each consortium must include at least one EU-established fabless AI chip design company. Simple Grants co-funded with national funding authorities, EU rate up to 50%; EU contribution up to EUR 1 million per project, EUR 10 million for about 10 projects; expected duration 8 months. Opened 7 July 2026; single-stage deadline extended to 1 December 2026, 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2026-12-01",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": 2000000,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "Appendix 8 of the Chips JU Work Programme (GB_2026.139, section 5.2.2, Topic A1 Expected Outcomes and Scope) funds AI chip demonstrators by European fabless chip designers for data-centre computing. No project file is close: the topic concerns semiconductor design and benchmarking with no energy-system application, so it does not touch TenneT's field.",
+  "call_type": "Not relevant",
+  "category_codes": [],
+  "taxonomy_values": {
+    "topic": [],
+    "role": [],
+    "activity": [],
+    "outcome": []
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "A Cross-Border Cyber Hub: a platform where National Cyber Hubs of several Member States pool cyber threat data and intelligence and spread it to a wide set of actors.\nThe call mainly targets new hubs; earlier hubs (the ENSOC and ATHENA consortia) are already funded, and enlargements of ongoing hubs are allowed. The grant covers setting up and running the hub; the main infrastructure is bought through a joint procurement with the participating Member States. The need originates with the Member States under the Cyber Solidarity Act (the EU law on joint cyber detection and response), to detect threats that cross borders. Hubs may also monitor submarine cables, in synergy with the EU Copernicus Security Service.",
+          "sources": "DEP 12 Call fiche.pdf · pp. 11–14 · CBCH, Introduction; Objectives; Scope"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Pan-European situational awareness and faster detection of cross-border cyber threats.\nThe hub must pool large amounts of data and cyber threat intelligence (CTI), share it with CSIRTs, ISACs (sector information sharing centres) and operators of critical infrastructures, cooperate with the CSIRTs Network, and send early warnings on large-scale incidents to Member State authorities and the Commission through EU-CyCLONe (the EU network of national cyber crisis agencies). Suggested indicators: maturity before and after, entities benefiting, intensity of exchange, CTI services developed.",
+          "sources": "DEP 12 Call fiche.pdf · pp. 12–14 · CBCH, Scope; Expected Outcomes; KPIs"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "Public bodies acting as National Cyber Hubs, in consortia with beneficiaries from at least 3 eligible countries.\nFor an enlargement, the consortium is the coordinator of the ongoing grant plus the new members. Grants only go to applicants that succeed in the joint-procurement evaluation. Suppliers of threat-intelligence platforms, analytics and secure infrastructure benefit through the procurement. All participants, including subcontractors, must be established in and controlled from EU or EEA countries.",
+          "sources": "DEP 12 Call fiche.pdf · p. 19 · 6. Consortium composition\nDEP 12 Call fiche.pdf · p. 14 · CBCH, Targeted stakeholders\nDEP 12 Call fiche.pdf · p. 18 · 6. Eligibility"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": "No new technology is required: the call funds deploying common tools and data infrastructure using open standards such as MISP (for sharing threat intelligence), CSAF and IntelMQ, together with better analytics, detection and response tools. The innovation is mainly in operations and cross-border governance.",
+          "sources": "DEP 12 Call fiche.pdf · pp. 12–13 · CBCH, Objectives; Scope"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "The call sets no TRL (technology readiness level); it expects operational platforms.",
+          "sources": "DEP 12 Call fiche.pdf · pp. 12–14 · CBCH, Scope; Expected Outcomes"
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": "The hub runs in real operations and must integrate the participating National Cyber Hubs, CSIRTs and networks.\nIt must agree procedural arrangements with the CSIRTs Network on information sharing and conclude sharing agreements with competent authorities; a new hub works in close cooperation with any ongoing grant it enlarges.",
+          "sources": "DEP 12 Call fiche.pdf · pp. 12–14 · CBCH, Scope; Expected Outcomes"
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "Cross-border pooling of threat intelligence, shared with operators of critical infrastructures, would help TenneT detect attacks on its grid and North Sea cables that span several countries.\nThis matters because TenneT's grid and interconnectors are cross-border by nature. TenneT cannot take part itself: the targeted stakeholders are public bodies acting as National Cyber Hubs, and the call sets out no route for infrastructure operators, who appear only as recipients of shared information.",
+          "sources": "DEP 12 Call fiche.pdf · p. 12 · CBCH, Scope\nDEP 12 Call fiche.pdf · p. 14 · CBCH, Targeted stakeholders"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "Indicatively EUR 1–2 million of EU funding per hub, from a topic budget of EUR 2 million.\n- Total project size: not stated; at 50% this implies about EUR 2–4 million eligible costs.\n- Grant request: per project; other amounts are not excluded and the grant may be lower than requested.\n- Funding form: budget-based mixed actual-cost grant (actual costs incurred are reimbursed, with some unit-cost and flat-rate elements).",
+          "sources": "DEP 12 Call fiche.pdf · p. 15 · 3. Available budget\nDEP 12 Call fiche.pdf · p. 27 · 10. Form of grant, funding rate and maximum grant amount\nTopic page, Budget overview (EU Funding & Tenders Portal)"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "A single rate of 50% of eligible costs applies.\n- Co-financing conditions: the other 50% must come from the hub's own resources, typically national public funding; Simple Grants (the call's standard grant type) pay no other rate.\n- Evidence required: the appointment decision of the Member State designating the National Cyber Hub must be attached.",
+          "sources": "DEP 12 Call fiche.pdf · pp. 11, 14 · Type of action and funding rate\nDEP 12 Call fiche.pdf · p. 16 · 5. Admissibility and documents"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "Two linked submissions by 16 March 2027, 17:00 Brussels time: a grant proposal on the EU Funding & Tenders Portal and an expression of interest for the joint procurement.\n- Stage 1 — Grant proposal: 16 March 2027, 17:00 CET; Part A online, Part B at most 70 pages, ownership control declarations and the Member State's appointment decision.\n- Additional procedure — Expression of interest: 16 March 2027, 17:00 Brussels time, submitted to the ECCC (European Cybersecurity Competence Centre) for the joint procurement (the EU and the Member State jointly buy the hub's main infrastructure, tools and services). Grants are only awarded to applicants that succeed in this procurement evaluation.",
+          "sources": "DEP 12 Call fiche.pdf · pp. 9–10, 13 · Scope, footnotes on the expression of interest\nDEP 12 Call fiche.pdf · pp. 15–16 · 4. Timetable and deadlines; 5. Admissibility and documents\nDEP 12 Call fiche.pdf · p. 18 · 6. Eligibility"
+        },
+        {
+          "title": "Project window",
+          "answer": "An indicative duration of 36 months, starting after grant signature, expected in November 2027.\n- Maximum duration: 36 months indicative; other durations are not excluded; extensions only if justified and agreed with the ECCC.\n- Required start: normally after grant signature; never before the proposal submission date.",
+          "sources": "DEP 12 Call fiche.pdf · p. 26 · 10. Starting date and project duration\nDEP 12 Call fiche.pdf · pp. 15–16 · 4. Timetable and deadlines"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Results are expected in May–June 2027 and grant signature in November 2027 (indicative).\n- Expected invitation or assessment result: evaluation April–May 2027; results May–June 2027.\n- Grant agreement: November 2027, indicative.\n- Conditions before starting: success in the joint-procurement evaluation, legal and financial checks, ownership control assessment.",
+          "sources": "DEP 12 Call fiche.pdf · pp. 15–16 · 4. Timetable and deadlines\nDEP 12 Call fiche.pdf · p. 18 · 6. Eligibility"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    }
+  ]
+}

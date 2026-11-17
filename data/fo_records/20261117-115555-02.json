@@ -1,0 +1,28 @@
+{
+  "id": "20261117-115555-02",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "DIGITAL-ECCC-2027-DEPLOY-CYBER-11-AI4SME Strengthening cybersecurity capacities of European SMEs with cybersecure AI-powered solutions – Digital Europe Programme",
+  "organization_or_parent_framework": "European Cybersecurity Competence Centre (ECCC)",
+  "programme": "Digital Europe Programme",
+  "call_title": "Strengthening European Cybersecurity Technologies, Capacities and Preparedness (DIGITAL-ECCC-2027-DEPLOY-CYBER-11)",
+  "call_module_title": "DIGITAL-ECCC-2027-DEPLOY-CYBER-11-AI4SME Strengthening cybersecurity capacities of European SMEs with cybersecure AI-powered solutions",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-ECCC-2027-DEPLOY-CYBER-11-AI4SME",
+  "executive_summary": "Funds the development, adaptation, validation and uptake of AI-powered cybersecurity products, tools and services for European SMEs, in particular a SaaS toolkit for risk management, threat detection, incident response and incident reporting. Legal entities established in an EU or EEA country and not controlled from outside them are eligible; SMEs, start-ups, research, the public sector and NIS 2 entities are targeted. SME Support Actions at 50%, or 75% for SMEs; EU contribution expected at EUR 3–5 million per project, EUR 20 million for about 5 projects; indicative duration 36 months. Opened 1 September 2026; single-stage deadline 14 January 2027, 17:00 CET.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-01-14",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": 6000000,
+  "maximum_project_size": 10000000,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "The call document (DEP 11, pp. 14-17, AI4SME Objectives and Scope) funds AI-powered cybersecurity toolkits and services that automate risk management, threat detection and incident reporting for SMEs. Compared with the project files, only TwinEU deals with cybersecurity, and it concerns grid-wide data federation and resilience, not generic tools for small companies; the topic names no energy, operational-technology or critical-infrastructure application, so as a general cybersecurity call it does not touch TenneT's field.",
+  "call_type": "Not relevant",
+  "category_codes": [],
+  "taxonomy_values": {
+    "topic": [],
+    "role": [],
+    "activity": [],
+    "outcome": []
+  }
+}

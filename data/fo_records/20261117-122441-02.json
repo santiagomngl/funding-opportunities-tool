@@ -1,0 +1,39 @@
+{
+  "id": "20261117-122441-02",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "DIGITAL-ECCC-2027-DEPLOY-CYBER-12-NATCH National Cyber Hubs – Digital Europe Programme",
+  "organization_or_parent_framework": "European Cybersecurity Competence Centre (ECCC)",
+  "programme": "Digital Europe Programme",
+  "call_title": "Cyber Hubs Capacity Building (DIGITAL-ECCC-2027-DEPLOY-CYBER-12)",
+  "call_module_title": "DIGITAL-ECCC-2027-DEPLOY-CYBER-12-NATCH National Cyber Hubs",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-ECCC-2027-DEPLOY-CYBER-12-NATCH",
+  "executive_summary": "Funds the setting up and running of National Cyber Hubs: the single national entities, designated by each Member State, that collect and analyse cyber threat information and give early warnings to critical infrastructures. Only the entity designated by its Member State as National Cyber Hub may apply, as a single beneficiary, and only if it succeeds in the linked joint-procurement expression of interest. Simple Grants at 50%; EU contribution about EUR 1 million per project, EUR 2 million in total; indicative duration 36 months. Opened 15 October 2026; single-stage deadline 16 March 2027, 17:00 CET, the same date as the expression of interest.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-03-16",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": 2000000,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "The call document (DEP 12 Call fiche, pp. 7-11, NCH Objectives and Scope) funds national hubs that detect and analyse cyber threats and deliver early warnings to targeted critical infrastructures, which touches the protection of TenneT's systems; TwinEU (grid resilience and cybersecurity) is the closest project file, though it concerns data federation between grid operators rather than national threat monitoring. Section 6 (p. 19, Consortium composition) states that only entities designated by a Member State as National Cyber Hubs may apply and that projects should be mono-beneficiary, so TenneT cannot take part. The hub's early-warning services to critical infrastructures would benefit TenneT through the Dutch hub, which fits C3.4.",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.4"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T8",
+      "T1"
+    ],
+    "role": [],
+    "activity": [
+      "A6",
+      "A10",
+      "A11"
+    ],
+    "outcome": [
+      "O2"
+    ]
+  }
+}
