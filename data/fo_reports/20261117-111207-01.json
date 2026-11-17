@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "A demonstrated energy storage solution, new or improved, that is built into a retrofitted obsolete or outdated infrastructure and adds flexible storage capacity to the grid.\nThe call names examples of host infrastructure: old hydropower dams and basins, decommissioned power plants, former industrial facilities, coal mines and fossil fuel infrastructure.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · p. 178 · Scope"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Projects should demonstrate storage technologies combined with the retrofit of an existing site, and balance storage performance with circularity and sustainability.\nIn scope:\n- Demonstration of novel or improved technologies for cost-efficient, circular and sustainable energy storage that contribute to grid flexibility\n- Integration of the storage technology with the retrofit of obsolete or outdated energy or other infrastructure\n- Optimising storage capacity and efficiency together with circularity and socio-economic and environmental sustainability, for example through stakeholder outreach and assessment of environmental impacts\n- A secure-by-design approach with built-in security in the energy system\n- Contribution to and active participation in BRIDGE (the European Commission's cooperation initiative of smart grid and storage projects)\nThe call names no mandatory storage technology and no excluded activities.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 178–179 · Expected Outcome; Scope"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The need is for more diverse, flexible and affordable storage capacity to improve energy security, using existing sites to cut cost.\nThe call frames this as a system need of the European energy system: more storage for grid flexibility, better storage sustainability and circularity, and better economics by reusing existing infrastructure. The beneficiaries are energy system operators and users who need flexibility, and owners of obsolete infrastructure who gain a new use for it.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 178–179 · Expected Outcome; Scope"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "The main output is a demonstration of a retrofitted storage installation, with evidence of its performance and sustainability.\n- A demonstrated storage solution in a retrofitted infrastructure, reaching TRL 6–8\n- Optimised storage capacity and efficiency\n- An assessment of circularity and of socio-economic and environmental impacts, including stakeholder outreach\n- A security-by-design concept for the installation",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 178–179 · Expected Outcome; Scope"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Projects must contribute to all three expected outcomes: energy security through more flexible storage, more sustainable and circular storage, and better storage economics through reuse of infrastructure.\nAt destination level, the work programme links storage to more flexibility and grid hosting capacity for renewables, supporting the EU 2030 target of at least 42.5% renewables in gross final energy consumption. The topic itself sets no numerical targets.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 178–179 · Expected Outcome; Scope\nTopic page HORIZON-CL5-2027-07-D3-27, EU Funding & Tenders Portal · Topic destination, Energy systems, grids and storage"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "The topic says little about uptake; it asks for a demonstration and participation in BRIDGE.\n- Replication: the call does not require replication during the project\n- Knowledge sharing: projects are expected to contribute to and actively take part in BRIDGE\n- Exploitation: every Horizon Europe proposal must include a plan for the exploitation and dissemination of results\nThe call does not say who must operate the storage after the project.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · p. 179 · Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 4 · Annex A, Admissibility conditions"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "At least three independent legal entities from three different countries, including at least one in an EU Member State; there is no maximum.\nThe topic sets no larger minimum.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 13 · Annex B, Consortium composition"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "The call requires no particular partner types; only the standard country rules apply.\n- Eligible countries: EU Member States and Associated Countries, under General Annex B\n- Restriction: entities established in an eligible country but directly or indirectly controlled by China or a legal entity established in China may not participate\n- Legal entities established in China may not take part in Innovation Actions under this destination\nIn practice, a demonstration on a retrofitted site needs the site owner, storage technology providers and parties who use the flexibility; this is interpretation.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 178–179 · Specific conditions, Eligibility conditions\nTopic page HORIZON-CL5-2027-07-D3-27, EU Funding & Tenders Portal · Topic destination"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "Any eligible legal entity in the consortium may coordinate; the call sets no coordinator type.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 13 · Annex B, Consortium composition"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "Yes, TenneT TSO B.V. may coordinate as a Dutch legal entity; no rule reserves coordination for a type of organisation.\nIt must not be controlled by China or a Chinese entity. Because the topic centres on the storage installation and the retrofitted site, the site owner or storage developer is the more natural coordinator (interpretation).",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 178–179 · Specific conditions, Eligibility conditions"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes, as a beneficiary; the call names no restriction on system operators.\nThe topic text and General Annexes read do not set out a separate unfunded role.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 178–179 · Specific conditions"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Yes, through a lump sum grant at the Innovation Action rate of 70% for for-profit entities.\n- Funding rate: up to 70% for for-profit entities such as TenneT, up to 100% for non-profit entities; in a lump sum grant the rate is built into the fixed amounts\n- Grant type: lump sum (a fixed amount paid against completed work packages, not against actual costs)\nTenneT would therefore finance at least 30% of the estimated cost of its work itself. Horizon Europe funds partners directly; no Dutch national rules apply.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · p. 179 · Specific conditions, Legal and financial set-up of the Grant Agreements\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 31 · Annex G, Legal and financial set-up of the grants"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT could contribute the transmission-grid view: where storage helps congestion and flexibility, and on what grid access terms.\nThis is interpretation. Useful contributions could be:\n- Grid connection and integration studies for the retrofitted site\n- Experience with flexible grid access for storage, such as the time-dependent transmission rights contract with Lion Storage\n- Requirements for how the storage should deliver flexibility to the grid\nThe call is technology-centred, so TenneT would be a supporting partner rather than the core of the project.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · p. 178 · Scope"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The storage technology must be novel or improved; the innovation also lies in integrating it with retrofitted infrastructure.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · p. 178 · Scope"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "A combination of technology and system integration.\n- Technology: novel or improved storage\n- System integration: combining storage with the retrofit of existing infrastructure\n- Sustainability and circularity of the storage system",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · p. 178 · Scope"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "The topic funds demonstration; activities may start at any TRL.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 178–179 · Specific conditions, Technology Readiness Level; Scope"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "TRL 6–8 by the end of the project (from a prototype demonstrated in a relevant environment to a complete system qualified for use); activities may start at any TRL.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · p. 179 · Specific conditions, Technology Readiness Level"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "The solution must be demonstrated in a retrofitted obsolete or outdated infrastructure, so testing takes place at a real site.\nThe call does not say whether the storage must be connected to and operated on the live grid.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · p. 178 · Scope"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The storage technology and the retrofit must be designed together: the proposal should integrate their synergies and optimise capacity, efficiency, circularity and sustainability at the same time.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · p. 178 · Scope"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "The demonstration should show storage capacity, efficiency and cost-effectiveness, and the circularity and environmental and socio-economic sustainability of the solution.\nThe call sets no numerical indicators.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 178–179 · Expected Outcome; Scope"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "The call asks for stakeholder outreach as part of addressing socio-economic and environmental sustainability, but does not require users to co-design or validate the solution.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · p. 178 · Scope"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "Proposals should follow a secure-by-design approach and integrate built-in security in the energy system.\n- Satellite data: projects using satellite-based observation, positioning or timing data must use Copernicus or Galileo/EGNOS\n- Control restriction: no participation by entities controlled by China or a Chinese entity",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 178–179 · Scope; Specific conditions, Eligibility conditions"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "EUR 22.5 million for around three projects, about EUR 7.5 million each.\n- Grant request: around EUR 7.5 million per project, a Commission estimate; other amounts are not excluded\n- Total project size: not stated\n- Funding form: lump sum grant",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · p. 178 · Specific conditions, Expected EU contribution per project; Indicative budget\nTopic page HORIZON-CL5-2027-07-D3-27, EU Funding & Tenders Portal · Budget overview"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "Partners can receive up to 70% of costs, or up to 100% if non-profit, built into the lump sum.\n- For-profit legal entities such as TenneT: up to 70%; at least 30% own contribution\n- Non-profit legal entities: up to 100%",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 31 · Annex G, Legal and financial set-up of the grants"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "The budget is set as a lump sum, based on a detailed budget table in the proposal.\n- The detailed budget table is used to justify and fix the lump sum amount; evaluators comment on it",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 27 · Annex F, Lump sum budget table\nTopic page HORIZON-CL5-2027-07-D3-27, EU Funding & Tenders Portal · Conditions and documents, Detailed budget table (HE LS)"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: a full proposal by 1 December 2027, 17:00 Brussels time, through the Funding & Tenders Portal submission system.\n- Stage 1 — Full proposal: 1 December 2027, 17:00 Brussels time; planned opening 4 August 2027; limited to 45 pages, the limit for lump sum Innovation Actions",
+          "sources": "Topic page HORIZON-CL5-2027-07-D3-27, EU Funding & Tenders Portal · General information\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 4 · Annex A, Page limits"
+        },
+        {
+          "title": "Project window",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Results around May 2028 and grant signature around August 2028 (both indicative).\n- Expected assessment result: around 5 months after the deadline\n- Grant agreement: around 8 months after the deadline\n- Conditions before starting: PIC validation (participant identification code), financial capacity checks and a signed grant agreement",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 30 · Annex F, Indicative timeline\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 5 · Annex B, Registration"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "The proposal uses the standard Horizon Europe Innovation Action form plus the lump sum detailed budget table.\n- Application form: in the submission system, limited to 45 pages\n- Budget: the detailed lump sum budget table (HE LS)\n- Registration: every beneficiary needs a PIC in the Participant Register",
+          "sources": "Topic page HORIZON-CL5-2027-07-D3-27, EU Funding & Tenders Portal · Conditions and documents\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 4–5 · Annex A, Page limits; Annex B, Registration"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Proposals are scored on Excellence, Impact, and Quality and efficiency of implementation, with Impact weighted 1.5 for ranking.\n- Thresholds: each criterion scored out of 5, minimum 3 per criterion and 10 overall\n- Weighting: Impact counts 1.5 times for Innovation Actions\n- Budget assessment: the lump sum budget table is assessed and commented on in evaluation",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 24–27 · Annex D, Scores and weighting; Annex F"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Two conditional rules apply.\n- Conditional — control by China: entities controlled by China or a Chinese entity may not participate\n- Conditional — use of satellite data: Copernicus or Galileo/EGNOS must be used\n- Recommended: active participation in BRIDGE",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 178–179 · Specific conditions, Eligibility conditions; Scope"
+        }
+      ]
+    }
+  ]
+}

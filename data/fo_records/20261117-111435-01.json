@@ -1,0 +1,40 @@
+{
+  "id": "20261117-111435-01",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "DIGITAL-ECCC-2027-DEPLOY-CYBER-11-COORDPREP Coordinated preparedness testing and other preparedness actions – Digital Europe Programme",
+  "organization_or_parent_framework": "European Cybersecurity Competence Centre (ECCC)",
+  "programme": "Digital Europe Programme",
+  "call_title": "Strengthening European Cybersecurity Technologies, Capacities and Preparedness (DIGITAL-ECCC-2027-DEPLOY-CYBER-11)",
+  "call_module_title": "DIGITAL-ECCC-2027-DEPLOY-CYBER-11-COORDPREP Coordinated preparedness testing and other preparedness actions",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-ECCC-2027-DEPLOY-CYBER-11-COORDPREP",
+  "executive_summary": "Funds cybersecurity preparedness actions under the Cyber Solidarity Act: coordinated preparedness testing (penetration testing, stress tests, exercises) of entities in sectors selected by the Commission, including the electricity sub-sector, and other preparedness actions such as risk monitoring, vulnerability disclosure and training. Aimed at national cybersecurity authorities and CSIRTs; other public or private partners may join the consortium; legal entities in EU and EEA countries not controlled from outside them are eligible. Simple Grants at a 50% funding rate, around EUR 1.5 million per project, EUR 15 million for around 10 projects, indicative duration 24 months. Opened 1 September 2026; single-stage deadline 14 January 2027, 17:00 CET.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-01-14",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "The call document (DEP 11, pp. 18-23, COORDPREP Objectives and Scope) funds coordinated cybersecurity preparedness testing of critical entities, with the energy sector and in particular the electricity sub-sector among the three sectors selected, plus risk monitoring, vulnerability disclosure and training. This touches TenneT's cyber resilience as an operator of critical infrastructure, as in TwinEU, which works on grid resilience and cybersecurity. The action targets national cybersecurity authorities and CSIRTs but states that other relevant public or private partners may participate in the consortium (p. 23, Targeted stakeholders), and section 6 (pp. 48-49) admits any legal entity established in the EU or EEA as a beneficiary, so TenneT TSO B.V. could be a funded partner at the 50% rate in a proposal led by the Dutch competent authority. A funded partner role fits C1.3.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T8"
+    ],
+    "role": [
+      "R2",
+      "R9"
+    ],
+    "activity": [
+      "A8"
+    ],
+    "outcome": [
+      "O2",
+      "O4"
+    ]
+  }
+}
