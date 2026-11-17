@@ -1,0 +1,39 @@
+{
+  "id": "20261117-181937-03",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "Haalbaarheidsstudies – DHI-subsidieregeling",
+  "organization_or_parent_framework": "Netherlands Enterprise Agency (RVO)",
+  "programme": "DHI-subsidieregeling",
+  "call_title": "Subsidieprogramma DHI 2026–2030",
+  "call_module_title": "Haalbaarheidsstudies",
+  "call_year": 2026,
+  "url": "https://www.rvo.nl/subsidies-financiering/dhi-subsidieregeling/dhi-haalbaarheidsstudies",
+  "executive_summary": "Grants for SME-led feasibility studies enabling a foreign customer to decide whether to invest in mature Dutch technology. The study covers technical or commercial feasibility and produces a business or project plan; a necessary small test may be included. Funding is up to 50% of eligible costs, or 70% for qualifying green projects, capped at EUR 100,000; eligible project costs must total at least EUR 50,000. Applications run from 2 March to 31 December 2026, after a mandatory RVO quick scan, and studies last at most two years.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2026-12-31",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": 50000,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "The RVO Haalbaarheidsstudies page (Wat is een haalbaarheidsstudie?) and Staatscourant 2026-7891 sections 4.4(b) and 7(2) fund feasibility and basic design for a foreign customer investing in mature Dutch technology. Grid-equipment studies could benefit the procurement needs of the 2GW Program and share engineering mechanisms with InterOPERA, although the latter is a research collaboration rather than an export study. Sections 3 and 4.2 require a foreign customer and exporting or investing Dutch participants; the large-enterprise exception requires a necessary contribution to an SME, and establishes no suitable domestic-customer route for TenneT Netherlands. Type 3 category C3.2 reflects potential benefits through products supplied by others.",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.2"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T4"
+    ],
+    "role": [],
+    "activity": [
+      "A3",
+      "A4",
+      "A8"
+    ],
+    "outcome": [
+      "O6",
+      "O7"
+    ]
+  }
+}

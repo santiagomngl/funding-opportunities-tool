@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "Remove a concrete barrier to introducing a startup’s mature Dutch technology into a new foreign business market. The startup defines a technical, commercial, economic or legal obstacle and validates how to overcome it with a qualified local party. The project may contain demonstration, feasibility or investment-preparation elements. Research, product development, general market research, sales promotion and consumer-market projects are excluded; prototype testing is permitted. The work must support entry into the identified market, rather than improve the underlying product.",
+          "sources": "stcrt-2026-7891.pdf · pp. 6–7, 11–12 · Marktvalidatie van startups; Niet subsidiabele activiteiten; Criteria voor marktvalidaties van startups\nDHI-subsidieregeling: Marktvalidaties · Wat is een marktvalidatie?; Voorwaarden marktvalidatie"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Demonstrate a credible route to exports or foreign investment worth at least five times the grant within three years after validation. At the EUR 25,000 grant described on RVO’s page, that threshold is EUR 125,000. The project must strengthen Dutch international business without harming the Dutch economy or employment. A developing-country project must substantially support local employment, knowledge and technology transfer, or productive capacity, without adverse scores on the other dimensions. Unlike the other DHI project modules, startup market validation receives no higher green-project funding rate.",
+          "sources": "stcrt-2026-7891.pdf · pp. 4–5, 7, 12, 14 · Begrippen; Doel en doelgroep; Omvang van de subsidie; Criteria voor marktvalidaties van startups; Annex 1\nDHI-subsidieregeling: Marktvalidaties · Voorwaarden marktvalidatie"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "An innovative Dutch technology startup with a finished product and foreign-market ambitions is the intended applicant. The regulation defines a startup as a small or medium enterprise founded less than ten years ago; RVO’s page describes startups up to ten years old. The enterprise must have private legal personality, substantial Dutch activities and registration in the trade register. The normal EUR 100,000 average-turnover test is waived for startup market validation. Three full-time-equivalent Dutch employees are normally required, with specified alternatives through structural contractors or Dutch producers. A consortium may include a large company only where necessary to the SME, a small or medium enterprise, which must retain the emphasis. A qualified non-Dutch local partner must facilitate the validation; it may be an adviser, host, prospective customer, technology partner or research institution.",
+          "sources": "stcrt-2026-7891.pdf · pp. 4–6 · Begrippen; Wie kunnen in aanmerking komen voor een subsidie\nDHI-subsidieregeling: Marktvalidaties · Voor wie?; Controleer of u in aanmerking komt voor DHI-Marktvalidatie; Wat is een marktvalidatie?"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": "The technology must be developed already; the funded task is validating its entry into a new foreign market. The startup must identify a specific entry barrier and justify why public support is needed to overcome it. Technical, commercial, legal and economic validation can qualify, while marketing, sales and general market research cannot. Prototype testing is allowed, but the project cannot fund product development or adaptation. The application must connect each activity to the identified market-entry obstacle.",
+          "sources": "stcrt-2026-7891.pdf · pp. 6–7, 11–12 · Marktvalidatie van startups; Niet subsidiabele activiteiten; Criteria voor marktvalidaties van startups\nDHI-subsidieregeling: Marktvalidaties · Wat is een marktvalidatie?"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "Technology Readiness Level 8 or 9 is required: a completed, qualified technology or one proven in operational use. The programme supports the next commercial-market step rather than unfinished technology development. A prototype may be tested to resolve a market-entry issue, but that permission does not remove the stated maturity requirement.",
+          "sources": "stcrt-2026-7891.pdf · pp. 6–7, 11–12 · Marktvalidatie van startups; Niet subsidiabele activiteiten; Criteria voor marktvalidaties van startups"
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": "The startup must work with a qualified local party on one coherent foreign-market validation project. That party supplies the expertise needed to remove the specific barrier, supported by a quotation or letter of intent. Prototype tests, demonstration elements, feasibility work or investment-preparation elements can form part of the same plan. The project normally concerns one target country; a neighbouring-country extension requires an effectiveness or efficiency justification. The activities must be proportionate to the problem, with results that show whether the intended market entry is feasible.",
+          "sources": "stcrt-2026-7891.pdf · pp. 6–7, 11–12 · Subsidiabele activiteiten; Criteria voor marktvalidaties van startups; Criteria ter beoordeling van de beoogde uitvoering van een project\nDHI-subsidieregeling: Marktvalidaties · Wat is een marktvalidatie?"
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "Mature inspection and grid-technology startups could use this call to validate foreign markets, potentially improving products that TenneT may later procure. This is an interpretation of the broad technology scope, not an energy-specific objective in the call. Reliability Centered Maintenance illustrates a possible need for validated inspection technologies; the 2GW Program illustrates grid-equipment procurement needs. The call establishes no suitable domestic-customer or test-site route for TenneT Netherlands: the enabling local party must be non-Dutch, while a Dutch large-company consortium partner must itself export or invest in support of the SME. Pointing a supplier towards the call or being a potential Dutch buyer does not establish such a role.",
+          "sources": "stcrt-2026-7891.pdf · pp. 4–7, 11–12 · Begrippen; Wie kunnen in aanmerking komen voor een subsidie; Marktvalidatie van startups; Criteria voor marktvalidaties van startups"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "RVO presents a EUR 25,000 market-validation grant, while the regulation caps support at that amount and 50% of eligible costs.\n- Total project size: at least EUR 50,000 of eligible project costs.\n- Grant request: up to EUR 25,000 per application under the regulation; the module page describes EUR 25,000 per validation.\n- Funding form: subsidy towards eligible validation activities, paid as an advance and settled after completion.\n- Programme budget: up to EUR 1 million is reserved for market validation in 2026, split equally between developing countries and other countries. RVO describes capacity for 40 validations, twenty in each group.",
+          "sources": "stcrt-2026-7891.pdf · pp. 1, 7–8 · Artikel 3; Omvang van de subsidie; Subsidiabele kosten\nDHI-subsidieregeling: Marktvalidaties · Budget en aanvraagperiode; 40 marktvalidaties in 2026; Wat is een marktvalidatie?"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "The regulation funds at most 50% of eligible startup-validation costs; the 70% green-project exception does not apply.\n- Startup validation: at least 50% of eligible costs, plus excluded expenditure, must be financed outside the grant. The award cannot exceed EUR 25,000.\n- Co-financing conditions: the applicant’s own contribution cannot use direct or indirect subsidies from the Dutch foreign-affairs budget. A third-party financial contribution to project costs reduces the grant by the same amount.\n- Evidence required: demonstrate financing for the validation and subsequent exports or investment; provide available accounts and signed de-minimis declarations under the European small-aid regime. The EUR 300,000 limit over three years applies to the enterprise group.",
+          "sources": "stcrt-2026-7891.pdf · pp. 5, 7–10 · Wie kunnen in aanmerking komen voor een subsidie; Omvang van de subsidie; Vereisten"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "The regulation and RVO page use different bases for the hired-expertise limit, which applicants should resolve before relying on a budget.\n- Eligible costs: necessary expert time, permitted depreciation, travel, accommodation and third-party work. Expert rates are capped at EUR 87.50 per hour and EUR 700 per day, with local-rate adjustments abroad.\n- Caps or mandatory allocations: regulation section 5.2 caps third-party costs at 50% of total market-validation project costs, except the stated affiliated-enterprise personnel costs. RVO’s module page instead says at most 50% of the EUR 25,000 grant may be used to hire expertise. These are different limits; the page does not reconcile them.\n- Excluded costs: application preparation, project management, desk-research personnel time, finance and interest, own software, actual certification, import duties and exchange-rate or inflation effects.\n- Overheads and VAT: the expert rate includes direct and indirect costs; value-added tax is excluded.\n- Subcontracting or equipment: external expert rates are also capped at EUR 87.50 per hour. The regulation prescribes depreciation lifetimes of five years for machinery, thirty for buildings and three for purchased software.",
+          "sources": "stcrt-2026-7891.pdf · pp. 8–9 · Uitgangspunten; Subsidiabele kosten; Niet-subsidiabele kosten\nDHI-subsidieregeling: Marktvalidaties · Wat is een marktvalidatie?"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "The validation grant is advanced, but failure to perform the agreed work can lead to reduction or recovery.\n- Payment model: the module page describes an advance after approval. The general DHI administration page describes a 90% advance according to the award schedule.\n- Financial reporting or audit: RVO settles market validation within thirteen weeks after completion without a separate settlement application. Checks are sample-based; RVO can request the reports produced during validation. The applicant must therefore keep evidence even though settlement is automatic.",
+          "sources": "DHI-subsidieregeling: Marktvalidaties · Na uw aanvraag; Wijzigingen in uw aanvraag doorgeven\nNa uw aanvraag voor DHI-subsidie · Voorschotbetaling; Vaststelling subsidie aanvragen en eindrapportage"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "A mandatory RVO quick scan precedes the full startup-validation application, which may be submitted in Dutch or English.\n- Advice stage — Quick scan: obtain the RVO advice code before applying; processing may take up to two weeks. Advice is non-binding.\n- Full application: submit between 2 March and 31 December 2026 while budget remains, including the local party’s quotation or letter of intent and required project and participant documents. The reviewed sources give no closing time or time zone.\n- Additional procedure: Dutch applicants need eHerkenning level 2+, the organisational login service. A requested supplement resets the receipt date and time to when the missing material arrives.",
+          "sources": "stcrt-2026-7891.pdf · pp. 1, 6, 9–10 · Artikel 2; Adviestraject; Vereisten; Herstelperiode\nDHI-subsidieregeling: Marktvalidaties · 40 marktvalidaties in 2026; Subsidie direct aanvragen"
+        },
+        {
+          "title": "Project window",
+          "answer": "Startup market validation lasts at most one year, with subsequent exports or investment expected within three years after completion.\n- Maximum duration: 12 months.\n- Eligible-cost period: costs before application submission are excluded; RVO’s module page describes starting execution after approval.\n- Subsequent export or investment: at least five times the grant within three years after validation, equivalent to EUR 125,000 at the grant amount described by RVO.",
+          "sources": "stcrt-2026-7891.pdf · pp. 7–8, 12 · Duur van de projecten en samenloop; Uitgangspunten; Criteria voor marktvalidaties van startups\nDHI-subsidieregeling: Marktvalidaties · Voorwaarden marktvalidatie; Na uw aanvraag"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "RVO considers complete validation applications in arrival order, within the separate developing-country and other-country budgets.\n- Funding decision: a supplement resets receipt date and time; simultaneous applications exceeding available funds are ordered by lottery.\n- Conditions before starting: RVO’s module page describes starting after approval. Expenditure before application submission is excluded, and the award specifies the approved activities and obligations.\n- Grant settlement: automatic within thirteen weeks after project completion, subject to possible sample checks.",
+          "sources": "stcrt-2026-7891.pdf · pp. 8, 10, 13 · Uitgangspunten; Beoordeling en verdeling beschikbare middelen; Verplichtingen\nDHI-subsidieregeling: Marktvalidaties · 40 marktvalidaties in 2026; Na uw aanvraag\nNa uw aanvraag voor DHI-subsidie · Vaststelling subsidie aanvragen en eindrapportage"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "The application must identify the market-entry barrier, the validation plan and the qualified local party.\n- Application form: RVO’s designated form in Dutch or English, with the quick-scan advice code.\n- Budget: the prescribed budget and a matching activity plan.\n- Mandatory annexes: project plan, experts’ curricula vitae and the latest available applicant accounts. For a recently established company without accounts, the regulation allows an opening balance sheet or current accounting overview. Developing-country projects need a development-relevance annex.\n- Partner documents: quotation or letter of intent from the local enabling party; signed de-minimis declarations under the European small-aid regime; consortium mandates and a signed cooperation agreement where applicable.\n- Registration: Dutch applicants need eHerkenning level 2+, the organisational login service.\n- Conditional — responsible business conduct: declare adherence to the Organisation for Economic Co-operation and Development guidelines and the excluded-activities list; RVO may request a corporate-responsibility self-assessment.",
+          "sources": "stcrt-2026-7891.pdf · pp. 9–10 · Vereisten\nDHI-subsidieregeling: Marktvalidaties · Voorwaarden marktvalidatie; Subsidie direct aanvragen"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Complete validation proposals are assessed in arrival order against maturity, market-entry need, local expertise and credible subsequent business.\n- Evaluation criteria: self-developed mature technology, a new non-consumer market, a specific justified entry barrier, suitable technical or commercial validation, a qualified local party and exports or investment of at least five times the grant within three years.\n- Ranking rules: complete receipt determines priority; supplements reset the date and time. Simultaneous applications exceeding the available amount are ordered by lottery.\n- Budget assessment: costs must be necessary and reasonable, financing credible and experts qualified. The plan must be locally embedded and address environmental, labour and human-rights risks.",
+          "sources": "stcrt-2026-7891.pdf · pp. 10–12 · Beoordeling en verdeling beschikbare middelen; Criteria voor marktvalidaties van startups; Beleidsmatige criteria; Criteria ter beoordeling van de beoogde uitvoering van een project"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Startup age, local expertise and limits on repeated awards are material conditions for DHI market validation.\n- Conditional — startup eligibility: the regulation defines the startup as founded less than ten years ago. The normal EUR 100,000 average-turnover condition is waived for this module.\n- Conditional — local party: provide its quotation or letter of intent and show the expertise necessary for the validation.\n- Conditional — multiple awards: no overlapping DHI project, and at most two market-validation awards per applicant per year.\n- Conditional — green technology: startup validation is expressly excluded from the higher 70% funding rate.\n- Conditional — developing country: substantiate development relevance alongside the normal market-validation criteria.\n- Conditional — changes or delivery problems: report them to RVO; unreported changes can cause partial or full recovery.",
+          "sources": "stcrt-2026-7891.pdf · pp. 4–7, 9, 12–13 · Begrippen; Wie kunnen in aanmerking komen voor een subsidie; Duur van de projecten en samenloop; Omvang van de subsidie; Vereisten; Verplichtingen\nDHI-subsidieregeling: Marktvalidaties · Wijzigingen in uw aanvraag doorgeven"
+        }
+      ]
+    }
+  ]
+}

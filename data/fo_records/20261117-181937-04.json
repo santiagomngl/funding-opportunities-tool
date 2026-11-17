@@ -1,0 +1,38 @@
+{
+  "id": "20261117-181937-04",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "Investeringsvoorbereidingsprojecten – DHI-subsidieregeling",
+  "organization_or_parent_framework": "Netherlands Enterprise Agency (RVO)",
+  "programme": "DHI-subsidieregeling",
+  "call_title": "Subsidieprogramma DHI 2026–2030",
+  "call_module_title": "Investeringsvoorbereidingsprojecten",
+  "call_year": 2026,
+  "url": "https://www.rvo.nl/subsidies-financiering/dhi-subsidieregeling/dhi-investeringsvoorbereidingsprojecten",
+  "executive_summary": "Grants for SME-led studies preparing an applicant’s own new production or service facility abroad. The project assesses technical or commercial feasibility, validates investment assumptions and produces an investment-decision report; a necessary small trial production can be included. Funding covers up to 50% of eligible costs, or 70% for qualifying green projects, capped at EUR 100,000; eligible costs must total at least EUR 50,000. A large enterprise can join only where necessary to the SME-led investment project. Applications run from 2 March to 31 December 2026 after a mandatory RVO quick scan; projects last at most two years.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2026-12-31",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": 50000,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "The RVO Investeringsvoorbereidingsprojecten page (Wat is een investeringsvoorbereidingsproject?) and Staatscourant 2026-7891 sections 4.4(c) and 7(3) fund preparation of an applicant’s own foreign production or service facility, not the subsequent investment itself. A grid-equipment supplier’s qualifying facility could later strengthen the delivery capacity on which the 2GW Program depends, an interpretation of the broad industrial scope rather than a grid-specific call objective. Section 4.2 permits a large-company partner only where its own exporting or investing role is necessary to an SME and the emphasis remains on that SME; the reviewed conditions establish no suitable domestic procurement role for TenneT Netherlands. Type 3 category C3.1 captures the conditional supply-chain benefit if a supplier later makes the investment.",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.1"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T4"
+    ],
+    "role": [],
+    "activity": [
+      "A3",
+      "A8"
+    ],
+    "outcome": [
+      "O6",
+      "O7"
+    ]
+  }
+}

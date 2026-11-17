@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "Validate whether the applicant’s own new production or service facility abroad is technically or commercially feasible. The project refines a sufficiently defined investment, examines its principal risks and produces a report for an investment decision and financing. A necessary small trial production may be included, with its execution and conclusions documented. The facility must fit and strengthen the applicant’s Dutch business. A sales office and projects mainly financed by third parties are excluded. The grant pays for preparation rather than the subsequent factory or service-facility investment.",
+          "sources": "stcrt-2026-7891.pdf · pp. 6–7, 11 · Investeringsvoorbereidingsproject; Niet subsidiabele activiteiten; Criteria voor investeringsvoorbereidingsprojecten\nDHI-subsidieregeling: Investeringsvoorbereidingsprojecten · Wat is een investeringsvoorbereidingsproject?"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Show that a successful preparation project can lead to a substantial foreign investment benefiting the Dutch applicant and economy. If the investment proves feasible, the applicant must credibly intend to invest at least five times the grant within three years after the preparation project. The investment must align with the existing business and must not cause loss of Dutch jobs. Developing-country projects must contribute substantially to local employment, knowledge and technology transfer, or productive capacity, without adverse effects on the other dimensions. The 70% green rate requires a substantial environmental contribution by the central activity.",
+          "sources": "stcrt-2026-7891.pdf · pp. 4–5, 7–8, 11–12, 15 · Begrippen; Doel en doelgroep; Omvang van de subsidie; Criteria voor investeringsvoorbereidingsprojecten; Beleidsmatige criteria; Annex 2"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "A Dutch SME planning its own foreign facility is the natural applicant for DHI investment preparation. An SME is a small or medium enterprise under the European definition. It may apply alone or lead a consortium of at least two Dutch exporting or investing enterprises. The SME lead must have a substantial share; a large company can receive funds only where necessary for the SME, which must retain the emphasis. The applicant normally needs average annual turnover of EUR 100,000 over the preceding three calendar years and three full-time-equivalent Dutch employees. The regulation provides specified financing and staffing exceptions. A local joint-venture partner may co-invest and must then supply a letter of intent. The study must concern the applicant’s own investment, rather than a project developer arranging a mainly third-party-financed project.",
+          "sources": "stcrt-2026-7891.pdf · pp. 4–6, 9 · Begrippen; Wie kunnen in aanmerking komen voor een subsidie; Vereisten\nDHI-subsidieregeling: Investeringsvoorbereidingsprojecten · Voor wie?; Wat is een investeringsvoorbereidingsproject?"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": "The funded step is resolving concrete uncertainties before a foreign business investment, rather than developing a new technology. The preparation must address a foreign-market barrier that justifies public support and fit the applicant’s existing strategy. The market, location, outline, operation, required finance and local impact must already be sufficiently understood. General market research, sales promotion and product development are excluded; a necessary small trial production is specifically permitted. Applicants therefore need a defined investment case and questions that a targeted preparation project can resolve.",
+          "sources": "stcrt-2026-7891.pdf · pp. 6–7, 11–12 · Subsidiabele activiteiten; Niet subsidiabele activiteiten; Criteria voor investeringsvoorbereidingsprojecten; Beleidsmatige criteria"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "The investment must already have a defined market, location and outline before preparation begins. The applicant must also have sufficient clarity about operation, required financing and local impact. The project then validates assumptions and major technical or commercial risks. The investment-preparation criteria do not impose the numerical technology-readiness requirement used for the separate demonstration and feasibility modules.",
+          "sources": "stcrt-2026-7891.pdf · p. 11 · Criteria voor investeringsvoorbereidingsprojecten"
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": "A necessary small trial production may support a coherent study of the applicant’s own foreign facility. Activities must form one planned approach towards a shared investment objective, normally in one target country. A justified extension to a neighbouring country is possible for effectiveness or efficiency. The final report must explain findings relevant to the investment decision and document any trial production and its implications. Significant investment during a trial production is excluded, so a trial cannot become a disguised construction project.",
+          "sources": "stcrt-2026-7891.pdf · pp. 6–7, 11 · Subsidiabele activiteiten; Niet subsidiabele activiteiten; Criteria voor investeringsvoorbereidingsprojecten"
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "A Dutch grid-equipment supplier could study a foreign production facility, potentially expanding the delivery options available to TenneT later. This is an interpretation of the call’s technology-neutral production-facility scope, which also permits qualifying clean-energy applications through the green framework. The 2GW Program illustrates TenneT’s dependence on reliable suppliers and delivery capacity. The call pays only for preparation; any capacity benefit depends on a later investment and successful operation. No suitable TenneT Netherlands role is established as a domestic buyer: a large-company participant must itself export or invest and be necessary to the SME-led project. General procurement interest or a hypothetical supplier relationship is insufficient.",
+          "sources": "stcrt-2026-7891.pdf · pp. 5–7, 11, 15 · Wie kunnen in aanmerking komen voor een subsidie; Investeringsvoorbereidingsproject; Criteria voor investeringsvoorbereidingsprojecten; Annex 2"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "The investment-preparation grant covers at most EUR 100,000 per application, including all partners in a consortium.\n- Total project size: at least EUR 50,000 of eligible costs; the regulation sets no general upper limit on total project costs.\n- Grant request: up to EUR 100,000 for the investment-preparation study. RVO’s module page also states a minimum subsidy of EUR 25,000.\n- Funding form: a share of eligible project costs, with advances and final settlement.\n- Programme budget: the 2026 DHI opening has EUR 8.5 million across its modules, split between EUR 4.5 million for developed and emerging markets and EUR 4 million for developing countries. Up to EUR 0.5 million in each part is reserved for startup market validation.",
+          "sources": "stcrt-2026-7891.pdf · pp. 1, 7–8 · Artikel 3; Omvang van de subsidie; Subsidiabele kosten\nDHI-subsidieregeling: Investeringsvoorbereidingsprojecten · Hoeveel subsidie krijgt u?"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "Feasibility studies receive up to 50% of eligible costs, or 70% where the central technology passes the green-project assessment.\n- Standard study: the applicant finances at least 50% of eligible costs, plus excluded expenditure.\n- Green study: the applicant finances at least 30% of eligible costs, plus excluded expenditure. The central technology must contribute substantially to an environmental objective without harming the other objectives.\n- Co-financing conditions: the EUR 100,000 cap still applies. The own contribution cannot use direct or indirect grants from the Dutch foreign-affairs budget. A third-party financial contribution to project costs reduces the grant by the same amount.\n- Evidence required: demonstrate funding for the study and intended exports, provide recent accounts, and submit signed declarations under the European de-minimis regime for small amounts of aid. Its EUR 300,000 limit over three years applies to the enterprise group.",
+          "sources": "stcrt-2026-7891.pdf · pp. 5, 7–10, 15 · Wie kunnen in aanmerking komen voor een subsidie; Omvang van de subsidie; Vereisten; Annex 2"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Investment preparation has a EUR 75,000 time-cost cap and a 50% third-party expenditure cap, subject to specified exceptions.\n- Eligible costs: necessary expert work, permitted depreciation, travel, accommodation and third-party services. Expert time is capped at EUR 87.50 per hour and EUR 700 per day, with local-rate adjustments abroad.\n- Caps or mandatory allocations: combined Dutch and overseas time costs are capped at EUR 75,000; additional time may be budgeted for trial production. Third-party costs are at most 50% of total project costs, with the stated exception for personnel costs from affiliated enterprises.\n- Excluded costs: application preparation, project management, desk-research personnel time, finance and interest, own software, actual certification, import duties and inflation or exchange-rate effects.\n- Overheads and VAT: expert rates include direct and indirect costs; value-added tax is excluded.\n- Subcontracting or equipment: external expert rates are also capped at EUR 87.50 per hour. Prescribed depreciation lifetimes are five years for machinery, thirty for buildings and three for purchased software.",
+          "sources": "stcrt-2026-7891.pdf · pp. 8–9 · Uitgangspunten; Subsidiabele kosten; Niet-subsidiabele kosten"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "RVO advances 90% of an approved investment-preparation grant; the balance depends on completed work and compliance.\n- Payment model: advances follow the schedule in the award letter, with the remainder paid after settlement.\n- Retention or guarantee: 10% remains until final settlement; RVO may reduce or revoke an award when activities or obligations are not fulfilled.\n- Financial reporting or audit: studies longer than one year require annual progress reports. Request settlement within thirteen weeks after completion, with the final report and any further annex specified in the award. The EUR 100,000 module cap is below the EUR 125,000 threshold for the management declaration described on RVO’s page.",
+          "sources": "Na uw aanvraag voor DHI-subsidie · Voorschotbetaling; Voortgang van uw project; Vaststelling subsidie aanvragen en eindrapportage\nstcrt-2026-7891.pdf · p. 7 · Omvang van de subsidie"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "A mandatory RVO advice process precedes the full investment-preparation application, which may be submitted in Dutch or English.\n- Advice stage — Quick scan: obtain an RVO advice code before applying; processing can take up to two weeks. The advice is non-binding.\n- Full application: submit between 2 March and 31 December 2026 with the project, budget and participant documents. A local co-investor must provide a letter of intent where applicable. The reviewed sources give no closing time or time zone.\n- Additional procedure: Dutch applicants use eHerkenning level 2+, the organisational login service. A requested supplement resets receipt date and time to when the missing material arrives.",
+          "sources": "stcrt-2026-7891.pdf · pp. 1, 6, 9–10 · Artikel 2; Adviestraject; Vereisten; Herstelperiode\nDHI-subsidieregeling: Investeringsvoorbereidingsprojecten · Subsidie direct aanvragen"
+        },
+        {
+          "title": "Project window",
+          "answer": "The preparation project lasts at most two years; the proposed investment must credibly follow within three years after completion.\n- Maximum duration: 24 months for the preparation study.\n- Eligible-cost period: costs before submission are excluded. RVO’s module page describes starting execution after approval.\n- Subsequent investment: if feasible, at least five times the grant must be invested in the target country within three years after project completion. This requirement concerns the later investment, not the preparation-study budget.",
+          "sources": "stcrt-2026-7891.pdf · pp. 7–8, 11 · Duur van de projecten en samenloop; Uitgangspunten; Criteria voor investeringsvoorbereidingsprojecten\nDHI-subsidieregeling: Investeringsvoorbereidingsprojecten · Na uw aanvraag"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "RVO considers complete investment-preparation applications in arrival order, subject to the applicable budget.\n- Funding decision: later applications may be held while RVO assesses whether earlier applications exhaust the funds. Simultaneous applications that exceed the available amount are ordered by lottery.\n- Conditions before starting: RVO’s module page describes starting execution after approval; expenditure before application submission is ineligible. The award letter specifies the payment schedule and individual obligations.",
+          "sources": "stcrt-2026-7891.pdf · pp. 8, 10, 13 · Uitgangspunten; Beoordeling en verdeling beschikbare middelen; Verplichtingen\nDHI-subsidieregeling: Investeringsvoorbereidingsprojecten · Na uw aanvraag\nNa uw aanvraag voor DHI-subsidie · Voorschotbetaling"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "The investment-preparation application must substantiate an own-facility proposal, its risks, financing and intended later investment.\n- Application form: RVO’s designated form in Dutch or English, with the quick-scan advice code.\n- Budget: the prescribed budget and matching activity plan, applying the time-cost and subcontracting caps.\n- Mandatory annexes: project plan, experts’ curricula vitae and latest available applicant accounts. A developing-country project also needs a development-relevance annex.\n- Partner documents: signed de-minimis declarations under the European small-aid regime from applicant and partners; lead mandates and a cooperation agreement where applicable. Supply a letter of intent from a foreign enterprise that will co-invest.\n- Registration: Dutch applicants need eHerkenning level 2+, the organisational login service.\n- Conditional — responsible business conduct: declare adherence to the Organisation for Economic Co-operation and Development guidelines and the excluded-activities list. RVO may request a corporate-responsibility self-assessment.",
+          "sources": "stcrt-2026-7891.pdf · pp. 9–10 · Vereisten\nDHI-subsidieregeling: Investeringsvoorbereidingsprojecten · Subsidie direct aanvragen"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Complete investment-preparation applications are assessed in arrival order against feasibility, economic benefit and a credible later investment.\n- Evaluation criteria: a defined foreign facility, clear assumptions and risks, a decision-useful study, documented trial conclusions where relevant, and a credible investment of at least five times the grant within three years after completion.\n- Ranking rules: complete receipt determines priority; requested missing material resets the receipt date and time. Simultaneous applications exceeding the available funds are ordered by lottery.\n- Budget assessment: costs must be reasonable and necessary, the local arrangements and experts capable, and the project’s financing credible. The intended investment must substantially benefit the Dutch applicant and economy, with responsible-business risks identified and addressed.",
+          "sources": "stcrt-2026-7891.pdf · pp. 10–12 · Beoordeling en verdeling beschikbare middelen; Criteria voor investeringsvoorbereidingsprojecten; Beleidsmatige criteria; Criteria ter beoordeling van de beoogde uitvoering van een project"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Own investment, local co-investment and the green rate create specific conditions for DHI investment preparation.\n- Conditional — local joint venture: provide the foreign co-investor’s letter of intent. Projects financed mainly by third parties rather than the applicant’s own facility investment are excluded on RVO’s module page.\n- Conditional — large-company partner: its investing or exporting contribution must be necessary to the SME, a small or medium enterprise, which must retain the emphasis.\n- Conditional — green rate: the central activity must contribute substantially to an environmental objective without harming the others.\n- Conditional — trial production: extra time costs beyond the EUR 75,000 cap are permitted for that trial; substantial investment within the trial is excluded.\n- Conditional — another live DHI project: the applicant cannot receive another DHI award while carrying out an already funded project.\n- Conditional — changes: notify RVO; unreported changes can lead to partial or full recovery.",
+          "sources": "stcrt-2026-7891.pdf · pp. 5, 7–9, 11–13 · Wie kunnen in aanmerking komen voor een subsidie; Duur van de projecten en samenloop; Omvang van de subsidie; Subsidiabele kosten; Vereisten; Verplichtingen\nDHI-subsidieregeling: Investeringsvoorbereidingsprojecten · Wat is een investeringsvoorbereidingsproject?\nNa uw aanvraag voor DHI-subsidie · Wijziging van uw project"
+        }
+      ]
+    }
+  ]
+}

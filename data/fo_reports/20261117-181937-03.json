@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "Produce a business or project plan that lets a foreign customer decide whether to invest in a mature Dutch technology. The Dutch supplier studies technical or commercial feasibility for the customer’s specific location and circumstances. Financial analysis considers payback and financeability; technical work examines local conditions, requirements and the basic design. The market and broad investment concept must already be sufficiently understood. General market research and product development are excluded; a necessary small test may be included.",
+          "sources": "stcrt-2026-7891.pdf · pp. 6–7, 11 · Subsidiabele activiteiten; Niet subsidiabele activiteiten; Criteria voor haalbaarheidsstudies\nDHI-subsidieregeling: Haalbaarheidsstudies · Wat is een haalbaarheidsstudie?"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The study must support credible exports of Dutch technology and a workable investment decision by the foreign customer. Expected exports must equal at least ten times the grant, or five times for a study in a developing country. The project must not harm Dutch employment or the Dutch economy. A developing-country project must substantially improve local employment, knowledge and technology transfer, or productive capacity, without negative effects on the other dimensions. The higher green rate requires the central technology’s environmental benefit to be substantial, rather than incidental.",
+          "sources": "stcrt-2026-7891.pdf · pp. 4–5, 7–8, 11–12, 15 · Begrippen; Doel en doelgroep; Omvang van de subsidie; Criteria voor haalbaarheidsstudies; Beleidsmatige criteria; Annex 2"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "A Dutch SME supplier with a concrete foreign customer is the natural lead for a DHI feasibility study. An SME is a small or medium enterprise under the European definition. It may apply alone or lead at least two Dutch exporting or investing enterprises; the SME lead must contribute substantially. A large enterprise can receive funds only where necessary for the SME, with the emphasis remaining on that SME. The applicant normally needs average annual turnover of EUR 100,000 over the previous three calendar years and three full-time-equivalent Dutch employees. Specified exceptions allow independently validated technology with external growth financing, or secured delivery through structural contractors or Dutch producers. The participants must have substantial Dutch activities and a strategy consistent with the export project.",
+          "sources": "stcrt-2026-7891.pdf · pp. 4–6 · Begrippen; Wie kunnen in aanmerking komen voor een subsidie"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": "The technology is already developed; the study establishes whether it can be applied and financed in the new foreign market. DHI supports removing a concrete export barrier, rather than creating new scientific knowledge or developing a product. Applicants must justify why unfamiliarity with the market or its complex conditions creates a need for public support. They must already know the market sufficiently to define the proposed investment. A general market survey, sales promotion or research project is outside this module.",
+          "sources": "stcrt-2026-7891.pdf · pp. 6–7, 11–12 · Subsidiabele activiteiten; Niet subsidiabele activiteiten; Criteria voor haalbaarheidsstudies; Beleidsmatige criteria"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "Technology Readiness Level 8 or 9 is required: a complete, qualified technology or one already proven in operational use. The feasibility questions concern its technical or commercial application for the foreign buyer, rather than unfinished technology development. A small test can address a necessary local question, but does not turn the module into a research grant.",
+          "sources": "stcrt-2026-7891.pdf · pp. 6, 11 · Haalbaarheidsstudie; Criteria voor haalbaarheidsstudies"
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": "A necessary small test may accompany one coherent feasibility study for a specific foreign investment. The study must connect local requirements, basic design, commercial viability and financeability into a business or project plan. Normally it addresses one foreign country; an extension to a neighbouring country needs an effectiveness or efficiency justification. Up to two investments for two prospective customers in the same country can be covered when justified. Each customer must express its intention to invest and cooperate. A full-scale demonstration is a separate DHI module.",
+          "sources": "stcrt-2026-7891.pdf · pp. 6, 11 · Subsidiabele activiteiten; Criteria voor haalbaarheidsstudies\nDHI-subsidieregeling: Haalbaarheidsstudies · Wat is een haalbaarheidsstudie?"
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "Dutch grid-equipment suppliers could use this module to substantiate foreign sales, potentially improving the products and delivery options available to TenneT. This is an interpretation of the technology-neutral eligibility rules, including the green framework’s allowance for clean-energy applications. The 2GW Program illustrates TenneT’s supplier and procurement needs; InterOPERA shares the basic-engineering and validation mechanism, although it is a research collaboration. The call establishes no suitable route for TenneT Netherlands as a domestic buyer: the customer must be foreign, while a funded large-company partner must itself export or invest and be necessary to the SME. Referring a supplier or being a future Dutch customer alone does not satisfy those rules.",
+          "sources": "stcrt-2026-7891.pdf · pp. 4–7, 11, 15 · Begrippen; Wie kunnen in aanmerking komen voor een subsidie; Haalbaarheidsstudie; Criteria voor haalbaarheidsstudies; Annex 2"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "The feasibility grant covers at most EUR 100,000 per application, including all partners in a consortium.\n- Total project size: at least EUR 50,000 of eligible costs; the regulation sets no general upper limit on total project costs.\n- Grant request: up to EUR 100,000 for the feasibility study. RVO’s module page also states a minimum subsidy of EUR 25,000.\n- Funding form: a share of eligible project costs, with advances and final settlement.\n- Programme budget: the 2026 DHI opening has EUR 8.5 million across its modules, split between EUR 4.5 million for developed and emerging markets and EUR 4 million for developing countries. Up to EUR 0.5 million in each part is reserved for startup market validation.",
+          "sources": "stcrt-2026-7891.pdf · pp. 1, 7–8 · Artikel 3; Omvang van de subsidie; Subsidiabele kosten\nDHI-subsidieregeling: Haalbaarheidsstudies · Hoeveel subsidie krijgt u?"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "Feasibility studies receive up to 50% of eligible costs, or 70% where the central technology passes the green-project assessment.\n- Standard study: the applicant finances at least 50% of eligible costs, plus excluded expenditure.\n- Green study: the applicant finances at least 30% of eligible costs, plus excluded expenditure. The central technology must contribute substantially to an environmental objective without harming the other objectives.\n- Co-financing conditions: the EUR 100,000 cap still applies. The own contribution cannot use direct or indirect grants from the Dutch foreign-affairs budget. A third-party financial contribution to project costs reduces the grant by the same amount.\n- Evidence required: demonstrate funding for the study and intended exports, provide recent accounts, and submit signed declarations under the European de-minimis regime for small amounts of aid. Its EUR 300,000 limit over three years applies to the enterprise group.",
+          "sources": "stcrt-2026-7891.pdf · pp. 5, 7–10, 15 · Wie kunnen in aanmerking komen voor een subsidie; Omvang van de subsidie; Vereisten; Annex 2"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "DHI feasibility studies have a 25% cap on third-party expenditure and exclude substantial routine or commercial costs.\n- Eligible costs: necessary expert time, permitted depreciation, travel, accommodation and third-party services. Expert time is capped at EUR 87.50 per hour and EUR 700 per day, with local-rate adjustments abroad.\n- Caps or mandatory allocations: third-party costs are at most 25% of total feasibility project costs. The stated exception covers personnel costs from affiliated enterprises.\n- Excluded costs: application preparation, project management, desk-research personnel time, finance and interest, own software, actual technology certification, import duties and exchange-rate or inflation effects.\n- Overheads and VAT: the expert rate includes direct and indirect costs; value-added tax is excluded.\n- Subcontracting or equipment: external experts are also capped at EUR 87.50 per hour. Prescribed depreciation lifetimes are five years for machinery, thirty for buildings and three for purchased software.",
+          "sources": "stcrt-2026-7891.pdf · pp. 8–9 · Uitgangspunten; Subsidiabele kosten; Niet-subsidiabele kosten"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "RVO advances 90% of an approved feasibility grant; the balance depends on completed work and compliance.\n- Payment model: advances follow the schedule in the award letter, with the remainder paid after settlement.\n- Retention or guarantee: 10% remains until final settlement; RVO may reduce or revoke an award when activities or obligations are not fulfilled.\n- Financial reporting or audit: studies longer than one year require annual progress reports. Request settlement within thirteen weeks after completion, with the final report and any further annex specified in the award. The EUR 100,000 module cap is below the EUR 125,000 threshold for the management declaration described on RVO’s page.",
+          "sources": "Na uw aanvraag voor DHI-subsidie · Voorschotbetaling; Voortgang van uw project; Vaststelling subsidie aanvragen en eindrapportage\nstcrt-2026-7891.pdf · p. 7 · Omvang van de subsidie"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "A mandatory RVO quick scan precedes the full feasibility-study application, which may be submitted in Dutch or English.\n- Advice stage — Quick scan: obtain the RVO advice code before applying. Processing can take up to two weeks; the advice is non-binding.\n- Full application: submit between 2 March and 31 December 2026, including the foreign customer’s letter of intent and the required project, budget and partner documents. The reviewed sources give no closing time or time zone.\n- Additional procedure: applicants in the Netherlands use eHerkenning level 2+, the Dutch organisational login service. If RVO requests missing material, the date and time when the supplement arrives become the receipt date and time.",
+          "sources": "stcrt-2026-7891.pdf · pp. 1, 6, 9–10 · Artikel 2; Adviestraject; Vereisten; Herstelperiode\nDHI-subsidieregeling: Haalbaarheidsstudies · Subsidie aanvragen"
+        },
+        {
+          "title": "Project window",
+          "answer": "The feasibility study may last at most two years and must remain a preparation for the customer’s investment.\n- Maximum duration: 24 months.\n- Eligible-cost period: costs before submission are ineligible. RVO’s module page describes beginning execution after approval.\n- Conditions before starting: the broad investment, location, operation, financing and local impact must already be sufficiently clear to support the study; the customer must provide its letter of intent.",
+          "sources": "stcrt-2026-7891.pdf · pp. 7–9, 11 · Duur van de projecten en samenloop; Uitgangspunten; Vereisten; Criteria voor haalbaarheidsstudies\nDHI-subsidieregeling: Haalbaarheidsstudies · Na uw aanvraag"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "RVO considers complete feasibility applications in arrival order, subject to the applicable budget.\n- Funding decision: later applications may be held while RVO assesses whether earlier applications exhaust the funds. Simultaneous applications that exceed the available amount are ordered by lottery.\n- Conditions before starting: RVO’s module page describes starting execution after approval; expenditure before application submission is ineligible. The award letter specifies the payment schedule and individual obligations.",
+          "sources": "stcrt-2026-7891.pdf · pp. 8, 10, 13 · Uitgangspunten; Beoordeling en verdeling beschikbare middelen; Verplichtingen\nDHI-subsidieregeling: Haalbaarheidsstudies · Na uw aanvraag\nNa uw aanvraag voor DHI-subsidie · Voorschotbetaling"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "The feasibility application must document a concrete foreign investment and the customer’s intention to cooperate.\n- Application form: RVO’s designated form in Dutch or English, with the quick-scan advice code.\n- Budget: the prescribed budget and a matching activity plan.\n- Mandatory annexes: project plan, experts’ curricula vitae and the latest available applicant accounts; a development-relevance annex for a developing-country project.\n- Partner documents: the foreign potential customer’s letter of intent; signed de-minimis declarations from the applicant and partners; lead mandates and a signed cooperation agreement where applicable.\n- Registration: Dutch applicants need eHerkenning level 2+, the organisational login service.\n- Conditional — responsible business conduct: declare adherence to the Organisation for Economic Co-operation and Development guidelines and the excluded-activities list. RVO may request a corporate-responsibility self-assessment after submission.",
+          "sources": "stcrt-2026-7891.pdf · pp. 9–10 · Vereisten\nDHI-subsidieregeling: Haalbaarheidsstudies · Subsidie aanvragen"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "A complete DHI feasibility proposal is assessed in arrival order against the customer need, export prospects and delivery plan.\n- Evaluation criteria: a necessary study for a foreign investment, a customer letter of intent, mature technology, sufficiently clear starting assumptions, a business or project plan as output, and exports of at least ten times the grant or five times in developing countries.\n- Ranking rules: receipt of a complete application determines priority; a requested supplement resets receipt time. Simultaneous applications exceeding the budget are ordered by lottery.\n- Budget assessment: costs must be reasonable and necessary, financing credible, and the experts and local arrangements capable of delivering the study. Environmental, labour and human-rights risks must be identified and addressed.",
+          "sources": "stcrt-2026-7891.pdf · pp. 10–12 · Beoordeling en verdeling beschikbare middelen; Criteria voor haalbaarheidsstudies; Beleidsmatige criteria; Criteria ter beoordeling van de beoogde uitvoering van een project"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "The foreign customer, the green rate and large-company participation each impose conditions on a DHI feasibility application.\n- Conditional — foreign customer: obtain its letter of intent confirming the intended investment and cooperation with the Dutch exporter.\n- Conditional — large-company partner: its export or investment contribution must be necessary to the SME, a small or medium enterprise, and the emphasis must remain on that SME.\n- Conditional — green rate: the central technology must make a substantial environmental contribution without harming the other objectives.\n- Conditional — developing country: substantiate local development relevance; the export threshold is five rather than ten times the grant.\n- Conditional — another live DHI project: an applicant cannot receive another DHI award while carrying out an already funded project.\n- Conditional — changes or non-compliance: notify RVO; unreported changes can cause partial or full recovery.",
+          "sources": "stcrt-2026-7891.pdf · pp. 5, 7–9, 11–13 · Wie kunnen in aanmerking komen voor een subsidie; Duur van de projecten en samenloop; Omvang van de subsidie; Vereisten; Criteria voor haalbaarheidsstudies; Verplichtingen\nNa uw aanvraag voor DHI-subsidie · Wijziging van uw project"
+        }
+      ]
+    }
+  ]
+}
