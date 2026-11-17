@@ -1,0 +1,46 @@
+{
+  "id": "20261117-105641-01",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-BRIDGING-2027-01-12 Large-Scale piloting of next-generation AI-driven digital platforms for a more affordable, secure and sustainable European energy system (IA) - Apply AI – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "Bridging actions 2027 (HORIZON-BRIDGING-2027-01)",
+  "call_module_title": "HORIZON-BRIDGING-2027-01-12 Large-Scale piloting of next-generation AI-driven digital platforms for a more affordable, secure and sustainable European energy system (IA) - Apply AI",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-BRIDGING-2027-01-12",
+  "executive_summary": "Funds one large-scale cross-border pilot of AI-driven digital platforms that optimise electricity system operation and flexibility management, reaching TRL 7-8, with pilots in at least six countries involving at least six energy actors (TSOs, DSOs, retailers, aggregators), eight digital technology providers, four mobility actors and 20 energy communities. Participation is limited to entities established in EU Member States, Iceland, Norway and associated countries and not controlled from non-eligible countries. Innovation Action funded at up to 70% for for-profit entities; the topic budget is EUR 15 million for around one project of about 36 months. Opened 20 October 2026; single-stage deadline 16 February 2027, 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-02-16",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "Work Programme Part 14 (Horizontal Activities), pp. 99-100, Expected Outcome and Scope, funds one cross-border operational pilot of AI-driven digital platforms for electricity system operation, data exchange and cross-border flexibility services. This matches TenneT's work in TwinEU, DataFleX, the National Facility Digital Twin of the Electricity System and the TSO Innovation Alliance. The scope names TSOs among the at least six required energy actors, and the Specific conditions (Eligibility) admit legal entities established in Member States, so TenneT TSO B.V. can be a funded beneficiary at the 70% Innovation Action rate (General Annex G), subject to the ownership-control restriction. A funded partner role in a large consortium fits C1.3.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T1",
+      "T5",
+      "T6"
+    ],
+    "role": [
+      "R2",
+      "R5",
+      "R9"
+    ],
+    "activity": [
+      "A6",
+      "A7",
+      "A8"
+    ],
+    "outcome": [
+      "O6",
+      "O10",
+      "O11"
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "National cybersecurity preparedness actions: coordinated testing of critical entities against common EU risk scenarios, and other preparedness services such as risk monitoring and training.\nThe topic implements two actions of the Cyber Solidarity Act (the EU law creating the Cybersecurity Emergency Mechanism): Part 1, coordinated preparedness testing of entities in sectors of high criticality, and Part 2, other preparedness actions for those and other critical sectors. A proposal must contribute to at least one of the two parts.",
+          "sources": "Call Document  DEP 11.pdf · pp. 18–23 · COORDPREP, Objectives; Scope"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Part 1 covers testing of entities in three sectors chosen by the Commission, one of which is the electricity sub-sector; Part 2 covers wider preparedness services.\nPart 1, coordinated preparedness testing:\n- Sectors: energy, in particular electricity; transport, in particular rail and ports; public administration\n- Proposals must use at least the baseline risk scenario from Annex 3 of the call document; medium and high stress scenarios are optional\n- Phase A, systemic risk analysis: stakeholders, objectives, test design, refined scenarios, pilot tests\n- Phase B, testing: vulnerability scanning, security audits, penetration testing, exercises, cyber resilience stress tests\n- Phase C, gap analysis: gaps, recommendations and an action plan\nPart 2, other preparedness actions:\n- Threat, risk and supply-chain risk assessment\n- Continuous risk monitoring, such as attack-surface monitoring\n- Coordinated vulnerability disclosure (an agreed process for reporting and fixing security flaws)\n- Exercises and training courses\nThe actions must complement, not duplicate, national and EU-level efforts.",
+          "sources": "Call Document  DEP 11.pdf · pp. 18–23 · COORDPREP, Objectives; Scope"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The need is national preparedness against cyber threats to critical infrastructure, as identified in sectoral, national and EU risk assessments.\nThe need is owned by the Member States and their cybersecurity authorities, which the action assists with knowledge and expertise. For the electricity sub-sector, the entities to be tested are operators such as TSOs, so TenneT would be among the entities whose preparedness the action improves.",
+          "sources": "Call Document  DEP 11.pdf · pp. 18–23 · COORDPREP, Objectives; Scope"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "Tests, assessments and services, plus a dissemination deliverable and yearly KPI reports.\n- Part 1: preparedness support services, and threat and risk assessments\n- Part 2: risk monitoring services, vulnerability disclosure and monitoring, exercises, training, events, workshops and white papers\n- Test results integrated into the tested entity's remediation plan and sent to the national authority\n- A dissemination and exploitation deliverable within the first six months, and yearly deliverables on KPIs",
+          "sources": "Call Document  DEP 11.pdf · pp. 18–23 · COORDPREP, Objectives; Scope\nCall Document  DEP 11.pdf · p. 56 · Section 10, Milestones and deliverables"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The action must raise the cyber resilience of critical entities and report on it through set indicators.\n- Mandatory KPI: number of essential and important entities supported through testing or other preparedness actions\n- Optional KPIs: penetration tests provided, threat assessments carried out, risk monitoring services provided, vulnerabilities discovered, cross-border actions or exercises",
+          "sources": "Call Document  DEP 11.pdf · pp. 22–23 · COORDPREP, KPIs to measure outcomes and deliverables"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "Test results must feed into the tested entity's own remediation plan and be reviewed by the national authority.\nLessons learned must be shared with the Commission in anonymised and aggregated form, and may be discussed in the NIS Cooperation Group (the EU body of national cybersecurity authorities). The call does not require the services to continue after the project.",
+          "sources": "Call Document  DEP 11.pdf · p. 22 · COORDPREP, C. Gap Analysis Phase"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "No minimum: a single applicant may apply, though consortia are encouraged.",
+          "sources": "Call Document  DEP 11.pdf · p. 50 · Section 6, Consortium composition"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "The action targets public bodies designated by a Member State for cybersecurity; other public or private partners may join.\n- Target applicants: cybersecurity competent authorities and CSIRTs (computer security incident response teams) designated under the NIS 2 Directive (the EU law on the security of network and information systems)\n- Other partners: 'Other relevant public or private partners may also participate in the consortium'\n- Countries: legal entities established in EU Member States or EEA countries (Norway, Iceland, Liechtenstein)\n- Control: no entity may be directly or indirectly controlled from a non-eligible country, in any role",
+          "sources": "Call Document  DEP 11.pdf · p. 23 · COORDPREP, Targeted stakeholders\nCall Document  DEP 11.pdf · pp. 48–49 · Section 6, Eligible participants"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "In practice a national cybersecurity authority or CSIRT: Part 1 proposals are described as submitted by Member States.\nThe eligibility rules themselves allow any eligible legal entity to coordinate.",
+          "sources": "Call Document  DEP 11.pdf · pp. 18, 23 · COORDPREP, Scope; Targeted stakeholders"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "Formally possible, but unlikely: the action targets public bodies designated for cybersecurity, and Part 1 proposals come from Member States.\nTenneT would normally join a proposal led by the Dutch competent authority.",
+          "sources": "Call Document  DEP 11.pdf · pp. 18, 23 · COORDPREP, Scope; Targeted stakeholders"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes: the call allows other relevant public or private partners in the consortium, and electricity is one of the sectors to be tested.\nOther roles such as associated partner or third party giving in-kind contributions are also possible.",
+          "sources": "Call Document  DEP 11.pdf · p. 23 · COORDPREP, Targeted stakeholders\nCall Document  DEP 11.pdf · p. 48 · Section 6, Eligible participants"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Yes, as a beneficiary at a 50% funding rate.\nTenneT TSO B.V. is a legal entity established in an EU Member State, so it can be a beneficiary if not controlled from outside the EU or EEA; it must submit an ownership and control declaration. TenneT would have to cover the other 50% of its eligible costs itself.",
+          "sources": "Call Document  DEP 11.pdf · p. 23 · COORDPREP, Type of action and funding rate\nCall Document  DEP 11.pdf · pp. 48–49 · Section 6, Eligible participants"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT could be a tested entity and test environment for the electricity sub-sector in a Dutch proposal.\nThis is interpretation. TenneT could provide operational technology and control system environments, take part in exercises and stress tests, and translate the gap analysis into its own remediation plan. Its experience in TwinEU on grid resilience and cybersecurity could help shape realistic scenarios.",
+          "sources": "Call Document  DEP 11.pdf · pp. 18–23 · COORDPREP, Objectives; Scope"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "No new technology is required: the action delivers testing and preparedness services, mainly applying existing methods.",
+          "sources": "Call Document  DEP 11.pdf · pp. 18–23 · COORDPREP, Objectives; Scope"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Operational methods and services: testing, risk assessment, monitoring and training, rather than technology development.",
+          "sources": "Call Document  DEP 11.pdf · pp. 18–23 · COORDPREP, Objectives; Scope"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Deployment of services; the call sets no research or development stage.",
+          "sources": "Call Document  DEP 11.pdf · pp. 18–23 · COORDPREP, Objectives; Scope"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "Testing takes place on real critical entities, including in the electricity sub-sector, covering both IT and operational technology and industrial control systems.\nThe action may also support cyber ranges (simulated environments for cyber exercises) that mimic critical sectors.",
+          "sources": "Call Document  DEP 11.pdf · pp. 18–23 · COORDPREP, Objectives; Scope"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "Testing must follow the three-phase sequence of risk analysis, testing and gap analysis, and use the EU common risk scenarios.\nThe call encourages covering supply-chain and interdependency risks, and may support onboarding to the Connecting Europe Facility cybersecurity core service platforms.",
+          "sources": "Call Document  DEP 11.pdf · pp. 18–23 · COORDPREP, Objectives; Scope"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "Proposals must report the mandatory KPI on entities supported and the applicable optional KPIs, all measurable and verifiable.",
+          "sources": "Call Document  DEP 11.pdf · pp. 22–23 · COORDPREP, KPIs"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "The tested entities take part directly in the testing, and the results go into their own remediation plans.",
+          "sources": "Call Document  DEP 11.pdf · p. 22 · COORDPREP, C. Gap Analysis Phase"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "All topics are subject to security restrictions.\n- No entity controlled from a non-eligible country may take part in any role\n- Project activities, including subcontracted work, must take place in eligible countries\n- The grant agreement may restrict intellectual property rights\n- Lessons learned are shared with the Commission only in anonymised, aggregated form",
+          "sources": "Call Document  DEP 11.pdf · p. 48 · Section 6, Eligible participants\nCall Document  DEP 11.pdf · p. 22 · COORDPREP, C. Gap Analysis Phase"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "EUR 15 million for around 10 projects, about EUR 1.5 million each.\n- Grant request: around EUR 1.5 million per project; other amounts may be considered if justified\n- Total project size: not stated; at 50% this suggests about EUR 3 million of eligible costs per project (interpretation)\n- Funding form: budget-based actual-cost grant (Simple Grant)",
+          "sources": "Call Document  DEP 11.pdf · p. 57 · Section 10, Form of grant, funding rate and maximum grant amount\nTopic page DIGITAL-ECCC-2027-DEPLOY-CYBER-11-COORDPREP, EU Funding & Tenders Portal · Budget overview; General information"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "A single rate of 50% of eligible costs applies to all beneficiaries.",
+          "sources": "Call Document  DEP 11.pdf · p. 23 · COORDPREP, Type of action and funding rate"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: a full proposal by 14 January 2027, 17:00 CET, through the Funding & Tenders Portal.\n- Stage 1 — Full proposal: 14 January 2027, 17:00 CET; opened 1 September 2026",
+          "sources": "Call Document  DEP 11.pdf · p. 46 · Section 4, Timetable and deadlines"
+        },
+        {
+          "title": "Project window",
+          "answer": "The indicative duration is 24 months; other durations are not excluded.\n- Required start: normally after grant signature; a retroactive start is possible only exceptionally, never before the submission date",
+          "sources": "Call Document  DEP 11.pdf · p. 56 · Section 10, Starting date and project duration"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Results in April 2027 and grant signature in October 2027 (indicative).\n- Evaluation: February–March 2027\n- Information on evaluation results: April 2027\n- Grant agreement signature: October 2027\n- Conditions before starting: a consortium agreement where there is more than one beneficiary",
+          "sources": "Call Document  DEP 11.pdf · p. 46 · Section 4, Timetable and deadlines"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "The standard Digital Europe application form in the Portal, plus an ownership and control declaration from every entity.\n- Registration: all beneficiaries and affiliated entities must have a PIC (participant identification code) before submitting\n- Ownership and control declaration: required from every entity except validated public bodies",
+          "sources": "Call Document  DEP 11.pdf · p. 48 · Section 6, Eligible participants\nTopic page DIGITAL-ECCC-2027-DEPLOY-CYBER-11-COORDPREP, EU Funding & Tenders Portal · Conditions and documents"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Proposals are scored on Relevance, Implementation and Impact, each out of 5.\n- Thresholds: at least 3 per criterion and 10 of 15 overall\n- Ranking: proposals passing all thresholds are funded within the budget",
+          "sources": "Call Document  DEP 11.pdf · pp. 55–56 · Section 9, Award criteria"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Part 1 proposals carry extra conditions.\n- Conditional — Part 1 testing: the proposal must use at least the baseline risk scenario of Annex 3, and must be submitted by a Member State\n- Recommended: cover supply-chain and interdependency risks",
+          "sources": "Call Document  DEP 11.pdf · pp. 18–21 · COORDPREP, Scope"
+        }
+      ]
+    }
+  ]
+}

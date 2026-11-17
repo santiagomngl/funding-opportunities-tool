@@ -1,0 +1,42 @@
+{
+  "id": "20261117-111207-01",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-CL5-2027-07-D3-27 Integrated Approaches for Retrofitting Infrastructures with Innovative Energy Storage Technologies – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "ENERGY (HORIZON-CL5-2027-07)",
+  "call_module_title": "HORIZON-CL5-2027-07-D3-27 Integrated Approaches for Retrofitting Infrastructures with Innovative Energy Storage Technologies",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-07-D3-27",
+  "executive_summary": "Funds demonstrations of novel or improved cost-efficient, circular and sustainable energy storage that contributes to grid flexibility by retrofitting obsolete or outdated infrastructure such as old hydropower dams, decommissioned power plants, former industrial sites, coal mines or fossil fuel infrastructure, reaching TRL 6-8. Open to Horizon Europe consortia under the standard eligibility rules; entities controlled by China or a Chinese entity are excluded. Innovation Action paid as a lump sum, with around EUR 7.5 million per project and EUR 22.5 million for around three projects. Planned opening 4 August 2027; single-stage deadline 1 December 2027, 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-12-01",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "Work Programme Part 8 (Climate, Energy and Mobility), pp. 178-179, Expected Outcome and Scope, funds demonstrations of new storage technologies built into retrofitted obsolete infrastructure that contribute to grid flexibility. This touches TenneT's work on grid-scale storage and flexibility, as in the Lion Storage time-dependent transmission rights contract, though the call centres on storage technology and site reuse rather than grid access arrangements. The Specific conditions add only a China-control restriction to General Annex B, so TenneT TSO B.V. can join as a funded beneficiary at the Innovation Action rate (General Annex G, applied through the lump sum). A funded partner role, for example on grid integration and flexibility use, fits C1.3.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T5",
+      "T9"
+    ],
+    "role": [
+      "R2",
+      "R10"
+    ],
+    "activity": [
+      "A7",
+      "A8"
+    ],
+    "outcome": [
+      "O5",
+      "O10"
+    ]
+  }
+}

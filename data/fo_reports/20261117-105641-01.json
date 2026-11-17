@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "One large-scale, cross-border operational pilot of next-generation AI-driven digital platforms that optimise electricity system operation and flexibility management across several European energy systems.\nThe platforms must enable real-time coordination of distributed energy resources and cross-border flexibility services. Only one project is expected to be funded, so the whole topic budget goes to a single consortium. The pilot is meant to be the core implementation layer of the AI-enabled digital backbone flagship of the EU Apply AI Strategy, and it contributes to the Strategic Roadmap for Digitalisation and AI in Energy.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · p. 99 · Scope"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "The project should develop and pilot AI-driven digital platforms and data-exchange infrastructure at scale, in at least six countries, and build on existing EU projects rather than start from scratch.\nThe proposal should:\n- Develop and pilot at scale next-generation AI-driven digital platforms and critical digital infrastructures for seamless data exchange across the European energy system, considering cross-sector links such as mobility and buildings where relevant\n- Run pilot activities in at least 6 Member States or Associated Countries with the required partner mix (see Partner composition)\n- Build on earlier and ongoing initiatives: the MetaOS for the edge and swarm project clusters, the Edge-IoT large-scale pilots in energy, the Operational Digital Platforms funded by the Connecting Europe Facility, and the AI-powered digital spine of the EU energy system\n- Use advanced AI where relevant, including generative, agentic and embedded AI, for cross-border flexibility, smart charging, smart grid services and other digital services\n- Take a transversal approach integrating energy systems, AI, digital infrastructure and user uptake\n- Combine existing solutions from Horizon Europe Clusters 4 (digital, industry) and 5 (climate, energy, mobility) and connect technology with market adoption\n- Use open APIs, open interoperability standards and open-source components to avoid vendor lock-in\n- Take an active part in BRIDGE (the European Commission's cooperation initiative of smart grid and energy storage projects)\nThe project must also include preparatory and structuring activities for later large-scale deployment. The call lists no excluded activities.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 99–101 · Scope"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The need is system-level: the European energy system needs digital platforms that coordinate flexibility across borders and reduce fragmentation of data exchange.\nThe call frames this as an EU policy need, stated in the Apply AI Strategy and the Strategic Roadmap for Digitalisation and AI in Energy, and as a need for European technological sovereignty in the energy sector. The users whose problems the platforms must solve are energy operators (including TSOs and DSOs), retailers, aggregators, mobility actors, energy communities and public authorities. For TenneT, the relevant problem is the coordination of distributed flexibility and cross-border flexibility services in grid operation.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 99–101 · Expected Outcome; Scope"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "The project must deliver market-ready AI-driven digital platforms, demonstrated in operational pilots, plus interoperable data-exchange mechanisms.\n- Market-ready AI-driven digital platforms and solutions with quantified, minimal environmental impact\n- Secure, interoperable, cross-border data-exchange mechanisms and digital services\n- Operational pilots in at least six countries, run long enough to show performance under real conditions\n- Preparatory and structuring activities for large-scale deployment\n- Quantified results on greenhouse-gas reduction, energy savings, electricity cost reduction and grid flexibility",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 99–101 · Expected Outcome; Scope"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The project must show quantified gains in grid flexibility, electricity cost, energy savings and emissions, and strengthen European technological sovereignty.\nThe call's expected outcomes are:\n- Stronger European technological leadership and sovereignty in the energy sector\n- Platforms that improve grid operation, renewable integration and utilisation rates, storage integration, grid integration of data centres and other energy-intensive critical infrastructure, non-fossil balancing solutions, electrification and energy efficiency\n- Applied research results integrated in real-world pilots with energy operators, technology providers, public authorities and end users\n- Less fragmentation through secure, interoperable and cross-border data exchange\n- Faster scaling of digital solutions using European data spaces, AI factories, digital twins and cloud-to-edge infrastructure\n- Quantifiable reductions in greenhouse-gas emissions, energy use and electricity costs, and more grid flexibility\nThe call sets no numerical targets; the proposal must define and quantify them.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 99–101 · Expected Outcome; Scope"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "The result must not be an isolated pilot: the call asks for market-ready solutions and a credible path to large-scale deployment.\n- Wider use: the expected outcomes include a credible pathway from innovation to large-scale piloting that ensures long-term sustainability and scale-up\n- Replication: pilots must run in at least six countries during the project; the call also requires preparatory and structuring activities for later large-scale deployment\n- Standards: open APIs, open interoperability standards and open-source components are required\n- Market uptake: platforms should be market-ready, and the project must connect technology development with market adoption\n- Exploitation and dissemination: every Horizon Europe proposal must include a plan for the exploitation and dissemination of results, and the project must take part in BRIDGE\nThe call does not name who must operate or finance the platforms after the project.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 99–101 · Expected Outcome; Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 4 · Annex A, Page limits"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "The call sets a large minimum mix of partners, well over 40 organisations, and no maximum.\nThe scope names at least 6 energy actors, 8 digital technology providers, 4 mobility actors and 20 energy communities, plus research organisations and public authorities. On top of this, the standard Horizon Europe rule applies: at least three independent legal entities from three different countries, at least one in an EU Member State.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 99–101 · Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 13 · Annex B, Consortium composition"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "The consortium should include energy operators, digital technology providers, mobility actors, energy communities, research organisations and public authorities, spread over at least six countries.\n- At least 6 energy actors: TSOs, DSOs, retailers or aggregators\n- At least 8 digital technology providers in AI, cloud, edge or IoT\n- At least 4 mobility actors: EV manufacturers, EV fleet operators or charging operators\n- At least 20 energy communities\n- Research organisations and public authorities\nCountry rule: participation is limited to legal entities established in EU Member States, Iceland, Norway and Associated Countries. Entities established there but directly or indirectly controlled by a non-eligible country or entity may not participate. Legal entities established in China may not take part in any Horizon Europe Innovation Action.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 99–101 · Specific conditions, Eligibility conditions; Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 6 · Annex B, Eligible countries"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "Any eligible legal entity in the consortium may coordinate; the call sets no specific coordinator type.\nThe coordinator must be established in an eligible country (EU Member State, Iceland, Norway or an Associated Country) and must not be controlled from a non-eligible country.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · p. 99 · Specific conditions, Eligibility conditions\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 13 · Annex B, Consortium composition"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "Yes, TenneT TSO B.V. may coordinate, as a legal entity established in the Netherlands, an EU Member State.\nNo rule reserves coordination for a type of organisation. TenneT must pass the ownership-control check: entities controlled by a non-eligible country or entity are excluded. TenneT TSO B.V. would need to confirm this in the ownership control declaration that the topic page lists. Coordinating a consortium of more than 40 partners across six countries would be a heavy management task.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · p. 99 · Specific conditions, Eligibility conditions\nTopic page HORIZON-BRIDGING-2027-01-12, EU Funding & Tenders Portal · Conditions and documents, Call-specific instructions"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes, and TSOs are named explicitly among the energy actors the pilots must involve.\nAs a TSO, TenneT would count towards the required minimum of six energy actors (TSOs, DSOs, retailers, aggregators), most naturally as a funded beneficiary. The topic text and General Annexes read do not set out a separate unfunded role for TSOs.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 99–101 · Scope"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Yes, at up to 70% of eligible costs, the Innovation Action rate for for-profit legal entities.\n- Funding rate: up to 70% of eligible costs; non-profit legal entities can receive up to 100%\n- Indirect costs: 25% flat rate on eligible direct costs (excluding subcontracting)\n- Grant type: budget-based actual-cost grant (reimbursement of costs actually incurred, not budgeted ones), with no profit allowed\nTenneT must therefore finance at least 30% of its own eligible costs. The whole EUR 15 million is shared by more than 40 partners, so TenneT's share is likely to be modest. No separate Dutch national rules apply; Horizon Europe funds partners directly.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 31 · Annex G, Legal and financial set-up of the grants\nTopic page HORIZON-BRIDGING-2027-01-12, EU Funding & Tenders Portal · General information, Type of MGA"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT could be credible as one of the pilot TSOs, providing real-grid operational context and data for cross-border flexibility services.\nThis is interpretation. Its most useful contributions could be:\n- Operational requirements for cross-border flexibility and congestion management, drawing on DataFleX and the TSO Innovation Alliance\n- Grid data and test environments, for example through the National Facility Digital Twin of the Electricity System with Delft University of Technology\n- Experience with federated, cross-border data exchange from TwinEU\n- Validation of whether platform services actually work for transmission system operation\nThe call's focus on distributed energy resources, EV charging and energy communities sits mostly at distribution level, so TenneT would probably be a partner rather than the coordinator.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 99–101 · Scope"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The project may largely integrate and scale existing solutions; it does not have to produce new basic knowledge.\nThe call asks the project to build on previous and ongoing projects and to combine existing solutions from Horizon Europe Clusters 4 and 5. The platforms must still be next-generation and use advanced AI, such as generative, agentic and embedded AI.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 99–101 · Expected Outcome; Scope"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "A combination: the innovation is in digital technology and system architecture, linked to market uptake.\n- Technology: AI-driven digital platforms, using generative, agentic and embedded AI\n- System architecture: data-exchange infrastructure across the European energy system, cloud-to-edge infrastructure, data spaces and digital twins\n- Operational methods: real-time coordination of distributed energy resources and cross-border flexibility services\n- Market arrangements: linking technology to market adoption and new digital services",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 99–101 · Expected Outcome; Scope"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "The project covers demonstration and pre-deployment, not early research.\nIt must pilot platforms in operation and prepare large-scale deployment through preparatory and structuring activities. Research results are to be integrated, not generated.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 99–101 · Expected Outcome; Scope"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "Activities are expected to reach TRL 7–8 by the end of the project (a system prototype demonstrated, up to a complete system qualified, in an operational environment).\nThe call sets no starting TRL, but since it builds on existing project results, the starting point should already be well advanced.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · p. 99 · Specific conditions, Technology Readiness Level"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "The solution must be demonstrated in operational pilots on real infrastructure, in at least six countries.\nThe pilots must involve real infrastructure, energy operators and users. They should run long enough to show performance under real system conditions, for example seasonal variability, variable renewable generation and EV charging patterns.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · p. 99 · Scope"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The work must form one coherent cross-border pilot linked to existing EU infrastructure and projects, not separate local trials.\nThe call asks for a transversal approach integrating energy systems, AI, digital infrastructure and user uptake. The project should build on the MetaOS, swarm, Edge-IoT and Operational Digital Platform initiatives, and use European data spaces, AI factories, digital twins and cloud-to-edge infrastructure. Open APIs and open standards should make the platforms work with existing systems.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 99–101 · Expected Outcome; Scope"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "The pilots must show operational performance under real conditions and quantify the benefits.\nThe call names these indicators: reduction in greenhouse-gas emissions, energy savings, electricity cost reduction and grid flexibility. It also asks for evidence of better grid utilisation and renewable integration, and of the environmental impact of the platforms themselves.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 99–101 · Expected Outcome; Scope"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "Users must take part in the pilots: the call requires at least 20 energy communities, along with energy operators, mobility actors and public authorities.\nThe call stresses user uptake as part of its transversal approach, but does not prescribe a co-design method.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 99–101 · Scope"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "Security is framed mainly as technological sovereignty and secure data exchange.\n- Data exchange and digital services must be secure, interoperable and cross-border\n- Flexibility and grid services delivered with AI must be secure and resilient\n- Participation is restricted to entities in eligible countries and not controlled from outside them, to avoid technological dependency on non-EU sources\n- Open-source components and open standards are required to avoid vendor lock-in",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 99–101 · Specific conditions, Eligibility conditions; Expected Outcome; Scope"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "The topic has EUR 15 million for around one project.\n- Grant request: around EUR 15 million for the whole consortium, as estimated by the Commission; proposals requesting other amounts are not excluded\n- Total project size: not stated; at a 70% funding rate, EUR 15 million of grant corresponds to roughly EUR 21 million of eligible costs (interpretation)\n- Funding form: budget-based actual-cost grant",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · p. 99 · Specific conditions, Expected EU contribution per project; Indicative budget\nTopic page HORIZON-BRIDGING-2027-01-12, EU Funding & Tenders Portal · General information, Type of MGA"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "Partners can receive up to 70% of eligible costs, or up to 100% if they are non-profit.\n- For-profit legal entities such as TenneT: up to 70%; at least 30% own contribution\n- Non-profit legal entities (for example universities and research organisations): up to 100%\n- Co-financing conditions: each beneficiary covers its unfunded costs from its own resources; the call sets no cash or in-kind requirement",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 31 · Annex G, Legal and financial set-up of the grants"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Standard Horizon Europe cost rules apply; the call sets no caps or mandatory allocations.\n- Eligible costs: actual personnel, subcontracting and purchase costs, plus unit costs where allowed\n- Overheads: a 25% flat rate on eligible direct costs, excluding subcontracting and financial support to third parties\n- Profit: grants may not produce a profit; any surplus is deducted from the final grant",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 32 · Annex G, Budget categories and cost eligibility rules"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: a full proposal by 16 February 2027, 17:00 Brussels time, through the Funding & Tenders Portal submission system.\n- Stage 1 — Full proposal: 16 February 2027, 17:00 Brussels time; opened 20 October 2026; the full application is limited to 40 pages\nThe responsible Director-General may delay the deadline by up to two months.",
+          "sources": "Topic page HORIZON-BRIDGING-2027-01-12, EU Funding & Tenders Portal · General information\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · p. 18 · Call conditions, Bridging actions 2027\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 4 · Annex A, Page limits"
+        },
+        {
+          "title": "Project window",
+          "answer": "The project is expected to take approximately 36 months.\n- Maximum duration: not fixed; the call estimates about 36 months\n- Required start: not stated",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · p. 101 · Scope"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Results are expected around July 2027 and grant signature around October 2027 (both indicative).\n- Expected assessment result: around 5 months after the deadline, about July 2027\n- Grant agreement: around 8 months after the deadline, about October 2027\n- Conditions before starting: legal entity validation (a PIC, the participant identification code, validated by the Central Validation Service), financial capacity checks and the signed grant agreement; invitation to grant preparation is not a commitment to fund",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 30 · Annex F, Indicative timeline\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 5 · Annex B, Registration"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "The proposal must use the call's application form in the Portal and stay within the page limit.\n- Application form: standard Horizon Europe Innovation Action form, specific to this call, in the submission system; full application limited to 40 pages\n- Mandatory annexes: an ownership control declaration, because participation is restricted on control grounds; the proposal must also include a plan for the exploitation and dissemination of results\n- Registration: every beneficiary needs a PIC in the Participant Register before submission",
+          "sources": "Topic page HORIZON-BRIDGING-2027-01-12, EU Funding & Tenders Portal · Conditions and documents\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 4–5 · Annex A, Page limits; Annex B, Registration"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Proposals are scored on Excellence, Impact, and Quality and efficiency of implementation, with Impact weighted 1.5 for ranking.\n- Evaluation criteria: Excellence; Impact; Quality and efficiency of the implementation\n- Thresholds: each criterion scored out of 5, minimum 3 per criterion and 10 overall\n- Weighting: Impact counts 1.5 times in the ranking of Innovation Actions\n- Ranking rules: only around one project is funded, so the competition is for a single grant",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 24–26 · Annex D, Award criteria; Scores and weighting"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "The main conditional rule is the control restriction.\n- Conditional — control by a non-eligible country: an entity established in an eligible country but controlled by a non-eligible country or entity may not take part\n- Exception — non-profit entities: funding rate up to 100% instead of 70%\n- Recommended: build on existing EU projects (MetaOS, swarm, Edge-IoT, Operational Digital Platforms) and take part in BRIDGE",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 99–101 · Specific conditions, Eligibility conditions; Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 31 · Annex G"
+        }
+      ]
+    }
+  ]
+}
