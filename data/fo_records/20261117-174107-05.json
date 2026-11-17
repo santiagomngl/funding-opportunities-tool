@@ -1,0 +1,39 @@
+{
+  "id": "20261117-174107-05",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "Demonstratieprojecten – DHI-subsidieregeling",
+  "organization_or_parent_framework": "Netherlands Enterprise Agency (RVO)",
+  "programme": "DHI-subsidieregeling",
+  "call_title": "Subsidieprogramma DHI 2026–2030",
+  "call_module_title": "Demonstratieprojecten",
+  "call_year": 2026,
+  "url": "https://www.rvo.nl/subsidies-financiering/dhi-subsidieregeling/demonstratieprojecten",
+  "executive_summary": "Grants for SME-led demonstrations abroad of mature, self-developed Dutch products or services, to overcome entry barriers in a new export market. Funding covers up to 50% of eligible costs, or 70% for qualifying green projects, capped at EUR 200,000 per application; eligible costs must total at least EUR 50,000. A large company may join an exporting or investing consortium only where necessary for the SME, which must retain the emphasis. The 2026 application window runs from 2 March to 31 December, with a mandatory prior RVO quick scan. Demonstrations last at most three years and cannot take place in European Netherlands.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2026-12-31",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": 50000,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "The RVO Demonstratieprojecten page (Wat is een demonstratieproject?) and Staatscourant 2026-7891 sections 4.2–4.5 and 7 fund mature Dutch technology demonstrations in a foreign target market. Inspection technologies could benefit Reliability Centered Maintenance (RCM), while the testing mechanisms resemble InterOPERA and the National Facility Digital Twin of the Electricity System (NFDTES), although DHI excludes research and product development. TenneT Netherlands cannot host the demonstration in European Netherlands, and the large-enterprise consortium exception requires necessary export or investment activities supporting an SME rather than a domestic end-user role; the reviewed rules therefore establish no suitable route for TenneT. Type 3 category C3.2 captures possible benefits through inspection or grid products supplied by others.",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.2"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T3"
+    ],
+    "role": [],
+    "activity": [
+      "A7",
+      "A8",
+      "A10"
+    ],
+    "outcome": [
+      "O3",
+      "O6"
+    ]
+  }
+}

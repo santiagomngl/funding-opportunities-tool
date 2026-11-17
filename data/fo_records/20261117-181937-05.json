@@ -1,0 +1,40 @@
+{
+  "id": "20261117-181937-05",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "Marktvalidaties – DHI-subsidieregeling",
+  "organization_or_parent_framework": "Netherlands Enterprise Agency (RVO)",
+  "programme": "DHI-subsidieregeling",
+  "call_title": "Subsidieprogramma DHI 2026–2030",
+  "call_module_title": "Marktvalidaties",
+  "call_year": 2026,
+  "url": "https://www.rvo.nl/subsidies-financiering/dhi-subsidieregeling/marktvalidaties",
+  "executive_summary": "Grants for Dutch technology startups validating entry into a new foreign business market with a qualified local partner. Technical, commercial, economic or legal barriers can be addressed for a mature self-developed technology, with prototype testing allowed but product development, general market research and sales promotion excluded. The regulation caps support at EUR 25,000 and 50% of eligible costs, with at least EUR 50,000 in eligible project costs. Applications run from 2 March to 31 December 2026 while budget remains, after a mandatory RVO quick scan; projects last at most one year. RVO plans support for 40 validations in 2026, split equally between developing countries and other countries.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2026-12-31",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": 50000,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "The RVO Marktvalidaties page (Wat is een marktvalidatie?) and Staatscourant 2026-7891 sections 4.4(d) and 7(4) support foreign-market validation of mature startup technologies with a qualified local partner. Inspection and grid-equipment applications could benefit Reliability Centered Maintenance (RCM) and the procurement needs of the 2GW Program, an interpretation of the broad technology scope rather than an energy-specific objective. Sections 3 and 4.2 define the enabling local partner as non-Dutch and require Dutch funded consortium participants to export or invest in support of the SME, so the call establishes no suitable domestic end-user or test-site route for TenneT Netherlands. Type 3 category C3.2 reflects possible benefits through suppliers’ products.",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.2"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T3",
+      "T4"
+    ],
+    "role": [],
+    "activity": [
+      "A3",
+      "A7",
+      "A8"
+    ],
+    "outcome": [
+      "O3",
+      "O6"
+    ]
+  }
+}

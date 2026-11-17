@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "Demonstrate a mature Dutch product or service abroad to overcome a specific barrier to entering a new export market. The technology must have been developed by the applicant and be ready for commercial use. The demonstration takes place with a host or potential customer in a real practical setting and must reach a broad group of potential business customers. It must be necessary to establish the technology in that market; ordinary sales promotion, research and product development do not qualify. The project should be no larger or longer than needed to prove its value.",
+          "sources": "stcrt-2026-7891.pdf · pp. 6–7, 10–11 · §§4.4–4.5; Criteria voor demonstratieprojecten"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Show a credible route to export sales and stronger positioning of Dutch enterprises in the target market. Within three years after the demonstration, expected exports must reach at least ten times the grant, or five times for projects in developing countries. Projects in developing countries must also make a substantial positive contribution to local employment, knowledge and technology transfer, or local productive capacity, without a negative score on the other dimensions. A higher grant rate is available where the central technology substantially advances an environmental objective without harming the other objectives.",
+          "sources": "stcrt-2026-7891.pdf · pp. 4–5, 7–8, 11–12, 14–15 · Begrippen; Doel en doelgroep; Omvang van de subsidie; Criteria voor demonstratieprojecten; Beleidsmatige criteria; Annexen 1–2"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "A Dutch small or medium enterprise must lead, either alone or in an exporting or investing consortium. A consortium has at least two Dutch enterprises, including an SME, meaning a small or medium enterprise under the European definition. The SME lead must contribute substantially. Large enterprises may receive funds only where necessary for the SME and the emphasis remains on the SME. Participants must export or invest through the project and have substantive Dutch activities. The applicant normally needs average annual turnover of at least EUR 100,000 over the previous three calendar years and three full-time-equivalent Dutch employees. The regulation allows specified exceptions for independently validated technology with external growth financing, or secured delivery through ongoing contractors or Dutch producers. The project must fit the participants’ regular activities and strategy.",
+          "sources": "stcrt-2026-7891.pdf · pp. 4–6 · Begrippen; Wie kunnen in aanmerking komen voor een subsidie"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": "The technology must already work; the funded innovation is its introduction into a new foreign market. The applicant demonstrates its own developed Dutch technology rather than carrying out research or developing a new product. The proposal must justify why unfamiliarity with the market and its complexity prevent entry without support. General market research, marketing, sales activities and demonstrating only to one potential buyer are excluded. A participating supplier therefore needs a finished solution and an identified market-entry problem.",
+          "sources": "stcrt-2026-7891.pdf · pp. 6–7, 10–11 · Subsidiabele activiteiten; Niet subsidiabele activiteiten; Criteria voor demonstratieprojecten"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "Technology Readiness Level 8 or 9 is required: the technology is complete and qualified, or already proven in operational use. The demonstration must establish its value in the new market, not resolve basic product-development questions. The call text also describes at least a working prototype ready for commercial application. Applicants should use the explicit level 8 or 9 condition when preparing the proposal.",
+          "sources": "stcrt-2026-7891.pdf · pp. 6, 11 · Demonstratieproject; Criteria voor demonstratieprojecten"
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": "Demonstrate in a real setting in one foreign target country and share results with a broad group of business customers. A neighbouring-country extension is possible where justified by effectiveness or efficiency. The activities must form one planned approach towards a shared objective. RVO normally expects one demonstration site unless a different arrangement is justified. The equipment cannot be sold to the host before or during the demonstration. Collect performance indicators that substantiate the value of the technology; the grant does not pay for routine commercial delivery.",
+          "sources": "stcrt-2026-7891.pdf · pp. 6–7, 11 · Subsidiabele activiteiten; Niet subsidiabele activiteiten; Criteria voor demonstratieprojecten\nDHI-subsidieregeling: Demonstratieprojecten · Wat is een demonstratieproject?"
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "The call could help Dutch inspection and grid-technology suppliers prove mature products abroad, with potential benefits for future TenneT procurement. This is an interpretation of the broad technology scope and RVO’s example of a remotely operated inspection supplier, connected to TenneT’s Reliability Centered Maintenance work. The demonstration and validation mechanism also resembles InterOPERA and the National Facility Digital Twin of the Electricity System, although their research and Dutch testing activities are not the export activity funded here. The call establishes no suitable route for TenneT Netherlands as a domestic end user: the host must be abroad, and a Dutch large-company partner must itself undertake necessary export or investment activities supporting the SME. A hypothetical customer relationship alone does not meet those rules.",
+          "sources": "stcrt-2026-7891.pdf · pp. 4–7 · Begrippen; Wie kunnen in aanmerking komen voor een subsidie; Subsidiabele activiteiten; Niet subsidiabele activiteiten\nDHI-subsidieregeling: Demonstratieprojecten · Wat is een demonstratieproject?; Ervaringen van andere mkb’ers met DHI"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "The grant is capped at EUR 200,000 per demonstration application and supports a cost-based project.\n- Total project size: at least EUR 50,000 in eligible costs; no general maximum total project budget is specified in the regulation.\n- Grant request: up to EUR 200,000 per application, including the consortium where applicable.\n- Funding form: reimbursement of a permitted share of actual eligible costs, with advance payments.\n- Programme budget: EUR 8.5 million for the 2026 opening across the DHI modules, split into EUR 4.5 million for developed and emerging markets and EUR 4 million for developing countries. Within each, up to EUR 0.5 million is reserved for startup market validation.",
+          "sources": "stcrt-2026-7891.pdf · pp. 1, 7–8 · Artikel 3; Omvang van de subsidie; Subsidiabele kosten\nNa uw aanvraag voor DHI-subsidie · Voorschotbetaling; Vaststelling subsidie aanvragen en eindrapportage"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "The standard rate is up to 50% of eligible costs, rising to 70% for qualifying green demonstrations.\n- Standard project: at least 50% of eligible costs, plus excluded expenditure, remains for the applicant to finance.\n- Green project: at least 30% of eligible costs, plus excluded expenditure, remains for the applicant to finance. The core technology must contribute substantially to an environmental objective without harming the other objectives.\n- Co-financing conditions: the EUR 200,000 grant cap still applies. A third-party financial contribution to project costs reduces the grant by the same amount. The applicant’s own contribution cannot come from direct or indirect grants from the Dutch foreign-affairs budget.\n- Evidence required: demonstrate capacity to finance the project and intended exports, supply the latest available financial statements and sign the declaration for de-minimis support, the European small-aid regime. Its EUR 300,000 limit over three years applies to the enterprise group.",
+          "sources": "stcrt-2026-7891.pdf · pp. 5, 7–10, 15 · Wie kunnen in aanmerking komen voor een subsidie; Omvang van de subsidie; Aanvraag; Annex 2"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "The eligible budget prioritises necessary demonstration work abroad and restricts subcontracting and overhead-type costs.\n- Eligible costs: experts’ time, project depreciation, permitted travel and accommodation, and necessary third-party expenditure. Personnel is capped at EUR 87.50 per hour and EUR 700 per day, with lower local rates where appropriate.\n- Caps or mandatory allocations: third-party costs are limited to 50% of total demonstration project costs, with the stated exception for personnel costs from affiliated enterprises. Budgeted time costs in the Netherlands cannot exceed those abroad.\n- Excluded costs: application preparation, project management, desk research personnel time, financing and interest, own software, actual technology certification, import duties and inflation or exchange-rate effects.\n- Overheads and VAT: the personnel rate includes direct and indirect costs; value-added tax is excluded.\n- Subcontracting or equipment: hardware is depreciated over project use; prescribed lifetimes are five years for machinery, thirty years for buildings and three years for purchased software.",
+          "sources": "stcrt-2026-7891.pdf · pp. 8–9 · Uitgangspunten; Subsidiabele kosten; Niet-subsidiabele kosten"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "RVO advances 90% of the award, with the remainder dependent on completed activities and compliance.\n- Payment model: advances follow the schedule in the award letter; the remaining amount is paid after final settlement.\n- Retention or guarantee: 10% remains until settlement, and RVO may reduce or revoke the grant if obligations are not met.\n- Financial reporting or audit: projects longer than one year require annual progress reports. Request settlement within thirteen weeks after completion with a final report; grants of EUR 125,000 or more also require a management declaration from each recipient. The current RVO page does not describe that declaration as an accountant’s audit.",
+          "sources": "Na uw aanvraag voor DHI-subsidie · Voorschotbetaling; Voortgang van uw project; Vaststelling subsidie aanvragen en eindrapportage"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "A mandatory RVO advice process precedes the full electronic application.\n- Advice stage — Quick scan: submit a project outline to obtain an RVO advice code; processing may take up to two weeks. The advice is non-binding, so a negative recommendation does not itself prevent applying.\n- Full application: submit between 2 March and 31 December 2026 in Dutch or English, with the advice code and required annexes. The reviewed sources give no closing time or time zone.\n- Additional procedure: Dutch applicants use eHerkenning level 2+, the organisational login service. Completeness determines queue position; a request for missing material moves the receipt date to when the supplement arrives.",
+          "sources": "stcrt-2026-7891.pdf · pp. 1, 6, 9–10 · Artikel 2; Adviestraject; Aanvraag; Herstelperiode\nDHI-subsidieregeling: Demonstratieprojecten · Subsidie direct aanvragen"
+        },
+        {
+          "title": "Project window",
+          "answer": "A demonstration may last at most three years and must remain proportionate to proving the technology’s value.\n- Maximum duration: 36 months.\n- Eligible-cost period: costs before submission are excluded. RVO’s current page describes starting execution after approval.\n- Subsequent export: the proposal must substantiate exports within three years after demonstration completion, at least ten times the grant or five times for developing-country projects.",
+          "sources": "stcrt-2026-7891.pdf · pp. 7–8, 11 · Duur van de projecten en samenloop; Uitgangspunten; Criteria voor demonstratieprojecten\nDHI-subsidieregeling: Demonstratieprojecten · Na uw aanvraag"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "The award letter determines the payment schedule and project obligations.\n- Funding decision: applications are considered in order of receipt of a complete file and within the relevant budget.\n- Conditions before starting: the current RVO page describes beginning execution after approval; costs incurred before the application are ineligible. RVO may hold later applications while assessing whether earlier ones exhaust the budget.",
+          "sources": "stcrt-2026-7891.pdf · pp. 8, 10 · Uitgangspunten; Beoordeling en verdeling beschikbare middelen\nDHI-subsidieregeling: Demonstratieprojecten · Na uw aanvraag\nNa uw aanvraag voor DHI-subsidie · Voorschotbetaling"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "Use RVO’s application formats and include both project evidence and participant declarations.\n- Application form: Dutch or English, through RVO’s electronic route, with the quick-scan advice code.\n- Budget: prescribed budget with a matching activity plan.\n- Mandatory annexes: project plan, experts’ curricula vitae and the latest available applicant financial statements. Developing-country projects also need a development-relevance annex.\n- Partner documents: signed de-minimis declarations from the applicant and partners; lead mandates and a signed collaboration agreement where applicable. An external demonstration host must provide a letter of intent.\n- Registration: Dutch applicants need eHerkenning level 2+, the organisational login service.\n- Conditional — responsible business conduct: declare adherence to the Organisation for Economic Co-operation and Development guidelines and the excluded-activities list; RVO may request a corporate-responsibility self-assessment after submission.",
+          "sources": "stcrt-2026-7891.pdf · pp. 9–10 · Vereisten\nDHI-subsidieregeling: Demonstratieprojecten · Subsidie direct aanvragen"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Complete applications are assessed in arrival order against eligibility, necessity, export prospects and delivery quality.\n- Evaluation criteria: mature self-developed technology, a justified foreign-market barrier, necessary real-world demonstration to multiple business customers, credible subsequent exports, proportionate budget, capable experts and local embedding. Projects must address environmental, labour and human-rights risks.\n- Ranking rules: supplements reset the receipt date and time. If simultaneous applications exceed available funds, their order is decided by lottery.\n- Budget assessment: costs must be reasonable and necessary; compliance with the own-financing and export conditions must be substantiated.",
+          "sources": "stcrt-2026-7891.pdf · pp. 10–12 · Beoordeling en verdeling beschikbare middelen; Criteria voor demonstratieprojecten; Criteria ter beoordeling van de beoogde uitvoering van een project"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Large-company participation, green funding and developing-country demonstrations each have explicit additional conditions.\n- Conditional — large-company partner: its exporting or investing role must be necessary to the SME, with the emphasis remaining on that SME.\n- Conditional — 70% green funding: the central technology must contribute substantially to an environmental objective without harming the other objectives; a minor side benefit is insufficient.\n- Conditional — developing-country project: substantiate development relevance; the subsequent export threshold is five rather than ten times the grant.\n- Conditional — another live DHI award: an applicant cannot receive another award while executing a funded DHI project.\n- Conditional — delivery problems or material changes: notify RVO; unreported changes can lead to partial or full recovery. Recipients must also report specified responsible-business-conduct incidents.",
+          "sources": "stcrt-2026-7891.pdf · pp. 5, 7–8, 11–13 · Wie kunnen in aanmerking komen voor een subsidie; Duur van de projecten en samenloop; Omvang van de subsidie; Criteria voor demonstratieprojecten; Verplichtingen\nNa uw aanvraag voor DHI-subsidie · Wijziging van uw project"
+        }
+      ]
+    }
+  ]
+}

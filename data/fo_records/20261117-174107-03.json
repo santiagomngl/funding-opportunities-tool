@@ -1,0 +1,45 @@
+{
+  "id": "20261117-174107-03",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "2.5.1 Circulaire economie algemeen – Demonstratie Energie- en Klimaatinnovatie (DEI+)",
+  "organization_or_parent_framework": "Netherlands Enterprise Agency (RVO)",
+  "programme": "Demonstratie Energie- en Klimaatinnovatie (DEI+)",
+  "call_title": "DEI+: Circulaire economie en grootschalige biobased projecten",
+  "call_module_title": "2.5.1 Circulaire economie algemeen",
+  "call_year": 2026,
+  "url": "https://www.rvo.nl/subsidies-financiering/dei/circulaire-economie-en-grootschalige-biobased-projecten",
+  "executive_summary": "Grants for enterprises carrying out innovative circular-material pilots or demonstrations in the Netherlands, including resource reduction, reuse, recycling and circular design. The 2026 window shares EUR 60 million with the large Biobased Circular subtheme; grants are capped at EUR 25 million for pilots and EUR 30 million for demonstrations. Applications close on 17 December 2026 at 17:00. RVO warns that requested subsidies already exceed the available budget, although applications remain possible.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2026-12-17",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "The RVO call page (Waarvoor krijgt u subsidie?) and Handleiding DEI+ 2026 section 2.5.1 fund circular-material pilots and demonstrations with quantified emissions reductions. Circular grid-material reuse and recycling could support the environmental objectives of Renewables Grid Initiative (RGI) and the material-conservation concerns of Impressed Current Cathodic Corrosion Protection (ICCP), although neither project is itself an eligible proposal. Section 3.1 permits individual enterprises and consortium participants without an SME restriction, supporting Type 1 categories C1.2 (innovation lead) and C1.3 (funded partner), subject to an eligible Dutch project and financing conditions.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.2",
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T9"
+    ],
+    "role": [
+      "R1",
+      "R2",
+      "R5",
+      "R9"
+    ],
+    "activity": [
+      "A5",
+      "A7",
+      "A8"
+    ],
+    "outcome": [
+      "O5",
+      "O6"
+    ]
+  }
+}
