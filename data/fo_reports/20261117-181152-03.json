@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "The project must substantially develop one or more of the 44 key enabling technologies, not merely apply them.\nKey enabling technologies are the broadly applicable technologies the Dutch Ministry of Economic Affairs and Climate has listed as essential for societal challenges, such as AI, photonics or quantum. Perspectief funds a programme of research that creates new technology from excellent science, strategically relevant to industry and society. The call stresses innovation in the technology, not with it: for example, using an existing Large Language Model in the research is not enough.",
+          "sources": "Call-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 3–4 · 2.1 Aim of the programme\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · p. 4 · 2.2.1 Mission driven innovation"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Research on key enabling technologies that contributes to at least one Knowledge and Innovation Agenda; investments, contract research and clinical trials are out of scope.\n- Mandatory: (further) development of at least one of the 44 key enabling technologies, contributing to one or more Knowledge and Innovation Agendas (KIAs, the Dutch government's research agendas per mission: Climate & Energy, Circular Economy, Health & Care, Agriculture, Water and Food, Security, and Key Technologies and Digitalisation)\n- Excluded: topics that fall only within the KIA for Mission-driven Innovation (upscaling and transition acceleration), and proposals mainly about investments, contract research or clinical trials\n- Optional: related social, ethical or cultural aspects alongside the technology work\n- Preferred: pre-proposals are scored on their contribution to the 10 technologies the National Technology Strategy prioritises",
+          "sources": "Call-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 3–4 · 2.1 Aim of the programme\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · p. 4 · 2.2.1 Mission driven innovation\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · p. 18 · 4.1 Criteria, 2c"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The project must start from a societal challenge in the Dutch missions and a technology need of users across the innovation chain.\nThe call frames the need twice: societal challenges in the missions (Climate & Energy among them) and Dutch earning capacity and technological leadership. Users, both direct users (usually companies) and end users who buy their products, must be named in the proposal and should include parties from outside the researchers' own circle. The proposal must be drawn up in co-design with users, and the problem analysis must be clear and well-founded; this forms part of the societal and economic impact criterion.",
+          "sources": "Call-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 3–4 · 2.1 Aim of the programme; 2.2.1 Mission driven innovation\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 8–9 · 3.2.5 Co-funders and users\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · p. 17 · 4.1 Criteria, 1a and 1b"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "The call requires new or further-developed technology and scientific knowledge, with a pathway to application; it does not prescribe output types.\nThe proposal must show how the technology goes beyond the state of the art, which new application areas it opens, and how it can be scaled up or developed further after the project. Knowledge utilisation activities (5–20% of the grant) are mandatory, and the project must produce a data management plan, progress reports twice a year and final substantive and financial reports.",
+          "sources": "Call-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 17–18 · 4.1 Criteria, 2a and 2b\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · p. 10 · 3.3.4 Knowledge utilisation\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 24–25 · 5.1.2 Data management plan; 5.2.1 Progress report"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The project must strengthen the Dutch knowledge and innovation system and Dutch earning capacity while helping solve mission challenges; no numerical targets are set.\nPerspectief aims at strong, lasting innovation networks and ecosystems around key technologies, with greater focus, scale and coherence in Dutch research. Proposals must describe a concrete pathway to societal and economic impact, appropriate to the research phase, and show enough focus and scale to contribute to Dutch earning capacity. An Impact Plan approach applies.",
+          "sources": "Call-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 2–4 · 1.1 Brief summary; 2.1 Aim of the programme; 2.2.2 Societal impact of research\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · p. 17 · 4.1 Criteria, 1a"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "The technology must be designed for further development and use by the users, not as an isolated result.\n- Scaling: the proposal must show how the technology can be scaled up or developed further after the project, and which new application areas it opens\n- Users: users must be able to apply, or start applying, the knowledge, and a user representative co-leads the knowledge utilisation work package\n- Knowledge utilisation: a dedicated budget of 5–20% of the grant is mandatory\n- User committee: NWO sets up one or more user committees, at least half from business, meeting at least twice a year\n- Intellectual property: the consortium agreement (NWO model) sets terms for IP, publication and licensing; results may in principle be published, and licences must follow socially responsible licensing principles\n- Open science: publications must be open access",
+          "sources": "Call-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 8–9, 18 · 3.2.2 Co-lead on behalf of users; 3.2.5 Co-funders and users; 4.1 Criteria, 2b\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · p. 10 · 3.3.4 Knowledge utilisation\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 25–26 · 5.1.3 Consortium agreement; 5.2.2 User committee; 5.3.4 Principles of socially responsible licensing"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "At least three Dutch research organisations as applicants, two of them universities, plus users; no maximum is set.\nDifferent faculties of one organisation count as one. No single research organisation may hold more than 50% of the research positions. At least one user is needed in practice, because users must provide co-funding and one user representative is co-lead.",
+          "sources": "Call-for-Proposals_EN.pdf (Perspectief 2026-2027) · p. 8 · 3.2.3 Consortium composition\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · p. 7 · 3.2.2 Co-lead on behalf of users"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "Dutch universities and research institutes as applicants, with users from across the commercialisation and innovation chain.\n- Main applicant: a researcher at a Dutch university, university medical centre, KNAW or NWO institute or one of five named institutes\n- Co-applicants: the same, plus TO2 institutes (Deltares, MARIN, NLR, TNO, WUR) and universities of applied sciences, together limited to 20% of the grant; foreign research organisations may be co-applicants after NWO checks them\n- Users: companies, civil society organisations and other parties that can apply the results, including users from outside the researchers' own field; foreign users may take part on the same terms\n- Co-funders: users that contribute cash or in kind; research organisations cannot co-fund, except a TO2 institute that is not also co-applicant",
+          "sources": "Call-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 6–9 · 3.2 Who can apply; 3.2.3 Consortium composition; 3.2.4 TO2 institutions and universities of applied sciences; 3.2.5 Co-funders and users"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "Work and grant must be spread across research organisations, with users co-funding and co-leading knowledge utilisation.\n- No research organisation may hold more than 50% of the positions applied for\n- TO2 institutes and universities of applied sciences together get at most 20% of the grant; TO2 co-applicants may only do industrial research\n- Foreign research organisations: at most 20% of the grant for personnel\n- Users: at least 10% of the required funding in cash and at least 30% of total project costs in cash or in kind\n- One user representative co-leads the project and is active in the work package Project management and knowledge utilisation\n- Limits: a researcher is main applicant in one proposal per round and co-applicant in at most one other",
+          "sources": "Call-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 7–8 · 3.2.1 Additional conditions; 3.2.2 Co-lead on behalf of users; 3.2.3 Consortium composition; 3.2.4 TO2 institutions\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 9–10 · 3.3.1 Personnel\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · p. 12 · 3.6.1 Co-funding requirement"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "A researcher with a permanent or tenure-track contract at a Dutch university or eligible institute leads, with a user representative as co-lead.\nThe main applicant must be at a Dutch university, university medical centre, KNAW or NWO institute or a named institute; TO2 institutes and universities of applied sciences cannot lead. A researcher may lead one pre-proposal and one proposal per round.",
+          "sources": "Call-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 6–7 · 3.2 Who can apply; 3.2.1 Additional conditions\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · p. 7 · 3.2.2 Co-lead on behalf of users"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "TenneT cannot be main applicant, but its representative could be the project's co-lead on behalf of the users.\nOnly researchers at Dutch universities and research institutes may submit. Every project must have one representative of the users, not employed by a research organisation in the project, as co-lead alongside the main applicant. This person must attend the interview and be active in the work package on project management and knowledge utilisation. A TenneT expert could take this role in an energy-related consortium.",
+          "sources": "Call-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 6–7 · 3.2 Who can apply; 3.2.2 Co-lead on behalf of users"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes. TenneT can join as a user, and as a co-funder if it commits cash or capitalised in-kind work, but only through a consortium that already filed a letter of intent.\n- User: a party closely involved in the research or knowledge utilisation that can apply the results; users must be named in the proposal and should include parties from outside the researchers' circle\n- Co-funder: a user that contributes cash or in kind; in kind means staff hours at fixed Dutch government rates, consumables at cost price, or equipment at depreciation or a third-party rate. Overhead, supervision, consultancy and user committee time do not count\n- User committee: TenneT could sit on the committee NWO sets up, meeting at least twice a year\nThe mandatory letter of intent was due 6 October 2026, so a new consortium cannot enter this round; TenneT can only join one that submitted a letter of intent, before the pre-proposal (24 November 2026) or full proposal (25 May 2027).",
+          "sources": "Call-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 8–9 · 3.2.5 Co-funders and users\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 12–13 · 3.6.1 Co-funding\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 14–15 · 3.7.1 Pre-proposal, conditions\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · p. 25 · 5.2.2 User committee"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "No. Users never receive grants from NWO, so TenneT would finance all its own costs.\nThe call states plainly that users never receive NWO grants. As a user and co-funder, TenneT would also pay part of the researchers' costs: users together must contribute at least 10% of the required funding in cash, which NWO invoices to the co-funder plus any VAT, and at least 30% of total project costs in cash or in kind.",
+          "sources": "Call-for-Proposals_EN.pdf (Perspectief 2026-2027) · p. 8 · 3.2.5 Co-funders and users\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 12–13 · 3.6.1 Co-funding"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "Interpretation: TenneT would add most as a demanding user that brings grid data, operational problems and a validation setting.\nIn a consortium on a key technology with grid use, for example AI, digital twins, power electronics or sensing, TenneT could:\n- Act as co-lead on behalf of the users, shaping the research questions with the universities (co-design)\n- Provide grid data, use cases from system operations or asset management, and access to its simulation setting (such as the national digital twin facility with TU Delft)\n- Contribute in-kind expert hours and a cash share towards the users' 10% cash requirement\n- Sit on the user committee and take results into its own innovation pipeline\nThis fits TenneT's existing work with NWO on digital twin capabilities and with TU Delft on TenneTwin.",
+          "sources": "Interpretation based on: Call-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 7–9 · 3.2.2 Co-lead on behalf of users; 3.2.5 Co-funders and users\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 12–13 · 3.6.1 Co-funding"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The project must create genuinely new technology; applying existing technology is explicitly insufficient.\nThe call requires innovation in the technology, not innovation with it, and the proposal must show how it goes beyond the current state of the art. It funds high-risk research.",
+          "sources": "Call-for-Proposals_EN.pdf (Perspectief 2026-2027) · p. 3 · 2.1 Aim of the programme\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 17–18 · 4.1 Criteria, 2a"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "The innovation must be in one or more key enabling technologies; related social, ethical or cultural aspects may be added.\nThe technology itself is the object. Activities need not be limited to technology development, but proposals mainly about other activities are not accepted.",
+          "sources": "Call-for-Proposals_EN.pdf (Perspectief 2026-2027) · p. 3 · 2.1 Aim of the programme"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Research and early technology development; the call funds research activities, not investments, contract research or deployment.\nInvestments in equipment are allowed only as a supporting budget item (up to EUR 1 million, depreciation only).",
+          "sources": "Call-for-Proposals_EN.pdf (Perspectief 2026-2027) · p. 3 · 2.1 Aim of the programme\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · p. 10 · 3.3.3 Investments"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "TRL 1 to 6, from basic principles to a technology shown in a relevant environment.\nThe call describes Perspectief as high-risk, early-stage technology development within TRL 1–6 (technology readiness level, a 1–9 scale of maturity). It sets no separate start or end level.",
+          "sources": "Call-for-Proposals_EN.pdf (Perspectief 2026-2027) · p. 2 · 1.1 Brief summary"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The work packages must form one coherent programme with clear synergy.\nThe research approach must show clear relationships between work packages, all contributing to the project objectives, with project management that supports collaboration and knowledge exchange. Activities and grant must be spread over several research organisations, so the project is not carried out mainly by one group.",
+          "sources": "Call-for-Proposals_EN.pdf (Perspectief 2026-2027) · p. 18 · 4.1 Criteria, 3c\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · p. 8 · 3.2.3 Consortium composition"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "Mandatory and scored. Users must co-design the proposal, take part in the research and co-fund it.\nThe user group must be strong, complementary and cover the whole innovation chain. The proposal must be drawn up in co-design with users and describe their role during the project (co-creation). Their interest, support and co-funding must be convincing for their size. A user representative co-leads the project, and user committees with at least 50% business members meet at least twice a year.",
+          "sources": "Call-for-Proposals_EN.pdf (Perspectief 2026-2027) · p. 17 · 4.1 Criteria, 1b\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 7–9 · 3.2.2 Co-lead on behalf of users; 3.2.5 Co-funders and users\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · p. 25 · 5.2.2 User committee"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "The call sets knowledge-security rules, not operational safety or cybersecurity requirements.\nApplicants must follow their research organisation's knowledge security policy (Dutch national guidelines on the risks of international collaboration), and NWO may add conditions in the award letter. Foreign parties under certain sanctions may not co-fund; the EU Sanctions Map is the guide.",
+          "sources": "Call-for-Proposals_EN.pdf (Perspectief 2026-2027) · p. 22 · 4.3.5 Knowledge security\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · p. 9 · 3.2.5 Foreign users"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "EUR 26.5 million for about six projects, with a grant of EUR 2–5 million each.\n- Grant request: EUR 2,000,000–5,000,000 per project (the call text prints the minimum as 2,000,0000)\n- Total project size: grant plus user co-funding; since users must provide at least 30% of total project costs, a EUR 5 million grant implies a project of at least about EUR 7.1 million\n- Funding form: actual-cost grant built from NWO budget modules (personnel, materials, investments, knowledge utilisation, project management)",
+          "sources": "Call-for-Proposals_EN.pdf (Perspectief 2026-2027) · p. 2 · 1.1 Brief summary\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · p. 9 · 3.3 What can be applied for\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · p. 12 · 3.6.1 Co-funding requirement"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "NWO funds research organisations' eligible costs; users must provide at least 30% of total costs, at least a tenth of the required funding in cash.\n- Research organisations: funded through the NWO grant\n- Users: no grant; at least 10% of the funding needed for the research in cash, and at least 30% of total project costs (required funding plus in-kind) in cash or in kind\n- Co-financing conditions: in-kind work must be integral to the project and traceable, at fixed Dutch government hourly rates; co-funding above 49% of total costs makes the proposal ineligible; universities, universities of applied sciences and NWO institutes cannot co-fund\n- Evidence required: a co-funding declaration signed by an authorised signatory of every co-funder, combined in one PDF with the full proposal, confirmed later in the consortium agreement",
+          "sources": "Call-for-Proposals_EN.pdf (Perspectief 2026-2027) · p. 2 · 1.1 Brief summary\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 12–13 · 3.6.1 Co-funding"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Several caps shape the budget, and overhead is not eligible.\n- Eligible costs: PhD students (48 months), EngD, postdocs, physician researchers, non-scientific staff, research leave, materials, investments, knowledge utilisation, project management\n- Caps or mandatory allocations: knowledge utilisation 5–20% (mandatory); project management up to 5%; materials up to 25%, of which at most half to partners or third parties; research leave up to 5%; investments up to EUR 1 million, depreciation only; TO2, universities of applied sciences and foreign personnel each limited to 20%\n- Excluded costs: salaries of applicants and co-applicants, overhead and standard infrastructure\n- Overheads and VAT: no overhead; NWO invoices cash co-funding plus any VAT",
+          "sources": "Call-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 9–10 · 3.3 What can be applied for\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 30–35 · 7.1 Explanation of budget modules\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · p. 13 · 3.6.1 Co-funding"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "Cash co-funders are invoiced by NWO, and a shortfall in co-funding can reduce the grant.\n- Payment model: NWO pays the grant in instalments after the start requirements are met\n- Co-funding risk: the co-funding percentages apply until the grant is determined; if cash co-funding is partly not paid, NWO recalculates its contribution\n- Financial reporting or audit: financial progress report once a year and a final financial report within three months of the end; an auditor's report applies in some cases",
+          "sources": "Call-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 13–14 · 3.6.1 Accountability of co-funding\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 24–27 · 5.1 Start of the project; 5.2.1 Progress report; 5.4 Completion"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "Three mandatory stages through ISAAC (NWO's online system), in English; the first stage has closed.\n- Stage 1 — Letter of intent: 6 October 2026, 14:00 CEST, via the online form; mandatory and already closed\n- Stage 2 — Pre-proposal: 24 November 2026, 14:00 CET, NWO form in ISAAC; must already meet the consortium and co-lead rules\n- Additional procedure — technology review and rebuttal: written feedback from a technology team, rebuttal within five working days\n- Stage 3 — Full proposal: 25 May 2027, 14:00 CEST, by invitation after a positive pre-proposal decision (mid-February 2027), with budget and co-funding declarations\n- Additional procedure — rebuttal and interview: rebuttal 24 August–7 September 2027; interviews 4–8 October 2027\n- Foreign organisations: documents for NWO's check by 10 May 2027",
+          "sources": "Call-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 2, 6 · 1.1 Brief summary; 3.1 Timeline\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 10–12 · 3.4 Letter of intent; 3.5 Pre-proposal; 3.6 Proposal\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 19–20 · 4.2 Procedure"
+        },
+        {
+          "title": "Project window",
+          "answer": "Projects may last up to 6 years; the call sets no start date.\n- Maximum duration: 72 months\n- Required start: after the award (mid-November 2027), once the start form, data management plan and consortium agreement are submitted\n- Eligible-cost period: staff already working on the project before the award cannot be funded",
+          "sources": "Call-for-Proposals_EN.pdf (Perspectief 2026-2027) · p. 9 · 3.3 What can be applied for\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · p. 24 · 5.1 Start of the project\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 30–31 · 7.1.1 Personnel"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "NWO's AES Domain Board decides on full proposals in mid-November 2027.\n- Pre-proposal result: assessment December 2026–January 2027; decision mid-February 2027\n- Funding decision: mid-November 2027 (envisioned 12 November 2027)\n- Conditions before starting: start form, data management plan approved by NWO, and NWO's model consortium agreement signed by all partners, including co-funders, covering IP, publication and co-funding payments",
+          "sources": "Call-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 2, 6 · 1.1 Brief summary; 3.1 Timeline\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 24–25 · 5.1 Start of the project; 5.1.3 Consortium agreement"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "Only complete proposals on NWO's templates are considered, and each stage requires the previous one.\n- Application form: NWO pre-proposal and proposal forms, in English, within page limits, with a Dutch and English lay summary and a data management section\n- Budget: NWO Excel budget form\n- Mandatory annexes: co-funding declarations in one PDF; statement and signing by the main applicant; response to the committee's points of attention; no other annexes\n- Partner documents: signed co-funding declarations\n- Registration: ISAAC account; new organisations registered with NWO up to five working days before the deadline\nOne round of corrections is allowed, within five working days.",
+          "sources": "Call-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 11–12 · 3.5; 3.6 Preparing and submitting a proposal in ISAAC\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 14–16 · 3.7 Requirements for consideration"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Three criteria are scored, and only proposals rated very good with no criterion below 4.0 can be funded.\n- Evaluation criteria: societal and economic impact (impact pathway, strength of the user group); technology development (going beyond the state of the art, new applications, scaling, and for pre-proposals the contribution to the national technology priorities); scientific quality\n- Thresholds: overall very good (score 1.5–3.4 on a 1–9 scale, 1 is best) and at least 4.0 on each criterion; pre-proposals need at least 4.0 on technology development\n- Ranking rules: weighted average score; ties go to the higher technology-development score\n- Budget assessment: the committee checks that budget and staffing fit the research",
+          "sources": "Call-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 17–18 · 4.1 Criteria\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 19–21 · 4.2 Procedure\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · p. 23 · 4.3.7 Ex aequo"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "The missed letter of intent is the decisive condition: only consortia that filed one by 6 October 2026 can continue.\n- Conditional — letter of intent: a pre-proposal or proposal without a timely letter of intent is not considered; letters from the 2025–2026 round remain valid for resubmissions\n- Conditional — resubmission: a similar proposal may only be submitted if it reached the final stage of a Perspectief round at most once before\n- Exception — TO2 institutes: either co-applicant (industrial research only) or co-funder, not both\n- Conditional — contract ends early: employer statement guaranteeing supervision\n- Recommended: NWO's online impact workshops for the Impact Plan",
+          "sources": "Call-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 14–15 · 3.7.1 Pre-proposal, conditions\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 7–8, 11 · 3.2.1 Additional conditions; 3.2.4 TO2 institutions; 3.4 Letter of intent\nCall-for-Proposals_EN.pdf (Perspectief 2026-2027) · pp. 4–5 · 2.2.2 Societal impact of research"
+        }
+      ]
+    }
+  ]
+}

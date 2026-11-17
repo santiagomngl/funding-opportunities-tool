@@ -1,0 +1,28 @@
+{
+  "id": "20261117-181152-01",
+  "source": "NWO",
+  "display_title": "System Perspective on Materials for Strategic Autonomy in the Energy Transition – Dutch Research Agenda (NWA)",
+  "organization_or_parent_framework": "NWO (Dutch Research Council)",
+  "programme": "Dutch Research Agenda (NWA)",
+  "call_title": "System Perspective on Materials for Strategic Autonomy in the Energy Transition",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://www.nwo.nl/en/calls/system-perspective-on-materials-for-strategic-autonomy-in-the-energy-transition",
+  "executive_summary": "NWA call (programme line 2, Thematic Programming, initiated by the Ministries of Economic Affairs and Climate and of Infrastructure and Water Management and Energy Innovation NL) for one interdisciplinary, knowledge-chain-wide consortium that develops an open methodological framework for the stocks, technical value, future availability and circulation of (critical) materials in the Dutch energy system, including electricity networks. A main applicant from a Dutch research organisation leads; at least one co-applicant and one cooperation partner (a public or private societal stakeholder) are mandatory, and co-funders are optional. Total budget and maximum grant EUR 3,343,000 for a single project of at most 5 years; no co-funding requirement. The main applicant must attend both collaborative workshops (24 November 2026 and 12 January 2027); full proposals are due 13 April 2027, 14:00 CEST, with a decision expected in July 2027.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-04-13",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": 3343000,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "The call funds research into an integrated system perspective on (critical) materials in the energy transition, explicitly including electricity networks, with interoperable data infrastructures and governance approaches (Call for proposals, sections 1.1 and 2.1). It touches TenneT's field because grid expansion is one of the largest material users and stocks in the Dutch energy system, close to the material and supply-chain side of Target Grid 2045, the Grid Investment Plans and the 2GW Program and to the sustainability agenda of the Renewables Grid Initiative. TenneT cannot be main applicant (research organisations only) and it is unclear whether it could be a funded de-minimis co-applicant as a 'societal organisation', but it can join as a mandatory cooperation partner or an optional co-funder in cash or in kind (sections 3.2, 3.2.2, 3.2.3 and 3.6.1). The category is a research-led project in which TenneT takes part without a grant.",
+  "call_type": "Type 2",
+  "category_codes": ["C2.1"],
+  "taxonomy_values": {
+    "topic": ["T9", "T4", "T1"],
+    "role": ["R2", "R9", "R10", "R11"],
+    "activity": ["A2", "A6", "A13"],
+    "outcome": ["O5"]
+  }
+}

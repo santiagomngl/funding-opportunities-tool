@@ -1,0 +1,28 @@
+{
+  "id": "20261117-181152-02",
+  "source": "NWO",
+  "display_title": "New materials and production processes for large-scale energy storage and conversion – Nieuwe materialen en maakprocessen voor grootschalige energieopslag en conversie",
+  "organization_or_parent_framework": "NWO (Dutch Research Council), Domain Science (ENW)",
+  "programme": "Nieuwe materialen en maakprocessen voor grootschalige energieopslag en conversie",
+  "call_title": "New materials and production processes for large-scale energy storage and conversion",
+  "call_module_title": null,
+  "call_year": null,
+  "url": "https://www.nwo.nl/en/calls/new-materials-and-production-processes-for-large-scale-energy-storage-and-conversion",
+  "executive_summary": "Forthcoming NWO call (status 'In preparation', NWO Domain Science) for research into new materials for large-scale energy storage and conversion on time scales of hours, days or weeks and in multi-commodity forms, together with new, scalable production processes for these materials, including transport and storage logistics. Applications should ideally be close to the energy source, such as in or near generation systems, electrical infrastructure and the process industry, or in the built environment; existing large-scale developments such as hydrogen are excluded. Indicative budget EUR 7,000,000 and indicative closing date for full applications 14 May 2027, 14:00, both subject to change. Eligibility, consortium rules, project size and duration have not yet been published.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-05-14",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "The call will fund research into new materials and scalable production processes for large-scale energy storage and conversion, ideally applied near generation systems, electrical infrastructure or the process industry (NWO call page, introduction; Characteristics give an indicative EUR 7,000,000 budget and a 14 May 2027 closing date). It touches TenneT's field because storage close to the grid is a source of flexibility, the theme behind TenneT's time-dependent transmission rights contract with Lion Storage, Grids & Benefits and the CERRE flexibility study, though this call is at materials-research level. The call is in preparation and its call text, with the eligibility and participation rules, is not yet published (page disclaimer), so what was read sets out no route for TenneT. The categories are flexibility and demand that may ease congestion and materials knowledge from university research.",
+  "call_type": "Type 3",
+  "category_codes": ["C3.3", "C3.5"],
+  "taxonomy_values": {
+    "topic": ["T5"],
+    "role": [],
+    "activity": ["A2", "A5"],
+    "outcome": ["O10"]
+  }
+}
