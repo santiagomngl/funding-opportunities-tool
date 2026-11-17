@@ -1,0 +1,28 @@
+{
+  "id": "20261117-181152-04",
+  "source": "NWO",
+  "display_title": "KIC - Circularity of materials, components and structures in offshore wind – Knowledge and Innovation Covenant (KIC)",
+  "organization_or_parent_framework": "NWO (Dutch Research Council), Domains Science (ENW) and Applied and Engineering Sciences (AES)",
+  "programme": "Knowledge and Innovation Covenant (KIC)",
+  "call_title": "KIC - Circularity of materials, components and structures in offshore wind",
+  "call_module_title": null,
+  "call_year": null,
+  "url": "https://www.nwo.nl/en/calls/kic-circularity-of-materials-components-and-structures-in-offshore-wind",
+  "executive_summary": "Forthcoming NWO call under the Knowledge and Innovation Covenant (status 'In preparation', NWO Domains Science and AES; research programme 'Circulariteit van materialen, componenten en constructies in offshore wind') for knowledge development that extends the service life of offshore wind turbines and enables high-value reuse of their materials and components after decommissioning: material degradation and failure mechanisms, design and material innovations for longer life and greater circularity, and strategies for reuse, refurbishment and recycling, combining technological, economic, legal and organisational perspectives. Indicative budget EUR 2,730,000 and indicative closing date for full applications 1 June 2027, 14:00, both subject to change. Eligibility, consortium and co-funding rules, project size and duration have not yet been published.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-06-01",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "The call will fund knowledge development on degradation and failure mechanisms, life extension and the reuse, refurbishment and recycling of offshore wind turbines (NWO call page, introduction; Characteristics give an indicative EUR 2,730,000 budget and a 1 June 2027 closing date). It touches TenneT's field through offshore wind integration (2GW Program, Hollandse Kust) and through degradation and life-extension knowledge for marine structures, as in TenneT's ICCP corrosion-protection project, though the call's object is the turbines, which TenneT does not own. The call is in preparation and its call text, with eligibility and participation rules, is not yet published (page disclaimer), so what was read sets out no route for TenneT. The category is offshore engineering and materials knowledge from university research.",
+  "call_type": "Type 3",
+  "category_codes": ["C3.5"],
+  "taxonomy_values": {
+    "topic": ["T7", "T3", "T9"],
+    "role": [],
+    "activity": ["A2", "A12"],
+    "outcome": ["O5", "O3"]
+  }
+}
