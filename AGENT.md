@@ -9,7 +9,7 @@ In a run, your job is to find the new funding opportunities (FOs) at that source
 | # | Task | Input | Output |
 | --- | --- | --- | --- |
 | 1 | Known Calls | The source name | The known-calls list (may be empty) |
-| 2 | Discovery | The source name, the known-calls list, the source file, the priority projects | One identification note per new candidate, 1 to 5 in all |
+| 2 | Discovery | The source name, the known-calls list, the source file, the priority projects | One identification note per new candidate, 0 to 5 in all |
 | 3 | No Duplicate | The identification notes, the files in `data/fo_records/` | `new` or `duplicate` per candidate, with a one-sentence reason |
 | 4 | Assessment and report | The note of each new candidate, the call documents, the project files, the taxonomy, the call types, the report templates | One `data/fo_records/<id>.json` per new candidate, passed by the gate, and one `data/fo_reports/<id>.json` per new candidate of Type 1, Type 2 or Type 3 |
 
@@ -162,7 +162,7 @@ call_year: 2026
 
 11. Before reading a call in depth, compare it with the known-calls list. If you judge that it is a call already on the list, skip it and move on. There is no fixed match rule: decide from all the fields in the list (title, module, year, programme) whether it is the same call. A new year of a call, or a different module, is a different call. Do not report skipped calls; they do not count towards the limit in rule 13.
 12. Each module of a call that the call explicitly sets up with its own conditions is a separate candidate with its own note.
-13. **Cap: at most 5 new candidates per run.** Keep searching until you have 5 new candidates, then stop, even if more calls remain. Also stop when `completion_rules` say the search of this source is done, or when you have gone through the whole scope; a run may then have fewer than 5. Keep related candidates (such as the modules of one call or the calls of one programme round) together and in the order the call lists them; if a group would take you past 5, take only as many as fit. When the priority searches find new candidates, those are the run's candidates. Calls you leave are found in later runs.
+13. **Cap: at most 5 new candidates per run.** Keep searching until you have 5 new candidates, then stop, even if more calls remain. Also stop when `completion_rules` say the search of this source is done, or when you have gone through the whole scope; a run may then have fewer than 5, or none at all: a source with no new open or forthcoming funding call is a normal result, not a failure (see "Stop" above). Never take a call that fails rule 5 or is already known just to have a candidate. Keep related candidates (such as the modules of one call or the calls of one programme round) together and in the order the call lists them; if a group would take you past 5, take only as many as fit. When the priority searches find new candidates, those are the run's candidates. Calls you leave are found in later runs.
 
 ## Task 3: No Duplicate
 
@@ -934,11 +934,25 @@ These rules apply to every text you write into an FO report: answers and sources
 
 The reader is an engineer, asset manager or project lead, not a funding specialist. They don't know funding terms or programme names.
 
-Test every sentence: does it tell this reader something about this call that they need? If not, improve it.
+The reader also does not know the call. You have read it; they have not. They do not know its structure, its parts, its own labels or the organisations it names, so a phrase that is clear once you know the call can mean nothing to them. And they do not read the report in order: they open the one card they need at that moment. Write every card so it stands on its own:
+
+- **Explain what the reader may not know**, the first time it appears in each card, in a few words in brackets or one short sentence. This covers funding terms, acronyms, programmes, agencies and other organisations, the call's labels for its own parts ("Part 1", "Module B", "Stage 2"), terms the call defines or capitalises ("Member States", "Need Owner"), and relationships (which agency funds whom, which body submits for whom). Explain each one as it applies in this call.
+- **Never rely on another card.** If a card depends on a fact another card explains, repeat that fact in a few words.
+- **Every sentence must say something to this reader.** A sentence that only makes sense to someone who has read the call says nothing: write what it means instead.
+- **Stay brief.** One definition per term, a few words or one sentence, never a paragraph.
+
+**Example**
+
+> **Instead of:** In practice a national cybersecurity authority or CSIRT: Part 1 proposals are described as submitted by Member States. The eligibility rules themselves allow any eligible legal entity to coordinate.
+>
+> **Write:** In practice a national government body for cybersecurity, although the rules let any organisation that may take part in the call also lead it.  
+> The call describes Part 1 projects (one of the call's separate strands, each with its own rules) as submitted by Member States (the national governments of the EU countries). Their lead is therefore expected to be a national cybersecurity authority or a CSIRT (Computer Security Incident Response Team, a team that handles cyber incidents for a country or organisation). The eligibility rules (the conditions an organisation must meet to apply) do not limit the coordinator role to these bodies: any organisation that may take part may coordinate.
+
+Test every sentence: does it tell this reader something about this call that they need, without their having read the call or another card? If not, improve it.
 
 ### 2. Report only what the call says
 
-- Answer from the official call documents: the call text, annexes, national rules, FAQ and official pages. Never answer from general knowledge of the programme or from a search snippet.
+- Answer from the official call documents: the call text, annexes, national rules, FAQ and official pages. Never answer from general knowledge of the programme or from a search snippet. The one exception is a definition (section 1): to explain a term, programme or organisation, you may use your general knowledge, in one sentence at most and consistent with how the call uses it. Never use general knowledge for a fact about the call itself.
 - Keep the call's force. Must stays must, should stays should, may stays may. Do not soften "must" into "is expected to", and do not turn an encouragement into a requirement.
 - A conclusion that follows directly from the call's rules is allowed. State the rule, then the consequence: "…TenneT must therefore finance its own costs."
 - Every card may draw a conclusion for TenneT. Name the fact in the call it rests on, and write "could", not "will". The two judgement cards (TenneT's likely contribution, Why it matters to TenneT) are mainly interpretation.
@@ -1018,6 +1032,7 @@ Use the format that makes the point clear.
 ### 8. Check before saving
 
 - Every first sentence answers its question on its own.
+- Every card makes sense to a reader who has read neither the call nor any other card, and every term, part, organisation or relationship they may not know is explained briefly.
 - After the first sentence, every answer covers each point in its card's row that the call addresses.
 - Each answer tells the reader something they would not get from the call's summary page.
 - Every number has a unit or currency; every deadline has a date and a stage.
