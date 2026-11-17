@@ -1,0 +1,28 @@
+{
+  "id": "20261117-131359-05",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "PowerBoost Open Call – GreenGrid",
+  "organization_or_parent_framework": "Single Market Programme",
+  "programme": "GreenGrid",
+  "call_title": "PowerBoost Open Call",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://docs.google.com/document/d/1R6Kzxgoze-0TMsUwq1s3JzZ9Jw0A6nSU/edit",
+  "executive_summary": "Cascade call issued by the GreenGrid Eurocluster project, funded by the EU Single Market Programme. It gives individual SMEs from EEA and SMP countries, registered for at least one year and active in industrial sectors relevant to the green transition, a lump-sum reimbursement of EUR 2,000 (at least 20% private co-financing) for an innovation audit that identifies their challenges and opportunities in grid flexibility, digitalisation, renewable integration and sustainability, resulting in a Challenge Description Report. The budget covers 50 SMEs; about 30 had been awarded by 30 September 2026. The call works on a rolling basis with no single fixed deadline: after the first cut-off on 3 April 2026, cut-offs fall on the 1st and 15th of each month until the budget is used up or until 31 August 2027 (the next is 1 December 2026). The report is due by 31 October 2027 at the latest.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2026-12-01",
+  "earliest_project_start_date": null,
+  "project_end_date": "2027-10-31",
+  "minimum_project_size": null,
+  "maximum_project_size": 2500,
+  "date_last_checked": "2026-11-17",
+  "status_rationale": "The call funds only an innovation audit in which an SME maps its own energy-related challenges and opportunities to contribute to grid flexibility, digitalisation and renewable integration (Green Grid_PowerBoost Open Call_V2_FINAL, 5. Funded Activities). It touches TenneT's field through industrial flexibility and grid-aware energy use, close to the DataFleX and Grids & Benefits project files, although the result is a planning document for the SME, not a grid solution. TenneT cannot take part: only SMEs may apply, and applicants must have no connection with the GreenGrid consortium (3. Eligibility criteria); the call sets out no role for other organisations. C3.3 fits because the audits prepare SMEs to offer flexible demand and later pilot solutions under the Solution Box scheme. The call works on a rolling basis, with cut-offs on the 1st and 15th of each month until 31 August 2027 or until the budget is used up (2. About PowerBoost Open Call, 2.5–2.6).",
+  "call_type": "Type 3",
+  "category_codes": ["C3.3"],
+  "taxonomy_values": {
+    "topic": ["T5", "T10"],
+    "role": [],
+    "activity": ["A3"],
+    "outcome": ["O10"]
+  }
+}

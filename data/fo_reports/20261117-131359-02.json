@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "An SME's own product, process or digital solution for the solar, offshore wind or energy grid supply chain, developed close to market within six months.\nStrand B is the bottom-up open part of the second RENEW-BOOSTER call (RENEW-BOOSTER is an EU-funded cluster project that passes part of its grant on to SMEs). Unlike Strand A, there are no predefined challenges: the SME proposes its own innovation. It must be at TRL 6–7 (a prototype shown in a realistic setting) and reduce dependence on critical raw materials, diversify supply chains or support the green and digital transition.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · pp. 2–3 · Scope and objectives of the call\nCall_text_RENEW-BOOSTER_Call_2.pdf · p. 8 · Strand B – Open calls"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Product innovation and supply chain diversification within the photovoltaics, offshore wind or energy grids value chains; anything outside these three is ineligible.\n- Energy networks: SF6-free equipment (switchgear without the greenhouse gas SF6), advanced power cables made from recycled materials, tools to optimise energy infrastructure, systems that model, monitor and forecast cable health, and smart grid solutions such as dynamic line rating and predictive maintenance.\n- Offshore wind, especially floating: turbine components and floating platforms, electrical and transmission solutions including cables, substations and offshore grid technologies, materials and manufacturing that use fewer critical raw materials, and solutions for installation, operation and maintenance.\n- Photovoltaics: new cells, modules and materials, plant architectures, recyclability and power electronics.\n- Cross-sector: AI, quantum computing, blockchain and digital twins to optimise energy and environmental performance, energy management systems, predictive analytics and environmental assessment tools.\nExcluded: proposals outside the three value chains, proposals that do not match the strand's objectives, and activities that cause significant environmental harm.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · pp. 2–3 · Scope and objectives of the call\nCall_text_RENEW-BOOSTER_Call_2.pdf · p. 5 · Ineligible proposals"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The project must address Europe's exposure to critical material dependencies and supply chain bottlenecks in clean energy technologies.\nThe call text names wind, solar, grids and energy storage as technologies where recent disruptions and geopolitics have shown this weakness. The need is framed at the level of European industry and society; the applicant SME must also show a concrete market need and a credible route to commercial use. Every proposal must explicitly reference its alignment with the Critical Raw Materials Act and/or the Net-Zero Industry Act (EU laws on secure raw material supply and on manufacturing clean technologies in Europe), for example a CO2 or resource saving or moving part of a value chain into the EU.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · pp. 2, 4 · Background and policy context; Scope and objectives of the call\nCall_text_RENEW-BOOSTER_Call_2.pdf · p. 13 · Evaluation criteria (Impact)"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "A tangible result, such as a prototype, demonstration or deployment, plus a mandatory final deliverable with an impact assessment.\nThe call expects tangible results within a short implementation period. Funding levels can be combined in sequence (prototype, then demonstration, then deployment), leading to a proof of concept or deployment. The final deliverable (slides, technical report or KPI summary) must contain measured or well-justified estimated results and the earnings or savings on the targeted indicators, such as cost reduction, efficiency gains or reduced dependency.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · pp. 2, 8 · Scope and objectives of the call; Strand B – Open calls\nCall_text_RENEW-BOOSTER_Call_2.pdf · p. 12 · Final deliverable requirements"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The project must strengthen the resilience and diversity of European PV, offshore wind and grid supply chains and support the green or digital transition, with measurable indicators.\nThe Impact criterion scores the contribution to supply chain resilience or diversification in these value chains, the green or digital benefits, market relevance with a credible plan for commercialisation, and measurable outcomes with clear indicators. The call links this to the Net-Zero Industry Act target that at least 40% of net-zero technology manufacturing, including electricity grid technologies, takes place in the EU, and to the Critical Raw Materials Act, citing materials such as silica, neodymium and copper. It sets no numeric target per project.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · p. 4 · Scope and objectives of the call (CRMA and NZIA)\nCall_text_RENEW-BOOSTER_Call_2.pdf · p. 13 · Evaluation criteria (Impact)"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "The result must be aimed at market uptake, not an isolated pilot: proposals must show a credible plan for commercialisation or deployment.\nThe call targets SMEs that are close to market uptake and asks for evidence of market relevance and uptake potential. Replication does not have to happen during the project. Beyond the grant, the project offers training, mentoring, matchmaking and access to clusters and customers. The call sets no requirements on standards, interoperability or who must operate the result after the project.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · p. 6 · Co-funding requirements & budget allocation\nCall_text_RENEW-BOOSTER_Call_2.pdf · p. 13 · Evaluation criteria (Impact)\nRENEW-BOOSTER_Call_2_FAQ.pdf · p. 4 · What else than funding can RENEW-BOOSTER provide me with?"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "One to three SMEs: an SME may apply alone or in a consortium of up to three SMEs.\nNo minimum consortium is required.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · p. 5 · Consortia"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "Only SMEs from the EU-27 or other Single Market Programme countries; no other organisation types can be partners.\nEach partner must meet the EU SME definition (fewer than 250 staff and turnover up to EUR 50 million or balance sheet up to EUR 43 million, counting group companies where relevant) and have no conflict of interest with the RENEW-BOOSTER partners. At least 10% of funded SMEs should come from countries other than the project partners' (Denmark, Norway, Poland, France, Bulgaria and Spain), so Dutch SMEs count towards this share.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · pp. 4–5 · Eligibility criteria; Consortia\nRENEW-BOOSTER_Call_2_FAQ.pdf · p. 3 · Eligibility - Who can apply?\nEU Funding & Tenders Portal, RENEW-BOOSTER Eurocluster Call N°2 · Submission & evaluation process"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "The lead SME receives the money and distributes it under a consortium agreement; every funded SME must provide its own co-funding.\nPartners are jointly responsible for the proper use of funds and may be jointly liable under the funding agreement. Each SME may receive at most EUR 60,000 across all RENEW-BOOSTER calls.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · p. 5 · Consortia\nCall_text_RENEW-BOOSTER_Call_2.pdf · p. 11 · Co-funding and grant amounts (indicative)"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "An eligible SME; in a consortium, one of the SMEs acts as coordinator and submits the application.",
+          "sources": "EU Funding & Tenders Portal, RENEW-BOOSTER Eurocluster Call N°2 · Submission & evaluation process\nCall_text_RENEW-BOOSTER_Call_2.pdf · p. 11 · Co-funding and grant amounts (indicative)"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "No. Only SMEs may apply and coordinate, and TenneT TSO B.V. is a large company, not an SME.\nThe call admits only enterprises with fewer than 250 staff and turnover up to EUR 50 million or a balance sheet up to EUR 43 million.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · p. 4 · Eligibility criteria (Applicant type and SME status)"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Not as a formal partner, but TenneT could support an SME applicant from outside, for example as a pilot site or with a letter of intent.\nThe call allows only SMEs in a consortium, so TenneT cannot join one. It does expect new suppliers and diversified supply chains to be validated through pilot testing, and it scores market relevance and uptake potential. This leaves room, in my interpretation, for a grid operator to host a pilot, provide test conditions or data, or confirm interest as a future customer. The call itself does not define such a role, so TenneT would act only through its agreement with the SME.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · p. 3 · Examples of eligible innovations include\nCall_text_RENEW-BOOSTER_Call_2.pdf · p. 5 · Consortia\nCall_text_RENEW-BOOSTER_Call_2.pdf · p. 13 · Evaluation criteria (Impact)"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "No. The financial support goes only to eligible SMEs, so TenneT must finance any contribution it makes itself.\nThe call has no Dutch national rules or separate rate for large companies.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · pp. 4–5 · Eligibility criteria; Consortia"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT could make a grid-technology SME's application credible by offering a realistic test or pilot setting and confirming the need as a potential buyer.\nThis is my judgement. The energy networks topics match TenneT's asset work: cable health monitoring and forecasting, dynamic line rating, predictive maintenance, SF6-free equipment and offshore grid technologies. This fits its Reliability Centered Maintenance approach (condition-based maintenance using drones and sensors), its Digital Twin Programme and its offshore corrosion protection work (ICCP). Useful contributions could be:\n- a letter of intent stating TenneT's interest in testing or buying the solution;\n- access to a substation, cable section or offshore asset for a short pilot, or to anonymised monitoring data;\n- feedback from asset managers on requirements and on the validation of results.\nBecause projects last at most six months, the pilot setting would need to be ready almost immediately after contract signature at the end of January 2027.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · pp. 2–3 · Scope and objectives of the call (Energy networks; Offshore wind)\nCall_text_RENEW-BOOSTER_Call_2.pdf · p. 10 · Timetable and deadlines"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The solution must be new or clearly improved compared with what exists, but it may build on and apply existing technology.\nThe Excellence criterion scores the level of innovation and ambition, including novelty and added value. Eligible examples include new or improved products and services that replace critical materials, new suppliers validated through pilots, process innovations and digital solutions for supply chain monitoring and traceability.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · p. 3 · Examples of eligible innovations include\nCall_text_RENEW-BOOSTER_Call_2.pdf · p. 12 · Evaluation criteria (Excellence)"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Mainly in technology, products and manufacturing processes, with digital solutions and business models also allowed.\nThe FAQ lists technologies, products, services and business models. The call text names product innovation, process innovation in manufacturing, and digital tools such as AI, digital twins, predictive analytics and energy management systems.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · p. 3 · Cross-sectoral innovations; Examples of eligible innovations include\nRENEW-BOOSTER_Call_2_FAQ.pdf · p. 4 · What kind of project can be funded?"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Late-stage development: validation, demonstration and deployment of a solution, not research.\nThe three grant levels (EUR 10,000, 30,000 and 60,000) correspond to increasing project maturity and can be combined in sequence, from prototype to demonstration to deployment, leading to a proof of concept or deployment.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · p. 8 · Strand B – Open calls\nRENEW-BOOSTER_Call_2_FAQ.pdf · p. 5 · Technological Scope and TRL?"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "Projects should be at TRL 6–7 (a prototype shown in a realistic or operational setting); the FAQ says around TRL 6 and up.\nThe call sets no required end level for Strand B.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · p. 2 · Scope and objectives of the call\nRENEW-BOOSTER_Call_2_FAQ.pdf · p. 5 · Technological Scope and TRL?"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "The call does not prescribe a test environment, but it expects validation through pilot testing for new suppliers and diversified supply chains.\nIt leaves the choice of laboratory, pilot or real operating conditions to the applicant, within a project of at most six months.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · p. 3 · Examples of eligible innovations include\nCall_text_RENEW-BOOSTER_Call_2.pdf · p. 10 · Timetable and deadlines"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "The project must prove its results with measurable indicators and report them in a final deliverable with an impact assessment.\nThe final deliverable must contain, at a minimum, measured or well-justified estimated results and the earnings or savings on the targeted indicators, such as cost reduction, efficiency gains, reduced dependency or shorter time to market. The Impact criterion also asks how the indicators will be assessed.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · p. 12 · Final deliverable requirements\nCall_text_RENEW-BOOSTER_Call_2.pdf · p. 13 · Evaluation criteria (Impact)"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "No call-specific safety or cybersecurity rules; the only mandatory condition of this kind is the Do No Significant Harm principle.\nApplicants must confirm through a self-check that the project does not seriously harm EU environmental objectives, for example through significant greenhouse gas emissions, pollution or damage to biodiversity.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · p. 10 · Do No Significant Harm (DNSH) – mandatory principle"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "SMEs can request EUR 10,000, 30,000 or 60,000, for a total project budget of about EUR 14,000 to 120,000.\n- Total project size: about EUR 14,000 to 120,000 per proof of concept, including the SME's co-funding.\n- Grant request: up to EUR 10,000, 30,000 or 60,000 depending on project maturity; at most EUR 60,000 per SME across all RENEW-BOOSTER calls; between 12 and 72 projects will be selected. The whole call (Strands A and B) has EUR 800,000.\n- Funding form: financial support to third parties (cascade funding, where an EU-funded project passes money on to companies) through a sub-grant agreement with the RENEW-BOOSTER consortium.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · p. 8 · Strand B – Open calls\nEU Funding & Tenders Portal, RENEW-BOOSTER Eurocluster Call N°2 · General information (Total funding available)"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "Each funding level requires private SME co-funding of about 30% to 50%, rising with the grant size.\n- Co-financing conditions: co-funding must be the SME's own money or debt; in-kind contributions, personnel costs, salaries and staff time do not count. It applies to each funded SME in a consortium.\n- Evidence required: the SME must show at application that it can provide the co-funding and document it at reporting; applications without a completed co-funding table are not funded.\nThe exact rate per grant level is shown only in an image (Graph 2) in the call text, which could not be read as text.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · pp. 6, 8 · Co-funding requirements & budget allocation; Strand B – Open calls\nCall_text_RENEW-BOOSTER_Call_2.pdf · p. 11 · Co-funding and grant amounts (indicative)"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Applicants must submit separate grant and co-funding budget tables; depreciation is not eligible.\n- Eligible costs: equipment and materials, software and licences, personnel costs (grant budget only), external services and justified subcontracting, other project costs.\n- Caps or mandatory allocations: EUR 60,000 per SME across all RENEW-BOOSTER calls.\n- Excluded costs: depreciation of existing or new equipment, costs unrelated to the project, and costs already funded by other public sources.\n- Overheads and VAT: VAT is eligible only if it cannot be recovered.\n- Subcontracting or equipment: subcontracting must be necessary and consistent with the work plan and budget.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · pp. 6–7 · Eligible Costs; Ineligible Costs"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: a single application through EU Survey by 30 November 2026, 17:00 CET.\n- Stage 1 — Application: 30 November 2026, 17:00 CET; online EU Survey form in English within each text box's character limit; open to single SMEs or consortia of up to three SMEs, with one application per SME in this strand. Applications can be saved and edited until the deadline.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · pp. 5, 8 · Eligibility requirements and deadline; Strand B – Open calls\nEU Funding & Tenders Portal, RENEW-BOOSTER Eurocluster Call N°2 · Submission & evaluation process"
+        },
+        {
+          "title": "Project window",
+          "answer": "A project lasts 3 to 6 months from the signature of the sub-grant agreement, expected at the end of January 2027.\n- Maximum duration: 6 months.\n- Required start: on signature of the sub-grant agreement (the contract between the SME and the RENEW-BOOSTER consortium), indicatively end of January 2027.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · pp. 8, 10 · Strand B – Open calls; Timetable and deadlines"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Results in mid-January 2027 and contracts at the end of January 2027 (both indicative).\n- Expected invitation or assessment result: evaluation in December 2026, results in mid-January 2027 (indicative).\n- Grant agreement: contract signature at the end of January 2027 (indicative).",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · p. 10 · Timetable and deadlines"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "A complete EU Survey application in English with both budget tables and a registered PIC; incomplete applications may be rejected.\n- Application form: EU Survey online form, in English, within the character limits; no annexes beyond those asked for on the platform.\n- Budget: a grant budget table and a co-funding budget table, plus a work plan.\n- Mandatory annexes: signed declarations where applicable, a Financial Identification Form and a Do No Significant Harm self-declaration.\n- Registration: a 9-digit Participant Identification Code (PIC) on the EU Funding & Tenders Portal for every applicant SME.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · pp. 6, 10, 14 · Eligible Costs; Do No Significant Harm (DNSH) – mandatory principle; How to apply\nEU Funding & Tenders Portal, RENEW-BOOSTER Eurocluster Call N°2 · Submission & evaluation process"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Three criteria scored out of 10 each, with at least 6 needed on every criterion; proposals are ranked by total score within the budget.\n- Evaluation criteria: Excellence (novelty, technical soundness, fit with Strand B), Impact (supply chain resilience in PV, offshore wind or grids, green or digital benefits, market uptake, measurable indicators), Quality and efficiency of implementation (work plan, team, budget, risk management).\n- Thresholds: 6 out of 10 per criterion; maximum 30 points.\n- Ranking rules: ties are broken by Impact, then Excellence, then Implementation, then geographical balance; at least 10% of funded SMEs must come from regions outside the partners' countries, with attention to the EU-13 (the countries that joined the EU from 2004 onwards).\n- Budget assessment: budget adequacy and cost-effectiveness are scored; the consortium may leave funds unawarded or move them between strands.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · pp. 12–14 · Evaluation criteria and selection process; Tie-breaking procedure; Evaluation workflow\nEU Funding & Tenders Portal, RENEW-BOOSTER Eurocluster Call N°2 · Further information"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "The final payment depends on a final deliverable with an impact assessment and a feedback questionnaire.\n- Conditional — final payment: a final deliverable with measured or estimated results and savings, plus the completed Single Market Programme feedback questionnaire; without it there is no final payment.\n- Conditional — non-compliance: payments may be suspended if milestones or reports are missed.\n- Exception — applying to both strands: an SME may also apply to Strand A, but only for distinct activities and without double funding.\n- Recommended: the call encourages applicants to read the FAQ and contact the helpdesk; a recorded applicant webinar is available.",
+          "sources": "Call_text_RENEW-BOOSTER_Call_2.pdf · pp. 5, 12, 14–15 · Applications; Final deliverable requirements; Suspension of payments; Support, helpdesk and FAQs"
+        }
+      ]
+    }
+  ]
+}

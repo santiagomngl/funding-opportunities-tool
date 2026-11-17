@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "A new or significantly improved product or service from a mobility, transport or automotive SME that cuts emissions, saves resources or reduces critical raw material use.\nRESIST II is an EU-funded cluster project for the automotive industry that passes part of its grant on to SMEs. The need originates with industry: European mobility SMEs must adapt their products to digitalisation, climate neutrality and pressure on critical raw material supply. The call prioritises projects in four pillars:\n- Net-zero manufacturing and industrial decarbonisation, for example electric drivetrain components, hydrogen mobility technologies, smart charging systems and energy-efficient vehicle subsystems.\n- Circular critical raw materials and resource efficiency, for example electric motors using fewer critical materials, design-for-recycling components and second-life battery products.\n- Digital mobility and smart industrial systems, for example fleet management platforms, predictive maintenance services and digital product passports.\n- Resilient mobility value chains, for example raw material traceability and supply chain monitoring tools.",
+          "sources": "RESIST-Product-Innovation-Guide-for-applicants.pdf · pp. 3, 6–7 · 1. Introduction; 2.2 Objectives and scope"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Projects must deliver measurable environmental and industrial results in the mobility value chain within nine months.\nThe call names lower carbon emissions, better resource efficiency and less dependence on critical raw materials as the expected outcomes, along with circularity, recyclability and more resilient supply chains, all of which are scored under the environmental and material impact criterion. The wider aim is the EU's climate-neutrality target for 2050. The call sets no numeric target; applicants define their own key performance indicators.",
+          "sources": "RESIST-Product-Innovation-Guide-for-applicants.pdf · pp. 3, 6–7 · 1. Introduction; 2.2 Objectives and scope\nRESIST-Product-Innovation-Guide-for-applicants.pdf · pp. 16–17 · 4.2 Evaluation criteria and notification"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "Only SMEs active in mobility, transport or automotive may apply and receive money, alone or with up to two other SMEs.\n- Lead applicant: an SME under the EU definition (fewer than 250 staff and turnover up to EUR 50 million or balance sheet up to EUR 43 million), based in an EU Member State or a country taking part in the Single Market Programme.\n- Sector: the SME must be directly or indirectly active in automotive, rail, waterborne or cycling, shown by its business classification (such as manufacture of electrical equipment, motor vehicles or other transport equipment, land or water transport) or by membership of a mobility cluster.\n- Consortium: up to three SMEs from different NUTS2 regions (EU statistical regions of roughly 0.8 to 3 million people); a project manager is assigned to guide the team.\n- Other organisations: research centres, universities, large technology providers and others may take part only as subcontractors; only SMEs receive funding.\nThe call suits automotive suppliers, e-mobility startups and charging or battery product companies.",
+          "sources": "RESIST-Product-Innovation-Guide-for-applicants.pdf · pp. 7–9 · 2.3 Open call conditions and specifications; 2.4 Who can apply"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": "The product or service must be new or significantly improved compared with what the SME and the market offer; the innovation lies in products and services, not processes.\nEvaluators score the clarity of the innovation, how far it goes beyond existing solutions, the credibility of the technical approach and the improvement over existing goods or services. Process improvements belong to the separate RESIST II Process Innovation Open Call.",
+          "sources": "RESIST-Product-Innovation-Guide-for-applicants.pdf · pp. 3, 16–17 · 1. Introduction; 4.2 Evaluation criteria and notification"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": "The call does not prescribe a test environment, but prototype development, pilot testing and validation are eligible costs.\nSelected SMEs can get technical support from CTAG (a Spanish automotive technology centre), including an assessment of the project and, where relevant, proof-of-concept work on technologies such as IoT, photonics or AI.",
+          "sources": "RESIST-Product-Innovation-Guide-for-applicants.pdf · p. 11 · 2.6 Benefits and eligible costs"
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "The call touches TenneT only at the edge: smart charging systems and second-life batteries are named examples, and both could become flexibility that eases grid congestion.\nThis is my interpretation. TenneT's Grids & Benefits project works on grid-aware charging of electric vehicles; SME products in smart charging or stationary second-life storage could later add controllable demand or storage that grid operators can use. The connection is indirect, because the projects are small (up to EUR 30,000 per SME) and focused on automotive products, not grid operation.\nTenneT cannot take part itself: only SMEs active in the mobility, transport and automotive ecosystem may apply and receive funding, and other organisations may join only as subcontractors.",
+          "sources": "RESIST-Product-Innovation-Guide-for-applicants.pdf · pp. 6–9 · 2.2 Objectives and scope; 2.4 Who can apply"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "Up to EUR 20,000 for a single SME, or up to EUR 30,000 per SME in a project of up to three SMEs.\n- Total project size: up to about EUR 22,200 for a single SME, or about EUR 100,000 for a three-SME project, if the SMEs add only the minimum 10% co-financing (my calculation).\n- Grant request: per SME; at most EUR 60,000 per SME across all RESIST II calls. The call has EUR 800,000 over its two cut-offs, for about 15–20 projects and 25–30 SMEs in total.\n- Funding form: lump sum grants (fixed amounts paid when milestones are achieved), paid as financial support to third parties (cascade funding).",
+          "sources": "RESIST-Product-Innovation-Guide-for-applicants.pdf · pp. 3–5, 7–8 · 1. Introduction; 2.1 Glossary of terms and definitions; 2.3 Open call conditions and specifications"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "The grant covers up to 90% of project costs; each project must add at least 10% of its total cost in cash.\n- Co-financing conditions: co-financing must be explained in the application and justified in the final report, and cannot be in kind.",
+          "sources": "RESIST-Product-Innovation-Guide-for-applicants.pdf · p. 8 · 2.3 Open call conditions and specifications\nEU Funding & Tenders Portal, RESIST II Product Innovation Open Call · Further information"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Eligible costs are external services, equipment, personnel and prototype or pilot work, all within the nine-month implementation period.\n- Eligible costs: external services and procurement (testing, certification, consulting, specialised technical services), equipment, components and consumables, personnel costs of staff directly involved, and prototype development, pilot testing and validation; costs of experts from the project's catalogue may also be eligible.\n- Excluded costs: activities before the official start or after the end date.",
+          "sources": "RESIST-Product-Innovation-Guide-for-applicants.pdf · pp. 11–12 · 2.5 Timeline; 2.6 Benefits and eligible costs"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage per cut-off; the first cut-off closed on 13 July 2026 and the second is expected to open in May 2027.\n- Second cut-off — Application: expected to open in May 2027; the guide gives no closing date. The EU Funding & Tenders Portal listing shows 13 July 2027, 17:00 Brussels time, but the project's own guide does not confirm it. Submission is through the RESIST II online platform, in English, with the Resilience Check and Declaration of Honour attached; an application cannot be changed after submission.",
+          "sources": "RESIST-Product-Innovation-Guide-for-applicants.pdf · pp. 3, 10, 13–14 · 1. Introduction; 2.5 Timeline; 3.1 Overall process; 3.3 Submission rules\nEU Funding & Tenders Portal, RESIST II Product Innovation Open Call · General information"
+        },
+        {
+          "title": "Project window",
+          "answer": "Projects run for at most nine months and may start only after the funding agreement is signed.\n- Maximum duration: 9 months.\n- Required start: after signature of the funding agreement with the RESIST II project; the guide gives no dates for the second cut-off (the first cut-off's projects run from October 2026 to June 2027).\n- Eligible-cost period: only costs within the implementation period set in the funding agreement are eligible.",
+          "sources": "RESIST-Product-Innovation-Guide-for-applicants.pdf · pp. 10–11, 19 · 2.5 Timeline; 5.1 Contract signature"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "A complete online proposal in English with a Resilience Check and a Declaration of Honour; incomplete or late applications are rejected.\n- Application form: project presentation, partners, objectives, activities, expected results, key performance indicators, timeline and budget summary on the RESIST II platform.\n- Mandatory annexes: the Resilience Check (a self-assessment of the SME's strengths and weaknesses in sustainability, resilience and resource efficiency) and the Declaration of Honour.\n- Partner documents: a statement of any other cascade funding applied for or received, to avoid double funding.",
+          "sources": "RESIST-Product-Innovation-Guide-for-applicants.pdf · pp. 13–15 · 3.1 Overall process; 3.2 Application information and other documentation; 3.3 Submission rules"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "At least three independent experts score four weighted criteria from 0 to 5; proposals need at least 60% of the total score and are then ranked.\n- Evaluation criteria: level of innovation; environmental and material impact; feasibility and quality of the work plan; capacity of the applicant and market relevance.\n- Thresholds: at least 60% of the total weighted score (12 out of 20).\n- Ranking rules: ties are broken by work plan, then environmental impact, then innovation, then applicants from countries outside the consortium; at least 10% of beneficiaries must come from outside Poland, Ukraine, Czechia, France and Spain, and collaborative proposals across NUTS2 regions get special attention.\n- Final validation: the RESIST II consortium validates the selection in its Steering Committee.",
+          "sources": "RESIST-Product-Innovation-Guide-for-applicants.pdf · pp. 5–6, 16–18 · 2.1 Glossary of terms and definitions (Score); 4.1 Evaluation by independent experts; 4.2 Evaluation criteria and notification; 4.3 Final selection & Redress process"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    }
+  ]
+}
