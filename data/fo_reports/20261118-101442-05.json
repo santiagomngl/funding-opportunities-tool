@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "One EU expert network and knowledge base covering every raw material screened in the EU's 2027 critical raw materials assessment, to support EU policy.\nCritical raw materials are materials the EU considers economically important and at risk of supply problems, listed under the Critical Raw Materials Act (the 2024 EU law on secure and sustainable supply of these materials). The network must cover, for each screened material, primary and secondary resources; exploration, mining, processing, recycling and refining; substitution; markets; future demand and supply; supply-risk management and stress tests; material flows; standardisation; environmental footprint; socio-economic analysis; and strategic end-use sectors, including batteries, e-mobility, renewable energy, electronics, security and aerospace. It must update the factsheets for all screened materials, to be finalised by the end of 2029.\nThe need comes from EU and national policy makers and from producers and users of raw materials, who need better data for decisions.",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 106–107 · HORIZON-CL4-2027-01-MAT-PROD-17, Expected Outcome and Scope"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The project should give EU and national decision makers, producers and users better data on raw materials, and help draw up the next EU list of critical raw materials.\n- Stronger EU expert capacity across many raw materials and the whole value chain\n- Better-informed decisions on supply and demand of raw materials and their environmental and social aspects\n- Improved EU official statistics and knowledge base on primary and secondary raw materials\n- Support to implementing the Critical Raw Materials Act, including the new list of critical raw materials and their applications\nNo numerical targets are set.",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 106–107 · HORIZON-CL4-2027-01-MAT-PROD-17, Expected Outcome and Scope"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "Raw-materials experts: geological surveys, research institutes, universities and consultancies with knowledge of materials markets and value chains.\n- Lead applicant: any eligible organisation; the topic sets no rule\n- Eligible countries: only legal entities established in EU Member States, Associated Countries, OECD countries, African Union Member States, MERCOSUR, CARIFORUM, the Andean Community, and countries with EU strategic partnerships or trade agreements containing raw-materials cooperation; entities controlled from other countries are excluded\n- Consortium: as a Coordination and Support Action (a grant for coordination and support rather than research), it may be submitted by one or more legal entities\n- Distribution of work: a dedicated work package or task for clustering with other projects is required\nThe call suits organisations that already hold raw-materials data and expertise.",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 104–106 · HORIZON-CL4-2027-01-MAT-PROD-17, Specific conditions\nwp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 106–107 · HORIZON-CL4-2027-01-MAT-PROD-17, Expected Outcome and Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 13 · B — Eligibility, Consortium composition"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": "The project must improve data and analysis rather than develop technology.\nIt should improve data and knowledge on all screened materials, analyse future supply and demand, environmental footprint, technology gaps and innovation potential along the value chains, and update the factsheets from the previous criticality exercise.",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 106–107 · HORIZON-CL4-2027-01-MAT-PROD-17, Expected Outcome and Scope"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": "No technical demonstration is involved; the work must be validated with experts and coordinated with the European Commission.\n- Two expert validation workshops in 2029 to support the EU criticality assessment and validate draft factsheets\n- In-depth workshops with commodity experts on strategic metals for renewable energy, e-mobility, aerospace and security\n- Coordination with the Commission on events and EU policy planning; data shared with the Commission free of charge\n- Clustering with other selected projects, with a dedicated work package or task",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 106–107 · HORIZON-CL4-2027-01-MAT-PROD-17, Expected Outcome and Scope"
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "The network's data on critical raw materials for renewable-energy and electrical value chains could inform EU supply-security policy that affects the equipment TenneT's grid build-out needs.\nOur judgement: TenneT depends on suppliers of cables, transformers, converters and other equipment whose production uses critical and strategic raw materials, so better EU data and policy on supply risks could help secure the supply chain for programmes such as the 2GW Program and Target Grid 2045. The topic does not name electricity grids, so this link is our interpretation. TenneT cannot take part itself in a meaningful way: the work is done by raw-materials experts for the Commission, and the topic sets out no role for an equipment user or grid operator.",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 106–107 · HORIZON-CL4-2027-01-MAT-PROD-17, Expected Outcome and Scope"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "Around EUR 3 million of EU funding for one project, the whole topic budget.\n- Grant request: around EUR 3 million, but other amounts are not excluded\n- Total project size: equal to the grant in principle, as the funding rate is 100%\n- Funding form: lump sum (a fixed amount agreed at the start and paid against completed work packages, not against actual costs)",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 104–106 · HORIZON-CL4-2027-01-MAT-PROD-17, Specific conditions\nwp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 17–18 · Call - INDUSTRY (HORIZON-CL4-2027-01), Overview of this call"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "All beneficiaries are funded at 100% of eligible costs, built into the lump sum; no co-financing is required.\n- Co-financing conditions: none set by the topic",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 31–33 · G — Legal and financial set-up of the grant agreements\nwp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 104–106 · HORIZON-CL4-2027-01-MAT-PROD-17, Specific conditions"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Resources must be earmarked for clustering with other projects.\n- Caps or mandatory allocations: a dedicated work package or task, with appropriate resources, for cross-project cooperation, joint meetings and communication events",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 106–107 · HORIZON-CL4-2027-01-MAT-PROD-17, Expected Outcome and Scope"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: a full proposal by 2 February 2027, 17:00 Brussels time, through the Funding & Tenders Portal.\n- Stage 1 — Full proposal: open since 13 October 2026; deadline 2 February 2027, 17:00 Brussels time; up to 28 pages for the technical part, because this is a lump-sum Coordination and Support Action; only entities from the eligible countries may take part",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 17–18 · Call - INDUSTRY (HORIZON-CL4-2027-01), Overview of this call\nFunding & Tenders Portal topic page HORIZON-CL4-2027-01-MAT-PROD-17 · General information and Topic updates\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 4 · A — Admissibility conditions, Page limits\nwp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 104–106 · HORIZON-CL4-2027-01-MAT-PROD-17, Specific conditions"
+        },
+        {
+          "title": "Project window",
+          "answer": "The project must run at least until the factsheets are finalised at the end of 2029.\n- Completion deadline: factsheets finalised by the end of 2029, possibly fine-tuned before publication expected in 2030; expert validation workshops in 2029",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 106–107 · HORIZON-CL4-2027-01-MAT-PROD-17, Expected Outcome and Scope"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Applicants should hear the result about 5 months after the deadline and sign the grant about 8 months after it (indicative).\n- Expected invitation or assessment result: around July 2027 (indicative)\n- Grant agreement: around October 2027 (indicative)",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 30 · F — Procedure, Indicative timetable"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "A standard Horizon Europe Coordination and Support Action application with a detailed lump-sum budget table.\n- Application form: Horizon Europe CSA form in the Funding & Tenders Portal, technical part up to 28 pages\n- Budget: detailed lump-sum budget table\n- Registration: every beneficiary, affiliated entity and associated partner needs a participant identification code (PIC)",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 4 · A — Admissibility conditions, Page limits\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 36 · E — Documents, notes on registration and consortium roles\nwp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 104–106 · HORIZON-CL4-2027-01-MAT-PROD-17, Specific conditions"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Proposals are scored on Excellence, Impact and Implementation, each out of 5, with a threshold of 3 per criterion and 10 overall.\n- Ranking rules: only one project is expected to be funded",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 26 · D — Award criteria, Scores and weighting\nwp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 17–18 · Call - INDUSTRY (HORIZON-CL4-2027-01), Overview of this call"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Strict country and control rules apply, and results are subject to EU objection rights.\n- Conditional — country of establishment: proposals with any legal entity outside the eligible countries are ineligible\n- Conditional — foreign control: entities in eligible countries that are directly or indirectly controlled by a non-eligible country or entity may not take part\n- Conditional — transfer of results: up to 4 years after the project ends, the granting authority may object to a transfer of ownership or exclusive licensing of results\n- Conditional — data: all data and information produced must be shared with the Commission free of charge",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 104–106 · HORIZON-CL4-2027-01-MAT-PROD-17, Specific conditions\nwp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 106–107 · HORIZON-CL4-2027-01-MAT-PROD-17, Expected Outcome and Scope"
+        }
+      ]
+    }
+  ]
+}

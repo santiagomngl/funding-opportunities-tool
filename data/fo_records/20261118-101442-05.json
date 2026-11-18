@@ -1,0 +1,35 @@
+{
+  "id": "20261118-101442-05",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-CL4-2027-01-MAT-PROD-17 Expert network on Critical raw materials (CSA) – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "INDUSTRY (HORIZON-CL4-2027-01)",
+  "call_module_title": "HORIZON-CL4-2027-01-MAT-PROD-17 Expert network on Critical raw materials (CSA)",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-01-MAT-PROD-17",
+  "executive_summary": "Horizon Europe Coordination and Support Action (Cluster 4, INDUSTRY call) that funds one EU expert network covering all raw materials screened in the 2027 EU critical raw materials assessment: data, factsheets, supply and demand analysis, environmental footprint and strategic end-use value chains including batteries, e-mobility and renewable energy, with expert validation workshops in 2029 supporting the Critical Raw Materials Act. Participation is limited to legal entities established in EU Member States, associated countries, OECD countries and certain partner regions, and not controlled from other countries; the lump-sum grant covers 100% of costs. Budget EUR 3 million for 1 project. Open since 13 October 2026; single-stage deadline 2 February 2027, 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-02-02",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "Horizon Europe Work Programme 2026-2027 Part 7 (Digital, Industry and Space), pp. 104–106 (HORIZON-CL4-2027-01-MAT-PROD-17, Eligibility conditions, Expected Outcome and Scope), funds an expert network and knowledge base on critical raw materials for EU policy, including their use in renewable-energy value chains. It touches TenneT's field through the supply of materials for grid and renewable-energy equipment, which affects the availability of cables, transformers and converters that TenneT's grid projects such as the 2GW Program and Target Grid 2045 depend on; this link is our interpretation, as the topic does not name electricity grids. The work is done by raw-materials experts for the Commission, and the topic sets out no role for an equipment user or grid operator, so it establishes no route for TenneT: Type 3 with C3.1. No project start, end or duration is stated, so both project dates are null.",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.1"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T9"
+    ],
+    "role": [],
+    "activity": [
+      "A2",
+      "A13"
+    ],
+    "outcome": []
+  }
+}

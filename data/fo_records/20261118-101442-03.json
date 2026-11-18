@@ -1,0 +1,35 @@
+{
+  "id": "20261118-101442-03",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-INFRA-2027-SERV-01-01 Access to research infrastructures, their resources and services: large-scale pilots for more integrated scheme across (sub)domains – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "Research Infrastructures 2027 (HORIZON-INFRA-2027-01)",
+  "call_module_title": "HORIZON-INFRA-2027-SERV-01-01 Access to research infrastructures, their resources and services: large-scale pilots for more integrated scheme across (sub)domains",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-INFRA-2027-SERV-01-01",
+  "executive_summary": "Horizon Europe Research and Innovation Action (Research Infrastructures, Destination INFRASERV) that funds about three large 'access programme like' pilots in which research infrastructures give researchers and innovators free trans-national and virtual access to their services, one per area; Area 3 covers the ESFRI domains Environment and Energy. Consortia must include at least two ESFRI Landmarks and/or ERICs as beneficiaries, may pass grants of up to EUR 300,000 each to third-party research infrastructures that provide access, and are funded at 100% of eligible costs, with access costs possibly as unit costs. The topic budget is EUR 105 million, around EUR 35 million per project. Opens 9 March 2027; single-stage deadline 15 June 2027, 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-06-15",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "Horizon Europe Work Programme 2026-2027 Part 3 (Research Infrastructures), pp. 61–66 (HORIZON-INFRA-2027-SERV-01-01, Specific conditions, Expected Outcome and Scope), funds large pilots in which research infrastructures provide free access to researchers and innovators, with Area 3 covering the Environment and Energy domains. It touches TenneT's field only through the Energy domain, where energy research infrastructures could serve grid-related research; no project file is close, the nearest being the test-environment work of NFDTES, and this connection is our interpretation. TenneT TSO B.V. is not a research infrastructure and so not a realistic beneficiary or third-party access provider, but the Specific Features for Research Infrastructures (Part 3, pp. 116–117) give selected user groups, 'including from industry', access free of charge, so TenneT could take part as an unfunded user of a research-led project: Type 2 with C2.1. No project start, end or duration is stated, so both project dates are null.",
+  "call_type": "Type 2",
+  "category_codes": [
+    "C2.1"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T7"
+    ],
+    "role": [],
+    "activity": [
+      "A2",
+      "A8"
+    ],
+    "outcome": []
+  }
+}

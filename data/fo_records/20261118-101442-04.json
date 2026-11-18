@@ -1,0 +1,35 @@
+{
+  "id": "20261118-101442-04",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-CL4-2027-01-MAT-PROD-47 Pilot access schemes to Technology Infrastructures for European startups, scaleups and innovative SMEs (CSA) – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "INDUSTRY (HORIZON-CL4-2027-01)",
+  "call_module_title": "HORIZON-CL4-2027-01-MAT-PROD-47 Pilot access schemes to Technology Infrastructures for European startups, scaleups and innovative SMEs (CSA)",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-01-MAT-PROD-47",
+  "executive_summary": "Horizon Europe Coordination and Support Action (Cluster 4, INDUSTRY call) that funds pilot multi-site access schemes giving startups, scaleups and innovative SMEs quick, centrally managed and funded access to Technology Infrastructures (test, pilot and validation facilities) in a priority area such as advanced materials, clean energy, or health and biotechnology. Standard Horizon Europe CSA eligibility applies; the lump-sum grant covers 100% of costs. The topic budget is EUR 5 million for 2 projects of EUR 1.5–2.5 million each. Open since 13 October 2026; single-stage deadline 2 February 2027, 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-02-02",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "Horizon Europe Work Programme 2026-2027 Part 7 (Digital, Industry and Space), pp. 82–83 (HORIZON-CL4-2027-01-MAT-PROD-47, Expected Outcome and Scope), funds pilot access programmes that let startups, scaleups and innovative SMEs test, upscale and validate new technologies at Technology Infrastructures, with clean energy named as a possible priority area. It touches TenneT's field because a clean-energy scheme could help startups validate grid-related products that TenneT may later buy; no project file is close, and this connection is our interpretation. The access is meant for startups, scaleups and innovative SMEs, and the consortium is built from Technology Infrastructure operators, so the topic sets out no route for a large grid operator: Type 3 with C3.2. No project start, end or duration is stated, so both project dates are null.",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.2"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T7"
+    ],
+    "role": [],
+    "activity": [
+      "A8",
+      "A16"
+    ],
+    "outcome": []
+  }
+}
