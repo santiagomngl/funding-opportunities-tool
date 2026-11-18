@@ -1,0 +1,41 @@
+{
+  "id": "20261118-081514-04",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-MISS-2026-07-CROSS-04 Demonstrating place-based experimentation and innovation spaces as enabling environments for scaling EU Missions – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "Cross-cutting activities (HORIZON-MISS-2026-07)",
+  "call_module_title": "HORIZON-MISS-2026-07-CROSS-04 Demonstrating place-based experimentation and innovation spaces as enabling environments for scaling EU Missions",
+  "call_year": 2026,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-07-CROSS-04",
+  "executive_summary": "Horizon Europe Innovation Action under the EU Missions work programme that funds territories (countries, regions and interregional partnerships) to co-develop and demonstrate governance, regulatory-experimentation, financing and procurement models that remove barriers to scaling proven solutions for one or more of the five EU Missions, including the Climate-Neutral and Smart Cities Mission. Consortia should be led by local authorities and follow the standard Horizon Europe composition of at least three independent entities from three different Member States or associated countries; the Joint Research Centre supports the selected projects. Budget-based grant at up to 70% of eligible costs (100% for non-profit entities), around EUR 1–1.5 million per project from a topic budget of EUR 3.62 million for about three projects. Opened 6 October 2026; single-stage deadline 13 January 2027, 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-01-13",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": 2142857,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "Horizon Europe Work Programme 2026–2027 Part 12 (Missions), pp. 253–256 (HORIZON-MISS-2026-07-CROSS-04, Specific conditions, Expected Outcome and Scope), funds local-authority-led consortia that test policy, regulatory, financing and governance models to scale proven Mission solutions, explicitly against barriers such as fragmented regulation and insufficient cross-sector coordination. It touches TenneT's field only where a territory chooses the Climate-Neutral and Smart Cities Mission and grid capacity is the barrier to scaling, which is close to Energy boards (regional coordination of the energy transition and grid congestion with DSOs and governments); the topic names no energy measure, so this connection is our interpretation. The topic only says consortia should be led by local authorities, and General Annexes B and G (pp. 4–5, 13, 31) let TenneT TSO B.V. be a funded partner at the Innovation Action rate of 70%: Type 1 with C1.3. Both project dates are null because the topic states no start, end or duration.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T5"
+    ],
+    "role": [
+      "R2",
+      "R12"
+    ],
+    "activity": [
+      "A13",
+      "A15",
+      "A16"
+    ],
+    "outcome": [
+      "O7"
+    ]
+  }
+}

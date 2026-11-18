@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "Paid fellowships that let individual European experts contribute to international ICT standards, in this round mainly on data, cloud and edge computing and data interoperability.\nStandICT.eu 2029 is an EU-funded project (an ICT Standardisation Observatory and Support Facility in Europe) that passes part of its Horizon Europe grant to individual experts through six open calls running until August 2027. Open Call 4 is the fourth of these. Each fellowship pays an expert to do concrete work in a standards development organisation (SDO, a body such as ETSI, CEN-CENELEC, ISO/IEC or ITU that writes technical standards): drafting or commenting on standards, attending working-group meetings, acting as chair, convenor or rapporteur, or paying membership fees.\nThe need behind the call is a European policy one: the EU wants more European experts, especially from SMEs, research, academia and civil society, to take part in and lead global ICT standards work, so that Europe's position in global standardisation is stronger.\nFor Open Call 4 the project names priority topics: data economy, cloud and edge computing and data interoperability, in particular work supporting the EU Data Act and the Minimum Interoperability Mechanisms (MIMs, a common set of interfaces for sharing data between cities and other parties), for the committees ETSI TC DATA, CEN/CLC JTC25, ISO/IEC JTC1 SC38 and ITU-T SG20. Applications on any topic of the EU Rolling Plan for ICT Standardisation are also accepted and, according to the guidelines, of equal merit; the list includes smart grids and smart metering, cybersecurity, Internet of Things and artificial intelligence.",
+          "sources": "StandICT.eu Open Call 4 web page (standict.eu/open-call/open-call-4) · Priority topics for Open Call 4; Possible Topics\nGuidelines for Applicants to Fellowship – StandICT.eu Open Calls (Guidelines_Applicant_Nov2025.pdf) · p. 2 · Introduction\nGuidelines for Applicants to Fellowship – StandICT.eu Open Calls (Guidelines_Applicant_Nov2025.pdf) · p. 3 · 1. Type of contributions\nGuidelines for Applicants to Fellowship – StandICT.eu Open Calls (Guidelines_Applicant_Nov2025.pdf) · pp. 7–8 · 6. Open call topics"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Funded fellows should strengthen Europe's influence in global ICT standards, and their results feed EU standardisation policy.\nThe guidelines state the aim as helping to create a fully integrated European standardisation ecosystem and strengthening Europe's position in global standardisation. Evaluators score impact on support to EU policy priorities in the ICT field, alignment with the Rolling Plan for ICT Standardisation topics, contribution to ICT standardisation and leadership roles in SDO working groups. Fellows' final reports must describe their impact on the European ICT standards community, on SMEs and on society. The call sets no numerical targets.",
+          "sources": "Guidelines for Applicants to Fellowship – StandICT.eu Open Calls (Guidelines_Applicant_Nov2025.pdf) · p. 2 · Introduction\nGuidelines for Applicants to Fellowship – StandICT.eu Open Calls (Guidelines_Applicant_Nov2025.pdf) · p. 6 · 5. Criteria for evaluation\nGuidelines for Applicants to Fellowship – StandICT.eu Open Calls (Guidelines_Applicant_Nov2025.pdf) · pp. 10–11 · Monitoring of the funded fellows"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "Individual standardisation experts living in an EU Member State or a Horizon Europe associated country, working in industry, SMEs, research, academia or associations.\n- Lead applicant: for the long-term and short-term fellowships offered in this call, the applicant must be an individual (a natural person), not an organisation. There is no consortium and no sharing of work between partners.\n- Background: the applicant may work in the public or private sector, in industry and service companies including SMEs and start-ups, in academia and research, or in national and European associations, including consumer NGOs.\n- Experience: the target is specialists with proven experience in standards work (earlier contributions, membership of SDO groups, chair roles) and deep knowledge of the chosen topic, but first-timers are also welcome and can join the project's mentorship programme.\n- No double funding: the proposed activity must not already be paid for by other instruments, such as EU or national research projects.\n- Limit: an expert can be funded for at most EUR 50,000 in total across all calls of this edition, which ends on 30 September 2028.\nThe call therefore suits engineers and researchers at suppliers, consultancies, universities and research institutes who already sit, or want to sit, in data, cloud, interoperability or smart-grid standards committees. A separate pilot strand for organisations that host standardisation meetings in Europe is described in the guidelines, but it is expected to start later and is not what this call offers.",
+          "sources": "Guidelines for Applicants to Fellowship – StandICT.eu Open Calls (Guidelines_Applicant_Nov2025.pdf) · pp. 3–5 · 1. Type of contributions; 3. Criteria for receiving financial support\nGuidelines for Applicants to Fellowship – StandICT.eu Open Calls (Guidelines_Applicant_Nov2025.pdf) · p. 6 · 5. Criteria for evaluation (eligibility conditions)\nStandICT.eu Open Call 4 web page (standict.eu/open-call/open-call-4) · Open Call 4"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": "The call funds contributions to standards, not new technology: the expert must advance a standard or standards document, not build a product.\nWhat counts is the quality and necessity of the proposed standardisation work, its technical soundness and the applicant's understanding of the current standards landscape (Excellence criterion). The innovation lies in the content of the standards: specifications, interfaces and procedures that let systems from different parties work together. Continuation of earlier funded fellowships is allowed only if the new application shows clear progress and new activities; copied applications may be penalised.",
+          "sources": "Guidelines for Applicants to Fellowship – StandICT.eu Open Calls (Guidelines_Applicant_Nov2025.pdf) · p. 4 · 3. Criteria for receiving financial support\nGuidelines for Applicants to Fellowship – StandICT.eu Open Calls (Guidelines_Applicant_Nov2025.pdf) · p. 6 · 5. Criteria for evaluation"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": "No demonstration is required; the work must take place inside the working groups of international standards bodies.\nFellows work through the meetings, drafts and comment rounds of an SDO working group or technical committee. Long-term fellows report at mid-term and at the end, short-term fellows only at the end, through the TRUST-GRANTS platform (the project's online grants system). Their work is published in the project's EUOS repository of standards, on the project website and on social media, and fellows must acknowledge the EU funding in publications.",
+          "sources": "Guidelines for Applicants to Fellowship – StandICT.eu Open Calls (Guidelines_Applicant_Nov2025.pdf) · p. 3 · 1. Type of contributions\nGuidelines for Applicants to Fellowship – StandICT.eu Open Calls (Guidelines_Applicant_Nov2025.pdf) · pp. 10–12 · B. Guidance for the Funded Fellows"
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "The call can pay experts to work on the data-interoperability and smart-grid standards that TenneT's grid data exchange relies on, but TenneT itself cannot apply.\nGrid operation increasingly depends on data shared between TSOs, DSOs, market parties and suppliers. This call's priority topics (data interoperability, data economy and cloud and edge computing) and the eligible topic smart grids and smart metering are the areas where common data and interface standards are written. Fellows funded here could strengthen European input in committees whose results matter for TenneT's data-sharing and interoperability work, such as InterOPERA (making HVDC equipment from different suppliers work together) and TwinEU (federated grid data across borders). TenneT could point suppliers, university partners or researchers it works with to the call.\nTenneT cannot take part itself: section 3 of the guidelines requires applicants for these fellowships to be individuals, so there is no route for TenneT TSO B.V. as an organisation, even though a TenneT employee could apply in a personal capacity.",
+          "sources": "Guidelines for Applicants to Fellowship – StandICT.eu Open Calls (Guidelines_Applicant_Nov2025.pdf) · p. 4 · 3. Criteria for receiving financial support\nGuidelines for Applicants to Fellowship – StandICT.eu Open Calls (Guidelines_Applicant_Nov2025.pdf) · pp. 7–8 · 6. Open call topics\nStandICT.eu Open Call 4 web page (standict.eu/open-call/open-call-4) · Priority topics for Open Call 4"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "Fellowships of up to EUR 10,000 (long-term) or EUR 5,000 (short-term) per expert, paid as a lump sum.\n- Total project size: long-term contribution up to EUR 10,000 over at most 9 months; short-term contribution up to EUR 5,000 over at most 3 months. The maximum may not be exceeded.\n- Grant request: per individual expert; across all six calls of this edition, an expert can receive at most EUR 50,000. For long-term and short-term fellowships in all six calls together, about EUR 4 million is available; the portal lists EUR 650,000 for Open Call 4.\n- Funding form: lump sum (a fixed amount paid against delivered and validated results, without timesheets or invoices).",
+          "sources": "Guidelines for Applicants to Fellowship – StandICT.eu Open Calls (Guidelines_Applicant_Nov2025.pdf) · p. 3 · 1. Type of contributions\nGuidelines for Applicants to Fellowship – StandICT.eu Open Calls (Guidelines_Applicant_Nov2025.pdf) · p. 4 · 3. Criteria for receiving financial support\nGuidelines for Applicants to Fellowship – StandICT.eu Open Calls (Guidelines_Applicant_Nov2025.pdf) · p. 10 · Financial aspects\nFunding & Tenders Portal cascade call page 46950864 · Open Call 4 - Short Term and Long Term Funding to support ICT standardisation · budget"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "The guidelines set no funding rate or co-financing: the fellowship is a fixed amount for the costs the expert budgets.\n- Co-financing conditions: if part of the standardisation activity is already paid by other sources, those items are not eligible; the funding is a gross amount, and the fellow is responsible for any tax due in their country.",
+          "sources": "Guidelines for Applicants to Fellowship – StandICT.eu Open Calls (Guidelines_Applicant_Nov2025.pdf) · p. 5 · 4. Eligible costs\nGuidelines for Applicants to Fellowship – StandICT.eu Open Calls (Guidelines_Applicant_Nov2025.pdf) · p. 10 · Information about taxes related to the funding"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Only four cost types may be budgeted, and personal effort is capped at EUR 450 a day.\n- Eligible costs: personal working effort, travel costs, event registration fees and membership fees for standards organisations.\n- Caps or mandatory allocations: personal working effort may not exceed the EU maximum daily rate of EUR 450.\n- Excluded costs: items or activities already funded from other resources.",
+          "sources": "Guidelines for Applicants to Fellowship – StandICT.eu Open Calls (Guidelines_Applicant_Nov2025.pdf) · p. 5 · 4. Eligible costs"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "Payment normally comes only at the end of the fellowship, after the results are validated.\n- Payment model: Trust-IT Services (the partner handling finances) pays at the end based on the results promised in the application; a prepayment is possible only with a justification linked to a milestone, such as the interim report, and evidence such as travel receipts. Processing takes 2 to 5 weeks, then 5 to 7 working days for the transfer; paperwork supplied as a company takes longer.",
+          "sources": "Guidelines for Applicants to Fellowship – StandICT.eu Open Calls (Guidelines_Applicant_Nov2025.pdf) · p. 10 · Financial aspects"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One online stage: submit through the TRUST-GRANTS platform between 9 November 2026, 09:00, and 8 January 2027, 17:00.\n- Stage 1 — Application: 8 January 2027, 17:00; complete application form, updated CV; open to individuals residing in an EU Member State or Horizon Europe associated country. Drafts can be saved and edited until the closing date.\n- Additional procedure: eligibility screening by the project consortium, then scoring by three independent evaluators from the project's external pool, with quality control by a fourth.",
+          "sources": "StandICT.eu Open Call 4 web page (standict.eu/open-call/open-call-4) · Open Call 4 dates\nGuidelines for Applicants to Fellowship – StandICT.eu Open Calls (Guidelines_Applicant_Nov2025.pdf) · p. 4 · 2. Process and timing of Open Call for Applications\nGuidelines for Applicants to Fellowship – StandICT.eu Open Calls (Guidelines_Applicant_Nov2025.pdf) · pp. 8–9 · 7. How to apply"
+        },
+        {
+          "title": "Project window",
+          "answer": "Long-term fellowships last at most 9 months and short-term ones at most 3 months, and may start as early as the day the application is created.\n- Maximum duration: 9 months (long-term) or 3 months (short-term).\n- Required start: no earlier than the creation date of the application on the TRUST-GRANTS platform; the start may come before the evaluation results are announced.\n- Completion deadline: the edition ends on 30 September 2028.",
+          "sources": "Guidelines for Applicants to Fellowship – StandICT.eu Open Calls (Guidelines_Applicant_Nov2025.pdf) · p. 3 · 1. Type of contributions\nGuidelines for Applicants to Fellowship – StandICT.eu Open Calls (Guidelines_Applicant_Nov2025.pdf) · p. 4 · 3. Criteria for receiving financial support\nGuidelines for Applicants to Fellowship – StandICT.eu Open Calls (Guidelines_Applicant_Nov2025.pdf) · p. 5 · 3.1 Fellowship timeline"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Results are expected about 35 days after the call closes, with access to the evaluators' consensus report.\n- Expected invitation or assessment result: about 35 days after the 60-day call period, so indicatively mid-February 2027 (our estimate from the stated process length).\n- Conditions before starting: successful applicants receive the paperwork from Trust-IT Services by email.",
+          "sources": "Guidelines for Applicants to Fellowship – StandICT.eu Open Calls (Guidelines_Applicant_Nov2025.pdf) · p. 4 · 2. Process and timing of Open Call for Applications\nGuidelines for Applicants to Fellowship – StandICT.eu Open Calls (Guidelines_Applicant_Nov2025.pdf) · p. 5 · 4. Eligible costs"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "A complete online application and an up-to-date CV.\n- Application form: on the TRUST-GRANTS platform; all sections must be complete.\n- Budget: a clear, justified and detailed description of the eligible costs.\n- Mandatory annexes: an updated CV.\n- Registration: an account on the TRUST-GRANTS platform; earlier applicants can reuse their login.",
+          "sources": "Guidelines for Applicants to Fellowship – StandICT.eu Open Calls (Guidelines_Applicant_Nov2025.pdf) · p. 5 · 4. Eligible costs\nGuidelines for Applicants to Fellowship – StandICT.eu Open Calls (Guidelines_Applicant_Nov2025.pdf) · p. 6 · 5. Criteria for evaluation\nGuidelines for Applicants to Fellowship – StandICT.eu Open Calls (Guidelines_Applicant_Nov2025.pdf) · pp. 8–9 · 7. How to apply"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Four equally weighted criteria, each scored from 1 to 10 by three independent evaluators, decide the ranking.\n- Evaluation criteria: Excellence (quality, clarity and necessity of the activity, technical soundness, grasp of the standards landscape); Impact (support to EU ICT policy priorities, fit with the Rolling Plan, contribution to standards, leadership roles in SDO groups); Implementation (feasibility, work structure, key performance indicators and budget); Inclusion and knowledge transfer.\n- Weighting: 25% each; the final score is the average of the three evaluators.\n- Ranking rules: in a tie where the budget cannot fund all, the earliest submission wins.\nThe evaluators' decision is binding; complaints are handled only on procedure.",
+          "sources": "Guidelines for Applicants to Fellowship – StandICT.eu Open Calls (Guidelines_Applicant_Nov2025.pdf) · pp. 4–6 · 2. Process and timing; 5. Criteria for evaluation"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Chairs, convenors and repeat applicants must add specific information, and mentorship can earn bonus points.\n- Conditional — chair or convenor role: explain the activities linked to the role, its strategic relevance and, for continuing activities, the progress since the last application.\n- Conditional — continuation of a funded fellowship: show progress made, the improvements planned and a different timeline, to avoid suspicion of double funding.\n- Recommended: join the StandICT.eu 2029 mentorship programme; mentors and mentees who complete it get bonus points in the evaluation.",
+          "sources": "Guidelines for Applicants to Fellowship – StandICT.eu Open Calls (Guidelines_Applicant_Nov2025.pdf) · pp. 4, 6 · 3. Criteria for receiving financial support; Notes for chairs and convenors\nGuidelines for Applicants to Fellowship – StandICT.eu Open Calls (Guidelines_Applicant_Nov2025.pdf) · p. 12 · StandICT.eu 2029 Mentorship Programme"
+        }
+      ]
+    }
+  ]
+}

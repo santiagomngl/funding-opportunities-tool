@@ -1,0 +1,37 @@
+{
+  "id": "20261118-081514-02",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-CL4-2027-04-HUMAN-07 Facilitate the engagement of European stakeholders in international digital standardisation (CSA) – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "DIGITAL (HORIZON-CL4-2027-04)",
+  "call_module_title": "HORIZON-CL4-2027-04-HUMAN-07 Facilitate the engagement of European stakeholders in international digital standardisation (CSA)",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-04-HUMAN-07",
+  "executive_summary": "Horizon Europe Coordination and Support Action under Cluster 4 (Digital, Industry and Space) that funds one project, around EUR 7 million, to run the next European facility supporting European experts in global digital standardisation, following the StandICT.eu projects. The project must set up a management facility that funds contributions and leadership of European specialists in international standards bodies, may fund the hosting of international standardisation meetings in Europe, and must produce landscape and gap analyses of key digital standardisation areas and promote standardisation education and skills. At least 75% of the requested EU contribution should go as financial support to third parties, selected through open calls, of up to EUR 60,000 each. Lump-sum grant at 100% funding rate; open to any legal entity established in an EU Member State or associated country. Opened 17 November 2026; single-stage deadline 18 March 2027, 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-03-18",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": 7000000,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "Horizon Europe Work Programme 2026–2027 Part 7 (Digital, Industry and Space), pp. 260–262 (HORIZON-CL4-2027-04-HUMAN-07, Specific conditions, Expected Outcome and Scope), funds a facility that finances European experts' work in global digital standards bodies, landscape and gap analyses of the Rolling Plan for ICT Standardisation, and standardisation skills. It touches TenneT's field only indirectly, through digital and data-interoperability standards of the kind InterOPERA (multi-vendor HVDC interoperability) and TwinEU (cross-border data federation) rely on; the topic names no energy area. General Annex B (pp. 12–13) would let TenneT TSO B.V. join a Coordination and Support Action, but the work the topic sets out is running a funding and support facility for standardisation experts, with at least 75% of the grant passed to individual specialists through open calls, so what we read establishes no route for a grid operator: Type 3. C3.4 fits because the benefit to TenneT depends on the facility funding experts in energy-related digital standards.",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.4"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T1"
+    ],
+    "role": [],
+    "activity": [
+      "A13",
+      "A16"
+    ],
+    "outcome": [
+      "O11"
+    ]
+  }
+}

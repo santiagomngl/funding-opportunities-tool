@@ -1,0 +1,45 @@
+{
+  "id": "20261118-081514-03",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-BRIDGING-2027-02-05 Advancing promising results from Pillar II collaborative research through the innovation journey – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "Bridging actions 2027 (HORIZON-BRIDGING-2027-02)",
+  "call_module_title": "HORIZON-BRIDGING-2027-02-05 Advancing promising results from Pillar II collaborative research through the innovation journey",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-BRIDGING-2027-02-05",
+  "executive_summary": "Horizon Europe Innovation Action (Horizontal Activities, Bridging actions) that funds small consortia of at most six independent entities to take results of a completed multi-beneficiary Horizon Europe Pillar II project (Clusters 1 to 6, including Cluster 5 Climate, Energy and Mobility) further towards uptake through real-world validation and testing, commercialisation, scaling, user and market readiness and investment bridging. The primary prior project must have ended before the deadline, the consortium must own or have access to its results, end users must be beneficiaries in the consortium, projects based on Cluster 3 to 6 results should start at TRL 6, and projects may last at most 3 years. Lump-sum grant at the Innovation Action rate of 70% (100% for non-profit entities), up to EUR 2.5 million per project, from a topic budget of EUR 32.5 million for about 13 projects, under a fast-track procedure with results within 4 months; entities controlled from China are excluded. Opened 20 October 2026; single-stage deadline 28 January 2027, 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-01-28",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": 3571429,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "Horizon Europe Work Programme 2026–2027 Part 14 (Horizontal Activities), pp. 73–78 (HORIZON-BRIDGING-2027-02-05, Specific conditions, Expected Outcome and Scope), funds the validation, scaling and market uptake of results from completed Pillar II projects, explicitly including Cluster 5 energy results. It touches TenneT's field because it could take results of completed Cluster 5 grid projects towards operational use, as InterOPERA (multi-vendor HVDC interoperability) and TwinEU (data federation for grid resilience) would need once they end, with TenneT as the end user; this depends on choosing a suitable completed energy project and is our interpretation. The topic requires end users to be beneficiaries in a consortium of at most six entities, and General Annexes B and G (pp. 4–5, 13, 31) let TenneT TSO B.V. be a funded partner or coordinator at the Innovation Action rate of 70%, so Type 1 with C1.3 (funded partner) and C1.2 (lead of a small innovation project). Both project dates are null because the topic states only a maximum duration of 3 years and no start or end date.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3",
+    "C1.2"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T4",
+      "T5",
+      "T1"
+    ],
+    "role": [
+      "R2",
+      "R1",
+      "R9"
+    ],
+    "activity": [
+      "A7",
+      "A8",
+      "A10"
+    ],
+    "outcome": [
+      "O11"
+    ]
+  }
+}
