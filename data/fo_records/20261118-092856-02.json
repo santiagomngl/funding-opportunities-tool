@@ -1,0 +1,40 @@
+{
+  "id": "20261118-092856-02",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-EIE-2027-01-CONNECT-02 Reinforcing synergies between experimentation spaces and innovation procurement – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "Interconnected Innovation Ecosystems (2027.1) (HORIZON-EIE-2027-01)",
+  "call_module_title": "HORIZON-EIE-2027-01-CONNECT-02 Reinforcing synergies between experimentation spaces and innovation procurement",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIE-2027-01-CONNECT-02",
+  "executive_summary": "Horizon Europe Pre-commercial Procurement (PCP) action under European Innovation Ecosystems that co-finances a transnational group of public buyers who jointly procure research and development of innovative solutions from competing suppliers and test them with test beds, living labs, regulatory sandboxes and certification bodies, in any area of public sector interest linked to EU strategic priorities. The applicants are the procurers: at least three independent beneficiaries, of which at least two public procurers (contracting authorities or contracting entities under the EU procurement directives) from different Member States or Associated Countries; suppliers are not funded directly but win the procurement contracts. Actual-cost grant at the PCP rate of 100% of eligible costs, with procurement costs eligible and optional financial support to third parties of up to EUR 200,000 each to help end users adopt the solutions; around EUR 10 million per project from a topic budget of EUR 10 million for about one project. Planned opening 1 June 2027; single-stage deadline 15 September 2027, 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-09-15",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": 10000000,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "Horizon Europe Work Programme 2026-2027 Part 10 (European Innovation Ecosystems), pp. 24-27 (HORIZON-EIE-2027-01-CONNECT-02, Specific conditions, Expected Outcome and Scope), funds a joint pre-commercial procurement by a buyers' group of public procurers working with test beds, living labs and regulatory or certification bodies, in all areas of public sector interest linked to EU strategic priorities. It touches TenneT's field because that open scope allows a procurement need in electricity transmission, for example inspection or monitoring solutions of the kind used in Reliability Centered Maintenance or testing in an environment like NFDTES, with TenneT as a buyer as in its procurement-led 2GW Program; this depends on finding procurers with the same need in other countries and is our interpretation. General Annex B (p. 13, footnote 35) defines public procurers as contracting authorities or contracting entities under Directive 2014/25/EU, which in our interpretation covers TenneT TSO B.V. as an electricity network operator, and General Annex G (p. 31) sets the PCP funding rate at 100%, so TenneT could be a funded buyer or lead procurer. C1.4 fits because the grant co-finances TenneT's own procurement of R&D services for innovations that do not yet exist.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.4"
+  ],
+  "taxonomy_values": {
+    "topic": [],
+    "role": [
+      "R3",
+      "R1",
+      "R9"
+    ],
+    "activity": [
+      "A18",
+      "A8",
+      "A10"
+    ],
+    "outcome": [
+      "O6"
+    ]
+  }
+}

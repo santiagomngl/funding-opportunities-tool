@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "A joint pre-commercial procurement: a group of public buyers from several countries buys research and development of a solution that does not yet exist, from competing suppliers.\nPre-commercial procurement (PCP) means the buyers pay several suppliers in parallel to design, prototype and test solutions for one shared need, and narrow the field after each phase. In this topic the buyers must also work with experimentation spaces (test beds, living labs or regulatory sandboxes, that is test environments where rules can be applied flexibly during trials) and, where relevant, with regulators and certification bodies, so that the solutions are tested and cleared for the market already during development. The topic does not name a subject: the buyers choose one concrete procurement need in an area of public sector interest linked to EU strategic priorities. For TenneT this could be a grid need that other network operators share; that is our interpretation.",
+          "sources": "wp-10-european-innovation-ecosystems_horizon-2026-2027_en.pdf · pp. 24–27 · HORIZON-EIE-2027-01-CONNECT-02, Specific conditions, Expected Outcome and Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 37–42 · H — Specific conditions for actions implementing pre-commercial procurement or procurement of innovative solutions"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Any area of public sector interest can be chosen, but the work must be one joint pre-commercial procurement with test environments, plus supporting activities.\nMandatory:\n- one joint procurement of research and development services for one common challenge shared by all buyers, with one joint call for tender, one joint evaluation and a lead procurer awarding the contracts\n- a preparation stage (open market consultation, tender documents based on the Horizon Europe model contracts, a signed joint procurement agreement) and an execution stage (running the contracts and comparing the competing solutions)\n- the full cycle of solution design, prototyping and original development, including installation and testing of a limited test series at the buyers' or end users' premises, with at least three suppliers at the start\n- cooperation with test beds, living labs and, where applicable, regulatory and certification bodies\n- a declaration by the buyers of how they intend to deploy successful solutions (see After the project)\nOptional:\n- buying at least one successful solution within the project (fast-track PCP, where one contract may cover the second and third phase)\n- financial support of up to EUR 200,000 per recipient to help final end users adopt the solutions\n- additional activities by other entities, such as end users, to spread results and remove regulatory, standardisation or certification obstacles\nExcluded:\n- direct funding of developers, industry or research organisations for their own research and development; they can only bid in the buyers' tender\n- buying larger commercial volumes that need quantity production; only the first products developed and tested in the procurement may be bought\n- needs that other Horizon Europe pre-commercial procurement topics already cover; this topic is meant for challenges outside or across them",
+          "sources": "wp-10-european-innovation-ecosystems_horizon-2026-2027_en.pdf · pp. 24–27 · HORIZON-EIE-2027-01-CONNECT-02, Specific conditions, Expected Outcome and Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 37–42 · H — Specific conditions for actions implementing pre-commercial procurement or procurement of innovative solutions"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The need must be a concrete procurement need of the public buyers themselves, shared by buyers in several countries, that existing products cannot meet.\nThe topic starts from two gaps: public buyers rarely test innovations before they invest, and companies often look for customers and check regulatory compliance and certification only after their research is finished, which delays market entry. The need is therefore owned by the procurers, the organisations responsible for buying the solution, and should lead to better quality and efficiency of a public service. The buyers must show that the gap between what the market offers and what they need justifies buying research and development; an open market consultation (a public dialogue with potential suppliers before the tender) must confirm this. For TenneT, a need such as better inspection or monitoring of grid assets, shared with transmission operators in other countries, could qualify; this is our interpretation, as the topic names no sector.",
+          "sources": "wp-10-european-innovation-ecosystems_horizon-2026-2027_en.pdf · pp. 24–27 · HORIZON-EIE-2027-01-CONNECT-02, Specific conditions, Expected Outcome and Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 37–42 · H — Specific conditions for actions implementing pre-commercial procurement or procurement of innovative solutions"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "Procurement documents, signed contracts with competing suppliers, tested prototypes and test-series products, and a final demonstration of the solutions.\nDeliverables or milestones required for the preparation stage:\n- a prior information notice for the open market consultation, sent 5 days before submission for publication in the Official Journal of the EU and at least 50 days before the first meeting\n- a report on the open market consultation and prior market analysis, and their effect on the tender documents\n- completed tender documents based on the Horizon Europe model contract documents, including the contract notice, 30 days before it is submitted for publication\n- the signed joint procurement agreement of the buyers' group, with each buyer's financial commitment and confirmation of the lead procurer\nDeliverables or milestones required for the execution stage:\n- the contract award notice published in TED (Tenders Electronic Daily, the EU's public tender website), 48 days after award\n- after the tender evaluation and after each phase: the number of bids, the winning tenderers and abstracts of their bids, the final ranking with scores, and an assessment of each supplier's results in the previous phase\n- at the end of the project, a demonstration of the tested solutions to the granting authority (the EU body managing the grant)\nIf the buyers choose to deploy through a later tender, the proposal should also include a deliverable that prepares that follow-up procurement.",
+          "sources": "wp-10-european-innovation-ecosystems_horizon-2026-2027_en.pdf · pp. 24–27 · HORIZON-EIE-2027-01-CONNECT-02, Specific conditions, Expected Outcome and Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 37–42 · H — Specific conditions for actions implementing pre-commercial procurement or procurement of innovative solutions"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The project must modernise public services and open the public procurement market to innovative companies, with at least one solution ready for or already in use.\nExpected outcomes named in the topic:\n- public sector modernisation: better quality and efficiency of public services through new technologies\n- EU strategic autonomy and more resilient supply chains, by giving innovative companies, notably SMEs (small and medium-sized enterprises) and startups, access to public procurement so they can scale up\n- better chances of market uptake and economies of scale for suppliers, through more demand for innovative solutions and, where relevant, contributions to standardisation, regulation or certification\n- if the procurement produces successful solutions, at least one should be ready for deployment or already deployed within the project\n- uptake of innovative and sustainable solutions through joint procurement that encourages safer and more efficient practices in public sector applications\nThe wider work programme part adds goals such as stronger links between innovation actors and better access to funding for startups through innovation procurement. The topic sets no numerical targets. For TenneT, the benefit would be a tested solution for its own grid need and a supplier base that meets it; this is our interpretation.",
+          "sources": "wp-10-european-innovation-ecosystems_horizon-2026-2027_en.pdf · pp. 24–27 · HORIZON-EIE-2027-01-CONNECT-02, Specific conditions, Expected Outcome and Scope\nwp-10-european-innovation-ecosystems_horizon-2026-2027_en.pdf · pp. 3–4 · Introduction"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "The buyers should commit in the proposal to deploy successful solutions, in one of four ways, and the results must stay available beyond the buyers' own use.\nThe procurers should declare whether they will:\n- buy successful solutions within the project, during or after the procurement; they must then budget for buying at least one solution and leave time to deploy and validate it after installation\n- launch a separate follow-up procurement after the project; the proposal should then include a deliverable that prepares it\n- adopt successful solutions without buying them, for example open-source solutions; they must then leave time to deploy and validate them\n- give financial or regulatory incentives to others to adopt the solutions, for example when the end users are citizens; financial support to third parties of up to EUR 200,000 per recipient may be used for this\nFurther rules on wider use:\n- the buyers must not reserve the results for their own use; the suppliers own the intellectual property, while the buyers get at least royalty-free use rights and the right to have non-exclusive licences granted to third parties\n- a call-back clause must let the buyers take over the results if a supplier does not exploit them commercially within a set period\n- the project should, where relevant, contribute to standardisation, regulation or certification, and cooperation with regulators across countries should prepare cross-border market entry\n- the buyers should involve their procurement decision makers so that the solutions are actually adopted\nReplication across Europe is built in through the transnational buyers' group; no other replication target is set.",
+          "sources": "wp-10-european-innovation-ecosystems_horizon-2026-2027_en.pdf · pp. 24–27 · HORIZON-EIE-2027-01-CONNECT-02, Specific conditions, Expected Outcome and Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 37–42 · H — Specific conditions for actions implementing pre-commercial procurement or procurement of innovative solutions"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "At least three independent beneficiaries from three different countries, of which at least two must be public procurers from different countries; there is no maximum.\nBeneficiaries are the organisations that sign the grant agreement. At least one must be established in an EU Member State and the others in different Member States or Associated Countries (non-EU countries that take part in Horizon Europe on EU terms). Among the three, at least two must be independent public procurers, each in a different Member State or Associated Country, with at least one in a Member State. Affiliated entities (organisations linked to a beneficiary that take part without signing) do not count towards this minimum. The work programme expects to fund around one project.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 12–14 · B — Eligibility, Consortium composition and Eligible activities\nwp-10-european-innovation-ecosystems_horizon-2026-2027_en.pdf · pp. 8–9 · Call Interconnected Innovation Ecosystems (2027.1), Overview of this call"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "The consortium is built around a buyers' group of public procurers with the same need, joined by test beds, living labs and, where relevant, regulators and certification bodies.\n- Public procurers: contracting authorities or contracting entities as defined in the EU public procurement directives 2014/24/EU, 2014/25/EU (the utilities directive, which covers energy, water, transport and postal services) and 2009/81/EC. Private or non-governmental buyers that provide similar services of public interest may join them.\n- Experimentation spaces: test beds, living labs or regulatory sandboxes, to test the solutions during development.\n- Regulatory and certification bodies that want to cooperate with the buyers during the procurement, where relevant.\n- Other entities, such as end users, may join for additional activities (dissemination, standardisation, training) if they have no conflict of interest and their participation is well justified.\n- Suppliers that could bid in the tender may not be beneficiaries, because of the conflict of interest.\nCountry rules: the public procurers must come from at least two different countries, one of them an EU Member State.",
+          "sources": "wp-10-european-innovation-ecosystems_horizon-2026-2027_en.pdf · pp. 24–27 · HORIZON-EIE-2027-01-CONNECT-02, Specific conditions, Expected Outcome and Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 12–14 · B — Eligibility, Consortium composition and Eligible activities\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 37–42 · H — Specific conditions for actions implementing pre-commercial procurement or procurement of innovative solutions"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "Each buyer in the group must contribute financially to the joint procurement budget, and a lead procurer runs the tender on behalf of all.\n- The buyers' group must jointly prepare and run the procurement: one joint call for tender, one joint evaluation of offers.\n- The lead procurer, a public procurer chosen by the group, awards the research and development contracts in the name of the whole group.\n- The suppliers may be paid by the lead procurer or by each buyer pro rata to its share of the total procurement budget.\n- If the challenge needs local adaptations, each buyer may have extra local functionality developed and tested, as long as all buyers share and co-finance the whole common challenge.\n- Experimentation spaces, regulators and other partners take on testing, regulatory and supporting activities around the procurement.\nFor TenneT this means it would carry part of the procurement budget itself and share the right to the results with the other buyers.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 37–42 · H — Specific conditions for actions implementing pre-commercial procurement or procurement of innovative solutions"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "Any eligible beneficiary may coordinate, but the procurement itself must be led by a lead procurer, which must be a public procurer.\nThe topic and the General Annexes set no specific rule for the coordinator (the organisation that manages the grant and represents the consortium towards the EU). The lead procurer is a separate role: it must be a public procurer, either one of the buyers or another beneficiary appointed by them, and it coordinates and leads the procurement activities. In practice the lead procurer often also coordinates the project; that is our interpretation, not a rule of the call.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 37–42 · H — Specific conditions for actions implementing pre-commercial procurement or procurement of innovative solutions\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 12–14 · B — Eligibility, Consortium composition and Eligible activities"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "Probably yes: TenneT could lead the procurement or coordinate, if it qualifies as a public procurer and finds buyers with the same need in other countries.\nThe call defines public procurers as contracting authorities or contracting entities under the EU procurement directives, including Directive 2014/25/EU (the utilities directive). In our interpretation TenneT TSO B.V., which operates the Dutch electricity transmission network, is a contracting entity under that directive, so it could be a public procurer and also the lead procurer that awards the contracts for the group. Conditions:\n- at least one other public procurer from a different Member State or Associated Country must join, for example another transmission or distribution operator with the same need\n- all buyers must share one concrete procurement need and contribute to the procurement budget\n- the need must fall outside or across the subjects of other Horizon Europe pre-commercial procurement topics\nTenneT should confirm its status as a contracting entity with its procurement department before building a proposal.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 12–14 · B — Eligibility, Consortium composition and Eligible activities\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 37–42 · H — Specific conditions for actions implementing pre-commercial procurement or procurement of innovative solutions\nwp-10-european-innovation-ecosystems_horizon-2026-2027_en.pdf · pp. 24–27 · HORIZON-EIE-2027-01-CONNECT-02, Specific conditions, Expected Outcome and Scope"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes: TenneT could also join as a buyer without leading, as an end user in additional activities, or as an associated partner without funding.\n- As a buyer in the group: a funded beneficiary that co-finances the procurement, without leading the tender.\n- As another entity in additional activities: end users or other organisations without a conflict of interest may take part in preparing, managing and following up the procurement, for example in standardisation, certification or dissemination work.\n- As an associated partner: an organisation that takes part without signing the grant agreement and without charging costs; the General Annexes allow this unless the topic says otherwise, and this topic does not.\n- As a test site: the solutions must be installed and tested at the buyers' or end users' premises, so a TenneT site could host tests even when another operator leads.\nTenneT could not take part as a supplier bidding in the tender while being a beneficiary.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 4–5 · B — Eligibility, Entities eligible to participate, Associated partners\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 37–42 · H — Specific conditions for actions implementing pre-commercial procurement or procurement of innovative solutions"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Yes, if TenneT is a beneficiary: the pre-commercial procurement rate is 100% of eligible costs, including the procurement costs.\n- Funding rate: up to 100% of eligible costs for pre-commercial procurement actions; the topic sets no lower rate.\n- Costs covered: the topic makes procurement costs (the payments to suppliers for research and development services) eligible, alongside staff costs, other purchases and a 25% flat rate for indirect costs (overheads) on direct costs other than subcontracting and financial support to third parties.\n- Form: a budget-based grant that reimburses actual eligible costs, not a lump sum.\n- Amount: the Commission expects around EUR 10 million of EU funding for the whole project, shared by all beneficiaries; TenneT's share depends on its part of the procurement budget.\n- Dutch rules: none; Horizon Europe grants are paid by the EU directly, and the Netherlands is an EU Member State, so TenneT is eligible for funding.\nBecause each buyer must contribute financially to the procurement, TenneT's contribution would come from its own budget and be reimbursed by the grant as eligible costs.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 31–33 · G — Form of grant, funding rate and maximum grant amount; Budget categories; Reporting & payment arrangements\nwp-10-european-innovation-ecosystems_horizon-2026-2027_en.pdf · pp. 24–27 · HORIZON-EIE-2027-01-CONNECT-02, Specific conditions, Expected Outcome and Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 37–42 · H — Specific conditions for actions implementing pre-commercial procurement or procurement of innovative solutions"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT would be most credible as a lead or co-buyer with a concrete grid need, its own test sites and a clear plan to buy and deploy the result.\nIn our judgement, TenneT could contribute:\n- a well-defined procurement need shared with other European grid operators, for example inspection, monitoring or maintenance tools of the kind it uses in Reliability Centered Maintenance\n- its procurement expertise from large framework and bundled tenders, such as in the 2GW Program, to act as lead procurer\n- substations, lines or offshore assets as test sites for the test series, and a simulation environment such as the National Facility Digital Twin of the Electricity System to test solutions before field trials\n- links to the Dutch regulator (ACM) and certification bodies to clear regulatory hurdles during testing\n- a budget commitment to buy successful solutions, which strengthens the impact score\nThis rests on the call's open scope and on TenneT finding partner buyers; whether a grid need fits better here or in an energy-specific procurement topic should be checked.",
+          "sources": "wp-10-european-innovation-ecosystems_horizon-2026-2027_en.pdf · pp. 24–27 · HORIZON-EIE-2027-01-CONNECT-02, Specific conditions, Expected Outcome and Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 37–42 · H — Specific conditions for actions implementing pre-commercial procurement or procurement of innovative solutions"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The solution must need new research and development: a pre-commercial procurement may only buy what does not yet exist on the market.\nThe buyers must show, through an open market consultation, that the gap between what industry offers and what they need justifies buying research and development. Research and development here covers solution exploration and design, prototyping and the original development of a limited number of first products; it excludes incremental changes to existing products. The topic also asks for a greater degree of ambition in innovation level or deployment scope than usual. Buying existing solutions is the subject of a different instrument (public procurement of innovative solutions), not this topic.",
+          "sources": "wp-10-european-innovation-ecosystems_horizon-2026-2027_en.pdf · pp. 24–27 · HORIZON-EIE-2027-01-CONNECT-02, Specific conditions, Expected Outcome and Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 37–42 · H — Specific conditions for actions implementing pre-commercial procurement or procurement of innovative solutions"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Mainly the technology or end-to-end solution, combined with new ways of procuring and testing it with regulators.\nThe topic is open to needs that require improvement in one technology field and to end-to-end solutions combining several technologies. Beyond the solution itself, the topic innovates in the process: buyers procure together, test in experimentation spaces and involve regulators and certification bodies so that the test environment can also serve as a regulatory sandbox. The procurement must describe the need as a problem to be solved (functional or performance-based specifications), without prescribing an approach.",
+          "sources": "wp-10-european-innovation-ecosystems_horizon-2026-2027_en.pdf · pp. 24–27 · HORIZON-EIE-2027-01-CONNECT-02, Specific conditions, Expected Outcome and Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 37–42 · H — Specific conditions for actions implementing pre-commercial procurement or procurement of innovative solutions"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "The procurement must cover solution design, prototyping and original development with testing of a first test series, in competing phases.\n- Phase 1, solution design: at least three suppliers (two in exceptional cases) receive contracts.\n- Phase 2, prototyping: fewer suppliers continue, based on evaluated results.\n- Phase 3, original development and testing: a limited test series is installed and tested at the buyers' or end users' premises.\nEach phase may be split into sub-phases. For fast deployment, one contract may cover phases 2 and 3. Deployment of a first solution within the project is optional (fast-track case), but larger commercial volumes may not be bought.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 37–42 · H — Specific conditions for actions implementing pre-commercial procurement or procurement of innovative solutions"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "The topic sets no TRL; solutions must still need research and development at the start and be tested as first products at the end.\nTRL (Technology Readiness Level) is a 1–9 scale of maturity. The topic does not state one, but its rules imply the range: the starting point must be beyond what the market offers, and by the end the procurement must deliver a limited test series installed and tested in real premises, and ideally at least one solution ready for deployment.",
+          "sources": "wp-10-european-innovation-ecosystems_horizon-2026-2027_en.pdf · pp. 24–27 · HORIZON-EIE-2027-01-CONNECT-02, Specific conditions, Expected Outcome and Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 37–42 · H — Specific conditions for actions implementing pre-commercial procurement or procurement of innovative solutions"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "The solutions must be tested in the buyers' or end users' real premises, with test beds, living labs or regulatory sandboxes as supporting test environments.\n- The last procurement phase must include installation and testing of a limited test series at the procurers' or end users' premises.\n- Buyers that lack advanced testing environments should cooperate with experimentation spaces such as test beds or living labs.\n- Where regulators take part, the procurement's test environment can serve as a regulatory sandbox.\n- At the end, the tested solutions must be demonstrated to the granting authority.\nFor TenneT this would mean tests on its own grid or in its simulation facilities; that is our interpretation.",
+          "sources": "wp-10-european-innovation-ecosystems_horizon-2026-2027_en.pdf · pp. 24–27 · HORIZON-EIE-2027-01-CONNECT-02, Specific conditions, Expected Outcome and Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 37–42 · H — Specific conditions for actions implementing pre-commercial procurement or procurement of innovative solutions"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "All work must serve one joint procurement for one common challenge; separate procurements per buyer are not allowed.\nSeveral facets of a challenge count as one joint procurement only if all buyers share and co-finance all of them. Local functionality may be added per buyer for differences in local context. The procurement is embedded in wider demand-side activities (dissemination, standardisation, training, preparation of future procurements), and the solutions must be validated against the buyers' needs to see if they can be turned into permanent service.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 37–42 · H — Specific conditions for actions implementing pre-commercial procurement or procurement of innovative solutions"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "The project must compare the competing solutions' performance and show whether they can be converted into permanent service.\n- After each phase, the buyers must assess each supplier's results against pre-defined evaluation criteria and weightings set in the framework contract.\n- The execution stage must validate and compare the solutions to verify whether they can be converted into permanent service.\n- Where buyers deploy within the project, they must leave time to validate that the solutions work after installation.\n- Public summaries of results and lessons learnt may be published.\nThe topic sets no numerical indicators.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 37–42 · H — Specific conditions for actions implementing pre-commercial procurement or procurement of innovative solutions\nwp-10-european-innovation-ecosystems_horizon-2026-2027_en.pdf · pp. 24–27 · HORIZON-EIE-2027-01-CONNECT-02, Specific conditions, Expected Outcome and Scope"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "The buyers are the users: they define the need, evaluate the solutions and test them; final end users may also be involved.\n- The open market consultation must involve potential tenderers and end users.\n- Procurement decision makers must be involved to ensure that the buyers adopt the solutions.\n- End users may take part in additional activities, and the test series must be installed at buyers' or end users' premises.\n- Where end users are not the buyers, for example citizens, incentives of up to EUR 200,000 per recipient may support their adoption.",
+          "sources": "wp-10-european-innovation-ecosystems_horizon-2026-2027_en.pdf · pp. 24–27 · HORIZON-EIE-2027-01-CONNECT-02, Specific conditions, Expected Outcome and Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 37–42 · H — Specific conditions for actions implementing pre-commercial procurement or procurement of innovative solutions"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "The topic adds no specific safety or cybersecurity rules; security restrictions apply only if the call sets them, which it does not.\nThe General Annexes allow limiting the procurement to bidders from Member States or requiring most research and development work there for duly justified public security reasons, and suppliers must in any case carry out most of the research and development in Member States or Associated Countries. Solutions should encourage safer and more efficient practices in public sector applications. TenneT would have to set its own security requirements for critical grid infrastructure in the tender specifications; that is our interpretation.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 37–42 · H — Specific conditions for actions implementing pre-commercial procurement or procurement of innovative solutions\nwp-10-european-innovation-ecosystems_horizon-2026-2027_en.pdf · pp. 24–27 · HORIZON-EIE-2027-01-CONNECT-02, Specific conditions, Expected Outcome and Scope"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "Around EUR 10 million of EU funding for one project, as a budget-based grant reimbursing actual costs.\n- Total project size: not set; at the 100% rate, total eligible costs could equal the grant (our calculation).\n- Grant request: around EUR 10 million per project, shared by the whole consortium; topic budget EUR 10 million for around one project; other amounts may be requested.\n- Funding form: actual-cost grant (budget-based), with procurement costs eligible and financial support to third parties of up to EUR 200,000 per recipient.",
+          "sources": "wp-10-european-innovation-ecosystems_horizon-2026-2027_en.pdf · pp. 24–27 · HORIZON-EIE-2027-01-CONNECT-02, Specific conditions, Expected Outcome and Scope\nwp-10-european-innovation-ecosystems_horizon-2026-2027_en.pdf · pp. 8–9 · Call Interconnected Innovation Ecosystems (2027.1), Overview of this call\nTopic page HORIZON-EIE-2027-01-CONNECT-02, Funding & Tenders Portal · General information"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "One rate for all beneficiaries: up to 100% of eligible costs, the pre-commercial procurement rate.\n- Co-financing conditions: each buyer in the group must contribute financially to the total budget of the joint procurement; this is a commitment of the buyer's own procurement budget, reimbursed as eligible costs.\n- Evidence required: the signed joint procurement agreement, with the financial commitment of the buyers' group, is a deliverable of the preparation stage.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 31–33 · G — Form of grant, funding rate and maximum grant amount; Budget categories; Reporting & payment arrangements\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 37–42 · H — Specific conditions for actions implementing pre-commercial procurement or procurement of innovative solutions"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Procurement costs and incentives to end users are eligible; the main limit is EUR 200,000 per recipient of financial support.\n- Eligible costs: personnel, subcontracting, purchases (including the procurement of research and development services and, in the fast-track case, at least one solution) and financial support to third parties.\n- Caps or mandatory allocations: financial support to third parties may only be grants, at most EUR 200,000 per recipient; buyers choosing to deploy within the project must budget for buying at least one solution.\n- Excluded costs: buying larger commercial volumes of products beyond the first products from the procurement.\n- Overheads and VAT: indirect costs as a 25% flat rate of eligible direct costs, excluding subcontracting and financial support to third parties.",
+          "sources": "wp-10-european-innovation-ecosystems_horizon-2026-2027_en.pdf · pp. 24–27 · HORIZON-EIE-2027-01-CONNECT-02, Specific conditions, Expected Outcome and Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 31–33 · G — Form of grant, funding rate and maximum grant amount; Budget categories; Reporting & payment arrangements\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 37–42 · H — Specific conditions for actions implementing pre-commercial procurement or procurement of innovative solutions"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "TenneT must pre-finance its share of the procurement and is paid in instalments, with an advance at the start.\n- Payment model: pre-financing (normally 160% of the average EU funding per reporting period), then interim payments after periodic reports and a final payment.\n- Retention or guarantee: 5% to 8% of the maximum grant amount is withheld from pre-financing for the mutual insurance mechanism (a fund covering unrecovered EU debts).\n- Financial reporting or audit: a certificate on the financial statements may be required above thresholds in the grant agreement; each beneficiary is liable only for its own debts.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 31–33 · G — Form of grant, funding rate and maximum grant amount; Budget categories; Reporting & payment arrangements"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: a full proposal through the Funding & Tenders Portal by 15 September 2027, 17:00 Brussels time.\n- Stage 1 — Full proposal: 15 September 2027, 17:00 Brussels time; planned opening 1 June 2027; standard Horizon Europe pre-commercial procurement application form with a 40-page limit; at least three independent beneficiaries including two public procurers from different countries.\nThe Director-General may open the call up to one month earlier or later and delay the deadline by up to two months.",
+          "sources": "Topic page HORIZON-EIE-2027-01-CONNECT-02, Funding & Tenders Portal · General information\nwp-10-european-innovation-ecosystems_horizon-2026-2027_en.pdf · pp. 8–9 · Call Interconnected Innovation Ecosystems (2027.1), Overview of this call\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 4 · A — Admissibility, Page limits"
+        },
+        {
+          "title": "Project window",
+          "answer": "The topic sets no project duration or start date.\n- Required start: not set; the duration is fixed in months in the grant agreement, with extensions only exceptionally.\n- Eligible-cost period: from the project start in the grant agreement; the PCP call for tender must stay open at least 60 days, and the open market consultation notice must be published at least 45 days before the first meeting, which shapes the timeline.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 31–33 · G — Form of grant, funding rate and maximum grant amount; Budget categories; Reporting & payment arrangements\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 37–42 · H — Specific conditions for actions implementing pre-commercial procurement or procurement of innovative solutions"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Results around February 2028 and grant signature around May 2028, based on the standard timetable.\n- Expected invitation or assessment result: around 5 months after the deadline, so around February 2028 (indicative, our calculation).\n- Grant agreement: around 8 months after the deadline, so around May 2028 (indicative, our calculation).\n- Conditions before starting: legal entity validation of each beneficiary and financial capacity checks; invitation to grant preparation is not a commitment to fund.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 27–30 · F — Procedure, Indicative timetable for evaluation and for signature of the grant agreement"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "The standard online application in two parts, with all mandatory annexes, submitted by the coordinator on behalf of all applicants.\n- Application form: Part A online and Part B as PDF, standard pre-commercial procurement form from the submission system, 40 pages.\n- Budget: summarised budget in Part A.\n- Partner documents: the coordinator confirms its mandate to act for all applicants; each participant signs a declaration of honour before grant signature.\n- Registration: a participant identification code (PIC) for each beneficiary, affiliated entity and associated partner; validation in grant preparation.\n- Mandatory content: a plan for exploitation and dissemination of results, and the buyers' declaration of how they will deploy successful solutions.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 4 · A — Admissibility, Page limits\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 27 · E — Documents\nwp-10-european-innovation-ecosystems_horizon-2026-2027_en.pdf · pp. 24–27 · HORIZON-EIE-2027-01-CONNECT-02, Specific conditions, Expected Outcome and Scope"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Three criteria scored out of 5, with a threshold of 3 each and 10 overall.\n- Evaluation criteria: Excellence (clarity of objectives and how ambitious the innovation needed to meet the procurement need is), Impact (credibility of pathways and the exploitation plan, meaning mainly use of the solutions by the buyers or end users), Quality and efficiency of implementation (work plan, risks, resources, and each participant's role).\n- Thresholds: 3 out of 5 per criterion, 10 out of 15 overall.\n- Ranking rules: proposals with equal scores are ordered by coverage of uncovered aspects of the call, then Excellence and Impact scores, gender balance and geographic diversity; budgets may change by up to 20%.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 24–26 · D — Award criteria, Scores and weighting\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 27–30 · F — Procedure, Indicative timetable for evaluation and for signature of the grant agreement"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Fast-track deployment, financial support to end users and security restrictions bring their own rules.\n- Conditional — buyers buy solutions within the project: they must budget for at least one solution and leave time to deploy and validate it.\n- Conditional — follow-up procurement after the project: the proposal should include a deliverable preparing it.\n- Conditional — financial support to end users: grants only, at most EUR 200,000 per recipient.\n- Exception — suppliers: they cannot be beneficiaries in the action.\n- Exception — Chinese universities linked to the Ministry of Industry and Information Technology: subject to a specific eligibility condition.\n- Recommended: cooperate with regulatory and certification bodies so the test environment can serve as a regulatory sandbox.",
+          "sources": "wp-10-european-innovation-ecosystems_horizon-2026-2027_en.pdf · pp. 24–27 · HORIZON-EIE-2027-01-CONNECT-02, Specific conditions, Expected Outcome and Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 37–42 · H — Specific conditions for actions implementing pre-commercial procurement or procurement of innovative solutions\nwp-10-european-innovation-ecosystems_horizon-2026-2027_en.pdf · p. 5 · Introduction"
+        }
+      ]
+    }
+  ]
+}
