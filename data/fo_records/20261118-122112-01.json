@@ -1,0 +1,28 @@
+{
+  "id": "20261118-122112-01",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-CL5-2027-03-D5-17 Innovative Solutions for mitigating the environmental impact of waterborne transport in marine and aquatic Ecosystems (ZEWT Partnership) – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "MOBILITY (HORIZON-CL5-2027-03)",
+  "call_module_title": "HORIZON-CL5-2027-03-D5-17 Innovative Solutions for mitigating the environmental impact of waterborne transport in marine and aquatic Ecosystems (ZEWT Partnership)",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-03-D5-17",
+  "executive_summary": "Horizon Europe Research and Innovation Action under the ZEWT partnership (Zero Emission Waterborne Transport) that funds research into the environmental impact of shipping on marine and inland waters, with a focus on renewable low and zero-carbon marine fuels: forecasting their pollution, modelling and managing accidental spills in waters and ports, and developing and demonstrating abatement and mitigation systems up to TRL 5, plus training needs and stakeholder engagement. Open to consortia under the standard Horizon Europe eligibility rules; funded as a lump sum. Indicative topic budget EUR 14 million for two projects of around EUR 7 million each. Planned opening 15 December 2026; single-stage deadline 14 April 2027.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-04-14",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "The Funding & Tenders Portal topic page of HORIZON-CL5-2027-03-D5-17 (Expected Outcome and Scope) funds research and TRL 5 demonstrations on pollution from ships running on renewable low and zero-carbon fuels, spill response in waters and ports, and abatement systems for waterborne transport. It does not touch TenneT's field: the closest project file, FlatEMF study, shares a concern for marine ecosystems but deals with the ecological effect of subsea power cables, whereas this topic concerns ship fuels and emissions, with no link to electricity transmission, offshore grid connections or system operation. Both project dates are null because the topic states no start, end or duration.",
+  "call_type": "Not relevant",
+  "category_codes": [],
+  "taxonomy_values": {
+    "topic": [],
+    "role": [],
+    "activity": [],
+    "outcome": []
+  }
+}

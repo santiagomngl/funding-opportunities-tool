@@ -1,0 +1,28 @@
+{
+  "id": "20261118-122112-02",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-CL5-2027-01-D1-09 Assessing the performance of policy instruments to inform climate change mitigation action – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "CLIMATE (HORIZON-CL5-2027-01)",
+  "call_module_title": "HORIZON-CL5-2027-01-D1-09 Assessing the performance of policy instruments to inform climate change mitigation action",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-01-D1-09",
+  "executive_summary": "Horizon Europe Research and Innovation Action that funds social-science and econometric research on how well EU and national climate policies cut greenhouse gas emissions, focusing on sectors outside the EU Emissions Trading System (ETS 1): ex-post evaluation of policies and measures, new methods to separate policy effects from external drivers, ex-ante estimation tools with economy-wide modelling, and networks between researchers and policy makers. Open to consortia under the standard Horizon Europe eligibility rules and requiring interdisciplinary social sciences and humanities expertise; funded as a lump sum. Indicative topic budget EUR 9 million for three projects of around EUR 3 million each. Opened 17 November 2026; single-stage deadline 4 March 2027.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-03-04",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "The Funding & Tenders Portal topic page of HORIZON-CL5-2027-01-D1-09 (Expected Outcome and Scope) funds research that evaluates the effectiveness of EU and national climate mitigation policies, explicitly focused on sectors not covered by the EU Emissions Trading System (ETS 1), which leaves out the power sector. It does not touch TenneT's field: no project file is close, since the topic studies policy effectiveness and behaviour in non-ETS sectors rather than electricity transmission, grid planning or electricity market design (the Target market framework file concerns market design principles, not ex-post climate policy evaluation). Both project dates are null because the topic states no start, end or duration.",
+  "call_type": "Not relevant",
+  "category_codes": [],
+  "taxonomy_values": {
+    "topic": [],
+    "role": [],
+    "activity": [],
+    "outcome": []
+  }
+}

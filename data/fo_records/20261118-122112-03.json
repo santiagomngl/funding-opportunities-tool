@@ -1,0 +1,42 @@
+{
+  "id": "20261118-122112-03",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "Strategic Innovation Open Call – EIT Urban Mobility",
+  "organization_or_parent_framework": "Horizon Europe",
+  "programme": "EIT Urban Mobility",
+  "call_title": "Strategic Innovation Open Call",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://www.eiturbanmobility.eu/call-for-proposals/strategic-innovation-open-call/",
+  "executive_summary": "Cascade call issued by EIT Urban Mobility, the Knowledge and Innovation Community of the European Institute of Innovation and Technology for urban mobility, under its Business Plan 2026-2028 grant (101269525) funded by Horizon Europe. It funds market-oriented collaborative projects that develop, demonstrate and commercialise urban mobility solutions in five sectors: urban logistics, public and shared transport, mobility data management, electrification of transport and alternative fuels (including smart and dynamic charging, battery and energy storage systems and grid integration), and health and mobility. Consortia need at least two independent legal entities from two EU Member States or Horizon Europe associated countries, with one lead commercial partner that must agree a financial sustainability mechanism (equity-based or commercial agreement) with EIT Urban Mobility; all funded partners must become paying members. EIT Urban Mobility reimburses up to 65% of eligible costs, at most EUR 2 million per project, with at least 35% co-funding (around 50% encouraged for large enterprises that benefit directly). The call has EUR 60 million for 2026-2028, of which about EUR 12 million for the 4th cut-off (28 January 2027, 17:00 CET; projects up to 18 months, tentative start July 2027) and EUR 6 million for the 5th cut-off (3 June 2027; up to 12 months); all projects must end by 31 December 2028.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-01-28",
+  "earliest_project_start_date": "2027-07-01",
+  "project_end_date": "2028-12-31",
+  "minimum_project_size": null,
+  "maximum_project_size": 3076923,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "The Call Manual v5.3 (Sections 3.1 and 3.2) funds commercially driven urban mobility projects, including a sector on electrification of transport that names smart and dynamic charging infrastructure, battery and energy storage systems and grid integration. This touches TenneT's field through EV charging as a flexibility and grid-integration issue, close to the Grids & Benefits project file (congestion signals for EV charging) and to Time-dependent transmission rights contract (Lion Storage) for storage connected with flexible grid access, although the call targets city-level mobility markets rather than transmission. Call Manual Sections 2.1, 3.4.2 and 5.1 let any legal entity from an EU Member State join a consortium of at least two independent entities from two countries and receive up to 65% of eligible costs, and they name infrastructure operators and demonstration hosts among the large enterprises expected to co-fund around 50%, so TenneT could be a funded consortium partner (C1.3), for example as a grid-integration demonstration host. Both project dates come from Section 2.4 and 3.3 for the 4th cut-off (tentative start July 2027, completion by 31 December 2028), and the maximum project size is the EUR 2 million EIT funding cap divided by the 65% rate.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T5",
+      "T10"
+    ],
+    "role": [
+      "R2",
+      "R9"
+    ],
+    "activity": [
+      "A7",
+      "A8",
+      "A10"
+    ],
+    "outcome": [
+      "O10"
+    ]
+  }
+}
