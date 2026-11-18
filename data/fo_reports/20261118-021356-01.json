@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "Science-based decision-support tools and recommendations that help clean and digital industries, including the electricity grid, measure and reduce their impact on biodiversity.\nThe project must build knowledge and tools on the biodiversity benefits, impacts and dependencies of at least five industrial activities linked to the Clean Industrial Deal (the EU's 2025 plan to decarbonise industry and boost clean technology) and to the digital and AI industry. The topic names the physical infrastructure that supports these industries as part of the scope, explicitly including energy production and the electricity grid, alongside transport, mining and mineral processing, and data centres. The aim is to improve the biodiversity performance of these industries compared with today and to raise public acceptance of the clean and digital transition.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 124–126 · HORIZON-NATURE-2027-01-02, Expected Outcome and Scope"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Five activity lines, applied to at least five industrial activities across at least three biogeographical regions.\nBiogeographical regions are large European zones with similar climate and ecosystems, such as Atlantic or Continental. For at least five industrial activities (counted at the level of the NACE classification, the EU's standard list of economic sectors), proposals should:\n- develop typologies (structured catalogues) of biodiversity benefits, impacts and dependencies in terrestrial, marine and freshwater ecosystems per activity, building on the ENCORE database (a UN tool that maps how economic sectors depend on and affect nature), to help industries assess impacts and meet due diligence reporting duties\n- assess the direct, indirect and cumulative impacts of the projected growth of these industries on natural resources, ecosystems and ecological connectivity (how well habitats are linked), in space and time, using Absolute Environmental Sustainability Assessment (a method that compares impacts with what the planet can bear) where appropriate\n- compare business-as-usual industries with decarbonised, digitalised and circular ones, with cost-benefit assessments of biodiversity mitigation measures and spatial scenarios at European scale, using natural capital accounting, life-cycle analysis and system dynamics modelling\n- give recommendations and tools on biodiversity-sensitive pathways, for example on policy gaps, infrastructure permitting and spatial planning, biodiversity-friendly technologies, investment screening and the mitigation hierarchy (avoid, minimise, restore, then offset)\n- test and operationalise the recommendations with industrial partners, local authorities and civil society organisations in practical conditions, for example piloting nature-based mitigation solutions, after-use of industrial sites or biodiversity stress-tests\nProposals should also cooperate with projects funded under the Clean Industrial Deal Horizon Europe call, and all funded projects should form a cluster with joint activities in a dedicated, budgeted work package. The topic names no excluded activities. Data-intensive industries, including intellectual property and copyright industries, should be supported in assessing the impact of digital production and consumption.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 124–126 · HORIZON-NATURE-2027-01-02, Expected Outcome and Scope"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The need is societal and policy-driven: Europe's clean and digital build-out, including energy infrastructure, has biodiversity impacts and dependencies that industries cannot yet assess well.\nThe topic refers to the IPBES Business and Biodiversity Assessment (a February 2026 report of the intergovernmental science-policy body on biodiversity), which found that business as usual drives nature's decline. It argues that sectors that help mitigate climate change still need to address their biodiversity impacts to avoid trade-offs and burden-shifting between ecosystems, regions and value chains. The need is that of industries, decision-makers, end-users and society. The topic links it to legal obligations industries must comply with: the Environmental Impact Assessment and Strategic Environmental Assessment Directives, the Nature Directives (the EU Birds and Habitats Directives), the EU Taxonomy Regulation, and the TEN-E regulation (the EU rules for trans-European energy infrastructure, which cover cross-border grid projects).",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 124–126 · HORIZON-NATURE-2027-01-02, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 115–118 · Horizontal call – Transformative change towards a nature-positive economy and society, introduction and Expected impact"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "Typologies of biodiversity impacts per industry, cumulative-impact assessments, European scenarios with cost-benefit analysis, and practical recommendations and tools tested in the field.\nConcretely, the topic asks for:\n- typologies of biodiversity benefits, impacts and dependencies per industrial activity, building on ENCORE\n- holistic assessments of direct, indirect and cumulative impacts on ecosystems and ecological connectivity\n- spatial biodiversity-focused scenarios and cost-benefit assessments of mitigation measures\n- recommendations and tools for society, industries and decision-makers, for example on permitting, spatial planning and investment screening\n- early evidence from testing these recommendations in practical conditions, showing measurable improvements and secured ecosystem services (the benefits people get from nature)\n- joint outputs with the other funded projects, such as a common dissemination strategy, common data management and policy strategies, joint policy briefs and workshops, and answers to science-to-policy requests with the EC Knowledge Centre for Biodiversity\nData produced should be FAIR (Findable, Accessible, Interoperable and Re-usable), as the call stresses data collection and management.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 124–126 · HORIZON-NATURE-2027-01-02, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 115–118 · Horizontal call – Transformative change towards a nature-positive economy and society, introduction and Expected impact"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Industries, end-users and decision-makers should choose least-harm transition options, avoid burden-shifting, and make clean and digital industries more resilient and nature-positive.\nThe project must contribute to all three expected outcomes:\n- society, end-users, industry and decision-makers better understand, anticipate and address the biodiversity impacts of Europe's reindustrialisation and decarbonisation across the whole value chain, from demand and design to operation, end of life and waste\n- they understand the biodiversity benefits and impacts of societal, political, economic and technological choices, including direct, indirect, cumulative, spatial and temporal effects\n- clean and digital industries become more resilient and get solutions to mitigate their impacts on terrestrial, marine and freshwater ecosystems, in line with the EU Taxonomy and the Do No Significant Harm principle (the EU rule that funded activities must not seriously harm environmental objectives)\nThe topic supports the EU biodiversity strategy for 2030, the Critical Raw Materials Act and the Clean Industrial Deal roadmap. At call level, projects should help put biodiversity on a path to recovery and help private actors meet their due diligence reporting duties. The topic sets no quantified targets. For a grid operator, this could mean better evidence for permitting and spatial planning of new lines, cables and substations.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 124–126 · HORIZON-NATURE-2027-01-02, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 115–118 · Horizontal call – Transformative change towards a nature-positive economy and society, introduction and Expected impact"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "Results must suit wide use by industries and decision-makers, be tested in practice, disseminated jointly and covered by a mandatory exploitation plan.\n- Wider use: the recommendations and tools must directly inform society, industries and decision-makers, and cover at least five industrial activities and three biogeographical regions, so they are not a single-site pilot\n- Replication: the project must test and operationalise recommendations with industrial partners, local authorities and civil society during the project; the call-level text asks for attention to cost-effectiveness, replicability, scalability and long-term deployment\n- Standards and frameworks: the work should support compliance with the EU Taxonomy, due diligence reporting and Sustainability Certification Alignment, and with environmental assessment and TEN-E rules; it sets no technical interface requirements\n- Dissemination: all funded projects should form a cluster with a common dissemination and communication strategy, joint policy briefs, workshops and cooperation with the EC Knowledge Centre for Biodiversity, in a work package with sufficient budget\n- Exploitation: every proposal must include a plan for exploiting and disseminating results, including communication activities\nThe topic does not say who must adopt, operate or finance the tools after the project.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 124–126 · HORIZON-NATURE-2027-01-02, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 115–118 · Horizontal call – Transformative change towards a nature-positive economy and society, introduction and Expected impact\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 4 · A — Admissibility"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "At least three independent organisations from three different countries; the call sets no maximum.\nThe general rule requires three legal entities independent from each other as beneficiaries (organisations that sign the grant agreement and receive funding), each established in a different country: at least one in an EU Member State and at least two others in different Member States or countries associated with Horizon Europe (non-EU countries that take part in the programme, such as Norway or the United Kingdom). Affiliated entities (organisations linked to a beneficiary, for example a subsidiary) do not count towards this minimum. With five industrial activities, three biogeographical regions and a transdisciplinary approach required, a realistic consortium will be considerably larger.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · B — Eligibility, Consortium composition\nHorizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 124–126 · HORIZON-NATURE-2027-01-02, Expected Outcome and Scope"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "The consortium must bring in industrial partners, local authorities, civil society and social sciences and humanities expertise; it must cover at least three biogeographical regions.\n- Industrial partners: the topic requires a transdisciplinary approach with the effective contribution of industrial partners, institutions and civil society, and asks that industrial partners, local authorities and civil society organisations test the recommendations\n- Social sciences and humanities (SSH): the topic requires the effective contribution of SSH disciplines and the involvement of SSH experts and institutions\n- Geography: proposals should cover at least three biogeographical regions of EU Member States or associated countries\n- Universities and research institutes are not required by name, but modelling, life-cycle analysis and natural capital accounting imply research partners\nThe topic adds no extra eligibility restriction. Unusually, legal entities established in China are eligible to take part in Research and Innovation Actions under this call. The multi-actor approach described for this call is a condition only for another topic, not this one.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 124–126 · HORIZON-NATURE-2027-01-02, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 123–124 · HORIZON-NATURE-2027-01-02, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 6–7 · B — Eligibility, Restrictions on the participation of legal entities established in China\nHorizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 118–120 · Specific conditions for multi-actor projects; p. 127 · HORIZON-NATURE-2027-01-03, Eligibility conditions"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "The call fixes no split of work or budget between partners, except a dedicated, budgeted work package for joint cluster activities.\n- Cluster work package: all selected projects should form a cluster and include joint networking, dissemination, data and policy activities in a dedicated work package with sufficient budget\n- Lump sum: because the grant is a lump sum (a fixed amount agreed in advance for the whole project, paid against completed work rather than against costs), the proposal must include a detailed budget table with estimated costs per partner and work package; this table fixes the lump sum, so the split agreed in the consortium is what each partner will receive",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 124–126 · HORIZON-NATURE-2027-01-02, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, Submission\nHorizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 123–124 · HORIZON-NATURE-2027-01-02, Specific conditions"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "Any beneficiary may coordinate; the call reserves the role for no type of organisation.\nThe coordinator submits the proposal and must confirm that it has the mandate to act for all applicants and that all participants meet the conditions for EU funding. The general rules set no further requirement for this role.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, Submission"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "Yes, in principle: TenneT TSO B.V. is established in the Netherlands, an EU Member State, and any beneficiary may coordinate.\nThe topic adds no eligibility restriction, so TenneT could lead a proposal. As coordinator it would carry the submission, the mandate from all partners and the project management, and the consortium would still need at least two further independent partners from two other eligible countries. In practice the topic's research-heavy content (five industrial activities, European-scale modelling, SSH work) suggests a research organisation would usually coordinate, with TenneT as the grid-infrastructure partner; this is our interpretation.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 11 · B — Eligibility, Entities eligible for funding\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, Submission\nHorizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 124–126 · HORIZON-NATURE-2027-01-02, Expected Outcome and Scope"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes, as an associated partner, which takes part without signing the grant agreement and without charging costs.\nThe general rules allow associated partners unless the topic says otherwise, and this topic does not exclude them. An associated partner bears all its own costs and does not count towards the three independent beneficiaries the consortium needs. TenneT could use this role to provide grid case studies, data or a test site for nature-based mitigation without the reporting duties of a beneficiary.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 5 · B — Eligibility, Specific cases, Associated partners\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Yes: as a beneficiary TenneT could receive up to 100% of its eligible costs, built into the project's lump sum.\nThis topic is a Research and Innovation Action (a project that mainly creates new knowledge or tests whether a new solution works), for which the maximum Horizon Europe funding rate is 100% for all types of organisation, including large companies. With a lump sum the rate is already applied when the amount is fixed and does not appear in the grant agreement. The Netherlands is an EU Member State, and the call refers to no Dutch national rules or co-funding. TenneT's share would depend on its tasks in the budget table and on the total the consortium requests (the Commission estimates around EUR 6 million per project).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 31 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 32 · Lump sum and unit grants\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 11 · B — Eligibility, Entities eligible for funding\nHorizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 123–124 · HORIZON-NATURE-2027-01-02, Specific conditions"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT could make the electricity grid one of the five industrial activities: real permitting cases, ecological monitoring data and sites to pilot nature-based mitigation.\nThis is our interpretation, based on the topic's explicit inclusion of the electricity grid and energy infrastructure, its focus on permitting, spatial planning and cumulative impacts, and TenneT's work in the Renewables Grid Initiative (nature-inclusive grid development with NGOs) and the FlatEMF study (ecological effects of subsea cables). Concrete contributions could be:\n- impact and dependency data from onshore lines, substations and offshore cable routes, as input to the grid typology\n- grid expansion scenarios to 2045 for the cumulative-impact and scenario work\n- lessons from environmental impact assessments and permitting of grid projects, to shape the recommendations\n- test sites for nature-based mitigation, such as biodiversity management under lines or around substations, and for biodiversity stress-tests\nThe topic's European scale means TenneT would be one sector partner among several, not the focus of the whole project.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 124–126 · HORIZON-NATURE-2027-01-02, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 115–118 · Horizontal call introduction"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The project must create new knowledge: it is a Research and Innovation Action, judged on ambition beyond the state of the art.\nIt must develop new typologies, cumulative-impact assessments and spatial scenarios, but may build on existing tools such as the ENCORE database, Absolute Environmental Sustainability Assessment, natural capital accounting and life-cycle analysis. The award criteria assess whether the work is ambitious and goes beyond the state of the art.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 124–126 · HORIZON-NATURE-2027-01-02, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 23 · D — Award criteria"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Mainly methods and decision-support tools, combined with governance and policy recommendations; technology is only one option among the recommendations.\nThe innovation lies in assessment methods (typologies, cumulative and spatial impact assessment, scenarios and cost-benefit analysis), decision-support tools for industries and decision-makers, and recommendations on policy, permitting, spatial planning, investment screening and biodiversity-friendly technologies. Social sciences and humanities are required, so societal and governance aspects are part of the object.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 124–126 · HORIZON-NATURE-2027-01-02, Expected Outcome and Scope"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Research, modelling and tool development, followed by testing of recommendations in practical conditions.\nResearch and Innovation Actions may include basic and applied research, technology development and integration, testing, demonstration and validation of a small-scale prototype in a laboratory or simulated environment. This topic adds testing and operationalising recommendations in practical conditions with industrial partners, local authorities and civil society, such as pilots of nature-based mitigation. Full-scale deployment is not part of this type of action.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 14 · B — Eligibility, Eligible activities, Research and innovation actions (RIA)\nHorizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 124–126 · HORIZON-NATURE-2027-01-02, Expected Outcome and Scope"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "The call sets no Technology Readiness Level (TRL, a 1–9 scale of maturity) for the start or end of the project.\nAs a Research and Innovation Action, the work normally ends with tools and recommendations validated in a limited or simulated setting, here with early evidence from practical tests.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 123–124 · HORIZON-NATURE-2027-01-02, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 14 · Eligible activities"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "Recommendations must be tested in practical conditions, for example pilots of nature-based mitigation, after-use of industrial sites or biodiversity stress-tests.\nThe topic asks the project to involve industrial partners, local authorities and civil society in testing and operationalising its recommendations and retrieving early evidence in practical conditions, demonstrating measurable improvements and secured ecosystem services. It does not require a specific living lab, region or operational infrastructure, but a grid operator's sites could serve as such a practical setting.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 124–126 · HORIZON-NATURE-2027-01-02, Expected Outcome and Scope"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The analyses must form one coherent assessment across five industries and whole value chains, linked to other funded projects and to existing EU policy processes.\n- The work covers the whole value chain, from demand, design and operation to end of life and waste, and the spatial and temporal dimension of impacts\n- Recommendations should feed into existing processes such as infrastructure permitting, spatial planning, environmental assessment and due diligence reporting\n- Projects should cooperate with projects from the Clean Industrial Deal Horizon Europe call and form a cluster with the other funded projects in this topic, including close cooperation with the EC Knowledge Centre for Biodiversity",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 124–126 · HORIZON-NATURE-2027-01-02, Expected Outcome and Scope"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "Field tests must show measurable improvements in biodiversity and secured ecosystem services; the call sets no specific indicators.\nProjects should provide cost-benefit assessments of biodiversity mitigation measures, compare business-as-usual with decarbonised, digitalised and circular industries, and gather early evidence from practical tests. Methods named include Absolute Environmental Sustainability Assessment, natural capital accounting, life-cycle analysis and system dynamics modelling.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 124–126 · HORIZON-NATURE-2027-01-02, Expected Outcome and Scope"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "Yes: industrial partners, local authorities and civil society organisations must take part in testing and operationalising the recommendations.\nThe topic requires a transdisciplinary approach with the effective contribution of industrial partners, institutions and civil society, so that results meet the needs of industry and decision-makers. The call-level text promotes co-creation: joint identification of problems, co-design of solutions and co-implementation of actions.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 124–126 · HORIZON-NATURE-2027-01-02, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 115–118 · Horizontal call – Transformative change towards a nature-positive economy and society, introduction and Expected impact"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "The Commission estimates an EU contribution of around EUR 6 million per project, within a topic budget of EUR 18 million for about 3 projects.\n- Grant request: around EUR 6 million per project, shared by all partners; proposals requesting other amounts may still be submitted and selected\n- Funding form: lump sum (a fixed amount agreed in advance for the whole project, paid against completed work rather than against costs)\nThe budgets are indicative, subject to the EU's 2026 budget, and final topic budgets may change by up to 20% after evaluation.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 123–124 · HORIZON-NATURE-2027-01-02, Specific conditions\nHorizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 12–14 · Call – Transformative change towards a nature-positive economy and society (HORIZON-NATURE-2027-01), Overview and footnote 10\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 29 · F — Procedure, Budget flexibility"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "All participants can receive up to 100% of their eligible costs; no own contribution is required.\nWith a lump sum the rate is already applied when the amount is fixed. The call sets no cash or in-kind co-financing condition.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "The lump sum rests on a detailed budget table that must follow EU cost-eligibility rules and fund a joint cluster work package.\n- Caps or mandatory allocations: the dedicated work package for joint cluster activities must have sufficient budget\n- Eligible costs: personnel, subcontracting, purchases and other categories, as estimated in the budget table\n- Overheads and VAT: indirect costs are normally a flat 25% of eligible direct costs, excluding subcontracting\n- Subcontracting or equipment: purchases and subcontracting must give best value for money and be free of conflicts of interest\n- Excluded costs: if the budget table contains ineligible costs, the grant may be reduced, even during or after the project",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 124–126 · HORIZON-NATURE-2027-01-02, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, Submission\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 32 · Budget categories and cost eligibility rules"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: a full proposal is due by 14 January 2027, 17:00 Brussels time, in the EU Funding & Tenders Portal.\n- Stage 1 — Full proposal: 14 January 2027, 17:00 Brussels time. Part A (an online administrative form, including the budget summary) and Part B (the technical description, at most 45 pages for a lump-sum Research and Innovation Action), submitted by the coordinator\n- Opening: the call opened on 13 October 2026 and the topic page confirms the submission session is available; the Director-General responsible may delay the deadline by up to two months",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 12–14 · Call – Transformative change towards a nature-positive economy and society (HORIZON-NATURE-2027-01), Overview and footnote 10\nFunding & Tenders Portal topic page HORIZON-NATURE-2027-01-02 · General information, Topic updates, Conditions and documents\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 4 · A — Admissibility, Page limits\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, Submission"
+        },
+        {
+          "title": "Project window",
+          "answer": "The call states no project duration or start date; the grant agreement fixes both.\n- Maximum duration: not set by the call; the duration is fixed in months in the grant agreement\n- Required start: normally after the grant agreement is signed; an earlier start is possible only exceptionally, for justified reasons and with the granting authority's agreement",
+          "sources": "Horizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 123–124 · HORIZON-NATURE-2027-01-02, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · G — Starting date & project duration"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Indicatively, results come about 5 months after the deadline and grant agreements are signed about 8 months after it.\n- Expected invitation or assessment result: around June 2027 (about 5 months after the deadline; indicative)\n- Grant agreement: around September 2027 (about 8 months after the deadline; indicative)\n- Conditions before starting: an invitation to grant preparation is not yet a funding commitment, since legal entity validation, financial capacity and exclusion checks follow",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 29 · F — Procedure, No commitment to provide funding"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "A complete electronic proposal in the Portal's own forms, including a detailed lump-sum budget table, an exploitation and dissemination plan and an ethics self-assessment.\n- Application form: Part A online and Part B uploaded as PDF in the Funding & Tenders Portal submission system; Part B at most 45 pages; excess pages are hidden from evaluators\n- Budget: a detailed budget table for the lump sum, with estimated costs per partner and work package\n- Mandatory annexes: a plan for exploiting and disseminating results, including communication activities; an ethics self-assessment\n- Registration: every beneficiary and associated partner needs a PIC (participant identification code) from the Participant Register before submission",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 4 · A — Admissibility, Page limits\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · Ethics\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Registration"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Experts score Excellence, Impact and Quality of implementation out of 5 each; a proposal needs at least 3 on each and 10 overall.\n- Evaluation criteria: Excellence (clear objectives, ambition beyond the state of the art, sound methodology including interdisciplinary approaches, the gender dimension and open science practices); Impact (credible pathway to the topic's expected outcomes, dissemination and exploitation measures); Quality and efficiency of implementation (work plan, risks, resources, and the capacity and role of each partner)\n- Thresholds: 3 out of 5 per criterion and 10 out of 15 overall\n- Ranking rules: proposals above the thresholds are funded in ranking order within the available budget; for equal scores a priority order based on the topic's objectives applies\n- Budget assessment: the lump sum is fixed from the budget table; comments on it appear in the evaluation report, proposals may be rejected for significant over- or underestimation of costs, and the grant may be lower than requested",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria, Scores and weighting\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 28 · F — Procedure, Evaluation procedure and ranking\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 31 · Form of grant, funding rate and maximum grant amount"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Public bodies and research organisations need a gender equality plan, and the cluster and SSH requirements must be visible in the proposal.\n- Exception — public bodies, research organisations and universities: they must have a gender equality plan at grant signature to be eligible\n- Conditional — ethics issues: proposals raising ethics issues get an ethics review and may receive ethics deliverables in the grant agreement\n- Recommended — cooperation: proposals should cooperate with projects from the Clean Industrial Deal Horizon Europe call and with the EC Knowledge Centre for Biodiversity",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 17 · Gender equality plans\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 15–16 · Ethics\nHorizon Europe Work Programme 2026–2027, Horizontal Activities · pp. 124–126 · HORIZON-NATURE-2027-01-02, Expected Outcome and Scope"
+        }
+      ]
+    }
+  ]
+}
