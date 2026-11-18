@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "Each funded municipality must develop an investment concept: a document that turns one sustainable energy project from its climate or energy plan into an investment package that banks and investors can assess.\nThe investment concept is a first step towards a full business and financial plan. It must cover the same project described in the application, and deviations are checked when the concept is validated. The final concept consists of the investment concept template (which may be written in the national language), an English summary, a financial model, an investors' deck and a letter of support for implementation signed by the mayor or another political representative.\nThe need originates with local government: many municipalities have ambitious climate and energy plans but lack the financial and legal capacity, staff and early-stage budget to turn them into mature, financeable projects, while financial institutions struggle to find projects mature enough to fund. The need is therefore that of municipalities and local authorities, and through them of the investors the concepts are meant to attract.\nThe project must be in sustainable energy, for example public or private building renovation, building-integrated renewables, district heating and cooling, sustainable urban mobility (including charging infrastructure), innovative energy infrastructure (such as energy communities, smart grids or energy storage), renewable energy production (solar, onshore or offshore wind, geothermal, hydrogen), public lighting or waste heat recovery. Projects relying on unabated fossil fuels are excluded. The grant must not pay for the investment itself.",
+          "sources": "EUCF Guidelines for Applicants Call 8.pdf · pp. 3–4 · 1.1.1 What is the EUCF?\nEUCF Guidelines for Applicants Call 8.pdf · pp. 7–8 · 1.3.3–1.3.5 Activities funded, investment projects supported and excluded\nEUCF Guidelines for Applicants Call 8.pdf · pp. 19–24 · 2.3.4 Main investment sectors\nEUCF Guidelines for Applicants Call 8.pdf · pp. 46–47 · 4.1.1 and 4.1.4 Investment concept"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The call aims to build a pipeline of local sustainable energy investments, with the strongest preference for energy savings.\nThe overall objective is to help municipalities carry out their sustainable energy and climate plans and to mobilise investment in energy efficiency, heating and cooling and renewable energy, from private investors, own funds or EU instruments such as ELENA (the European Investment Bank's technical assistance facility for local energy investments). Applicants must quantify the investment size in EUR and the expected impacts in energy savings (GWh per year), renewable energy production (GWh per year) and greenhouse gas reductions (tonnes of CO2 equivalent per year). The call sets no numeric target per project, but ambition in absolute and per-capita terms is scored against the other applications in the same region, and projects whose impacts are mainly energy savings score highest. The call also asks applicants to explain how the project could be replicated or scaled up elsewhere, supporting the aim of pooling smaller local projects into larger portfolios.",
+          "sources": "EUCF Guidelines for Applicants Call 8.pdf · pp. 4 · 1.1.1–1.1.2 What is the EUCF and its objectives\nEUCF Guidelines for Applicants Call 8.pdf · pp. 18, 28–29 · 2.3.2 items 3.7–3.10 and 2.3.8 Expected impacts\nEUCF Guidelines for Applicants Call 8.pdf · p. 43 · 3.1.5 Focus on energy efficiency"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "Only Dutch and other European municipalities, local authorities, their groupings and local public entities that bring municipalities together may apply; no companies, utilities or research bodies.\n- Lead applicant: the municipality or local authority itself; in a grouping (formal or informal), one municipality must act as lead applicant, sign the grant agreement and share the grant among the partners.\n- Eligible bodies: municipalities or local authorities, groupings of them, and local public entities aggregating municipalities (a tier of local government below the regional and provincial levels that municipalities are obliged to join). Public agencies, energy agencies and public companies owned or managed by a municipality are not eligible.\n- Countries: located entirely in an EU Member State (including the Netherlands), Iceland, Ukraine, Moldova, Montenegro or North Macedonia. Dutch applicants compete in the Nordic countries and Western Europe region, which has 16 of the 62 grants.\n- Exclusion: municipalities that already received support in an earlier call, alone or in a grouping, may not apply again.\n- Distribution of work: there are no partner rules; the grant can pay in-house staff or external experts and subcontractors.\nThe call suits small and medium-sized municipalities, which it encourages to apply jointly. Consultancies, engineering firms and energy advisers may benefit as subcontractors hired by a municipality, but cannot apply themselves.",
+          "sources": "EUCF Guidelines for Applicants Call 8.pdf · pp. 7–8 · 1.3.1 and 1.3.3 Who can apply and activities funded\nEUCF Guidelines for Applicants Call 8.pdf · pp. 13–14 · 2.2.1 Eligibility criteria\nEUCF Guidelines for Applicants Call 8.pdf · pp. 32–36 · 2.5 and 2.6 Groupings and local public entities\nEUCF website, Call 8 page (eucityfacility.eu/ongoing-call) · Budget"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": "No new technology is required: the call funds the preparation of an investment case for proven sustainable energy measures, not research.\nThe innovation sought lies in project preparation and financing: turning plan measures into a financeable package, with feasibility, engineering, legal, social, market and financial analyses, and pooling smaller projects into larger portfolios. Innovative energy infrastructure, such as energy communities, smart grid development, energy storage or hydrogen infrastructure, is one of the eligible investment sectors, but the call does not require innovation in technology, system architecture or market arrangements.",
+          "sources": "EUCF Guidelines for Applicants Call 8.pdf · pp. 5, 8 · 1.1.3 Guiding principles and 1.3.3 Activities funded\nEUCF Guidelines for Applicants Call 8.pdf · p. 22 · 2.3.4 Innovative energy infrastructure"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "Dutch municipalities could use this grant to prepare local solar, wind, heat-network, charging and storage projects that will later need grid capacity and local public support.\nThis is our interpretation. The call funds investment concepts for local energy projects, including renewable energy production, energy communities, smart grids, energy storage and electrified mobility. In the Netherlands such projects shape regional demand for connections and congestion, and well-prepared, locally supported projects can ease discussions such as those TenneT holds in the regional energy boards with municipalities and distribution operators. TenneT could point Dutch municipalities to this call, for example where a local plan includes storage or flexibility that would relieve a congested area.\nTenneT cannot take part itself: only municipalities, local authorities, their groupings and local public entities aggregating municipalities may apply, and the call sets out no role for a grid operator.",
+          "sources": "EUCF Guidelines for Applicants Call 8.pdf · pp. 8, 22–23 · 1.3.4 and 2.3.4 Investment sectors\nEUCF Guidelines for Applicants Call 8.pdf · p. 13 · 2.2.1 Eligibility criteria"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "A fixed lump-sum grant of EUR 60,000 per application; Call 8 has EUR 3.72 million for 62 grants.\n- Grant request: exactly EUR 60,000 per application, whether from one municipality or a grouping; for a grouping it is awarded to the grouping as a whole.\n- Total project size: the call sets no minimum or maximum investment size for the energy project the concept prepares; that investment is not funded by the grant.\n- Funding form: lump sum (a fixed amount paid against delivery of the investment concept, not against costs actually incurred).\n- Regional allocation: 16 grants for Nordic countries and Western Europe (including the Netherlands), 23 for Southern Europe, 23 for Central and Eastern Europe.",
+          "sources": "EUCF Guidelines for Applicants Call 8.pdf · p. 7 · 1.3.2 Type of financial support\nEUCF Guidelines for Applicants Call 8.pdf · p. 28 · 2.3.7 Expected investment size\nEUCF Guidelines for Applicants Call 8.pdf · p. 33 · 2.5.1 Groupings\nEUCF website, Call 8 page (eucityfacility.eu/ongoing-call) · Financial Support and Budget"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "The call states no funding rate or co-financing requirement: the EUR 60,000 is a fixed amount, and the investment itself must be financed from other sources.\n- Co-financing conditions: none are required for developing the concept. The later investment may be financed by private investors, the municipality's own funds or other EU instruments such as ELENA.",
+          "sources": "EUCF Guidelines for Applicants Call 8.pdf · pp. 4, 7–8 · 1.1.1, 1.3.2 and 1.3.3"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "The grant may pay only for preparing the investment concept, not for the investment itself.\n- Eligible costs: in-house staff, external experts and subcontractors for feasibility studies, engineering, legal, social, market and financial analyses, energy audits, and participation in capacity-building events.\n- Excluded costs: the actual investments; and no investment concept may concern projects relying on unabated fossil fuels.",
+          "sources": "EUCF Guidelines for Applicants Call 8.pdf · pp. 7–8 · 1.3.3–1.3.5"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "Most of the grant is paid upfront, the rest only once the investment concept is approved.\n- Payment model: 65% pre-financing when the grant agreement is signed; 35% after positive validation of the investment concept by an evaluation team. A concept that fails validation does not receive the final 35%.",
+          "sources": "EUCF Guidelines for Applicants Call 8.pdf · p. 7 · 1.2.2 Grant Agreement phase\nEUCF Guidelines for Applicants Call 8.pdf · pp. 45, 47 · 3.3.3 and 4.1.5"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One online stage, preceded by an automatic eligibility check on the EUCF website.\n- Stage 1 — Eligibility check: online questionnaire on the EUCF website; the applicant must answer yes to all questions and then receives login details for the user zone.\n- Stage 2 — Full application: 21 December 2026, 17:00 Brussels time; the call opened on 26 October 2026. Submitted in English in the EUCF website user zone with the climate or energy plan and the letter of political support. No invitation is needed after passing the eligibility check.",
+          "sources": "EUCF Guidelines for Applicants Call 8.pdf · pp. 6, 10, 12 · 1.2.2, 2.1.1 and 2.1.3\nEUCF website, Call 8 page (eucityfacility.eu/ongoing-call) · Timeline and How to Apply"
+        },
+        {
+          "title": "Project window",
+          "answer": "The investment concept must be finished within 12 months of signing the grant agreement, followed by two years of monitoring.\n- Maximum duration: 12 months from the grant agreement signature.\n- Completion deadline: a monitoring period of two years follows, starting one year after the investment concept is submitted, with two short monitoring forms.",
+          "sources": "EUCF Guidelines for Applicants Call 8.pdf · pp. 7, 46 · 1.2.2 and 4.1.3\nEUCF Guidelines for Applicants Call 8.pdf · pp. 13–15 · 2.2.1 criterion 5 and 2.2.5"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Results are expected about two months after the 21 December 2026 deadline, with grant signature within two months after that.\n- Expected assessment result: about two months after the call closes, so around February 2027 (indicative); complaints may be raised within 10 working days of the notification.\n- Grant agreement: signed with Energy Cities, the EUCF coordinator, within two months of the selection notice; otherwise the award may be annulled and the next applicant on the regional waiting list invited.",
+          "sources": "EUCF Guidelines for Applicants Call 8.pdf · pp. 44–45 · 3.2.1–3.2.3 and 3.3.1–3.3.2"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "The application must include the online form in English, the local climate or energy plan and a letter of political support on the EUCF template.\n- Application form: online in the EUCF website user zone, in English, with four sections: applicant identification, political commitments, proposed investment project and use of EUCF support.\n- Budget: no cost budget; a table of intended measures with investment costs in EUR and impacts in GWh per year and tonnes CO2 equivalent per year.\n- Mandatory annexes: a Sustainable Energy and Climate Action Plan (SECAP, the plan made under the Covenant of Mayors) or another local climate or energy plan with mitigation targets, or a Local Heating and Cooling Plan, as PDF, in the national language or English.\n- Partner documents: a letter of support signed by the mayor or other political representative, in English, on the mandatory EUCF template; applications without the template are not evaluated.",
+          "sources": "EUCF Guidelines for Applicants Call 8.pdf · pp. 15–18 · 2.3.2 Application form\nEUCF Guidelines for Applicants Call 8.pdf · pp. 29–32 · 2.4 Required documents"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Applications are scored out of 20 on four criteria and ranked within each of the three regions.\n- Evaluation criteria: ambition of the investment concept (7 points, of which 2.5 for a focus on energy efficiency); governance structure for developing the concept (5); stakeholder engagement strategy (5); coherence and plausibility (3).\n- Thresholds: at least 50% on criteria 2, 3 and 4; none on criterion 1. Applications with identical or similar content to others are rejected.\n- Ranking rules: the best scores within each regional budget are selected; ties go to the higher impacts per capita. Groupings of municipalities are appreciated.",
+          "sources": "EUCF Guidelines for Applicants Call 8.pdf · pp. 38–43 · 3.1.3–3.1.7"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    }
+  ]
+}
