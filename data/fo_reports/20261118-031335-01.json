@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "Small companies must test, validate or demonstrate hydrogen technologies, components or services that fill gaps in NASCHA's hydrogen value chains.\nNASCHA (North Adriatic Smart Communities Hydrogen Accelerator) is an EU-funded project that runs five hydrogen pilots in Slovenia, Croatia and the Italian region Friuli Venezia Giulia: hydrogen for irrigation, urban hydrogen energy storage, island energy resilience, mobile hydrogen refuelling and composite hydrogen storage tanks. This open call passes part of the project's EU grant on to SMEs (small and medium-sized enterprises). Their sub-projects must address one of 16 topics in the call's technical annex, for example:\n- hydrogen safety, certification and traceability (including Guarantees of Origin, certificates that prove electricity or hydrogen is renewable)\n- storage and transport hardware, such as high-pressure cylinder racks and standard fill interfaces for composite tanks\n- urban power-to-hydrogen-to-power integration and control logic, turning surplus solar electricity into hydrogen and back\n- island hydrogen logistics and resilience services\n- energy-community metering and local balancing models for hydrogen-enabled sites\nThe need comes from the project's own value-chain analysis: gaps the consortium cannot fill itself and applications its pilots do not yet cover. One pilot explicitly converts surplus solar electricity into hydrogen when direct injection into the electricity grid is constrained.",
+          "sources": "NASCHA Open Call Guidelines · pp. 2–5 · Abstract; 1 About the Project; 1.1 Objectives of financial support to third parties\nNASCHA Open Call Guidelines · p. 8 · 2.2 Activities that can be funded\nNASCHA Annex 1 – Technical Specifications · pp. 1–7 · List of topics"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Sub-projects must produce measurable technical and business results that strengthen the North Adriatic hydrogen ecosystem and its uptake in new sectors.\nThe call expects:\n- technology validation in relevant or operational environments\n- prototypes and improved technologies\n- integration of complementary solutions into NASCHA's value chains\n- new applications and business models for hydrogen production, storage, distribution, mobility and urban use\n- evidence of scalability, replicability and market uptake\nResults are tracked against technical and business KPIs (key performance indicators) set by the project. The call also has a regional-development aim: at least two thirds of the funding must go to SMEs in less developed regions (EU regions with income per person below 75% of the EU average), to reduce regional innovation gaps. It sets no quantified energy or emission targets.",
+          "sources": "NASCHA Open Call Guidelines · pp. 4–5 · 1.1 Objectives of financial support to third parties\nNASCHA Open Call Guidelines · p. 12 · 3.4 Expected Results from Applicants\nNASCHA Open Call Guidelines · p. 13 · 4.2 Evaluation"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "Hydrogen technology and service SMEs and start-ups based in Slovenia, Croatia, parts of Italy or other less developed EU regions.\n- Lead applicant: an SME, alone or as one of two or three SMEs in a consortium; every member must be an SME.\n- Location: every applicant must be legally established, at submission, in one of the listed regions: all of Slovenia and Croatia, Friuli Venezia Giulia and southern and central Italian regions, and named less developed regions of Portugal, Spain, Belgium (Wallonie), the French overseas regions, Greece, Bulgaria, Romania, Hungary, Slovakia, Poland, Czechia, Lithuania and Latvia. The Netherlands is not listed.\n- No universities, research institutes, large companies or public bodies can be applicants; SMEs that are members of the NASCHA consortium are excluded.\n- Work sharing: each SME may receive at most EUR 60,000, and a consortium must show how the grant is split among members. Each SME can be funded only once.\nThe call suits suppliers of electrolysis, storage, safety, monitoring, digital and engineering services for hydrogen systems, and service firms in market analysis.",
+          "sources": "NASCHA Open Call Guidelines · pp. 5–7 · 2.1 Who can apply?\nNASCHA Open Call Guidelines · p. 10 · 3.1 Maximum Grant Amount per Project\nNASCHA Open Call Guidelines · p. 12 · 4.1 Eligibility"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": "Sub-projects may adapt and apply existing, mature solutions; genuinely new technology is welcome but not required.\nThe call funds experimentation, validation and demonstration of innovative hydrogen solutions, with particular attention to high-TRL technologies (technologies close to market) and to applying them in new sectors. Innovation can lie in technology (components, control systems, materials), system integration, services, certification and compliance frameworks, or business models such as demand aggregation, service pricing and revenue-sharing for energy communities. Evaluators score progress beyond the state of the art as part of alignment with NASCHA objectives.",
+          "sources": "NASCHA Open Call Guidelines · p. 8 · 2.2 Activities that can be funded\nNASCHA Open Call Guidelines · p. 13 · 4.2 Evaluation, criterion A1\nNASCHA Annex 1 – Technical Specifications · p. 1 · Note for applicants"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "High maturity is preferred: solutions should already be close to validation in a real operating setting.\nThe technical annex gives preference to solutions with an appropriate TRL (technology readiness level, a 1–9 scale from idea to proven product), a credible path to validation in a relevant operational environment and a clear potential for integration into the pilot infrastructure and later commercial deployment. The call names no TRL numbers.",
+          "sources": "NASCHA Annex 1 – Technical Specifications · p. 1 · Note for applicants\nNASCHA Open Call Guidelines · p. 8 · 2.2 Activities that can be funded"
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": "Solutions must be tested in relevant or operational environments and fit into NASCHA's pilots and hydrogen value chains.\nThe call funds testing and demonstration in relevant or operational environments, and integration of components or services into the project's value chains. Proposals are scored on consistency with the pilot value chains and, in the interview, on compatibility with the value chain. NASCHA partners may give access to testing facilities, laboratories or other infrastructure where available. Many topics ask for integration concepts with existing sites, for example control logic for urban storage and reconversion, or integration with irrigation infrastructure.",
+          "sources": "NASCHA Open Call Guidelines · p. 8 · 2.2 Activities that can be funded\nNASCHA Open Call Guidelines · pp. 13–14 · 4.2 Evaluation\nNASCHA Open Call Guidelines · p. 16 · 5 Roles and Expectations\nNASCHA Annex 1 – Technical Specifications · pp. 2–7"
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "The call could improve hydrogen-based storage and flexibility solutions that turn surplus renewable electricity into hydrogen when the grid cannot take it.\nSeveral topics, such as urban power-to-hydrogen-to-power control logic and energy-community local balancing models, concern electrolysers and hydrogen storage acting as flexible demand and storage. Mature, replicable solutions of this kind could later add flexibility and conversion capacity that eases congestion in the Dutch grid, although the pilots are in the North Adriatic and the benefit to TenneT is indirect. TenneT cannot take part itself: only SMEs established in the listed regions may apply, the Netherlands is not one of them, and the call sets out no role for grid operators.",
+          "sources": "NASCHA Open Call Guidelines · pp. 3–6 · 1 About the Project; 2.1 Who can apply?\nNASCHA Annex 1 – Technical Specifications · pp. 4 and 7 · Urban power-to-H₂-to-power integration and control logic; Energy-community metering and local balancing model"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "Up to EUR 60,000 per SME and EUR 180,000 per consortium, from a first-call budget of EUR 600,000.\n- Grant request: up to EUR 60,000 per SME; up to EUR 180,000 for a consortium of two or three SMEs, with no member above EUR 60,000. The final amount is set during evaluation and contracting.\n- Funding form: lump sum (a fixed amount paid against completed activities, not against reported costs).\nUnused first-call budget moves to the second open call; the two calls together have EUR 1.2 million for up to 20 SMEs.",
+          "sources": "NASCHA Open Call Guidelines · pp. 9–11 · 2.3 Open Call structure; 3.1 Maximum Grant Amount per Project; 3.3 Funding Scheme"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "The grant covers 100% of the approved amount; no own contribution is required.\n- Co-financing conditions: none set; the same activities, costs or outputs may not also be funded from another EU, national, regional or local source, and applicants must declare other funding received or requested.",
+          "sources": "NASCHA Open Call Guidelines · p. 10 · 3.2 Funding rate"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "No cost category is excluded, but the budget must be detailed and reasonable.\n- Eligible costs: personnel, subcontracting, travel and subsistence, equipment (depreciation only) and other goods, works and services, under the basic eligibility rules of the I3 grant agreement.\n- Overheads: the 7% flat rate for indirect costs mentioned in the grant agreement extract is not extra funding on top of the lump sum.\n- Costs of taking part in NASCHA events are not reimbursed separately but may be included in the budget.",
+          "sources": "NASCHA Open Call Guidelines · pp. 11–12 · 3.3.1 Eligible costs\nNASCHA Annex 3 – Eligible costs · p. 1\nNASCHA Open Call Guidelines · p. 17 · 6 Obligations of the beneficiaries"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "Payment comes in three instalments tied to approved reports.\n- Payment model: 20% after signing the sub-grant agreement and approval of the inception report (month 1); 50% after the intermediate report at month 3; 30% after the final report.\n- Financial reporting or audit: no cost reporting, but beneficiaries must keep evidence of the work, and EU auditors and anti-fraud bodies may check them; serious breaches can lead to recovery of paid amounts.",
+          "sources": "NASCHA Open Call Guidelines · p. 10 · 3.1 Maximum Grant Amount per Project\nNASCHA Open Call Guidelines · pp. 11 and 16–17 · 3.3.1 Eligible costs; 6 Obligations of the beneficiaries"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One application stage, then an interview for the best-ranked; proposals go in English through the NASCHA platform.\n- Stage 1 — Application: open from 12 November 2026 to 18 January 2027, submitted only through nascha.meta-group.com with the official proposal template (Annex 2); late or off-template applications are ineligible.\n- Stage 2 — Interview: by invitation, for the highest-ranked applicants until 150% of the budget is covered; a pitch of at most 10 minutes.\n- Additional procedure: two online information sessions on 25 November 2026 and 16 December 2026, both at 14:00 CET.",
+          "sources": "NASCHA Open Calls web page · NASCHA First Open Call for SMEs; Open Days\nNASCHA Open Call Guidelines · pp. 9–10 and 13–14 · 3 Submission of applications; 4.2 Evaluation"
+        },
+        {
+          "title": "Project window",
+          "answer": "Sub-projects last at most 9 months.\n- Maximum duration: 9 months for the first open call (the call states a maximum between 6 and 9 months); longer proposals are ineligible, shorter ones are allowed.\n- Required start: not stated; work starts after the sub-grant agreement is signed.",
+          "sources": "NASCHA Open Call Guidelines · p. 9 · 2.4 Duration of the sub-projects"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Results within 60 working days of the deadline, then a sub-grant agreement.\n- Funding decision: communicated within 60 working days of 18 January 2027.\n- Conditions before starting: sign the sub-grant agreement, prove SME status and legal establishment, and hold a registered PIC (Participant Identification Code, the EU registration number of an organisation).\nPositively evaluated but unfunded proposals go on a reserve list valid for 120 days.",
+          "sources": "NASCHA Open Call Guidelines · pp. 14 and 17 · 4.2 Evaluation; 6 Obligations of the beneficiaries"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "The official template, SME and location self-declarations and a detailed budget are required.\n- Application form: Annex 2 proposal template, in English, through nascha.meta-group.com.\n- Budget: a detailed budget linked to the action plan; consortia must show the split per member.\n- Partner documents: self-declaration of SME status and legal establishment, evidence of geographical eligibility and a financial-stability declaration; firms in difficulty under EU state-aid rules are ineligible.\n- Registration: a PIC, at the latest before signing the sub-grant agreement.",
+          "sources": "NASCHA Open Call Guidelines · pp. 9–13 · 3 Submission of applications; 4.1 Eligibility\nNASCHA Guidelines for applicants (Annex 4) · pp. 1–2 · Steps 1–4"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Two scored rounds: a written assessment out of 60 points and an interview out of 10.\n- Evaluation criteria: relevance (alignment with NASCHA objectives, consistency with pilot value chains, complementarity with other I3 projects), quality (feasibility, marketing plan, applicant credibility) and impact (market potential, social, territorial and environmental impact, transnational impact, impact on less developed regions); the interview scores feasibility and value-chain compatibility.\n- Thresholds: at least 35 of 60 points in round one and 6 of 10 in the interview.\n- Weighting: alignment, feasibility and market potential count double.\n- Ranking rules: at least two thirds of the budget goes to less developed regions, and the portfolio is balanced across pilots, technologies and regions; ties go to teams with more women.",
+          "sources": "NASCHA Open Call Guidelines · pp. 13–15 · 4.2 Evaluation; 4.3 Gender policy"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Selected SMEs must join the project's mentoring and acceleration activities.\n- Conditional — selection: take part in information sessions, mentoring, monitoring and capacity-building; not attending can terminate the grant.\n- Conditional — joint results: agree ownership of jointly generated results with NASCHA partners before collaboration starts, or the grant may not be awarded.\n- Recommended: SMEs from other I3 projects are encouraged to apply, provided the same activities are not funded twice.",
+          "sources": "NASCHA Open Call Guidelines · pp. 7, 15–18 · 2.1 Who can apply?; 5 Roles and Expectations; 8 IPR"
+        }
+      ]
+    }
+  ]
+}

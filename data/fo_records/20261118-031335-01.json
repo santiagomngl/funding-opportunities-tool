@@ -1,0 +1,38 @@
+{
+  "id": "20261118-031335-01",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "First Open Call – NASCHA",
+  "organization_or_parent_framework": "Interregional Innovation Investments (I3) Instrument",
+  "programme": "NASCHA",
+  "call_title": "First Open Call",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://www.nascha.eu/open-calls/",
+  "executive_summary": "Cascade call of NASCHA (North Adriatic Smart Communities Hydrogen Accelerator), a project funded by the EU's Interregional Innovation Investments (I3) Instrument and implemented by EISMEA. It funds SME-led experimentation, validation and demonstration of hydrogen technologies, components and services that fill gaps in NASCHA's hydrogen value chains, against 16 topics such as hydrogen safety and certification, storage and distribution hardware, urban power-to-hydrogen-to-power control logic, island resilience and energy-community metering and local balancing. Only SMEs and start-ups established in listed regions of Slovenia, Croatia, Italy and less developed regions of other EU countries may apply, alone or in consortia of two or three SMEs; the Netherlands is not among them. Lump-sum grants cover 100% of the approved amount, up to EUR 60,000 per SME and EUR 180,000 per consortium, from a first-call budget of EUR 600,000; sub-projects last at most 9 months. Open from 12 November 2026 to 18 January 2027.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-01-18",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": 180000,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "The NASCHA Open Call Guidelines (sections 2.2 and 3.4) and Annex 1 – Technical Specifications fund SME-led validation and demonstration of hydrogen production, storage, reconversion and local-balancing solutions, including urban power-to-H2-to-power control logic and energy-community balancing models. This touches TenneT's field only indirectly, through electrolysis and hydrogen storage as flexible demand and storage that can absorb renewable electricity when grid injection is constrained; no project file is close, DataFleX (flexibility) being the nearest. Section 2.1 and 4.1 of the Guidelines limit applicants to SMEs established in listed regions of Slovenia, Croatia, Italy and other less developed EU regions, which excludes TenneT TSO B.V., and the call sets out no other role for an organisation like TenneT, so the call is Type 3. C3.3 fits because the funded solutions are hydrogen-based flexibility and storage; both project dates are null because the call states only a maximum duration of 9 months and no start or end date.",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T5"
+    ],
+    "role": [],
+    "activity": [
+      "A5",
+      "A7",
+      "A8"
+    ],
+    "outcome": [
+      "O10"
+    ]
+  }
+}

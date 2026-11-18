@@ -1,0 +1,28 @@
+{
+  "id": "20261118-031335-02",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-CL5-2027-03-D5-05 Higher Voltage, Megawatt Charging System compatible, modular powertrain for Heavy Duty Vehicles (HDV) (2ZERO Partnership) – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "MOBILITY (HORIZON-CL5-2027-03)",
+  "call_module_title": "HORIZON-CL5-2027-03-D5-05 Higher Voltage, Megawatt Charging System compatible, modular powertrain for Heavy Duty Vehicles (HDV) (2ZERO Partnership)",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-03-D5-05",
+  "executive_summary": "Horizon Europe Innovation Action under the 2ZERO partnership (Towards zero emission road transport) that funds modular, higher-voltage (above 800 V) powertrains for heavy-duty battery-electric vehicles, compatible with the Megawatt Charging System, aiming to cut charging losses inside the vehicle by 10%, simplify system configurations, address auxiliary components and thermal management, and demonstrate vehicle solutions in relevant environments up to TRL 7. Open to consortia under the standard Horizon Europe rules, excluding entities controlled from China; funded as a lump sum at the Innovation Action rates (70% for for-profit entities, 100% for non-profit). Indicative topic budget EUR 16 million, around EUR 8 million per project. Planned opening 15 December 2026; single-stage deadline 14 April 2027.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-04-14",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "Horizon Europe Work Programme 2026–2027 Part 8 (Climate, Energy and Mobility), pp. 223–225, Specific conditions, Expected Outcome and Scope of HORIZON-CL5-2027-03-D5-05, funds the design and in-vehicle demonstration of higher-voltage, modular powertrains for heavy-duty electric trucks, including vehicle-side compatibility with Megawatt Charging Systems and reduced charging losses within the vehicle. It does not touch TenneT's field: the scope is limited to the vehicle's powertrain, battery, E/E architecture and thermal management, sets no work on charging infrastructure, grid connection or grid impact, and no project file is close to it. Both project dates are null because the call states no start, end or duration.",
+  "call_type": "Not relevant",
+  "category_codes": [],
+  "taxonomy_values": {
+    "topic": [],
+    "role": [],
+    "activity": [],
+    "outcome": []
+  }
+}
