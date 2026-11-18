@@ -1,0 +1,42 @@
+{
+  "id": "20261118-092856-03",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-INFRA-2027-TECH-01-02 Pioneering Destination Earth for a Sustainable Future: Large-Scale Pilots and Demonstrators – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "Research Infrastructures 2027 (HORIZON-INFRA-2027-01)",
+  "call_module_title": "HORIZON-INFRA-2027-TECH-01-02 Pioneering Destination Earth for a Sustainable Future: Large-Scale Pilots and Demonstrators",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-INFRA-2027-TECH-01-02",
+  "executive_summary": "Horizon Europe Research and Innovation Action (Research Infrastructures, Destination INFRATECH) that funds large-scale pilots and demonstrators using the European Commission's Destination Earth system (a digital twin of the Earth) and AI to tackle climate change adaptation and risk mitigation in critical impact sectors linked to public policy, such as climate-induced changes in the energy, agri-food or mobility sectors. Pilots must be co-designed and tested in at least three Member States or Associated Countries with researchers, AI developers, public policy experts and decision-makers, must use Destination Earth, and should reach TRL 5 or higher. Standard Horizon Europe consortia of at least three independent entities from three countries may apply; the lump-sum grant covers 100% of eligible costs, with an expected EU contribution of EUR 7–12 million per project from a topic budget of EUR 30 million for about 3 projects. Opens 9 March 2027; single-stage deadline 15 June 2027, 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-06-15",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "Horizon Europe Work Programme 2026-2027 Part 3 (Research Infrastructures), pp. 89–92 (HORIZON-INFRA-2027-TECH-01-02, Expected Outcome and Scope), funds large-scale Destination Earth pilots that test climate adaptation and risk-mitigation measures in critical impact sectors, naming climate-induced changes in the energy sector as an example. It touches TenneT's field because an energy-sector pilot could model climate hazards to transmission infrastructure and security of supply, close to the digital-twin work of NFDTES, the Digital Twin Programme and TwinEU but based on an Earth-system rather than a grid-operation twin; that such a pilot fits the topic is our interpretation. The topic sets no restriction beyond General Annex B (any legal entity in a Member State or Associated Country, consortium of three independent entities from three countries) and General Annex G (p. 31) pays Research and Innovation Actions at 100%, so TenneT TSO B.V. could be a funded consortium partner, for example as end user and data provider of an energy pilot: Type 1 with C1.3. No project start, end or duration is stated, so both project dates are null.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T1",
+      "T8"
+    ],
+    "role": [
+      "R2",
+      "R9",
+      "R10"
+    ],
+    "activity": [
+      "A6",
+      "A7"
+    ],
+    "outcome": [
+      "O9"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "20261118-092856-05",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-CL6-2027-01-BIODIV-03 Technical innovation to protect ecosystems and to scale up their restoration – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "Call 01 - single stage (2027) (HORIZON-CL6-2027-01)",
+  "call_module_title": "HORIZON-CL6-2027-01-BIODIV-03 Technical innovation to protect ecosystems and to scale up their restoration",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-01-BIODIV-03",
+  "executive_summary": "Horizon Europe Cluster 6 Innovation Action that funds the design, development and testing of technical innovations for specific ecosystem protection and restoration activities, such as new or adapted machines, low-tech tools and digital innovations for terrestrial, freshwater and marine ecosystems, reaching TRL 6-7, in support of the EU Nature Restoration Regulation. Consortia of at least three independent legal entities from three different Member States or Associated Countries may apply; the topic is described as particularly relevant for SMEs, and entities established in China are excluded. Lump-sum grant at the Innovation Action rate of 70% (100% for non-profit entities), with an expected EU contribution of around EUR 7 million per project from a topic budget of EUR 14 million for about two projects. Opens 20 April 2027; single-stage deadline 22 September 2027, 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-09-22",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "Horizon Europe Work Programme 2026-2027 Part 9 (Cluster 6), pp. 79-81 (HORIZON-CL6-2027-01-BIODIV-03, Specific conditions, Expected Outcome and Scope), funds technical innovations such as machines, low-tech tools and digital tools for protecting and restoring terrestrial, freshwater and marine ecosystems. It touches TenneT's field only at the edge: in our interpretation, marine and terrestrial restoration tools could help the nature restoration and compensation that accompany offshore cable routes and onshore grid works, the environmental side of the FlatEMF study (ecological impact of subsea cables) and the Renewables Grid Initiative (nature-inclusive grid development). The scope addresses ecosystem restoration practitioners and sets out no route or role for an electricity grid operator, so what we read does not establish a TenneT route: Type 3. C3.7 fits because the benefit to TenneT is better restoration and nature-inclusive practice that can support permitting and public acceptance.",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.7"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T9"
+    ],
+    "role": [],
+    "activity": [
+      "A5",
+      "A6",
+      "A7",
+      "A8"
+    ],
+    "outcome": [
+      "O5"
+    ]
+  }
+}

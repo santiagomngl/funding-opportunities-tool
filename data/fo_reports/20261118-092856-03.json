@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "Large-scale pilots and demonstrators that use the EU's Destination Earth system (a digital model of the Earth) and AI to test climate adaptation and risk-mitigation measures.\nThe project must plan, design and run large-scale experimental pilots and demonstrators that use Destination Earth (DestinE, the EU flagship digital twin that models and simulates natural phenomena, hazards and related human activities) in critical sectors linked to public policy. Each pilot must tackle a real-world challenge caused or made worse by climate change, such as climate-induced changes in the energy, agri-food or mobility sectors, and propose, test and analyse adaptation and risk-mitigation measures in real-life scenarios. The pilots should also add new AI-enabled digital twins to the data infrastructure around DestinE, using the Data Labs of the EU AI Factories (EU-funded supercomputing centres for AI).",
+          "sources": "wp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 90–92 · HORIZON-INFRA-2027-TECH-01-02, Expected Outcome and Scope\nwp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 79–80 · Destination INFRATECH"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Proposals must cover all five activity lines the topic lists; energy is named only as one example of an impact sector.\nThe topic says proposals should cover all of the following:\n- Planning, designing and overseeing large-scale pilots and demonstrators using DestinE capabilities in critical impact sectors linked to public policy, on climate change adaptation and risk mitigation, at European, national, regional and local scale\n- Improving models and coupling models used in different sectors, considering cross-sectoral effects of climate change, for example on health, energy, agri-food or mobility, and testing adaptation and risk-mitigation measures in real-life scenarios\n- Contributing to the data infrastructure around DestinE for new AI-enabled digital twins, by using the Data Labs of the AI Factories and integrating them in the DestinE system\n- Co-designing and experimenting the pilots in at least three Member States (EU countries) and/or Associated Countries (non-EU countries that take part in Horizon Europe), with research scientists, AI developers, public policy experts and decision-makers\n- Showing sustainable set-ups, including interactivity with digital twins, adapting to changing data and on-demand visualisation\nThe pilots should also integrate place-based governance, socio-economic and other local data so that authorities can take targeted, data-driven measures. Proposals must use DestinE and follow its standards for interoperability. The topic names no excluded activities. A TenneT-related proposal would therefore have to frame grid issues as one cross-sectoral climate-impact pilot among the policy sectors, not as a grid-operation project.",
+          "sources": "wp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 90–92 · HORIZON-INFRA-2027-TECH-01-02, Expected Outcome and Scope\nwp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 89–90 · HORIZON-INFRA-2027-TECH-01-02, Specific conditions"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The project must address complex, cross-sectoral problems caused or worsened by climate change, as needs of public authorities and decision-makers at European, national, regional or local level.\nThe topic asks for solutions that address clearly specified needs in critical impact sectors linked to public policy areas, and that let authorities take targeted, data-driven measures to improve resilience, preparedness and decision-making in their territory. The need is therefore that of public authorities and policy-makers, supported by research scientists and AI developers. An infrastructure operator such as TenneT could bring a concrete climate-risk problem from the energy sector, for example extreme weather affecting transmission assets, but the pilot must still serve public policy and adaptation planning.",
+          "sources": "wp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 90–92 · HORIZON-INFRA-2027-TECH-01-02, Expected Outcome and Scope"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "Tested pilots and demonstrators on DestinE, new AI-enabled digital twins in its data infrastructure, improved and coupled sector models, and a scalability plan.\nFrom the topic text, the project must produce:\n- Actionable, widely tested research-to-action pilot solutions for cross-sectoral climate-change problems\n- Improved models, and couplings between models used in different sectors\n- New AI-enabled digital twins integrated into the DestinE system through the AI Factories' Data Labs\n- Tested and analysed adaptation and risk-mitigation measures in real-life scenarios\n- A scalability plan, developed with the relevant public authorities, with a pathway to long-term funding, governance and policy commitments\nThe topic also asks proposals to address possible use of the outcomes in existing or new public services, such as the relevant Copernicus services (the EU Earth observation programme).",
+          "sources": "wp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 90–92 · HORIZON-INFRA-2027-TECH-01-02, Expected Outcome and Scope"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The project should support climate adaptation, preparedness and resilience decisions by authorities, European leadership in AI and modelling, and wider use of Destination Earth.\nThe topic's expected outcomes are research-to-action pilots for cross-sectoral climate problems in key socio-environmental and socio-economic sectors, innovative use of AI through the DestinE data lab infrastructure in line with the AI Continent Action Plan (the EU's 2025 plan to build AI capacity), and a multi-country approach with real end-user engagement so that solutions are integrated into policy, preparedness and response. The wider destination (the group of related topics) also expects exploitation of advances in modelling, observations and AI, verification of model results against research-infrastructure observations, and digital twins used across sectors to cover unexplored domains and end-user needs. The topic sets no numerical targets. For an energy pilot, the relevant impact would be better-informed adaptation of energy infrastructure to climate hazards, which is our interpretation of the sector example the topic gives.",
+          "sources": "wp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 90–92 · HORIZON-INFRA-2027-TECH-01-02, Expected Outcome and Scope\nwp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 79–80 · Destination INFRATECH"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "The results must be designed for wider use: a scalability plan, adherence to Destination Earth standards and a pathway to long-term funding and governance are required.\n- Wider use: the work plan should include a scalability plan that drives widespread adoption of the solutions powered by DestinE, developed with the relevant public authorities\n- Continued use: the plan should set out an actionable pathway to secure long-term commitments, including funding, governance and policy framework, beyond the project's duration\n- Standards: proposals must adhere to DestinE standards and best practices so they work with the DestinE system, and should use the DestinE platform where possible for deployment and scaling\n- Operational use: proposals should address possible use of the results in existing or new public services of the Member States, Associated Countries or the EU, such as Copernicus services\n- Cooperation: proposals should show a credible pathway to collaboration with the DestinE implementing bodies (the European Space Agency, the European Centre for Medium-Range Weather Forecasts and EUMETSAT, the European organisation for meteorological satellites) and other initiatives such as Mercator Ocean International\nThe topic does not say who must operate the results after funding ends; it points to public authorities and EU services.",
+          "sources": "wp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 90–92 · HORIZON-INFRA-2027-TECH-01-02, Expected Outcome and Scope"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "At least three independent organisations from three different countries; no maximum is set.\nThe topic uses the standard Horizon Europe rule: the consortium must include, as beneficiaries (partners that sign the grant agreement), at least one independent organisation established in an EU Member State and at least two others, each in a different Member State or Associated Country. The topic also requires the pilots to be co-designed and tested in at least three Member States and/or Associated Countries, and the call expects about 3 projects of EUR 7–12 million each, which points to large consortia in practice.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 4–8, 13 · B — Eligibility, Consortium composition\nwp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 90–92 · HORIZON-INFRA-2027-TECH-01-02, Expected Outcome and Scope\nwp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 89–90 · HORIZON-INFRA-2027-TECH-01-02, Specific conditions"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "No partner type is mandatory, but pilots must be built with research scientists, AI developers, public policy experts and decision-makers in at least three countries.\n- Research scientists, AI developers, public-sector policy experts and decision-makers must co-design and run the pilots together\n- Involvement of SMEs and startups active in AI or deep tech, working closely with researchers, is strongly encouraged\n- A credible pathway to collaboration with ESA, ECMWF and EUMETSAT (the bodies that build Destination Earth) is expected\n- Organisations established in China are not eligible, and high-risk suppliers of mobile network equipment are excluded because the topic is subject to restrictions for the protection of European communication networks\nA grid operator is not named, but nothing excludes one.",
+          "sources": "wp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 90–92 · HORIZON-INFRA-2027-TECH-01-02, Expected Outcome and Scope\nwp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 79–80 · Destination INFRATECH\nwp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 89–90 · HORIZON-INFRA-2027-TECH-01-02, Specific conditions\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 4–8, 13 · B — Eligibility, Consortium composition"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "Any eligible organisation in the consortium may coordinate; the topic sets no special rule for the lead applicant.\nUnder the Horizon Europe General Annexes, any legal entity established in a Member State or Associated Country that meets the eligibility conditions can be a beneficiary and therefore lead the consortium. Given the topic's focus on research-to-action pilots with Destination Earth, a research organisation or a body experienced with Earth-system modelling would be the typical coordinator, but this is our interpretation, not a rule.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 4–8, 13 · B — Eligibility, Consortium composition\nwp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 89–90 · HORIZON-INFRA-2027-TECH-01-02, Specific conditions"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "Yes, TenneT TSO B.V. may coordinate, since any eligible Dutch legal entity may lead, but the climate-policy focus makes this unlikely to be realistic.\nThe topic adds no restriction on who coordinates beyond the General Annex B rules, and the Netherlands is an EU Member State. Coordinating would mean leading a EUR 7–12 million consortium across at least three countries whose pilots serve public authorities' climate adaptation and use Destination Earth. TenneT could therefore coordinate only if it was ready to lead a multi-sector climate-modelling project rather than a grid project.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 4–8, 13 · B — Eligibility, Consortium composition\nwp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 89–90 · HORIZON-INFRA-2027-TECH-01-02, Specific conditions\nwp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 90–92 · HORIZON-INFRA-2027-TECH-01-02, Expected Outcome and Scope"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes, TenneT may also take part as an associated partner without funding, which the General Annexes allow.\nAn associated partner takes part in the work without signing the grant agreement and without charging costs. This route could suit TenneT if it only wants to supply a use case, data or validation for an energy-sector pilot. As a beneficiary it would instead have its costs covered (see Receive funding).",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 4–8, 13 · B — Eligibility, Consortium composition"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Yes, as a beneficiary TenneT could have 100% of its eligible costs covered, paid as part of a lump sum.\nThe topic is a Research and Innovation Action, for which the Horizon Europe funding rate is 100% for all organisations, including large companies. The grant is a lump sum (a fixed amount agreed at the start and paid against completed work packages, not against actual costs): the funding rate is built into the lump sum, and the consortium fixes each partner's share in its detailed budget table. There are no separate Dutch national rules; funding comes directly from the EU. TenneT's share would depend on how much of the pilot work it carries out.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 31–33 · G — Legal and financial set-up of the grant agreements\nwp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 89–90 · HORIZON-INFRA-2027-TECH-01-02, Specific conditions"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT could bring a concrete energy-sector climate-risk case, grid and asset data and operational validation for one pilot.\nOur judgement: the topic names climate-induced changes in the energy sector as an example, so TenneT would be most credible as the end user and data provider of an energy pilot, for example on how heatwaves, storms, flooding or changing wind and solar patterns affect transmission assets and security of supply in the Netherlands. It could provide asset locations, outage and weather-impact data, and assess whether adaptation measures tested on Destination Earth are useful for its planning. Its digital-twin work in the National Facility Digital Twin of the Electricity System, the Digital Twin Programme and TwinEU could help link a grid model to the Earth-system model, although these are operational grid twins rather than climate models. The fit depends on a consortium that chooses energy as one of its pilot sectors.",
+          "sources": "wp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 90–92 · HORIZON-INFRA-2027-TECH-01-02, Expected Outcome and Scope\nwp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 79–80 · Destination INFRATECH"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The project must go beyond the state of the art, but it should build on the existing Destination Earth system and earlier Horizon Europe results.\nThe topic asks for new innovative methods, practices, tools and services that use the existing DestinE system, and the award criteria reward work that is ambitious and goes beyond the state of the art. Proposals should leverage knowledge from earlier Research Infrastructures projects (topics HORIZON-INFRA-2021-TECH-01, 2024-TECH-01 and 2025-TECH-01). Integrating and applying existing models and data is therefore expected, as long as the pilots and new AI-enabled digital twins add something new.",
+          "sources": "wp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 90–92 · HORIZON-INFRA-2027-TECH-01-02, Expected Outcome and Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 23–26 · D — Award criteria, Scores and weighting"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Mainly digital: models, AI-enabled digital twins and data infrastructure, combined with new ways for authorities to use them in governance and decisions.\nThe topic asks for innovation in modelling and model coupling across sectors, in AI-enabled digital twins and the data-lab infrastructure around DestinE, and in methods, practices and services that bring these into policy, preparedness and response, including place-based governance. Physical technology development is not part of the scope.",
+          "sources": "wp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 90–92 · HORIZON-INFRA-2027-TECH-01-02, Expected Outcome and Scope"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Mainly development, piloting and demonstration of digital solutions in real-life scenarios, from the existing Destination Earth system towards services.\nThe topic focuses on large-scale experimental pilots and demonstrators, model improvement and coupling, and the testing of adaptation measures in real-life scenarios, followed by a scalability plan. Basic research alone and commercial deployment are not what the topic asks for.",
+          "sources": "wp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 90–92 · HORIZON-INFRA-2027-TECH-01-02, Expected Outcome and Scope"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "TRL 5 or higher by the end of the project; no starting level is set.\nTRL 5 means the technology is validated in a relevant environment. The topic does not set a TRL at the start.",
+          "sources": "wp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 89–90 · HORIZON-INFRA-2027-TECH-01-02, Specific conditions"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "The pilots must be tested in real-life scenarios in at least three Member States or Associated Countries, using the Destination Earth system.\nThe topic asks for large-scale experimental pilots and demonstrators that test adaptation and risk-mitigation measures in real-life scenarios, co-designed and experimented in at least three Member States and/or Associated Countries. Beneficiaries must use DestinE, and must use Copernicus and/or Galileo/EGNOS (the EU's satellite navigation systems) if they use satellite Earth observation or positioning data. The topic does not require tests on operational infrastructure itself; the testing happens in models and with decision-makers.",
+          "sources": "wp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 90–92 · HORIZON-INFRA-2027-TECH-01-02, Expected Outcome and Scope\nwp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 89–90 · HORIZON-INFRA-2027-TECH-01-02, Specific conditions"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The pilots must be integrated with the Destination Earth system, the AI Factories' Data Labs and the relevant data spaces, and models from different sectors must be coupled.\nProposals must adhere to DestinE standards so their solutions work with it, should use the DestinE platform for deployment and scaling, and should integrate new digital twins into DestinE via the AI Factories' Data Labs. The pilots should couple models used in different sectors and link to the Common European Data Spaces (EU-wide frameworks for sharing data in specific sectors), with synergies encouraged with the European Open Science Cloud. They should also connect with earlier Horizon Europe projects and the Climate Adaptation Mission (an EU programme supporting regions in adapting to climate change).",
+          "sources": "wp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 90–92 · HORIZON-INFRA-2027-TECH-01-02, Expected Outcome and Scope"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "The pilots must show that the solutions are actionable and widely tested, and produce tested and analysed adaptation and risk-mitigation measures.\nThe topic asks the pilots to propose, test and analyse adaptation and risk-mitigation measures in real-life scenarios and to demonstrate sustainable set-ups. The wider destination also expects verification of modelling results with observations from research infrastructures. The topic sets no specific indicators.",
+          "sources": "wp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 90–92 · HORIZON-INFRA-2027-TECH-01-02, Expected Outcome and Scope\nwp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 79–80 · Destination INFRATECH"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "End users must take part: pilots must be co-designed with public policy experts and decision-makers, with real end-user engagement.\nThe expected outcomes ask for a multi-country approach with real end-user engagement, and the scope requires the pilots to be co-designed and experimented together with research scientists, AI developers, public policy experts and decision-makers. The scalability plan must be developed with the relevant public authorities.",
+          "sources": "wp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 90–92 · HORIZON-INFRA-2027-TECH-01-02, Expected Outcome and Scope"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "The topic is subject to restrictions for the protection of European communication networks, and Chinese entities are excluded.\n- High-risk suppliers of mobile network equipment, and entities they own or control, may not take part as beneficiaries, affiliated entities or associated partners\n- Legal entities established in China are not eligible under this destination\nThe topic sets no further data-access or cybersecurity requirements of its own, beyond the general Horizon Europe rules.",
+          "sources": "wp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 89–90 · HORIZON-INFRA-2027-TECH-01-02, Specific conditions\nwp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 79–80 · Destination INFRATECH\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 4–8, 13 · B — Eligibility, Consortium composition"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "Each project is expected to receive EUR 7–12 million from a topic budget of EUR 30 million, for about 3 projects.\n- Grant request: EUR 7–12 million per project is considered appropriate, but this does not preclude proposals asking for different amounts\n- Total project size: the same as the grant, since the funding rate is 100% of eligible costs\n- Funding form: lump sum (a fixed amount agreed at the start and paid against completed work packages, not against actual costs)",
+          "sources": "wp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 89–90 · HORIZON-INFRA-2027-TECH-01-02, Specific conditions\nwp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 10–12 · Call - Research Infrastructures 2027\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 31–33 · G — Legal and financial set-up of the grant agreements"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "All partners, including large companies such as TenneT, are funded at 100% of eligible costs; no co-financing is required.\n- Co-financing conditions: none set by the topic\n- Evidence required: none beyond the detailed lump-sum budget table",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 31–33 · G — Legal and financial set-up of the grant agreements"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "The budget must be set out in a detailed lump-sum budget table, with indirect costs at a 25% flat rate.\n- Eligible costs: personnel, subcontracting, purchase costs (travel, equipment, other goods and services) and other cost categories under the grant agreement; the lump sum is fixed from these estimated costs\n- Overheads and VAT: indirect costs are a 25% flat rate of eligible direct costs, excluding subcontracting\nThe topic sets no caps or mandatory allocations of its own.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 31–33 · G — Legal and financial set-up of the grant agreements\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 27–30 · F — Procedure"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: a single full proposal by 15 June 2027, 17:00 Brussels time, through the Funding & Tenders Portal.\n- Stage 1 — Full proposal: opens 9 March 2027; deadline 15 June 2027, 17:00 Brussels time; at most 45 pages for Part B (the technical description) because the topic uses lump-sum funding; any eligible consortium may apply",
+          "sources": "wp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 10–12 · Call - Research Infrastructures 2027\nFunding & Tenders Portal topic page HORIZON-INFRA-2027-TECH-01-02\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 4 · A — Admissibility conditions, Page limits"
+        },
+        {
+          "title": "Project window",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Applicants should hear the result about 5 months after the deadline and sign the grant about 8 months after it (indicative).\n- Expected invitation or assessment result: around November 2027, about 5 months after the 15 June 2027 deadline (indicative)\n- Grant agreement: around February 2028, about 8 months after the deadline (indicative)\n- Conditions before starting: all beneficiaries must have a validated participant identification code (PIC) before the grant is signed",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 27–30 · F — Procedure\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 4–8, 13 · B — Eligibility, Consortium composition"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "A standard Horizon Europe Research and Innovation Action application with a detailed lump-sum budget table, submitted online.\n- Application form: standard Horizon Europe RIA/IA template in the Funding & Tenders Portal submission system; Part B limited to 45 pages for lump-sum topics\n- Budget: detailed lump-sum budget table (Horizon Europe lump-sum template), used to fix the lump sum\n- Registration: each beneficiary needs a participant identification code (PIC) in the Participant Register; validation is needed before signature, not before submission\n- Mandatory annexes: a plan for the exploitation and dissemination of results is part of the application",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 4 · A — Admissibility conditions, Page limits\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 31–33 · G — Legal and financial set-up of the grant agreements\nFunding & Tenders Portal topic page HORIZON-INFRA-2027-TECH-01-02\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 4–8, 13 · B — Eligibility, Consortium composition"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Proposals are scored on Excellence, Impact and Implementation, each out of 5, with a threshold of 3 per criterion and 10 overall.\n- Evaluation criteria: Excellence (ambition beyond the state of the art, sound methodology, open science), Impact (credible pathways to the topic's expected outcomes, dissemination and exploitation measures) and Quality and efficiency of the implementation (work plan, risks, resources, capacity of each partner)\n- Thresholds: 3 out of 5 per criterion and 10 out of 15 overall\n- Weighting: equal weights, since this is a Research and Innovation Action\n- Ranking rules: for equal scores, priority goes to proposals covering aspects not covered by higher-ranked ones, then Excellence, then Impact, then gender balance and geographical diversity\n- Budget assessment: experts assess the lump-sum budget table, and proposals may be cut for significant over- or underestimation of costs",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 23–26 · D — Award criteria, Scores and weighting\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 27–30 · F — Procedure"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Two conditions apply only in specific cases: satellite-data use and links to communication-network suppliers.\n- Conditional — use of satellite data: if the project uses satellite Earth observation, positioning, navigation or timing data and services, it must use Copernicus and/or Galileo/EGNOS (other data may be used in addition)\n- Conditional — high-risk network suppliers: entities assessed as high-risk suppliers of mobile network equipment, or owned or controlled by them, are not eligible, so the consortium must check its partners before applying\n- Recommended: involve SMEs or startups active in AI or deep tech; link to the Climate Adaptation Mission, the Common European Data Spaces and the European Open Science Cloud",
+          "sources": "wp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 89–90 · HORIZON-INFRA-2027-TECH-01-02, Specific conditions\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 4–8, 13 · B — Eligibility, Consortium composition\nwp-3-research-infrastructures_horizon-2026-2027_en.pdf · pp. 90–92 · HORIZON-INFRA-2027-TECH-01-02, Expected Outcome and Scope"
+        }
+      ]
+    }
+  ]
+}
