@@ -1,0 +1,43 @@
+{
+  "id": "20261118-061349-03",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "Eurostars Call 12 – Eurostars-3",
+  "organization_or_parent_framework": "Horizon Europe",
+  "programme": "Eurostars-3",
+  "call_title": "Eurostars Call 12",
+  "call_module_title": null,
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/44087099",
+  "executive_summary": "Joint transnational call of Eurostars-3, part of the European Partnership on Innovative SMEs co-funded by Horizon Europe and run by the Eureka network, for international collaborative R&D and innovation projects in all fields, including energy, that develop products, processes or services close to the market. Projects must be led by an innovative SME from a Eurostars country, involve at least two independent entities from at least two Eurostars countries (one from the EU or a Horizon Europe associated country), have SMEs carrying at least 50% of the budget, no participant or country above 70%, and last at most 36 months; large companies, universities and research organisations may join. Funding is granted by each partner's national funding body under its own rules, so who is funded, which costs and at which rate depend on the country; organisations not eligible for national funding may self-fund. Indicative call budget about EUR 86.4 million. Submission opens 17 December 2026; single-stage deadline 4 March 2027, 14:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-03-04",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "The Funding & Tenders Portal page of Eurostars Call 12 (Eligibility; Evaluation and results) funds SME-led international R&D and innovation projects in all fields that develop marketable products, processes or services. It touches TenneT's field because energy applications are allowed, so an SME developing, for example, sensors, inspection tools or grid software could involve TenneT, as in Reliability Centered Maintenance or the Digital Twin Programme, but the call has no energy focus and must be led by an SME with SMEs carrying at least half the budget. TenneT may join as a large-company partner, but whether the Dutch funding body funds large companies is set in national rules we could not read (the Eureka national funding pages returned no content), and non-funded organisations may self-fund, so Type 2 with C2.2 (SME-led, TenneT as end user, test site or self-funded partner) fits. Both project dates are null because the call states only a maximum duration of 36 months.",
+  "call_type": "Type 2",
+  "category_codes": [
+    "C2.2"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T1",
+      "T3"
+    ],
+    "role": [
+      "R2",
+      "R9"
+    ],
+    "activity": [
+      "A2",
+      "A5",
+      "A6"
+    ],
+    "outcome": [
+      "O3",
+      "O6"
+    ]
+  }
+}
