@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "Fee waivers (scholarships) for individual students on a two-year master's programme that trains engineers to apply data and AI to energy systems.\nThe call is a cascade call (an EU-funded project passing part of its grant on to others) issued by The Institute of Sustainable Energy Stichting, the Dutch foundation behind InnoEnergy (an EU-backed company that runs the Masters+ energy master's programmes). It is an associated partner in AI4GreenDeal (Advanced Data and AI for Energy to accelerate the Green Deal), a Digital Europe Programme project that redesigned an existing master's into the MSc in Advanced Energy Systems and AI. The call funds no project: it waives all or part of the participation fee for the 120-ECTS double degree (two diplomas from two of the four partner universities). The need behind it is the energy sector's AI skills gap, which a skills-gap analysis with KU Leuven mapped as broad AI literacy, digital thinking applied to energy, specialised algorithm knowledge and working with the scale of data modern grids produce. Year 2 specialisations are AI and Smart Transmission Systems (KU Leuven), AI for Smart Distribution Grids (UPC BarcelonaTech), AI for Energy Systems in Smart Cities (KTH) and AI for Distributed Energy Resources (Grenoble INP-UGA).",
+          "sources": "Funding & Tenders Portal cascade call page InnoEnergy Masters+ Scholarship — MSc in Advanced Energy Systems and AI (AI4GreenDeal) · AI4GreenDeal project description; Disclaimer\nAI4GreenDeal web page What you'll actually study in the Master's in Advanced Energy Systems and AI · The gap this programme was built to close; Two years, two universities, one thesis"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "More engineers in Europe who combine energy engineering with data and AI skills, and wider access to that training.\nThe project aims to close the AI skills gap the energy sector has identified. The scholarships are meant to attract highly qualified candidates and widen access, in line with the project's target of at least 30% participation from women or people from lower socio-economic backgrounds. The call sets no other quantified targets.",
+          "sources": "Funding & Tenders Portal cascade call page InnoEnergy Masters+ Scholarship — MSc in Advanced Energy Systems and AI (AI4GreenDeal) · AI4GreenDeal project description\nAI4GreenDeal web page What you'll actually study in the Master's in Advanced Energy Systems and AI · The gap this programme was built to close"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "Individual students only, not organisations: people admitted to the MSc in Advanced Energy Systems and AI for Intake 2027.\n- Nationality: a Digital Europe Programme eligible country, which includes the Netherlands and the other EU Member States, Iceland, Norway, Liechtenstein, Switzerland and listed non-EU countries such as Ukraine, Canada and the United States; UK applicants are not eligible for fee waivers\n- Admission: admitted to the programme and accepting the InnoEnergy Student Code of Conduct\n- Background for an Energy Impact Scholarship: a completed bachelor's degree of 180 ECTS or equivalent in engineering (mechanical, electronic, electrical, civil) or a related science, covering the fundamentals of electrical and mechanical engineering\n- English: IELTS Academic 6.5 overall, TOEFL iBT 92 or Cambridge CAE/CPE grades A–C, or a documented exemption\n- Exclusions: a previous InnoEnergy scholarship, other EU funding for the same participation costs, false information, or EU restrictive measures\nThere is no consortium and no lead applicant. The call suits engineering graduates, for example from Dutch technical universities, who want to move into AI for grids.",
+          "sources": "Funding & Tenders Portal cascade call page InnoEnergy Masters+ Scholarship — MSc in Advanced Energy Systems and AI (AI4GreenDeal) · Eligible countries; Common eligibility and exclusion grounds; Energy Impact Scholarships\nInnoEnergy Masters+ web page Scholarships and fee waivers · Additional scholarship opportunities for Master's in Advanced Energy Systems and AI"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "It trains future grid engineers in AI for transmission and distribution, a pool TenneT recruits from; TenneT cannot take part because only individual students receive the scholarship.\nThe KU Leuven specialisation in AI and Smart Transmission Systems and the thesis, usually done with an industry or research partner, match TenneT's work on AI for grid control and digital twins, such as GNN4GC (Graph Neural Networks for Grid Control) and the Digital Twin Programme. TenneT could point Dutch graduates or young recruits to the call, or offer thesis topics to the programme's students. The call sets out no route for an organisation: the fee waiver goes to the student.",
+          "sources": "Funding & Tenders Portal cascade call page InnoEnergy Masters+ Scholarship — MSc in Advanced Energy Systems and AI (AI4GreenDeal) · Common eligibility conditions\nAI4GreenDeal web page What you'll actually study in the Master's in Advanced Energy Systems and AI · Two years, two universities, one thesis"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "EUR 1,000,000 in total for fee waivers, awarded per student and spread over five application rounds.\n- Grant request: per student, per year; full waiver EUR 9,000 per year for EU/EEA students (including Dutch students) and EUR 19,000 per year for non-EU students; partial waivers only for non-EU students, EUR 4,000 per year (Energy Impact) or EUR 5,000 per year (Diversity, Entrepreneurship and Digital Champions)\n- Funding form: a waiver of the programme's participation fee, not a cash payment; it covers enrolment, the Esade entrepreneurship track, Masters+ events, examination fees, travel and accommodation for extra-curricular activities and administrative services\n- Budget per round: about 30% in rounds 1 and 2, 20% in round 3 and 10% in rounds 4 and 5; unused budget moves to the next round",
+          "sources": "Funding & Tenders Portal cascade call page InnoEnergy Masters+ Scholarship — MSc in Advanced Energy Systems and AI (AI4GreenDeal) · Scholarship values; Items covered by the scholarship; Round table\nInnoEnergy Masters+ web page Scholarships and fee waivers · Scholarship coverage"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "A full waiver covers the whole participation fee; with a partial waiver the student pays the rest.\n- Partial Energy Impact waiver: the non-EU student pays EUR 15,000 per year\n- Partial Diversity, Entrepreneurship or Digital Champions waiver: the non-EU student pays EUR 14,000 per year\n- Own costs: travel to the host universities, accommodation, local transport, visas, books, insurance and living costs stay with the student",
+          "sources": "Funding & Tenders Portal cascade call page InnoEnergy Masters+ Scholarship — MSc in Advanced Energy Systems and AI (AI4GreenDeal) · Scholarship values; Items not covered by the scholarship\nInnoEnergy Masters+ web page Scholarships and fee waivers · Important scholarship conditions"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One programme application through the InnoEnergy Masters+ online tool; round 1 has closed and round 2 is open.\n- Round 1: 21 September – 1 November 2026, closed\n- Round 2: 5 November 2026 – 19 January 2027, results early February 2027\n- Round 3: 25 January – 9 March 2027, results early April 2027\n- Round 4: 15 March – 20 April 2027, results mid-May 2027\n- Round 5: 23 April – 30 May 2027, results mid-June 2027\n- Additional procedure: no separate application is needed for an Energy Impact Scholarship; for a Diversity, Entrepreneurship or Digital Champions Scholarship, admitted applicants must upload a 1 to 2 minute motivation video naming one strand and pay a non-refundable EUR 295 registration fee",
+          "sources": "Funding & Tenders Portal cascade call page InnoEnergy Masters+ Scholarship — MSc in Advanced Energy Systems and AI (AI4GreenDeal) · Round table; Diversity, Entrepreneurship and Digital Champions (DED) Scholarships"
+        },
+        {
+          "title": "Project window",
+          "answer": "A two-year master's programme for Intake 2027.\n- Maximum duration: up to 24 months, completing the double degree\n- Required start: the 2027 academic year; where the Year 2 host university requires it, an English test result must be submitted by 15 July (intermediate) and 30 July (final) before the academic year starts",
+          "sources": "Funding & Tenders Portal cascade call page InnoEnergy Masters+ Scholarship — MSc in Advanced Energy Systems and AI (AI4GreenDeal) · Duration; Energy Impact Scholarships"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Results after each round, then an acceptance letter that the student must confirm within five working days.\n- Expected assessment result: early February 2027 for round 2\n- Conditions before starting: confirm participation within five working days of the acceptance letter, signed by the Programme Director",
+          "sources": "Funding & Tenders Portal cascade call page InnoEnergy Masters+ Scholarship — MSc in Advanced Energy Systems and AI (AI4GreenDeal) · Round table"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "A complete online programme application in the required certified format, within the round's deadline.\n- Application form: InnoEnergy Masters+ online application tool, in English\n- Mandatory annexes: certified degree documents and proof of English proficiency; for the Diversity, Entrepreneurship and Digital Champions scheme a 1 to 2 minute video, and for the Entrepreneurship strand evidence of entrepreneurial experience",
+          "sources": "Funding & Tenders Portal cascade call page InnoEnergy Masters+ Scholarship — MSc in Advanced Energy Systems and AI (AI4GreenDeal) · Energy Impact Scholarships, Who is considered?\nInnoEnergy Masters+ web page Scholarships and fee waivers · How to apply"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Applicants are ranked on weighted criteria by a committee of the partner universities' academics.\n- Evaluation criteria and weighting (Energy Impact): relevance of previous degree (weight 3), academic performance (2), quality of the awarding university (2), non-academic credentials (3), each scored 1–10, maximum 100\n- Diversity, Entrepreneurship and Digital Champions: scored 1–5 per criterion by a separate committee of InnoEnergy and university representatives; the diversity strand gives priority by country of origin, with the Netherlands in the lowest-priority tier\n- Ranking rules: remaining budget after round 5 may go to earlier applicants in score order; outcomes cannot be appealed, only reviewed for procedural compliance",
+          "sources": "AI4GreenDeal_Indicative_Evaluation_Rubrics_070926.pdf · pp. 2–5 · A1.1 Energy Impact Scholarships; A1.2 DED Scholarships\nFunding & Tenders Portal cascade call page InnoEnergy Masters+ Scholarship — MSc in Advanced Energy Systems and AI (AI4GreenDeal) · call description"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    }
+  ]
+}
