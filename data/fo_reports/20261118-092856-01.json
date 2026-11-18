@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "An innovation-support programme run by intermediaries that takes promising Horizon research results towards the market, mainly by giving their owners small validation grants.\nThe project is not a research or technology project itself. The consortium must build a pipeline: find exploitable results of earlier EU research projects (Horizon 2020 Pillar III, the former societal-challenges programme, and Horizon Europe Pillar II, the collaborative research clusters such as Climate, Energy and Mobility), select the best through its own open calls, and help their owners validate and commercialise them. The proposal must pick one of five thematic areas; area B is \"Clean transition: energy & transport\". At least 60% of the requested EU contribution must go to the owners of those results as financial support to third parties (FSTP, small grants that the consortium passes on to other organisations), at most EUR 150,000 each.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 64–66 · HORIZON-BRIDGING-2027-06-02, Scope\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 62–63 · HORIZON-BRIDGING-2027-06-02, Specific conditions"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Six activities are expected, the cascade grants are mandatory, and each proposal must stay within one thematic area.\nThe topic says projects should cover:\n- Scouting and mapping promising innovations, startups, SMEs and exploitable results from Horizon 2020 and Horizon Europe projects, recently ended or ongoing, with particular attention to Pillar II\n- Competitive calls for single Horizon projects or owners of Horizon results in the chosen thematic area; the money may be used solely for prototyping, testing, demonstrating, piloting, product validation and market replication in (near-)operational environments\n- Guidance and access for selected candidates to real-life validation sites such as demonstration sites, living labs, testing facilities or industrial partners\n- Expert mentoring on value propositions, business models, customer or user validation, preliminary market consultations, intellectual property and exploitation strategies\n- Training on scalability, market and investment readiness, pre-commercial procurement routes and deployment instruments, plus help to build entrepreneurial teams\n- Guidance towards follow-on EU and national funding, such as the European Innovation Council (EIC), the European Innovation Ecosystems programme, Regional Innovation Valleys and national or regional innovation funds\nMandatory: the proposal must address one of five thematic areas (A Agriculture and food systems, B Clean transition: energy & transport, C Health, D Bioeconomy, E Raw materials & advanced materials) and must provide financial support to third parties. Excluded: cascade grants for results that do not stem from Horizon 2020 Pillar III or Horizon Europe Pillar II projects; the money may not be used for anything other than the validation activities listed.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 64–66 · HORIZON-BRIDGING-2027-06-02, Scope\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 62–63 · HORIZON-BRIDGING-2027-06-02, Specific conditions\nTopic page HORIZON-BRIDGING-2027-06-02, EU Funding & Tenders Portal · Topic updates (24 October 2026)"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The project must close the gap between research results that end at lab stage and market support that only starts at demonstration stage.\nThe topic says many Horizon projects end with an experimental proof of concept or laboratory validation, while acceleration, investment or pre-commercial procurement (public buyers paying for research and development of solutions they need) usually engage only later. Concrete use cases, real-world validation, customer segments, business models and intellectual property strategies are therefore often missing when the EU funding ends. The need lies with the owners of Horizon research results and with the EU innovation system as a whole; the call asks that results be aligned with societal and industrial needs. For TenneT this could mean grid-related results from earlier EU projects reaching a stage where a grid operator can test them.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 64–66 · HORIZON-BRIDGING-2027-06-02, Scope\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · p. 64 · HORIZON-BRIDGING-2027-06-02, Expected Outcome"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "The call names no fixed deliverables; the outputs follow from the activities: a mapped pipeline, open calls, funded validations and support services.\nFrom the scope, a project would produce:\n- A map of promising Horizon results and their owners in the chosen thematic area\n- One or more open calls, with their own selection process and pool of independent evaluators defined by the consortium\n- Grants of at most EUR 150,000 to selected result owners for prototyping, testing, demonstration, piloting and validation\n- Mentoring, training and access to validation sites for the selected candidates\n- Guidance of candidates towards follow-on funding and investors\nThe Horizon Europe General Annexes also require every proposal to include a plan for exploitation and dissemination of results, including communication.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 64–66 · HORIZON-BRIDGING-2027-06-02, Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 4 · A Admissibility"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Owners of Horizon results must become ready for the market, and research, education and innovation actors must work together more closely.\nThe topic expects contributions to all three outcomes:\n- Owners of Horizon results better prepared to bring products, practices and solutions to market, with clearer value propositions, validated use cases and credible commercialisation pathways\n- Stronger links between research outcomes, Horizon Europe instruments and public or private knowledge intermediaries, giving a more coherent innovation journey\n- Closer collaboration between research, education and innovation (the knowledge triangle), so that results are exploited better and match societal and industrial needs\nThe call sets no numerical targets and names no energy-system outcome such as grid capacity or congestion relief; any such benefit would depend on which results a consortium in the energy area selects.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · p. 64 · HORIZON-BRIDGING-2027-06-02, Expected Outcome"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "The aim is that selected results move on to follow-on funding, investors and the market; the call does not require replication within the project.\n- Wider use: the results supported should reach credible commercialisation pathways; the call does not ask for replication in other places during the project.\n- Follow-on: projects must guide candidates towards follow-on instruments (EIC, European Innovation Ecosystems, Regional Innovation Valleys, European Startup and Scaleup Hubs, successors to InvestEU, national or regional innovation funds) and towards public and private investors.\n- Business models and intellectual property: mentoring must cover business models, intellectual property and exploitation strategies.\n- Standards: no standard is required; under the General Annexes beneficiaries must inform the granting authority for up to 4 years if results could contribute to European or international standards.\n- Ownership: the granting authority may, up to 4 years after the project, object to a transfer of ownership or an exclusive licence of results.\n- Knowledge use: training on market and investment readiness and support for entrepreneurial teams are part of the expected activities, and an exploitation and dissemination plan is required.\nNo one is required to operate or maintain a result after the project ends.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 64–66 · HORIZON-BRIDGING-2027-06-02, Scope\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 62–63 · HORIZON-BRIDGING-2027-06-02, Specific conditions\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 34–35 · G Provisions concerning project implementation"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "At least three partners from three different countries; the call sets no maximum.\nUnder the standard Horizon Europe rule the consortium must include as beneficiaries (partners that sign the grant agreement) three legal entities independent of each other, each in a different country: at least one in an EU Member State and two others in different Member States or Associated Countries (non-EU countries with an agreement to take part in Horizon Europe). Affiliated entities do not count towards this minimum.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 13 · B Eligibility, Consortium composition\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 62–63 · HORIZON-BRIDGING-2027-06-02, Specific conditions"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "The consortium should consist of knowledge intermediaries, such as technology transfer offices, innovation platforms, incubators and clusters.\nThe topic says the consortium should comprise actors that act as knowledge intermediaries in innovation ecosystems: technology transfer offices, EU-supported innovation ecosystems, innovation platforms, incubators, clusters and entrepreneurship support initiatives. They must be able to link Horizon project consortia and result owners with accelerators, investors, municipalities, regions, clusters, innovative public and private procurers, living labs and mission-oriented platforms. This is a \"should\", not a \"must\": the rules do not exclude other organisation types. Country rules are the standard ones (see Number of partners); Dutch organisations are eligible. Entities established in China may not take part in this Research and Innovation Action in any role, including as recipients of the cascade grants.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 64–66 · HORIZON-BRIDGING-2027-06-02, Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 6–7 · B Eligibility, Restrictions on the participation of legal entities established in China"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "At least 60% of the requested EU contribution must be passed on as validation grants, within each thematic area.\nThe topic says a minimum of 60% of the total requested EU contribution should be allocated, within each thematic area, to the financial support to third parties (FSTP, grants that the consortium passes on). The rest pays for scouting, mentoring, training, running the calls and the consortium's own work. Each grant may be at most EUR 150,000 and only in the form of a grant. The call sets no rule on how work packages or the remaining budget are split among partners.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 64–66 · HORIZON-BRIDGING-2027-06-02, Scope\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 62–63 · HORIZON-BRIDGING-2027-06-02, Specific conditions"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "Any eligible partner may coordinate; the call sets no specific type.\nThe standard Horizon Europe rules do not restrict who leads. In practice the lead would likely be one of the knowledge intermediaries the topic says the consortium should consist of, such as a technology transfer office or cluster organisation, because the core of the work is running open calls and support services. The coordinator must confirm at submission that it has the mandate to act for all applicants.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 4–5, 13 · B Eligibility\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 27 · E Documents\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 64–66 · HORIZON-BRIDGING-2027-06-02, Scope"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "Formally yes, but it would not fit the call: the consortium is meant to be made of innovation intermediaries, which TenneT is not.\nThe Horizon Europe rules let any legal entity established in a Member State, such as TenneT TSO B.V., coordinate a consortium of at least three independent partners from three countries. The topic, however, says the consortium should comprise technology transfer offices, innovation platforms, incubators, clusters and similar intermediaries, and the main task is running open calls and support programmes for third parties. A proposal led by a grid operator could therefore score poorly on the capacity of the consortium; this is our interpretation.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 13 · B Eligibility, Consortium composition\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 64–66 · HORIZON-BRIDGING-2027-06-02, Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 23 · D Award criteria"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes, as an associated partner without funding, or by hosting validation work for selected result owners.\nThe General Annexes allow associated partners (organisations that take part without signing the grant agreement and without charging costs). The topic also expects the consortium to give selected candidates access to real-life validation sites, explicitly including industrial partners and demonstration sites. TenneT could take this role in the energy area: offering test sites, data or expert feedback to result owners funded through the open calls, or signing a letter of support for a consortium. TenneT must then finance its own costs.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 5 · B Eligibility, Associated partners\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 64–66 · HORIZON-BRIDGING-2027-06-02, Scope"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Possible in principle at 100% of eligible costs, but the call gives no clear funded role for a grid operator.\nAs a beneficiary in a Research and Innovation Action, TenneT TSO B.V. could be paid up to 100% of its eligible costs through the lump sum (a fixed amount agreed in advance and paid against completed work, not against actual costs). The call does not say that industrial partners or validation sites are beneficiaries, so a funded role would have to be justified within the intermediary consortium. A second route is the cascade grant of up to EUR 150,000: it is only for owners of results from Horizon 2020 Pillar III or Horizon Europe Pillar II projects. TenneT is a partner in such projects (for example InterOPERA), so as a co-owner of their results it could, in our interpretation, apply to the open calls of a funded consortium; that would be a later call by that consortium, not this topic. No separate Dutch rules apply.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 31 · G Form of grant, funding rate and maximum grant amount\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 62–63 · HORIZON-BRIDGING-2027-06-02, Specific conditions\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 64–66 · HORIZON-BRIDGING-2027-06-02, Scope"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT's most useful role would be as a real-life validation site and grid end user for energy results selected by a consortium in the clean-transition area.\nIn our judgement TenneT could:\n- Offer access to test environments such as the National Facility Digital Twin of the Electricity System (with TU Delft) or operational sites, where result owners can validate grid solutions in near-operational conditions\n- Bring operational needs and use cases so that selected Horizon results, for example on HVDC interoperability (InterOPERA) or grid-resilience data (TwinEU), are tested against real TSO requirements\n- Help evaluate the market potential of grid-related results as a potential buyer, without committing to purchase\n- Sign a letter of support for an intermediary consortium that chooses area B\nThis depends on a consortium choosing the energy area and selecting grid-related results.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 64–66 · HORIZON-BRIDGING-2027-06-02, Scope\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 62–63 · HORIZON-BRIDGING-2027-06-02, Specific conditions"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The call does not ask for new technology; it supports the validation and commercialisation of existing Horizon research results.\nProjects work with results that already exist from earlier EU projects and take them further through validation, piloting and business support. The results themselves may be technological, non-technological or based on social sciences and humanities, as long as they have high innovation potential. The intermediary programme itself must be ambitious and go beyond the state of the art under the standard Excellence criterion.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 64–66 · HORIZON-BRIDGING-2027-06-02, Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 23 · D Award criteria"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Mainly the innovation support process, together with whatever results the open calls select: technology, practices or services.\nThe project innovates in how results are scouted, validated and brought to market (support services, open calls and links to validation sites and investors). The results it supports may be technological, non-technological or social-science based, and may be products, practices or solutions.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 64–66 · HORIZON-BRIDGING-2027-06-02, Scope\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · p. 64 · HORIZON-BRIDGING-2027-06-02, Expected Outcome"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Validation and early market preparation: prototyping, testing, demonstration, piloting, product validation and market replication.\nThe cascade grants may be used solely for prototyping, testing, demonstrating, piloting, product validation and market replication of exploitable results in (near-)operational environments. Basic research is out of scope, and so is full deployment financing: the project only guides candidates towards follow-on funding for that.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 64–66 · HORIZON-BRIDGING-2027-06-02, Scope"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "The topic sets no technology readiness level (TRL); it targets results that ended at proof of concept or lab validation and moves them towards operational environments.\nThe scope describes results that typically end at experimental proof of concept or laboratory validation (around TRL 3–4, technology proven in the lab), and the grants are for prototyping, testing and validation in (near-)operational environments. No start or end TRL is stated.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 64–66 · HORIZON-BRIDGING-2027-06-02, Scope"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "Selected results must be validated in real-life or near-operational settings, such as demonstration sites, living labs, testing facilities or industrial partners.\nThe cascade grants may only be used for prototyping, testing, demonstrating, piloting, product validation and market replication in (near-)operational environments. The consortium must guide selected candidates to real-life validation sites, including but not limited to demonstration sites, living labs, testing facilities and industrial partners. The call does not require testing on operational infrastructure itself.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 64–66 · HORIZON-BRIDGING-2027-06-02, Scope"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The activities must form one continuous support journey from scouting to follow-on funding, linked to existing innovation structures.\nThe topic asks for a continuous innovation journey that uses existing structures such as Knowledge and Innovation Communities (KICs, the thematic networks of the European Institute of Innovation and Technology), Regional Innovation Valleys, European Startup and Scaleup Hubs and national, regional or transnational innovation hubs. Candidates should be steered to existing platforms such as Erasmus+ and European University Alliances to avoid duplication, and proposals should seek synergies and avoid overlap with projects under HORIZON-BRIDGING-2027-01-03, HORIZON-BRIDGING-2027-01-05 and HORIZON-CL4-2026-01-MAT-PROD-48. The call says nothing about integration with energy infrastructure.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 64–66 · HORIZON-BRIDGING-2027-06-02, Scope"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "The call asks for validated use cases and credible commercialisation pathways, but sets no indicators.\nThe expected outcome is that owners of Horizon results have clearer value propositions, validated use cases and credible commercialisation pathways. The cascade grants pay for product validation and testing in (near-)operational environments, which should produce evidence of performance and feasibility. No key performance indicators are set.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · p. 64 · HORIZON-BRIDGING-2027-06-02, Expected Outcome\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 64–66 · HORIZON-BRIDGING-2027-06-02, Scope"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "Customer and user validation is an explicit part of the mentoring, and validation should happen with real-life sites and industrial partners.\nThe mentoring must cover customer or user validation and preliminary market consultations. The consortium should link result owners with accelerators, investors, municipalities, regions, clusters, innovative public and private procurers and living labs. The call does not require users to co-design the solutions.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 64–66 · HORIZON-BRIDGING-2027-06-02, Scope"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "EUR 2.5–4 million of EU money per project is expected, from a topic budget of EUR 20 million for about 5 projects.\n- Total project size: the call gives the expected EU contribution only; because the action is paid at 100%, this also equals the expected eligible project costs of EUR 2.5–4 million. Other amounts may be requested.\n- Grant request: EUR 2.5–4 million per project (consortium), of which at least 60% must go to third parties as cascade grants of at most EUR 150,000 each.\n- Funding form: lump sum grant (a fixed amount agreed at the start and paid when the agreed work is done, not against actual costs).",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 62–63 · HORIZON-BRIDGING-2027-06-02, Specific conditions\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · p. 25 · Call - Bridging Actions 2027, Overview of this call\nTopic page HORIZON-BRIDGING-2027-06-02, EU Funding & Tenders Portal · Budget overview"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "One rate for all partners: up to 100% of eligible costs, built into the lump sum.\n- Co-financing conditions: no own contribution is required; TenneT as an unfunded associated partner or validation host would carry its own costs.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 31–32 · G Form of grant, funding rate and maximum grant amount"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "The budget is dominated by the cascade grants, which must take at least 60% of the requested EU contribution.\n- Caps or mandatory allocations: at least 60% of the requested EU contribution, within each thematic area, for financial support to third parties; at most EUR 150,000 per third party, only as grants.\n- Eligible costs: the lump sum is based on a detailed budget table whose costs must meet the normal EU cost-eligibility rules.\n- Overheads and VAT: indirect costs at a flat 25% of direct costs, excluding subcontracting and financial support to third parties.\n- Subcontracting or equipment: purchases and subcontracting in the budget table must give best value for money and be free from conflicts of interest.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 62–63 · HORIZON-BRIDGING-2027-06-02, Specific conditions\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 64–66 · HORIZON-BRIDGING-2027-06-02, Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 27 · E Documents\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 32 · G Budget categories and cost eligibility rules"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: a full proposal through the EU Funding & Tenders Portal by 16 February 2027, 17:00 Brussels time.\n- Stage 1 — Full proposal: 16 February 2027, 17:00 Brussels time; Research and Innovation Action lump-sum form with a 45-page limit for the technical part; open since 20 October 2026; the application form requires selecting one thematic area and its main keyword.",
+          "sources": "Topic page HORIZON-BRIDGING-2027-06-02, EU Funding & Tenders Portal · General information\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · p. 25 · Call - Bridging Actions 2027, Overview of this call\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 4 · A Page limits\nTopic page HORIZON-BRIDGING-2027-06-02, EU Funding & Tenders Portal · Topic updates (24 October 2026)"
+        },
+        {
+          "title": "Project window",
+          "answer": "The call sets no project duration or start date; these are fixed in the grant agreement.\n- Required start: normally after the grant agreement is signed, around 8 months after the deadline (about October 2027); an earlier start only exceptionally.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 30 · G Starting date & project duration\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 30 · F Indicative timetable"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Results are expected about 5 months after the deadline and the grant agreement about 3 months later.\n- Expected invitation or assessment result: around July 2027 (indicative, about 5 months after 16 February 2027).\n- Grant agreement: around October 2027 (indicative, about 8 months after the deadline).\n- Conditions before starting: each partner needs a validated participant identification code and must sign a declaration of honour; the cascade calls must follow EU transparency rules once the project runs.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 30 · F Indicative timetable for evaluation and for signature of the grant agreement\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 5 · B Eligibility\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 27 · E Documents"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "A complete online application with an administrative part, a technical part of at most 45 pages and a detailed lump-sum budget table.\n- Application form: Part A filled in online (partners, budget, call questions) and Part B uploaded as PDF, at most 45 pages for a lump-sum Research and Innovation Action, in the form from the submission system.\n- Budget: a detailed budget table that justifies the lump sum.\n- Mandatory annexes: an exploitation and dissemination plan including communication activities; a description of the cascade funding, with objectives and expected results as the template asks.\n- Partner documents: the coordinator confirms it has the mandate of all applicants; partners later sign a declaration of honour.\n- Registration: each partner needs a participant identification code (PIC) in the Participant Register.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 3–4 · A Admissibility\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 27 · E Documents\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 18 · B Financial support to third parties\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 5 · B Eligibility"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Proposals are scored on excellence, impact and implementation, and at least one proposal per thematic area is funded if it passes the thresholds.\n- Evaluation criteria: Excellence, Impact and Quality and efficiency of the implementation, as for all Research and Innovation Actions.\n- Thresholds: at least 3 out of 5 per criterion and 10 out of 15 overall.\n- Ranking rules: grants go not only by ranking but to at least the highest-ranked proposal in each of the five thematic areas (A–E), provided it passes all thresholds; for the energy area this means at least one project if a proposal passes.\n- Budget assessment: evaluators may comment on over- or underestimated costs in the lump-sum budget table, and the grant may be lower than requested.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 62–63 · HORIZON-BRIDGING-2027-06-02, Specific conditions\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 23–26 · D Award criteria, Scores and weighting\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 27–28 · F Evaluation procedure and ranking"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "The cascade grants come with fixed transparency rules, and use of satellite data triggers a Copernicus or Galileo requirement.\n- Conditional — financial support to third parties: the open calls must be published on the EU Funding & Tenders Portal and the partners' websites, stay open for at least 2 months, have a clear European dimension, and their outcome must be published without delay.\n- Conditional — satellite data: projects that use satellite earth observation, positioning, navigation or timing data must use Copernicus or Galileo/EGNOS.\n- Exception — entities established in China: not eligible in any role, including as recipients of cascade grants.\n- Recommended: a gender-sensitive approach addressing barriers for women innovators and entrepreneurs.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 18 · B Financial support to third parties\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 62–63 · HORIZON-BRIDGING-2027-06-02, Specific conditions\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 6–7 · B Eligibility\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 64–66 · HORIZON-BRIDGING-2027-06-02, Scope"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "20261118-092856-01",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-BRIDGING-2027-06-02 Valorising Horizon project results via innovation ecosystems – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "Bridging Actions 2027 (HORIZON-BRIDGING-2027-06)",
+  "call_module_title": "HORIZON-BRIDGING-2027-06-02 Valorising Horizon project results via innovation ecosystems",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-BRIDGING-2027-06-02",
+  "executive_summary": "Horizon Europe Research and Innovation Action (Horizontal Activities, Bridging Actions) that funds consortia of knowledge intermediaries, such as technology transfer offices, innovation platforms, incubators and clusters, to scout promising results of Horizon 2020 Pillar III and Horizon Europe Pillar II projects and help them towards the market through mentoring, training, access to real-life validation sites and competitive open calls. Each proposal must choose one thematic area, one of which is B) Clean transition: energy & transport, and must pass at least 60% of the requested EU contribution on to owners of Horizon results as financial support to third parties, at most EUR 150,000 per third party, for prototyping, testing, demonstration, piloting and validation in (near-)operational environments. Standard Horizon Europe eligibility applies (at least three independent entities from three countries, one in an EU Member State); the lump-sum grant covers 100% of eligible costs, with an expected EU contribution of EUR 2.5–4 million per project from a topic budget of EUR 20 million for about 5 projects, at least one per thematic area. Opened 20 October 2026; single-stage deadline 16 February 2027, 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-02-16",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": 2500000,
+  "maximum_project_size": 4000000,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "Horizon Europe Work Programme 2026–2027 Part 14 (Horizontal Activities), pp. 62–66 (HORIZON-BRIDGING-2027-06-02, Specific conditions and Scope), funds intermediary-led programmes that scout, mentor and give cascade grants of up to EUR 150,000 to owners of Horizon results so they can validate them in real-life settings, with a dedicated thematic area for the clean energy transition. It touches TenneT's field because Pillar II energy results such as those of InterOPERA (multi-vendor HVDC interoperability) or TwinEU (data federation for grid resilience) could be validated through such a programme, and the scope names industrial partners and demonstration sites as validation hosts; this is our interpretation and depends on the energy area being chosen. General Annex B lets any legal entity be a beneficiary and the action pays 100% of eligible costs, but the topic says the consortium should consist of knowledge intermediaries, so the realistic route for TenneT TSO B.V. is as a validation site, end user or supporter rather than a funded partner, which makes it Type 2. C2.2 fits because TenneT would host or validate the solutions of the funded result owners, and C2.4 because it could back a consortium with letters of support or advice without project work.",
+  "call_type": "Type 2",
+  "category_codes": [
+    "C2.2",
+    "C2.4"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T4",
+      "T5"
+    ],
+    "role": [
+      "R9",
+      "R10"
+    ],
+    "activity": [
+      "A7",
+      "A8"
+    ],
+    "outcome": []
+  }
+}
