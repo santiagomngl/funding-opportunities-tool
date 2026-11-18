@@ -1,0 +1,43 @@
+{
+  "id": "20261118-021356-01",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-NATURE-2027-01-02 Better understanding, anticipating and addressing the biodiversity benefits and impacts of the clean and digital industries – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "Transformative change towards a nature-positive economy and society (HORIZON-NATURE-2027-01)",
+  "call_module_title": "HORIZON-NATURE-2027-01-02 Better understanding, anticipating and addressing the biodiversity benefits and impacts of the clean and digital industries",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-NATURE-2027-01-02",
+  "executive_summary": "Funds Research and Innovation Actions that help clean and digital industries, and the physical infrastructure that supports them (explicitly including energy production and the electricity grid, as well as transport, mining and data centres), understand and reduce their impacts on terrestrial, marine and freshwater biodiversity. Each project must cover at least five industrial activities and three biogeographical regions, build typologies of biodiversity impacts, assess cumulative impacts, compare scenarios with cost-benefit analysis of mitigation measures, give recommendations on permitting and spatial planning, and test them with industrial partners, local authorities and civil society. Open to consortia of at least three independent legal entities from three different EU Member States or Horizon Europe associated countries; paid as a lump sum at up to 100% of costs. Indicative topic budget EUR 18 million for about 3 projects of around EUR 6 million EU contribution each. Opened 13 October 2026; single-stage deadline 14 January 2027 at 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-01-14",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "Horizon Europe Work Programme 2026–2027 Part 14 (Horizontal Activities), pp. 124–126 (HORIZON-NATURE-2027-01-02, Expected Outcome and Scope), funds research on the biodiversity impacts of clean and digital industries and the infrastructure that supports them, naming the electricity grid and energy infrastructure, with recommendations on infrastructure permitting and spatial planning and pilots of nature-based mitigation. It is close to the Renewables Grid Initiative (nature-inclusive grid development) and the FlatEMF study (ecological impact of subsea cables), though broader, since a project must cover at least five industrial activities. The topic adds no eligibility restriction to General Annex B (pp. 11–13), so TenneT TSO B.V., a Dutch legal entity, can be a funded partner at the Research and Innovation Action rate of 100% (General Annex G, p. 31): Type 1, C1.3. Both project dates are null because the topic states no start, end or duration.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T9",
+      "T4"
+    ],
+    "role": [
+      "R2",
+      "R9",
+      "R10"
+    ],
+    "activity": [
+      "A2",
+      "A15",
+      "A7"
+    ],
+    "outcome": [
+      "O5"
+    ]
+  }
+}

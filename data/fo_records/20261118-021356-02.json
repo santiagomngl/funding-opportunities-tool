@@ -1,0 +1,42 @@
+{
+  "id": "20261118-021356-02",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-CL3-2027-01-SSRI-01 Accelerating uptake through open proposals for advanced SME innovation – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "Civil Security for Society 2027 (HORIZON-CL3-2027-01)",
+  "call_module_title": "HORIZON-CL3-2027-01-SSRI-01 Accelerating uptake through open proposals for advanced SME innovation",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL3-2027-01-SSRI-01",
+  "executive_summary": "Funds Innovation Actions in which SMEs bring mature civil-security technologies (TRL 6–8 by the end) to market with security end-users acting as validators and potential first adopters. Each project addresses one Cluster 3 area; Option C, Resilient Infrastructure, names physical access control, autonomous systems for infrastructure protection, tracking and tracing, and monitoring and surveillance. Consortia must have 3 to 7 beneficiaries, including at least 2 SMEs from 2 different Member States and at least 1 end-user organisation in the chosen area; at least 50% of the budget must go to SMEs and non-SME industry and research and technology organisations are limited to 15% of the budget; entities controlled from China are excluded. Paid as a lump sum at up to 70% of costs for for-profit partners; indicative topic budget EUR 4.5 million for about 3 projects of around EUR 1.5 million EU contribution each, with a maximum duration of 2 years. Forthcoming: planned opening 5 May 2027, single-stage deadline 4 November 2027 at 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-11-04",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "Horizon Europe Work Programme 2026–2027 Part 6, pp. 142–146 (HORIZON-CL3-2027-01-SSRI-01, Specific conditions and Scope), funds SME-led maturation of civil-security technologies, with Option C (Resilient Infrastructure) covering physical access control, autonomous systems for infrastructure protection and monitoring and surveillance. This touches the protection of TenneT's substations and offshore assets, close to SylWin1 HVDC retrofit (operational security) and Reliability Centered Maintenance (drone and sensor monitoring), though the topic is about security, not asset condition. The eligibility conditions (pp. 142–143) require at least one end-user organisation in the chosen area and allow non-SME industry within a 15% budget share, so TenneT TSO B.V. could be the funded end-user and validator under Option C at the Innovation Action rate of 70% (General Annex G, p. 31): Type 1, C1.3. Both project dates are null because the topic gives a maximum duration of 2 years but no start or end.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T8",
+      "T2"
+    ],
+    "role": [
+      "R2",
+      "R9"
+    ],
+    "activity": [
+      "A7",
+      "A8",
+      "A10"
+    ],
+    "outcome": [
+      "O2"
+    ]
+  }
+}

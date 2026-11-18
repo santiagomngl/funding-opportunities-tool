@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "A joint purchase of research and development (R&D) from competing suppliers, producing at least two validated prototypes of an innovative civil-security solution.\nThe project is a pre-commercial procurement (PCP: a group of public buyers buys R&D services from several competing companies in phases, comparing their solutions before any large purchase). The buyers' group defines one common security challenge, runs one joint call for tenders and then pays suppliers to design, build and test solutions. The competition must end with at least 2 prototypes from 2 different suppliers validated in a real operational environment. The topic does not fix the security area: the challenge is chosen by the buyers' group within the Cluster 3 priorities (civil security research, which include resilient infrastructure).",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 151–153 · HORIZON-CL3-2027-01-SSRI-03, Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 37–39 · H — Requirements for all types of actions supporting PCP or PPI"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "The project must prepare, run and follow up one joint pre-commercial procurement; the security challenge itself is left to the applicants.\nActivities the project should include:\n- a short preparation stage that finalises the tender documents and sets verification and validation procedures, methods and tools for judging the prototypes\n- open market consultations (structured dialogue with potential suppliers before the tender), completed in at least three EU Member States; earlier consultations from previous preparatory projects may be reused if still relevant\n- one joint call for tenders for R&D services, followed by competitive development in phases: solution design, integration and technical verification, and validation in a real operational environment\n- consolidation of the results: conclusions, a complete technical specification, standardisation needs and an uptake strategy that considers joint cross-border procurement and other EU and national funds\n- cooperation with policymakers to strengthen national policy frameworks and mobilise extra national budgets for innovation procurement\n- plans for activities after the procurement, or a deliverable preparing follow-up deployment or procurement if the buyers have not yet committed to buy\nOptional: buying at least one solution during the procurement, and financial support to third parties (grants or prizes of up to EUR 100,000 each to final end-users outside the consortium, such as citizens, to adopt the solutions).\nExcluded: buying larger commercial volumes of end-products; a PCP may include only the first products developed and tested within it.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 151–153 · HORIZON-CL3-2027-01-SSRI-03, Scope\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 149–150 · HORIZON-CL3-2027-01-SSRI-03, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 39–42 · H — Specific requirements for pre-commercial procurement (PCP)"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The need must come from the demand side: a group of security practitioners and public buyers in several countries with a shared, unmet operational need.\nThe topic says the challenge must be significant and must require a pre-commercial procurement to mature technologies and compare alternatives. The proposal must show a consolidated group of practitioners and procurers committed to the process and interest from a wider community of potential buyers beyond the beneficiaries. The destination behind the topic frames the underlying problem as poor uptake of EU security research: fragmented markets and weak links between buyers and suppliers, which keep innovative solutions from reaching public users. For TenneT this means the challenge would have to be a security need it shares with other infrastructure operators or authorities in other countries.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 151–153 · HORIZON-CL3-2027-01-SSRI-03, Scope\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 128–129 · Destination – Strengthened Security Research and Innovation"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "Tender documents, a joint procurement agreement, at least two validated prototypes and an uptake strategy with full technical specifications.\nOutputs the call names:\n- a prior information notice announcing the open market consultation, and a report on its results and their effect on the tender documents\n- completed tender documents based on the Horizon Europe model contract documents for pre-commercial procurement, including the contract notice\n- the signed joint procurement agreement of the buyers' group, with its financial commitment and confirmation of the lead procurer (the buyer that runs the tender for the group)\n- the contract award notice, and after each tender and phase evaluation the number of bids, data on winning tenderers, rankings, scores and evaluation minutes\n- at least 2 prototypes from 2 different suppliers validated in a real operational environment, and a demonstration of the tested solutions to the granting authority at the end\n- conclusions and recommendations from the validation, a complete technical specification of the envisaged solutions, standardisation needs or proposals, and an uptake strategy\n- where the buyers have not yet committed to buy, a deliverable preparing follow-up deployment or procurement",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 151–153 · HORIZON-CL3-2027-01-SSRI-03, Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 37–39 · H — Requirements for all types of actions supporting PCP or PPI"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Stronger joint public demand for European security innovation, with buyers giving start-ups and SMEs first customer references.\nExpected outcomes (some or all):\n- a community of EU civil-security practitioners with common needs, supported by an industrial base of especially SMEs and start-ups that gains access to public procurement and can scale up\n- procurers help commercialise their suppliers' solutions by acting as first customers for validation and first pilot deployment\n- tested capacity of the EU technology and industrial base to produce prototypes that meet the diverse needs of users regardless of gender, age and ability\n- a clearer picture of the EU market for innovative civil-security systems, including options for industrialisation, acquisition, deployment and funding beyond research money\nAt destination level, the work should contribute to a more evidence-based development of EU security capabilities, faster industrialisation and deployment of research results, a more competitive and resilient EU security industry with secure supply of EU products in critical security areas, and fewer sector-specific silos. The call sets no numeric targets.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · p. 150 · HORIZON-CL3-2027-01-SSRI-03, Expected Outcome\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 128–129 · Destination – Strengthened Security Research and Innovation"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "The solutions must be designed for wider uptake: procurers must state how they will deploy them and spread results to other public buyers.\n- Commitment: procurers should declare in the proposal whether they will buy solutions during the procurement, launch a separate follow-up purchase, adopt them without buying (for example open-source results), or create incentives for others to adopt them. With such a commitment the buyers may use fast-track PCP (two phases instead of three)\n- Replication: the proposal must show interest from potential buyers beyond the consortium; the uptake strategy should consider joint cross-border procurement and other EU and national funds, and liaison with other security communities is encouraged to test reuse in other domains\n- Standards and specifications: the project must produce a complete technical specification and identify standardisation needs or proposals\n- Sustainability: proposals must show sustainability beyond the project and commitment to exploiting results, and should maximise visibility to potential EU public buyers\n- Rights: suppliers own the results; procurers get at least royalty-free use for themselves and may require licences for third parties. The procurers can reclaim ownership if a supplier fails to exploit the results commercially or uses them against public or security interests. The granting authority may object to transfers of ownership or exclusive licences for up to 4 years after the project\nIn practice, TenneT could only join as a buyer if it is ready to consider using or buying the resulting solution after the project.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 151–153 · HORIZON-CL3-2027-01-SSRI-03, Scope\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 149–150 · HORIZON-CL3-2027-01-SSRI-03, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 39–42 · H — Specific requirements for pre-commercial procurement (PCP)"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "At least 3 practitioners and 3 public procurers as beneficiaries, from at least 3 countries; no maximum is set.\nOne organisation can count as both practitioner and public procurer, so the smallest possible consortium is three organisations, each in a different EU Member State or Horizon Europe associated country (a non-EU country that takes part in the programme under an agreement), with at least one in an EU Member State. The call expects to fund around 1 project. The suppliers that do the R&D are not partners: they are subcontractors selected through the tender.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 149–150 · HORIZON-CL3-2027-01-SSRI-03, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 13 · B — Consortium composition and footnote 35\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 16–18 · Call – Civil Security for Society 2027, Overview of this call and footnote 11"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "The consortium must include security practitioners and public procurers from at least three different countries; suppliers cannot be partners.\n- Practitioners: organisations that use security solutions in their work (the work programme names law enforcement and similar users). Their details must be given in the table Information about security practitioners in the application form\n- Public procurers: contracting authorities or contracting entities as defined in the EU public procurement directives 2014/24/EU, 2014/25/EU (the utilities directive, which covers bodies such as operators of electricity networks) and 2009/81/EC. At least two must be independent public procurers in different countries, one of them in an EU Member State; the third buyer may be a private procurer or an NGO providing similar public-interest services\n- Others: end-users or other bodies without a conflict of interest may join for supporting activities such as dissemination, standardisation and training\n- Suppliers: companies that may bid in the tender cannot be beneficiaries of the project\n- Exclusions: the topic is subject to restrictions for the protection of European communication networks, so entities assessed as high-risk suppliers of mobile network equipment (and entities they own or control) cannot take part in any role\nOur interpretation: TenneT TSO B.V., as the Dutch electricity transmission operator, is a contracting entity under Directive 2014/25/EU and could therefore count as a public procurer.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 149–150 · HORIZON-CL3-2027-01-SSRI-03, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 13 · B — Consortium composition and footnote 35\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 37–39 · H — Requirements for all types of actions supporting PCP or PPI\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 7–9 · B — Restrictions for the protection of European communication networks\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · p. 9 · Introduction, involvement of security practitioners"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "The buyers' group must jointly prepare and run one procurement, with a lead procurer awarding contracts and every buyer co-financing it.\n- The buyers' group runs one joint call for tenders and one joint evaluation of offers; the lead procurer awards the R&D contracts in the name of the whole group\n- Each procurer must contribute financially to the total budget of the joint procurement\n- Suppliers can be paid by the lead procurer, or by each procurer in proportion to its share of the budget\n- Other partners (for example end-users) may only carry out additional activities such as preparing, managing and following up the procurement, dissemination and standardisation\n- The subcontracted R&D work must be performed in at least 3 Member States, unless the granting authority approves otherwise, and the majority of R&D, including the principal researchers, must be located in EU Member States or associated countries",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 37–39 · H — Requirements for all types of actions supporting PCP or PPI\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 39–42 · H — Specific requirements for pre-commercial procurement (PCP)\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 149–150 · HORIZON-CL3-2027-01-SSRI-03, Specific conditions"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "The call names no coordinator type; the lead procurer, who runs the tender, must be a public procurer.\nThe lead procurer is the beneficiary appointed by the buyers' group to coordinate and lead the procurement. It can be one of the buyers or another beneficiary established or designated by them, but it must itself be a public procurer. The project coordinator (who manages the grant) and the lead procurer can be the same organisation; the work programme does not require it.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 37–39 · H — Requirements for all types of actions supporting PCP or PPI\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 38 · H — footnote 47"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "Probably yes, if TenneT counts as a public procurer: it could then coordinate or be the lead procurer that runs the joint tender.\nThe lead procurer must be a public procurer, and public procurers include contracting entities under Directive 2014/25/EU. In our interpretation TenneT TSO B.V. is such a contracting entity as an electricity transmission operator. Leading would mean managing the joint tender, awarding the R&D contracts for the buyers' group and coordinating partners in at least three countries. The topic itself does not restrict who may coordinate.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · B — Consortium composition and footnote 35\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 38 · H — footnote 47\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 149–150 · HORIZON-CL3-2027-01-SSRI-03, Specific conditions"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes, as a funded buyer, as a practitioner, or in supporting activities; TenneT could also join as an associated partner without funding.\n- As a public procurer (our interpretation, see above): in the buyers' group, which must co-finance the procurement and decide on later uptake\n- As a practitioner: if TenneT's security staff count as a security practitioner user of the solution; the topic does not define the term\n- In additional activities: an end-user without a conflict of interest may help prepare and follow up the procurement, contribute to standardisation and share results\n- As an associated partner (an organisation that takes part without signing the grant agreement and without charging costs), which the General Annexes allow unless the topic says otherwise\nTenneT could not be a supplier in the tender while also being a beneficiary.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 37–39 · H — Requirements for all types of actions supporting PCP or PPI\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 5 · B — Associated partners\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 149–150 · HORIZON-CL3-2027-01-SSRI-03, Specific conditions"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Yes, likely at up to 100% of eligible costs, including its share of the procurement, as a Dutch beneficiary.\nThe maximum funding rate for pre-commercial procurement actions is 100% of eligible costs, and the cost of the procured R&D services is eligible. TenneT TSO B.V. is established in the Netherlands, an EU Member State, so it is eligible for funding. The grant is a budget-based actual-cost grant (paid against costs actually incurred), with indirect costs at a flat 25% of direct costs except subcontracting and support to third parties. The whole topic has about EUR 5.83 million for one project, shared by all buyers and partners; each buyer must still contribute financially to the procurement budget. No separate Dutch funding rules apply: the funding comes directly from the EU.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 11, 31–32 · B — Entities eligible for funding; G — Form of grant, funding rate; Budget categories\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 149–150 · HORIZON-CL3-2027-01-SSRI-03, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 37–39 · H — Requirements for all types of actions supporting PCP or PPI"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "Our view: TenneT could be a buyer that brings a concrete infrastructure-security need, real sites for validation and a route to deployment.\n- A common challenge it shares with other grid operators or authorities in at least two other countries, for example detecting intrusions or drones around substations and offshore platforms, or protecting remote assets\n- Operational environments (substations, converter stations, cable landing points) where suppliers' prototypes are installed and validated, as the topic requires validation in a real operational environment\n- Procurement expertise from its own tendering under the utilities directive, possibly as lead procurer\n- A credible statement of follow-up purchase or deployment, which allows fast-track PCP and strengthens the impact case\nThis fits TenneT's work on operational security in SylWin1 HVDC retrofit and grid resilience in TwinEU. The main hurdle is building a buyers' group in three countries around one shared need and committing co-financing to the procurement.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 151–153 · HORIZON-CL3-2027-01-SSRI-03, Scope\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 149–150 · HORIZON-CL3-2027-01-SSRI-03, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 39–42 · H — Specific requirements for pre-commercial procurement (PCP)"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The suppliers must develop genuinely new solutions: the procurement must buy research and development, not existing products.\nThe proposal must show that the challenge needs a pre-commercial procurement to mature technologies and compare alternatives, and that the state of the art and market have been mapped. Annex H defines R&D as covering solution exploration, design, prototyping and original development of a limited test series; incremental changes to existing products or routine improvements do not count. The open market consultation must confirm that the gap between industry's state of the art and the buyers' needs justifies buying R&D.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 151–153 · HORIZON-CL3-2027-01-SSRI-03, Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 39–42 · H — Specific requirements for pre-commercial procurement (PCP)\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 40 · H — footnote 55"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Mainly technology (civil-security systems, tools or techniques), plus innovation in the way public buyers procure and adopt it.\nThe topic targets innovative civil-security technology solutions. Alongside, it requires procurement innovation: a joint cross-border buyers' group, functional or performance-based tender specifications (describing the problem to solve rather than a solution), and strategies for joint uptake and policy frameworks that mobilise national budgets for innovation procurement.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 151–153 · HORIZON-CL3-2027-01-SSRI-03, Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 39–42 · H — Specific requirements for pre-commercial procurement (PCP)"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Supplier-side design, prototyping and original development with testing; no basic research and no large-scale deployment.\n- Solution design\n- Integration and technical verification (prototyping and original development)\n- Validation in a real operational environment, including installing and testing a limited series of products at the procurer's or end-user's premises\nThe number of competing suppliers is reduced after each phase. In a fast-track PCP, one contract may cover the second and third phases. Purchase of larger commercial volumes is outside a PCP.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 151–153 · HORIZON-CL3-2027-01-SSRI-03, Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 39–42 · H — Specific requirements for pre-commercial procurement (PCP)"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "Prototypes must reach TRL 6–8 by the end of the project; no starting level is set.\nTRL 6 means the technology is demonstrated in a relevant environment; TRL 7 a system prototype demonstrated in an operational environment; TRL 8 a complete and qualified system.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 149–150 · HORIZON-CL3-2027-01-SSRI-03, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · B — Technology Readiness Levels"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "Prototypes must be validated in a real operational environment at the end of the procurement cycle.\nThe final phase of the competitive development must validate at least 2 prototypes from 2 suppliers in a real operational environment, and the full procurement life cycle includes installing and testing a limited series of products at the procurer's or end-user's premises. If buyers purchase or adopt solutions during the project, they should leave time to deploy them and check that they work after installation. At the end, the tested solutions must be demonstrated to the granting authority. For TenneT this would mean hosting prototype trials on its own live sites.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 151–153 · HORIZON-CL3-2027-01-SSRI-03, Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 37–39 · H — Requirements for all types of actions supporting PCP or PPI\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 39–42 · H — Specific requirements for pre-commercial procurement (PCP)"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The project must be one joint procurement on one common challenge, not separate purchases by each buyer.\nAll buyers must share the need and co-finance every part of the challenge; a challenge with several sub-challenges still counts as one joint procurement if all buyers share and co-finance all of them. Local adaptations per country are allowed on top of the common core. The phases must be governed by one framework agreement per supplier covering all phases, with no renegotiation after award. The prototypes must be validated in the buyers' real operational settings, so they must work with existing infrastructure and procedures.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 37–39 · H — Requirements for all types of actions supporting PCP or PPI\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 38 · H — footnote 48\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 39–42 · H — Specific requirements for pre-commercial procurement (PCP)"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "Evidence that the procurement is justified, and comparative validation results showing which solutions work and could go into service.\n- Before or at the start: evidence that the challenge is significant and needs a pre-commercial procurement, a market and state-of-the-art analysis, and proof of a committed buyers' group\n- During: evaluation of each phase, with scores, rankings and the results each supplier achieved in the previous phase\n- At the end: validation and comparison of competing solutions to see whether they can become a permanent service, and conclusions and recommendations from the validation process\nThe topic sets no numeric indicators; evaluation of tenders and phases must weigh technical merit, feasibility and commercial potential, on best value for money rather than lowest price.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 151–153 · HORIZON-CL3-2027-01-SSRI-03, Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 37–39 · H — Requirements for all types of actions supporting PCP or PPI\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 39–42 · H — Specific requirements for pre-commercial procurement (PCP)"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "Users are central: practitioners must be beneficiaries, define the need, and validate the prototypes in their own operational settings.\nAt least 3 practitioners must be beneficiaries. The open market consultation must involve potential tenderers and end-users. Procurement decision makers should be involved so that solutions are adopted. The Cluster 3 work programme also asks that practitioners in many topics assess the project's mid-term results; this topic does not state that requirement explicitly.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 149–150 · HORIZON-CL3-2027-01-SSRI-03, Specific conditions\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 151–153 · HORIZON-CL3-2027-01-SSRI-03, Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 39–42 · H — Specific requirements for pre-commercial procurement (PCP)\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · p. 9 · Introduction, involvement of security practitioners"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "Security restrictions apply to who may take part and bid, and results may be kept from unwanted transfers.\n- High-risk suppliers of mobile network equipment, and entities they own or control, are excluded, because the topic is subject to restrictions for the protection of European communication networks; the tender must apply the same restriction to bidders\n- Ownership of results can be called back if a supplier uses them against public or security interests, and the granting authority may object to transfers or exclusive licences for up to 4 years after the project\n- Public summaries of results must leave out details contrary to the public interest\n- Projects involving EU classified information follow the security rules of the General Annexes (security appraisal, clearances); the topic does not mark itself as security sensitive",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 149–150 · HORIZON-CL3-2027-01-SSRI-03, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 7–9 · B — Restrictions for the protection of European communication networks\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 37–39 · H — Requirements for all types of actions supporting PCP or PPI\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 39–42 · H — Specific requirements for pre-commercial procurement (PCP)\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 16 · B — Security, EU classified and sensitive information"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "Around EUR 5.83 million of EU funding for one project, the whole topic budget.\n- Grant request: around EUR 5.83 million per project, shared by all beneficiaries; proposals requesting other amounts may still be submitted and selected\n- Funding form: budget-based actual-cost grant (costs are reimbursed as actually incurred, not a lump sum), with procurement costs for the R&D services eligible\nBudgets are indicative and depend on the EU's 2027 budget; final budgets may change by up to 20% after evaluation.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 149–150 · HORIZON-CL3-2027-01-SSRI-03, Specific conditions\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 16–18 · Call – Civil Security for Society 2027, Overview of this call and footnote 11\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 29, 31 · F — Budget flexibility; G — Form of grant"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "All beneficiaries can receive up to 100% of eligible costs; each buyer must still co-finance the joint procurement budget.\n- Co-financing conditions: each procurer in the buyers' group must contribute financially to the total budget needed to jointly finance the procurement; the call does not specify the form or level of this contribution\n- Evidence required: a signed joint procurement agreement confirming the buyers' group's financial commitment, due as a preparation-stage deliverable",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 31 · G — Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 37–39 · H — Requirements for all types of actions supporting PCP or PPI"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Procurement of R&D is the main eligible cost; indirect costs are a flat 25% excluding subcontracting.\n- Eligible costs: personnel, subcontracting, purchases and the costs of the procured R&D services; also financial support to third parties\n- Caps or mandatory allocations: financial support to third parties at most EUR 100,000 per recipient, only as grants or prizes to final end-users outside the consortium\n- Excluded costs: buying commercial volumes of end-products beyond the first test products\n- Overheads and VAT: indirect costs at 25% of eligible direct costs, excluding subcontracting and financial support to third parties\n- Subcontracting or equipment: subcontracted work must be performed in at least 3 Member States unless the granting authority approves otherwise; the tender must start with at least 3 suppliers (2 if fewer are capable) and the majority of R&D must be done in EU Member States or associated countries",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 149–150 · HORIZON-CL3-2027-01-SSRI-03, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 32 · G — Budget categories and cost eligibility rules\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 39–42 · H — Specific requirements for pre-commercial procurement (PCP)"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: a full proposal is due by 4 November 2027 through the EU Funding & Tenders Portal.\n- Stage 1 — Full proposal: 4 November 2027, 17:00 Brussels time. Part A (online administrative form with budget summary) and Part B (technical description, at most 40 pages unless the form in the submission system states otherwise), submitted by the coordinator\n- Opening: planned 5 May 2027; the Commission may open the call up to one month earlier or later and delay the deadline by up to two months",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 16–18 · Call – Civil Security for Society 2027, Overview of this call and footnote 11\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 4 · A — Page limits\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, Submission"
+        },
+        {
+          "title": "Project window",
+          "answer": "The topic sets no duration or start date; the grant agreement fixes both.\n- Maximum duration: not set by the topic; it must cover preparation, a tender open for at least 60 days and three procurement phases\n- Required start: normally after the grant agreement is signed; an earlier start is possible only exceptionally with the granting authority's agreement",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · G — Starting date & project duration\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 39–42 · H — Specific requirements for pre-commercial procurement (PCP)"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Results around April 2028 and grant signature around July 2028, both indicative.\n- Expected invitation or assessment result: around 5 months after the 4 November 2027 deadline (indicative)\n- Grant agreement: around 8 months after the deadline (indicative)\n- Conditions before starting: participants must be validated in the Participant Register and pass financial capacity and exclusion checks; invitation to grant preparation is not a funding commitment",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · F — Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 29 · B — Participant Register; F — No commitment to provide funding"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "A complete two-part application in the portal, including the practitioner table; missing parts lead to rejection.\n- Application form: Part A online and Part B as PDF, using the forms in the submission system; page limit as shown there (40 pages by default); English is strongly advised\n- Budget: summarised budget in Part A, including the planned procurement budget\n- Mandatory annexes: the table Information about security practitioners for all practitioner participants\n- Partner documents: the coordinator must confirm its mandate to act for all applicants and that all comply with the conditions; each participant signs a declaration of honour before the grant\n- Registration: every beneficiary needs a PIC (participant identification code) from the Participant Register; validation happens before signature\n- Plan for exploitation and dissemination of results, including communication, is required",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 149–150 · HORIZON-CL3-2027-01-SSRI-03, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 3–5, 27, 37 · A — Admissibility; E — Documents; Language"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Three criteria scored out of 5, each with a threshold of 3 and a total threshold of 10; only one project is expected.\n- Evaluation criteria: Excellence (clear, ambitious objectives beyond the state of the art in the innovation needed for the procurement need; sound methodology); Impact (credible pathways to the expected outcomes; dissemination and exploitation, meaning mainly use of the solutions by the procurers and end-users); Quality and efficiency of implementation (work plan, risks, resources, capacity and role of each participant)\n- Thresholds: 3 out of 5 per criterion and 10 out of 15 overall\n- Ranking rules: for equal scores, proposals covering aspects not yet covered come first, then Excellence, then Impact, then gender balance and geographical diversity",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 25–26 · D — Award criteria for PCP and PPI actions; Scores and weighting\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 28 · F — Evaluation procedure and ranking"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Several rules apply only if the buyers choose certain routes.\n- Conditional — buyers commit to buy during the procurement: they should budget the purchase of at least one solution in the proposal and leave time to deploy and validate it\n- Conditional — buyers plan a follow-up purchase: they should include a deliverable preparing it\n- Conditional — no commitment yet: a deliverable with concrete activities preparing follow-up deployment or procurement is expected\n- Conditional — open market consultation: the prior information notice must be published at least 45 days before the first meeting, and the Commission informed 5 days before publication and 30 days before the contract notice\n- Conditional — use of satellite positioning or Earth observation: beneficiaries must use Copernicus and/or Galileo/EGNOS\n- Exception — fast-track PCP: with a commitment to buy or deploy, one contract may cover the second and third phases\n- Recommended: involve procurement decision makers; build on earlier preparatory projects; liaise with other security communities",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 151–153 · HORIZON-CL3-2027-01-SSRI-03, Scope\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 149–150 · HORIZON-CL3-2027-01-SSRI-03, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 37–39 · H — Requirements for all types of actions supporting PCP or PPI\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 39–42 · H — Specific requirements for pre-commercial procurement (PCP)"
+        }
+      ]
+    }
+  ]
+}
