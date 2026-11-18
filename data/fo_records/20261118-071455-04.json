@@ -1,0 +1,37 @@
+{
+  "id": "20261118-071455-04",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "Integration of Innovative Ocean Solutions into EDITO – EDITO 2",
+  "organization_or_parent_framework": "Horizon Europe",
+  "programme": "EDITO 2",
+  "call_title": "Integration of Innovative Ocean Solutions into EDITO",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://www.mercator-ocean.eu/tender/152/",
+  "executive_summary": "Cascade call (second call for funding) issued by the EDITO 2 project (European Digital Twin Ocean phase 2, grant agreement 101227771, funded by Horizon Europe under the Mission Restore our Ocean and Waters), managed by Mercator Ocean International. It funds projects and initiatives that develop and integrate innovative digital ocean solutions (applications, reusable models, workflows, APIs, dashboards, decision-support tools or datasets) into the EDITO platform, within a 12-month project. The call has seven thematic key topics, from high seas and coastal resilience to ocean extremes and early warning, marine pollution, climate indicators, marine biodiversity and the sustainable blue economy and maritime services. Total budget is EUR 700,000, with an indicative EUR 100,000 per thematic lot and possibly several projects per lot. Single-stage submission through the Mercator Ocean grants platform; the deadline is 29 January 2027 (12:00 Paris time on the Mercator Ocean platform, 17:00 Brussels time on the Funding & Tenders Portal).",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-01-29",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "The Mercator Ocean call page (Objective of the call for proposals) and the Funding & Tenders Portal cascade page (Task description) fund 12-month projects that build and integrate digital ocean applications, models and datasets into the EDITO digital twin ocean, across seven themes including marine biodiversity and habitats, ocean extremes and early warning, and the sustainable blue economy and maritime services. It touches TenneT's field only indirectly, through better open marine environmental and metocean data that offshore grid work such as the 2GW Program, Hollandse Kust West Beta and the Renewables Grid Initiative's nature-related work relies on; no lot names offshore energy or grids. The pages read do not state which organisations may apply, and the call text and guide for applicants are only in the dossier on the submission platform, which was not opened, so no route for TenneT is established: Type 3. C3.7 fits because the likely benefit is offshore ecology and environmental knowledge that can support permitting and nature-inclusive design (interpretation).",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.7"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T1",
+      "T9"
+    ],
+    "role": [],
+    "activity": [
+      "A6"
+    ],
+    "outcome": [
+      "O5"
+    ]
+  }
+}

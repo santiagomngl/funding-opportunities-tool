@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "The project must develop a new digital ocean solution and integrate it into EDITO, the public platform at the core of the European Digital Twin Ocean, within 12 months.\nEDITO is a free, public platform that gives the marine science and data community tools to build digital twins (virtual, data-driven replicas) of the ocean and to make science-based decisions. The issuing project, EDITO 2, is a Horizon Europe project (2025–2028) that passes part of its grant to third parties through this cascade call (a call in which an EU-funded project funds other organisations).\nWhat the project must deliver:\n- A digital ocean application, reusable model, workflow, API (an interface that lets other software use the data or model), dashboard, decision-support tool or dataset that addresses a key ocean or coastal challenge.\n- Integration of that solution into the EDITO platform, so it is deployed, tested and usable there.\nThe solution must be innovative in the call's sense: it must bring clear added value to EDITO and its users. The call particularly encourages what-if scenario applications, reusable models and workflows building on Copernicus Marine, EMODnet, Destination Earth or Horizon Europe results, unique or hard-to-access datasets that are legally shareable, and decision-support applications that turn ocean data into indicators, maps, risk layers, alerts or scenarios.\nThe need behind the call is a policy and societal one: the EU Mission Restore our Ocean and Waters, the EU Ocean Pact and the EU Green Deal. Proposals must fall under one of seven themes:\n- High seas and deep-ocean sustainability\n- Coastal, island and outermost regions resilience\n- Ocean extremes and early-warning services\n- Marine pollution and pressure assessment\n- Climate impacts and biogeochemical indicators\n- Marine biodiversity, habitats and restoration\n- Sustainable blue economy and maritime services\nNone of the themes names offshore energy or electricity grids.",
+          "sources": "Mercator Ocean International, Integration of Innovative Ocean Solutions (call page, reference 26550-GRANT-EDITO 2-APPLICATIONS 2) · Objective of the call for proposals\nEU Funding & Tenders Portal, INTEGRATION OF INNOVATIVE OCEAN SOLUTIONS INTO EDITO (cascade call page) · Task description\nEDITO, EDITO announces Call for funding #2 - apply now! (web page)\nMercator Ocean International, Integration of Innovative Ocean Solutions (call page) · About the EDITO 2Project"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The project must strengthen the European Digital Twin Ocean and the EU's ocean policies; the call sets no numeric targets.\nThe pages read state that EDITO serves the objectives of the EU Mission Restore our Ocean and Waters: protecting biodiversity, stopping marine pollution and supporting a sustainable blue economy. The seven themes are designed to support that Mission, the EU Ocean Pact and the EU Green Deal.\nFunded solutions are expected to be policy-relevant and user-oriented: the call asks for developments that can be deployed, tested and integrated into EDITO, and that turn ocean data and models into decision-ready outputs for end users. Through the platform, the work is meant to help consolidate an operational, interoperable and scalable European Digital Twin Ocean. The call says nothing about energy-system outcomes such as transmission capacity or renewable integration.",
+          "sources": "Mercator Ocean International, Integration of Innovative Ocean Solutions (call page) · About the EDITO 2Project\nMercator Ocean International, Integration of Innovative Ocean Solutions (call page, reference 26550-GRANT-EDITO 2-APPLICATIONS 2) · Objective of the call for proposals\nEDITO, EDITO announces Call for funding #2 - apply now! (web page)\nEU Funding & Tenders Portal, INTEGRATION OF INNOVATIVE OCEAN SOLUTIONS INTO EDITO (cascade call page) · Task description"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "It suits organisations that build ocean data products, models or applications, such as marine research institutes, universities, ocean-data companies and public bodies running ocean services.\nThe pages read say only that EDITO will give financial support to selected European, national, regional or local projects and initiatives that integrate innovative digital ocean solutions into the EDITO ecosystem. The pages read do not state which types of organisation may lead, whether a consortium is required, or how work and funding must be shared; these rules are in the call dossier on the Mercator Ocean submission platform, which was not opened.\nThe general Mercator Ocean grant rules apply: a grant must not generate profit and must be limited to what balances the project budget, it cannot fund work already completed, and each beneficiary may receive only one grant per project, with no double funding of the same costs.",
+          "sources": "EDITO, EDITO announces Call for funding #2 - apply now! (web page)\nMercator Ocean International, Grants (web page) · Applicable legislation and eligibility criteria; How to Apply?"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": "The solution may build on existing models and data, but it must bring clear added value to EDITO and its users.\nThe call defines innovation broadly. It may come from:\n- developing a new application;\n- integrating a unique or previously inaccessible dataset;\n- reusing or adapting existing models in a new workflow ready for EDITO;\n- combining several data sources or models;\n- creating new user capabilities, such as what-if scenarios, early-warning services, operational indicators, policy-support tools or decision-ready outputs.\nThe innovation is therefore mainly in digital tools, data and their use for decisions, not in hardware. The first EDITO 2 call (closed in May 2026) onboarded existing mature solutions; this second call asks applicants to go a step further with ambitious developments.",
+          "sources": "EDITO, EDITO announces Call for funding #2 - apply now! (web page)\nMercator Ocean International, Integration of Innovative Ocean Solutions (call page, reference 26550-GRANT-EDITO 2-APPLICATIONS 2) · Objective of the call for proposals"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": "The solution must be deployed, tested and integrated in the EDITO platform itself within the 12-month project.\nThe work is digital: the call asks for applications, models, workflows, APIs, dashboards or datasets that run in, or are served through, EDITO. Datasets must be legally shareable, well documented, interoperable and reusable within EDITO. The call encourages building on recognised European data and model infrastructures such as Copernicus Marine, EMODnet, EDITO itself and Destination Earth. The evaluation also scores usability, stakeholder engagement and the added value of integrating the proposal into EDITO, so the solution must work for real platform users rather than stand alone.",
+          "sources": "EDITO, EDITO announces Call for funding #2 - apply now! (web page)\nEU Funding & Tenders Portal, INTEGRATION OF INNOVATIVE OCEAN SOLUTIONS INTO EDITO (cascade call page) · Submission & evaluation process\nMercator Ocean International, Integration of Innovative Ocean Solutions (call page, reference 26550-GRANT-EDITO 2-APPLICATIONS 2) · Objective of the call for proposals"
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "TenneT could benefit indirectly from better open marine environmental data and models for the North Sea, which offshore grid planning and permitting rely on.\nTenneT's offshore grid work, such as the 2GW Program and connections like Hollandse Kust West Beta, depends on knowledge of seabed habitats, marine biodiversity and ocean conditions for routing, permitting and nature-inclusive design. Solutions funded under the themes Marine biodiversity, habitats and restoration, Ocean extremes and early-warning services, or Sustainable blue economy and maritime services could make such data easier to access through EDITO (interpretation; no theme names offshore energy). TenneT could pass the call to ocean-data partners or research institutes it works with.\nTenneT cannot be shown to have a route itself: the pages read do not state who may apply, the call is aimed at ocean data and model developers, and the call text with the eligibility rules was not read because it is only on the submission platform.",
+          "sources": "Mercator Ocean International, Integration of Innovative Ocean Solutions (call page, reference 26550-GRANT-EDITO 2-APPLICATIONS 2) · Objective of the call for proposals\nEDITO, EDITO announces Call for funding #2 - apply now! (web page)\nMercator Ocean International, Integration of Innovative Ocean Solutions (call page) · About the EDITO 2Project"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "The call has EUR 700,000 in total, with an indicative EUR 100,000 per thematic lot.\n- Total project size: the call sets no minimum or maximum per project on the pages read.\n- Grant request: proportionate to the proposed work; several proposals may be selected in the same lot (theme), and ambitious proposals are encouraged with duly justified funding.\n- Funding form: a grant (financial support to third parties) paid by Mercator Ocean International on behalf of EDITO 2; the payment model is not stated on the pages read.",
+          "sources": "EU Funding & Tenders Portal, INTEGRATION OF INNOVATIVE OCEAN SOLUTIONS INTO EDITO (cascade call page) · Task description\nEU Funding & Tenders Portal, INTEGRATION OF INNOVATIVE OCEAN SOLUTIONS INTO EDITO (cascade call page) · General information\nMercator Ocean International, Integration of Innovative Ocean Solutions (call page) · header (Estimated duration, Maximum amount, Closing date)"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "The pages read set only the general Mercator Ocean grant rules.\n- Caps or mandatory allocations: a grant must be limited to the amount needed to balance the project budget and may not generate profit.\n- Excluded costs: work already completed before the grant, and any cost already funded by another source (no double funding); each beneficiary may receive only one grant per project.",
+          "sources": "Mercator Ocean International, Grants (web page) · Applicable legislation and eligibility criteria; How to Apply?"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One mandatory stage: a single-stage application on the Mercator Ocean grants platform (achatpublic.com).\n- Stage 1 — Application: 29 January 2027, 12:00 Paris time according to the Mercator Ocean platform; the Funding & Tenders Portal gives 17:00 Brussels time, so the earlier time is the safe one. Applicants submit a complete application and a technical proposal. The platform is in French only; the call documents are under \"Pièces de marché\" (call documents) and questions go through \"Questions/Réponses\" (questions and answers).",
+          "sources": "EU Funding & Tenders Portal, INTEGRATION OF INNOVATIVE OCEAN SOLUTIONS INTO EDITO (cascade call page) · General information\nMercator Ocean International, Integration of Innovative Ocean Solutions (call page) · header (Estimated duration, Maximum amount, Closing date)\nMercator Ocean International, Grants (web page) · Applicable legislation and eligibility criteria; How to Apply?\nMercator Ocean International, Integration of Innovative Ocean Solutions (call page) · Nota bene"
+        },
+        {
+          "title": "Project window",
+          "answer": "Projects last 12 months.\n- Maximum duration: 12 months.\n- Required start: not stated on the pages read.",
+          "sources": "EU Funding & Tenders Portal, INTEGRATION OF INNOVATIVE OCEAN SOLUTIONS INTO EDITO (cascade call page) · General information\nMercator Ocean International, Integration of Innovative Ocean Solutions (call page) · header (Estimated duration, Maximum amount, Closing date)\nEDITO, EDITO announces Call for funding #2 - apply now! (web page)"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "The call does not give decision dates on the pages read; all applicants are told the outcome.\n- Funding decision: an evaluation panel ranks eligible proposals and informs all applicants of the decision; unsuccessful applicants receive feedback. Results are published on the project website.",
+          "sources": "EU Funding & Tenders Portal, INTEGRATION OF INNOVATIVE OCEAN SOLUTIONS INTO EDITO (cascade call page) · Submission & evaluation process\nMercator Ocean International, Grants (web page) · Applicable legislation and eligibility criteria; How to Apply?"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "An assessment panel scores eligible proposals and draws up a ranking list.\n- Evaluation criteria: excellence, impact, implementation, usability, stakeholder engagement, and the added value of integrating the proposal into EDITO.\n- Ranking rules: proposals are ranked per the panel's scores; several proposals may be selected within the same theme, within the indicative EUR 100,000 per theme.",
+          "sources": "EU Funding & Tenders Portal, INTEGRATION OF INNOVATIVE OCEAN SOLUTIONS INTO EDITO (cascade call page) · Submission & evaluation process\nEU Funding & Tenders Portal, INTEGRATION OF INNOVATIVE OCEAN SOLUTIONS INTO EDITO (cascade call page) · Task description"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    }
+  ]
+}
