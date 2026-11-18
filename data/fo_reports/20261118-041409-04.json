@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "A joint pre-commercial procurement in which a group of Mission cities buys research and development of new solutions that cut greenhouse gas and air pollutant emissions.\nPre-commercial procurement (PCP) means that public buyers jointly pay several competing suppliers to design, prototype and test solutions that do not yet exist, before deciding whether to buy any. The grant goes to the buyers, not to the developers: suppliers are paid through the buyers' call for tenders. The procured solutions must be piloted, installed and validated in the participating cities, which are among the 112 cities selected for the EU Mission on Climate-Neutral and Smart Cities (an EU programme helping these cities become climate neutral by 2030).",
+          "sources": "Topic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 37–41 · H — Specific conditions for actions implementing PCP or PPI"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "The project must prepare and carry out one joint procurement of research and development for city climate-mitigation solutions, plus supporting demand-side activities.\nMandatory:\n- one joint PCP by a buyers' group with one concrete common need, one joint call for tender and a lead procurer who awards the contracts\n- an open market consultation (a public dialogue with potential suppliers) before the tender, and wide promotion of the tender across Europe\n- the full PCP cycle of solution design, prototyping and original development, with installation and testing of a limited series in the procurers' or end users' premises, with at least three competing suppliers at the start\n- involvement of end users, such as city teams that would adopt the solutions, regional structures and citizens\n- cooperation with policy makers to strengthen national policy frameworks and mobilise national budgets for innovation procurement\n- collaboration with the Mission Platform (the support structure of the Cities Mission), formalised in a Memorandum of Understanding\nOptional:\n- buying at least one successful solution within the PCP, or preparing a follow-up procurement\n- financial support of up to EUR 200,000 per third party to help final end users adopt the solutions\n- working with follower cities that do not take part in the procurement\nExcluded: the topic does not fund developers, industry or research organisations to do research and development directly. Sectors named as examples are energy efficiency in buildings, production and use of renewable energy, sustainable and smart mobility, and digitalisation.",
+          "sources": "Topic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Expected Outcome\nTopic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Scope\nTopic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Conditions, 6. Legal and financial set-up of the grants\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 37–41 · H — Specific conditions for actions implementing PCP or PPI"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The project must start from a shared need of city public buyers for emission-reducing solutions that the market does not yet offer.\nThe need belongs to the demand side: public procurers, specifically local authorities, which must lead by example in buying solutions that reduce greenhouse gas and air pollutant emissions on the way to climate-neutral cities. The topic also points to an economic need: closing the gap between supply and demand so that European companies, in particular SMEs and startups, can win first customer references in net-zero technology markets and so strengthen the EU's open strategic autonomy (its capacity to act independently while staying an open economy). The common challenge must require new research and development, as confirmed by the open market consultation. For TenneT this means the need would have to be one it shares with the cities, for example a city-level solution whose grid connection or flexibility matters to the transmission system; this is our interpretation.",
+          "sources": "Topic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Expected Outcome\nTopic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 37–39 · H — Specific conditions for actions implementing PCP or PPI"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "Mainly procurement documents and tested first products of new emission-reducing solutions in the participating cities.\nPreparation stage deliverables:\n- a prior information notice for the open market consultation, at least 50 days before its first meeting\n- a report on the open market consultation and its effect on the tender documents\n- completed tender documents based on the Horizon Europe PCP model documents, including the contract notice\n- a signed joint procurement agreement with the buyers' group's financial commitment\nExecution stage deliverables:\n- the contract award notice and evaluation results for each PCP phase\n- validated and compared solutions from the competing suppliers, demonstrated to the granting authority at the end of the action\n- the expected greenhouse gas reduction in the participating cities by 2030 and 2050 against a baseline set at the start\n- where the procurers choose a follow-up procurement, a deliverable preparing it",
+          "sources": "Topic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Expected Outcome\nTopic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 38–39 · H — Preparation stage and Execution stage"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The project must cut greenhouse gas and air pollutant emissions in the participating cities and open public markets to European innovators.\nExpected outcomes:\n- public procurers stimulate the competitive development of market-ready solutions that help local communities become climate neutral\n- innovative solutions in climate-mitigation sectors, such as energy efficiency in buildings, renewable energy production and use, smart mobility and digitalisation, are brought to market and implemented in the cities\n- innovative companies from EU Member States and Horizon Europe associated countries, in particular SMEs and startups, gain access to public procurement and scale up\n- more demand creates economies of scale for suppliers, supported by wide publication of results and, where relevant, standardisation, regulation or certification\nThe proposal must present the expected greenhouse gas reduction in the participating cities by 2030 and 2050 against a baseline set at the start of the project. The action must comply with the sustainable and resilient procurement obligations of the Net Zero Industry Act (the EU regulation supporting European manufacturing of net-zero technologies).",
+          "sources": "Topic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Expected Outcome\nTopic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Scope"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "The solutions must be designed for adoption beyond the project, and procurers must say how they will deploy them if the procurement succeeds.\nThe procurers must declare in the proposal that they intend to deploy successful solutions and state whether they will:\n- buy successful solutions within the PCP, in which case the proposal must budget the purchase of at least one solution and leave time to deploy and validate it\n- launch a separate follow-up procurement, prepared by a deliverable in the project\n- adopt the solutions without buying them, for example open-source solutions\n- give financial or regulatory incentives to others, such as citizens, to adopt them\nThe proposal must show how the action is anchored in a strategy for climate-neutral cities and must remain sustainable after the project. The Mission Platform will support upscaling and replication and monitor impact with common indicators. Results must be widely published and, where relevant, feed into standardisation, regulation or certification. Suppliers own the intellectual property of their results, while procurers get royalty-free use rights; a call-back clause lets procurers require transfer if suppliers fail to exploit the results.",
+          "sources": "Topic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Scope\nTopic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Expected Outcome\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 40–41 · H — Tender documentation, procurement and implementation of the contract"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "At least three independent beneficiaries from three countries, of which at least two must be public procurers from different countries.\nThe general rule requires three independent legal entities, each in a different EU Member State or Horizon Europe associated country (a non-EU country taking part in the programme), with at least one in a Member State. For a PCP action, at least two of them must be public procurers from different countries, at least one of which is in a Member State. The topic adds that each project must include at least three of the 112 Mission cities. No maximum is set.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · B — Eligibility, Consortium composition\nTopic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Scope"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "A buyers' group of public procurers led by a Mission city, possibly joined by other organisations for supporting activities.\n- Buyers' group: public procurers, meaning organisations that are contracting authorities or contracting entities under the EU procurement directives. The topic says it supports public procurers, specifically local authorities, and requires at least three of the 112 Mission cities\n- Private or non-profit procurers that provide similar services of public interest may join the procurers, as may bodies with a mandate to buy on their behalf\n- Other entities, such as end users, may take part in additional activities (preparing and following up the procurement, dissemination, standardisation) if they have no conflict of interest and their participation is well justified\n- Suppliers that could bid in the procurement may not be beneficiaries\nFollower cities are encouraged to cooperate in preparing and following up the procurement.",
+          "sources": "Topic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 13 · B — Eligibility, Consortium composition and footnote 35\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 37, 41 · H — Requirements for all types of actions and Tender documentation"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "The buyers' group must prepare and run the procurement jointly, and each procurer must contribute financially to it.\nThe buyers' group must jointly prepare and implement one call for tender and one joint evaluation, with the lead procurer awarding the research and development contracts on behalf of all. Each procurer in the buyers' group must contribute financially to the total PCP budget; suppliers can be paid by the lead procurer or by each procurer in proportion to its share. Other partners carry out the additional activities. Resources for collaboration with the Mission Platform must be foreseen in the work plan.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 37–38, 41 · H — Requirements for all types of actions and Tender documentation\nTopic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Conditions, 6. Legal and financial set-up of the grants"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "The lead procurer of the buyers' group must be one of the 112 Mission cities; the topic does not separately restrict the coordinator role.\nThe lead procurer is a public procurer appointed by the buyers' group to coordinate and lead the procurement. It can be one of the procurers or another beneficiary designated by them. For this topic, the lead procurer from the buyers' group must be one of the Mission cities.",
+          "sources": "Topic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 38 · H — footnote 47"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "No. The lead procurer must be a Mission city, so TenneT could not lead the procurement.\nThe topic requires the lead procurer from the buyers' group to be one of the 112 cities of the Climate-Neutral and Smart Cities Mission. TenneT TSO B.V. is not a city and therefore cannot take that role.",
+          "sources": "Topic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Scope"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Possibly, as a member of the buyers' group or through additional activities, but only if it shares the cities' procurement need.\n- As a procurer: the General Annexes count contracting entities under Directive 2014/25/EU (the EU utilities procurement directive, which covers electricity network operators) as public procurers, so the rules do not exclude TenneT. But each procurer must share the one common need and co-finance the procurement, and the topic says it supports specifically local authorities, so this route is uncertain\n- In additional activities: other entities, such as end users, may take part in preparing and following up the procurement, dissemination, and work on standardisation, regulation or certification, if they have no conflict of interest and their participation is well justified\nThe call does not mention associated partners or advisory roles for organisations outside the consortium.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · B — Eligibility, footnote 35\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 37 · H — Requirements for all types of actions\nTopic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Scope"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Possibly, at up to 100% of eligible costs, but whether TenneT could be a funded beneficiary depends on the cities accepting it in the project.\nA PCP action is a budget-based grant (it reimburses actual eligible costs) at a maximum rate of 100%, plus 25% of direct costs for overheads. The costs of the procurement itself are eligible, and the call sets no separate Dutch rule. If TenneT joined as a procurer, it would have to contribute financially to the joint procurement budget, and its contribution would be co-financed by the grant. If it joined only for additional activities, its personnel and other eligible costs could be covered. Because the topic targets local authorities and requires a Mission city as lead procurer, it is unclear whether a proposal including TenneT would be competitive.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, funding rate and maximum grant amount, Budget categories\nTopic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Conditions, 6. Legal and financial set-up of the grants\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 38 · H — Requirements for all types of actions"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT could bring grid-integration expertise to a city procurement of energy solutions, such as local flexibility, heat electrification or renewable generation.\nThis is our interpretation. Where cities procure solutions that add electricity demand, generation or storage, TenneT could help define grid-friendly requirements in the open market consultation and tender specifications, share data on congestion and connection capacity, and advise on standardisation and regulatory obstacles, which fits the additional activities the call allows. This links to TenneT's work with local and regional governments in the Energy boards. A Dutch Mission city with a grid-related need would be the most natural partner. Joining the buyers' group itself would only make sense if TenneT shared the procured need and was willing to co-finance and potentially buy the solutions.",
+          "sources": "Topic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 37 · H — Requirements for all types of actions"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The procured solutions must be genuinely new: the procurement must buy research and development that the market cannot yet supply.\nThe common challenge must require new research and development, confirmed by the open market consultation, so that the gap between current industry offers and the buyers' needs justifies buying research and development services. Evaluators judge how far the objectives go beyond the state of the art in the degree of innovation needed to meet the procurement need. Projects aiming at the higher end of the EUR 7–12 million range must show more ambition in innovation or deployment.",
+          "sources": "Topic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 38–40 · H — Preparation and publication of the open market consultation\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 25 · D — Award criteria, Pre-commercial procurement actions"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Mainly technology and solutions, with procurement and policy innovation around them.\nThe solutions may be in any climate-mitigation sector, such as energy efficiency in buildings, renewable energy production and use, smart mobility or digitalisation. The action itself innovates in how public buyers procure: demand-driven procurement, cooperation with policy makers to strengthen national frameworks for innovation procurement, and mobilising national budgets for it.",
+          "sources": "Topic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Expected Outcome\nTopic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Scope"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "The procured work must cover the full research and development cycle up to testing a limited series of first products.\nThe procurement must cover solution design, prototyping and original development, including installation and testing of a limited volume of test-series products or services at the procurers' or end users' premises, with fewer competing suppliers after each phase. A fast-track PCP may combine the second and third phases when deployment is already budgeted. The PCP may include buying the first products developed, but not commercial volumes.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 39–41 · H — Definitions and Tender documentation\nTopic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Scope"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "The call sets no Technology Readiness Level (TRL, a 1–9 scale of maturity).\nThe procured solutions start from a need that requires new research and development and end as first products installed and tested in real city settings; the topic speaks of market-ready innovative solutions as the target.",
+          "sources": "Topic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Expected Outcome\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 41 · H — Tender documentation, procurement and implementation of the contract"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "The solutions must be installed and tested in the participating cities, in real operating conditions.\nThe PCP must include installation and testing of a limited series of products at the procurers' or end users' premises, and the procured solutions must be piloted, installed and validated in the participating cities. If the procurers buy a solution within the PCP or adopt it directly, the project must leave enough time to deploy it and check that it works after installation. At the end of the action, the tested solutions must be demonstrated to the granting authority.",
+          "sources": "Topic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 39, 41 · H — Execution stage and Tender documentation"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The procurement must address one common challenge shared by all buyers, embedded in the cities' climate strategies.\nThe common challenge may have several facets, but all procurers must share and co-finance all of them; local adaptations may be added. The project must be anchored in a clear strategy for climate-neutral cities, work with the Mission Platform, and liaise with other Horizon Europe initiatives, such as the CCAM, 2ZERO and Built4People partnerships, Circular Cities and Regions and CIVITAS, to avoid overlap.",
+          "sources": "Topic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 38 · H — footnote 48"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "The project must compare the competing solutions' performance and quantify the cities' expected emission reductions.\nEvidence required:\n- validation and comparison of the competing PCP solutions, to judge whether they can be turned into a permanent service\n- the expected greenhouse gas reduction in the participating cities by 2030 and 2050 against a baseline set at the start\n- evaluation results after each PCP phase\n- impact monitoring with the common methodology and indicators of the Mission Platform",
+          "sources": "Topic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Expected Outcome\nTopic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 39 · H — Execution stage"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "Yes. End users must be effectively involved, and suppliers must be consulted before the tender.\nThe proposal must provide for continuous dialogue between demand and supply, with effective involvement of end users such as city teams that would adopt the solutions, regional structures and citizens. Procurers must hold an open market consultation with potential suppliers and end users before launching the tender. Procurement decision makers must be involved so that the solutions are actually adopted.",
+          "sources": "Topic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 40 · H — Preparation and publication of the open market consultation"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "About three projects share EUR 26.8 million, with an expected EU contribution of EUR 7–12 million each.\n- Grant request: EUR 7–12 million per project, shared by all beneficiaries; projects at the higher end must show greater ambition\n- Funding form: budget-based grant (reimburses actual eligible costs), including the costs of the procurement itself\n- Financial support to third parties: up to EUR 200,000 per end user, only to help final end users adopt the solutions\nThe topic budget is EUR 26,823,812 for 2027.",
+          "sources": "Topic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Budget overview\nTopic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Scope\nTopic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Conditions, 6. Legal and financial set-up of the grants"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "All costs are funded at up to 100%, but every procurer must put money into the joint procurement.\n- Co-financing conditions: each procurer in the buyers' group must contribute financially to the total budget needed for the joint PCP; if the procurers buy a solution within the PCP, the proposal must budget at least one purchase\n- Evidence required: a signed joint procurement agreement confirming the buyers' group's financial commitment, delivered in the preparation stage",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 31 · G — Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 38 · H — Requirements for all types of actions and Preparation stage\nTopic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Scope"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "PCP procurement costs are eligible, and support to end users is capped at EUR 200,000 each.\n- Eligible costs: personnel, subcontracting, purchase costs and the PCP procurement costs\n- Caps or mandatory allocations: financial support to third parties of at most EUR 200,000 each, in grants only; resources for collaboration with the Mission Platform must be in the work plan\n- Overheads and VAT: indirect costs at a flat 25% of direct costs, excluding subcontracting and financial support to third parties",
+          "sources": "Topic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Conditions, 6. Legal and financial set-up of the grants\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 32 · G — Budget categories and cost eligibility rules"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: a full proposal is due by 7 October 2027 through the EU Funding & Tenders Portal.\n- Stage 1 — Full proposal: 7 October 2027, 17:00 Brussels time, submitted by the coordinator using the Horizon Europe PCP application form, with a page limit of 40 pages for the technical part unless the form states otherwise\n- Opening: 9 February 2027 (planned)",
+          "sources": "Topic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · General information and Conditions, 1. Admissibility conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 4 · A — Admissibility, Page limits"
+        },
+        {
+          "title": "Project window",
+          "answer": "The call states no duration or start date; the grant agreement fixes both.\n- Maximum duration: not set by the call; it must leave time for the full PCP cycle and, where solutions are bought or adopted, for deployment and validation\n- Required start: normally after the grant agreement is signed; an earlier start only exceptionally and with the granting authority's agreement",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · G — Starting date & project duration\nTopic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Scope"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Indicatively, results come about 5 months after the deadline and grant agreements are signed about 8 months after it.\n- Expected invitation or assessment result: around March 2028 (indicative)\n- Grant agreement: around June 2028 (indicative)\n- Conditions before starting: a Memorandum of Understanding with the Mission Platform must be concluded as soon as possible after the project starts",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · F — Indicative timetable for evaluation and for signature of the grant agreement\nTopic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Conditions, 6. Legal and financial set-up of the grants"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "The proposal uses the standard Horizon Europe PCP application form and must declare the procurers' deployment intentions.\n- Application form: Horizon Europe PCP form in the Portal submission system\n- Partner documents: each procurer's declaration of interest to deploy successful solutions and which of the four deployment routes applies",
+          "sources": "Topic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Conditions, Application and evaluation forms\nTopic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Scope"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Experts score Excellence, Impact and Quality of implementation out of 5 each; a proposal needs at least 3 on each and 10 overall.\n- Evaluation criteria: Excellence (ambition and degree of innovation needed for the procurement need, sound methodology); Impact (credible pathway to the expected outcomes; for PCP, exploitation means mainly the use of the solutions by the procurers and end users); Quality and efficiency of implementation (work plan, risks, resources, and each participant's capacity and role)\n- Thresholds: 3 out of 5 per criterion and 10 out of 15 overall\n- Ranking rules: proposals above the thresholds are funded in ranking order within the budget\n- Budget assessment: the grant may be lower than requested",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 25–26 · D — Award criteria, Scores and weighting\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 31 · G — Form of grant"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Fast-track procedures and support to end users depend on how the procurers plan to deploy the solutions.\n- Conditional — procurers buy within the PCP: they must budget at least one purchase and allow time to deploy and validate it\n- Conditional — follow-up procurement: the proposal must include a deliverable preparing it\n- Exception — fast-track PCP: in any of the four deployment cases, one contract may cover the second and third PCP phases\n- Recommended — follower cities: cooperate with additional cities in preparing, testing and taking up the solutions",
+          "sources": "Topic page HORIZON-MISS-2027-04-CIT-05, EU Funding & Tenders Portal · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 41 · H — Tender documentation, procurement and implementation of the contract"
+        }
+      ]
+    }
+  ]
+}

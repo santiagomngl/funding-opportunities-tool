@@ -1,0 +1,43 @@
+{
+  "id": "20261118-041409-05",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-CL4-2027-04-DATA-03 New approaches for decentralized, federated and sustainable AI data processing (RIA) – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "DIGITAL (HORIZON-CL4-2027-04)",
+  "call_module_title": "HORIZON-CL4-2027-04-DATA-03 New approaches for decentralized, federated and sustainable AI data processing (RIA)",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-04-DATA-03",
+  "executive_summary": "Horizon Europe Research and Innovation Action under Cluster 4 (Digital, Industry and Space) that funds new architectures, workflows and tools for running AI across distributed edge, cloud and high-performance computing resources: decentralised and federated AI beyond federated learning, AI workflows on heterogeneous hardware (including neuromorphic and quantum computing), data quality and secure distributed data management (including post-quantum cryptography), and tools to measure and improve the energy efficiency of AI data processing, shown in at least two real-world use cases in different sectors, from TRL 3 to TRL 6–7. Participation is limited to entities established in EU Member States, Iceland, Norway, Canada, Israel, the Republic of Korea, New Zealand, Switzerland, the United Kingdom and (by topic update) Japan, and not controlled from a non-eligible country unless guarantees are accepted. Budget-based grant at up to 100% of eligible costs; indicative topic budget EUR 35 million, around EUR 17.5 million per project for two projects. Opened 17 November 2026; single-stage deadline 18 March 2027.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-03-18",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "Horizon Europe Work Programme 2026–2027 Part 7 (Digital, Industry and Space), pp. 119–121 (HORIZON-CL4-2027-04-DATA-03, Specific conditions, Expected Outcome and Scope), funds research on decentralised, federated and energy-efficient AI data processing across the edge-cloud-HPC continuum, to be shown in at least two real-world use cases in different sectors. It touches TenneT's field because an energy-system use case is allowed, close to TwinEU (federated data exchange between system operators) and to the National Facility Digital Twin of the Electricity System and the Digital Twin Programme (compute-intensive grid simulation and AI), although the topic names no energy use case. The eligibility conditions (pp. 119–120) and General Annexes B and G (pp. 11, 13, 31) allow TenneT TSO B.V., a Dutch company owned by the Dutch State, to be a funded beneficiary at the Research and Innovation Action rate of 100%, so Type 1 and C1.3 fit, with TenneT most plausibly contributing a grid use case. Both project dates are null because the call states no start, end or duration.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T1"
+    ],
+    "role": [
+      "R2",
+      "R9",
+      "R10"
+    ],
+    "activity": [
+      "A2",
+      "A6",
+      "A7"
+    ],
+    "outcome": [
+      "O6",
+      "O2"
+    ]
+  }
+}

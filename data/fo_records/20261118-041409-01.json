@@ -1,0 +1,28 @@
+{
+  "id": "20261118-041409-01",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-CL5-2027-03-D5-03 Data-driven circular economy for e-mobility ecosystem (2ZERO Partnership) – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "MOBILITY (HORIZON-CL5-2027-03)",
+  "call_module_title": "HORIZON-CL5-2027-03-D5-03 Data-driven circular economy for e-mobility ecosystem (2ZERO Partnership)",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-03-D5-03",
+  "executive_summary": "Horizon Europe Innovation Action under the 2ZERO partnership (Towards zero emission road transport) that funds better circularity of electric-vehicle drivetrain components and EV charging infrastructure (area A: design for long life, repair, refurbishment and dismantling, with health and remaining-useful-life monitoring) and data-driven life-cycle management of electric vehicles (area B: track-and-trace concepts, real-world load measurement, open data interfaces and digital-twin-based product passports), up to TRL 6–7. Open to consortia under the standard Horizon Europe rules, excluding entities controlled from China; funded as a lump sum at Innovation Action rates (70% for for-profit entities, 100% for non-profit). Indicative topic budget EUR 24 million, EUR 5–7 million per project for about four projects, with at least the two best proposals per area funded. Planned opening 15 December 2026; single-stage deadline 14 April 2027.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-04-14",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "Horizon Europe Work Programme 2026–2027 Part 8 (Climate, Energy and Mobility), pp. 217–221, Specific conditions, Expected Outcome and Scope of HORIZON-CL5-2027-03-D5-03, funds circular design, health monitoring and product passports for electric-vehicle drivetrain components and EV charging infrastructure. It does not touch TenneT's field: the work concerns vehicle components and charging equipment within the road-transport value chain, with no grid, transmission or system-operation element; Reliability Centered Maintenance (RCM) shares only the idea of condition-based remaining-useful-life assessment, applied here to vehicle parts. Both project dates are null because the call states no start, end or duration.",
+  "call_type": "Not relevant",
+  "category_codes": [],
+  "taxonomy_values": {
+    "topic": [],
+    "role": [],
+    "activity": [],
+    "outcome": []
+  }
+}
