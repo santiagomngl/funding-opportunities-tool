@@ -1,0 +1,40 @@
+{
+  "id": "20261118-104250-03",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "Eureka-cluster ITEA voor innovatie in software en systemen – Eureka-cluster ITEA",
+  "organization_or_parent_framework": "Netherlands Enterprise Agency (RVO)",
+  "programme": "Eureka-cluster ITEA",
+  "call_title": "Eureka-cluster ITEA voor innovatie in software en systemen",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://www.rvo.nl/subsidies-financiering/eureka/netwerken-en-programmas/itea",
+  "executive_summary": "National co-funding by RVO for Dutch partners in international ITEA projects (an Eureka cluster for market-oriented R&D on software-intensive systems and services), with partners from at least two countries. The Dutch budget is EUR 10 million, with at most EUR 4 million per project and rates of 25% to 50% depending on organisation type and research or development work. The international Project Outline deadline was 2 November 2026; invited consortia submit the Full Project Proposal by 11 February 2027, and the national application is expected in April 2027.",
+  "pre_submission_deadline": "2026-11-02",
+  "full_proposal_deadline": "2027-02-11",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": 11428571,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "The RVO ITEA page (Voor wie?, Voorwaarden) and RNES title 3.8 fund market-oriented R&D on software-intensive systems and services in any application area, which allows energy-system software such as the grid models and digital twins of Digital Twin Programme, GNN4GC and TenneTwin. RNES article 3.8.2 funds each participant in an ITEA-labelled consortium with at least one company established in the Netherlands, at 35% (industrial research) or 25% (experimental development) for a large company, so TenneT TSO B.V. could be a funded partner (C1.3); article 3.8.9 excludes applications from government bodies, which on our reading does not cover TenneT TSO B.V. as a private-law company. Only consortia that submitted a Project Outline by 2 November 2026 can still reach the Full Project Proposal stage.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T1"
+    ],
+    "role": [
+      "R2",
+      "R5"
+    ],
+    "activity": [
+      "A2",
+      "A6"
+    ],
+    "outcome": [
+      "O6"
+    ]
+  }
+}

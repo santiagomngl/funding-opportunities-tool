@@ -1,0 +1,42 @@
+{
+  "id": "20261118-104250-01",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "EKOO: Circulaire economie – Energie en Klimaat Onderzoek en Ontwikkeling (EKOO)",
+  "organization_or_parent_framework": "Netherlands Enterprise Agency (RVO)",
+  "programme": "Energie en Klimaat Onderzoek en Ontwikkeling (EKOO)",
+  "call_title": "EKOO: Circulaire economie",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://www.rvo.nl/subsidies-financiering/ekoo/circulaire-economie",
+  "executive_summary": "Grants for collaborations of companies and research organisations doing industrial research or experimental development on new or much-improved circular products, processes or services, including capital goods such as electric motors, generators and transformers, wind turbines, solar systems and electrolysers. At least one company must take part, projects last at most two years and the innovation must reach first application in the Netherlands within ten years. The tender has a budget of EUR 2.5 million, a maximum grant of EUR 500,000 per project and funding rates of 40% (large company) to 80% (non-economic research). Applications close on 3 December 2026 at 17:00.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2026-12-03",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": 1250000,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "The RVO scheme page (Waarvoor krijgt u subsidie?) and Staatscourant 2026, 31380 (Bijlage 4.2.1, Onderdeel D, innovatiethema 1) fund R&D on circular products, explicitly including transformers, generators and wind turbines, that use fewer raw materials or last longer through reuse, maintenance or repair. This touches TenneT's asset base and the material and environmental goals shared with Renewables Grid Initiative (RGI) and the lifetime-extension focus of Impressed Current Cathodic Corrosion Protection (ICCP) and Reliability Centered Maintenance (RCM). RNES article 4.2.9 grants subsidy to each participant in a collaboration that includes at least one company, and article 4.2.10 sets 40% for a large company, so TenneT TSO B.V. could be a funded partner (C1.3); pilots and demonstrations are excluded, so C1.2 does not fit.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T9",
+      "T4"
+    ],
+    "role": [
+      "R2",
+      "R5"
+    ],
+    "activity": [
+      "A2",
+      "A5"
+    ],
+    "outcome": [
+      "O5",
+      "O3"
+    ]
+  }
+}

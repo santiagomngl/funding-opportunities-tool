@@ -1,0 +1,46 @@
+{
+  "id": "20261118-104250-05",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "QDNL Innovation Impact Challenge: Quantum solutions for Infrastructure, Water, and Energy – Innovation Impact Challenge",
+  "organization_or_parent_framework": "Netherlands Enterprise Agency (RVO)",
+  "programme": "Innovation Impact Challenge",
+  "call_title": "QDNL Innovation Impact Challenge: Quantum solutions for Infrastructure, Water, and Energy",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://www.rvo.nl/subsidies-financiering/innovation-impact-challenge/qdnl",
+  "executive_summary": "A two-phase pre-commercial procurement (a public purchase of R&D services) by RVO for the Ministries of Economic Affairs and Infrastructure, under the National Growth Fund programme QDNL, for quantum computing, communication or sensing solutions to problems in water, energy and physical or digital infrastructure. Phase 1 buys feasibility studies of up to EUR 200,000 including VAT (EUR 2 million in all); invited teams can then win Phase 2 prototype contracts of up to EUR 1.5 million including VAT. Proposals must include committed end-user expertise. Phase 1 proposals are due on 25 January 2027 at 17:00.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-01-25",
+  "earliest_project_start_date": "2027-03-01",
+  "project_end_date": "2029-02-28",
+  "minimum_project_size": null,
+  "maximum_project_size": 1500000,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "The QDNL call text (sections 1.4 and 2.1) buys feasibility studies and prototypes of quantum-enabled solutions, naming grid planning, optimisation, monitoring and control in the energy system, which touches GNN4GC, National Facility Digital Twin of the Electricity System (NFDTES) and Reliability Centered Maintenance (RCM). Section 2.1 requires a committed end-user organisation that gives expertise, requirements and validation in Phase 1 and may give access to an operational environment in Phase 2, a natural role for TenneT (C2.2). Section 8.3 says public service organisations cannot receive funding and the end user may receive part of it only depending on its type, so it is unclear whether TenneT could be paid. The project dates are the Phase 1 kick-off (March 2027) and the Phase 2 reporting deadline (28 February 2029) in section 3.3.",
+  "call_type": "Type 2",
+  "category_codes": [
+    "C2.2"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T1",
+      "T5",
+      "T3"
+    ],
+    "role": [
+      "R10",
+      "R9",
+      "R5"
+    ],
+    "activity": [
+      "A3",
+      "A6",
+      "A5",
+      "A8"
+    ],
+    "outcome": [
+      "O6",
+      "O3"
+    ]
+  }
+}

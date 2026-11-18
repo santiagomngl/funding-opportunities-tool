@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "A new or much-improved circular product, process or service for one of the listed product groups, such as transformers, generators or wind turbines.\nThe project must develop an innovation that offers an alternative to the non-circular economy (one where products are not reused, repaired or remade from their materials) and reaches a first application in the Netherlands within ten years of the start.",
+          "sources": "Staatscourant 2026, 31380 (wijziging RNES en ROES 2026 voor EKOO) · Artikel I, Bijlage 4.2.1 Onderdeel D, innovatiethema 1\nEKOO: Circulaire economie (RVO scheme page) · Waarvoor krijgt u subsidie?"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Research and development for circular innovations in four product chains; recycling-led projects, pilots and other EKOO themes are excluded.\nIn scope, for one or more product groups:\n- Manufacturing industry: capital goods (lifting and transport equipment, machinery, medical and production equipment), electric motors, generators and transformers, computers, communication and measuring equipment.\n- Energy technologies, with circular strategies not aimed at critical raw materials: solar systems and wind turbines, electrolysers, batteries for light electric vehicles, heat pumps and cooling systems.\n- Construction and infrastructure: homes and offices, concrete bridges and viaducts, road surfaces.\n- Consumer goods: electrical appliances, furniture, textiles, non-plastic packaging and medical disposables.\nEligible project types: technological research and development of the innovation; research into consumer behaviour or business models, but only as preparation for developing a concrete product, process or service whose developer takes part; or both.\nExcluded: projects mainly about recycling or recovery (judged from the cost split); circular plastics, biobased circular or critical raw materials projects, which have their own themes; large consortia (MOOI scheme); pilots and demonstrations (DEI+ scheme); fundamental research.",
+          "sources": "Staatscourant 2026, 31380 (wijziging RNES en ROES 2026 voor EKOO) · Artikel I, Bijlage 4.2.1 Onderdeel D, innovatiethema 1\nEKOO: Circulaire economie (RVO scheme page) · Waarvoor krijgt u subsidie?; Waarvoor krijgt u geen subsidie?; Voor welke kosten?"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The project must address wasteful use of raw materials or pollution in one of the listed product chains, as an industry and societal need.\nThe need comes from the Dutch transition to a circular economy (the national circular-economy programme and its knowledge and innovation agenda). The model project plan asks the applicant to describe the problem, the research questions, the technical and non-technical challenges such as regulation, why the problem is relevant and who the problem owner is.",
+          "sources": "Staatscourant 2026, 31380 (wijziging RNES en ROES 2026 voor EKOO) · Artikel I, Bijlage 4.2.1 Onderdeel D, innovatiethema 1\nStaatscourant 2026, 31380 (wijziging RNES en ROES 2026 voor EKOO) · Toelichting, Innovatiethema 1\nModel projectplan EKOO Circulaire economie (RVO, Word) · Chapter 1 Aanleiding, doelstelling en resultaat"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "A concrete result towards the new circular product, process or service, such as a design, model, installation or report, plus a public summary.\nThe model project plan asks for the concrete result of the project (for example an installation, design, model or report), what development is needed for it and how the knowledge will be used in follow-up steps towards scale-up and market introduction. Each work package must state its result. After the project, the non-confidential knowledge must be published in a report of sufficient quality, and a summary is published by RVO, Energy Innovation NL and KIA CE.",
+          "sources": "Model projectplan EKOO Circulaire economie (RVO, Word) · Chapter 1; Chapter 3 Projectaanpak en werkplan; Samenvatting\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 4.2 · Artikelen 4.2.2–4.2.6 · Artikel 4.2.2, derde lid"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "At first application, the innovation must raise raw-material efficiency or cut the ecological footprint in the Netherlands.\n- Raw-material efficiency, through less material per product with the same function; longer product life by making products reusable, maintainable or repairable, or new methods for reuse, maintenance or repair; services replacing product sales (for example rental or sharing); or replacing fossil raw materials with recyclate or biologically produced biopolymers.\n- Smaller ecological footprint, shown by better biodiversity or less pollution of nature.\nThe model project plan asks for the yearly repetition potential in the Dutch market, in tonnes of primary non-renewable raw materials or tonnes of CO2, the share expected to be reached within ten years, and how the project reduces Dutch dependence on scarce foreign raw materials and moves value chains from linear to circular.",
+          "sources": "Staatscourant 2026, 31380 (wijziging RNES en ROES 2026 voor EKOO) · Artikel I, Bijlage 4.2.1 Onderdeel D, innovatiethema 1\nModel projectplan EKOO Circulaire economie (RVO, Word) · Chapter 4 Bijdrage aan de doelstellingen"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "The result must lead to a first application in the Netherlands within ten years, with a credible route to market and public sharing of non-confidential knowledge.\n- First application: a demonstration in an operational environment within ten years of the start; large-scale roll-out is not required.\n- Wider use: the project plan must describe the business case for producer and end user, the potential to scale up or apply the technology elsewhere, and the follow-up steps, who takes them and the time to market introduction.\n- Knowledge sharing: knowledge transfer is a compulsory but unfunded part of the project; after the project, non-confidential knowledge must be published in a report, and publications must mention the Ministry's subsidy.\n- Evaluation: participants must help RVO spread results and evaluate effects on request.",
+          "sources": "Staatscourant 2026, 31380 (wijziging RNES en ROES 2026 voor EKOO) · Artikel I, Doelstelling\nModel projectplan EKOO Circulaire economie (RVO, Word) · Chapter 5 Slaagkans in de Nederlandse markt en maatschappij; Chapter 7 Kennisoverdracht en intellectueel eigendom\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 4.2 · Artikelen 4.2.2–4.2.6 · Artikel 4.2.2"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "At least two parties working together, one of which must be a company; the scheme sets no maximum, but large consortia are steered elsewhere.\nThe subsidy goes to participants in a samenwerkingsverband (a collaboration in which each party works at its own cost and risk). It must include at least one onderneming (company). The scheme is meant for projects that are not, or not yet, taken up by a large consortium: large collaborations and large innovation projects must use the MOOI scheme (Missiegedreven Onderzoek, Ontwikkeling en Innovatie, RVO's scheme for large mission-driven consortia) instead. Hired parties do not count as partners.",
+          "sources": "EKOO: Circulaire economie (RVO scheme page) · Voor wie?; Waarvoor krijgt u geen subsidie?; Voorwaarden\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · § 4.2.2 · Artikelen 4.2.8–4.2.14b · Artikel 4.2.9\nStaatscourant 2026, 31380 (wijziging RNES en ROES 2026 voor EKOO) · Artikel I, Doelstelling"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "Any mix of companies and research organisations, provided at least one company takes part; a research partner is optional.\n- Companies: at least one is mandatory. A foreign company may take part and receive funding only through a permanent establishment or subsidiary in the Netherlands, and every partner's work must benefit the Dutch economy.\n- Research organisations: optional. RVO counts only universities, universities of applied sciences and the applied research institutes (Deltares, MARIN, NLR, TNO, Wageningen Research) and similar foreign bodies.\n- Supply chain: the model project plan says projects that involve the whole chain (developer or producer, supplier and end user) generally score higher on quality, especially when the end user is included.\n- Group companies: companies of one group may not form the collaboration on their own; another, unrelated participant is then needed.",
+          "sources": "EKOO: Circulaire economie (RVO scheme page) · Voor wie?; Voorwaarden\nVeelgestelde vragen energie-innovatieregelingen (RVO page) · Mag een buitenlandse deelnemer meedoen?; Wat is een onderzoeksorganisatie?; Moet een kennisinstelling meedoen?; Mag ik namens dochter-/zusterondernemingen subsidie aanvragen?\nModel projectplan EKOO Circulaire economie (RVO, Word) · Chapter 2.1 Overzicht van deelnemers"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "Partners must contribute roughly equally, in money and in content, and each must work at its own cost and risk.\n- Balance: the scheme page requires all participants to contribute 'financieel en inhoudelijk ongeveer evenveel' (financially and in content roughly equally).\n- No full outsourcing: the project may not be fully outsourced, and hiring other parties does not count as real collaboration.\n- Real collaboration: without a real collaboration, as tested with RVO's flowchart, the company funding rates drop by 15 percentage points.\n- Work packages: the model project plan asks for work packages (or milestones), each labelled as industrial research or experimental development, with the partners involved, go/no-go moments, and categories that match the Excel budget.\n- Budget cap: the EUR 500,000 maximum applies to the whole project. If the partners together request more, each partner's grant is cut pro rata.",
+          "sources": "EKOO: Circulaire economie (RVO scheme page) · Hoeveel subsidie krijgt u? (Daadwerkelijke samenwerking); Voorwaarden\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · § 4.2.2 · Artikelen 4.2.8–4.2.14b · Artikel 4.2.10, tweede lid\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 4.2 · Artikelen 4.2.2–4.2.6 · Artikel 4.2.5\nModel projectplan EKOO Circulaire economie (RVO, Word) · Chapter 3 Projectaanpak en werkplan"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "Any participant may act as penvoerder (the lead applicant who submits on behalf of the collaboration); the scheme sets no extra condition on its type.\nThe penvoerder submits the application and manages it with RVO. The other participants authorise it through a participant form, and a change of penvoerder must be authorised again by every participant. A holding company that does no project work may only act as an intermediary that submits for a group company.",
+          "sources": "EKOO: Aanvragen (RVO page) · Zorg voor de juiste machtigingen; U geeft wijzigingen aan ons door\nVeelgestelde vragen energie-innovatieregelingen (RVO page) · Mag ik namens dochter-/zusterondernemingen subsidie aanvragen?"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "Yes, TenneT TSO B.V. could act as penvoerder (lead applicant), as nothing in the scheme limits that role to a type of company.\nTenneT would then submit the application for the whole collaboration through RVO's portal with eHerkenning at level eH3 (the Dutch business login for government services), collect the authorisations of the other participants and handle progress reports and changes. It would still need at least one other participant, because a collaboration of group companies alone is not allowed.",
+          "sources": "EKOO: Aanvragen (RVO page) · Zorg voor de juiste machtigingen; Log in met eHerkenning\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · § 4.2.2 · Artikelen 4.2.8–4.2.14b · Artikel 4.2.9\nVeelgestelde vragen energie-innovatieregelingen (RVO page) · Mag ik namens dochter-/zusterondernemingen subsidie aanvragen?"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes. TenneT could take part without funding, either by doing its own work at its own cost and risk or by contributing money or equipment.\nRNES article 4.2.5 lets a collaboration include parties that do project work for their own account and risk without receiving subsidy, or that only help finance the project. RVO's FAQ adds that a participant can also join in kind, for example by making machines and equipment available. A party that is hired and paid to do work is a third party, not a participant.",
+          "sources": "Regeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 4.2 · Artikelen 4.2.2–4.2.6 · Artikel 4.2.5\nVeelgestelde vragen energie-innovatieregelingen (RVO page) · Wanneer ben ik een deelnemer in een project?"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Yes, as a large company at up to 40% of eligible costs, within a EUR 500,000 cap for the whole project.\n- Large company (such as TenneT TSO B.V.): 40% of eligible costs for industrial research (research to gain new knowledge for new products, processes or services) or experimental development (building and testing a new product, process or service).\n- Without a real collaboration, as tested with RVO's flowchart: 25% (40% minus 15 percentage points).\nThe grant is state aid under article 25 of the AGVV (the EU General Block Exemption Regulation). TenneT must therefore finance at least 60% of its eligible costs, plus any costs that are not eligible, itself, and it may not finance its own share from the part of the grant calculated with the EUR 80 fixed hourly rate. Because the EUR 500,000 cap is shared, TenneT's grant also depends on what the other partners request.",
+          "sources": "EKOO: Circulaire economie (RVO scheme page) · Hoeveel subsidie krijgt u?; Budget en aanvraagperiode\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · § 4.2.2 · Artikelen 4.2.8–4.2.14b · Artikelen 4.2.10 and 4.2.14b\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 4.2 · Artikelen 4.2.2–4.2.6 · Artikelen 4.2.1a, 4.2.5 and 4.2.6"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT could contribute as owner and buyer of transformers and other grid equipment, defining circular requirements and validating designs for reuse, repair or longer life.\nThis is our interpretation. Transformers and generators are named product groups, and the scheme funds longer product life through maintainable, repairable or reusable designs, which links to TenneT's asset-lifetime work in Reliability Centered Maintenance and Impressed Current Cathodic Corrosion Protection. A manufacturer would develop the product; TenneT could supply failure and condition data, specify circular requirements and assess the business case as end user, which also strengthens the quality score, since end-user involvement scores higher. TenneT's grant would be at most 40% of its own eligible costs.",
+          "sources": "Staatscourant 2026, 31380 (wijziging RNES en ROES 2026 voor EKOO) · Artikel I, Bijlage 4.2.1 Onderdeel D, innovatiethema 1\nModel projectplan EKOO Circulaire economie (RVO, Word) · Chapter 2.1 Overzicht van deelnemers\nEKOO: Circulaire economie (RVO scheme page) · Hoeveel subsidie krijgt u?"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The project must develop a new or much-improved product, process or service; routine application of existing solutions does not qualify.\nEligible costs are only those for activities that are 'nieuw, creatief, onzeker en systematisch' (new, creative, uncertain and systematic) and lead to transferable and reproducible results. The ranking rewards projects that go further beyond the international state of research or technology, and a possible breakthrough technology scores higher than an incremental innovation.",
+          "sources": "Regeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · § 4.2.2 · Artikelen 4.2.8–4.2.14b · Artikel 4.2.10, vijfde lid; Artikel 4.2.14\nEKOO: Circulaire economie (RVO scheme page) · Hoe zorgt u ervoor dat uw aanvraag hoog scoort?"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Technology, business models or both: a new or much-improved circular product, process or service, or research on consumer behaviour and business models that feeds its development.\nNon-technological research qualifies only as preparation for developing a concrete product, process or service whose developer takes part and uses the results. Research on putting a product on the market does not qualify.",
+          "sources": "Staatscourant 2026, 31380 (wijziging RNES en ROES 2026 voor EKOO) · Artikel I, Bijlage 4.2.1 Onderdeel D, innovatiethema 1\nEKOO: Circulaire economie (RVO scheme page) · Voor welke kosten?"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Only industrial research and experimental development, or a combination; fundamental research, pilots and demonstrations are excluded.\nAn EKOO project is defined as industrial research or experimental development 'en niet primair uit een pilot of demonstratie' (and not mainly a pilot or demonstration). Pilots and demonstrations go to the DEI+ scheme (Demonstratie Energie- en Klimaatinnovatie), fundamental research to NWO, NWA or PPS Innovatie. Each work package must be labelled as one of the two stages, which also sets its funding rate.",
+          "sources": "Regeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · § 4.2.2 · Artikelen 4.2.8–4.2.14b · Artikel 4.2.8\nEKOO: Circulaire economie (RVO scheme page) · Waarvoor krijgt u geen subsidie?\nModel projectplan EKOO Circulaire economie (RVO, Word) · Chapter 3 Projectaanpak en werkplan"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "No TRL (Technology Readiness Level) is set; the work must sit between research and first application, which must follow within ten years of the project start.\nFirst application means demonstrating the solution in an operational environment, not yet large-scale roll-out. Since pilots and demonstrations are excluded from the project itself, the project ends before that operational demonstration.",
+          "sources": "Staatscourant 2026, 31380 (wijziging RNES en ROES 2026 voor EKOO) · Artikel I, Doelstelling\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · § 4.2.2 · Artikelen 4.2.8–4.2.14b · Artikel 4.2.8"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "No demonstration is required or funded within the project; demonstration in an operational environment comes afterwards, as the first application within ten years.\nProjects that are mainly a pilot or demonstration are excluded and steered to the DEI+ scheme. The project may build and test prototypes as part of experimental development, but its main activity must be research and development.",
+          "sources": "Regeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · § 4.2.2 · Artikelen 4.2.8–4.2.14b · Artikel 4.2.8\nEKOO: Circulaire economie (RVO scheme page) · Waarvoor krijgt u geen subsidie?\nStaatscourant 2026, 31380 (wijziging RNES en ROES 2026 voor EKOO) · Artikel I, Doelstelling"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The project must be one coherent research and development plan carried out jointly by the partners, not a set of outsourced tasks.\nThe model project plan asks for work packages that group logically connected activities, each with its partners, results and go/no-go moments. The project may not be fully outsourced, and the work must lead towards a concrete product, process or service whose developer takes part in the project.",
+          "sources": "Model projectplan EKOO Circulaire economie (RVO, Word) · Chapter 3 Projectaanpak en werkplan\nEKOO: Circulaire economie (RVO scheme page) · Voorwaarden"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "The application must quantify the expected material or CO2 savings and the chance of market success, rather than show test results.\n- Repetition potential: yearly potential in the Dutch market in tonnes of primary non-renewable raw materials or tonnes of CO2, and the share expected within ten years.\n- Feasibility: the project must be technically and economically feasible, with the working of the technology well substantiated.\n- Market success: a substantiated chance of success in the Dutch market, using market knowledge, sources and arguments, plus a SWOT analysis (strengths, weaknesses, opportunities, threats).\n- Side effects: any ecological side effects or negative sustainability effects must be described.",
+          "sources": "Model projectplan EKOO Circulaire economie (RVO, Word) · Chapter 4 Bijdrage aan de doelstellingen; Chapter 5 Slaagkans\nEKOO: Circulaire economie (RVO scheme page) · Voorwaarden"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "User involvement is not mandatory, but the model project plan says projects that include the end user generally score higher on quality.\nThe project plan must also describe the business case for the end user: the target users, why they would choose the product, the non-technological barriers to their use and, where relevant, their payback time.",
+          "sources": "Model projectplan EKOO Circulaire economie (RVO, Word) · Chapter 2.1 Overzicht van deelnemers; Chapter 5 Businesscase eindgebruiker"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "A tender with a budget of EUR 2.5 million and a grant of at most EUR 500,000 per project, shared by all partners.\n- Total project size: not capped. At the lowest company rate of 40%, the EUR 500,000 cap covers a project of about EUR 1.25 million in eligible costs; with more research-organisation work, the same cap covers a smaller project.\n- Grant request: up to EUR 500,000 per project for all participants together; requests above that are cut pro rata.\n- Funding form: a cost-based subsidy, calculated over eligible costs and settled after the project against actual costs.",
+          "sources": "EKOO: Circulaire economie (RVO scheme page) · Budget en aanvraagperiode\nStaatscourant 2026, 31380 (wijziging RNES en ROES 2026 voor EKOO) · Artikel II\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · § 4.2.2 · Artikelen 4.2.8–4.2.14b · Artikel 4.2.10, derde lid\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 4.2 · Artikelen 4.2.2–4.2.6 · Artikel 4.2.5"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "Rates depend on the type and size of each participant; every partner must have its own share fully financed when the application is submitted.\n- Research organisation, non-economic activities: 80%\n- Small company: 60%\n- Medium-sized company: 50%\n- Large company: 40%\n- Without real collaboration: company rates fall by 15 percentage points.\n- Co-financing conditions: each participant finances the part of its costs not covered by the grant itself or through other investors; this may be subject to the grant being awarded.\n- Evidence required: per participant, proof of how its own share is financed, such as a bank or investor statement, an annual report or annual accounts. Insufficient proof leads to rejection.",
+          "sources": "EKOO: Circulaire economie (RVO scheme page) · Hoeveel subsidie krijgt u?; Voorwaarden\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · § 4.2.2 · Artikelen 4.2.8–4.2.14b · Artikel 4.2.10\nEKOO: Aanvragen (RVO page) · Leg uw eigen bijdrage uit\nVeelgestelde vragen energie-innovatieregelingen (RVO page) · Hoe ver moet ik zijn met de financiering van mijn project?"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Only research and development costs under EU state-aid rules are eligible, and several common cost types are excluded.\n- Eligible costs: costs needed to carry out the industrial research and experimental development, under the RVO subsidy rules (Subsidiespelregels) of the Ministry of Economic Affairs.\n- Excluded costs: costs of activities that were already subsidised; knowledge-transfer activities, which are compulsory but not funded; project management not directly linked to the research work; costs made or committed before the application was submitted.\n- Overheads: staff costs may be claimed with a fixed hourly rate of EUR 80; the own share may not be financed from the grant calculated with that rate.\n- Subcontracting: allowed as costs of third parties, but the project may not be fully outsourced.",
+          "sources": "EKOO: Circulaire economie (RVO scheme page) · Voor welke kosten?; Voorwaarden\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 4.2 · Artikelen 4.2.2–4.2.6 · Artikelen 4.2.1a and 4.2.6\nVeelgestelde vragen energie-innovatieregelingen (RVO page) · Welke kosten voor projectmanagement komen in aanmerking voor subsidie?\nModel projectplan EKOO Circulaire economie (RVO, Word) · Chapter 7 Kennisoverdracht en intellectueel eigendom; Chapter 8 Financiering van het eigen aandeel"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "RVO pays advances during the project and sets the final grant only after the project, against actual costs.\n- Payment model: advances paid evenly over the project with a linear budget, or per quarter in which costs fall with a milestone budget; the applicant chooses in the project plan.\n- Financial reporting or audit: an annual progress report for projects longer than 12 months; at the end, a request to set the final grant, with a board statement for grants of EUR 25,000–125,000 or an auditor's statement for grants from EUR 125,000, plus a final report.",
+          "sources": "Model projectplan EKOO Circulaire economie (RVO, Word) · Chapter 3 Projectaanpak en werkplan\nEKOO: Aanvragen (RVO page) · Na uw aanvraag"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: a complete application through RVO's online portal between 22 October 2026, 09:00 and 3 December 2026, 17:00.\n- Stage 1 — Full application: by 3 December 2026, 17:00. The penvoerder (lead applicant) submits the application form with the model project plan, the model budget and the participants' authorisations, logging in with eHerkenning level eH3 (allow about two weeks to obtain it). Any collaboration that meets the conditions may apply; there is no pre-proposal.",
+          "sources": "EKOO: Circulaire economie (RVO scheme page) · Budget en aanvraagperiode; Aanvragen\nEKOO: Aanvragen (RVO page) · Uw aanvraag voorbereiden; Aanvragen\nStaatscourant 2026, 31380 (wijziging RNES en ROES 2026 voor EKOO) · Artikel II"
+        },
+        {
+          "title": "Project window",
+          "answer": "At most two years, starting within six months of the grant decision and never before the application is submitted.\n- Maximum duration: 24 months.\n- Required start: within 6 months after the subsidiebeschikking (grant decision letter).\n- Eligible-cost period: from the submission of the application; no work, commitments or costs are allowed before that, even if not yet paid.\n- First application: the innovation must reach first application in the Netherlands within ten years of the project start.",
+          "sources": "EKOO: Circulaire economie (RVO scheme page) · Voorwaarden\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · § 4.2.2 · Artikelen 4.2.8–4.2.14b · Artikel 4.2.12, tweede lid\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 4.2 · Artikelen 4.2.2–4.2.6 · Artikel 4.2.2\nVeelgestelde vragen energie-innovatieregelingen (RVO page) · Voldoet mijn project aan de eisen voor stimulerend effect?"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "RVO ranks all applications after the window closes and decides within 13 weeks, which it may extend once by 13 weeks.\n- Funding decision: about 13 weeks after 3 December 2026, so around early March 2027, or up to 26 weeks if extended (indicative, worked out from the stated term).\n- Grant agreement: there is no separate contract; the subsidiebeschikking (grant decision letter) sets the payments and obligations.\n- Conditions before starting: if a research organisation takes part, a signed cooperation agreement on costs, risks, results and intellectual property is required before the project starts.",
+          "sources": "EKOO: Aanvragen (RVO page) · Na uw aanvraag\nVeelgestelde vragen energie-innovatieregelingen (RVO page) · Moet ik een samenwerkingsovereenkomst meesturen bij mijn subsidieaanvraag?"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "The application form plus the RVO model project plan, the model budget and proof that no participant is a company in difficulty.\n- Application form: RVO's online form, submitted by the penvoerder with eHerkenning eH3.\n- Project plan: the Model projectplan EKOO Circulaire economie, at most 25 pages, readable on its own.\n- Budget: the Model begroting EKOO (Excel), with work-package categories matching the project plan.\n- Partner documents: each participant's authorisation of the penvoerder; for each company the completed decision scheme and signed declaration that it is not an onderneming in moeilijkheden (a company in financial difficulty under EU rules); proof of financing of each participant's own share.\n- On request: RVO may ask for the consolidated annual accounts and organisation chart of the companies.",
+          "sources": "EKOO: Aanvragen (RVO page) · Verzamel de bijlagen bij uw aanvraag; Toon aan dat uw onderneming niet in moeilijkheden is; Leg uw eigen bijdrage uit\nModel projectplan EKOO Circulaire economie (RVO, Word) · Introduction\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 4.2 · Artikelen 4.2.2–4.2.6 · Artikel 4.2.3"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "A tender: independent experts score four criteria, and the best-ranked projects are funded until the budget runs out.\n- Evaluation criteria: contribution to the theme's aims; chance of success in the Dutch market and society; novelty against the international state of the art and strengthening of the Dutch knowledge position; quality (approach, risks, feasibility, partners and efficient use of resources).\n- Thresholds: 1 to 5 points per criterion; an application with fewer than 3 points on any criterion is rejected.\n- Weighting: none stated; the total points decide the ranking.\n- Ranking rules: no grant for a project ranked lower than a similar project, and no grant for a project similar to one already funded under this title.",
+          "sources": "Regeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · § 4.2.2 · Artikelen 4.2.8–4.2.14b · Artikelen 4.2.11, 4.2.13 and 4.2.14\nEKOO: Circulaire economie (RVO scheme page) · Hoe zorgt u ervoor dat uw aanvraag hoog scoort?\nEKOO: Aanvragen (RVO page) · Na uw aanvraag"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Three situations change the rules: a company in financial difficulty, a research partner, and a collaboration that is not real.\n- Exception — company in difficulty: it can still receive de minimis aid (small aid allowed outside the state-aid rules) of at most EUR 300,000 over three years, and must add a de minimis declaration.\n- Conditional — research organisation taking part: a signed cooperation agreement before the project starts, with rules on costs, risks, results and intellectual property, so that no indirect aid flows to the companies.\n- Conditional — no real collaboration: company rates fall by 15 percentage points.\n- Recommended: RVO advises contacting KIA CE (the Knowledge and Innovation Agenda Circular Economy) via tender@kia-ce.nl for help building a collaboration.",
+          "sources": "EKOO: Circulaire economie (RVO scheme page) · Voorwaarden; Op zoek naar samenwerking?; Hoeveel subsidie krijgt u?\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · § 4.2.2 · Artikelen 4.2.8–4.2.14b · Artikelen 4.2.10, vierde lid, and 4.2.14a\nVeelgestelde vragen energie-innovatieregelingen (RVO page) · Moet ik een samenwerkingsovereenkomst meesturen bij mijn subsidieaanvraag?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "Software-intensive systems or software-intensive services, developed through market-oriented applied research in an international consortium.\nITEA (in its fourth programme, ITEA4) is the Eureka cluster for software innovation. Eureka is an intergovernmental network for market-oriented R&D, and an Eureka cluster is a long-term industry-led programme within it. RVO funds the Dutch partners of projects that carry the ITEA label.",
+          "sources": "Eureka-cluster ITEA voor innovatie in software en systemen (RVO page) · Introduction; Voor wie?; Markgericht en toegepast onderzoek"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Research on technology and applications in software-intensive systems and software-intensive services, in any application area, by industry-led international consortia.\n- In scope: the two ITEA4 focus areas, software-intensive systems and software-intensive services; both technology and applications.\n- Required: market-oriented, applied work; the project must carry the label of the ITEA4 cluster.\n- Eligible activities for Dutch funding: industrial research and experimental development.\n- Excluded: work a partner started before applying. RVO names no excluded application area.",
+          "sources": "Eureka-cluster ITEA voor innovatie in software en systemen (RVO page) · Voor wie?; Markgericht en toegepast onderzoek; Voorwaarden\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 3.8 Internationaal innoveren · Artikelen 3.8.1, 3.8.2 and 3.8.4a"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The project must answer a market need set by industry: in ITEA, companies take the initiative and set the strategy, so the research question follows business demand and market potential.\nFor the Dutch national application, the model project plan asks which problem or need the Dutch share of the project addresses, who needs the end product and who will earn from it. The project's national priorities must also fit at least one roadmap of the Dutch top sector High Tech Systems and Materials (HTSM, the government-industry innovation agenda for high-tech) and link to the National Technology Strategy (NTS).",
+          "sources": "Eureka-cluster ITEA voor innovatie in software en systemen (RVO page) · Markgericht en toegepast onderzoek; Nationale voorwaarden\nModel projectplan Eureka Clusterinnovatieproject V4 (RVO, Word) · Samenvatting (Achtergrond; Belangrijkste resultaten)"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "Market-oriented technology and applications, described as concrete results for named users; the call itself fixes no list of outputs.\nThe model project plan asks for the main results of the Dutch part, for whom they are, who needs the end product and who will earn money from it, and per partner a business case with market strategy, expected market penetration and a revenue and profit forecast.",
+          "sources": "Model projectplan Eureka Clusterinnovatieproject V4 (RVO, Word) · Samenvatting (Belangrijkste resultaten); Economisch perspectief\nEureka-cluster ITEA voor innovatie in software en systemen (RVO page) · Markgericht en toegepast onderzoek"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The project must strengthen the international competitiveness of the participants and create economic value for the Netherlands.\n- Ranking: projects rank higher the more they contribute to technological renewal or substantially new applications of an existing technology, the more economic value the results create for the Netherlands and the wider the application of the results.\n- Rejection: an application is rejected if the project is expected to bring insufficient positive effects for the Dutch economy.\n- Policy link: ITEA is part of the HTSM top sector and the National Technology Strategy.",
+          "sources": "Eureka-cluster ITEA voor innovatie in software en systemen (RVO page) · Introduction; Markgericht en toegepast onderzoek\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 3.8 Internationaal innoveren · Artikelen 3.8.9 and 3.8.10"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "The results must be brought to market by the participating companies; the call does not ask for replication or standards.\n- Market route: the model project plan asks per partner how the result fits its core business, the market strategy, the costs of commercialisation between project end and market entry, and a revenue forecast.\n- Evaluation: each grant recipient must cooperate with an evaluation of the project's effects for five years after the final grant is set.\n- Wider use: the ranking rewards results with broader application possibilities.",
+          "sources": "Model projectplan Eureka Clusterinnovatieproject V4 (RVO, Word) · Economisch perspectief\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 3.8 Internationaal innoveren · Artikelen 3.8.10 and 3.8.12"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "At least two partners from two different countries, one of them a company established in the Netherlands for Dutch funding; no maximum is set.\n- International: at least 2 partners from 2 countries; one must be an Eureka country (a member of the Eureka intergovernmental network for market-oriented R&D) and the other an Eureka or Eureka-associated country.\n- Size: no consortium size is set, but projects generally range from 40 to 350 person-years of effort.",
+          "sources": "Eureka-cluster ITEA voor innovatie in software en systemen (RVO page) · Internationale voorwaarden\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 3.8 Internationaal innoveren · Artikel 3.8.1 (EUREKA-innovatiesamenwerkingsverband)"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "Large companies, SMEs, research and technology organisations, universities and user organisations may all join; a Dutch company is mandatory for Dutch funding.\n- Mix: consortia can include large industry, SMEs, research institutes, universities and user organisations, profit or non-profit.\n- Dutch side: at least one Dutch company must take part and lead the Dutch national consortium.\n- Countries: partners must come from countries taking part in the cluster; each country funds its own participants under its own rules.",
+          "sources": "Eureka-cluster ITEA voor innovatie in software en systemen (RVO page) · Internationale voorwaarden; Nationale voorwaarden; Adviescommissie\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 3.8 Internationaal innoveren · Artikel 3.8.1"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "Costs must be spread in a balanced way across countries: RVO supports only projects with at most 70% of the costs in one country.\nThe Dutch grant of at most EUR 4 million covers the whole Dutch national consortium; if the Dutch participants together request more, each grant is cut pro rata. The model project plan asks what each Dutch partner contributes, why it is in the consortium and how its work is embedded internationally.",
+          "sources": "Eureka-cluster ITEA voor innovatie in software en systemen (RVO page) · Nationale voorwaarden; Budget\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 3.8 Internationaal innoveren · Artikel 3.8.4, vierde lid\nModel projectplan Eureka Clusterinnovatieproject V4 (RVO, Word) · Partners en samenwerking"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "The Dutch national consortium must be led by a Dutch company, which acts as penvoerder (lead applicant) towards RVO; the international lead follows the cluster's own rules.\nRNES article 3.8.3 states that the penvoerder is an ondernemer (company). The penvoerder submits the national application for all Dutch partners and fills in the data for the Dutch part only, which may be in English.",
+          "sources": "Eureka-cluster ITEA voor innovatie in software en systemen (RVO page) · Nationale voorwaarden; Aanvragen (Nationale aanvraag)\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 3.8 Internationaal innoveren · Artikel 3.8.3"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "Yes, TenneT TSO B.V. could lead the Dutch consortium as a Dutch company, if it is not treated as a government body.\nThe Dutch consortium must be led by a Dutch company. RNES article 3.8.9 rejects applications from 'een overheid of overheidsinstelling' (a government or government institution) unless it is a research organisation; on our reading TenneT TSO B.V., a private-law company, is not a government body, but RVO has not confirmed this for TenneT. Leading the whole international project is decided within the cluster, not by RVO.",
+          "sources": "Eureka-cluster ITEA voor innovatie in software en systemen (RVO page) · Nationale voorwaarden\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 3.8 Internationaal innoveren · Artikelen 3.8.3 and 3.8.9"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes. User organisations may be consortium partners, so TenneT could join, with or without Dutch funding.\nThe cluster lets consortia include user organisations, profit or non-profit. Partners that do not apply for Dutch subsidy may still be in the international consortium, as each country decides on funding its own participants.",
+          "sources": "Eureka-cluster ITEA voor innovatie in software en systemen (RVO page) · Internationale voorwaarden; Adviescommissie"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Yes, as a large company at 35% for research and 25% for development work, within a EUR 4 million cap for all Dutch partners together.\n- Industrial research (research to gain new knowledge for new products, processes or services): 35% of eligible costs for a large company.\n- Experimental development (building and testing new products, processes or services): 25%.\nThe grant is state aid under article 25 of the AGVV (the EU General Block Exemption Regulation). TenneT must therefore finance 65–75% of its eligible costs itself, and its grant depends on what the other Dutch partners request within the EUR 4 million cap. The rule excluding government bodies (article 3.8.9) is the main uncertainty.",
+          "sources": "Eureka-cluster ITEA voor innovatie in software en systemen (RVO page) · Subsidiepercentages; Budget\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 3.8 Internationaal innoveren · Artikelen 3.8.4, 3.8.9 and 3.8.14"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT could bring operational grid data, real use cases and a test or validation setting as the user organisation for software on grid planning, operation or asset management.\nThis is our interpretation. ITEA funds software-intensive systems in any domain, and user organisations may join consortia. TenneT's Digital Twin Programme, GNN4GC, TenneTwin and the national digital-twin facility with Delft University of Technology show the kind of software TenneT develops with partners. A realistic role is a funded user partner that defines requirements and validates the software on its own data, with a software company as Dutch lead. Because the Project Outline deadline has passed, TenneT could join only a consortium that already submitted one, if that consortium can still add partners.",
+          "sources": "Eureka-cluster ITEA voor innovatie in software en systemen (RVO page) · Voor wie?; Internationale voorwaarden"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The project must be technically innovative: market-oriented applied research and development that renews technology or finds substantially new uses for existing technology.\nProjects are industry-driven, technically innovative and market- or application-oriented. The ranking rewards contributions to technological renewal or substantially new applications of an existing technology.",
+          "sources": "Eureka-cluster ITEA voor innovatie in software en systemen (RVO page) · Internationale voorwaarden\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 3.8 Internationaal innoveren · Artikel 3.8.10"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Software technology and its application: software-intensive systems and services, including the system architecture around them.\nRVO describes ITEA as research on technology and applications in this field; it does not cover market arrangements or governance models.",
+          "sources": "Eureka-cluster ITEA voor innovatie in software en systemen (RVO page) · Voor wie?; Markgericht en toegepast onderzoek"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Industrial research and experimental development, in any combination; each has its own funding rate.\nOnly costs eligible under article 25 of the AGVV for these stages qualify. A partner may not have started its part of the project before applying.",
+          "sources": "Eureka-cluster ITEA voor innovatie in software en systemen (RVO page) · Subsidiepercentages\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 3.8 Internationaal innoveren · Artikelen 3.8.4, 3.8.4a and 3.8.5"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The Dutch part must form one project with the international consortium, which the Full Project Proposal describes.\nThe model project plan asks what the Dutch partners add to the international project, why it must be done internationally and the role of each partner; it complements the Full Project Proposal rather than describing a separate project.",
+          "sources": "Model projectplan Eureka Clusterinnovatieproject V4 (RVO, Word) · Introduction; Partners en samenwerking"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "The national application must make the economic case per partner, with market figures and a revenue and profit forecast; the call sets no technical indicators.\nThe model project plan asks partners to quantify as much as possible: market description, market strategy, expected market penetration, revenue and profit forecast, and commercialisation costs.",
+          "sources": "Model projectplan Eureka Clusterinnovatieproject V4 (RVO, Word) · Economisch perspectief"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "User organisations may be consortium partners, but the call does not require them.",
+          "sources": "Eureka-cluster ITEA voor innovatie in software en systemen (RVO page) · Internationale voorwaarden"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "A Dutch budget of EUR 10 million and at most EUR 4 million of grant per Dutch consortium.\n- Total project size: not capped. At the large-company research rate of 35%, the EUR 4 million cap matches about EUR 11.4 million of Dutch eligible costs.\n- Grant request: up to EUR 4 million for all Dutch participants of one project together; requests above that are cut pro rata.\n- Funding form: a cost-based subsidy over eligible costs.",
+          "sources": "Eureka-cluster ITEA voor innovatie in software en systemen (RVO page) · Hoogte financiering en budget; Budget\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 3.8 Internationaal innoveren · Artikel 3.8.4, vierde lid"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "Rates depend on organisation type and on whether the work is research or development; partners in other countries are funded by their own governments.\n- Industry (large company), research: 35%; development: 25%\n- SME, research: 45%; development: 35%\n- Universities and research institutes, research: 50%; development: 25%\n- Co-financing conditions: each Dutch participant finances the rest of its costs itself.",
+          "sources": "Eureka-cluster ITEA voor innovatie in software en systemen (RVO page) · Subsidiepercentages\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 3.8 Internationaal innoveren · Artikel 3.8.4"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Only research and development costs eligible under article 25 of the AGVV (the EU General Block Exemption Regulation) qualify.\n- Eligible costs: the cost categories of AGVV article 25(3).\n- Excluded costs: costs of a partner's part of the project that started before its application was submitted.",
+          "sources": "Regeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 3.8 Internationaal innoveren · Artikelen 3.8.4a and 3.8.5"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "Two international stages followed by a national application; the first stage has closed.\n- Stage 1 — Project Outline: 2 November 2026, 17:00, submitted by the international consortium on the ITEA website. This stage has passed.\n- Stage 2 — Full Project Proposal: 11 February 2027, 17:00, by invitation only for Project Outlines of sufficient quality, on the ITEA website. A positive Full Project Proposal earns the ITEA label.\n- Additional procedure — national application: with the label, the Dutch partners apply to RVO in a tender for ITEA projects; RVO expects this window in April 2027. The Dutch consortium is then invited to defend its application before the advisory committee.",
+          "sources": "Eureka-cluster ITEA voor innovatie in software en systemen (RVO page) · Aanvragen; Uw nationale aanvraag indienen; Hoogte financiering en budget"
+        },
+        {
+          "title": "Project window",
+          "answer": "Projects last at most three years.\n- Maximum duration: 36 months.\n- Eligible-cost period: a partner may not start its part before applying for the Dutch grant.",
+          "sources": "Eureka-cluster ITEA voor innovatie in software en systemen (RVO page) · Internationale voorwaarden\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 3.8 Internationaal innoveren · Artikelen 3.8.5 and 3.8.8"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "After the national application, the Dutch consortium defends its proposal before RVO's Eureka advisory committee, which ranks the applications.\n- Funding decision: no date is given; the highest-ranked applications are funded until the budget is used up.\n- Grant agreement: RVO contacts the Dutch penvoerder (lead applicant) to complete the information for the subsidiebeschikking (grant decision letter).\n- Conditions before starting: no Dutch participant may be an onderneming in moeilijkheden (a company in financial difficulty under EU rules) at the time of the grant, and no partner may start its part before applying.",
+          "sources": "Eureka-cluster ITEA voor innovatie in software en systemen (RVO page) · Adviescommissie; Na uw aanvraag; Nationale voorwaarden\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 3.8 Internationaal innoveren · Artikel 3.8.5"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "For the Dutch application: the RVO form plus model project plan, model budget, partner authorisations, the Full Project Proposal and a no-difficulty declaration per Dutch partner.\n- Application form: the RVO form for 'Internationaal Innoveren Xecs/ITEA', online with eHerkenning eH3 (the Dutch business login) or printed and posted or delivered to RVO in The Hague; English is allowed.\n- Project plan: the Model projectplan Eureka Clusterinnovatieproject, guideline at most 15 pages, on the Dutch part.\n- Budget: the Modelbegroting Internationaal Innoveren (Excel).\n- Partner documents: participant registration and authorisation of the penvoerder for each Dutch partner; a completed decision scheme and signed declaration that the partner is not a company in difficulty.\n- Parallel submission: the international Project Outline and Full Project Proposal through the ITEA website; the Full Project Proposal is also attached to the Dutch application.",
+          "sources": "Eureka-cluster ITEA voor innovatie in software en systemen (RVO page) · Uw nationale aanvraag indienen; Aanvragen\nModel projectplan Eureka Clusterinnovatieproject V4 (RVO, Word) · Introduction"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Two selections: the cluster assesses the international proposal and awards a label, then RVO's advisory committee ranks the Dutch applications.\n- Evaluation criteria (national): innovation, collaboration and impact; in the regulation, contribution to technological renewal; efficiency and effectiveness, novelty of the collaboration and involvement of research organisations; economic value for the Netherlands; fit with the companies' goals and breadth of application.\n- Weighting: the four regulation criteria weigh equally.\n- Ranking rules: the highest-ranked applications are funded until the budget runs out; applications with insufficient benefit for the Dutch economy, or from government bodies, are rejected.",
+          "sources": "Eureka-cluster ITEA voor innovatie in software en systemen (RVO page) · Beoordeling; Adviescommissie; Uw nationale aanvraag indienen\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 3.8 Internationaal innoveren · Artikelen 3.8.9 and 3.8.10"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "A Dutch partner in financial difficulty must contact RVO, and consortia should talk to RVO before submitting the Project Outline.\n- Conditional — a Dutch partner is a company in difficulty: it cannot be funded; it must contact RVO at teamiris@rvo.nl, as a change may sometimes still be possible.\n- Exception — SMEs: company rates are 10 percentage points higher.\n- Recommended: the clusters ask consortia to contact their national government before submitting; in the Netherlands this is RVO's Team IRIS (teamiris@rvo.nl). RVO also advises using the ITEA project idea and partner search tools well before the call opens.",
+          "sources": "Eureka-cluster ITEA voor innovatie in software en systemen (RVO page) · Verklaring 'Geen onderneming in moeilijkheden'; RVO ondersteunt; Uw aanvraag voorbereiden\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 3.8 Internationaal innoveren · Artikel 3.8.4, tweede lid"
+        }
+      ]
+    }
+  ]
+}
