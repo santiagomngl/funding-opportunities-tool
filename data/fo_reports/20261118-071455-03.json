@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "A single start-up or SME's own deep-tech innovation, taken from validation in a relevant environment to market readiness and scale-up.\nThe EIC Accelerator (the European Innovation Council's funding scheme for start-ups and SMEs under Horizon Europe, the EU research and innovation programme) funds one company's high-impact innovation: a technology, product, service or business model that could create new markets or disrupt existing ones. The Open strand of the call has no predefined theme and is open to proposals in any field of technology or application, so an innovation for electricity grids is as eligible as any other. The grant part pays for innovation activities from TRL 6 to TRL 8 (Technology Readiness Level: TRL 6 is a technology demonstrated in a relevant environment, TRL 8 a complete and qualified system), and an optional investment part pays for market deployment and scale-up.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 72–73 · V. EIC Accelerator, Why should you apply?\nEIC-2027-Work-Programme.pdf · pp. 76–77 · V, EIC Accelerator grant component\nEIC-2027-Work-Programme.pdf · p. 91 · V.1 EIC Accelerator Open"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Any field of technology or application is in scope; the grant covers innovation work up to TRL 8 and the investment covers scale-up.\nThe call does not list mandatory topics. What it funds:\n- Grant component (lump-sum money that is not repaid): innovation activities, including demonstration of the technology in the relevant environment, prototyping and system-level demonstration, research, development and testing needed to meet regulatory and standardisation requirements, intellectual property management and marketing approval\n- Investment component (equity or quasi-equity such as a convertible loan, provided by the EIC Fund): market deployment, scale-up and other activities, which may also co-finance the innovation activities\n- Business Acceleration Services: coaching, mentoring and access to corporates, investors and buyers, for every funded company\nThe Open strand is separate from the EIC Accelerator Challenges (predefined themes with their own budgets, such as ocean observation, climate-neutral cities, fusion and carbon removal); a proposal that fits a Challenge goes there instead. Proposals with nuclear applications are eligible, and dual-use innovations (civilian technologies that could also serve defence) may be supported while advancing the civilian use. Proposals must respect the Do No Significant Harm principle (no significant harm to EU environmental objectives). The grant may be used for subcontracting only where justified for activities essential to the project.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 72–73 · V. EIC Accelerator, Why should you apply?\nEIC-2027-Work-Programme.pdf · pp. 76–77 · V, EIC Accelerator investment component and grant component\nEIC-2027-Work-Programme.pdf · pp. 91–92 · V.1 EIC Accelerator Open; V.2 EIC Accelerator Challenges"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The need is a company's: a breakthrough innovation whose scale-up is too risky for private investors to finance alone.\nThe call targets start-ups and SMEs (small and medium-sized enterprises) with deep-tech innovations, meaning innovations built on scientific discovery or technological breakthroughs, that need significant funding over a long time before they earn money ('patient capital'). Such companies often cannot attract enough finance because the risk and timeline are too high for private investors. The applicant must show that its financing need is significantly higher than what market actors can finance alone, and that it has a large addressable market with real potential to scale. The need therefore originates with the company and its market, not with a named user such as a system operator; a grid operator's need counts only as the market the company wants to serve.",
+          "sources": "EIC-2027-Work-Programme.pdf · p. 72 · V. EIC Accelerator, Why should you apply?\nEIC-2027-Work-Programme.pdf · pp. 85–88 · Table 8, Award criteria for EIC Accelerator"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "No fixed outputs: the company proposes its own milestones, work packages and deliverables, leading to a product at TRL 8.\nThe call does not prescribe models, standards or datasets. Applicants that request a grant must submit an implementation plan with defined, measurable milestones, work packages and deliverables, with realistic resources and timing, and a lump-sum budget table per work package. Typical outputs named in the scope are prototypes, system-level demonstrations, test results needed for regulatory and standardisation compliance, intellectual property and marketing approval. For an investment, the EIC Fund (the EU fund that takes stakes in EIC companies) may tie tranches to milestones agreed in the investment agreement.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 76–77 · V, EIC Accelerator grant component\nEIC-2027-Work-Programme.pdf · pp. 79, 81–82 · V, Submission of full proposals; Equity component\nEIC-2027-Work-Programme.pdf · pp. 87–88 · Table 8, Implementation Plan"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The project must create or disrupt markets, scale the company, and strengthen European technological leadership; the call sets no energy targets.\nAt full proposal stage the impact criterion (threshold 4 out of 5) asks:\n- how big the total market is and what share the company can realistically take, with potential for significant scale-up and growth\n- whether the business model, revenue strategy and financial projections are sound\n- whether the innovation contributes to European technological leadership or reduces dependencies on other regions\n- whether it has broader environmental or social impacts\nInvestments in sectors of the STEP Regulation (the EU's Strategic Technologies for Europe Platform, which includes clean technologies) may be treated as strategic. The call sets no numerical targets for grids, emissions or renewables; any such benefit must be argued by the applicant.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 85–86 · Table 8, Impact\nEIC-2027-Work-Programme.pdf · pp. 88–89 · V, Strategic investments"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "The result must become a commercial product and the company must scale up; the EIC Fund and other investors are expected to finance growth.\nThe call is designed for companies with the ambition and commitment to scale up, and EIC support is meant to crowd in the other investors needed. Grant-only applicants must show their capacity and willingness to scale and access to the resources needed to commercialise. For blended finance (grant plus investment), the EIC Fund investment should catalyse other public and private investment within 6 months to 2 years, and the investment decision may be taken up to one year after the project ends. The company must keep most of its value, including its intellectual property, in the EU or Associated Countries, and the EIC may object to transfers or exclusive licensing of results. The call requires no replication by others, no specific interoperability standards and no dissemination or training activities beyond the general exploitation plan; adoption by customers is the company's own commercial task.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 72, 75–77 · V, Why should you apply; grant only conditions; investment and grant component\nEIC-2027-Work-Programme.pdf · pp. 82, 87–88 · V, Equity component; Table 8, Risk level of the investment\nEIC-2027-Work-Programme.pdf · pp. 169–170 · Annex 2, A.1 General admissibility conditions"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "One applicant only: the EIC Accelerator does not fund consortia.\nThe applicant must be a single company (or one or more natural persons or legal entities applying on behalf of a company to be set up or invested in). The grant agreement and investment agreement are signed with that company alone. A parent or holding company may be added as an affiliated entity (a linked company that takes part without signing the grant agreement) only in its role as investee.",
+          "sources": "EIC-2027-Work-Programme.pdf · p. 73 · V, Can you apply?\nEIC-2027-Work-Programme.pdf · p. 90 · V, Approach in specific cases relating to a parent or holding company"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "No consortium is formed; the applicant must be an SME, or a small mid-cap for investment support, established in an EU Member State or Associated Country.\nEligible applicants are:\n- a single SME (small or medium-sized enterprise under the EU definition) established in a Member State or Associated Country (a non-EU country that takes part in Horizon Europe on EU terms, such as Norway or the United Kingdom)\n- a single small mid-cap (up to 499 employees), but only for investment-only support or, exceptionally, blended finance for rapid scale-up\n- one or more natural persons or legal entities intending to set up such a company, or intending to invest in one with its prior agreement\n- people from a non-associated country intending to set up or move an SME to a Member State or Associated Country, with proof of establishment by the full proposal\nThe Netherlands is an eligible Member State. Grant-only support may be limited to companies not controlled from non-eligible third countries.",
+          "sources": "EIC-2027-Work-Programme.pdf · p. 73 · V, Can you apply?\nEIC-2027-Work-Programme.pdf · pp. 177–178 · Annex 2, B.1 Restrictions on control in Accelerator grant-only actions; B.2 Entities eligible for funding"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "All work and funding sit with the one company, which must finance 30% of its grant-funded work packages itself.\nThere is no sharing of work packages or funding among partners. Subcontracting is allowed only where justified for activities essential to the project's objectives, and the company's operational capacity (people, technical resources) is assessed as part of the evaluation. Entities signing a letter of intent elsewhere in EIC calls may not later act as subcontractors; for the Accelerator, any outside support is through subcontracts, customers or investors, not partners.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 76–77 · V, grant component\nEIC-2027-Work-Programme.pdf · p. 187 · Annex 2, C.2 Operational capacity"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "The single applicant company is the only beneficiary; there is no separate coordinator role.\nIt must be a start-up or SME, or a small mid-cap for investment-only or, exceptionally, blended finance, established in an EU Member State or Associated Country by the time the grant agreement is signed. Investors may submit on behalf of an SME they intend to invest in, but the agreement is signed with the company.",
+          "sources": "EIC-2027-Work-Programme.pdf · p. 73 · V, Can you apply?"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "No. TenneT cannot apply or lead, because only a single SME or small mid-cap may apply.\nTenneT TSO B.V. is a large company, far above the SME size limits and the 499-employee cap for small mid-caps, so it fails the applicant definition. It also cannot apply on behalf of a company as an investor unless it intends to invest in that SME and has a prior agreement with it; even then the grant and investment go to the SME, not to TenneT.",
+          "sources": "EIC-2027-Work-Programme.pdf · p. 73 · V, Can you apply?"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Only outside the grant: TenneT could back an applicant as a prospective customer, pilot host or letter-of-intent signatory; the call sets no formal partner role.\nThe Accelerator is a single-company action, so there are no partner slots. The general rules allow associated partners (organisations that take part without signing the grant agreement or claiming costs) subject to the call conditions, but the Accelerator section names none, so this route is unclear. What the call does value is market proof: evaluators check market opportunity, early traction and the company's access to the resources needed to commercialise. A grid operator's documented interest, or access to a test site for demonstration in a relevant environment, could therefore strengthen an SME's proposal. Separately, the EIC's Business Acceleration Services connect funded companies with large corporates and buyers through its Corporate Partnership Programme and pilot support, where buyers give in-kind access to infrastructure, data and staff without receiving money.",
+          "sources": "EIC-2027-Work-Programme.pdf · p. 73 · V, Can you apply?\nEIC-2027-Work-Programme.pdf · pp. 85–88 · Table 8, Award criteria\nEIC-2027-Work-Programme.pdf · p. 172 · Annex 2, B.1 Associated partners\nEIC-2027-Work-Programme.pdf · pp. 131–132 · VIII.2 Support to Pilot Tests and Proofs of Concept with Public and Private Buyers"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "No. All grant and investment money goes to the single SME applicant; TenneT cannot receive any.\nThe grant pays up to 70% of the company's eligible costs as a lump sum, within a maximum of EUR 2,499,999. The investment component of EUR 1–10 million goes to the company or its holding. No Dutch national rules apply, because the call is managed centrally by the EU. Any work TenneT does, such as hosting a pilot, would be at its own cost, unless the SME pays TenneT under a justified subcontract.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 73, 76–77 · V, Can you apply?; investment and grant component"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "Interpretation: TenneT could act as the launching customer whose test site and grid data let an SME prove its technology in real operating conditions.\nThe grant pays for demonstration in the relevant environment and for testing to meet standards, so an SME developing, for example, cable or substation monitoring, corrosion protection, inspection robotics or grid software would gain from access to a TenneT site or dataset. A letter stating TenneT's interest, and the conditions under which it might later buy, could support the market and traction criteria. Areas where TenneT already works, such as cathodic corrosion protection, reliability-centred maintenance and its digital twin programme, suggest where such supplier innovations would be most useful. TenneT must take care that support does not prejudice its own procurement rules, since any later purchase would go through its normal tenders.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 76–77 · V, grant component\nEIC-2027-Work-Programme.pdf · pp. 85–88 · Table 8, Impact and Level of risk criteria"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "High: the innovation must be deep-tech and a significant improvement in cost or performance over existing solutions.\nThe excellence criterion (threshold 4 out of 5) asks whether the innovation stems from cutting-edge scientific or technological advances and is a breakthrough compared with existing or alternative solutions, and whether it has adequate intellectual property protection and a sound strategy to enter the market. Integration of existing off-the-shelf solutions without such a breakthrough would not meet this bar.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 72, 85–86 · V, Why should you apply?; Table 8, Excellence"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Any: a technology, product, service or business model, provided it rests on a deep-tech advance.\nThe call names innovative technologies, products, services and business models that could create new markets or disrupt existing ones. It does not restrict the innovation to hardware, software, system architecture or market arrangements; the deciding test is the deep-tech and market-creating nature of the innovation.",
+          "sources": "EIC-2027-Work-Programme.pdf · p. 72 · V. EIC Accelerator\nEIC-2027-Work-Programme.pdf · p. 91 · V.1 EIC Accelerator Open"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Late-stage development and scale-up only: prototyping, demonstration, testing and market approval, not early research.\nThe grant covers innovation activities including demonstration in the relevant environment, prototyping, system-level demonstration, the research, development and testing needed to meet regulatory and standardisation requirements, intellectual property management and marketing approval. The investment covers market deployment and scale-up. The technology must already have been validated in a laboratory and relevant environment before applying.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 72, 76–77 · V, Why should you apply?; grant component"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "Entry at TRL 6 (TRL 5 fully completed) and grant-funded work up to TRL 8; investment can cover TRL 9 deployment.\nTRL 5 means validation in a relevant environment; the call says the technology must have completed all aspects of TRL 5, and evaluators check this. The grant funds work from about TRL 6 (demonstrated in a relevant environment) to TRL 8 (complete and qualified system); the jury may cut the grant if some activities are beyond TRL 8. The investment component supports scale-up and deployment (TRL 6 to 9 according to the EIC Accelerator web page).",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 72, 76–77 · V, Why should you apply?; grant component, footnote 124\nEIC-2027-Work-Programme.pdf · p. 84 · V, Interview with the EIC Jury\nEIC Accelerator (eic.ec.europa.eu web page) · Grant funding; Investment component"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "Demonstration in the relevant environment is fundable but not mandatory; the call does not require real operational infrastructure.\nThe grant may pay for demonstration of the technology in the relevant environment, prototyping and system-level demonstration. The setting, whether laboratory, field test or a customer's site, is the company's choice and must fit its starting TRL and the path to TRL 8 that evaluators judge feasible and realistic.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 76–77 · V, grant component\nEIC-2027-Work-Programme.pdf · pp. 85–86 · Table 8, Technology Readiness"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "Evidence of completed TRL 5, a credible market and investor traction; the call sets no technical indicators.\nAt each stage the company must show that the innovation has completed all aspects of TRL 5 (validation in a relevant environment) and that its path to the target TRL is feasible. At full proposal stage an external technology expert checks the proposal's claims against third-party information and in an online meeting with the applicant. Evaluators also look for early traction with investors and measurable milestones to track progress. Performance indicators for the technology itself are left to the applicant.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 83, 85–88 · V, Evaluation of full proposals; Table 8, Award criteria"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "Standard ethics and security checks apply; investments in AI, quantum, semiconductors and biotechnology carry extra safeguards.\nApplicants must complete an ethics self-assessment, and projects raising ethics or security issues may be given extra requirements as deliverables. Proposals must not contain EU classified information. For investment support in AI, quantum, semiconductors and biotechnology, specific economic-security safeguards will be written into the investment agreement, and the EIC Fund may take measures to protect European interests in strategic areas. The call sets no grid-specific cybersecurity or operational-continuity requirements.",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 76, 80 · V, investment component; Submission of full proposals\nEIC-2027-Work-Programme.pdf · p. 91 · V.1 EIC Accelerator Open\nEIC-2027-Work-Programme.pdf · pp. 182–183 · Annex 2, B.6 Ethics, B.7 Security"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "Grant up to EUR 2.5 million, investment of EUR 1–10 million, or both, per company, from EUR 428 million for the Open strand in 2027.\n- Total project size: not stated as a range; a grant of EUR 2,499,999 at 70% implies eligible costs of about EUR 3.57 million\n- Grant request: up to EUR 2,499,999 per company (higher for blended finance only in exceptional, well-justified cases); grant-only support is given only once to a company during Horizon Europe (2021–2027)\n- Investment request: EUR 1 million minimum to EUR 10 million maximum, as equity or quasi-equity from the EIC Fund; higher amounts go through the separate EIC STEP Scale Up call\n- Funding form: lump-sum grant (a fixed amount paid against completed work packages, not against actual costs), alone or blended with investment, or investment only\n- Call budget: EUR 578 million in total, EUR 428 million for Accelerator Open and EUR 150 million for the Challenges; EUR 347 million is earmarked for investments",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 74–77 · V, What support will you receive; investment and grant component\nEIC Accelerator (eic.ec.europa.eu web page) · EIC Accelerator Open"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "The grant covers up to 70% of eligible costs; the company must fund the other 30% of grant-funded work from its own resources.\n- Co-financing conditions: the 30% must come from the beneficiary's own resources; the investment component may be used to co-finance the innovation activities\n- Evidence required: financial data and company structure (cap table) at full proposal; a financial capacity check of accounts and business plan during grant preparation for grants of EUR 500,000 or more",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 75–76 · V, grant component and investment component\nEIC-2027-Work-Programme.pdf · pp. 185–186 · Annex 2, C.1 Financial capacity"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "The lump sum is fixed from the company's own cost estimate per work package and must be reasonable and non-excessive.\n- Eligible costs: innovation activities from TRL 6 to 8, including prototyping, demonstration, testing for regulation and standards, intellectual property and marketing approval\n- Caps or mandatory allocations: grant maximum EUR 2,499,999; the jury may lower the grant, for example where activities go beyond TRL 8\n- Overheads and VAT: indirect costs are normally a 25% flat rate of direct costs under Horizon Europe rules; with a lump sum they are built into the fixed amount\n- Subcontracting or equipment: subcontracting only if justified and essential to the project objectives",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 76–77, 84 · V, grant component; Interview with the EIC Jury\nEIC-2027-Work-Programme.pdf · pp. 195–196 · Annex 2, G.3–G.4"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "Pre-financing comes after signature, but the grant and investment are linked and failures in the investment process can stop the grant.\n- Payment model: a pre-financing payment after signing, normally 160% of the average funding per reporting period, then interim and final payments\n- Retention or guarantee: 5–8% of the maximum grant is withheld from pre-financing for the mutual insurance mechanism (an EU pool that covers unrecovered debts)\n- Financial reporting or audit: for blended finance, lack of cooperation with the EIC Fund's due diligence can lead to suspended payments or termination of the grant",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 75, 81–82 · V, footnote 118; Equity component\nEIC-2027-Work-Programme.pdf · pp. 196–197 · Annex 2, G.5 Reporting and payment arrangements"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "Three mandatory steps on the EU Funding & Tenders Portal: a short proposal at any time, a full proposal by invitation at fixed batch dates, and a jury interview.\n- Stage 1 — Short proposal: may be submitted at any time from 10 November 2026; batched for evaluation on the first Tuesday of each month at 17:00 Brussels time; a 12-page form, a pitch deck of up to ten slides and a video pitch of up to three minutes; result in about 4–6 weeks\n- Stage 2 — Full proposal: only after a GO at stage 1; batch cut-offs 20 January 2027, 17 March 2027, 1 September 2027 and 4 November 2027, at 17:00 Brussels time; a form of up to 20 pages, pitch deck, video and data annexes\n- Stage 3 — Interview: by invitation of the evaluation panel, with an EIC jury, after every second batch; invitation at least two weeks ahead\n- Additional procedure: the Fast Track and Plug-in schemes let companies from eligible Horizon Europe or national projects go straight to the full proposal",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 73, 77–80 · V, Can you apply?; How do you apply\nHORIZON-EIC-2027-ACCELERATOR-01 topic page (Funding & Tenders Portal) · General information, opening date"
+        },
+        {
+          "title": "Project window",
+          "answer": "Innovation activities should normally finish within 24 months; longer only in well-justified cases.\n- Maximum duration: normally 24 months, may be longer if well justified; the duration must reflect the current TRL\n- Required start: fixed in the grant agreement, normally after signature; an earlier start only exceptionally\n- Completion deadline: an investment decision must be taken during the project or within one year after it ends",
+          "sources": "EIC-2027-Work-Programme.pdf · p. 77 · V, grant component\nEIC-2027-Work-Programme.pdf · p. 82 · V, Equity component\nEIC-2027-Work-Programme.pdf · p. 194 · Annex 2, G.1 Starting date and project duration"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Panel results about 8–9 weeks after each batch, jury results 2–3 weeks after the interview, then grant preparation and equity due diligence.\n- Expected invitation or assessment result: about 8–9 weeks after the batch date (indicative)\n- Funding decision: about two to three weeks after the interview session ends\n- Grant agreement: prepared after selection; investment due diligence normally takes two to six months\n- Conditions before starting: in exceptional cases the Agency may impose prerequisites before signature; legal entity validation and financial capacity checks apply",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 80–82 · V, Interview; Invitation to prepare a grant agreement and due diligence"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "Short and full proposals each need a written form, a pitch deck and a video, submitted on the EU Funding & Tenders Portal.\n- Application form: short proposal 12 pages, full proposal up to 20 pages, using the forms in the Portal submission system\n- Budget: a lump-sum budget table for proposals requesting a grant\n- Mandatory annexes: financial data and company structure (cap table), intellectual property strategy with a freedom-to-operate analysis if available, and an implementation plan with milestones for grant requests\n- Partner documents: consent to share information with the EIC Fund if requesting investment\n- Registration: a participant identification code (PIC) on the Portal, the same one at both stages; validation before signature",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 78–80 · V, Submission of short proposals; Submission of full proposals\nEIC-2027-Work-Programme.pdf · pp. 73, 171 · V, footnote 114; Annex 2, B.1"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Four evaluators give GO or NO GO on the short proposal; the full proposal must score at least 13 out of 15, then pass a jury.\n- Evaluation criteria: excellence (deep-tech nature, TRL 5 completed, intellectual property), impact (market, business model, broader impact) and level of risk, implementation and need for EU support (team, risks, implementation plan, investor traction)\n- Thresholds: short proposal needs at least three of four GOs; full proposal 4 out of 5 per criterion and 13 out of 15 overall\n- Ranking rules: proposals asking for about 2.5 times the available grant budget are invited to interview; ties favour women-led companies\n- Budget assessment: the jury may recommend a lower grant than requested, for example if activities go beyond TRL 8",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 83–88 · V, How does the EIC decide; Table 8"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Submission limits, the once-only rule for grant-only support and economic-security safeguards can block or change an application.\n- Conditional — three unsuccessful submissions: after three failed attempts at any stage since 1 January 2024, the company may not apply again under Horizon Europe\n- Conditional — concurrent submission: only the latest of parallel proposals to the Accelerator or EIC STEP calls is evaluated\n- Exception — grant-only applicants: only start-ups and SMEs, once per company in 2021–2027, and they must show the need for EIC support and access to resources to scale\n- Exception — Associated Countries with no investment access: companies there may apply only for grant-only support\n- Recommended: use the free EIC business coaching after a GO on the short proposal",
+          "sources": "EIC-2027-Work-Programme.pdf · pp. 73, 75, 88 · V, Concurrent submissions; grant only conditions; Application submission limits\nEIC-2027-Work-Programme.pdf · p. 178 · Annex 2, B.2\nEIC-2027-Work-Programme.pdf · p. 78 · V, Submission of short proposals"
+        }
+      ]
+    }
+  ]
+}

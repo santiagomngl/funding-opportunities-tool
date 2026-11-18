@@ -1,0 +1,37 @@
+{
+  "id": "20261118-071455-05",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "InnoEnergy Masters+ Scholarship — MSc in Advanced Energy Systems and AI (AI4GreenDeal) – AI4GreenDeal",
+  "organization_or_parent_framework": "Digital Europe Programme",
+  "programme": "AI4GreenDeal",
+  "call_title": "InnoEnergy Masters+ Scholarship — MSc in Advanced Energy Systems and AI (AI4GreenDeal)",
+  "call_module_title": null,
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/46813062",
+  "executive_summary": "Cascade call issued by The Institute of Sustainable Energy Stichting (InnoEnergy), associated partner in the AI4GreenDeal project (Advanced Data and AI for Energy to accelerate the Green Deal), funded by the Digital Europe Programme. It offers full or partial participation-fee waivers to individual students admitted to the 120-ECTS double-degree MSc in Advanced Energy Systems and AI (Intake 2027), taught at KU Leuven, KTH, UPC BarcelonaTech and Grenoble INP-UGA with an Esade entrepreneurship track. Two schemes: Energy Impact Scholarships (full EUR 9,000 per year for EU/EEA students, EUR 19,000 per year for non-EU students; partial EUR 4,000 per year for non-EU students) and Diversity, Entrepreneurship and Digital Champions Scholarships (same full values; partial EUR 5,000 per year). Recipients must hold the nationality of a Digital Europe eligible country, including the Netherlands. Total budget EUR 1,000,000, spread over five application rounds from 21 September 2026 to 30 May 2027; the next round closes on 19 January 2027.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-01-19",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "The Funding & Tenders Portal call page (scholarship schemes, eligible countries, common eligibility conditions) and the Masters+ Scholarships page fund participation-fee waivers for individual students in a master's programme combining energy engineering with data and AI, including a KU Leuven specialisation in AI and Smart Transmission Systems. This touches TenneT's field through the pipeline of engineers able to apply AI to grid operation, which supports projects such as GNN4GC (Graph Neural Networks for Grid Control) and the Digital Twin Programme, although no project file covers education. Only natural persons admitted to the programme may receive a scholarship, so the call sets out no route for TenneT: Type 3 with C3.6 (training of future engineers).",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.6"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T11",
+      "T1"
+    ],
+    "role": [],
+    "activity": [
+      "A2"
+    ],
+    "outcome": [
+      "O14"
+    ]
+  }
+}

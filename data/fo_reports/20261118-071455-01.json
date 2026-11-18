@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "An upgraded, AI-driven decision support system that helps disaster authorities and first responders decide faster during crises.\nThe project must take existing decision support systems for disaster crises (software that gathers incoming data and suggests or ranks actions for those managing an emergency) and make them more reliable, adaptable and efficient by adding trustworthy AI (artificial intelligence that is transparent, explainable and accountable). The systems must process large volumes of near real-time data from the ground, use advanced data analysis and predictive modelling to anticipate how a disaster develops, and turn this into actionable advice from early warning to early action. The project is an Innovation Action (a project that develops, pilots and validates a solution close to practical use).",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 121–124 · HORIZON-CL3-2027-01-DRS-03, Expected Outcome and Scope"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "In scope is enhancing existing disaster decision support systems with emerging technologies; building a wholly new, stand-alone research tool is not what the topic asks for.\nWhat the topic asks for:\n- integrate AI-driven tools, advanced data analysis and predictive modelling into existing decision support systems for disaster crises\n- make the systems transparent, explainable, inclusive and gender-sensitive, ethical and securely deployed, in line with the EU AI Act (the EU law on artificial intelligence)\n- carry out a stakeholder or market analysis and a roadmap or plan for uptake of the results by industry, the research community or the authorities\n- involve test centres (facilities that trial and validate new technologies), which should play a key role and increase their capacity\n- improve collaboration among local authorities, emergency services and other relevant actors, including integrating drones with emergency vehicles, smart traffic systems and law enforcement\n- improve usability and accessibility so the systems fit existing disaster management frameworks\nRecommended or encouraged, not mandatory: analysing the capacity gaps of the UCPM (Union Civil Protection Mechanism, the EU system through which countries help each other in disasters), seeking synergies with KAPP projects (Knowledge for Action in Prevention and Preparedness, an EU civil-protection grant programme), and using data from Copernicus (the EU Earth observation programme), Destination Earth (an EU digital model of the Earth), the European Open Science Cloud and relevant data spaces. The gender dimension must be addressed only where relevant. The topic names no excluded activities apart from the general rule that Horizon Europe funds civil applications only.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 121–124 · HORIZON-CL3-2027-01-DRS-03, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 14 · Eligible activities"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The need lies with public authorities and first responders who must manage ever larger disasters with faster, better-informed decisions.\nThe wider destination (the group of topics this one belongs to, Disaster-Resilient Society for Europe) states that disasters from climate extremes, natural hazards and human-made hazards are becoming more frequent and more damaging, and that the EU must invest more in disaster management tools. The topic itself names the users: national and local or regional authorities, emergency services and first responders. The destination follows a multi-hazard approach, including cascading effects, industrial accidents and hostile acts, with particular attention to floods and wildfires. It also lists, among those who must coordinate prevention and preparedness, second responders such as utility services that shut down or reinstate electrical, gas and water services, and infrastructure owners. In our reading, that is where a grid operator's need comes in: restoring power and protecting infrastructure in a disaster depends on the same shared picture of the situation.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 121–124 · HORIZON-CL3-2027-01-DRS-03, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 94–97 · Destination – Disaster-Resilient Society for Europe"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "An enhanced decision support system validated at TRL 7–8, plus an uptake roadmap and a stakeholder or market analysis.\nThe topic expects:\n- decision support systems for disaster crises that use near real-time ground data for situational awareness and response\n- AI-based data analysis and decision-making tools that support authorities and first responders\n- trials and validation in test centres\n- a stakeholder or market analysis and a roadmap or plan for uptake by industry, the research community or authorities\n- FAIR data (data that is findable, accessible, interoperable and re-usable)\nEvery proposal must also include a plan for exploiting and disseminating its results, with an exploitation strategy if a product or service is to be marketed.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 121–124 · HORIZON-CL3-2027-01-DRS-03, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 4 · A — Admissibility"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Faster, better-coordinated disaster response and stronger civil preparedness in Europe, with no quantified targets.\nThe topic's expected outcomes are decision support systems that use near real-time ground data, systems that shorten response times and improve the management of disaster scenarios from early warning to early action, and data analysis tools that support authorities and first responders. The systems must also foster collaboration between local authorities, emergency services and other actors. They contribute to the Preparedness Union Strategy (the EU's 2025 plan to make Europe better prepared for crises) and to disaster risk reduction. The destination adds wider impacts: improved disaster risk governance from international to local level, and stronger disaster management capacities in line with the decision that set up the Union Civil Protection Mechanism. The call sets no numerical targets.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 121–124 · HORIZON-CL3-2027-01-DRS-03, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 94–97 · Destination – Disaster-Resilient Society for Europe"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "The systems must be ready for uptake by authorities and fit existing disaster management frameworks, but no one is obliged to operate them afterwards.\n- Wider use: the solutions must be easy to integrate into disaster management frameworks and usable in different crisis situations; the destination asks that new tools build on past projects and can be integrated into existing (legacy) systems\n- Uptake plan: a roadmap or plan for uptake by industry, the research community and/or the authorities is expected; replication during the project is not required\n- Deployment funding: the destination points to EU capacity-building funds (Internal Security Fund, Union Civil Protection Mechanism, regional and cohesion funds) as routes to turn results into deployed solutions\n- Exploitation plan: mandatory, including a strategy if a product or service is to be marketed\n- Ownership of results: the granting authority (the EU body that manages the grant) may, for up to 4 years after the project, object to a transfer of ownership or exclusive licensing of results\n- Standards: beneficiaries must, for up to 4 years after the project, tell the granting authority if results could contribute to European or international standards\n- Public emergency: if asked, beneficiaries must license their results to organisations that need them to tackle a public emergency, for up to 4 years after the project",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 121–124 · HORIZON-CL3-2027-01-DRS-03, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 121–124 · HORIZON-CL3-2027-01-DRS-03, Specific conditions\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 94–97 · Destination – Disaster-Resilient Society for Europe\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 4 · A — Admissibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 34 · G — Provisions concerning project implementation"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "At least three independent organisations from three different countries, in practice at least four because four public authorities are required; there is no maximum.\nThe general rule is at least three independent legal entities, each in a different country, with at least one in an EU Member State and two others in different Member States or Associated Countries (non-EU countries that take part in Horizon Europe). On top of this, the topic requires at least 2 national disaster-risk authorities and 2 local or regional disaster-response authorities as beneficiaries, from at least 3 different countries. The topic sets no upper limit.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 121–124 · HORIZON-CL3-2027-01-DRS-03, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "The consortium must include at least two national disaster-risk authorities and two local or regional disaster-response authorities from at least three countries.\n- National authorities: at least 2 authorities in charge of disaster risk or crisis communication, meaning national public bodies with a legal mandate in disaster risk management, such as national civil protection authorities\n- Local or regional authorities: at least 2 representatives of local or regional authorities in charge of disaster response\n- Countries: these participants must come from at least 3 different EU Member States or Associated Countries, and must take part as beneficiaries (formal, funded grant partners)\n- Test centres: the topic says test centres should play a key role, which in practice points to including one or more\n- Excluded: organisations established in an eligible country but directly or indirectly controlled by China or a Chinese legal entity\nOther partners, such as companies, research organisations or infrastructure operators, are allowed but not required.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 121–124 · HORIZON-CL3-2027-01-DRS-03, Specific conditions\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 121–124 · HORIZON-CL3-2027-01-DRS-03, Expected Outcome and Scope"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "The topic prescribes no split of work or budget, but the required authorities must be actively involved as beneficiaries.\nThe required national and local or regional authorities must take an active part in the project, not just sign up, and each must be described in the application's table on security practitioners (the people and bodies who will use the results). The topic sets no budget shares, work-package rules or minimum shares for any partner type. Because the grant is a lump sum (a fixed amount paid when agreed work is done), the consortium itself agrees how the lump sum is divided among the partners and their work packages.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 121–124 · HORIZON-CL3-2027-01-DRS-03, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 32 · G — Budget categories and cost eligibility rules"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "Any eligible partner may coordinate; the topic does not reserve the role for a public authority.\nNeither the topic nor the general rules restrict who leads the consortium. The coordinator must confirm at submission that it has the mandate to act for all applicants.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 121–124 · HORIZON-CL3-2027-01-DRS-03, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, Submission"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "Yes, formally TenneT may coordinate, although a disaster-management body is the more natural lead for this topic.\nAny legal entity may take part, and organisations established in an EU Member State, as TenneT TSO B.V. is, are eligible for funding. The topic does not reserve coordination for public authorities. However, the topic is built around the needs of civil-protection authorities and first responders, and at least four such authorities must be partners, so in practice they or a research or technology partner would usually lead. This is our reading of the topic's focus, not a rule.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 4 · B — Eligibility, Entities eligible to participate\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 11 · B — Entities eligible for funding\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 121–124 · HORIZON-CL3-2027-01-DRS-03, Specific conditions"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes, as a regular partner; the topic does not offer a separate unfunded or associated role for infrastructure operators.\nTenneT could join as a beneficiary (a full partner that signs the grant agreement and does part of the work). It could also take part as an associated partner (an organisation that takes part without signing the grant agreement and without charging costs), which the general rules allow; the topic names no specific role for such partners. The topic's call for collaboration with other relevant actors, and the destination's mention of utilities and infrastructure owners, support a role for TenneT as an operator whose infrastructure must be protected and restored in a disaster.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 4–5 · B — Eligibility, Entities eligible to participate, Associated partners\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 121–124 · HORIZON-CL3-2027-01-DRS-03, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 94–97 · Destination – Disaster-Resilient Society for Europe"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Yes, TenneT can be funded at up to 70% of its costs, paid as part of a fixed lump sum.\nOrganisations established in an EU Member State, such as the Netherlands, are eligible for funding. This is an Innovation Action, for which the maximum funding rate is 70% for for-profit organisations such as TenneT TSO B.V. and up to 100% for non-profit organisations. The grant is a lump sum (a fixed amount agreed in advance and paid when the agreed work is done, not against actual costs); the funding rate is built into the lump sum. TenneT must therefore finance at least 30% of its own costs. The Commission expects an EU contribution of around EUR 3 million per project, shared among all partners, so TenneT's share depends on what the other partners request. No Dutch national rules apply: the EU pays directly.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 11 · B — Entities eligible for funding\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 121–124 · HORIZON-CL3-2027-01-DRS-03, Specific conditions"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT's most credible contribution would be grid status and outage data plus its crisis and restoration expertise, so the system can foresee and manage power-related cascading effects.\nThis is our judgement. A disaster decision support system needs to know which areas will lose electricity, how long restoration will take and where grid assets are at risk, for example from floods. TenneT could:\n- provide (anonymised or aggregated) data on grid status, outages and restoration times, or a test setting for linking grid information to the authorities' system\n- bring its crisis-management procedures and experience in power restoration, so the system's advice matches how a transmission operator actually works in a crisis\n- help test the system in an exercise together with the Dutch or regional authorities in the consortium\nSimilar work in TwinEU (cross-border data exchange for grid resilience) and TenneT's cooperation with regional and local governments in the energy boards could serve as a starting point. Because the topic does not mention electricity directly, a proposal would have to show clearly how grid information improves disaster decisions.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 121–124 · HORIZON-CL3-2027-01-DRS-03, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 94–97 · Destination – Disaster-Resilient Society for Europe"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The project may build on existing systems: it must upgrade current decision support systems with emerging technologies, not invent a new kind of system.\nThe topic focuses on enhancing existing decision support systems by integrating emerging technologies, especially trustworthy AI. The destination adds that new tools should build on what earlier projects developed and must be able to work with existing (legacy) systems. Under the general award criteria, proposals must still be ambitious and go beyond the state of the art (the best that already exists).",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 121–124 · HORIZON-CL3-2027-01-DRS-03, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 94–97 · Destination – Disaster-Resilient Society for Europe\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 23 · D — Award criteria"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Mainly technology and operational methods: AI-based software and the way authorities and responders use it to coordinate.\nThe technical innovation lies in AI-driven data processing, predictive modelling and integration of ground data, drones and other sources into decision support. The operational innovation lies in faster, better-coordinated decisions among authorities, emergency services and other actors, and in usability for different users. The topic also asks for uptake roadmaps and market analysis, but does not ask for new market arrangements or governance models.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 121–124 · HORIZON-CL3-2027-01-DRS-03, Expected Outcome and Scope"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Integration, prototyping, testing and validation close to operational use, not basic research.\nAs an Innovation Action, the project consists of prototyping, testing, demonstrating, piloting and validating solutions, ending close to operational use. Test centres should trial and validate the technologies. The destination asks that tools for operational needs aim at higher technology readiness levels.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 14 · Eligible activities\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 121–124 · HORIZON-CL3-2027-01-DRS-03, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 94–97 · Destination – Disaster-Resilient Society for Europe"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "Results must reach TRL 7–8 by the end; the topic sets no starting level.\nTRL 7 (Technology Readiness Level 7) is a system prototype demonstrated in an operational environment; TRL 8 is a complete and qualified system. Since the project upgrades existing systems, the starting point will usually already be a working system.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 121–124 · HORIZON-CL3-2027-01-DRS-03, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · Technology Readiness Levels"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "The system must be demonstrated in an operational environment (TRL 7–8), with test centres trialling and validating it.\nThe topic requires TRL 7–8, which means at least a prototype demonstrated in an operational environment. Test centres should play a key role in trialling and validating the technologies and should increase their capacity to do so. The topic does not prescribe a specific region, disaster type or exercise format.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 121–124 · HORIZON-CL3-2027-01-DRS-03, Specific conditions\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 121–124 · HORIZON-CL3-2027-01-DRS-03, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · Technology Readiness Levels"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The new tools must plug into existing decision support systems and disaster management frameworks and connect several operational systems.\nThe topic asks to enhance existing systems, to make them easy to integrate into disaster management frameworks, and to integrate drones with emergency vehicles, smart traffic systems and law enforcement for coordinated response. The destination adds that new tools must be capable of being integrated into existing (legacy) systems. Where satellite Earth observation, positioning, navigation or timing data are used, Copernicus and/or Galileo/EGNOS (the EU satellite navigation systems) must be used.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 121–124 · HORIZON-CL3-2027-01-DRS-03, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 121–124 · HORIZON-CL3-2027-01-DRS-03, Specific conditions\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 94–97 · Destination – Disaster-Resilient Society for Europe"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "The topic sets no indicators; evidence must show quicker, better-informed decisions and shorter response times.\nThe expected outcomes refer to enhanced situational awareness, improved operational efficiency and response times, and timely and effective management of disaster scenarios. The topic does not define how these must be measured.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 121–124 · HORIZON-CL3-2027-01-DRS-03, Expected Outcome and Scope"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "Users must be partners: at least four disaster-management authorities must be actively involved as beneficiaries.\nThe required national and local or regional authorities take part as beneficiaries and must be described in the application's table on security practitioners. The systems must be usable and accessible for diverse users. The destination also asks for greater involvement of practitioners in research, development and implementation, and in identifying gaps and needs.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 121–124 · HORIZON-CL3-2027-01-DRS-03, Specific conditions\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 121–124 · HORIZON-CL3-2027-01-DRS-03, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 94–97 · Destination – Disaster-Resilient Society for Europe"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "Secure AI deployment is required, and the project may handle EU classified or sensitive information under security rules.\n- Secure and ethical AI: the systems must be transparent, explainable, trustworthy and securely deployed, aligned with the EU AI Act\n- Security-sensitive topic: some activities may use classified background or produce security-sensitive results (EUCI, EU classified information, and SEN, sensitive information); such projects go through a security appraisal and may get specific security rules in the grant agreement\n- Classified work: information classified Confidential or above may be handled only by organisations with a facility security clearance and staff with a personnel security clearance\n- Data: results data should be FAIR",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 121–124 · HORIZON-CL3-2027-01-DRS-03, Specific conditions\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 121–124 · HORIZON-CL3-2027-01-DRS-03, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 16 · Security — EU classified and sensitive information"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "Around EUR 3 million of EU funding per project, from a topic budget of EUR 9 million for about three projects.\n- Total project size: not stated\n- Grant request: around EUR 3 million EU contribution per project, shared by all partners; this is an estimate, and proposals asking for other amounts may still be submitted and selected\n- Funding form: lump sum (a fixed amount agreed in advance, paid when the agreed work is delivered, not against actual costs)",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 121–124 · HORIZON-CL3-2027-01-DRS-03, Specific conditions\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 16–18 · Call – Civil Security for Society 2027, Overview of this call"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "Up to 70% for for-profit partners such as TenneT and up to 100% for non-profit partners, built into the lump sum.\n- For-profit organisations: up to 70% of eligible costs; at least 30% own contribution\n- Non-profit organisations (for example public authorities and universities): up to 100% of eligible costs\n- Co-financing conditions: the own contribution is not specified as cash or in kind; each partner covers its own share\n- Evidence required: none specific; the lump sum is based on a detailed budget table",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, funding rate and maximum grant amount"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "The lump sum must be justified with a detailed budget table that follows normal EU cost rules.\n- Eligible costs: the detailed budget table must only include costs that would be eligible under EU actual-cost rules (personnel, subcontracting, purchases, and other categories); ineligible costs can lead to a lower grant, even after the project\n- Overheads: indirect costs are calculated as a 25% flat rate of eligible direct costs (excluding subcontracting)\n- Subcontracting and purchases: must give best value for money and be free of conflicts of interest",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, Submission\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 32–33 · G — Budget categories and cost eligibility rules"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: a full proposal by 4 November 2027, 17:00 Brussels time, submitted online on the EU Funding & Tenders Portal.\n- Stage 1 — Full proposal: planned opening 5 May 2027; deadline 4 November 2027, 17:00 Brussels local time; Part A online plus Part B as PDF, within 45 pages for lump sum Innovation Actions; submitted by the coordinator for the whole consortium\n- Additional procedure: the Commission may open the call up to one month earlier or later than planned and may delay the deadline by up to two months",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 16–18 · Call – Civil Security for Society 2027, Overview of this call\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 4 · A — Admissibility, Page limits\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, Submission"
+        },
+        {
+          "title": "Project window",
+          "answer": "The topic sets no duration or start date; both are fixed in the grant agreement.\n- Required start: normally after the grant agreement is signed, around 8 months after the deadline, so in practice from about mid-2028; an earlier, retroactive start is possible only exceptionally",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · G — Starting date & project duration\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 30 · F — Indicative timetable for evaluation and for signature of the grant agreement"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Results around five months after the deadline and grant signature around eight months after it, so around spring and summer 2028.\n- Expected assessment result: around 5 months after the 4 November 2027 deadline (indicative)\n- Grant agreement: around 8 months after the deadline (indicative)\n- Conditions before starting: an ethics review and, where the project involves classified or sensitive information, a security appraisal may be needed before funding is authorised; each partner must sign a declaration of honour",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · F — Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 15–16 · Ethics; Security — EU classified and sensitive information\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, Submission"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "A complete online proposal with the security practitioner table filled in for the required authorities; missing parts lead to rejection.\n- Application form: Part A online and Part B as PDF via the Funding & Tenders Portal, at most 45 pages for a lump sum Innovation Action\n- Budget: a detailed lump sum budget table\n- Mandatory annexes: the table \"Information about security practitioners\" for the required national and local or regional authorities; an exploitation and dissemination plan; an ethics self-assessment\n- Partner documents: the coordinator confirms its mandate to act for all applicants; each partner signs a declaration of honour before the grant\n- Registration: each partner must register in the Participant Register before applying, to get a PIC (Participant Identification Code), and be validated before the grant is signed; a validated PIC is not needed to submit",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 121–124 · HORIZON-CL3-2027-01-DRS-03, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 4 · A — Admissibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 5 · B — Eligibility, Participant Register\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · Ethics\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, Submission"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Independent experts score Excellence, Impact and Implementation; for ranking, Impact counts 1.5 times.\n- Evaluation criteria: Excellence (ambition beyond the state of the art and sound methodology), Impact (credible pathway to the expected outcomes, and dissemination and exploitation measures) and Quality and efficiency of the implementation (work plan, resources, and capacity and role of each partner)\n- Thresholds: at least 3 out of 5 per criterion and at least 10 out of 15 overall\n- Weighting: Impact is weighted 1.5 for ranking Innovation Actions\n- Budget assessment: the lump sum budget table is assessed; significant over- or underestimation of costs can lead to rejection in part",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria, Scores and weighting\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 28 · F — Evaluation procedure and ranking"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Satellite data must come from EU systems where used, and Chinese-controlled entities are excluded.\n- Conditional — satellite data: if the project uses satellite Earth observation, positioning, navigation or timing data, it must use Copernicus and/or Galileo/EGNOS; other sources may be added\n- Conditional — classified or sensitive information: the project goes through a security appraisal and must follow the security rules in the grant agreement\n- Exception — entities controlled from China: not eligible to take part\n- Recommended: analyse the capacity gaps of the Union Civil Protection Mechanism, seek synergies with KAPP projects, and use data from the European Open Science Cloud, Copernicus, Destination Earth and data spaces",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 121–124 · HORIZON-CL3-2027-01-DRS-03, Specific conditions\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 121–124 · HORIZON-CL3-2027-01-DRS-03, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 16 · Security — EU classified and sensitive information"
+        }
+      ]
+    }
+  ]
+}

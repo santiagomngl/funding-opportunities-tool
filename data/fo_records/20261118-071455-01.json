@@ -1,0 +1,43 @@
+{
+  "id": "20261118-071455-01",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-CL3-2027-01-DRS-03 Enhancing decision support system for disaster crises: leveraging emerging technologies for improved civil preparedness and crisis management – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "Civil Security for Society 2027 (HORIZON-CL3-2027-01)",
+  "call_module_title": "HORIZON-CL3-2027-01-DRS-03 Enhancing decision support system for disaster crises: leveraging emerging technologies for improved civil preparedness and crisis management",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL3-2027-01-DRS-03",
+  "executive_summary": "Funds Innovation Actions that upgrade existing decision support systems for disaster crises with trustworthy AI, near real-time ground data and predictive modelling, so that authorities and first responders act faster from early warning to early action, with test centres trialling the solutions; results must reach TRL 7–8. Consortia need at least 3 independent entities from 3 countries and must include, as beneficiaries, at least 2 national authorities in charge of disaster risk or crisis communication and 2 local or regional disaster-response authorities from at least 3 EU Member States or Associated Countries; entities controlled from China are excluded. Paid as a lump sum at up to 70% of costs for for-profit partners (100% for non-profits); indicative topic budget EUR 9 million for about 3 projects of around EUR 3 million EU contribution each. Forthcoming: planned opening 5 May 2027, single-stage deadline 4 November 2027 at 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-11-04",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "Horizon Europe Work Programme 2026–2027 Part 6, pp. 121–124 (HORIZON-CL3-2027-01-DRS-03, Specific conditions, Expected Outcome and Scope), funds AI-enhanced decision support systems for disaster crises that improve situational awareness and coordination among authorities, emergency services and other relevant actors. In our interpretation it touches TenneT's field through infrastructure resilience: the Disaster-Resilient Society destination (pp. 96–97) names utilities, infrastructure owners and the reinstatement of electrical services among the actors to coordinate, close to TwinEU (cross-border data exchange for grid resilience) and Energy boards (TenneT's coordination with regional and local governments), although the users are civil-protection bodies, not grid operators. The required authorities are a minimum, and General Annex B (p. 4) lets any legal entity take part and be funded, so TenneT TSO B.V. could be a funded partner contributing infrastructure data and restoration expertise at the Innovation Action rate of 70% (General Annex G, p. 31): Type 1, C1.3. Both project dates are null because the topic states no start, end or maximum duration.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T8",
+      "T1"
+    ],
+    "role": [
+      "R2",
+      "R9"
+    ],
+    "activity": [
+      "A6",
+      "A7",
+      "A8"
+    ],
+    "outcome": [
+      "O4",
+      "O9"
+    ]
+  }
+}
