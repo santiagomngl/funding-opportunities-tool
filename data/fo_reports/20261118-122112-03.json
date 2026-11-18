@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "A market-ready urban mobility product, service or business model that consortium partners will sell to external clients by the end of the project.\nEIT Urban Mobility (the European Institute of Innovation and Technology's community for urban mobility, which passes on part of its EU grant through this call) funds projects that take tested solutions through demonstration, certification and preparation for commercial launch in European cities. The solution must be designed for sale and replicable beyond the first use case; projects that only optimise a partner's own operations are out of scope. A project takes one of three forms:\n- Solution package: several scalable solutions to one shared urban mobility challenge, tested at one or more demonstration sites.\n- Value chain: the key players of a value chain together solving a critical inefficiency or a public-sector challenge.\n- Single solution: one high-impact solution that needs longer development, validation and regulatory approval to reach the market.",
+          "sources": "Strategic-Innovation-Call-Manual_v5.3_10112026.pdf · p. 7 · 1. Introduction\nStrategic-Innovation-Call-Manual_v5.3_10112026.pdf · p. 12 · 3.1 Type of proposals sought"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Proposals must fall within at least one of five urban mobility sectors and go beyond prototyping to certification, IP protection and commercial preparation.\nThe five sectors (the application form asks for a primary and, optionally, a secondary one):\n- Urban logistics: reducing congestion, emissions, noise and safety risks of freight, parcel, construction, waste and food logistics.\n- Public and shared transport: multimodal, accessible services that draw people away from private cars, including in low-density areas.\n- Electrification of transport and alternative fuels: vehicle and fleet technologies, retrofitting, battery and energy storage systems, smart and dynamic charging infrastructure, grid integration, battery performance, reuse and recycling, and hydrogen and other alternative fuels that integrate with urban infrastructure and energy systems.\n- Mobility data management: tools for cities' integrated planning, Sustainable Urban Mobility Plans, disruption management and enforcement, using AI and digital platforms where appropriate; solutions should be modular, interoperable and aligned with European standards.\n- Health and mobility: safer walking and cycling, lower exposure to air and noise pollution, and road safety (Vision Zero, the aim of no road deaths).\nMandatory in every project: steps beyond prototyping and testing, such as certification, scalability, IP protection and preparation for commercialisation.\nExcluded: projects with an internal focus (optimising the partners' own operations), projects without a marketable product or service, and products or services already funded by EIT Urban Mobility without substantial new innovation. Basic research and early-stage development are not the focus.\nFor a grid operator, the electrification sector is the one that matters: it names grid integration and smart charging explicitly.",
+          "sources": "Strategic-Innovation-Call-Manual_v5.3_10112026.pdf · pp. 12–14 · 3.1 Type of proposals sought; 3.2 Topic scope\nEITUM_Strategic-Innovation-Call-FAQs-v2_Sept2026.pdf · pp. 4, 8–9 · Q2.1; Q5.1"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The project must answer a clearly defined, pressing urban mobility challenge faced by cities, public authorities, public transport operators or mobility providers, backed by market evidence.\nThe call wants market-critical problems aligned with EU policy priorities (the EU Urban Mobility Framework, the competitiveness compass, the startup and scale-up strategy, the European Declaration on Cycling) and with pressing market or customer needs. The proposal must show evidence of an unmet need or problem urgency and include a market analysis. The need belongs to cities and mobility users, and to the companies that will sell the solution: the call aims to let cities and mobility providers procure and scale proven innovations with confidence. A grid-related need, such as charging that strains local grids, could qualify only when framed as an urban mobility challenge with a buyer for the solution.",
+          "sources": "Strategic-Innovation-Call-Manual_v5.3_10112026.pdf · pp. 7–8, 12 · 1. Introduction; 2. About the Call; 3.1 Type of proposals sought\nEITUM_Strategic-Innovation-Open-Call_cutoff4_Guidance-for-Applicants_Oct2026_optimized.pdf · p. 11 · 4. Project Scope (Problem/market opportunity)\nStrategic-Innovation-Call-Manual_v5.3_10112026.pdf · p. 26 · 5.2 Stage 1: Evaluation (Excellence)"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "Every project must deliver at least one innovation sold on the market or one new startup, plus seven mandatory deliverables.\nMandatory result: at least one of two EIT KPIs (key performance indicators), each with a target of at least 1 by the end of the project:\n- Marketed innovation: an innovation introduced on the market with documented sales of at least EUR 10,000.\n- Startup created: a startup based on the project's results that sells at least EUR 10,000 or attracts at least EUR 200,000 of private equity investment.\nMandatory deliverables, using templates EIT Urban Mobility provides:\n- Technical sheet of the solution's functional and technical requirements: within 2 months of the start.\n- Product plan for each marketed innovation, or business plan for each startup: within 4 months.\n- Impact methodology and baseline assessment: within 6 months.\n- IP (intellectual property) strategy with a Freedom-to-Operate report (a check that the solution does not infringe others' patents) by an independent IP expert: within 6 months.\n- Demonstration report on all demonstrations: one month after they end.\n- Impact report against the baseline: at the end, and in post-project reporting.\n- Final dissemination report with best practices and a short video of the solution and pilots: at the end.\nAdditional where relevant: a preliminary and final public procurement strategy when public bodies host pilots, and a citizen and user engagement plan and report.",
+          "sources": "Strategic-Innovation-Call-Manual_v5.3_10112026.pdf · pp. 18–19 · 3.5 Key Performance Indicators (KPIs); 3.6 Deliverables\nEITUM_Strategic-Innovation-Open-Call_cutoff4_Guidance-for-Applicants_Oct2026_optimized.pdf · pp. 17–20 · 5.2 Deliverables; 5.4 Key Performance Indicators (KPIs)"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The project must contribute to three societal goals: better quality of life in cities, climate change mitigation and adaptation, and jobs in the European urban mobility sector.\nThe call sets no numeric impact targets of its own, but the proposal must give clear impact metrics and targets, and the broad-impact criterion scores the expected effects on society, the environment, the climate, the UN Sustainable Development Goals, relevant EU policy and job creation in Europe. Higher ambition on the two mandatory market KPIs (marketed innovations and startups created) is scored positively if the targets are realistic. For the electrification sector, solutions must show clear added value for urban mobility, contribute to more resilient urban transport systems and show strong potential for adoption and scale. Any benefit for the electricity system, such as smart charging that eases grid congestion, would count only as part of this urban mobility case.",
+          "sources": "Strategic-Innovation-Call-Manual_v5.3_10112026.pdf · p. 7 · 1. Introduction\nStrategic-Innovation-Call-Manual_v5.3_10112026.pdf · p. 13 · 3.2 Topic scope (electrification of transport and alternative fuels)\nStrategic-Innovation-Call-Manual_v5.3_10112026.pdf · p. 18 · 3.5 Key Performance Indicators (KPIs)\nStrategic-Innovation-Call-Manual_v5.3_10112026.pdf · p. 27 · 5.2 Stage 1: Evaluation (Broad impacts)"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "The result must be a commercial product on the market, replicable in other European cities, with continued financial ties to EIT Urban Mobility after the project ends.\n- Wider use: solutions must be designed for sale to external clients, replicable beyond the first use case and scalable to other urban contexts with minimal customisation; the proposal must show scaling plans for each demonstration site, with procurement routes where applicable.\n- Replication: the proposal must make future replication credible; replication itself during the project is not required.\n- Standards: the plan to reach full commercial deployment must consider standardisation, homologation or certification where relevant; data solutions are expected to align with European standards.\n- Market availability: the solution should be ready for market launch by the end of the project, and the applicant must give the expected launch date and the commercial milestones for the first 24 months after launch.\n- Business model: each solution needs a business model with value proposition, revenue logic, pricing and go-to-market strategy.\n- Continued obligations: the commercial partner signs a financial sustainability agreement (equity-based, or a fixed fee plus revenue share) whose obligations usually last several years after the project; EIT Urban Mobility runs an ex-post impact assessment within five years.\n- Uptake: stakeholder and citizen engagement must support uptake beyond the project; a final dissemination report and video are required.\n- Follow-on: successful projects may unlock further EIT Urban Mobility funding for upscaling through a fast-track mechanism.",
+          "sources": "Strategic-Innovation-Call-Manual_v5.3_10112026.pdf · pp. 12, 16–17, 20 · 3.1 Type of proposals sought; 3.4.4 Contribution to EIT Urban Mobility's financial sustainability (FS); 3.4.5 Fast-track provisions; 3.8 Project implementation, monitoring and reporting\nEITUM_Strategic-Innovation-Open-Call_cutoff4_Guidance-for-Applicants_Oct2026_optimized.pdf · p. 12 · 4. Project Scope (Business model; Scalability and replication)\nEITUM_Strategic-Innovation-Call-FAQs-v2_Sept2026.pdf · pp. 6, 8–9 · Q3.6; Q5.1"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "At least two independent legal entities from at least two different countries; there is no upper limit.\nThe two entities must be established in two different EU Member States or Horizon Europe associated countries, and neither may control the other or be controlled by the same third party. Consortia must stay fit for purpose; EIT Urban Mobility notes that most successful proposals have 4 to 7 partners.",
+          "sources": "Strategic-Innovation-Call-Manual_v5.3_10112026.pdf · p. 8 · 2.1 Who can apply\nStrategic-Innovation-Call-Manual_v5.3_10112026.pdf · p. 25 · 5.1 Admissibility and eligibility check (Consortium composition)\nEITUM_Strategic-Innovation-Call-FAQs-v2_Sept2026.pdf · pp. 2–3 · Q1.5; Q1.7"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "Any type of organisation may take part, but the consortium must include everyone needed to deliver and commercialise the solution, including active end users or pilot hosts.\n- Countries: every partner must be established in an EU Member State or a Horizon Europe associated country (for example the UK or Switzerland); countries associated only to Pillar II are not eligible. The Netherlands qualifies.\n- Required role: at least one partner must be the lead commercial partner, which commercialises the results and contributes to EIT Urban Mobility's financial sustainability mechanism.\n- Typical partners: companies that will commercialise the solution; pilot hosts such as cities, public transport operators or mobility providers; knowledge or technology providers; certification bodies or regulatory advisers.\n- End users: letters of support do not replace active participation of essential partners; the absence of end users or pilot hosts as partners counts as a weakness. Cities should be partners when they are the main end users, but are not required otherwise.\n- Membership: every funded partner must join the EIT Urban Mobility community and pay the membership fee for its category (included for a commercial partner that signs a commercial agreement).",
+          "sources": "Strategic-Innovation-Call-Manual_v5.3_10112026.pdf · pp. 8–10 · 2.1 Who can apply; 2.1.1 Consortium composition; 2.3 Membership\nEITUM_Strategic-Innovation-Call-FAQs-v2_Sept2026.pdf · pp. 2–3, 5 · Q1.1; Q1.2; Q1.6; Q1.8; Q3.3"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "Each partner needs a defined role and an appropriate budget, and the project must reach at least 35% co-funding overall, however it is spread.\nThe workplan is organised in work packages, each with tasks, a leader and contributors; every contributing partner must have budget in each work package it joins. Partners may have different co-funding rates, and some (for example universities or non-profits) may receive 100% EIT funding as long as others contribute enough to reach 35% for the whole project. Large enterprises that benefit directly from the results, such as end users, demonstration hosts or infrastructure operators, are encouraged to co-fund around 50%. Subcontracting must stay limited, be justified and not cover core tasks. The partner or partners responsible for commercialisation carry the financial sustainability obligations towards EIT Urban Mobility, unless the consortium agrees another split. Projects should budget up to EUR 4,000 for site visits of up to four observer cities.",
+          "sources": "Strategic-Innovation-Call-Manual_v5.3_10112026.pdf · pp. 8, 16, 20 · 2.1.1 Consortium composition; 3.4.2 Co-funding rate; 3.7 Cities Observers Group (COG)\nEITUM_Strategic-Innovation-Call-FAQs-v2_Sept2026.pdf · pp. 3–5 · Q1.7; Q3.1; Q3.4\nEITUM_Strategic-Innovation-Open-Call_cutoff4_Guidance-for-Applicants_Oct2026_optimized.pdf · pp. 16, 23 · 5.1 Work Packages; 7. Budget"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "Any eligible partner may act as Project Leader; the call reserves no lead role for a type of organisation.\nThe Project Leader is the organisation of the person who creates the application form in the EIT Urban Mobility Programmes Portal (the NetSuite submission system), and only that person can submit. The Project Leader receives the evaluation results, handles conditions and appeals, and is subject to extra financial checks when awarded more than EUR 750,000. The call separately requires a lead commercial partner that commercialises the results; this need not be the Project Leader.",
+          "sources": "EITUM_Strategic-Innovation-Open-Call_cutoff4_Guidance-for-Applicants_Oct2026_optimized.pdf · pp. 9–11 · 3. Partner Information\nStrategic-Innovation-Call-Manual_v5.3_10112026.pdf · pp. 8, 25, 29 · 2.1 Who can apply; 5.1.1 Rectification process; 5.4 Communication of results to applicants\nEITUM_Strategic-Innovation_Project-Implementation-Handbook.pdf · p. 11 · 3.1 Validation process"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "Yes in principle: TenneT TSO B.V. is a Dutch legal entity, and any eligible entity may lead, but a TenneT-led project would still need a commercial partner and an external market.\nThe rules set no restriction on organisation type for the Project Leader, and the Netherlands is an EU Member State. TenneT would need a PIC (the EU participant identification code) and registration in the EIT Urban Mobility Programmes Portal. Two conditions limit a TenneT lead in practice: the project must be about a product sold to external clients (projects optimising a partner's own operations are out of scope), and at least one partner must be the lead commercial partner that commercialises the result and enters the financial sustainability arrangement with EIT Urban Mobility. Leading would also bring the Project Leader's administrative tasks and, above EUR 750,000 of EIT funding, an audit report or declaration on its accounts.",
+          "sources": "Strategic-Innovation-Call-Manual_v5.3_10112026.pdf · pp. 8, 12 · 2.1 Who can apply; 3.1 Type of proposals sought\nEITUM_Strategic-Innovation-Open-Call_cutoff4_Guidance-for-Applicants_Oct2026_optimized.pdf · pp. 3, 9 · 1.1 PIC and PIF registration; 3. Partner Information\nEITUM_Strategic-Innovation_Project-Implementation-Handbook.pdf · p. 11 · 3.1 Validation process"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes: TenneT may join as a partner and could even choose a co-funding rate of up to 100% of its own costs, as long as the project reaches 35% co-funding overall.\nThe call lets each partner set its own co-funding rate, or none, within the project-wide minimum of 35%, so a partner that finances all its own costs is possible. Own funding must cover actual costs the partner incurs: in-kind contributions (goods or services provided free by third parties) are not eligible. The roles the call names that fit TenneT are pilot or demonstration host, infrastructure operator and end user. Any partner, funded or not, must become a member of EIT Urban Mobility and pay the membership fee if the project is selected. A letter of support is also possible but does not replace an essential partner such as a pilot host.",
+          "sources": "Strategic-Innovation-Call-Manual_v5.3_10112026.pdf · pp. 8–9, 16 · 2.1.1 Consortium composition; 2.3 Membership; 3.4.2 Co-funding rate\nEITUM_Strategic-Innovation-Call-FAQs-v2_Sept2026.pdf · pp. 4–5 · Q3.1; Q3.2; Q3.3\nEITUM_Strategic-Innovation_Eligibility-of-expenditure.pdf · p. 6 · 3. General conditions for eligibility of costs"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Yes, up to 65% of its eligible costs in principle, but as a large infrastructure operator TenneT is expected to co-fund around 50%.\n- Rate: EIT Urban Mobility reimburses up to 65% of the project's eligible costs, at the same rate for every type of organisation; the project as a whole must co-fund at least 35%.\n- Large enterprises: large enterprises that benefit directly from the outcomes, such as end users, demonstration hosts or infrastructure operators, are encouraged to contribute around 50%; higher co-funding scores better in evaluation and breaks ties. TenneT would therefore most realistically receive about half of its costs.\n- Cap: at most EUR 2 million of EIT funding per project, shared by all partners.\n- Cost rules: Horizon Europe cost rules apply (actual personnel and other direct costs, plus 25% flat-rate overheads); only costs TenneT actually incurs count.\n- Dutch rules: none. EIT Urban Mobility pays each partner directly under a Financial Support Agreement; no Dutch agency or national co-funding is involved.\n- Strings attached: TenneT must pay the membership fee, and if TenneT were the commercialising partner it would take on the financial sustainability arrangement (equity or revenue share).",
+          "sources": "Strategic-Innovation-Call-Manual_v5.3_10112026.pdf · pp. 9, 15–17 · 2.3 Membership; 3.4.1 Funding allocation; 3.4.2 Co-funding rate; 3.4.4 Contribution to EIT Urban Mobility's financial sustainability (FS)\nEITUM_Strategic-Innovation-Call-FAQs-v2_Sept2026.pdf · pp. 4–5 · Q3.1; Q3.3\nEITUM_Strategic-Innovation_Eligibility-of-expenditure.pdf · pp. 4–6 · 2.1 Eligible costs; 3. General conditions for eligibility of costs\nEITUM_Strategic-Innovation_Project-Implementation-Handbook.pdf · p. 27 · 8. Payment scheme"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT would be most credible as the grid-side partner and demonstration host in an electrification project on smart charging, vehicle-to-grid or flexible charging hubs. This is our interpretation.\nThe electrification sector names smart and dynamic charging, battery and energy storage and grid integration, which touch TenneT's congestion and flexibility work. Possible contributions:\n- Congestion and flexibility signals at transmission level, and experience from the Grids & Benefits project, which uses a traffic-light signal for the best time to charge electric vehicles.\n- Access to balancing or redispatch markets for aggregated electric vehicle fleets or charging hubs, drawing on its prequalification of balancing service providers (the ARTeMIS system).\n- Flexible grid-access arrangements, such as the time-dependent transmission rights contract with Lion Storage, as a model for large charging or storage sites.\n- Validation of the grid benefit of the solution during demonstration.\nMost urban charging connects to distribution grids, so a Dutch distribution system operator, a charging company as commercial partner and a city would likely be needed alongside TenneT. The project would have to be led by the commercial case of the solution, not by TenneT's own operational needs, which the call excludes.",
+          "sources": "Strategic-Innovation-Call-Manual_v5.3_10112026.pdf · pp. 12–13 · 3.1 Type of proposals sought; 3.2 Topic scope (electrification of transport and alternative fuels)\nStrategic-Innovation-Call-Manual_v5.3_10112026.pdf · p. 16 · 3.4.2 Co-funding rate"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The solution must be highly innovative and better than competitors, but may build on tested technology: the call funds getting proven solutions to market, not basic research.\nThe call backs \"tested solutions with a clear path to market\". The excellence criterion scores whether the solutions are highly innovative and give a unique competitive advantage; applicants must name at least three competitors per solution. Products already funded by EIT Urban Mobility without substantial new innovation or added value are out of scope. Integration of existing technologies into a new product, service or business model is therefore possible, as long as the result is new and superior in the market.",
+          "sources": "Strategic-Innovation-Call-Manual_v5.3_10112026.pdf · pp. 7, 14 · 1. Introduction; 3.2 Topic scope\nStrategic-Innovation-Call-Manual_v5.3_10112026.pdf · p. 27 · 5.2 Stage 1: Evaluation (The innovation)\nEITUM_Strategic-Innovation-Open-Call_cutoff4_Guidance-for-Applicants_Oct2026_optimized.pdf · p. 11 · 4. Project Scope (The innovation)"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Products, services, business models, operational approaches or governance arrangements, alone or combined.\nThe call lists the innovation as a solution, product or service, or a business model; value chain projects may also address operational approaches, and the urban logistics sector names business models, technologies and governance approaches. Whatever the object, it must be commercially sellable.",
+          "sources": "Strategic-Innovation-Call-Manual_v5.3_10112026.pdf · pp. 12–13 · 3.1 Type of proposals sought; 3.2 Topic scope\nEITUM_Strategic-Innovation-Open-Call_cutoff4_Guidance-for-Applicants_Oct2026_optimized.pdf · p. 11 · 4. Project Scope (The innovation)"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Late-stage development, demonstration, certification and commercial preparation; basic research and early-stage development are not the focus.\nProjects must go beyond prototyping and testing to cover certification, scalability, IP protection and preparation for commercialisation. Expected activities include piloting, certification, business modelling and procurement preparation. Single solution projects may include longer development, validation and regulatory approval.",
+          "sources": "Strategic-Innovation-Call-Manual_v5.3_10112026.pdf · p. 12 · 3.1 Type of proposals sought\nEITUM_Strategic-Innovation-Call-FAQs-v2_Sept2026.pdf · pp. 8–9 · Q5.1"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "No minimum TRL is set, but solutions are expected to be beyond early prototyping, typically beyond TRL 6–7, and ready for market launch at the end.\nTRL is the technology readiness level, from 1 (basic principle) to 9 (proven in operation); TRL 6–7 means a prototype demonstrated in a realistic or operational environment. The proposal must describe current and target maturity, including an innovation maturity radar in the pitch deck.",
+          "sources": "EITUM_Strategic-Innovation-Call-FAQs-v2_Sept2026.pdf · pp. 8–9 · Q5.1\nStrategic-Innovation-Call-Manual_v5.3_10112026.pdf · p. 27 · 5.2 Stage 1: Evaluation (Maturity and market readiness)\nEITUM_Strategic-Innovation-Call-FAQs-v2_Sept2026.pdf · p. 7 · Q4.2"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "Solutions must be demonstrated in real-world settings, typically at demonstration sites in cities or with mobility operators.\nThe call aims to let innovators refine their offerings in real-world settings; solutions should be demonstrable in real environments. Solution package projects test solutions at one or more demonstration sites, and the workplan must include well-defined and ambitious demonstrations. A demonstration report is mandatory. Observer cities chosen by EIT Urban Mobility may visit demonstrations. EIT Urban Mobility staff or experts may visit sites and must have full access to core applications and hardware.",
+          "sources": "Strategic-Innovation-Call-Manual_v5.3_10112026.pdf · pp. 7, 12, 18–20 · 1. Introduction; 3.1 Type of proposals sought; 3.6 Deliverables; 3.7 Cities Observers Group (COG); 3.8 Project implementation, monitoring and reporting\nEITUM_Strategic-Innovation-Call-FAQs-v2_Sept2026.pdf · pp. 8–9 · Q5.1\nStrategic-Innovation-Call-Manual_v5.3_10112026.pdf · p. 28 · 5.2 Stage 1: Evaluation (Workplan)"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The project must form one coherent workplan, and the solution must fit existing urban infrastructure, energy systems and procurement processes.\nThe workplan must be coherent, with tasks, timelines and milestones aligned with the ambition and KPIs. For the electrification sector, alternative fuel solutions must integrate effectively with urban infrastructure and energy systems, and electrification solutions include grid integration. Data solutions should be modular and interoperable. Where public bodies host pilots, the project must work out a realistic public procurement pathway.",
+          "sources": "Strategic-Innovation-Call-Manual_v5.3_10112026.pdf · pp. 13–14, 19 · 3.2 Topic scope; 3.6 Deliverables\nStrategic-Innovation-Call-Manual_v5.3_10112026.pdf · p. 28 · 5.2 Stage 1: Evaluation (Workplan)"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "The project must prove market uptake through sales or a startup, and document impact against a baseline set early in the project.\n- Market evidence: at least one marketed innovation with documented sales of at least EUR 10,000, or one startup with at least EUR 10,000 of sales or EUR 200,000 of private equity.\n- Impact evidence: an impact methodology and baseline within 6 months, and an impact report at the end and after the project.\n- Demonstration evidence: a demonstration report on all demonstrations.\n- Adoption evidence: at submission, evidence of commitment from early adopters, such as letters of intent or procurement plans.",
+          "sources": "Strategic-Innovation-Call-Manual_v5.3_10112026.pdf · pp. 18–19 · 3.5 Key Performance Indicators (KPIs); 3.6 Deliverables\nEITUM_Strategic-Innovation-Open-Call_cutoff4_Guidance-for-Applicants_Oct2026_optimized.pdf · p. 12 · 4. Project Scope (Market and user uptake)"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "End users should be active consortium partners and engage throughout: their absence counts as a weakness.\nEnd users acting as pilot or demonstration hosts (cities, public authorities, public transport operators) should be active partners, not only letter signatories. They should co-design, host pilots, share data or support procurement. The consortium criterion scores whether end users are active partners, and the market criterion asks for evidence of early-adopter commitment and strong stakeholder or citizen engagement. A citizen and user engagement plan is required where engagement is key.",
+          "sources": "Strategic-Innovation-Call-Manual_v5.3_10112026.pdf · pp. 8, 19 · 2.1.1 Consortium composition; 3.6 Deliverables\nEITUM_Strategic-Innovation-Call-FAQs-v2_Sept2026.pdf · p. 3 · Q1.8\nStrategic-Innovation-Call-Manual_v5.3_10112026.pdf · p. 27 · 5.2 Stage 1: Evaluation (Market and user uptake; Consortium)"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "The call sets no specific cybersecurity or operational-continuity requirements; it asks only for an ethics and security self-assessment and access for monitoring visits.\nThe application form has an ethics and security section where applicants indicate and describe any issues. Monitoring visitors must have full access to core applications and hardware on site. Road safety is a topic within the health and mobility sector, not a general requirement.",
+          "sources": "EITUM_Strategic-Innovation-Open-Call_cutoff4_Guidance-for-Applicants_Oct2026_optimized.pdf · p. 13 · 4. Project Scope (ethics and security section)\nStrategic-Innovation-Call-Manual_v5.3_10112026.pdf · p. 20 · 3.8 Project implementation, monitoring and reporting"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "Up to EUR 2 million of EIT funding per project, covering at most 65% of eligible costs, from about EUR 12 million for the January 2027 cut-off.\n- Total project size: no minimum; the EUR 2 million cap at 65% implies eligible project costs of up to about EUR 3.1 million.\n- Grant request: up to EUR 2 million of EIT funding per project, for the whole consortium; no minimum, but it must be justified and should not default to the maximum. Budget for the call is EUR 60 million for 2026–2028, of which about EUR 12 million for the 4th cut-off (28 January 2027) and EUR 6 million for the 5th (3 June 2027), with about EUR 13 million across the call earmarked for countries in the Regional Innovation Scheme (EIT support for countries with lower innovation performance).\n- Funding form: reimbursement of actual eligible costs under Horizon Europe rules, paid by EIT Urban Mobility directly to each partner.",
+          "sources": "Strategic-Innovation-Call-Manual_v5.3_10112026.pdf · pp. 15–16 · 3.4.1 Funding allocation; 3.4.2 Co-funding rate\nEITUM_Strategic-Innovation-Call-FAQs-v2_Sept2026.pdf · pp. 5–6 · Q3.5\nEITUM_Strategic-Innovation_Eligibility-of-expenditure.pdf · p. 4 · 2.1 Eligible costs\nEITUM_Strategic-Innovation_Project-Implementation-Handbook.pdf · p. 27 · 8. Payment scheme"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "One rate for all: EIT Urban Mobility reimburses up to 65% of eligible costs, and the project must co-fund at least 35%.\n- Large enterprises benefiting directly (end users, demonstration hosts, infrastructure operators): encouraged to co-fund around 50%.\n- Co-financing conditions: co-funding is measured across the whole project, so partner rates may differ (some partners can receive 100%, others none); own funding comes from the partner, co-funding may come from a third party named in the budget. In-kind contributions are not eligible; only costs the partners actually incur count. Co-funding above 35% scores better and breaks ties.\n- Evidence required: commercial partners must submit their latest annual report, profit and loss statement and balance sheet; no co-funding commitment letter is required.",
+          "sources": "Strategic-Innovation-Call-Manual_v5.3_10112026.pdf · pp. 16, 23, 29 · 3.4.2 Co-funding rate; 4.2 Proposal submission; 5.3 Stage 2: Hearing and proposal selection\nEITUM_Strategic-Innovation-Call-FAQs-v2_Sept2026.pdf · pp. 4–5 · Q3.1; Q3.2\nEITUM_Strategic-Innovation_Eligibility-of-expenditure.pdf · p. 6 · 3. General conditions for eligibility of costs\nEITUM_Strategic-Innovation-Open-Call_cutoff4_Guidance-for-Applicants_Oct2026_optimized.pdf · p. 24 · 7. Budget"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Horizon Europe cost rules apply, with a 25% flat rate for overheads and no in-kind contributions.\n- Eligible costs: personnel (estimated in person-months), subcontracting, travel, depreciation of equipment, other goods and services, and internally invoiced goods and services, broken down per work package and partner with a justification for each cost.\n- Caps or mandatory allocations: EUR 2 million of EIT funding per project; up to EUR 4,000 should be reserved for observer-city visits.\n- Excluded costs: deductible VAT, return on capital, debt and interest, exchange losses, costs funded by other EU grants, and in-kind contributions.\n- Overheads and VAT: indirect costs are a flat 25% of direct costs, excluding subcontracting and internally invoiced items; deductible or refundable VAT is not eligible.\n- Subcontracting or equipment: subcontracting only for a limited, justified part of the work, chosen competitively for best value; for equipment only depreciation during the project is eligible.",
+          "sources": "EITUM_Strategic-Innovation_Eligibility-of-expenditure.pdf · pp. 4–6 · 2.1 Eligible costs; 2.2 Ineligible costs; 3. General conditions for eligibility of costs\nStrategic-Innovation-Call-Manual_v5.3_10112026.pdf · pp. 15, 20 · 3.4.1 Funding allocation; 3.7 Cities Observers Group (COG)\nEITUM_Strategic-Innovation-Call-FAQs-v2_Sept2026.pdf · p. 5 · Q3.4\nEITUM_Strategic-Innovation-Open-Call_cutoff4_Guidance-for-Applicants_Oct2026_optimized.pdf · pp. 23–24 · 7. Budget"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "Only 20% is paid in advance; the rest is reimbursed after interim and final reviews, so partners pre-finance most of their costs.\n- Payment model: for an 18-month project (the maximum at the January 2027 cut-off), 20% of the EIT budget is paid as pre-financing once every partner has signed the Financial Support Agreement, the Declaration of Honour and the membership terms; interim reimbursements are capped at 35% and then 65% of the EIT budget; the balance follows the final review. A delay by any partner in contracting delays payments to all partners. Funding can be cut at the final review for underperformance.\n- Retention or guarantee: if a partner's Financial Capacity Assessment (required above EUR 500,000 of cumulative EIT funding) is unsatisfactory, EIT Urban Mobility may require joint liability, staged pre-financing, a pre-financing guarantee or no pre-financing.\n- Financial reporting or audit: interim cost reports are mandatory for all partners; a Certificate on the Financial Statement audit by an auditor EIT Urban Mobility appoints is required each time a partner reaches EUR 430,000 of cumulative EIT funding.",
+          "sources": "EITUM_Strategic-Innovation_Project-Implementation-Handbook.pdf · pp. 29–31 · 8.3 Payment scheme valid from 1 January 2026; 8.4 Important disclaimers\nEITUM_Strategic-Innovation_Project-Implementation-Handbook.pdf · pp. 33–34 · 9. Eligibility control: Certificate on Financial Statement audits\nStrategic-Innovation-Call-Manual_v5.3_10112026.pdf · p. 30 · 5.6 Onboarding and contracting phase"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One full proposal per cut-off, submitted online in the EIT Urban Mobility Programmes Portal; shortlisted proposals then pitch at a hearing.\n- Stage 1 — Full proposal: next cut-off 28 January 2027, 17:00 CET (a later one on 3 June 2027). Application form in English with project scope, work plan, KPIs, budget, a pitch deck and the commercial partners' financial statements; open to any consortium meeting the eligibility rules. A proposal started for one cut-off cannot be carried over to the next.\n- Stage 2 — Hearing: by invitation only, for the top-ranked proposals up to 200% of the cut-off budget; an online 15-minute pitch and 15 minutes of questions before the Selection Committee.\n- Additional procedure: all partners need a PIC and a Partner Information Form registration in the portal first, which can take two working days; missing registration data can be corrected within five calendar days of notification.",
+          "sources": "Strategic-Innovation-Call-Manual_v5.3_10112026.pdf · pp. 10–11, 22–24, 28 · 2.4 Timeline; 4.2 Proposal submission; 5.1 Admissibility and eligibility check; 5.1.1 Rectification process; 5.3 Stage 2: Hearing and proposal selection\nStrategic Innovation Open Call (EIT Urban Mobility call page) · Key dates"
+        },
+        {
+          "title": "Project window",
+          "answer": "Projects from the January 2027 cut-off run up to 18 months, start around July 2027 and must end by 31 December 2028.\n- Maximum duration: 18 months for the 4th cut-off (28 January 2027); 12 months for the 5th cut-off (3 June 2027). The duration must be justified, not the default maximum.\n- Required start: tentatively July 2027 for the 4th cut-off and January 2028 for the 5th, about four weeks after results are communicated.\n- Eligible-cost period: costs must be incurred within the project period (except travel for the kick-off and the final report within 30 days of the end).\n- Completion deadline: all projects, including any approved no-cost extension, must be completed by 31 December 2028.",
+          "sources": "Strategic-Innovation-Call-Manual_v5.3_10112026.pdf · pp. 10–11, 14–15 · 2.4 Timeline; 3.3 Project duration\nEITUM_Strategic-Innovation-Open-Call_cutoff4_Guidance-for-Applicants_Oct2026_optimized.pdf · p. 5 · 2. Main Information\nEITUM_Strategic-Innovation_Eligibility-of-expenditure.pdf · p. 6 · 3. General conditions for eligibility of costs"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Results are expected about three months after the cut-off; the contract follows at least 30 days after pre-selection.\n- Expected invitation or assessment result: eligibility check about 2 weeks after the cut-off; evaluation and invitations to hearings up to 8 weeks after; hearings about 2 weeks later (indicative, may shift around holidays).\n- Funding decision: communicated about 2 weeks after the hearings.\n- Grant agreement: not signed sooner than 30 days after the pre-selection decision; each partner signs a Financial Support Agreement with EIT Urban Mobility.\n- Conditions before starting: pre-selected proposals may have to meet conditions in a fixed period, including accepting the general terms of the commercial agreement and IP screening; commercial partners undergo financial due diligence; partners must be validated, sign a Declaration of Honour and the membership terms, and above EUR 500,000 of EIT funding pass a Financial Capacity Assessment.",
+          "sources": "Strategic-Innovation-Call-Manual_v5.3_10112026.pdf · pp. 11, 17, 29–30 · 2.4 Timeline; 3.4.4 Contribution to EIT Urban Mobility's financial sustainability (FS); 5.4 Communication of results to applicants; 5.6 Onboarding and contracting phase\nEITUM_Strategic-Innovation_Project-Implementation-Handbook.pdf · pp. 10–12 · 3.1 Validation process; 3.2 Contracting phase"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "A complete English application in the Programmes Portal, a pitch deck and the commercial partners' financial statements; anything missing means rejection.\n- Application form: online in the EIT Urban Mobility Programmes Portal (NetSuite), in English, with character limits per question and no web links; a Word sample is available for offline drafting; only the creator of the form can submit, and once submitted it cannot be changed.\n- Budget: per partner and per work package, by Horizon Europe cost category, with a justification for each cost and the percentages of EIT funding, own funding and co-funding.\n- Mandatory annexes: pitch deck using the template, including an innovation maturity radar; revenue forecast sheet; one merged PDF with the latest annual report, profit and loss statement and balance sheet of every commercial partner; each upload at most 10 MB.\n- Partner documents: letters of commitment or support are optional; a Freedom to Operate study and a one-minute video are recommended.\n- Registration: every partner needs a PIC and a completed Partner Information Form in the portal.",
+          "sources": "Strategic-Innovation-Call-Manual_v5.3_10112026.pdf · pp. 22–24 · 4.2 Proposal submission; 5.1 Admissibility and eligibility check\nEITUM_Strategic-Innovation-Open-Call_cutoff4_Guidance-for-Applicants_Oct2026_optimized.pdf · pp. 4–5, 11, 21–25 · 1. Register and apply; 4. Project Scope; 6. Supporting Documents; 7. Budget; 8. Submit Application Form\nEITUM_Strategic-Innovation-Call-FAQs-v2_Sept2026.pdf · p. 7 · Q4.2"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Scored out of 75 by three external experts and one internal evaluator, then up to 25 more points at a hearing for the best proposals.\n- Evaluation criteria: strategic fit and EU dimension (relevance, ambition, portfolio fit and the financial sustainability mechanism); excellence (problem and market, innovation, maturity and IP, gender and diversity); impact (market uptake, business model, scalability, broad impacts); implementation (consortium, budget and duration, workplan, risks).\n- Thresholds: at least 9 of 15 for strategic fit and 12 of 20 for each of the other three criteria.\n- Weighting: Stage 2 adds up to 15 points for the quality of the hearing and 10 for the opportunity of financial returns to EIT Urban Mobility.\n- Ranking rules: proposals up to 200% of the cut-off budget go to the hearing; ties are broken by strategic fit, then impact, excellence and implementation, and after the hearing by higher co-funding or extra KPIs; EIT Urban Mobility balances the number of projects per sector; duplicating proposals may see only the best funded.\n- Budget assessment: budget and duration are scored for value for money; financial due diligence may lead to modified grant allocations.",
+          "sources": "Strategic-Innovation-Call-Manual_v5.3_10112026.pdf · pp. 16, 26–29 · 3.4.1 Funding allocation; 5.2 Stage 1: Evaluation; 5.3 Stage 2: Hearing and proposal selection\nStrategic-Innovation-Call-Manual_v5.3_10112026.pdf · p. 17 · 3.4.4 Contribution to EIT Urban Mobility's financial sustainability (FS)"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Several conditions apply only in specific cases, notably for commercial partners, public pilot hosts and resubmissions.\n- Conditional — commercial partner: must agree an equity-based instrument or a commercial agreement (fixed fee and revenue share) with EIT Urban Mobility during the conditions phase; failing to accept the general terms within the set period can lose the award.\n- Conditional — public body as pilot host: a preliminary procurement strategy within 6 months and a final one at the end.\n- Conditional — partner with over EUR 500,000 of cumulative EIT funding: a Financial Capacity Assessment; an unsatisfactory result can bring guarantees or exclusion.\n- Conditional — resubmission: after three unsuccessful submissions of a substantially similar proposal, it can no longer be submitted in 2026–2028.\n- Conditional — rejection on eligibility: appeal within 14 calendar days.\n- Exception — large enterprises benefiting directly: encouraged to co-fund around 50% instead of 35%.\n- Recommended: join the Cities Observers Group, budget up to EUR 4,000 for observer-city visits, submit a Freedom to Operate study, and register in the portal several days before the cut-off.",
+          "sources": "Strategic-Innovation-Call-Manual_v5.3_10112026.pdf · pp. 16–17, 19–20, 23, 25, 29–30 · 3.4.2 Co-funding rate; 3.4.4 Contribution to EIT Urban Mobility's financial sustainability (FS); 3.6 Deliverables; 3.7 Cities Observers Group (COG); 4.2.2 Submission limits; 5.1.1 Rectification process; 5.4 Communication of results to applicants; 5.6 Onboarding and contracting phase"
+        }
+      ]
+    }
+  ]
+}
