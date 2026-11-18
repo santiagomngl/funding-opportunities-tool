@@ -1,0 +1,42 @@
+{
+  "id": "20261118-021356-03",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-CL3-2027-01-SSRI-02 Open grounds for future pre-commercial procurement of innovative security technologies – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "Civil Security for Society 2027 (HORIZON-CL3-2027-01)",
+  "call_module_title": "HORIZON-CL3-2027-01-SSRI-02 Open grounds for future pre-commercial procurement of innovative security technologies",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL3-2027-01-SSRI-02",
+  "executive_summary": "Funds one-year Coordination and Support Actions in which end-users and public procurers from several countries prepare a future pre-commercial procurement (a joint purchase of research and development services from competing suppliers) of innovative security technologies under any Cluster 3 priority, including resilient infrastructure. The project must form a committed buyers' group, map the state of the art and the market, run open market consultations in at least 3 countries, and deliver the evidence and draft tender planning needed for a follow-up procurement proposal. Beneficiaries must include at least 6 end-user organisations and at least 3 public procurers (contracting authorities or contracting entities under the EU procurement directives) from at least 3 EU Member States or associated countries; restrictions for the protection of European communication networks apply. Paid as a lump sum at up to 100% of costs; indicative topic budget EUR 2 million for about 2 projects of around EUR 1 million EU contribution each. Forthcoming: planned opening 5 May 2027, single-stage deadline 4 November 2027 at 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-11-04",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "Horizon Europe Work Programme 2026–2027 Part 6, pp. 146–149 (HORIZON-CL3-2027-01-SSRI-02, Specific conditions, Expected Outcome and Scope), funds a preparatory action in which end-users and public procurers build the case and the buyers' group for a later pre-commercial procurement of security technologies under the Cluster 3 priorities, which include resilient infrastructure. It touches TenneT's need to protect its critical grid infrastructure, close to SylWin1 HVDC retrofit (operational security) and TwinEU (grid resilience), but only if the consortium chooses an infrastructure-protection challenge. General Annex B, p. 13, footnote 35, defines public procurers as contracting authorities or contracting entities under Directive 2014/25/EU, which in our interpretation covers TenneT TSO B.V. as an electricity transmission operator, so TenneT could be a funded public procurer or end-user beneficiary at the Coordination and Support Action rate of 100% (General Annex G, p. 31): Type 1, C1.3. Both project dates are null because the topic gives a maximum duration of 1 year but no start or end.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T8"
+    ],
+    "role": [
+      "R2",
+      "R3",
+      "R10"
+    ],
+    "activity": [
+      "A3",
+      "A16",
+      "A18"
+    ],
+    "outcome": [
+      "O2"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "20261118-021356-04",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-CL3-2027-01-SSRI-03 Demand-led innovation in security – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "Civil Security for Society 2027 (HORIZON-CL3-2027-01)",
+  "call_module_title": "HORIZON-CL3-2027-01-SSRI-03 Demand-led innovation in security",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL3-2027-01-SSRI-03",
+  "executive_summary": "Funds one Pre-Commercial Procurement action in which a buyers' group of security practitioners and public procurers jointly buys research and development services for innovative civil-security technology: a preparation stage, a call for tenders, and a competitive development in phases (design, integration and technical verification, validation in a real operational environment) leading to at least 2 prototypes from 2 different suppliers, reaching TRL 6–8. Beneficiaries must include at least 3 practitioners and 3 public procurers from at least 3 EU Member States or associated countries, of which at least 2 independent public procurers in different countries, one in a Member State; procurement costs are eligible, subcontracted work must be performed in at least 3 Member States, and financial support to third parties of up to EUR 100,000 each may be given to final end-users. Funded at up to 100% of eligible costs; indicative topic budget EUR 5.83 million for 1 project. Forthcoming: planned opening 5 May 2027, single-stage deadline 4 November 2027 at 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-11-04",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "Horizon Europe Work Programme 2026–2027 Part 6, pp. 149–153 (HORIZON-CL3-2027-01-SSRI-03, Specific conditions and Scope), funds a joint pre-commercial procurement in which security practitioners and public procurers buy competing research and development of innovative civil-security solutions, validated in a real operational environment. It touches TenneT's protection of critical grid infrastructure, close to SylWin1 HVDC retrofit (operational security) and TwinEU (grid resilience), provided the buyers' group picks an infrastructure-protection challenge. General Annex B, p. 13, footnote 35, counts contracting entities under Directive 2014/25/EU as public procurers, which in our interpretation includes TenneT TSO B.V., so TenneT could be a funded buyer whose procurement is co-financed at the pre-commercial procurement rate of 100% (General Annex G, p. 31): Type 1, C1.4. Both project dates are null because the topic states no start, end or duration.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.4"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T8"
+    ],
+    "role": [
+      "R3",
+      "R2",
+      "R9"
+    ],
+    "activity": [
+      "A18",
+      "A8",
+      "A7"
+    ],
+    "outcome": [
+      "O2"
+    ]
+  }
+}

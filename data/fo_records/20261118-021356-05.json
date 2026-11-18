@@ -1,0 +1,37 @@
+{
+  "id": "20261118-021356-05",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "Call 8 – European City Facility (EUCF)",
+  "organization_or_parent_framework": "LIFE Programme",
+  "programme": "European City Facility (EUCF)",
+  "call_title": "Call 8",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://www.eucityfacility.eu/ongoing-call",
+  "executive_summary": "Cascade call issued by the European City Facility (EUCF), a project co-funded by the EU LIFE Programme (Clean Energy Transition), that gives municipalities, local authorities, their groupings and local public entities aggregating them a fixed lump-sum grant of EUR 60,000 to develop an investment concept for sustainable energy (energy efficiency, heating and cooling, building-integrated and other renewables, district heating, public lighting, innovative energy infrastructure) from their climate and energy plan. Applicants must be located in the EU-27, Iceland, Ukraine, Moldova, Montenegro or North Macedonia, have a climate and energy plan or a local heating and cooling plan, a letter of political support, and commit to two years of monitoring; previous beneficiaries are excluded. Call 8 has a total budget of EUR 3.72 million for 62 grants, 16 of them for the Nordic and Western Europe region that includes the Netherlands; 65% is paid at signature and 35% after the investment concept is validated, and it must be developed within 12 months of signing the grant agreement. Opened 26 October 2026; single deadline 21 December 2026 at 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2026-12-21",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "The EUCF Guidelines for Applicants Call 8 (1.3.2–1.3.4, pp. 7–8) fund municipalities to develop investment concepts for local sustainable energy projects, including renewable energy production, heat networks and innovative energy infrastructure. This touches TenneT's field only indirectly, through the local energy projects whose grid connections and public support affect TenneT; no project file is close. Only municipalities, local authorities, their groupings and local public entities aggregating them may apply (2.2.1, p. 13), and the call sets out no role for a grid operator, so TenneT cannot take part: Type 3. C3.7 fits because the call supports local energy projects that can build public support for the energy transition. Both project dates are null because the guidelines give a 12-month development period from grant signature but no start or end date.",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.7"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T10",
+      "T7"
+    ],
+    "role": [],
+    "activity": [
+      "A3"
+    ],
+    "outcome": [
+      "O5"
+    ]
+  }
+}
