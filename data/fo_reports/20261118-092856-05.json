@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "The project must design, develop and test new technical tools for protecting or restoring specific ecosystems, such as new or adapted machines, low-tech devices or digital tools.\nThe need comes from the people who carry out nature protection and restoration work. The call says restoration requires a coordinated set of interventions (for example temporarily protecting plants, or removing invasive species and their seeds) for which there is usually no dedicated machine, equipment or other technical solution; practitioners mostly fall back on agricultural machinery, which is not always effective. The innovations must therefore answer \"identified needs for specific ecosystems protection and/or restoration activities\".\nThe tools may serve terrestrial, freshwater and marine ecosystems. The policy driver is the EU Nature Restoration Regulation (the EU law that requires the Member States to restore at least 20% of EU land and 20% of EU sea areas by 2030, and all ecosystems in need of restoration by 2050), together with the EU biodiversity strategy for 2030 and the European Climate Law, which asks for nature-based solutions in national adaptation plans. The need is therefore that of restoration practitioners and the public authorities that must meet these targets.\nThe project must also pay attention to effectiveness, simplicity of use, durability and environmental responsibility, including the risks, trade-offs and unintended consequences of using the new technology.",
+          "sources": "wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf · pp. 79–81 · HORIZON-CL6-2027-01-BIODIV-03, Expected Outcome and Scope"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The project must make ecosystem protection and restoration easier and more effective for those who do it, and improve the conditions to scale up the EU Nature Restoration Regulation.\nThe call sets two expected outcomes, both of which the project must contribute to:\n- protection and restoration work by stakeholders becomes easier and more effective;\n- conditions to scale up the implementation of the EU Nature Restoration Regulation (the EU law setting restoration targets for land and sea) improve, which improves ecosystem services, including for climate mitigation and adaptation.\nThe topic sits under the work programme's \"Biodiversity and ecosystem services\" destination (a group of topics with shared aims). Its expected impacts include innovations, methods and tools that are available and used to protect healthy ecosystems and restore degraded ones, so that ecosystem services, including climate adaptation and mitigation, keep being delivered. The call sets no numerical targets.",
+          "sources": "wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf · pp. 79–80 · HORIZON-CL6-2027-01-BIODIV-03, Expected Outcome\nwp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf · pp. 46–47 · Destination - Biodiversity and ecosystem services, Expected impact"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "A consortium of at least three independent organisations from three different EU or associated countries, and the call says the topic is particularly relevant for SMEs (small and medium-sized enterprises).\n- Consortium: the standard Horizon Europe rule applies, since the topic sets no other: at least three independent legal entities, each established in a different country, with at least one in an EU Member State and the other two in different Member States or Associated Countries (non-EU countries that take part in Horizon Europe on equal terms).\n- Lead applicant: the topic sets no condition, so any eligible member of the consortium may coordinate.\n- Partner types: the topic names no mandatory partner type, but it stresses SMEs, and the proposal should reserve resources for close cooperation with the European Commission's Knowledge Centre for Biodiversity and its Science Service.\n- Exclusion: organisations established in China may not take part in any Horizon Europe Innovation Action.\n- Distribution of work: the topic sets no rule on how work or budget must be shared.\nThe call suits best SMEs and equipment makers that build machines, sensors or digital tools, working with restoration practitioners, nature managers and research institutes that can test the tools in real ecosystems, including marine ones.",
+          "sources": "wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf · pp. 79–81 · HORIZON-CL6-2027-01-BIODIV-03, Specific conditions and Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 13 · B — Eligibility, Consortium composition\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 6 · B — Eligibility, Restrictions on the participation of legal entities established in China"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": "The project must develop new or adapted technical tools; adapting existing machinery or combining existing technologies is explicitly allowed.\nThe call lists \"new or adapted machines, low techs, digital innovations or combinations of them\". The innovation is therefore mainly in technology and equipment for practical restoration work, not in governance or market arrangements. It must be fit for practical use: the call asks for attention to effectiveness, simplicity of use, durability and environmental sustainability, and for alertness to risks and unintended consequences of the new technology. As an Innovation Action (a Horizon Europe project type for developing and testing new or improved products close to the market), it should go beyond the state of the art, which is one of the award criteria.",
+          "sources": "wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf · pp. 80–81 · HORIZON-CL6-2027-01-BIODIV-03, Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 23 · D — Award criteria"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "Projects must reach TRL 6–7 by the end of the project; the call sets no starting level.\nTRL 6 means the technology is demonstrated in a relevant environment, and TRL 7 means a system prototype is demonstrated in an operational environment, so the tools should be tested in real or realistic restoration settings by the end of the project.",
+          "sources": "wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf · p. 79 · HORIZON-CL6-2027-01-BIODIV-03, Specific conditions, Technology Readiness Level\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 15 · B — Technology readiness levels"
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": "The tools must be designed, developed and tested for specific protection or restoration activities, and reach demonstration in a relevant or operational environment (TRL 6–7).\nThe call does not name a test site type, but TRL 6–7 implies testing in real or realistic ecosystems, which may be terrestrial, freshwater or marine. The call does not require the work to form one integrated system: an innovation may be a single machine, a low-tech device, a digital tool or a combination. It must fit existing restoration practice, as it is meant to replace or improve the agricultural machinery practitioners now use, and the project should cooperate closely with the European Commission's Knowledge Centre for Biodiversity and its Science Service.",
+          "sources": "wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf · pp. 79–81 · HORIZON-CL6-2027-01-BIODIV-03, Specific conditions and Scope"
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "The call could produce better tools for the nature restoration and compensation that accompany TenneT's offshore cable routes, platforms and onshore grid works.\nIn our interpretation, marine and terrestrial restoration machines or digital tools could support the ecological side of TenneT's work, for example restoring seabed habitats after cable laying or managing nature around new substations. This is the same field as TenneT's work on the ecological impact of subsea cables and on nature-inclusive grid development with the Renewables Grid Initiative. Tools that make restoration cheaper and more reliable could help permitting and public acceptance of grid projects.\nTenneT cannot take part in a meaningful way: the topic addresses ecosystem restoration practitioners and SMEs, and does not set out a role for an electricity grid operator. TenneT could pass the call on to suppliers, ecological consultancies and research institutes it works with on offshore ecology.",
+          "sources": "wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf · pp. 79–81 · HORIZON-CL6-2027-01-BIODIV-03, Scope"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "Around EUR 7 million of EU funding per project is expected, from a topic budget of EUR 14 million for about two projects.\n- Grant request: around EUR 7 million per project, as the Commission's estimate; proposals may request a different amount.\n- Total project size: the call sets no limit. At the 70% Innovation Action rate, a EUR 7 million grant corresponds to total eligible costs of about EUR 10 million for a consortium of companies; this is our calculation.\n- Funding form: lump sum (a fixed amount paid against completed work, not against reported actual costs), under the Commission decision of 7 July 2021. Purchases of equipment, infrastructure or other assets for the action may be declared as full capitalised costs.",
+          "sources": "wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf · pp. 34, 79–80 · Call 01 budget table; HORIZON-CL6-2027-01-BIODIV-03, Specific conditions\nFunding & Tenders Portal topic page HORIZON-CL6-2027-01-BIODIV-03 · Budget overview"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "The grant covers up to 70% of eligible costs, or up to 100% for non-profit organisations.\n- Companies, including SMEs: up to 70%; at least 30% of their costs must be covered by their own resources.\n- Non-profit organisations (such as universities and most research institutes): up to 100%.\nFor a lump-sum grant the funding rate is already built into the fixed amounts, so it is not shown in the grant agreement.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 31–32 · G — Legal and financial set-up, Form of grant, funding rate and maximum grant amount"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: a full proposal by 22 September 2027, submitted online through the EU Funding & Tenders Portal.\n- Stage 1 — Full proposal: opens 20 April 2027; deadline 22 September 2027, 17:00 Brussels time. Submitted by the consortium in the Portal's electronic submission system, using the forms there; for lump-sum Innovation Actions the limit is 45 pages.",
+          "sources": "Funding & Tenders Portal topic page HORIZON-CL6-2027-01-BIODIV-03 · General information\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 4 · A — Admissibility, Page limits"
+        },
+        {
+          "title": "Project window",
+          "answer": "The call sets no project duration or start date; both are fixed in the grant agreement.\n- Required start: normally after the grant agreement is signed; an earlier start is possible only exceptionally and for justified reasons.\n- Maximum duration: not set by the call; the duration is agreed in months in the grant agreement.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 30–31 · G — Legal and financial set-up, Starting date & project duration"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Applicants should hear the outcome about 5 months after the deadline and sign the grant agreement about 8 months after it; both dates are indicative.\n- Expected assessment result: around 5 months after the 22 September 2027 deadline, so around February 2028 (indicative).\n- Grant agreement: signature around 8 months after the deadline, so around May 2028 (indicative).\n- Conditions before starting: invitation to grant preparation is not a commitment to fund; legal entity validation, financial capacity checks and exclusion checks must be completed first.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 29–30 · F — Evaluation, Indicative timetable for evaluation and for signature of the grant agreement"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "The proposal must be complete, submitted in the Portal's own forms before the deadline, and within the page limit.\n- Application form: the standard Horizon Europe Research and Innovation Action and Innovation Action form in the Portal's submission system; Part B limited to 45 pages for lump-sum Innovation Actions.\n- Budget: a detailed lump-sum budget table (the template in which the consortium breaks down the fixed amounts it requests).\n- Mandatory content: a plan for exploitation and dissemination of results, including communication activities.",
+          "sources": "Funding & Tenders Portal topic page HORIZON-CL6-2027-01-BIODIV-03 · Conditions and documents\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 4 · A — Admissibility conditions and Page limits"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Proposals are scored on excellence, impact and implementation, each out of 5, and ranked with impact weighted 1.5.\n- Evaluation criteria: excellence (ambition beyond the state of the art and soundness of the method), impact (credible pathways to the expected outcomes and quality of the exploitation and dissemination plan), and quality and efficiency of the implementation (work plan, resources and the consortium's capacity).\n- Thresholds: at least 3 out of 5 per criterion and at least 10 out of 15 overall.\n- Weighting: for ranking Innovation Actions, the impact score counts 1.5 times.\n- Ranking rules: ties are broken first by coverage of aspects of the call not covered by higher-ranked proposals, then by the impact score, then by the excellence score, then by gender balance and geographical diversity.\n- Budget assessment: evaluators comment on the lump-sum budget table, and proposals may be rejected in part for significant over- or underestimation of costs.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 23–26 · D — Award criteria, Scores and weighting\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 28 · F — Evaluation procedure"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Two call-specific conditions apply: organisations established in China are excluded, and proposals should budget for cooperation with the Commission's biodiversity knowledge centre.\n- Exception — organisations established in China: they may not take part in any Horizon Europe Innovation Action.\n- Recommended — Knowledge Centre for Biodiversity: proposals should foresee resources for close cooperation with the European Commission's Knowledge Centre for Biodiversity and its Science Service.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 6 · B — Eligibility, Restrictions on the participation of legal entities established in China\nwp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf · p. 81 · HORIZON-CL6-2027-01-BIODIV-03, Scope"
+        }
+      ]
+    }
+  ]
+}
