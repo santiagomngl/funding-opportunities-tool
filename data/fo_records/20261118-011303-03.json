@@ -1,0 +1,38 @@
+{
+  "id": "20261118-011303-03",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-CL3-2027-02-CS-ECCC-03 Secure PQC implementations, Cryptanalysis and Post-quantum Digital Trust – Horizon Europe",
+  "organization_or_parent_framework": "European Cybersecurity Competence Centre (ECCC)",
+  "programme": "Horizon Europe",
+  "call_title": "Indirectly Managed Action by the ECCC (2027) (HORIZON-CL3-2027-02-CS-ECCC)",
+  "call_module_title": "HORIZON-CL3-2027-02-CS-ECCC-03 Secure PQC implementations, Cryptanalysis and Post-quantum Digital Trust",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL3-2027-02-CS-ECCC-03",
+  "executive_summary": "Funds Research and Innovation Actions on post-quantum cryptography (PQC: encryption and signatures designed to resist attacks by quantum computers): implementations that withstand side-channel and fault attacks and automated tools to evaluate them, analysis of how hard the underlying mathematical problems are for quantum and AI-supported attacks, and new post-quantum schemes and protocols for digital identity, privacy-friendly services and digital trust. Proposals must address one of three technology areas. Open to consortia of at least three independent legal entities from three different EU Member States or Horizon Europe associated countries; participation is limited to entities established in those countries and not controlled from outside them, and entities established in China are excluded. Paid as a lump sum at up to 100% of costs; indicative topic budget EUR 19 million, with an estimated EU contribution of EUR 3–4 million per project for 4–5 projects. Call run by the ECCC under Horizon Europe Cluster 3; planned opening 2 March 2027, single-stage deadline 15 September 2027 at 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-09-15",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "Horizon Europe Work Programme 2026–2027 Part 6, pp. 169–171 (HORIZON-CL3-2027-02-CS-ECCC-03, Expected Outcome and Scope), funds cryptographic research on secure post-quantum implementations, quantum cryptanalysis and post-quantum schemes for digital identity and trust. It touches TenneT's field only indirectly: the migration of grid control, protection and data-exchange communication to quantum-safe cryptography will depend on such implementations, but the topic names no energy or operational-technology application and no project file is close (TwinEU and SylWin1 HVDC retrofit share only the cybersecurity aim). Although any eligible legal entity may join (p. 169, Eligibility conditions), the three technology areas are research on algorithms, attacks and protocols with no use case, demonstration or user role, so the call sets out no route for a grid operator and Type 3 applies (our interpretation). C3.4 fits because TenneT would benefit only through enabling cybersecurity technology later applied to energy. Both project dates are null because the call states no start, end or duration.",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.4"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T1",
+      "T8"
+    ],
+    "role": [],
+    "activity": [
+      "A2",
+      "A6"
+    ],
+    "outcome": [
+      "O2"
+    ]
+  }
+}

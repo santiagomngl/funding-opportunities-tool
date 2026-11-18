@@ -1,0 +1,42 @@
+{
+  "id": "20261118-011303-05",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "CIPHER Open Call #1 – CIPHER",
+  "organization_or_parent_framework": "Digital Europe Programme",
+  "programme": "CIPHER",
+  "call_title": "CIPHER Open Call #1",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://cipher-eu.com/open-call-1/",
+  "executive_summary": "Cascade call issued by the CIPHER project (Cybersecurity Intelligence, Protection, and Holistic Enterprise Resilience), funded by the Digital Europe Programme through the European Cybersecurity Competence Centre. It funds 9-month projects in which startups, SMEs, mid-caps, research organisations or universities from EU Member States or EEA countries, alone or in consortia of up to 3 partners (a technology provider and an end user or technology adopter, such as an infrastructure operator, plus an optional certified auditor), test, validate or extend CIPHER's cybersecurity testing facility and cyber range for critical infrastructure, with operational technology in sectors such as energy prioritised. Applicants choose one of six challenges: NIS2 compliance gap assessment, OT penetration-testing methodology, vulnerability-management validation, XDR (extended detection and response) onboarding and data collection, domain cyber-range contribution, or DevSecOps automation. Each project may receive up to EUR 60,000, which must be 50% of eligible costs, paid as three milestone-based lump sums; total cascade budget EUR 4.32 million. Opened 26 October 2026; single deadline 6 January 2027 at 17:00 CET; the programme runs from April to December 2027.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-01-06",
+  "earliest_project_start_date": "2027-04-01",
+  "project_end_date": "2027-12-31",
+  "minimum_project_size": null,
+  "maximum_project_size": 120000,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "The CIPHER Open Call #1 Guide for Applicants (2 and 3.2, pp. 4–9) funds third parties to test and validate CIPHER's cybersecurity testing facility and cyber range for critical-infrastructure operational technology, against NIS2 risk-management measures, with energy among the prioritised sectors (4.3.1, Sub-criterion 2.2). This is close to SylWin1 HVDC retrofit (operational-technology security) and TwinEU (grid cybersecurity), though CIPHER validates a shared testing platform rather than securing TenneT's own assets. The eligible applicants are startups, SMEs, mid-caps, research organisations and universities (3.1.1, p. 5), yet the mandatory End-User / Technology Adopter role names infrastructure operators, so TenneT could validate a provider's work in its own representative environment (for example in Challenge T2) but it is unclear whether a large enterprise could receive the grant: Type 2. C2.2 fits because TenneT would act as end user or provider of a test environment in a project led by a technology provider.",
+  "call_type": "Type 2",
+  "category_codes": [
+    "C2.2"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T1",
+      "T8"
+    ],
+    "role": [
+      "R9",
+      "R10"
+    ],
+    "activity": [
+      "A7",
+      "A8"
+    ],
+    "outcome": [
+      "O2",
+      "O13"
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "A large-scale pilot that deploys the O-CEI Cloud-Edge-IoT platform on the consortium's own infrastructure to solve a real energy-related problem.\nO-CEI (Open CloudEdgeIoT Platform Uptake in Large Scale Cross-Domain Pilots) is a Horizon Europe project that has built an open platform to run and coordinate software across field devices, local (edge) servers and the cloud. Each Uptake Project (the name for projects funded by this call) must copy the O-CEI method end to end: write a Blueprint (a one-page statement of an energy-related target and how Cloud-Edge-IoT technology reaches it), design a Layout (where each function runs), and then build and operate the resulting solution through the O-CEI platform.",
+          "sources": "O-CEI 2nd Open Call Guide for Applicants (v5) · pp. 4–5 · 1 Open call basic conditions, Project scope\nO-CEI 2nd Open Call Technical Guidelines (v4) · pp. 3–4, 7 · 1 O-CEI in a nutshell; 2.1 Uptake project"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Every project must address one of four challenges, and energy flexibility must be central to the use case.\n- Challenge 1, Energy blackout: keep a stable and resilient power grid during an electricity blackout, for example through predictive monitoring, early warning, autonomous edge operation, load prioritisation, coordination of distributed energy resources or service restoration\n- Challenge 2, Logistics supply-chain disruption: keep logistics chains operating during disruption, including through energy flexibility\n- Challenge 3, Distributed ledger technologies: include a ledger component (a shared tamper-evident record) and show market acceptance, for example in energy sharing, flexibility-service settlement or battery traceability\n- Challenge 4, Virtualisation and home energy management systems: use open-source virtualisation (running device functions as software on standard hardware) to strengthen sovereignty, cybersecurity and resilience of energy infrastructure such as substations, EV charging and home energy management\nUse cases may extend O-CEI's six current sectors (energy, automotive, logistics, telecommunications, urban, agrifood) or open new ones; new sectors win ties. Energy flexibility means changing electricity production, storage or consumption in response to a signal such as a tariff, market signal or grid request.",
+          "sources": "O-CEI 2nd Open Call Guide for Applicants (v5) · pp. 4–5 · 1 Open call basic conditions, Project scope and Challenges\nO-CEI 2nd Open Call Technical Guidelines (v4) · pp. 3, 7–9 · 1 O-CEI in a nutshell; 2.2 The challenges to be addressed"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The pilot must target a real problem in a specific field, with a value chain covered by the two partners.\nThe need lies with operators of energy-dependent services and infrastructure. For the blackout challenge, the call cites the Iberian blackout of 28 April 2025 and the Berlin outage of 3 January 2026 and asks for use cases where power disruptions pose real operational risks. For the virtualisation challenge, it cites dependence on foreign suppliers in critical energy infrastructure, such as concerns about communication devices in inverters. The proposal must reason why the problem is real and why the pilot is large-scale.",
+          "sources": "O-CEI 2nd Open Call Guide for Applicants (v5) · p. 8 · 2.3 Selection Committee analysis\nO-CEI 2nd Open Call Technical Guidelines (v4) · pp. 7–9 · 2.2.1 and 2.2.4"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "A Blueprint, a Layout, a deployed and validated solution on the O-CEI platform, a benchmark and feedback to O-CEI.\n- Blueprint one-pager and Layout made with O-CEI's LayoutStudio tool, submitted with the application (Challenge 3 follows an existing Blueprint instead)\n- at least one Edge-Cloud orchestrator (software that deploys and manages applications across the project's nodes) from O-CEI, such as aerOS, Nuvla or ICOS, or the consortium's own\n- a Blueprint Product composed and deployed through the O-CEI platform on the consortium's own infrastructure\n- a cross-domain exchange of data, models, software or knowledge with at least one O-CEI pilot\n- a benchmark performance exercise against a baseline, and a task for feedback on the platform\n- stage reports: a project design report and Individual Mentoring Plan, an integration report and a validation report",
+          "sources": "O-CEI 2nd Open Call Guide for Applicants (v5) · p. 8 · 2.3 Selection Committee analysis\nO-CEI 2nd Open Call Guide for Applicants (v5) · p. 12 · 3.1 Payment conditions\nO-CEI 2nd Open Call Technical Guidelines (v4) · pp. 10–11 · 2.4 Technical expectations of an uptake project application"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The pilot must show wide impact at a relevant scale and quantify the energy-flexibility benefit for the community it serves.\nApplicants must explain the energy implications of their solution, what it provides to the community and how its impact is quantified. Evaluators assess the contribution to environmental, social and economic impacts, the Green Deal and other European policies, and the scalability of the solution to a structural problem in its sector. For the blackout challenge, the aim is to maintain critical operations, reduce disruption or speed up recovery. No numeric targets are set.",
+          "sources": "O-CEI 2nd Open Call Technical Guidelines (v4) · pp. 8, 10 · 2.2.1 Challenge 1; 2.4 Technical expectations\nO-CEI 2nd Open Call Guide for Applicants (v5) · p. 9 · 2.4 External evaluation, Impact"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "The result should be replicable and marketable: the call asks for a market analysis, and validated results may be published for reuse in the O-CEI Marketplace.\nUptake Projects must focus on replicability of the O-CEI method. The application must include a preliminary market analysis with a feasibility assessment for exploiting the result, and evaluators score commercial strategy and scalability. Where applicable, a validated result can be offered in the O-CEI Marketplace so that other organisations can adopt it. Consortia keep their intellectual property. Consortia must report to O-CEI what worked and what blocked progress. The call does not require anyone to operate the solution after the 11 months.",
+          "sources": "O-CEI 2nd Open Call Guide for Applicants (v5) · pp. 4, 8–9 · 1 Project scope; 2.3; 2.4 Impact\nO-CEI 2nd Open Call Guide for Applicants (v5) · p. 16 · 5 Final provisions\nO-CEI 2nd Open Call Technical Guidelines (v4) · pp. 4, 6, 11 · 1.1 Blueprint lifecycle; 1.2 O-CEI Platform; 2.4"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "Exactly two organisations, in practice: the consortium may have up to two entities and must contain a technology or service provider and an end user.\nThe two partners may not be linked to each other by capital.",
+          "sources": "O-CEI 2nd Open Call Guide for Applicants (v5) · p. 4 · 1 Open call basic conditions, Who can apply\nO-CEI 2nd Open Call Technical Guidelines (v4) · p. 7 · 2.1 Uptake project"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "An SME technology or service provider plus an end user of any legal type, both from an EU Member State, an overseas territory or a Horizon Europe associated country.\nThe provider must be an SME (fewer than 250 staff and turnover of at most EUR 50 million or balance sheet of at most EUR 43 million), startups included. The end user can be any type of legal entity. Every entity must be legally registered before the call opened, must not be under EU restrictive measures, in liquidation or excluded from EU funding, and must not be an O-CEI partner, affiliate or employee. Public bodies, universities and research organisations must have a gender equality plan.",
+          "sources": "O-CEI 2nd Open Call Guide for Applicants (v5) · pp. 4–6 · 1 Open call basic conditions, Who can apply and Ground rules\nO-CEI 2nd Open Call Guide for Applicants (v5) · p. 17 · 6 Glossary, SME"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "The two partners decide how to share the EUR 200,000; their roles must be complementary and together cover the value chain.\nThe application must justify each partner's role. The budget estimation is for evaluation only, as the grant is a fixed lump sum.",
+          "sources": "O-CEI 2nd Open Call Guide for Applicants (v5) · pp. 4, 8–9 · 1 Maximum grant amount; 2.3; 2.4 Implementation, Resources\nO-CEI 2nd Open Call Technical Guidelines (v4) · p. 10 · 2.4"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "Either partner may coordinate; the consortium nominates the coordinator, who submits the proposal.",
+          "sources": "O-CEI 2nd Open Call Guide for Applicants (v5) · p. 4 · 1 Open call basic conditions, How to apply"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "Yes: TenneT TSO B.V. could be the end user and also the coordinator, provided it is not an O-CEI partner or affiliate.\nThe end user may be any type of legal entity located in an EU Member State, and the call lets the consortium nominate either partner as coordinator. TenneT's partner would have to be an SME technology or service provider not linked to TenneT by capital. An entity may submit at most two proposals, each from a different team.",
+          "sources": "O-CEI 2nd Open Call Guide for Applicants (v5) · p. 4 · 1 Open call basic conditions, How to apply, Who can apply and Additional conditions"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "No unfunded role is foreseen: the call funds two-entity consortia and sets no route for associated or self-financed partners.\nOther organisations could at most support a pilot outside the funded consortium; the call does not describe such a role.",
+          "sources": "O-CEI 2nd Open Call Guide for Applicants (v5) · p. 4 · 1 Open call basic conditions, Who can apply"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Yes: as the end user TenneT would share a fixed lump sum of EUR 200,000 with its SME partner; no Dutch rules apply.\nThe grant is a type 1a lump sum (a fixed amount paid when agreed results are delivered, without proof of costs). The call states no funding rate and no own-contribution rule, so the share TenneT receives depends on what the two partners agree in the budget estimation. Payment comes in three instalments after each stage is approved, and the project's real costs above the lump sum stay with the partners.",
+          "sources": "O-CEI 2nd Open Call Guide for Applicants (v5) · pp. 4, 9 · 1 Maximum grant amount; 2.4 Implementation, Resources\nO-CEI 2nd Open Call Guide for Applicants (v5) · p. 12 · 3.1 Payment conditions; 3.2 Progress evaluation"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT could bring the grid use case: data, edge infrastructure and operational know-how for a blackout-resilience or substation-virtualisation pilot.\nThis is our interpretation, based on Challenge 1 (keeping the grid stable during and after blackouts) and Challenge 4 (open-source virtualisation of substations), and on TenneT's work on grid resilience in TwinEU and the Digital Twin Programme and on flexibility in DataFleX. TenneT could provide representative grid and flexibility data, a non-production edge and cloud environment, restoration and load-prioritisation scenarios, and validation by control-room experts, while an SME provides the software. The call requires the data and own Cloud-Edge-IoT infrastructure to exist and be available before the project starts, and the small, fixed grant means TenneT would carry most of its own effort.",
+          "sources": "O-CEI 2nd Open Call Technical Guidelines (v4) · pp. 7–10 · 2.2.1, 2.2.4 and 2.4\nO-CEI 2nd Open Call Guide for Applicants (v5) · p. 8 · 2.3 Selection Committee analysis"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The project mainly applies and adopts O-CEI's existing technology, but evaluators still expect work beyond the state of the art.\nUptake Projects must focus on replicating the O-CEI method and adopting its technologies fully. The Excellence criterion assesses ambition beyond the state of the art and the level of innovation in the applicants' market.",
+          "sources": "O-CEI 2nd Open Call Guide for Applicants (v5) · pp. 4, 9 · 1 Project scope; 2.4 Excellence"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Technology and system architecture: a distributed Cloud-Edge-IoT solution for an energy-flexibility use case, plus a business case for it.\nDepending on the challenge, this may include edge-based monitoring and control, distributed ledgers, open-source virtualisation stacks, federated learning or data-space connectors. Evaluators also look at new products, services or business models.",
+          "sources": "O-CEI 2nd Open Call Technical Guidelines (v4) · pp. 6–11 · 1.2 O-CEI Platform; 2.2; 2.4\nO-CEI 2nd Open Call Guide for Applicants (v5) · p. 9 · 2.4 Excellence"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Design, implementation and demonstration, in three stages over 11 months.\n- Stage 1, Requirements and design (month 1)\n- Stage 2, Implementation (months 2–7)\n- Stage 3, Demonstration (months 8–11)\nThe proposal covers the Blueprint, Context and Layout; the funded project then builds and runs the solution.",
+          "sources": "O-CEI 2nd Open Call Guide for Applicants (v5) · pp. 5, 12 · 1 Support programme; 3.1 Payment conditions\nO-CEI 2nd Open Call Technical Guidelines (v4) · p. 7 · 2.1 Uptake project"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "The call sets no Technology Readiness Level, but requires a large-scale pilot on existing, available infrastructure and data.\nThe consortium's own Cloud-Edge-IoT infrastructure, equipment and data must exist before the project starts.",
+          "sources": "O-CEI 2nd Open Call Guide for Applicants (v5) · p. 8 · 2.3 Selection Committee analysis\nO-CEI 2nd Open Call Technical Guidelines (v4) · p. 10 · 2.4"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "In a large-scale pilot on the consortium's own devices, edge and cloud nodes, in a real environment.\nThe application must describe the pilot premises and conditions: domain, location and actors, data sources, available infrastructure and regulatory aspects. The solution is deployed and operated on the pilot's own infrastructure through the O-CEI platform.",
+          "sources": "O-CEI 2nd Open Call Technical Guidelines (v4) · pp. 4, 10, 13 · 1.1 Blueprint lifecycle; 2.4; 3 Devising a Blueprint and defining the context\nO-CEI 2nd Open Call Guide for Applicants (v5) · p. 8 · 2.3"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The work must form one solution run through the O-CEI platform and exchange data or knowledge with at least one O-CEI pilot.\nThe O-CEI platform does not replace local systems: the project keeps its own orchestrator, devices, data sources and existing systems, and the platform deploys and monitors the solution on top of them. Each organisation keeps control over its own data.",
+          "sources": "O-CEI 2nd Open Call Technical Guidelines (v4) · pp. 5–6, 11 · 1.2 O-CEI Platform; 2.4"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "A benchmark against a baseline, with indicators, method and timing, plus KPIs agreed in month 1.\nStage reviews weigh technical and business KPIs at 60% of the score; a project must score at least 7 out of 10 at each review to continue and be paid.",
+          "sources": "O-CEI 2nd Open Call Technical Guidelines (v4) · p. 11 · 2.4\nO-CEI 2nd Open Call Guide for Applicants (v5) · pp. 12–13 · 3.2 Progress evaluation"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "The end user is one of the two funded partners and shares responsibility for the pilot.\nThe call does not prescribe further user involvement in requirements or testing beyond the end user's role in the value chain.",
+          "sources": "O-CEI 2nd Open Call Guide for Applicants (v5) · pp. 4, 8 · 1 Who can apply; 2.3"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "No call-specific security rules are set beyond the platform's own security and data-sovereignty design.\nChallenge 4 explicitly targets cybersecurity and resilience of energy infrastructure. Each organisation keeps control over its data and workloads, and the platform includes security and trust modules on both the shared and project side.",
+          "sources": "O-CEI 2nd Open Call Technical Guidelines (v4) · pp. 5, 9 · 1.2 O-CEI Platform; 2.2.4"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "A fixed lump sum of EUR 200,000 per project, shared by the two partners, from a total of EUR 1.6 million for up to 8 projects.\n- Grant request: EUR 200,000 per project, fixed\n- Funding form: lump sum of type 1a (a fixed amount paid against approved results; no proof of costs)",
+          "sources": "O-CEI 2nd Open Call Guide for Applicants (v5) · pp. 4–5, 9 · 1 Maximum grant amount and Number of grants; 2.4 Resources"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "The call sets no funding rate: the grant is a fixed EUR 200,000, whatever the project's real costs.\nThe budget estimation, including the cost of the kick-off meeting, serves only for evaluation. Any costs above the lump sum are borne by the partners.",
+          "sources": "O-CEI 2nd Open Call Guide for Applicants (v5) · p. 9 · 2.4 Implementation, Resources"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "Payment follows the stages: up to EUR 15,000 after month 1, up to EUR 100,000 after implementation and up to EUR 85,000 after the demonstration.\n- Payment model: instalments after Stage 1 (month 1), Stage 2 (months 2–7) and Stage 3 (months 8–11)\n- Financial reporting or audit: no proof of expenditure; progress is reviewed on deliverables quality, KPIs and deadlines, and a score below 7 out of 10 ends participation",
+          "sources": "O-CEI 2nd Open Call Guide for Applicants (v5) · pp. 12–13 · 3.1 Payment conditions; 3.2 Progress evaluation"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: an online application by 14 January 2027, 17:00 Brussels time, submitted by the coordinator on the O-CEI call microsite.\n- Stage 1 — Full proposal: 14 January 2027, 17:00 Brussels time, in English, with the Blueprint and Layout from LayoutStudio, the budget estimation and a preliminary market analysis; it can be edited until the deadline\n- Additional procedure: webinars on 9 November and 11 December 2026; selected applicants may be invited to interviews",
+          "sources": "O-CEI 2nd Open Call Guide for Applicants (v5) · pp. 1, 4, 8, 11, 14 · 1; 2.3; 2.6; 4 Contact information\nO-CEI 2nd Open Call page (getonepass.eu) · Applications"
+        },
+        {
+          "title": "Project window",
+          "answer": "11 months, expected to start on 1 May 2027.\n- Maximum duration: 11 months\n- Required start: expected 1 May 2027; the on-site kick-off in Valencia in month 1 (May 2027) is mandatory\n- Completion deadline: the support programme would end around March 2028; a feedback webinar is foreseen around March 2028 (to be confirmed)",
+          "sources": "O-CEI 2nd Open Call Guide for Applicants (v5) · pp. 4, 6, 8, 11 · 1 Duration; Ground rule 12; 2.3; 2.6\nO-CEI 2nd Open Call Technical Guidelines (v4) · p. 7 · 2.1 Uptake project"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Results follow the consensus meeting; the sub-grant agreement is to be signed in spring 2027.\n- Funding decision: by the Selection Committee after the consensus meeting, by consensus or a two-thirds majority\n- Grant agreement: sub-grant agreement with the O-CEI consortium in spring 2027 (indicative), under Spanish law\n- Conditions before starting: a formal check of legal status, ownership, tax ID, financial statements and bank details, with documents due by a set deadline",
+          "sources": "O-CEI 2nd Open Call Guide for Applicants (v5) · pp. 11, 16 · 2.5 Consensus meeting; 2.6 Formal check & agreement signature; 5 Final provisions"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "A complete English online application with a Blueprint, a Layout, a budget estimation and a market analysis.\n- Application form: online form on the O-CEI microsite, all mandatory sections in English\n- Budget: a budget estimation, including the kick-off meeting costs, for evaluation only\n- Mandatory annexes: Blueprint one-pager and Layout made with LayoutStudio; preliminary market analysis with a feasibility assessment\n- Partner documents: at contracting, company registration, tax ID, ownership structure, financial statements and bank form",
+          "sources": "O-CEI 2nd Open Call Guide for Applicants (v5) · pp. 4–5, 8–9, 11 · 1 How to apply and Ground rules; 2.3; 2.4; 2.6"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "After eligibility and scope checks, two external experts score Excellence, Impact and Implementation out of 5 each; at least 3 per criterion and 10 overall.\n- Evaluation criteria: Excellence (ambition, innovation, methodology); Impact (market opportunity, competition, commercial strategy and scalability, environmental and social impact); Implementation (work plan, team, resources)\n- Thresholds: 3 out of 5 per criterion and 10 out of 15 overall; before that, a yes/no scope screening checks fit with a challenge, track record or open-source community link, and European dimension\n- Ranking rules: at least 1 and at most 3 projects per challenge; ties go first to new sectors, then to the higher Impact score, gender balance and widening countries\n- Budget assessment: not applicable, as the grant is fixed",
+          "sources": "O-CEI 2nd Open Call Guide for Applicants (v5) · pp. 7–11 · 2.2 In/out scope screening; 2.3; 2.4 External evaluation; 2.5"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Selected projects must attend the kick-off in Valencia and pass each stage review to be paid.\n- Conditional — selection: the kick-off meeting in Valencia in May 2027 is mandatory\n- Conditional — stage review: a score below 7 out of 10 at any stage ends participation and further payments\n- Exception — public bodies, universities and research organisations: must have a gender equality plan\n- Recommended: link to an EU open-source community such as LF Energy, as one way to pass the scope screening",
+          "sources": "O-CEI 2nd Open Call Guide for Applicants (v5) · pp. 6–7, 12–13 · Ground rules 11–12; 2.2; 3.2"
+        }
+      ]
+    }
+  ]
+}

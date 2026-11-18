@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "Research on post-quantum cryptography: attack-resistant implementations, analysis of quantum attacks, and new schemes for digital identity and trust.\nPost-quantum cryptography (PQC) is encryption and digital signatures designed to stay secure when large quantum computers exist. Proposals must address one of three technology areas:\n- implementations that resist side-channel and fault attacks (attacks that exploit power use, timing or induced errors of a device), research on new attacks including AI-powered ones, automated security-testing frameworks and better formal verification\n- quantum hardness analysis: how new or improved quantum algorithms, also combined with AI, affect the security of current post-quantum schemes, and design of new schemes or parameters from these results\n- quantum-resistant schemes and protocols for privacy-friendly services, including electronic identities, verification, pseudonymous access and attestation, through new digital signatures and key encapsulation mechanisms (methods to agree secret keys)\nThe need comes from the research community and from users of digital services: current countermeasures are costly in performance, and trust in post-quantum systems must be established before they replace today's cryptography.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 170–171 · HORIZON-CL3-2027-02-CS-ECCC-03, Expected Outcome and Scope"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The results should make post-quantum cryptography practical and trustworthy for Europe's digital services.\nThe expected outcomes are robust PQC implementations with tools and guidelines against implementation attacks, a better understanding of quantum hardness and stronger schemes against quantum and AI-based attacks, and post-quantum protocols for privacy-friendly applications and electronic identities. The wider destination aims at robust digital infrastructures that resist cyberattacks and supports EU laws such as the Cyber Resilience Act and the EU Quantum Strategy. No quantified targets are set.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 170–171 · HORIZON-CL3-2027-02-CS-ECCC-03, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · p. 93 · Destination – Cybersecurity"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "Cryptography research groups, security-evaluation labs and technology companies working on secure hardware, software and digital identity.\nAny beneficiary may coordinate. The consortium needs at least three independent legal entities from three different EU Member States or Horizon Europe associated countries, at least one in a Member State. Participation is limited to entities established in those countries and not controlled from outside them, and entities established in China are excluded. The call sets no quota for organisation types and no rule on how work or budget are split; the lump-sum budget table fixes each partner's share.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · p. 169 · HORIZON-CL3-2027-02-CS-ECCC-03, Specific Conditions, Eligibility conditions\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · p. 93 · Destination – Cybersecurity\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": "The project must create new knowledge: it is a Research and Innovation Action judged on ambition beyond the state of the art.\nThe innovation lies in technology: cryptographic schemes and protocols, countermeasures against implementation attacks, testing frameworks and formal verification methods. Existing schemes may be used in new protocols for digital identity and trust.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 170–171 · HORIZON-CL3-2027-02-CS-ECCC-03, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 23 · D — Award criteria"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "The call sets no Technology Readiness Level (TRL, a 1–9 scale of maturity).\nAs a Research and Innovation Action, the work normally ends with a prototype validated in a laboratory or simulated environment.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · p. 169 · HORIZON-CL3-2027-02-CS-ECCC-03, Specific Conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 14 · Eligible activities"
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": "No demonstration is required; the work is research, testing and validation in laboratory or simulated settings.\nThe third technology area asks for protocols for real-world scenarios, but the call does not require real operational conditions, a living lab or integration with existing infrastructure.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 170–171 · HORIZON-CL3-2027-02-CS-ECCC-03, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 14 · Eligible activities"
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "TenneT will need quantum-safe cryptography to protect grid control, protection and data-exchange links; this call funds the research such solutions will rest on.\nThis is our interpretation. The topic does not mention energy, but robust and side-channel-resistant post-quantum implementations and testing tools are what suppliers of substation, control-room and communication equipment will need when migrating to quantum-safe security, in line with TenneT's work on operational-technology security in the SylWin1 HVDC retrofit and on grid cybersecurity in TwinEU. TenneT cannot realistically take part: although any eligible organisation may join, the three technology areas are research on algorithms, attacks and protocols with no use case, demonstration or user role that a grid operator could fill.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 170–171 · HORIZON-CL3-2027-02-CS-ECCC-03, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · p. 169 · HORIZON-CL3-2027-02-CS-ECCC-03, Specific Conditions, Eligibility conditions"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "The Commission estimates an EU contribution of EUR 3–4 million per project, within a topic budget of EUR 19 million for about 4–5 projects.\n- Grant request: EUR 3–4 million per project, shared by all partners; proposals requesting other amounts may still be submitted and selected\n- Funding form: lump sum (a fixed amount agreed in advance for the whole project, paid against completed work rather than against costs)\nThe budgets are indicative and depend on the EU's 2027 budget; final topic budgets may change by up to 20% after evaluation.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 164–165 · Call – Cybersecurity, HORIZON-CL3-2027-02-CS-ECCC, Conditions of the call\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 169–171 · HORIZON-CL3-2027-02-CS-ECCC-03, Specific Conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 29 · F — Procedure, Budget flexibility"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "All participants can receive up to 100% of their eligible costs; no own contribution is required.\nWith a lump sum the rate is already applied when the amount is fixed. The call sets no cash or in-kind co-financing condition.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: a full proposal is due by 15 September 2027 through the EU Funding & Tenders Portal.\n- Stage 1 — Full proposal: 15 September 2027, 17:00 Brussels time. Part A (an online administrative form, including the budget summary) and Part B (the technical description, at most 45 pages for a lump-sum Research and Innovation Action), submitted by the coordinator\n- Opening: 2 March 2027. The ECCC (the European Cybersecurity Competence Centre, the EU body that runs this call for the Commission) may open the call up to one month earlier or later and delay the deadline by up to two months",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · p. 164 · Call – Cybersecurity, HORIZON-CL3-2027-02-CS-ECCC, Conditions of the call and footnote 185\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 4 · A — Admissibility, Page limits\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, Submission"
+        },
+        {
+          "title": "Project window",
+          "answer": "The call states no project duration or start date; the grant agreement fixes both.\n- Maximum duration: not set by the call; the duration is fixed in months in the grant agreement and extended only exceptionally\n- Required start: normally after the grant agreement is signed; an earlier start is possible only exceptionally, for justified reasons and with the granting authority's agreement",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · G — Starting date & project duration"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Indicatively, results come about 5 months after the deadline and grant agreements are signed about 8 months after it.\n- Expected invitation or assessment result: around February 2028 (about 5 months after the deadline; indicative)\n- Grant agreement: around May 2028 (about 8 months after the deadline; indicative)\n- Conditions before starting: an invitation to grant preparation is not yet a funding commitment, since legal entity validation, financial capacity and exclusion checks follow; if classified information is involved, no grant agreement can be signed until at least one beneficiary holds a facility security clearance",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 29 · F — Procedure, No commitment to provide funding\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 17 · Security — EU classified and sensitive information"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Experts score Excellence, Impact and Quality of implementation out of 5 each; a proposal needs at least 3 on each and 10 overall.\n- Evaluation criteria: Excellence (clear objectives, ambition beyond the state of the art, sound methodology); Impact (credible pathway to the topic's expected outcomes, dissemination and exploitation measures); Quality and efficiency of implementation (work plan, risks, resources, and the capacity and role of each partner)\n- Thresholds: 3 out of 5 per criterion and 10 out of 15 overall\n- Ranking rules: proposals above the thresholds are funded in ranking order within the available budget\n- Budget assessment: the lump sum is fixed from the budget table, and the grant may be lower than requested",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria, Scores and weighting\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 31 · Form of grant, funding rate and maximum grant amount"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    }
+  ]
+}

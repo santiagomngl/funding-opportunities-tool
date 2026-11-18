@@ -1,0 +1,47 @@
+{
+  "id": "20261118-011303-04",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "2nd Open Call for Uptake Projects – O-CEI",
+  "organization_or_parent_framework": "Horizon Europe",
+  "programme": "O-CEI",
+  "call_title": "2nd Open Call for Uptake Projects",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://opportunities.getonepass.eu/open-opportunities/o-cei/2nd-opencall",
+  "executive_summary": "Cascade call issued by the O-CEI project (Open CloudEdgeIoT Platform Uptake in Large Scale Cross-Domain Pilots), funded by Horizon Europe. It funds up to 8 Uptake Projects: 11-month large-scale pilots in which a two-entity consortium, an SME technology or service provider plus an end user of any legal type from an EU Member State, overseas territory or Horizon Europe associated country, applies the O-CEI Cloud-Edge-IoT platform and methodology on its own infrastructure, with energy flexibility central to the use case. Each project must address one of four challenges: energy blackout (keeping the power grid stable and resilient during and after blackouts), logistics supply-chain disruption, distributed ledger technologies, or open-source virtualisation and home energy management systems (including substations). Each project receives a fixed lump sum of EUR 200,000 shared by the two partners, from a total of EUR 1.6 million. Submission opened 12 November 2026; deadline 14 January 2027 at 17:00 Brussels time; the support programme is expected to start on 1 May 2027.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-01-14",
+  "earliest_project_start_date": "2027-05-01",
+  "project_end_date": "2028-03-31",
+  "minimum_project_size": null,
+  "maximum_project_size": 200000,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "The O-CEI 2nd Open Call Guide for Applicants (1. Open call basic conditions, pp. 4–5) funds two-entity large-scale pilots that deploy the O-CEI Cloud-Edge-IoT platform, with Challenge #1 on keeping the power grid stable during blackouts and Challenge #4 on open-source virtualisation of critical energy infrastructure such as substations (Technical Guidelines, 2.2, pp. 7–9). This is close to TwinEU and the Digital Twin Programme (grid resilience through data and digital platforms), DataFleX and Grids & Benefits (energy flexibility, which must be central to every use case) and SylWin1 HVDC retrofit (control of operational technology), though O-CEI works at the edge-cloud platform level rather than on transmission assets. The end user may be any type of legal entity from an EU Member State and shares the EUR 200,000 lump sum, so TenneT TSO B.V. could be the funded end user, or coordinator, alongside an SME provider, provided it is not an O-CEI partner or affiliate (Guide for Applicants, p. 4): Type 1 with C1.2 and C1.3. The project end date is derived from the expected start on 1 May 2027 and the 11-month support programme.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.2",
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T1",
+      "T5",
+      "T8"
+    ],
+    "role": [
+      "R1",
+      "R2",
+      "R9"
+    ],
+    "activity": [
+      "A6",
+      "A7",
+      "A10"
+    ],
+    "outcome": [
+      "O9",
+      "O10",
+      "O11"
+    ]
+  }
+}

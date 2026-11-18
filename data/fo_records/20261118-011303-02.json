@@ -1,0 +1,44 @@
+{
+  "id": "20261118-011303-02",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-CL3-2027-02-CS-ECCC-02 Secure Computing Continuum (IoT, Edge, Cloud, Data spaces) – Horizon Europe",
+  "organization_or_parent_framework": "European Cybersecurity Competence Centre (ECCC)",
+  "programme": "Horizon Europe",
+  "call_title": "Indirectly Managed Action by the ECCC (2027) (HORIZON-CL3-2027-02-CS-ECCC)",
+  "call_module_title": "HORIZON-CL3-2027-02-CS-ECCC-02 Secure Computing Continuum (IoT, Edge, Cloud, Data spaces)",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL3-2027-02-CS-ECCC-02",
+  "executive_summary": "Funds Innovation Actions that secure the whole computing continuum, from IoT devices and edge computing to cloud, AI computing environments and data spaces: zero-trust architectures, lightweight and post-quantum cryptography from edge to cloud, interoperable identity and access management across layers, deployable post-quantum cryptography acceleration, and AI-driven anomaly detection and automated response against threats to interconnected infrastructures, with privacy built in. Open to consortia of at least three independent legal entities from three different EU Member States or Horizon Europe associated countries; participation is limited to entities established in those countries and not controlled from outside them, and entities established in China are excluded. Paid as a lump sum at up to 70% of costs for companies (up to 100% for non-profit legal entities); indicative topic budget EUR 24 million, with an estimated EU contribution of EUR 3–4 million per project for 5–6 projects. Call run by the ECCC under Horizon Europe Cluster 3; planned opening 2 March 2027, single-stage deadline 15 September 2027 at 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-09-15",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "Horizon Europe Work Programme 2026–2027 Part 6, pp. 167–169 (HORIZON-CL3-2027-02-CS-ECCC-02, Expected Outcome and Scope), funds Innovation Actions that secure IoT, edge, cloud and data-space environments, including anomaly detection and automated response against threats to interconnected infrastructures. It touches TenneT's field through the security of its distributed sensors, substation and control systems and its data exchange with other system operators, close to TwinEU (data federation, grid cybersecurity) and SylWin1 HVDC retrofit (operational-technology security), although the topic names no energy use case. The eligibility conditions (p. 167) and General Annexes B and G (pp. 11, 13, 31) allow TenneT TSO B.V. to be a funded beneficiary at the Innovation Action rate of 70% for companies, so Type 1 and C1.3 fit. Both project dates are null because the call states no start, end or duration.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T1",
+      "T8"
+    ],
+    "role": [
+      "R2",
+      "R5",
+      "R9"
+    ],
+    "activity": [
+      "A6",
+      "A7",
+      "A8"
+    ],
+    "outcome": [
+      "O2",
+      "O11"
+    ]
+  }
+}

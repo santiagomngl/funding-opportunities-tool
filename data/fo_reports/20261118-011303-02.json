@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "Security solutions that protect data and processes across the computing continuum, from IoT devices and edge computing to cloud, AI computing and data spaces.\nThe computing continuum means devices, local (edge) servers and cloud resources working as one environment. Data spaces are shared, governed environments in which organisations exchange data under agreed rules. The project must deliver tangible and measurable security improvements across all these layers, with privacy built in.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 168–169 · HORIZON-CL3-2027-02-CS-ECCC-02, Expected Outcome and Scope"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Proposals must address one or more of four lines; the topic names no excluded activities.\n- advanced edge-to-cloud security, for example lightweight cryptography (including post-quantum cryptography, which resists attacks by quantum computers), zero-trust architectures (where no device or user is trusted by default) and decentralised security models\n- interoperability of security measures across computing layers: security protocols, identity and access management and cross-domain authentication, including privacy-preserving data exchange\n- portable, deployable acceleration of post-quantum cryptography through combined software and hardware design\n- resilience against distributed cyber threats: AI-driven anomaly detection, intrusion prevention and automated response for interconnected infrastructures and data spaces, using privacy techniques such as federated analysis, secure multi-party computation or fully homomorphic encryption\nProposals should address data integrity, zero trust and protection of sensitive data, and are encouraged to build synergies with Horizon Europe Cluster 4 (digital and industry) projects.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 168–169 · HORIZON-CL3-2027-02-CS-ECCC-02, Expected Outcome and Scope"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The need is that highly distributed, heterogeneous systems are hard to secure end to end without compromising privacy.\nThe call places the need with operators and users of interconnected systems: data integrity in dynamic environments, securing many connected devices and providers, and protecting sensitive data throughout its life in line with the GDPR (the EU data protection law). The wider destination aims at detecting and countering cyber threats, including those targeting critical infrastructure. Grid operators fit this need through their sensors, substation systems and data exchange with other operators, though the topic does not name energy.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 168–169 · HORIZON-CL3-2027-02-CS-ECCC-02, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · p. 93 · Destination – Cybersecurity"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "Deployable security solutions for IoT, edge, cloud and data spaces, with interoperable security controls and anomaly detection.\nThe expected outcomes are:\n- stronger resilience against distributed threats and adversarial attacks on interconnected systems, while preserving data privacy\n- security solutions tailored to distributed computing systems such as IoT and edge environments, with privacy-preserving mechanisms\n- better interoperability of security measures and cross-layer security, including privacy-enhancing technologies that work across layers, data spaces and multiple edge-cloud providers",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 168–169 · HORIZON-CL3-2027-02-CS-ECCC-02, Expected Outcome and Scope"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The results should make interconnected digital infrastructures measurably more secure, scalable and interoperable.\nSolutions should prioritise scalability, interoperability, trustworthiness, security and resilience against emerging threats. The destination links this to robust digital infrastructures able to resist cyberattacks and hybrid threats and to EU laws such as the NIS2 Directive (cybersecurity of essential services, including energy) and the Cyber Resilience Act. No quantified targets are set.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 168–169 · HORIZON-CL3-2027-02-CS-ECCC-02, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · p. 93 · Destination – Cybersecurity"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "Results should be scalable and interoperable across providers, but the call sets no adoption or operating model.\nEvery proposal must include a plan to exploit and disseminate its results, including communication activities, with an exploitation strategy if a product or service is foreseen. As an Innovation Action the work may include large-scale validation and market replication. The call asks for interoperability across computing layers and providers but names no specific standard. Security-sensitive results may face restricted dissemination.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 168–169 · HORIZON-CL3-2027-02-CS-ECCC-02, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 4 · A — Admissibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 14 · Eligible activities, Innovation actions (IA)\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 17 · Security — EU classified and sensitive information"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "At least three independent organisations from three different countries; the call sets no maximum.\nThe general rule requires three legal entities that are independent from each other as beneficiaries (organisations that sign the grant agreement and receive funding), each established in a different country: at least one in an EU Member State and at least two others in different Member States or countries associated with Horizon Europe (non-EU countries that take part in the programme, such as Norway or the United Kingdom). Affiliated entities (organisations linked to a beneficiary, for example a subsidiary) do not count towards this minimum.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "Any mix of organisation types is allowed, but every participant must be established in an EU Member State or associated country and not be controlled from outside them.\nThe topic sets no quota for universities, companies, SMEs or end users. Its eligibility conditions limit participation to legal entities established in EU Member States and Horizon Europe associated countries, and exclude entities established there that are directly or indirectly controlled by another country or by an entity from another country. Legal entities established in China cannot take part in any research or innovation project under this cybersecurity destination. Applicants must therefore check ownership and control of every partner; the topic page lists an Ownership Control Declaration among the call documents.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · p. 167 · HORIZON-CL3-2027-02-CS-ECCC-02, Specific Conditions, Eligibility conditions\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · p. 93 · Destination – Cybersecurity\nFunding & Tenders Portal topic page HORIZON-CL3-2027-02-CS-ECCC-02 · Conditions and documents"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "The call fixes no split of work or budget between partners.\nBecause the grant is a lump sum (a fixed amount agreed in advance for the whole project, paid against completed work rather than against costs), the proposal must include a detailed budget table with the estimated costs per partner and work package. This table is used to fix the lump sum, so the split agreed in the consortium is what each partner will receive.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, Submission\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · p. 167 · HORIZON-CL3-2027-02-CS-ECCC-02, Specific Conditions, Legal and financial set-up"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "Any beneficiary may coordinate; the call reserves the role for no type of organisation.\nThe coordinator submits the proposal and must confirm that it has the mandate to act for all applicants and that all participants meet the conditions for EU funding. The general rules set no further requirement for this role.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, Submission"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "Yes, in principle: TenneT TSO B.V. is established in the Netherlands, an EU Member State, and any beneficiary may coordinate.\nTo take part at all, TenneT must meet the topic's ownership and control condition: it must not be directly or indirectly controlled by a country outside the EU and the associated countries, or by an entity from such a country. As coordinator TenneT would also carry the submission, the mandate from all partners and the project management, and the consortium would still need at least two further independent partners from two other eligible countries.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 11 · B — Eligibility, Entities eligible for funding\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · p. 167 · HORIZON-CL3-2027-02-CS-ECCC-02, Specific Conditions, Eligibility conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, Submission"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes, as an associated partner, which takes part without signing the grant agreement and without charging costs.\nThe general rules allow associated partners unless the topic says otherwise, and this topic does not exclude them. An associated partner bears all its own costs and does not count towards the three independent beneficiaries the consortium needs. TenneT could use this role if it wants to contribute requirements, data or a test environment without the reporting duties of a beneficiary.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 5 · Specific cases, Associated partners\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Yes: as a beneficiary TenneT could receive up to 70% of its eligible costs, built into the project's lump sum, and would fund the rest itself.\nThis topic is an Innovation Action (a project that develops, tests, demonstrates and pilots new or improved products, processes or services). The maximum Horizon Europe rate for such projects is 70%, except for non-profit legal entities, which can receive up to 100%. As a company, TenneT would therefore finance at least 30% of its own costs. With a lump sum the rate is already applied when the amount is fixed and does not appear in the grant agreement. The call refers to no Dutch national rules. TenneT's share would depend on its tasks in the budget table and on the total the consortium requests (the Commission estimates EUR 3–4 million per project).",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 31 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 32 · Lump sum and unit grants\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 11 · B — Eligibility, Entities eligible for funding\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 167–169 · HORIZON-CL3-2027-02-CS-ECCC-02, Specific Conditions"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT could provide an energy use case: securing sensor, substation and control data flows from the field to the cloud and into energy data spaces.\nThis is our interpretation, based on the topic's focus on IoT, edge and data-space security and on TenneT's work on data federation and grid cybersecurity in TwinEU and on operational-technology security in the SylWin1 HVDC retrofit. Concrete contributions could be: requirements for zero-trust access to field devices; a non-production segment to pilot anomaly detection and automated response; and a data-exchange scenario with other system operators to test cross-domain authentication and privacy-preserving analysis. TenneT would pay at least 30% of its own costs.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 168–169 · HORIZON-CL3-2027-02-CS-ECCC-02, Expected Outcome and Scope"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The project may integrate and adapt existing solutions, but must deliver measurable security improvements and go beyond the state of the art.\nInnovation Actions aim directly at plans or designs for new or improved products, processes or services, and the award criteria assess ambition beyond the state of the art.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 14 · Eligible activities, Innovation actions (IA)\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 23 · D — Award criteria\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 168–169 · HORIZON-CL3-2027-02-CS-ECCC-02, Expected Outcome and Scope"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Technology and system architecture: cryptography, zero-trust and decentralised security models, identity management and anomaly detection.\nThe topic also covers combined software-hardware design for post-quantum cryptography acceleration and privacy-enhancing techniques.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 168–169 · HORIZON-CL3-2027-02-CS-ECCC-02, Expected Outcome and Scope"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Prototyping, testing, demonstration and piloting, up to large-scale validation and market replication.\nThese are the activities the general rules describe for Innovation Actions; the topic asks for deployable solutions.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 14 · Eligible activities, Innovation actions (IA)\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 168–169 · HORIZON-CL3-2027-02-CS-ECCC-02, Expected Outcome and Scope"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "The call sets no Technology Readiness Level (TRL, a 1–9 scale of maturity) for the start or end of the project.\nAs an Innovation Action and with its call for deployable solutions, the topic implies work beyond the laboratory, but it states no level.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · p. 167 · HORIZON-CL3-2027-02-CS-ECCC-02, Specific Conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 14 · Eligible activities"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "No setting is prescribed, but solutions must show tangible, measurable security improvements across the continuum.\nThe topic does not require tests under real operational conditions; an Innovation Action may include piloting and large-scale validation.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 168–169 · HORIZON-CL3-2027-02-CS-ECCC-02, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 14 · Eligible activities"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The solutions must work across all layers of the continuum and across providers, rather than securing one layer in isolation.\nThe topic asks for cross-layer security, interoperable identity and access controls across computing ecosystems, and compatibility of privacy-enhancing technologies across layers, data spaces and multiple edge-cloud providers.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 168–169 · HORIZON-CL3-2027-02-CS-ECCC-02, Expected Outcome and Scope"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "Projects must show tangible and measurable security improvements, but the call sets no indicators.\nEvidence should cover scalability, interoperability, trustworthiness, security and resilience against emerging threats.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 168–169 · HORIZON-CL3-2027-02-CS-ECCC-02, Expected Outcome and Scope"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "The call does not require users to take part in defining, designing or testing the solutions.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 168–169 · HORIZON-CL3-2027-02-CS-ECCC-02, Expected Outcome and Scope"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "The topic may involve classified or security-sensitive information, and privacy must be a core element in line with the GDPR.\n- Some activities may use classified background or produce security-sensitive results; such projects go through a security appraisal and may get specific security rules\n- If classified information is involved, at least one beneficiary must hold a facility security clearance before signature, and restricted results are in principle not shared with third parties\n- Data confidentiality must be preserved throughout its lifecycle, in compliance with data protection frameworks such as the GDPR",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 167–168 · HORIZON-CL3-2027-02-CS-ECCC-02, Specific Conditions, Security Sensitive Topics\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 16–17 · Security — EU classified and sensitive information\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 168–169 · HORIZON-CL3-2027-02-CS-ECCC-02, Expected Outcome and Scope"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "The Commission estimates an EU contribution of EUR 3–4 million per project, within a topic budget of EUR 24 million for about 5–6 projects.\n- Grant request: EUR 3–4 million per project, shared by all partners; proposals requesting other amounts may still be submitted and selected\n- Funding form: lump sum (a fixed amount agreed in advance for the whole project, paid against completed work rather than against costs)\nThe budgets are indicative and depend on the EU's 2027 budget; final topic budgets may change by up to 20% after evaluation.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 164–165 · Call – Cybersecurity, HORIZON-CL3-2027-02-CS-ECCC, Conditions of the call\nHorizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 167–169 · HORIZON-CL3-2027-02-CS-ECCC-02, Specific Conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 29 · F — Procedure, Budget flexibility"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "Companies receive up to 70% of their costs and cover the rest themselves; non-profit legal entities can receive up to 100%.\n- Companies and other for-profit organisations: up to 70%, so at least 30% from own resources\n- Non-profit legal entities (such as universities and most research organisations): up to 100%\n- Co-financing conditions: the call sets none beyond the rate; with a lump sum the rate is already applied when the amount is fixed",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "The lump sum rests on a detailed budget table whose costs must meet the normal eligibility rules for EU actual-cost grants; ineligible costs can reduce the grant.\n- Eligible costs: personnel, subcontracting, purchases and, where provided, other categories, as estimated in the budget table\n- Overheads and VAT: indirect costs are normally a flat 25% of eligible direct costs, excluding subcontracting\n- Subcontracting or equipment: purchases and subcontracting must give best value for money and be free of conflicts of interest\n- Excluded costs: if the budget table contains ineligible costs, the grant may be reduced, even during or after the project",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, Submission\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 32 · Budget categories and cost eligibility rules"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "Partners normally receive an advance after signature, with a small share held back for a shared insurance fund, then payments after each report.\n- Payment model: pre-financing of normally 160% of the average EU funding per reporting period, interim payments linked to periodic reports, and a final payment fixed by the final report\n- Retention or guarantee: 5% to 8% of the maximum grant is deducted from the pre-financing and paid into the mutual insurance mechanism (a fund that covers sums that cannot be recovered from beneficiaries)\n- Financial reporting or audit: each beneficiary is liable only for its own debts; a certificate on the financial statements may be required depending on the grant size",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 33 · Reporting & payment arrangements, Certificates, Liability regime for recoveries"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: a full proposal is due by 15 September 2027 through the EU Funding & Tenders Portal.\n- Stage 1 — Full proposal: 15 September 2027, 17:00 Brussels time. Part A (an online administrative form, including the budget summary) and Part B (the technical description, at most 45 pages for a lump-sum Innovation Action), submitted by the coordinator\n- Opening: 2 March 2027. The ECCC (the European Cybersecurity Competence Centre, the EU body that runs this call for the Commission) may open the call up to one month earlier or later and delay the deadline by up to two months",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · p. 164 · Call – Cybersecurity, HORIZON-CL3-2027-02-CS-ECCC, Conditions of the call and footnote 185\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 4 · A — Admissibility, Page limits\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, Submission"
+        },
+        {
+          "title": "Project window",
+          "answer": "The call states no project duration or start date; the grant agreement fixes both.\n- Maximum duration: not set by the call; the duration is fixed in months in the grant agreement and extended only exceptionally\n- Required start: normally after the grant agreement is signed; an earlier start is possible only exceptionally, for justified reasons and with the granting authority's agreement",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · G — Starting date & project duration"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Indicatively, results come about 5 months after the deadline and grant agreements are signed about 8 months after it.\n- Expected invitation or assessment result: around February 2028 (about 5 months after the deadline; indicative)\n- Grant agreement: around May 2028 (about 8 months after the deadline; indicative)\n- Conditions before starting: an invitation to grant preparation is not yet a funding commitment, since legal entity validation, financial capacity and exclusion checks follow; if classified information is involved, no grant agreement can be signed until at least one beneficiary holds a facility security clearance",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 29 · F — Procedure, No commitment to provide funding\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 17 · Security — EU classified and sensitive information"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "A complete electronic proposal in the Portal's own forms, including a detailed lump-sum budget table, an exploitation and dissemination plan and an ethics self-assessment.\n- Application form: Part A online and Part B uploaded as PDF in the Funding & Tenders Portal submission system; Part B at most 45 pages; proposals over the limit have the excess pages hidden from evaluators\n- Budget: a detailed budget table for the lump sum, with estimated costs per partner and work package\n- Mandatory annexes: a plan for exploiting and disseminating results, including communication activities; an ethics self-assessment\n- Partner documents: the ownership and control declaration listed among the topic's documents, because participation is limited to entities not controlled from outside the EU and associated countries\n- Registration: every beneficiary needs a PIC (participant identification code) from the Participant Register before submission",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 4 · A — Admissibility, Page limits\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 5 · B — Eligibility, registration\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · Ethics\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nFunding & Tenders Portal topic page HORIZON-CL3-2027-02-CS-ECCC-02 · Conditions and documents"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Experts score Excellence, Impact and Quality of implementation out of 5 each; a proposal needs at least 3 on each and 10 overall.\n- Evaluation criteria: Excellence (clear objectives, ambition beyond the state of the art, sound methodology); Impact (credible pathway to the topic's expected outcomes, dissemination and exploitation measures); Quality and efficiency of implementation (work plan, risks, resources, and the capacity and role of each partner)\n- Thresholds: 3 out of 5 per criterion and 10 out of 15 overall\n- Weighting: for ranking Innovation Actions, the Impact score is weighted 1.5\n- Ranking rules: proposals above the thresholds are funded in ranking order within the available budget\n- Budget assessment: the lump sum is fixed from the budget table, and the grant may be lower than requested",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria, Scores and weighting\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 31 · Form of grant, funding rate and maximum grant amount"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Security-sensitive work can trigger a security appraisal and clearance requirements, and public or research bodies need a gender equality plan.\n- Conditional — classified or sensitive information: the topic is flagged as possibly using classified background or producing security-sensitive results; such proposals go through a security appraisal, may get specific security rules, and need at least one beneficiary with a facility security clearance before signature if classified information is involved\n- Conditional — ownership or control changes: the eligibility restriction on entities controlled from outside the EU and associated countries applies to every participant\n- Exception — public bodies, research organisations and universities: they must have a gender equality plan at grant signature",
+          "sources": "Horizon Europe Work Programme 2026–2027, Civil Security for Society · pp. 167–169 · HORIZON-CL3-2027-02-CS-ECCC-02, Specific Conditions, Security Sensitive Topics and Eligibility conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 16–17 · Security — EU classified and sensitive information; Gender equality plans"
+        }
+      ]
+    }
+  ]
+}
