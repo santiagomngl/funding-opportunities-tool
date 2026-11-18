@@ -270,7 +270,7 @@ export default function App() {
                       }}
                       className={`inline-flex min-h-[2.25rem] items-center rounded-lg px-2 text-base font-medium text-[#286a99] underline decoration-[#9bccea] underline-offset-4 hover:bg-[#e7f2fb] ${focusRingClassName}`}
                     >
-                      Browse all {opportunities.length} opportunities
+                      Browse {roundedCountLabel(opportunities.length)} opportunities
                     </a>
                   )}
                 </div>
@@ -337,4 +337,10 @@ export default function App() {
       )}
     </main>
   );
+}
+
+/** Rounds a count down to the nearest 50 ("176" -> "150+"); counts under 50 are shown exactly. */
+function roundedCountLabel(count: number): string {
+  if (count < 50) return String(count);
+  return `${Math.floor(count / 50) * 50}+`;
 }
