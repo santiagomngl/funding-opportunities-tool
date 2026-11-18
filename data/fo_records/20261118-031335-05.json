@@ -1,0 +1,36 @@
+{
+  "id": "20261118-031335-05",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-CL3-2027-02-CS-ECCC-04 New primitives and protocols for functionalities of future hybrid classical-hybrid and quantum networks – Horizon Europe",
+  "organization_or_parent_framework": "European Cybersecurity Competence Centre (ECCC)",
+  "programme": "Horizon Europe",
+  "call_title": "Indirectly Managed Action by the ECCC (2027) (HORIZON-CL3-2027-02-CS-ECCC)",
+  "call_module_title": "HORIZON-CL3-2027-02-CS-ECCC-04 New primitives and protocols for functionalities of future hybrid classical-hybrid and quantum networks",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL3-2027-02-CS-ECCC-04",
+  "executive_summary": "Funds one Research and Innovation Action on new cryptographic primitives and protocols beyond Quantum Key Distribution for future hybrid classical-quantum and quantum networks, combining quantum cryptography with classical and post-quantum cryptography, with security proofs, foundational analysis and a quantum cryptography roadmap. Consortia must balance quantum scientists and applied post-quantum cryptography researchers; participation is limited to entities established in EU Member States and Horizon Europe associated countries and not controlled from outside them. Paid as a lump sum at up to 100% of costs; indicative topic budget EUR 4 million, with an estimated EU contribution of EUR 4 million per project for one to two projects. Call run by the ECCC under Horizon Europe Cluster 3; planned opening 2 March 2027, single-stage deadline 15 September 2027.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-09-15",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "Horizon Europe Work Programme 2026–2027 Part 6, pp. 171–173 (HORIZON-CL3-2027-02-CS-ECCC-04, Expected outcome and Scope), funds foundational research on quantum and hybrid classical-quantum cryptographic primitives and protocols beyond Quantum Key Distribution, with a roadmap for quantum networks. It touches TenneT's field only indirectly and in the long term: quantum-safe protection of grid control and data-exchange links may later draw on such protocols, but the topic names no energy or operational-technology application and no project file is close (TwinEU and SylWin1 HVDC retrofit share only the cybersecurity aim). Although any eligible legal entity may join (p. 171, Eligibility conditions), the work is theoretical research requiring quantum scientists and cryptographers, with no use case, demonstration or user role, so the call sets out no route for a grid operator and Type 3 applies (our interpretation). C3.4 fits because TenneT would benefit only through enabling cybersecurity technology later applied to energy; both project dates are null because the call states no start, end or duration.",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.4"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T8"
+    ],
+    "role": [],
+    "activity": [
+      "A2"
+    ],
+    "outcome": [
+      "O2"
+    ]
+  }
+}
