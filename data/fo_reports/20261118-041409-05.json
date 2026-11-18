@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "New architectures, workflows and tools that let AI be trained and run across many distributed computers instead of one large central data centre.\nThe project must research and develop ways to spread AI data processing (collecting data, training, fine-tuning and running AI models) over the compute continuum (the chain of computing resources from small edge devices near the data, through cloud data centres, to high-performance computers). The aim is to work around Europe's shortage of central AI computing capacity, energy and AI chips. The results must be shown in at least two real-world use cases in different sectors.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 120–121 · HORIZON-CL4-2027-04-DATA-03, Expected Outcome and Scope"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "The project should cover four research areas and show them in at least two use cases from different sectors.\nResearch areas named in the topic:\n- distributed, decentralised and federated AI architectures that go beyond federated learning (training a shared model on separate datasets without moving the data), with model compression tools so AI can scale across many different computing infrastructures\n- developing, deploying and operating AI workflows across mixed edge, cloud and high-performance computing, possibly including neuromorphic computing (chips modelled on the brain), quantum computing and hardware efficiency techniques such as in-memory computing\n- methods to keep distributed data available, consistent and of good quality, to limit data transfers, and to protect privacy and prevent leaks, for example with post-quantum cryptography (encryption designed to resist future quantum computers)\n- tools to measure, monitor and improve the end-to-end energy efficiency and sustainability of AI data processing, and to study how different hardware architectures affect infrastructure design\nThe topic names no mandatory sector and no excluded activities.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 120–121 · HORIZON-CL4-2027-04-DATA-03, Expected Outcome and Scope"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The project must address the limits of today's centralised AI computing: too little energy, computing capacity and chip choice, plus data quality, security and delay problems.\nThe need is European and industrial: the EU lacks enough central AI computing capacity, and standalone data centres are limited by available energy and types of AI chips. Centralised processing also causes problems with data quality and security and with latency (the delay before a result comes back). The use cases must come from sectors critical to Europe's competitiveness. For TenneT, a fitting need would be AI that runs close to grid assets or across several system operators' data without moving the data, as in data federation between grid operators; this is our interpretation.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 120–121 · HORIZON-CL4-2027-04-DATA-03, Expected Outcome and Scope"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "Mainly new software architectures, tools and techniques for distributed AI, validated in at least two real-world use cases.\nExpected outputs:\n- decentralised and federated AI architectures and model compression tools\n- methods to deploy and operate AI workflows across heterogeneous edge, cloud and high-performance computing\n- tools for data quality, distributed data management and privacy protection\n- tools to measure and improve the energy efficiency of AI processing\n- at least two use cases in different sectors that show the value gained in real-world situations and that can be reproduced in other sectors",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 120–121 · HORIZON-CL4-2027-04-DATA-03, Expected Outcome and Scope"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The results should help Europe overcome its AI computing bottlenecks with decentralised, sustainable alternatives that use many kinds of hardware.\nThe topic expects new approaches that overcome the limits of centralised AI computing: limited energy and computing capacity in standalone centres, limited types of AI chips, data quality and security, and latency. The ultimate aim is to offer alternative decentralised and sustainable computing models that can use diverse processor architectures and scale. The use cases must address applications and sectors critical to Europe's competitiveness. No quantified targets are set.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 120–121 · HORIZON-CL4-2027-04-DATA-03, Expected Outcome and Scope"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "The results must be reproducible beyond the project's own use cases, in other economic sectors.\nThe use cases must provide compelling examples and allow the added value and impact to be reproduced in additional economic sectors. The topic sets no requirement for commercial availability, a business model or a specific standard. Because participation is limited for strategic reasons, partners controlled from a non-eligible country that take part under guarantees must keep ownership of results within the eligible countries and may not export them without approval of their country of establishment.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 120–121 · HORIZON-CL4-2027-04-DATA-03, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · p. 120 · HORIZON-CL4-2027-04-DATA-03, Specific conditions, Eligibility conditions, footnote 100"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "At least three independent organisations from three different eligible countries; no maximum is set.\nThe general rule requires three independent legal entities, each in a different country, with at least one in an EU Member State and the other two in different Member States or associated countries (non-EU countries taking part in Horizon Europe). For this topic, only the countries listed under eligibility count.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · B — Eligibility, Consortium composition\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 119–120 · HORIZON-CL4-2027-04-DATA-03, Specific conditions, Eligibility conditions"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "Partners must be established in the EU or a short list of trusted partner countries and must not be controlled from outside them.\n- Eligible countries: EU Member States, Iceland, Norway, Canada, Israel, the Republic of Korea, New Zealand, Switzerland, the United Kingdom and, since a topic update, Japan; countries that become associated during 2026–2027 may be added\n- Ownership: an organisation in an eligible country that is directly or indirectly controlled from a non-eligible country may only take part if its country of establishment accepts guarantees; organisations controlled from China cannot submit guarantees\n- Partner types: the topic requires none in particular, but the use cases need organisations from at least two different sectors",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 119–120 · HORIZON-CL4-2027-04-DATA-03, Specific conditions, Eligibility conditions\nTopic page HORIZON-CL4-2027-04-DATA-03, EU Funding & Tenders Portal · Topic updates\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 120–121 · HORIZON-CL4-2027-04-DATA-03, Expected Outcome and Scope"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "Any eligible partner may coordinate; the topic sets no extra condition.\nThe coordinator must be one of the beneficiaries and must meet the same country and ownership conditions as all other partners.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · B — Eligibility, Consortium composition\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 119–120 · HORIZON-CL4-2027-04-DATA-03, Specific conditions, Eligibility conditions"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "Yes, formally: TenneT TSO B.V. is a Dutch company owned by the Dutch State and meets the country and ownership conditions.\nThe Netherlands is an eligible country and the Dutch State is not a non-eligible controlling party. Leading the consortium is realistic only if TenneT wants to drive an AI computing research project; in practice the coordinator is more likely a research organisation or a technology company.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 119–120 · HORIZON-CL4-2027-04-DATA-03, Specific conditions, Eligibility conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 11 · B — Entities eligible for funding"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes, most plausibly as a funded partner that brings a grid use case.\nEach project must show its results in at least two use cases in different sectors, so an energy-system use case run by a grid operator fits the topic's rules. The topic does not mention unfunded or associated partners.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 120–121 · HORIZON-CL4-2027-04-DATA-03, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 119–120 · HORIZON-CL4-2027-04-DATA-03, Specific conditions, Eligibility conditions"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Yes, up to 100% of TenneT's eligible costs, with no own contribution required.\nThe topic is a Research and Innovation Action paid as a budget-based grant (reimbursing actual eligible costs) at a maximum funding rate of 100% for all participants, plus a flat 25% of direct costs for overheads. The rate does not depend on company size, and the call sets no separate Dutch rule.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, funding rate and maximum grant amount, Budget categories\nTopic page HORIZON-CL4-2027-04-DATA-03, EU Funding & Tenders Portal · Conditions"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT could bring an energy-sector use case: AI that runs close to grid assets or across distributed grid data, with real operational data and validation.\nThis is our interpretation. Possible use cases are federated analysis of data held by several system operators, as in TwinEU, or AI for grid monitoring and control running at the edge, near substations and sensors, with the compute-intensive models of the National Facility Digital Twin of the Electricity System and the Digital Twin Programme. TenneT could provide the use-case requirements, data, a test environment and operational expertise, and judge whether the distributed approach meets the security and latency needs of grid operation. Its role would most likely be a partner rather than coordinator.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 120–121 · HORIZON-CL4-2027-04-DATA-03, Expected Outcome and Scope"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The project must go beyond the state of the art and produce new knowledge and techniques.\nThe topic explicitly asks to go beyond today's state of the art, and as a Research and Innovation Action it is judged on ambition beyond the state of the art. Existing solutions may be integrated, but the core must be new approaches.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 120–121 · HORIZON-CL4-2027-04-DATA-03, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 23 · D — Award criteria"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Mainly technology and system architecture: AI computing architectures, workflows, data management and energy-monitoring tools.\nThe innovation lies in how AI data processing is organised and run across distributed and heterogeneous hardware, how data are kept consistent and secure, and how the energy use of AI is measured and reduced.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 120–121 · HORIZON-CL4-2027-04-DATA-03, Expected Outcome and Scope"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Research, development and validation, from early concepts to demonstration in use cases.\nThe project covers research and development of architectures and tools and their validation in at least two real-world use cases. Research and Innovation Actions may include testing and demonstration of small-scale prototypes.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 120–121 · HORIZON-CL4-2027-04-DATA-03, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 14 · B — Eligible activities"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "From TRL 3 at the start to TRL 6–7 at the end.\nTRL (Technology Readiness Level) is a 1–9 maturity scale: TRL 3 is an experimental proof of concept, TRL 6 a technology shown in a relevant environment and TRL 7 a prototype shown in an operational environment.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 119–120 · HORIZON-CL4-2027-04-DATA-03, Specific conditions"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "The results must be shown in at least two real-world use cases from different sectors.\nThe use cases should demonstrate the value gained and potential impact in real-world situations. Combined with the target of TRL 6–7, this means testing in relevant or operational environments rather than in a laboratory alone.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 120–121 · HORIZON-CL4-2027-04-DATA-03, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 119–120 · HORIZON-CL4-2027-04-DATA-03, Specific conditions"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The work must run across existing, mixed computing infrastructures along the whole AI lifecycle.\nThe solutions must use distributed computing resources across the edge, cloud and high-performance computing continuum, throughout the AI model lifecycle from data collection to training, fine-tuning and deployment, and must work with diverse hardware architectures.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 120–121 · HORIZON-CL4-2027-04-DATA-03, Expected Outcome and Scope"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "The use cases must show the value gained and the potential impact, and be reproducible in other sectors.\nThe project should also measure and monitor the end-to-end energy efficiency of AI data processing. The topic sets no numerical indicators.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 120–121 · HORIZON-CL4-2027-04-DATA-03, Expected Outcome and Scope"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "Data security and privacy are part of the scope, and strategic-autonomy rules limit who may take part.\nThe project must preserve data privacy and prevent data leaks in distributed processing, for example with post-quantum cryptography. Participation is limited for security reasons to entities in the eligible countries that are not controlled from outside them, unless guarantees are accepted; these guarantees cover, among other things, preventing access by non-eligible countries to sensitive project information.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 120–121 · HORIZON-CL4-2027-04-DATA-03, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 119–120 · HORIZON-CL4-2027-04-DATA-03, Specific conditions, Eligibility conditions"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "Two projects of around EUR 17.5 million each share a topic budget of EUR 35 million.\n- Grant request: around EUR 17.5 million per project, shared by all partners; proposals requesting other amounts may still be submitted and selected\n- Funding form: budget-based grant that reimburses actual eligible costs",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 119–120 · HORIZON-CL4-2027-04-DATA-03, Specific conditions\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 30–31 · Call – DIGITAL, HORIZON-CL4-2027-04, Overview of this call\nTopic page HORIZON-CL4-2027-04-DATA-03, EU Funding & Tenders Portal · Conditions"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "All participants can receive up to 100% of their eligible costs; no own contribution is required.\nThe call sets no cash or in-kind co-financing condition.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 31 · G — Form of grant, funding rate and maximum grant amount"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Standard Horizon Europe cost rules apply, with a flat 25% for overheads.\n- Eligible costs: personnel, subcontracting and purchase costs actually incurred\n- Overheads and VAT: indirect costs at a flat 25% of direct costs, excluding subcontracting",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 32 · G — Budget categories and cost eligibility rules"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: the call is open and a full proposal is due by 18 March 2027 through the EU Funding & Tenders Portal.\n- Stage 1 — Full proposal: 18 March 2027, 17:00 Brussels time; Part A (administrative forms) and Part B (technical description, at most 40 pages for a budget-based Research and Innovation Action), submitted by the coordinator\n- Opening: 17 November 2026; the submission system is open\n- Additional procedure: an ownership control declaration must be submitted, as required by the call-specific instructions",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 30–31 · Call – DIGITAL, HORIZON-CL4-2027-04, Overview of this call\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 4 · A — Admissibility, Page limits\nTopic page HORIZON-CL4-2027-04-DATA-03, EU Funding & Tenders Portal · Topic updates\nTopic page HORIZON-CL4-2027-04-DATA-03, EU Funding & Tenders Portal · Conditions"
+        },
+        {
+          "title": "Project window",
+          "answer": "The call states no project duration or start date; the grant agreement fixes both.\n- Required start: normally after the grant agreement is signed; an earlier start is possible only exceptionally, for justified reasons and with the granting authority's agreement",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · G — Starting date & project duration"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Indicatively, results come about 5 months after the deadline and grant agreements are signed about 8 months after it.\n- Expected invitation or assessment result: around August 2027 (indicative)\n- Grant agreement: around November 2027 (indicative)\n- Conditions before starting: entities controlled from a non-eligible country must have guarantees accepted by their country of establishment before they can take part",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · F — Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 119–120 · HORIZON-CL4-2027-04-DATA-03, Specific conditions, Eligibility conditions"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "Besides the standard form, every applicant must complete the ownership control declaration.\n- Application form: standard Horizon Europe Research and Innovation Action form in the Portal submission system, Part B at most 40 pages\n- Mandatory annexes: ownership control declaration, used to check that no partner is controlled from a non-eligible country",
+          "sources": "Topic page HORIZON-CL4-2027-04-DATA-03, EU Funding & Tenders Portal · Conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 4 · A — Admissibility, Page limits"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Experts score Excellence, Impact and Quality of implementation out of 5 each; a proposal needs at least 3 on each and 10 overall.\n- Evaluation criteria: Excellence (clear objectives, ambition beyond the state of the art, sound methodology); Impact (credible pathway to the topic's expected outcomes, dissemination and exploitation measures); Quality and efficiency of implementation (work plan, risks, resources, and the capacity and role of each partner)\n- Thresholds: 3 out of 5 per criterion and 10 out of 15 overall\n- Ranking rules: proposals above the thresholds are funded in ranking order within the budget\n- Budget assessment: the grant may be lower than requested",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria, Scores and weighting\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 31 · G — Form of grant"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Partners controlled from outside the eligible countries can take part only with guarantees accepted by their country of establishment.\n- Conditional — control by a non-eligible country: the partner may take part only if its country of establishment positively assesses guarantees that control will not restrict the action, that sensitive information stays protected and that results stay within the eligible countries; entities controlled from China cannot submit guarantees\n- Exception — Japan: a topic update has added Japan to the eligible countries",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 119–120 · HORIZON-CL4-2027-04-DATA-03, Specific conditions, Eligibility conditions and footnote 100\nTopic page HORIZON-CL4-2027-04-DATA-03, EU Funding & Tenders Portal · Topic updates"
+        }
+      ]
+    }
+  ]
+}

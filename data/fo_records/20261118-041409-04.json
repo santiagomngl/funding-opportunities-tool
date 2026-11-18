@@ -1,0 +1,42 @@
+{
+  "id": "20261118-041409-04",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-MISS-2027-04-CIT-05 Boosting the transformation towards climate-neutral cities, the net-zero economy and open strategic autonomy through Pre-Commercial Procurement (PCP) – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "Supporting the implementation of the Climate-Neutral and Smart Cities Mission (HORIZON-MISS-2027-04)",
+  "call_module_title": "HORIZON-MISS-2027-04-CIT-05 Boosting the transformation towards climate-neutral cities, the net-zero economy and open strategic autonomy through Pre-Commercial Procurement (PCP)",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2027-04-CIT-05",
+  "executive_summary": "Horizon Europe Pre-Commercial Procurement (PCP) action under the Climate-Neutral and Smart Cities Mission that funds buyers' groups of public procurers, led by one of the 112 Mission cities and including at least three of them, to jointly procure R&D from competing suppliers for new solutions that cut greenhouse gas and air pollutant emissions in cities (for example energy efficiency in buildings, renewable energy production and use, smart mobility and digitalisation), and to pilot, install and validate them. The topic gives no direct funding to developers, who respond to the procurers' call for tenders; at least two beneficiaries must be public procurers from different countries, and an open market consultation and a Memorandum of Understanding with the Mission Platform are required. Budget-based grant at up to 100% of eligible costs, with PCP procurement costs eligible and optional financial support to end users of up to EUR 200,000 per third party. Indicative topic budget EUR 26.8 million for about three projects, with an expected EU contribution of EUR 7–12 million each. Planned opening 9 February 2027; single-stage deadline 7 October 2027.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-10-07",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "The topic page of HORIZON-MISS-2027-04-CIT-05 (Expected Outcome and Scope) funds buyers' groups of public procurers, led by a Mission city, that jointly procure R&D for new emission-reducing solutions in cities, including energy efficiency, renewable energy production and use, and electrification of mobility. This touches TenneT's field through local electrification and renewable integration, the subject of TenneT's cooperation with local authorities in the Energy boards project, although the topic does not mention grids. General Annex H (pp. 37–38) and General Annex B (p. 13, footnote 35) admit contracting entities under Directive 2014/25/EU as procurers and let other well-justified entities such as end users take part in additional activities, but the topic targets local authorities with a common need and requires a Mission city as lead procurer, so it is unclear whether TenneT could be a funded buyer; Type 2 applies (our interpretation). C2.4 fits because TenneT's realistic contribution is supporting and advisory, for example on grid integration, standardisation and dissemination; both project dates are null because the call states no start, end or duration.",
+  "call_type": "Type 2",
+  "category_codes": [
+    "C2.4"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T10",
+      "T9"
+    ],
+    "role": [
+      "R2",
+      "R12"
+    ],
+    "activity": [
+      "A18",
+      "A7",
+      "A13"
+    ],
+    "outcome": [
+      "O5"
+    ]
+  }
+}
