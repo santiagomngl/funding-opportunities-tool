@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "Tests, assessments or extensions of CIPHER's shared cybersecurity testing facility and cyber range for critical-infrastructure operators.\nCIPHER (Cybersecurity Intelligence, Protection, and Holistic Enterprise Resilience) is a Digital Europe Programme project building an 'available-as-a-service' testing facility and cyber range (a secure, production-like environment for simulating attacks) in which operators and authorities can assess cybersecurity risk governance and test solutions. Funded third parties must assess, validate or expand CIPHER's capabilities in one of six challenges.",
+          "sources": "CIPHER-OC1-Annex-1-Guide-For-Applicants.docx.pdf · pp. 4, 6 · 1 What is CIPHER; 3.2 Types of projects\nCIPHER Open Call #1 web page (cipher-eu.com) · Overview & Objectives"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Applicants must pick one of six challenges, in four modes; development work is not open in this call.\n- K1, Regulatory capability gap assessment: a certified auditor maps CIPHER's tools against the NIS2 risk-management measures (Article 21(2) of the EU cybersecurity directive for essential services) and IEC 62443 (the industrial control systems security standard); desk review only\n- K2, Pentest methodology and gap assessment: an operational-technology security expert documents a penetration-testing method and benchmarks CIPHER's automated testing against it; desk review only\n- T1, Vulnerability-management validation: run CIPHER's scanners against range targets and validate the evidence pipeline; active scanning only inside the cyber range\n- T2, XDR onboarding and data-collection validation: connect the applicant's own representative environment to CIPHER's XDR service (extended detection and response, a system that collects and correlates security events) and test detection\n- R1, Domain cyber-range contribution: contribute a sector-emulation range for a NIS2 sector; capture-the-flag or training-only ranges are excluded\n- P1, DevSecOps and platform automation: write deployment code and pipelines for tools CIPHER lists\nEligible sectors are those of NIS2 Annexes I and II, with operational technology prioritised. All active testing must run in the CIPHER range, except where a challenge (such as T2) defines an applicant environment.",
+          "sources": "CIPHER-OC1-Annex-1-Guide-For-Applicants.docx.pdf · pp. 6–9 · 3.2 Types of projects, Table 1\nCIPHER-OC1-Annex-2-CIPHER-OC1_Technical-Requirements.pdf · p. 3 · Technical Requirements, Conventions common to all challenges\nCIPHER-OC1-Annex-2-CIPHER-OC1_Technical-Requirements.pdf · pp. 9–11 · T2"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The need is CIPHER's: its platform must be tested, benchmarked and extended against the real needs of critical-infrastructure operators under NIS2.\nThe call starts from operators and authorities in critical sectors such as energy, transport, healthcare and water, who must assess and improve their cybersecurity risk management. Each challenge turns this into a specific gap: regulatory coverage, testing methods, vulnerability evidence, detection data or sector-realistic test ranges.",
+          "sources": "CIPHER-OC1-Annex-1-Guide-For-Applicants.docx.pdf · pp. 4, 6 · 1; 3.2\nCIPHER Open Call #1 web page (cipher-eu.com) · Overview & Objectives"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "Three reports per project, plus challenge outputs such as gap analyses, scan evidence, detection data, a cyber range or automation code.\n- Deliverable 1: onboarding and architecture definition report (end of month 1)\n- Deliverable 2: mid-term technical execution and integration report with preliminary KPIs (end of month 5)\n- Deliverable 3: final validation, regulatory mapping and exploitation report with full KPI results, at least two threat or risk scenarios, proof of failure recovery, mapping to NIS2 and the Cyber Resilience Act, and a live demo (end of month 9)\nOutputs belong to CIPHER, except a contributed cyber range under R1.",
+          "sources": "CIPHER-OC1-Annex-1-Guide-For-Applicants.docx.pdf · pp. 21–23 · 6.1 Programme sprints; 6.2 Programme review\nCIPHER-OC1-Annex-1-Guide-For-Applicants.docx.pdf · p. 24 · 7.1 Intellectual Property Rights"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The results should strengthen EU cybersecurity resilience of critical infrastructure and help operators comply with NIS2 and the Cyber Resilience Act.\nEvaluators score the contribution to European digital supply-chain security, EU-based intelligence sharing and compliance with NIS2 Articles 21(2) and 12 and the Cyber Resilience Act, and the potential to scale across sites, administrative domains and critical sectors. No numeric targets are set beyond each challenge's KPIs.",
+          "sources": "CIPHER-OC1-Annex-1-Guide-For-Applicants.docx.pdf · pp. 17 · 4.3.1 Evaluation criteria, Impact and scalability"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "Outputs go into CIPHER's platform; projects must deliver an exploitation plan and, for code, reusable contributions to CIPHER repositories.\nEvaluators score post-project sustainability and alignment with the licensing terms. Deliverable 3 includes a commercial exploitation plan and an open-source sustainability roadmap. Under R1, the applicant keeps its range but must license CIPHER to deploy, operate, extend and maintain it after the project. The call does not require the end user to keep using CIPHER.",
+          "sources": "CIPHER-OC1-Annex-1-Guide-For-Applicants.docx.pdf · pp. 17, 23–24 · 4.3.1; 6.2 Sprint 3; 7.1\nCIPHER-OC1-Annex-2-CIPHER-OC1_Technical-Requirements.pdf · p. 13 · R1 IP & licensing"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "One organisation alone, or a consortium of at most three independent organisations.\nEach entity may be in only one application; if it appears in more, only the first counts.",
+          "sources": "CIPHER-OC1-Annex-1-Guide-For-Applicants.docx.pdf · pp. 5–6 · 3.1.1 Eligible applicants; 3.1.3 Multiple submissions"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "A consortium must have a technology provider and an end user or technology adopter, with an optional certified auditor, all from EU or EEA countries.\n- Technology provider (mandatory): startups, technology SMEs, research centres or universities\n- End user or technology adopter (mandatory): SMEs, infrastructure operators or associations that validate the work in real settings\n- Certified cybersecurity auditor (optional)\nThe general list of eligible applicants names startups, SMEs, mid-caps, research organisations and universities from EU Member States or Norway, Iceland and Liechtenstein, with a valid VAT number. All non-public applicants must be EU-controlled and sign an Ownership Control Declaration with a qualified electronic signature.",
+          "sources": "CIPHER-OC1-Annex-1-Guide-For-Applicants.docx.pdf · pp. 5–6 · 3.1.1 Eligible applicants; 3.1.2 Eligible countries"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "Roles must be complementary; the consortium agrees the budget split in a Consortium Declaration of Honour.\nThe budget template has one sheet per partner, and the grant is capped at EUR 60,000 per application, so all partners share that amount.",
+          "sources": "CIPHER-OC1-Annex-1-Guide-For-Applicants.docx.pdf · pp. 5, 11–12 · 3.1.1; Table 5; Guidance on the CIPHER FSTP budget template"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "The consortium designates a Lead Beneficiary, which signs the sub-grant agreement; the call does not restrict the type.\nThe sub-grant agreement is signed between the Lead Beneficiary, the CIPHER coordinator (EVIDEN) and the treasurer (F6S, the platform operator that manages the call).",
+          "sources": "CIPHER-OC1-Annex-1-Guide-For-Applicants.docx.pdf · pp. 11, 20 · Table 5; 5 What happens after selection"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "Unclear: the list of eligible applicants does not include large enterprises, although infrastructure operators may fill the end-user role.\nTenneT TSO B.V. is a large company, not an SME or mid-cap, and not a research body. The consortium rules name infrastructure operators as end users or technology adopters, but the call does not say whether they may lead. TenneT should ask the CIPHER helpdesk before considering the lead role.",
+          "sources": "CIPHER-OC1-Annex-1-Guide-For-Applicants.docx.pdf · p. 5 · 3.1.1 Eligible applicants"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes, most plausibly as the end user or technology adopter that validates a provider's work in its own environment.\nThe consortium rules explicitly list infrastructure operators for this role. In Challenge T2, for example, the applicant connects its own representative environment, with intrusion detection and operational-technology security appliances, to CIPHER's detection service. A separate unfunded or associated-partner role is not described.",
+          "sources": "CIPHER-OC1-Annex-1-Guide-For-Applicants.docx.pdf · p. 5 · 3.1.1\nCIPHER-OC1-Annex-2-CIPHER-OC1_Technical-Requirements.pdf · pp. 9–11 · T2"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Unclear: large enterprises are not in the list of eligible applicants, so TenneT should not count on part of the grant.\nIf eligible, a partner would receive part of at most EUR 60,000 per project, which must equal 50% of total eligible costs; the other 50% is co-financed by the applicants. No Dutch national rules apply. Any entity may receive at most EUR 60,000 over the whole CIPHER project.",
+          "sources": "CIPHER-OC1-Annex-1-Guide-For-Applicants.docx.pdf · pp. 5, 9–10 · 3.1.1; 3.3 Funding conditions"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT could be the operator that validates CIPHER's detection or vulnerability tools on a representative, non-production grid IT or OT segment.\nThis is our interpretation, based on the end-user role and on Challenge T2, which needs an applicant-controlled environment with diverse systems and at least one operational-technology security appliance. It fits TenneT's work on operational-technology security in the SylWin1 HVDC retrofit and grid cybersecurity in TwinEU. TenneT could also supply sector-specific scenarios for a provider applying under R1. The call recommends a non-production segment and requires a data processing agreement, and outputs belong to CIPHER, so TenneT would have to accept that its test results feed a shared platform.",
+          "sources": "CIPHER-OC1-Annex-2-CIPHER-OC1_Technical-Requirements.pdf · pp. 9–11 · T2\nCIPHER-OC1-Annex-1-Guide-For-Applicants.docx.pdf · pp. 5, 24 · 3.1.1; 7.1"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "Validation and assessment of existing tools, not new development: development is deferred to a later open call.\nApplicants bring products or solutions at TRL 6–8 (demonstrated in a relevant environment up to a complete, qualified system) and test or extend CIPHER with them.",
+          "sources": "CIPHER-OC1-Annex-2-CIPHER-OC1_Technical-Requirements.pdf · p. 3 · Technical Requirements\nCIPHER Open Call #1 web page (cipher-eu.com) · Eligibility & Funding details"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Cybersecurity technology and operational methods: testing pipelines, detection, penetration-testing methods, cyber ranges and automation, mapped to NIS2.",
+          "sources": "CIPHER-OC1-Annex-1-Guide-For-Applicants.docx.pdf · pp. 6–9 · Table 1"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Testing, validation and demonstration over three sprints in 9 months.\n- Sprint 1 (month 1): onboarding, test environment and architecture\n- Sprint 2 (months 2–5): technical execution, integration and initial testing\n- Sprint 3 (months 6–9): full validation, failure-recovery tests, demonstration and final reporting",
+          "sources": "CIPHER-OC1-Annex-1-Guide-For-Applicants.docx.pdf · pp. 21–22 · 6.1 Programme sprints"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "Applicants' products or environments should be at TRL 6–8 (demonstrated in a relevant environment up to a complete, qualified system).",
+          "sources": "CIPHER Open Call #1 web page (cipher-eu.com) · Eligibility & Funding details\nCIPHER-OC1-Annex-1-Guide-For-Applicants.docx.pdf · p. 17 · 4.3.1 Sub-criterion 2.3"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "Mostly inside CIPHER's isolated cyber range; under Challenge T2 also on the applicant's own representative environment.\nActive testing techniques must run only in the CIPHER range unless a challenge defines an applicant environment. For T2 the applicant deploys agents on its own segment; a non-production segment is recommended and production credentials are excluded. Projects end with a live demo at CIPHER's Demo Day.",
+          "sources": "CIPHER-OC1-Annex-1-Guide-For-Applicants.docx.pdf · pp. 22–24 · 6.1.3; 7.1\nCIPHER-OC1-Annex-2-CIPHER-OC1_Technical-Requirements.pdf · pp. 10–11 · T2"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The work must plug into CIPHER's components, such as its storage, vulnerability pipeline, XDR service or code repositories.\nEvaluators score how smoothly third-party tools and feeds integrate with these touchpoints. Under T2 the applicant's existing security data sources feed CIPHER, and CIPHER does not access applicant hosts directly.",
+          "sources": "CIPHER-OC1-Annex-1-Guide-For-Applicants.docx.pdf · p. 17 · 4.3.1 Sub-criterion 2.1\nCIPHER-OC1-Annex-2-CIPHER-OC1_Technical-Requirements.pdf · pp. 10–11 · T2"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "Challenge KPIs measured against baselines, at least two threat or risk scenarios, and proof of failure recovery.\nFor T2, for example: agent coverage, input-source breadth, onboarding success, data fidelity, detection coverage and mean time to detect. All findings must be mapped to NIS2 and Cyber Resilience Act obligations.",
+          "sources": "CIPHER-OC1-Annex-1-Guide-For-Applicants.docx.pdf · pp. 22–23 · 6.1.3; 6.2\nCIPHER-OC1-Annex-2-CIPHER-OC1_Technical-Requirements.pdf · pp. 10–11 · T2 KPIs"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "In a consortium, an end user or technology adopter is mandatory and must validate the work in real-case settings.",
+          "sources": "CIPHER-OC1-Annex-1-Guide-For-Applicants.docx.pdf · p. 5 · 3.1.1 Eligible applicants"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "Strict boundaries: active testing only in the cyber range, synthetic data in the range, data minimisation, and NDA and data processing agreements.\n- Under T2, CIPHER acts as processor and the applicant as controller of its security telemetry; a data processing agreement is mandatory and special categories of personal data should be excluded\n- Credentials stay applicant-side; production credentials and uncontrolled access to live systems are excluded\n- Project data must stay confidential during the project and for 5 years after\n- All non-public applicants must be EU-controlled",
+          "sources": "CIPHER-OC1-Annex-2-CIPHER-OC1_Technical-Requirements.pdf · pp. 10–11 · T2 Access conditions and Compliance boundaries\nCIPHER-OC1-Annex-1-Guide-For-Applicants.docx.pdf · pp. 6, 25 · 3.1.1 Ownership and Control; 7.5 Confidentiality"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "Up to EUR 60,000 per project, from a cascade budget of EUR 4.32 million; the grant is half of the eligible costs, so projects total up to EUR 120,000.\n- Total project size: up to EUR 120,000 of eligible costs, implied by the 50% rate\n- Grant request: up to EUR 60,000 per application, shared by all partners; no entity may receive more than EUR 60,000 over the whole CIPHER project\n- Funding form: lump sum paid in three milestone instalments",
+          "sources": "CIPHER-OC1-Annex-1-Guide-For-Applicants.docx.pdf · pp. 4–5, 9–10 · 1; 2; 3.3 Funding conditions"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "The grant covers 50% of eligible costs for every applicant; the other 50% must be co-financed.\n- Evidence required: a justification of planned costs and resources in the budget template, evaluated under the implementation criterion",
+          "sources": "CIPHER-OC1-Annex-1-Guide-For-Applicants.docx.pdf · pp. 9, 12 · 3.3; Guidance on the CIPHER FSTP budget template"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Personnel, equipment, travel and other direct costs are eligible; indirect costs are a flat 7%, and subcontracting is not allowed.\n- Eligible costs: personnel, equipment, travel, other goods and services such as licences and events\n- Overheads and VAT: indirect costs at a flat 7% of direct costs\n- Excluded costs: subcontracting",
+          "sources": "CIPHER-OC1-Annex-1-Guide-For-Applicants.docx.pdf · pp. 9–10 · 3.3 Funding conditions"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "Three instalments: 20% after month 1, 40% after month 5 and 40% after month 9, each after deliverable approval.\n- Payment model: EUR 12,000, EUR 24,000 and EUR 24,000 for a full grant; the first acts as pre-financing\n- Financial reporting or audit: no cost audits, since costs need not be documented, but the Commission, OLAF and the Court of Auditors may check technical implementation up to 5 years after the project",
+          "sources": "CIPHER-OC1-Annex-1-Guide-For-Applicants.docx.pdf · pp. 5, 10, 24–25 · 2; 3.3; 7.7 Checks and reviews"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: apply on the F6S platform by 6 January 2027, 17:00 CET; there are no cut-offs and no late submissions.\n- Stage 1 — Full proposal: 6 January 2027, 17:00 CET (Brussels time), via www.f6s.com/cipher-opencall1, with the online form, a technical proposal of at most 12 pages, the budget template and the Ownership Control Declaration\n- Additional procedure: eligibility and technical check (13–23 January 2027), expert evaluation with online interviews of top-ranked applicants (24 January–13 February 2027); a Q&A session on 9 December 2026",
+          "sources": "CIPHER-OC1-Annex-1-Guide-For-Applicants.docx.pdf · pp. 10–11, 13 · Table 2; Table 4; 3.7\nCIPHER Open Call #1 web page (cipher-eu.com) · Need more help, Q&A session"
+        },
+        {
+          "title": "Project window",
+          "answer": "9 months, from April to December 2027.\n- Maximum duration: 9 months in three sprints\n- Required start: Sprint 1 in April 2027 (indicative; programme dates may change)",
+          "sources": "CIPHER-OC1-Annex-1-Guide-For-Applicants.docx.pdf · pp. 4–5, 21 · 2; 6.1"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Results are due on 17 March 2027, followed by contracting within about two weeks.\n- Funding decision: 17 March 2027 (indicative), with an Evaluation Summary Report for every applicant\n- Grant agreement: tri-party sub-grant agreement with EVIDEN and F6S; it is final and cannot be altered\n- Conditions before starting: proof of legal existence and VAT, validated PIC, declarations of honour, bank details and Know Your Customer identity checks of legal representatives",
+          "sources": "CIPHER-OC1-Annex-1-Guide-For-Applicants.docx.pdf · pp. 10–11, 20 · Table 2; Table 5; 5 What happens after selection"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "Four documents on F6S: the online form, a 12-page technical proposal, the budget workbook and a qualified-e-signed Ownership Control Declaration.\n- Application form: online on F6S, in English; documents in PDF without restrictions, file names with the project acronym and no special characters\n- Budget: the CIPHER FSTP budget template (Excel), one sheet per partner\n- Mandatory annexes: Annex 3 technical proposal, at most 12 pages for sections 1–5; exceeding it may disqualify the proposal or section\n- Partner documents: Annex 4 Ownership Control Declaration signed with a qualified electronic signature by each partner (public bodies exempt)\n- Registration: a PIC for every partner and a valid VAT number",
+          "sources": "CIPHER-OC1-Annex-1-Guide-For-Applicants.docx.pdf · pp. 6, 11, 13, 20 · 3.1.1; Table 4; 3.5; 5"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "After eligibility and scope checks, at least two experts score four criteria; at least 3 out of 5 per criterion and 10 out of 15 overall.\n- Evaluation criteria: Excellence; Relevance to CIPHER, including value for NIS2 sectors with priority for operational technology and energy; Impact and scalability; Quality of implementation and operational capacity\n- Weighting: 30%, 30%, 20% and 20%\n- Thresholds: 3 out of 5 per criterion and 10 out of 15 overall; the scope check also requires challenge-specific credentials, such as a controlled representative environment for T2\n- Ranking rules: one list; ties broken on the criteria in order; selection capped per challenge (for example 8–10 projects each for T1 and T2)\n- Budget assessment: the cost justification is scored under implementation",
+          "sources": "CIPHER-OC1-Annex-1-Guide-For-Applicants.docx.pdf · pp. 14–19 · 4.1–4.3 Evaluation; Table 6; Table 7"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Ownership changes must be reported, and appeals must be filed within three working days.\n- Conditional — change of ownership or foreign control during the project: report it immediately; unauthorised foreign control leads to termination and grant reduction\n- Conditional — rejection: an appeal may be sent within 3 working days, on procedure only\n- Exception — public bodies validated in the Participant Register: exempt from the Ownership Control Declaration",
+          "sources": "CIPHER-OC1-Annex-1-Guide-For-Applicants.docx.pdf · pp. 6, 19 · 3.1.1 Ownership and Control Restrictions; 4.4 Appeals"
+        }
+      ]
+    }
+  ]
+}

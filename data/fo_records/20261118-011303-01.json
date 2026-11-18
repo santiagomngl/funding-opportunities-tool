@@ -1,0 +1,44 @@
+{
+  "id": "20261118-011303-01",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-CL3-2027-02-CS-ECCC-01 Artificial Intelligence for Cybersecurity applications – Horizon Europe",
+  "organization_or_parent_framework": "European Cybersecurity Competence Centre (ECCC)",
+  "programme": "Horizon Europe",
+  "call_title": "Indirectly Managed Action by the ECCC (2027) (HORIZON-CL3-2027-02-CS-ECCC)",
+  "call_module_title": "HORIZON-CL3-2027-02-CS-ECCC-01 Artificial Intelligence for Cybersecurity applications",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL3-2027-02-CS-ECCC-01",
+  "executive_summary": "Funds Research and Innovation Actions that develop trustworthy, AI Act-compliant AI for cybersecurity: real-time cyber threat detection, adaptive AI defences that learn from new attack patterns, and AI-enhanced frameworks for Security Operation Centres (SOCs) and Cyber Hubs, including protection against adversarial AI. Open to consortia of at least three independent legal entities from three different EU Member States or Horizon Europe associated countries; participation is limited to entities established in those countries and not controlled from outside them, and entities established in China are excluded. Paid as a lump sum at up to 100% of costs; indicative topic budget EUR 24.8 million, with an estimated EU contribution of EUR 4–5 million per project for 5–6 projects. Call run by the ECCC under Horizon Europe Cluster 3; planned opening 2 March 2027, single-stage deadline 15 September 2027 at 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-09-15",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "Horizon Europe Work Programme 2026–2027 Part 6, pp. 165–166 (HORIZON-CL3-2027-02-CS-ECCC-01, Expected Outcome and Scope), funds research on AI-driven real-time threat detection, adaptive AI defences and AI-enhanced SOC frameworks, within a destination aimed at cyber threats including those targeting critical infrastructure (p. 93, Destination – Cybersecurity). It touches TenneT's field through the security of its IT and operational-technology systems and its own SOC, close to TwinEU (grid cybersecurity and resilience) and SylWin1 HVDC retrofit (operational-technology security), although the topic is not specific to energy and an energy use case would be the consortium's choice. The eligibility conditions (p. 165) and General Annexes B and G (pp. 11, 13, 31) allow TenneT TSO B.V., a Dutch legal entity, to be a funded beneficiary at the Research and Innovation Action rate of 100%, so Type 1 and C1.3 fit. Both project dates are null because the call states no start, end or duration.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T1",
+      "T8"
+    ],
+    "role": [
+      "R2",
+      "R9",
+      "R10"
+    ],
+    "activity": [
+      "A2",
+      "A6",
+      "A8"
+    ],
+    "outcome": [
+      "O2",
+      "O4"
+    ]
+  }
+}
