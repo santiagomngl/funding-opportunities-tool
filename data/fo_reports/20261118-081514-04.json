@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "A tested, replicable model of governance, regulation, finance and procurement that lets a territory scale up solutions for one or more EU Missions.\nThe EU Missions are five EU programmes with targets for 2030: adaptation to climate change, cancer, restoring oceans and waters, climate-neutral and smart cities, and soil health. This topic supports their second phase (2026–2030), which focuses on scaling up solutions that are already proven but underused. Territories (countries, regions and interregional partnerships) must design and demonstrate the enabling conditions for that: multi-level governance (cooperation between local, regional, national and EU government), regulatory experimentation, public-public and public-private financing, and procurement strategies. The topic says explicitly that it should not fund individual technologies but place-based models that create the conditions for scaling them.",
+          "sources": "wp-12-missions_horizon-2026-2027_en.pdf · pp. 254–255 · HORIZON-MISS-2026-07-CROSS-04, Expected Outcome and Scope"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Projects should do six things, for one or more Missions chosen by the local authorities involved.\nWhat proposals should do:\n- address barriers at territorial level and demonstrate concrete governance, finance and policy models that foster scaling and deployment of the Missions\n- provide operational support for the move to the next EU long-term budget (the Multiannual Financial Framework, MFF) with tested, replicable models for multi-level governance and place-based implementation\n- co-develop and demonstrate governance, policy and finance models that enable wider deployment of tested solutions on the ground\n- support co-created place-based pathways for wider take-up across EU and associated-country territories, combining multi-level governance, regulatory experimentation, financing and procurement\n- test policy, governance and finance models that overcome systemic constraints such as fragmented regulation, limited risk appetite, lack of blended financing (public and private money combined) or insufficient cross-sector coordination\n- ensure continuous stakeholder engagement, with co-creation and participatory approaches, building on the Missions community\nExcluded: funding individual technologies as such.",
+          "sources": "wp-12-missions_horizon-2026-2027_en.pdf · pp. 254–255 · HORIZON-MISS-2026-07-CROSS-04, Expected Outcome and Scope"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The need lies with territories and their public authorities, which face systemic barriers to scaling solutions that already work.\nThe topic names the barriers: fragmented regulation, limited appetite for risk, lack of blended financing and insufficient cross-sector coordination. The need must be identified at territorial level and addressed by the territory's own models. For energy, a fitting case would be a city or region whose climate-neutrality solutions, such as heat pumps, charging or local renewables, stall because of grid capacity and the coordination between authorities and grid operators; this is our interpretation, as the topic names no sector.",
+          "sources": "wp-12-missions_horizon-2026-2027_en.pdf · pp. 254–255 · HORIZON-MISS-2026-07-CROSS-04, Expected Outcome and Scope"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "Tested models and pathways that other territories and future EU funding instruments can reuse.\nOutputs the topic expects:\n- demonstrated governance, policy, finance and regulatory-experimentation models for scaling Mission solutions\n- tested, replicable models suitable for multi-level governance and place-based implementation\n- co-created place-based pathways for wider take-up\n- best practices for replication in a wide range of EU funding instruments\nThe Joint Research Centre (JRC, the Commission's in-house science service) will support the selected projects with methods, assessment of scaling potential and policy lessons on what works.",
+          "sources": "wp-12-missions_horizon-2026-2027_en.pdf · pp. 254–255 · HORIZON-MISS-2026-07-CROSS-04, Expected Outcome and Scope\nwp-12-missions_horizon-2026-2027_en.pdf · pp. 255–256 · Support to the demonstration of place-based experimentation and innovation spaces (Joint Research Centre)"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Missions rooted more firmly in territories, with enabling environments for scaling and lessons that feed the next EU instruments.\nAll three expected outcomes must be addressed:\n- the territorial anchoring of the Missions is strengthened through multi-layered governance\n- enabling environments for scaling novel solutions that contribute to the Missions are established\n- analytical insights become territorial experimentation and best practices for replication in many EU funding instruments\nThe topic sets no numerical targets.",
+          "sources": "wp-12-missions_horizon-2026-2027_en.pdf · pp. 254–255 · HORIZON-MISS-2026-07-CROSS-04, Expected Outcome and Scope"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "The models must be replicable across territories and ready for use under the next EU budget.\n- Results must be designed for wider use: tested, replicable models for multi-level governance, and pathways for take-up across EU and associated-country territories.\n- Replication during the project is not required; the JRC will help make sure the pilots generate knowledge that transfers beyond the participating territories.\n- The models should demonstrate innovation impact pathways that lead to wider deployment of proven solutions.\n- Continuous stakeholder engagement and co-creation are required to make the models credible and legitimate.\n- The topic does not say who must operate or finance the models after the project.",
+          "sources": "wp-12-missions_horizon-2026-2027_en.pdf · pp. 254–255 · HORIZON-MISS-2026-07-CROSS-04, Expected Outcome and Scope\nwp-12-missions_horizon-2026-2027_en.pdf · pp. 255–256 · Support to the demonstration of place-based experimentation and innovation spaces (Joint Research Centre)"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "At least three independent partners from three different countries; no maximum.\nThe topic sets no exception to the standard Horizon Europe rule: at least one independent legal entity established in an EU Member State and at least two more, each in a different Member State or associated country.",
+          "sources": "wp-12-missions_horizon-2026-2027_en.pdf · pp. 253–254 · HORIZON-MISS-2026-07-CROSS-04, Specific conditions\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 13 · B Consortium composition"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "Local authorities should lead; other partner types are free, but the territories must be in EU Member States or associated countries.\nThe topic calls on territories (countries, regions and interregional partnerships) and says consortia should be led by local authorities established in them. It names no other required partner types. Because the work is co-creation with stakeholders and regulatory and financing experimentation, partners such as regional agencies, financiers, utilities or research organisations could fit; the topic does not name them.",
+          "sources": "wp-12-missions_horizon-2026-2027_en.pdf · pp. 254–255 · HORIZON-MISS-2026-07-CROSS-04, Expected Outcome and Scope"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "The topic sets no rules on sharing work or budget among partners.\nEvaluators check the capacity and role of each participant and whether the effort per work package fits.",
+          "sources": "wp-12-missions_horizon-2026-2027_en.pdf · pp. 254–255 · HORIZON-MISS-2026-07-CROSS-04, Expected Outcome and Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 23–24 · D Award criteria"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "A local authority should act as lead.\nThe topic says consortia should be led by local authorities established in the participating countries, regions and interregional partnerships. This is written as should, not must, but a proposal led by another type of organisation would go against the topic's intent.",
+          "sources": "wp-12-missions_horizon-2026-2027_en.pdf · pp. 254–255 · HORIZON-MISS-2026-07-CROSS-04, Expected Outcome and Scope"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "Unlikely: the topic says consortia should be led by local authorities, so TenneT TSO B.V. would not be the expected coordinator.",
+          "sources": "wp-12-missions_horizon-2026-2027_en.pdf · pp. 254–255 · HORIZON-MISS-2026-07-CROSS-04, Expected Outcome and Scope"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes: TenneT could join as an associated partner without funding, as Horizon Europe allows and the topic does not exclude it.\nAn associated partner takes part without signing the grant agreement and cannot charge costs. This could suit a supporting role, for example sitting in a regional coordination body that the project sets up.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 5 · B Associated partners\nwp-12-missions_horizon-2026-2027_en.pdf · pp. 253–254 · HORIZON-MISS-2026-07-CROSS-04, Specific conditions"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Yes, as a funded partner at up to 70% of its eligible costs, within a project grant of around EUR 1–1.5 million.\nThe action is an Innovation Action, funded at 70% for for-profit companies such as TenneT and up to 100% for non-profit entities. It is a budget-based grant (actual costs are reimbursed), with indirect costs at a 25% flat rate on direct costs. TenneT would have to finance at least 30% of its own costs. Funding comes directly from the EU; no Dutch national rules apply.",
+          "sources": "wp-12-missions_horizon-2026-2027_en.pdf · p. 254 · Specific conditions\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 31–32 · G Form of grant, funding rate and maximum grant amount; Budget categories\nTopic page HORIZON-MISS-2026-07-CROSS-04, EU Funding & Tenders Portal · General information (HORIZON-AG budget-based grant)"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "As the transmission operator in a Dutch territory that tests how grid planning and congestion management can be coordinated with local and regional government to scale climate-neutral solutions.\nTenneT could bring knowledge of grid capacity, connection queues and congestion, experience with regional coordination with DSOs and governments as in the Energy boards, and input to regulatory experimentation, for example on flexible connection contracts. A Dutch city or region taking part in the Climate-Neutral and Smart Cities Mission would be the natural lead. This is our interpretation: the topic does not mention energy or grid operators, and TenneT's role would have to fit a model chosen by the local authorities.",
+          "sources": "wp-12-missions_horizon-2026-2027_en.pdf · pp. 254–255 · HORIZON-MISS-2026-07-CROSS-04, Expected Outcome and Scope"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The project must innovate in how solutions are scaled, not create new technology: the solutions to scale should already be proven.\nThe topic targets solutions that are already proven but underutilised, and funds new policy, governance, finance and regulatory models around them.",
+          "sources": "wp-12-missions_horizon-2026-2027_en.pdf · pp. 254–255 · HORIZON-MISS-2026-07-CROSS-04, Expected Outcome and Scope"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Governance, policy, regulation, finance and procurement, combined into place-based models.\nThe topic asks for models that combine policy, regulatory, financial and governance innovation, including public-public and public-private financing and procurement strategies, and explicitly not individual technologies.",
+          "sources": "wp-12-missions_horizon-2026-2027_en.pdf · pp. 254–255 · HORIZON-MISS-2026-07-CROSS-04, Expected Outcome and Scope"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Design, testing and demonstration of models on the ground.\nThe topic asks territories to design and demonstrate models, to co-develop and demonstrate them, and to test them against systemic barriers.",
+          "sources": "wp-12-missions_horizon-2026-2027_en.pdf · pp. 254–255 · HORIZON-MISS-2026-07-CROSS-04, Expected Outcome and Scope"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "The models must be demonstrated in real territories, on the ground.\nThe topic is place-based: territories must demonstrate their governance, policy and finance models with tested solutions on the ground, including regulatory experimentation.",
+          "sources": "wp-12-missions_horizon-2026-2027_en.pdf · pp. 254–255 · HORIZON-MISS-2026-07-CROSS-04, Expected Outcome and Scope"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The models must combine policy, regulatory, financial and governance measures into one coherent approach across levels of government.\nThe topic calls for integrated multi-level governance, regulatory experimentation, financing and procurement, and for building on the Missions community developed during the first phase. Projects will work with the JRC, which compares approaches across territories.",
+          "sources": "wp-12-missions_horizon-2026-2027_en.pdf · pp. 254–255 · HORIZON-MISS-2026-07-CROSS-04, Expected Outcome and Scope\nwp-12-missions_horizon-2026-2027_en.pdf · pp. 255–256 · Support to the demonstration of place-based experimentation and innovation spaces (Joint Research Centre)"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "The projects must generate evidence on the scaling potential of the tested models; the JRC develops the methods.\nThe JRC will develop methods to assess the scaling potential of the tested models and pilots, compare approaches across territories and draw lessons on what works in overcoming barriers. The topic sets no indicators for the projects themselves.",
+          "sources": "wp-12-missions_horizon-2026-2027_en.pdf · pp. 255–256 · Support to the demonstration of place-based experimentation and innovation spaces (Joint Research Centre)"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "Stakeholders must take part throughout, through co-creation and participatory approaches.\nThe topic requires continuous stakeholder engagement while developing and testing the models, and co-creation of the place-based pathways, to make the models credible and legitimate.",
+          "sources": "wp-12-missions_horizon-2026-2027_en.pdf · pp. 254–255 · HORIZON-MISS-2026-07-CROSS-04, Expected Outcome and Scope"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "No specific safety or cybersecurity requirements; satellite data, if used, must come from Copernicus or Galileo/EGNOS.",
+          "sources": "wp-12-missions_horizon-2026-2027_en.pdf · pp. 253–254 · HORIZON-MISS-2026-07-CROSS-04, Specific conditions"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "Around EUR 1–1.5 million of EU funding per project, from a topic budget of EUR 3.62 million for about three projects.\n- Total project size: not set; a EUR 1.5 million grant at 70% corresponds to total costs of about EUR 2.1 million for for-profit partners (our calculation).\n- Grant request: per project (consortium); other amounts may be requested.\n- Funding form: budget-based actual-cost grant.",
+          "sources": "wp-12-missions_horizon-2026-2027_en.pdf · pp. 253–254 · HORIZON-MISS-2026-07-CROSS-04, Specific conditions\nwp-12-missions_horizon-2026-2027_en.pdf · p. 21 · Call - Cross-cutting activities, Overview of this call"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "Innovation Action rates apply: 70% for for-profit partners and up to 100% for non-profit partners such as local authorities.\n- For-profit entities: up to 70% of eligible costs; at least 30% own contribution.\n- Non-profit legal entities: up to 100%.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 31 · G Form of grant, funding rate and maximum grant amount"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Standard Horizon Europe cost rules apply.\n- Overheads and VAT: indirect costs at a 25% flat rate on direct costs, excluding subcontracting and financial support to third parties.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 32 · G Budget categories and cost eligibility rules"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: a full proposal through the Funding & Tenders Portal by 13 January 2027, 17:00 Brussels time.\n- Stage 1 — Full proposal: 13 January 2027, 17:00 Brussels time; standard Innovation Action form with a 40-page limit for Part B; open since 6 October 2026.",
+          "sources": "wp-12-missions_horizon-2026-2027_en.pdf · p. 21 · Call - Cross-cutting activities, Overview of this call (footnote 18)\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 4 · A Page limits\nTopic page HORIZON-MISS-2026-07-CROSS-04, EU Funding & Tenders Portal · Topic updates (submission session available)"
+        },
+        {
+          "title": "Project window",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Standard Horizon Europe timing applies: results about 5 months and grant signature about 8 months after the deadline.\n- Expected invitation or assessment result: around June 2027 (indicative).\n- Grant agreement: around September 2027 (indicative).",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 30 · F Indicative timetable for evaluation and for signature of the grant agreement"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "The standard Horizon Europe application; the topic adds no annexes.\n- Application form: Part A online and Part B as PDF, 40 pages.\n- Registration: a participant identification code (PIC) for each beneficiary; validation before grant signature.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 4–5, 27 · A Page limits; B Eligibility; E Documents"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Three criteria, each scored out of 5, with a threshold of 3 per criterion and 10 overall; Impact counts 1.5 times for ranking.\n- Evaluation criteria: Excellence, Impact, and Quality and efficiency of implementation.\n- Thresholds: 3 per criterion, 10 out of 15 overall.\n- Weighting: Impact weighted 1.5 for ranking Innovation Actions.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 23–26 · D Award criteria; Scores and weighting"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Only a satellite-data rule is added to the standard conditions.\n- Conditional — satellite positioning, navigation, timing or earth observation data used: Copernicus or Galileo/EGNOS must be used.",
+          "sources": "wp-12-missions_horizon-2026-2027_en.pdf · pp. 253–254 · HORIZON-MISS-2026-07-CROSS-04, Specific conditions"
+        }
+      ]
+    }
+  ]
+}

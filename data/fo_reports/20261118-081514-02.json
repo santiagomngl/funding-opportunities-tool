@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "One project that runs Europe's next support facility for European experts in global digital standards bodies, continuing the StandICT.eu projects.\nThe project must set up a management facility that supports contributions and leadership roles (for example chairing technical committees or acting as convenor) of European specialists in global digital standardisation. Most of the money goes on to these experts: at least 75% of the requested EU contribution should be passed on as financial support to third parties (grants that the project itself awards to others), selected through open calls. The project must also, where relevant, fund the hosting of international standardisation meetings in Europe (for example 3GPP, the mobile-network standards body, or ISO/IEC JTC1, the joint ISO and IEC committee for information technology), carry out landscape and gap analyses of standardisation in key digital areas, and promote standardisation and standardisation skills.\nThe need is a policy need of the EU: more experts from the EU and associated countries, especially from SMEs, research institutions, the open-source community, academia and civil society, should take part in and lead global standards-setting, to support EU competitiveness, technological sovereignty and EU values. The topic links this to the EU Standardisation Strategy, Europe's Digital Decade, the Apply AI Strategy and the Competitiveness Compass.",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 260–262 · HORIZON-CL4-2027-04-HUMAN-07, Specific conditions, Expected Outcome and Scope"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "More European experts, with better skills, active and leading in global digital standards, and better knowledge of where standards are missing.\nExpected outcomes named in the topic:\n- more participation and influence of European experts in digital standardisation, to strengthen EU competitiveness in the digital field\n- better skills of European experts, especially from SMEs, research, open source, academia and civil society, to contribute to and lead standards work\n- updated standardisation landscapes and gap analyses of key digital technologies listed in the Rolling Plan for ICT Standardisation (the Commission's yearly overview of where ICT standards are needed for EU policy)\n- foresight on standardisation needs in emerging technologies, in the short and medium term\n- more awareness of the benefits of standardisation, especially for SMEs and researchers, and more visibility of the European digital standardisation ecosystem\nThe topic sets no numerical targets.",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · p. 261 · HORIZON-CL4-2027-04-HUMAN-07, Expected Outcome"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "Any organisation, or group of organisations, established in an EU Member State or Horizon Europe associated country that can run an expert-funding facility; in practice standardisation support bodies, consultancies, research organisations and SME associations.\n- Lead applicant: the topic sets no restriction; as a Coordination and Support Action (a grant for coordination, networking and support work rather than research), the proposal may be submitted by one or more legal entities, which must be established in a Member State or associated country to receive funding.\n- Consortium: no minimum number of partners and no required partner types.\n- Distribution of work and money: at least 75% of the requested EU contribution should go to third parties through open calls, at most EUR 60,000 per third party; the beneficiaries must define how specialists are selected and how a pool of evaluators for the open calls is chosen. The remaining budget pays for running the facility, analyses and promotion.\n- Best suited: organisations with experience in managing open calls and in European and international standards bodies. The topic asks the project to build on the educational material and expert-funding facilities of the earlier StandICT.eu projects.",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 260–262 · HORIZON-CL4-2027-04-HUMAN-07, Specific conditions and Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 12–13 · B Eligibility, Coordination and Support Actions; Consortium composition"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": "The project does not have to produce new technology: it must organise, fund and promote standardisation work and analyse gaps in standards.\nThe innovation lies in the support measures: a facility that funds experts, landscape and gap analyses that identify new emerging technology areas needing standards, and tools and materials for education on standardisation. Evaluation of a Coordination and Support Action looks at the quality of the proposed coordination and support measures, not at going beyond the state of the art.",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · p. 262 · HORIZON-CL4-2027-04-HUMAN-07, Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 24 · D Award criteria, Coordination and support actions"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": "No technical demonstration is required; the work must link up with existing EU and national standardisation support initiatives.\nThe proposal shall build synergies with similar EU-funded and nationally funded initiatives and should take into account the earlier StandICT.eu projects (topics ICT-40-2017, ICT-45-2020, HORIZON-CL4-2022-RESILIENCE-01-21 and HORIZON-CL4-2024-HUMAN-03-04), at least for educational material and the facilities for funding experts. Its gap analyses must follow the Annual Union Work Programme for European standardisation and the Rolling Plan for ICT Standardisation.",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · p. 262 · HORIZON-CL4-2027-04-HUMAN-07, Scope"
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "The future facility will fund European experts in digital standards bodies, which could include the data, interoperability and smart-grid standards TenneT depends on; TenneT has no role in running it.\nThe Rolling Plan for ICT Standardisation, which the facility's analyses and expert funding must follow, is where the EU sets out its needs for digital standards. If the facility funds experts in grid-related data exchange and interoperability standards, this could support work such as InterOPERA (making HVDC equipment from different suppliers work together) and TwinEU (federated grid data across borders). TenneT staff could later apply to the facility's open calls as individual experts.\nTenneT cannot take part in a meaningful way itself: the rules would allow it as a legal entity in a Coordination and Support Action, but the topic sets out only work for an organisation that runs a funding and support facility, with at least 75% of the grant passed to individual specialists, so it does not set out a route for a grid operator.",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 260–262 · HORIZON-CL4-2027-04-HUMAN-07, Specific conditions and Scope"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "One project of around EUR 7 million, funded as a lump sum.\n- Total project size: the topic budget is EUR 7 million for about one project; the Commission estimates around EUR 7 million per project but other amounts may be requested.\n- Grant request: per project (consortium).\n- Funding form: lump sum (a fixed amount paid against completed work, not against reported costs), fixed from a detailed budget table in the proposal.",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 31–32 · Call - DIGITAL, Overview of this call\nwp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 260–261 · HORIZON-CL4-2027-04-HUMAN-07, Specific conditions"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "Coordination and Support Actions are funded at up to 100% of eligible costs, so no own contribution is required.\n- Co-financing conditions: none stated in the topic.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 31 · G Form of grant, funding rate and maximum grant amount"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Most of the budget must be passed on: at least 75% of the requested EU contribution should go to experts selected through open calls.\n- Caps or mandatory allocations: financial support to third parties only as grants, at most EUR 60,000 per third party.\n- Overheads and VAT: in Horizon Europe, indirect costs are a 25% flat rate of direct costs, excluding subcontracting and financial support to third parties; in a lump-sum grant this is built into the lump sum.",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · p. 260 · HORIZON-CL4-2027-04-HUMAN-07, Legal and financial set-up\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 32 · G Budget categories and cost eligibility rules"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: a full proposal through the Funding & Tenders Portal by 18 March 2027, 17:00 Brussels time.\n- Stage 1 — Full proposal: 18 March 2027, 17:00 Brussels time; standard Horizon Europe Coordination and Support Action application form, with a 28-page limit for Part B (the technical description) because the topic uses lump-sum funding; open since 17 November 2026.",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 30–31 · Call - DIGITAL, Overview of this call (opening, deadline, footnote 19)\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 4 · A Page limits\nTopic page HORIZON-CL4-2027-04-HUMAN-07, EU Funding & Tenders Portal · Topic updates (submission session available, 17 November 2026)"
+        },
+        {
+          "title": "Project window",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Standard Horizon Europe timing applies: results about 5 months and grant signature about 8 months after the deadline.\n- Expected invitation or assessment result: around August 2027 (indicative).\n- Grant agreement: around November 2027 (indicative).",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 30 · F Indicative timetable for evaluation and for signature of the grant agreement"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "The standard Horizon Europe application, with a detailed lump-sum budget table.\n- Application form: Part A online and Part B as PDF in the submission system, 28 pages for a lump-sum Coordination and Support Action.\n- Budget: the detailed budget table for lump-sum grants, whose costs must meet normal EU eligibility rules.\n- Mandatory annexes: none specific to this topic beyond the call-specific instructions and the information on financial support to third parties listed on the topic page.\n- Registration: each beneficiary needs a participant identification code (PIC) and must be validated before grant signature.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 4–5, 27 · A Page limits; B Eligibility; E Documents\nTopic page HORIZON-CL4-2027-04-HUMAN-07, EU Funding & Tenders Portal · Topic conditions and documents"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Three criteria, each scored out of 5, with a threshold of 3 per criterion and 10 overall.\n- Evaluation criteria: Excellence (clarity of objectives, quality of the coordination and support measures), Impact (credible pathways to the expected outcomes, dissemination and exploitation), Quality and efficiency of implementation (work plan, risks, resources, capacity of the participants).\n- Thresholds: 3 out of 5 per criterion; 10 out of 15 overall.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 24, 26 · D Award criteria; Scores and weighting"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "The granting authority can block transfers of results for four years after the project.\n- Exception — ownership of results: beneficiaries must accept that the granting authority may, up to 4 years after the end of the action, object to a transfer of ownership or exclusive licensing of results.",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · p. 260 · HORIZON-CL4-2027-04-HUMAN-07, Legal and financial set-up of the Grant Agreements"
+        }
+      ]
+    }
+  ]
+}

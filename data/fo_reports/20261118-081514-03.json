@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "A solution from a finished EU research project, taken out of the lab and tested, validated and prepared for real use and market entry.\nThe project must build on results of an earlier Horizon Europe project funded under Pillar II (the part of Horizon Europe for collaborative research in six thematic Clusters; Cluster 5 covers climate, energy and mobility). That earlier project must have had several beneficiaries, must have been a Research and Innovation Action, an Innovation Action or a Pre-commercial Procurement action managed by the Commission or one of its agencies, and must have ended before the submission deadline. The new project then brings that result closer to production and adoption, for example as a product, service, process or business model.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 73–75 · HORIZON-BRIDGING-2027-02-05, Specific conditions\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 76–78 · HORIZON-BRIDGING-2027-02-05, Expected Outcome and Scope"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "The project must cover more than one of five late-stage activity types, starting beyond the laboratory, for a result of one completed Pillar II project.\nActivity types named in the topic (at least two must be covered):\n- Validation and testing: piloting prototypes in repeated tests, meeting regulatory or other standards, user approval tests or trials in real settings, stress tests at scale\n- Commercialisation: regulatory compliance, standardisation or certification, business or pricing strategies, market-entry planning\n- Scaling and operations: large-scale validation such as interoperability, standardised quality assurance, supply-chain and operational readiness, plans to ramp up manufacturing or delivery\n- Stakeholder, user and market readiness: co-creation and feedback with users or customers\n- Deployment and investment bridging: partnering to widen market reach and securing investment for the next phase from EU or national deployment programmes or investment funds\nMandatory conditions: the proposal must name the primary earlier project (grant number and acronym); it may add results from other closely related EU, national or regional projects only if they strengthen the main result. Results of projects run by co-funded partnerships or joint undertakings, of ongoing projects, and of projects funded through financial support to third parties are excluded. Research and technology infrastructures may be used where relevant.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 73–75 · HORIZON-BRIDGING-2027-02-05, Specific conditions\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 76–78 · HORIZON-BRIDGING-2027-02-05, Expected Outcome and Scope"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The need is the gap between promising EU research results and their actual use: too few results become used products and services.\nThe topic starts from the European R&I system itself: Pillar II projects produce many high-potential results, but more of them should be turned into innovative products, processes, services, practices or business models. The demand side must shape the project: end users and market actors should co-develop and validate the solutions in real-world settings, so that their needs are built in. End users may be public or private. For a grid operator, a fitting need would be a result from a finished Cluster 5 grid project that it wants to test in its own operations before procuring it; this is our interpretation, as the topic is open to all sectors.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 76–78 · HORIZON-BRIDGING-2027-02-05, Expected Outcome and Scope"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "A solution validated in real-world conditions, plus a business plan or exploitation strategy and measurable impact indicators.\nOutputs the topic expects:\n- prototypes refined and tested, piloted or validated at scale under real-world conditions\n- results of regulatory, standardisation or certification work where chosen\n- key performance indicators or a similar framework to measure and follow up impact\n- a business plan or exploitation strategy, including risks and mitigation, further developed during the project, which names the beneficiary responsible for scaling up and foresees a first deployment in the EU or associated countries",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 76–78 · HORIZON-BRIDGING-2027-02-05, Expected Outcome and Scope"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Faster commercialisation and adoption of Horizon Europe results in Europe, with benefits that may be societal as well as monetary.\nAll three expected outcomes must be addressed:\n- Pillar II solutions move further towards uptake and deployment in the EU and associated countries, strengthening the capacity of European public and private organisations to use innovative solutions\n- end users and market actors co-develop and validate highly innovative solutions in real settings, reducing the risk of the innovation journey\n- accelerated commercialisation, adoption and deployment, supporting societal benefits, competitiveness, resilience and strategic autonomy\nProposals must state the expected scale (for example number of users or markets) and significance (incremental or fundamental change) of the impacts, with metrics where relevant. Impacts may include wellbeing, clean transformation, resilience or strategic autonomy. If the work falls under STEP (the Strategic Technologies for Europe Platform: digital and deep tech, clean and resource-efficient tech, biotech), the proposal should show how it brings cutting-edge technologies to the internal market or reduces EU strategic dependencies.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 76–78 · HORIZON-BRIDGING-2027-02-05, Expected Outcome and Scope"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "The result must be designed for wider deployment, not as an isolated pilot, with a named organisation responsible for scaling it up.\n- The exploitation strategy should envisage a first deployment in the EU or associated countries.\n- The proposal should identify which beneficiary (for example industry, a company or a public authority) is responsible for scaling up the solution.\n- Replication during the project is optional: market replication under real-world conditions is one of the activities the topic lists.\n- Standards, interoperability and certification can be part of the work but are not mandatory.\n- The proposal should cover partnering and securing investment for the next phase where it chooses the investment-bridging activity.\n- After the project, beneficiaries that want to transfer ownership or grant exclusive licences of results must accept that the granting authority may object up to 4 years after the end.\n- Proposals that pass all thresholds receive a STEP Seal (a quality label that can help attract other public or private funding).",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 73–75 · HORIZON-BRIDGING-2027-02-05, Specific conditions\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 76–78 · HORIZON-BRIDGING-2027-02-05, Expected Outcome and Scope"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "At least three and at most six independent partners.\nThe standard Horizon Europe rule requires at least three independent legal entities from three different countries, at least one in an EU Member State and the others in Member States or associated countries. This topic adds a maximum of six independent eligible entities. Affiliated entities (organisations legally linked to a partner) do not count towards the minimum.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 73–75 · HORIZON-BRIDGING-2027-02-05, Specific conditions\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 13 · B Consortium composition"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "End users must be partners (beneficiaries) in the consortium, and the consortium must own or have access to the earlier project's results.\n- End users, public or private, must be beneficiaries and named in the proposal, to test the solution and make sure it meets their needs; further end users may be subcontracted for additional testing.\n- The consortium does not have to include partners of the earlier project, but it must prove ownership of or access to the results, by either confirming that one applicant owns the results and has the rights to use them, or including a commitment letter from the owner offering fair, reasonable and non-discriminatory access.\n- Entities controlled directly or indirectly by China or a Chinese entity are not eligible.\n- Applicants should justify the composition and how it brings the needed expertise and results ownership.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 73–75 · HORIZON-BRIDGING-2027-02-05, Specific conditions\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 76–78 · HORIZON-BRIDGING-2027-02-05, Expected Outcome and Scope"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "The topic sets no fixed split of work or budget; the proposal must justify roles and name who scales up the solution.\nThe evaluation checks the capacity and role of each participant and whether the effort per work package is appropriate. The beneficiary responsible for scaling up must be identified in the business plan or exploitation strategy.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 76–78 · HORIZON-BRIDGING-2027-02-05, Expected Outcome and Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 23–24 · D Award criteria"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "Any eligible partner may coordinate; the topic sets no requirement on the type of lead organisation.\nThe coordinator submits the proposal and confirms the mandate to act for all applicants.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 73–75 · HORIZON-BRIDGING-2027-02-05, Specific conditions\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 27 · E Documents, Submission"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "Yes: TenneT TSO B.V. may coordinate, as the topic places no restriction on the lead organisation.\nTenneT is a legal entity established in an EU Member State, so it meets the general eligibility rules. Coordinating means TenneT would submit the proposal for a consortium of three to six partners and carry the responsibility for proof of access to the earlier project's results. In practice, a coordinator owning or co-owning the result (for example a partner of the finished project) is better placed to show ownership.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 73–75 · HORIZON-BRIDGING-2027-02-05, Specific conditions\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 4–5, 13 · B Eligibility; Consortium composition"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes, TenneT could also join as an associated partner without funding, but the topic expects end users to be funded beneficiaries.\nHorizon Europe allows associated partners (organisations that take part without signing the grant agreement or charging costs). However, the topic says end users should be represented as a beneficiary in the consortium, so if TenneT is the end user it would normally sign the grant agreement. TenneT could also be subcontracted by the consortium as an additional end user for further testing.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 76–78 · HORIZON-BRIDGING-2027-02-05, Expected Outcome and Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 5 · B Associated partners"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Yes: as a for-profit company TenneT could receive up to 70% of its eligible costs, within a project grant of up to EUR 2.5 million.\nThe action is an Innovation Action (close-to-market work), funded at 70% for profit-making entities and up to 100% for non-profit entities. The grant is a lump sum (a fixed amount agreed in advance and paid against completed work packages, not against reported costs), so the 70% rate is applied when the lump sum is fixed. TenneT must finance at least 30% of its own costs. The topic does not set national Dutch rules; Horizon Europe funding comes directly from the EU.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 73–75 · HORIZON-BRIDGING-2027-02-05, Specific conditions\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 31–32 · G Form of grant, funding rate and maximum grant amount"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "As the end user that tests a result of a completed Cluster 5 grid project in its own systems and decides whether it is ready to procure.\nCredible contributions would be: defining operational requirements, offering a test site, control-room environment or grid data for validation under real conditions, judging interoperability with existing assets and systems, and preparing a first deployment in the Netherlands. A natural fit would be results of energy projects such as InterOPERA (multi-vendor HVDC interoperability) or TwinEU (federated grid data for resilience) but only once they have ended: the earlier project must have finished before the deadline of 28 January 2027. This is our interpretation; the topic is open to results from all Clusters.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 73–75 · HORIZON-BRIDGING-2027-02-05, Specific conditions\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 76–78 · HORIZON-BRIDGING-2027-02-05, Expected Outcome and Scope"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The project must take an existing, promising research result further towards use; it does not have to create new knowledge.\nThe topic aims to bring existing Pillar II results closer to production and adoption, and proposals should be highly innovative solutions co-developed with end users. Complementary background results from related projects may be integrated if they strengthen the main result.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 76–78 · HORIZON-BRIDGING-2027-02-05, Expected Outcome and Scope"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Any combination: products, services, processes, practices or business models.\nThe topic names technology (prototypes, products), processes, operational readiness (supply chains, quality assurance), market arrangements (business and pricing strategies) and regulatory compliance and standardisation. Impacts may be societal as well as commercial.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 76–78 · HORIZON-BRIDGING-2027-02-05, Expected Outcome and Scope"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Only the later stages: prototyping, testing, demonstration, piloting, large-scale validation and market replication.\nThe proposed activities must start beyond the laboratory or research environment. Research infrastructures and technology infrastructures may be used where relevant.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 76–78 · HORIZON-BRIDGING-2027-02-05, Expected Outcome and Scope"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "For results from Clusters 3 to 6, including energy, the project should start at TRL 6 (technology demonstrated in a relevant environment).\nFor results from Clusters 1 or 2 the activities must start beyond the lab under real-world conditions. The topic sets no end TRL, but the focus on piloting, large-scale validation and market entry points to near-market maturity.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 73–75 · HORIZON-BRIDGING-2027-02-05, Specific conditions"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "The solution must be tested in real-world settings with end users, not only in a lab.\nThe topic asks for prototyping, testing, piloting, large-scale product validation and market replication under real-world conditions, and for end users and market actors to validate the solutions in real settings.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 76–78 · HORIZON-BRIDGING-2027-02-05, Expected Outcome and Scope"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The work must form one innovation pathway for one main result, though it may combine complementary results from related projects.\nOnly one earlier project can be the primary one; other EU, national or regional results may be added only if they strengthen the market readiness of the main result. The topic asks for activities such as interoperability validation and preparation of supply chains and operational readiness, which concern how the solution fits existing systems and organisations.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 73–75 · HORIZON-BRIDGING-2027-02-05, Specific conditions\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 76–78 · HORIZON-BRIDGING-2027-02-05, Expected Outcome and Scope"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "The project must prove its wider impact with key performance indicators and evidence of scale, significance and value for investment.\nProposals should set out key performance indicators or a similar framework to measure and follow up impact, and specify, with metrics where relevant, the expected scale (for example number of users, industries or markets) and significance of the impact, plus a business plan or exploitation strategy.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 76–78 · HORIZON-BRIDGING-2027-02-05, Expected Outcome and Scope"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "Users must be partners and co-develop, test and validate the solution.\nEnd users must be beneficiaries in the consortium to test feasibility and ensure the innovations meet their needs; additional end users may be subcontracted for more testing. The topic also names co-creation and iterative feedback with users and customers as an activity type.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 76–78 · HORIZON-BRIDGING-2027-02-05, Expected Outcome and Scope"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "Projects may involve classified or security-sensitive information, and Chinese-controlled entities are excluded.\n- Some activities may use classified background or produce security-sensitive results, under the security rules of the General Annexes.\n- If satellite positioning, navigation, timing or earth observation data are used, Copernicus or Galileo/EGNOS must be used.\n- Entities controlled from China may not take part.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 73–75 · HORIZON-BRIDGING-2027-02-05, Specific conditions"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "Up to EUR 2.5 million of EU funding per project, as a lump sum.\n- Total project size: not set; at a 70% rate, a EUR 2.5 million grant corresponds to total costs of about EUR 3.6 million for for-profit partners (our calculation).\n- Grant request: up to EUR 2.5 million per project (consortium), from a topic budget of EUR 32.5 million for about 13 projects.\n- Funding form: lump sum.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 73–75 · HORIZON-BRIDGING-2027-02-05, Specific conditions\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · p. 20 · Call - Bridging actions 2027, Overview of this call"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "Innovation Action rates apply: 70% for for-profit partners such as TenneT and up to 100% for non-profit partners.\n- For-profit entities: up to 70% of eligible costs; at least 30% own contribution.\n- Non-profit legal entities: up to 100%.\n- Co-financing conditions: the topic sets none beyond the funding rate.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 31 · G Form of grant, funding rate and maximum grant amount"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "The lump sum is fixed from a detailed budget table whose costs must meet normal EU eligibility rules.\n- Eligible costs: personnel, subcontracting, purchases, and indirect costs at a 25% flat rate on direct costs excluding subcontracting.\n- Subcontracting or equipment: subcontracting of additional end users for testing is explicitly allowed; purchases and subcontracting must give best value for money and be free of conflicts of interest.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 76–78 · HORIZON-BRIDGING-2027-02-05, Expected Outcome and Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 27, 32 · E Documents; G Budget categories and cost eligibility rules"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: a full proposal through the Funding & Tenders Portal by 28 January 2027, 17:00 Brussels time.\n- Stage 1 — Full proposal: 28 January 2027, 17:00 Brussels time; standard Innovation Action form with a 45-page limit for Part B (lump-sum topic); open since 20 October 2026; consortium of three to six independent partners with proof of access to the earlier project's results.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · p. 20 · Call - Bridging actions 2027, Overview of this call (footnote 20)\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 4 · A Page limits\nTopic page HORIZON-BRIDGING-2027-02-05, EU Funding & Tenders Portal · Topic updates (submission session available)"
+        },
+        {
+          "title": "Project window",
+          "answer": "Projects may last at most 3 years.\n- Maximum duration: 36 months.\n- Required start: not set in the topic; normally after grant signature, retroactive start only in exceptional cases.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 76–78 · HORIZON-BRIDGING-2027-02-05, Expected Outcome and Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 30–31 · G Starting date & project duration"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "A fast-track procedure applies: results within 4 months and grant signature within 6 months of the deadline.\n- Expected invitation or assessment result: by the end of May 2027 at the latest (4 months after 28 January 2027).\n- Grant agreement: by the end of July 2027 at the latest (6 months after the deadline).",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 73–75 · HORIZON-BRIDGING-2027-02-05, Specific conditions"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "The standard application, a detailed lump-sum budget table, the earlier project's grant number and proof of access to its results.\n- Application form: Part A online and Part B as PDF, 45 pages.\n- Budget: detailed budget table for the lump sum.\n- Mandatory annexes: confirmation that an applicant owns the relevant results and rights, or a commitment letter from the owner offering fair, reasonable and non-discriminatory access; for proposals based on several earlier projects, evidence for each.\n- Partner documents: the proposal must state the grant number and acronym of the primary earlier project.\n- Registration: a participant identification code (PIC) for each beneficiary; validation before grant signature.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 73–75 · HORIZON-BRIDGING-2027-02-05, Specific conditions\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 4–5, 27 · A Page limits; B Eligibility; E Documents"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Higher thresholds than usual: at least 4 out of 5 on each criterion and 12 overall, with portfolio balance across Clusters.\n- Evaluation criteria: Excellence, Impact, and Quality and efficiency of implementation.\n- Thresholds: 4 per criterion, 12 out of 15 overall.\n- Weighting: for ranking Innovation Actions, the Impact score counts 1.5 times.\n- Ranking rules: besides ranking order, at least the two highest-ranked proposals from different Clusters are funded if they pass all thresholds, to balance the portfolio across Clusters 1 to 6.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · p. 75 · HORIZON-BRIDGING-2027-02-05, Award criteria and Procedure\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 26 · D Scores and weighting"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Extra rules apply to clinical studies, satellite data and transfers of results.\n- Conditional — satellite data used: Copernicus or Galileo/EGNOS must be used.\n- Conditional — STEP-relevant technology: show how the project brings technologies to the internal market or reduces strategic dependencies.\n- Conditional — clinical studies: details in the dedicated annex.\n- Exception — transfer or exclusive licensing of results: the granting authority may object up to 4 years after the project.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 73–75 · HORIZON-BRIDGING-2027-02-05, Specific conditions\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 76–78 · HORIZON-BRIDGING-2027-02-05, Expected Outcome and Scope"
+        }
+      ]
+    }
+  ]
+}
