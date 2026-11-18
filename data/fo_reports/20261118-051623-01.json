@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "Real-life demonstrations of zero-emission coaches and buses running long-distance passenger services, with the charging set-up they need.\nThe project must develop and demonstrate sustainable, affordable zero-emission solutions for long-distance people mobility (regional, national and cross-border routes) where vehicle weight, range and energy demand are still a barrier. It must use at least 5 coaches and buses on several operational routes or cross-border corridor segments, with an average of at least 500 km in extra-urban operation. Shared charging solutions usable by several operators and vehicle types, and their effects on the electricity grid, are a mandatory part of the demonstrations.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 222–223 · HORIZON-CL5-2027-03-D5-04, Expected Outcome and Scope"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "All listed activities are mandatory: fleet demonstrations, shared charging solutions, grid impacts, business models and interior design.\nThe topic says proposals are expected to address all of the following:\n- New business cases, operating models and smart management of coach and bus fleets for different regions\n- Testing concepts, tools and models directly with European bus and coach makers and operators, including the switch from long-distance to urban service at intermodal hubs (stations where travellers change mode) and park-and-ride sites\n- Demonstrations with at least 5 vehicles on routes averaging at least 500 km outside cities\n- Demonstrations covering planning, optimised charging or refuelling schedules, passenger experience, driving-time rules, cross-border trips, charging solutions and impacts on the grid, plus replication, recommendations, new business models and an analysis of remaining legal barriers\n- Shared charging solutions for several operators and vehicle types, addressing technical and operational issues, the rush hour at charging stations and the balancing of energy demand and supply, including seasonal effects\n- More flexible interior design to improve comfort, safety and inclusiveness\nProjects should build on earlier 2ZERO (the EU partnership Towards zero emission road transport) bus and heavy-duty vehicle projects. The topic names no excluded activities. Both battery charging and refuelling (for example with hydrogen) are mentioned, so the topic does not prescribe one technology.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 222–223 · HORIZON-CL5-2027-03-D5-04, Expected Outcome and Scope"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The need comes from passenger transport operators: zero-emission buses work in cities, but range, weight and charging limits block long-distance services.\nZero-emission buses are already in use for urban and suburban service in Europe. For long-distance coach and bus travel, range, vehicle weight and the available charging infrastructure still limit the switch. The problem is owned by bus and coach operators and makers, and by travellers who need comfortable, inclusive services. The expected outcomes add the energy side: solutions must take net congestion (shortage of grid capacity) and charging into account, so grid operators are among those affected by where and when these vehicles charge.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 222–223 · HORIZON-CL5-2027-03-D5-04, Expected Outcome and Scope"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "Operational fleet demonstrations, shared charging solutions, business models and recommendations for replication.\nExpected outputs:\n- Demonstrations with at least 5 zero-emission coaches and buses on long-distance routes\n- Optimised charging or refuelling schedules and fleet-management tools\n- Shared charging solutions and hubs usable by several operators and vehicle types\n- Analysis of the impacts of charging on the grid and of balancing energy demand and supply at charging sites\n- New business models and an analysis of remaining legal barriers\n- Recommendations and best practices for replication beyond the demonstration partners\n- Improved interior designs\n- Reporting of results to the 2ZERO partnership for monitoring its key performance indicators",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 222–223 · HORIZON-CL5-2027-03-D5-04, Expected Outcome and Scope"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Reliable long-distance zero-emission bus and coach services, integrated in regular operations and replicated beyond the original partners.\nThe topic expects all of the following outcomes:\n- Results of the demonstrations integrated into the regular operation of passenger transport operators, and faster replication beyond the original partners\n- Reliable operation of long-distance zero-emission buses and coaches in the EU\n- Better comfort and links with other transport modes\n- Zero-emission long-distance solutions demonstrated in a holistic approach that takes net congestion and charging solutions into account\nAt the level of the destination (the Work Programme section the topic belongs to), the expected impact includes interoperable solutions developed at system level across vehicles, infrastructure, users and the energy grid. The topic sets no numerical targets beyond the fleet size and route length.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 222–223 · HORIZON-CL5-2027-03-D5-04, Expected Outcome and Scope\nwp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · p. 210 · Destination Clean and competitive solutions for all transport modes, Zero-emission road transport"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "Results must be ready for regular operation and replication by other operators; the project must share recommendations and best practices.\n- Wider use: the results must be integrated into regular operation of passenger transport operators and replicated beyond the original demonstration partners, using recommendations and best practices; replication activities are part of the demonstrations themselves.\n- Business model: new business cases and business models are required.\n- Legal barriers: the remaining legal barriers must be analysed.\n- Shared use: charging solutions must work for multiple operators and other vehicle types.\n- Reporting: results must be reported to the 2ZERO partnership.\n- Exploitation: every proposal must include a plan for exploitation and dissemination of results.\n- Transfer of results: up to 4 years after the end of the project, the granting authority may object to a transfer of ownership or exclusive licensing of results.\nThe topic sets no specific standard or interoperability requirement.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 222–223 · HORIZON-CL5-2027-03-D5-04, Expected Outcome and Scope\nwp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 221–222 · HORIZON-CL5-2027-03-D5-04, Specific conditions\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 4 · A — Admissibility"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "At least three independent organisations from three different countries; no maximum is set.\nThe general Horizon Europe rule applies: at least three independent legal entities (organisations not controlled by one another), each in a different country, with at least one in an EU Member State and two more in other Member States or Associated Countries (non-EU countries taking part in Horizon Europe). In practice the fleet demonstrations on several routes or cross-border corridors point to a larger consortium.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 13 · B — Eligibility, Consortium composition\nwp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 222–223 · HORIZON-CL5-2027-03-D5-04, Expected Outcome and Scope"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "Bus and coach makers and operators must be directly involved; organisations controlled from China are excluded.\n- Required involvement: concepts, tools and models must be tested and applied with direct involvement of European bus and coach providers and operators.\n- Countries: demonstrations run on routes in the EU and/or corridor segments in different Member States or Associated Countries.\n- Excluded: legal entities established in China, and entities in eligible countries directly or indirectly controlled by China or a Chinese entity.\n- Other partner types: the topic names none, but the charging, grid-impact and energy-balancing work gives a natural place to charging-point operators, energy companies and grid operators.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 222–223 · HORIZON-CL5-2027-03-D5-04, Expected Outcome and Scope\nwp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 221–222 · HORIZON-CL5-2027-03-D5-04, Specific conditions\nwp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · p. 210 · Destination Clean and competitive solutions for all transport modes"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "Any eligible partner may coordinate; the topic sets no extra condition.\nThe coordinator must be one of the beneficiaries (the partners that sign the grant agreement) and must meet the same eligibility conditions as all other partners. In practice an operator or vehicle maker is the most likely lead, since the demonstrations rely on their fleets.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 13 · B — Eligibility, Consortium composition\nwp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 221–222 · HORIZON-CL5-2027-03-D5-04, Specific conditions"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "Formally yes: TenneT TSO B.V. is established in an EU Member State and meets the eligibility rules, but leading a bus-fleet demonstration is unrealistic.\nThe topic sets no restriction on who coordinates. The core of the project is the operation of coach and bus fleets, which TenneT does not run, so the coordinator would most plausibly be an operator, a vehicle maker or a research organisation.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 4–5, 13 · B — Eligibility\nwp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 222–223 · HORIZON-CL5-2027-03-D5-04, Expected Outcome and Scope"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes, as a beneficiary or as an associated partner without funding, most plausibly on grid impacts and congestion.\nAny legal entity may take part. Besides joining as a funded beneficiary, an organisation may be an associated partner (it takes part in the work without signing the grant agreement and without charging costs). The demonstrations must cover impacts on the grid and net congestion, and the shared charging hubs must balance energy demand and supply, so a grid operator has a role supported by the topic text.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 5 · B — Specific cases, Associated partners\nwp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 222–223 · HORIZON-CL5-2027-03-D5-04, Expected Outcome and Scope"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Yes, up to 70% of TenneT's eligible costs, under the standard Horizon Europe rules; there is no separate Dutch rule.\nThe topic is an Innovation Action paid as a budget-based grant (it reimburses eligible costs actually incurred). For-profit organisations such as TenneT receive at most 70% of eligible costs, so TenneT would finance at least 30% itself; non-profit organisations may receive up to 100%. Indirect costs are covered by a flat rate of 25% of eligible direct costs. The EU pays the grant directly; no national agency is involved.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 31–32 · G — Form of grant, funding rate and maximum grant amount, Budget categories\nFunding & Tenders Portal topic page HORIZON-CL5-2027-03-D5-04 · Conditions and General information"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT could analyse how shared coach-charging hubs affect transmission-grid congestion and how their charging could be shifted to ease it.\nThis is our interpretation. Large charging hubs for coaches on long-distance corridors are high-power loads, and the topic explicitly asks for impacts on the grid, net congestion and the balancing of energy demand and supply. TenneT could contribute congestion data and forecasts for the Dutch high-voltage grid, as in Grids & Benefits (forecasting congestion across grid levels to signal when to charge electric vehicles), and regional connection planning through the Energy boards it runs with distribution system operators. It could help define smart-charging schedules that respond to grid conditions, test whether such flexible charging could serve as a congestion or balancing resource, and share lessons on connecting charging hubs. Its role would be a partner with a small work share, likely alongside a regional distribution system operator, which usually connects charging sites.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 222–223 · HORIZON-CL5-2027-03-D5-04, Expected Outcome and Scope"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The project may integrate existing zero-emission vehicles and charging technology, but must demonstrate new operating models and shared charging solutions in real long-distance service.\nAs an Innovation Action, the topic funds plans, designs and demonstrations of new or improved products, processes or services, including piloting and market replication, rather than basic research. The novelty lies in applying zero-emission buses to demanding long-distance operation, in new operating and business models, and in shared charging hubs.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 222–223 · HORIZON-CL5-2027-03-D5-04, Expected Outcome and Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 14 · B — Eligible activities"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "A combination of technology, operational methods and business models.\nThe innovation must cover vehicle and charging technology (shared charging solutions, interior design), operations (fleet management, charging and refuelling schedules, cross-border operation, intermodal transfers) and business and market arrangements (new business models and operating models), plus an analysis of legal barriers.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 222–223 · HORIZON-CL5-2027-03-D5-04, Expected Outcome and Scope"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Mainly demonstration and deployment in regular operation, with development of tools and solutions.\nThe topic asks to develop solutions, test and apply concepts, tools and models with operators, and demonstrate them on operational routes, leading to integration in regular operation and replication. Activities may start at any maturity level.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 222–223 · HORIZON-CL5-2027-03-D5-04, Expected Outcome and Scope\nwp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 221–222 · HORIZON-CL5-2027-03-D5-04, Specific conditions"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "Activities may start at any TRL and must reach TRL 7–8 by the end.\nTRL (Technology Readiness Level) is a 1–9 maturity scale: TRL 7 is a system prototype demonstrated in an operational environment and TRL 8 a system that is complete and qualified.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 221–222 · HORIZON-CL5-2027-03-D5-04, Specific conditions\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 15 · B — Technology Readiness Levels"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "The solution must be demonstrated in real operation: at least 5 coaches and buses on several operational long-distance routes or cross-border corridors.\nRoutes must average at least 500 km in extra-urban (outside-city) operation and may cross borders between Member States or Associated Countries. Demonstrations must cover planning, charging or refuelling schedules, passenger experience, driving-time rules, cross-border trips, charging solutions and impacts on the grid, and include the transition to urban service at intermodal hubs and park-and-ride sites.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 222–223 · HORIZON-CL5-2027-03-D5-04, Expected Outcome and Scope"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The work must form one holistic system linking vehicles, fleet operation, shared charging and the electricity grid.\nThe expected outcomes ask for solutions in a holistic approach that takes net congestion and charging solutions into account. Shared charging hubs must work for multiple operators and vehicle types, address technical and operational issues and balance energy demand and supply, so the project must interact with existing charging infrastructure, the grid and operators' timetables and processes. Results must be integrated into the regular operations of transport operators.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 222–223 · HORIZON-CL5-2027-03-D5-04, Expected Outcome and Scope"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "The demonstrations must show reliable long-distance zero-emission operation and produce recommendations for replication.\nThe topic asks for evidence on reliable operation, charging and refuelling schedules, grid impacts, the rush hour at charging stations, seasonal effects, business viability and legal barriers. Projects must report results to 2ZERO to support monitoring of its key performance indicators. The topic sets no further numerical indicators.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 222–223 · HORIZON-CL5-2027-03-D5-04, Expected Outcome and Scope"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "Operators must be directly involved in testing, and interior design must be based on user needs.\nConcepts, tools and models must be tested and applied with direct involvement of bus and coach providers and operators. Interior design must start from user needs to improve comfort, safety and inclusiveness for passengers.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 222–223 · HORIZON-CL5-2027-03-D5-04, Expected Outcome and Scope"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "Safety appears only through interior design and driving-time rules; there are no call-specific cybersecurity or data requirements.\nThe interior design must enhance travel safety, and demonstrations must take driving-time regulations into account. If satellite positioning or navigation data are used, they must come from the EU systems Galileo/EGNOS (and/or Copernicus for Earth observation).",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 222–223 · HORIZON-CL5-2027-03-D5-04, Expected Outcome and Scope\nwp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 221–222 · HORIZON-CL5-2027-03-D5-04, Specific conditions"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "EUR 13.5 million in total for around one project.\n- Grant request: the Commission estimates an EU contribution of around EUR 13.5 million per project; proposals requesting other amounts may still be submitted and selected.\n- Funding form: budget-based grant (actual costs: the grant reimburses the eligible costs actually incurred, at the funding rate).",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 221–222 · HORIZON-CL5-2027-03-D5-04, Specific conditions\nwp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · p. 41 · Call - MOBILITY, Overview of this call\nFunding & Tenders Portal topic page HORIZON-CL5-2027-03-D5-04 · General information"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "As an Innovation Action, the topic funds up to 70% of eligible costs for companies and up to 100% for non-profit organisations.\n- Companies and other for-profit organisations, including TenneT: up to 70%, so they must finance at least 30% of their costs themselves.\n- Non-profit organisations, such as universities and research institutes: up to 100%.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 31 · G — Form of grant, funding rate and maximum grant amount"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Costs are reimbursed under the standard Horizon Europe actual-cost rules, with a 25% flat rate for indirect costs.\n- Eligible costs: personnel, subcontracting and purchase costs actually incurred, or unit costs where allowed; vehicles and charging equipment used in the demonstrations would fall under purchase costs.\n- Overheads: indirect costs are covered by a flat rate of 25% of eligible direct costs, excluding subcontracting and financial support to third parties.\n- Profit: the grant may not produce a profit; any surplus is deducted from the final grant.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 31–32 · G — Form of grant, Budget categories and cost eligibility rules"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One submission stage, through the Funding & Tenders Portal electronic submission system.\n- Stage 1 — Full proposal: 14 April 2027, 17:00 Brussels time; the call opens on 15 December 2026. Any eligible consortium may apply.\n- Additional procedure: the responsible Director-General may open the call up to one month earlier or later than planned and may delay the deadline by up to two months.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · p. 41 · Call - MOBILITY, Overview of this call and footnote 59\nFunding & Tenders Portal topic page HORIZON-CL5-2027-03-D5-04 · General information"
+        },
+        {
+          "title": "Project window",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Applicants hear the result about five months after the deadline and sign the grant about eight months after it.\n- Expected assessment result: around September 2027 (about 5 months after 14 April 2027), indicative.\n- Grant agreement: around December 2027 (about 8 months after the deadline), indicative.\n- Conditions before starting: each participant must have its organisation validated by the Central Validation Service and confirm a declaration of honour before the grant is signed; the project normally starts after signature.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 30 · F — Indicative timetable for evaluation and grant agreement; G — Starting date\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 5, 27 · B — Registration; E — Documents"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "The proposal must be complete on the submission-system forms, with a Part B of at most 40 pages and an exploitation and dissemination plan.\n- Application form: Part A (administrative data and budget summary, filled in online) and Part B (technical description, uploaded as PDF) from the Funding & Tenders Portal submission system; the page limit for an Innovation Action with an actual-cost grant is 40 pages.\n- Mandatory content: a plan for exploitation and dissemination of results, including communication activities, and an ethics self-assessment.\n- Partner documents: the coordinator must confirm it has the mandate to act for all applicants.\n- Registration: every beneficiary must register in the Participant Register to obtain a PIC (participant identification code); validation is needed before signature, not before submission.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 4–5 · A — Admissibility, Page limits; B — Registration\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 15, 27 · B — Ethics; E — Documents"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Proposals are scored on Excellence, Impact and Quality and efficiency of implementation, with Impact weighted 1.5 for ranking.\n- Evaluation criteria: the standard Horizon Europe criteria for Innovation Actions.\n- Thresholds: at least 3 out of 5 on each criterion and at least 10 out of 15 overall.\n- Weighting: the Impact score counts 1.5 times when ranking Innovation Actions.\n- Ranking rules: for equal scores, proposals covering aspects of the topic not covered by higher-ranked ones come first, then the Impact score, then Excellence, then gender balance and geographical diversity.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 23, 26 · D — Award criteria, Scores and weighting\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 28 · F — Evaluation procedure and ranking"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Satellite data must come from EU systems if used, the Commission can block transfers of results for four years, and China-linked organisations are excluded.\n- Conditional — use of satellite data: projects using satellite Earth observation, positioning, navigation or timing data must use Copernicus and/or Galileo/EGNOS (the EU's satellite programmes).\n- Conditional — transfer of results: up to 4 years after the project ends, the granting authority may object to a transfer of ownership or exclusive licensing of results.\n- Exception — China-linked organisations: legal entities established in China, and entities controlled directly or indirectly from China, may not take part.\n- Conditional — after selection: projects must report their results to the 2ZERO partnership to support monitoring of its key performance indicators.\n- Recommended: projects should build on earlier 2ZERO bus and heavy-duty vehicle projects.",
+          "sources": "wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 221–222 · HORIZON-CL5-2027-03-D5-04, Specific conditions\nwp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · pp. 222–223 · HORIZON-CL5-2027-03-D5-04, Expected Outcome and Scope\nwp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf · p. 210 · Destination Clean and competitive solutions for all transport modes"
+        }
+      ]
+    }
+  ]
+}

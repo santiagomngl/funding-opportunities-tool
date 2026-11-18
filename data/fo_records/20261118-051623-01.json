@@ -1,0 +1,41 @@
+{
+  "id": "20261118-051623-01",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-CL5-2027-03-D5-04 Demonstration of zero emission coaches and buses in long distance operations (2ZERO Partnership) – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "MOBILITY (HORIZON-CL5-2027-03)",
+  "call_module_title": "HORIZON-CL5-2027-03-D5-04 Demonstration of zero emission coaches and buses in long distance operations (2ZERO Partnership)",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-03-D5-04",
+  "executive_summary": "Horizon Europe Innovation Action under the 2ZERO partnership (Towards zero emission road transport) that funds the real-life demonstration of zero-emission coaches and buses in long-distance passenger services (average route length of at least 500 km), with at least 5 vehicles on several routes or cross-border corridors, including optimised charging or refuelling schedules, shared charging hubs for several operators and vehicle types, the impacts of charging on the grid and net congestion, balancing energy demand and supply at charging stations, new business models and interior design, up to TRL 7-8. Open to consortia under the standard Horizon Europe rules (at least three independent entities from three different EU Member States or Associated Countries), excluding entities controlled from China; actual-cost grant at the Innovation Action rates (70% of eligible costs for for-profit entities, up to 100% for non-profit). Indicative topic budget EUR 13.5 million for around one project. Planned opening 15 December 2026; single-stage deadline 14 April 2027.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-04-14",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "Horizon Europe Work Programme 2026–2027 Part 8 (Climate, Energy and Mobility), pp. 221–223, Specific conditions, Expected Outcome and Scope of HORIZON-CL5-2027-03-D5-04, funds demonstrations of long-distance zero-emission coaches and buses in which charging solutions, impacts on the grid, net congestion and the balancing of energy demand and supply at shared charging hubs must be covered. This touches TenneT's work on grid congestion and charging-related flexibility, as in the close project files Grids & Benefits (congestion forecasting and EV charging timing) and Energy boards (regional congestion coordination), although the call centres on vehicles, fleets and bus operators rather than on the transmission grid. Under General Annex B any legal entity established in a Member State, such as TenneT TSO B.V., may join the consortium as a funded beneficiary at the 70% Innovation Action rate, and the required grid-impact and congestion work gives a grid operator a supported role. Category C1.3 fits because TenneT would at most be one funded partner contributing the grid-impact and congestion analysis; no project date is set because the call states no start, end or duration.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T5",
+      "T10"
+    ],
+    "role": [
+      "R2",
+      "R10"
+    ],
+    "activity": [
+      "A7",
+      "A2"
+    ],
+    "outcome": [
+      "O10"
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "New advanced materials or production processes that replace, or use far less of, critical and strategic raw materials in industrial products.\nThe project must design and develop innovative advanced materials (new engineered materials with improved properties) or industrial process technologies that substitute critical and strategic raw materials, or use them more efficiently, and integrate them into products. Critical and strategic raw materials are those the EU lists under the Critical Raw Materials Act (the 2024 EU law on secure supply of these materials) because supply is at risk and they matter for the economy. Target sectors named include energy, mobility, construction, electronics, medical devices and chemicals. Proposals must address one or more of these approaches:\n- Designing, developing and producing new materials that substitute or save critical raw materials, with targets on performance, safety and sustainability\n- Innovative industrial processes that reduce the use of critical raw materials, optimising safety, sustainability, flexibility, scalability and cost\n- Co-development of new materials and processes, shown through specific use cases\nThe need comes from European industry and EU policy: the EU depends on a few non-EU countries for these materials, which puts supply chains and strategic autonomy at risk. Proposals must show clear use cases, a market and growth potential, identify the barriers to substitution in the chosen applications and propose a way to maximise substitution in the targeted value chains.",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 42–44 · HORIZON-CL4-2027-01-MAT-PROD-22, Expected Outcome and Scope\nwp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 41–42 · HORIZON-CL4-2027-01-MAT-PROD-22, Specific conditions"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Projects must cut Europe's dependence on critical raw materials and make industrial supply chains more secure and competitive.\nExpected outcomes:\n- Less dependence on critical and strategic raw materials through partial or total substitution by safe and sustainable new materials, or more efficient use in production\n- A faster innovation cycle in value chains important for European industry\n- More competitive industries with lower operational costs and more secure supply chains\n- New or improved processes, materials and products that are safer and more sustainable\n- A demonstration of how the safe and sustainable by design framework (an EU method for building safety and environmental criteria into the design of chemicals and materials) can guide innovation\nThe topic sets no numerical targets.",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 42–44 · HORIZON-CL4-2027-01-MAT-PROD-22, Expected Outcome and Scope"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "Best suited to industry-led consortia of materials developers, manufacturers and end-product makers, with research partners, from the EU or trusted partner countries.\n- Lead applicant: the topic sets no restriction, so any eligible organisation may coordinate.\n- Consortium: at least three independent legal entities (organisations not controlled by one another), each in a different country, with at least one in an EU Member State and two more in other Member States or Associated Countries (non-EU countries taking part in Horizon Europe).\n- Eligible countries: participation is limited to organisations established in EU Member States, Associated Countries, OECD countries, African Union member states, MERCOSUR, CARIFORUM and Andean Community countries, and countries with an EU strategic partnership or trade agreement that includes raw-materials cooperation. Proposals with any partner from another country are ineligible, and organisations controlled from a non-eligible country may not take part.\n- Work and partners: the topic sets no division of work, but the business case and exploitation strategy should be backed by the management of the companies involved, and the solutions must be integrated into industrial manufacturing, so companies are central.\n- Cooperation: proposals are encouraged to work with related projects and, where relevant, with the EU Innovation and Substitution Hub(s).\nMaterials and chemical companies, component and equipment manufacturers, process-technology suppliers, research institutes and universities with materials expertise fit the call best.",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 41–42 · HORIZON-CL4-2027-01-MAT-PROD-22, Specific conditions\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 13 · B — Eligibility, Consortium composition\nwp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 42–44 · HORIZON-CL4-2027-01-MAT-PROD-22, Expected Outcome and Scope\nwp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · p. 37 · Destination Leadership in materials and production for Europe, Business cases and exploitation strategies for industrialisation"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": "Projects must deliver genuinely new materials or processes and integrate them into products, guided by the safe and sustainable by design framework.\nThe innovation cycle must cover the redesign of materials and production processes and the integration of the new materials into products. The new alternatives must meet the technical functions required in the specific applications. The innovation lies mainly in technology (materials and processes), with integration into manufacturing: necessary adaptations of related processes and production lines are in scope, and the business case and exploitation strategy are decisive under the Impact criterion.",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 42–44 · HORIZON-CL4-2027-01-MAT-PROD-22, Expected Outcome and Scope\nwp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · p. 37 · Destination Leadership in materials and production for Europe, Business cases and exploitation strategies for industrialisation"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "Projects must start at TRL 5 and reach TRL 7 by the end.\nTRL (Technology Readiness Level) is a 1–9 maturity scale: TRL 5 is a technology validated in an industrially relevant environment and TRL 7 a system prototype demonstrated in an operational environment.",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 41–42 · HORIZON-CL4-2027-01-MAT-PROD-22, Specific conditions\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 15 · B — Technology Readiness Levels"
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": "The solutions must be shown in clear use cases and fitted into industrial manufacturing, up to a prototype in an operational environment.\n- Setting: the end level of TRL 7 means demonstration in an operational environment.\n- Integration: the scope includes adapting related processes and technologies so that the solutions fit industrial manufacturing; where relevant, challenges for adapting existing production lines must be identified and solutions proposed.\n- Coherence: co-development strategies must show the value of developing materials and processes together through specific use cases, while staying relevant across material and process types.\n- Data: data generated must be shareable with the Common Data Platform for Chemicals (an EU platform for chemicals data).",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 42–44 · HORIZON-CL4-2027-01-MAT-PROD-22, Expected Outcome and Scope\nwp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 41–42 · HORIZON-CL4-2027-01-MAT-PROD-22, Specific conditions"
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "Grid equipment such as cables, transformers and converters relies on critical and strategic raw materials, so substitution could make TenneT's supply chain less fragile.\nThis is our interpretation. The topic names energy as a target sector and aims for more secure supply chains. Materials or processes that reduce the use of scarce raw materials in electrical components could lower the risk of shortages, price spikes and long lead times at the manufacturers TenneT depends on for its onshore and offshore expansion, including its standardised 2 GW offshore programme and its substation projects, where supplier capacity has already delayed delivery.\nTenneT cannot take part in a meaningful way because the topic funds materials and production-process development by industry and research and sets out no route or role for a grid operator.",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 42–44 · HORIZON-CL4-2027-01-MAT-PROD-22, Expected Outcome and Scope"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "EUR 36 million in total for about six projects, each with an EU contribution of EUR 6–7.5 million.\n- Grant request: EUR 6–7.5 million per project is the Commission's estimate; proposals requesting other amounts may still be submitted and selected.\n- Funding form: budget-based grant (actual costs: the grant reimburses the eligible costs actually incurred, at the funding rate).",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 41–42 · HORIZON-CL4-2027-01-MAT-PROD-22, Specific conditions\nwp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 17–18 · Call - INDUSTRY, Overview of this call\nFunding & Tenders Portal topic page HORIZON-CL4-2027-01-MAT-PROD-22 · General information"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "As an Innovation Action, the topic funds up to 70% of eligible costs for companies and up to 100% for non-profit organisations.\n- Companies and other for-profit organisations: up to 70%, so they must finance at least 30% of their costs themselves.\n- Non-profit organisations, such as universities and research institutes: up to 100%.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 31 · G — Form of grant, funding rate and maximum grant amount"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Costs are reimbursed under the standard Horizon Europe actual-cost rules, with a 25% flat rate for indirect costs.\n- Eligible costs: personnel, subcontracting and purchase costs actually incurred, or unit costs where allowed.\n- Overheads: indirect costs are covered by a flat rate of 25% of eligible direct costs, excluding subcontracting and financial support to third parties.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 32 · G — Budget categories and cost eligibility rules"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One submission stage, through the Funding & Tenders Portal electronic submission system.\n- Stage 1 — Full proposal: 2 February 2027, 17:00 Brussels time. The call opened on 13 October 2026 (postponed from its planned date), and the submission system is open. Any eligible consortium may apply.\n- Additional procedure: the responsible Director-General may delay the deadline by up to two months.",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · p. 17 · Call - INDUSTRY, Overview of this call and footnote 5\nFunding & Tenders Portal topic page HORIZON-CL4-2027-01-MAT-PROD-22 · General information and Latest updates"
+        },
+        {
+          "title": "Project window",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Applicants hear the result about five months after the deadline and sign the grant about eight months after it.\n- Expected assessment result: around July 2027 (about 5 months after 2 February 2027), indicative.\n- Grant agreement: around October 2027 (about 8 months after the deadline), indicative.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 30 · F — Indicative timetable for evaluation and grant agreement"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "The proposal must be complete on the submission-system forms, with a Part B of at most 43 pages that includes a business case and exploitation strategy.\n- Application form: the forms in the Funding & Tenders Portal submission system; the standard 40-page limit for Part B (the technical description) is extended by 3 pages for the business case and exploitation strategy.\n- Mandatory content: a business case (target markets, market size in the EU and globally, user needs, market position) and an exploitation strategy (obstacles and actions to reach higher maturity, such as investment, skills, value chains and industrial integrators), plus the plan for exploitation and dissemination of results.\n- Registration: every beneficiary must register in the Participant Register to obtain a PIC (participant identification code).",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 41–42 · HORIZON-CL4-2027-01-MAT-PROD-22, Specific conditions\nwp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · p. 37 · Destination Leadership in materials and production for Europe, Business cases and exploitation strategies for industrialisation\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 4–5 · A — Admissibility, Page limits; B — Registration"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Proposals are scored on Excellence, Impact and Quality and efficiency of implementation, with Impact weighted 1.5, and the business case is decisive.\n- Evaluation criteria: the standard Horizon Europe criteria for Innovation Actions; the business case and exploitation strategy are decisive factors under Impact.\n- Thresholds: at least 3 out of 5 on each criterion and at least 10 out of 15 overall.\n- Weighting: the Impact score counts 1.5 times when ranking Innovation Actions.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 26 · D — Scores and weighting\nwp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · p. 37 · Destination Leadership in materials and production for Europe, Business cases and exploitation strategies for industrialisation"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Only organisations from the listed partner countries may take part, and the Commission can block transfers of results for four years.\n- Exception — country restriction: any partner established outside the eligible countries makes the whole proposal ineligible, and organisations in eligible countries controlled from a non-eligible country may not take part.\n- Conditional — transfer of results: up to 4 years after the project ends, the granting authority may object to a transfer of ownership or exclusive licensing of results.\n- Conditional — data: data generated should be shareable with the Common Data Platform for Chemicals.\n- Recommended: cooperation with relevant projects and, where relevant, with the EU Innovation and Substitution Hub(s).",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 41–42 · HORIZON-CL4-2027-01-MAT-PROD-22, Specific conditions\nwp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 42–44 · HORIZON-CL4-2027-01-MAT-PROD-22, Expected Outcome and Scope"
+        }
+      ]
+    }
+  ]
+}
