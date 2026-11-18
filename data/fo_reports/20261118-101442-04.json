@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "A pilot access programme that gives startups, scaleups and innovative SMEs quick, simple and funded access to Technology Infrastructures across several sites in one priority area.\nTechnology Infrastructures are facilities, equipment and expertise for testing, upscaling and validating new products and technologies, such as pilot lines and test beds. The project must develop and test a pilot multi-site access scheme with a critical mass of infrastructure operators and users, building on existing networks with a single access point, such as Open Innovation Test Beds (EU-funded networks of test facilities). It must set up a centrally managed and funded access programme with simplified, standardised access conditions across the EU, in line with the planned European Charter of access for industrial users. Priority areas include, but are not limited to, advanced materials, clean energy, and health and biotechnology.\nThe need comes from industry: growing companies need state-of-the-art facilities to shorten time-to-market, but access contracts are complex and the costs can exceed what they can pay.",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 82–83 · HORIZON-CL4-2027-01-MAT-PROD-47, Expected Outcome and Scope"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The project should strengthen the innovation capacity of European SMEs, startups and scaleups by making Technology Infrastructures easier to use.\nProposals should demonstrate:\n- A sound understanding of industrial users' needs for Technology Infrastructure services in priority areas\n- More opportunities for industrial users to develop, test, upscale and deploy new technologies\n- Stronger innovation and technology development capacity of European SMEs, startups and scaleups\n- Access schemes attractive and effective enough to broaden the user base, especially startups and scaleups, including across borders\nThe action should also strengthen cooperation between Technology Infrastructures across countries and sites, building ecosystems that share resources, best practices, staff exchange and networking. No numerical targets are set.",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 82–83 · HORIZON-CL4-2027-01-MAT-PROD-47, Expected Outcome and Scope"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "Networks of Technology Infrastructure operators, such as research and technology organisations and test-bed networks, serving startups and SMEs as users.\n- Lead applicant: any eligible organisation; the topic sets no rule, and the consortium chooses its coordinator\n- Partners: a critical mass of Technology Infrastructure operators and users in the chosen area, ideally an existing network with a single access point\n- Consortium: as a Coordination and Support Action (a grant for coordination, networking and support rather than research), it may be submitted by one or more legal entities in EU Member States or Associated Countries\n- Distribution of work: the focus must be on providing access and support services to companies; work to improve the usability of services is allowed\nThe call best suits research and technology organisations and test-bed operators; startups and SMEs benefit as users of the scheme.",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 82–83 · HORIZON-CL4-2027-01-MAT-PROD-47, Expected Outcome and Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 13 · B — Eligibility, Consortium composition\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 36 · E — Documents, notes on registration and consortium roles"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": "The project need not produce new technology; it must create and test a new, simpler way for companies to access existing Technology Infrastructures.\nThe innovation is in the access arrangements and governance: a centrally managed and funded multi-site access programme with standardised conditions across the EU. It should build on existing initiatives with a single access point rather than start from scratch.",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 82–83 · HORIZON-CL4-2027-01-MAT-PROD-47, Expected Outcome and Scope"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": "The scheme must be piloted in practice, with real companies using several Technology Infrastructures across the EU.\nThe action should set up and run the pilot access programme, increase the visibility of the services and demonstrate their uptake by users across the EU, especially startups and scaleups without such facilities in their region. It should be coordinated with the work on the European Charter of access for industrial users, and may share best practices with other projects on Technology Infrastructures.",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 82–83 · HORIZON-CL4-2027-01-MAT-PROD-47, Expected Outcome and Scope"
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "A clean-energy access scheme could help startups and SMEs test and validate grid-related products, such as sensors, cable monitoring or power electronics, that TenneT may later buy.\nOur judgement: the topic only names clean energy as one possible priority area, so the benefit to TenneT depends on a consortium choosing it. If it does, suppliers could reach TenneT's tenders with better-tested products. TenneT cannot take part itself in a meaningful way: the access programme is meant for startups, scaleups and innovative SMEs, and the consortium consists of Technology Infrastructure operators, so the topic sets out no route for a large grid operator.",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 82–83 · HORIZON-CL4-2027-01-MAT-PROD-47, Expected Outcome and Scope\nwp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · p. 82 · HORIZON-CL4-2027-01-MAT-PROD-47, Specific conditions"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "EUR 1.5–2.5 million of EU funding per project, from a topic budget of EUR 5 million for 2 projects.\n- Grant request: EUR 1.5–2.5 million per project is considered appropriate, but other amounts are not excluded\n- Total project size: equal to the grant in principle, as the funding rate is 100%\n- Funding form: lump sum (a fixed amount agreed at the start and paid against completed work packages, not against actual costs)",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · p. 82 · HORIZON-CL4-2027-01-MAT-PROD-47, Specific conditions\nwp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 17–18 · Call - INDUSTRY (HORIZON-CL4-2027-01), Overview of this call"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "All beneficiaries are funded at 100% of eligible costs, built into the lump sum; no co-financing is required.\n- Co-financing conditions: none set by the topic",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 31–33 · G — Legal and financial set-up of the grant agreements\nwp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · p. 82 · HORIZON-CL4-2027-01-MAT-PROD-47, Specific conditions"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: a full proposal by 2 February 2027, 17:00 Brussels time, through the Funding & Tenders Portal.\n- Stage 1 — Full proposal: open since 13 October 2026; deadline 2 February 2027, 17:00 Brussels time; up to 28 pages for the technical part, because this is a lump-sum Coordination and Support Action\nThe Director-General may delay the deadline by up to two months.",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · pp. 17–18 · Call - INDUSTRY (HORIZON-CL4-2027-01), Overview of this call\nFunding & Tenders Portal topic page HORIZON-CL4-2027-01-MAT-PROD-47 · General information and Topic updates\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 4 · A — Admissibility conditions, Page limits"
+        },
+        {
+          "title": "Project window",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Applicants should hear the result about 5 months after the deadline and sign the grant about 8 months after it (indicative).\n- Expected invitation or assessment result: around July 2027 (indicative)\n- Grant agreement: around October 2027 (indicative)",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 30 · F — Procedure, Indicative timetable"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "A standard Horizon Europe Coordination and Support Action application with a detailed lump-sum budget table.\n- Application form: Horizon Europe CSA form in the Funding & Tenders Portal, technical part up to 28 pages\n- Budget: detailed lump-sum budget table\n- Registration: every beneficiary, affiliated entity and associated partner needs a participant identification code (PIC)",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 4 · A — Admissibility conditions, Page limits\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 36 · E — Documents, notes on registration and consortium roles\nwp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · p. 82 · HORIZON-CL4-2027-01-MAT-PROD-47, Specific conditions"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Proposals are scored on Excellence, Impact and Implementation, each out of 5, with a threshold of 3 per criterion and 10 overall.\n- Weighting: equal weights, since this is not an Innovation Action",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 26 · D — Award criteria, Scores and weighting"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "One special rule applies to the use of results.\n- Conditional — transfer of results: up to 4 years after the project ends, the granting authority may object to a transfer of ownership or exclusive licensing of results",
+          "sources": "wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf · p. 82 · HORIZON-CL4-2027-01-MAT-PROD-47, Specific conditions"
+        }
+      ]
+    }
+  ]
+}

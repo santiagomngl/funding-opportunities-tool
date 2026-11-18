@@ -1,0 +1,35 @@
+{
+  "id": "20261118-101442-01",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-BRIDGING-2027-03-06 Access to research infrastructure services to enable R&I addressing industry needs in priority areas – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "Bridging actions 2027 (HORIZON-BRIDGING-2027-03)",
+  "call_module_title": "HORIZON-BRIDGING-2027-03-06 Access to research infrastructure services to enable R&I addressing industry needs in priority areas",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-BRIDGING-2027-03-06",
+  "executive_summary": "Horizon Europe Research and Innovation Action (horizontal Bridging actions call) that funds research infrastructures to provide free trans-national and virtual access to their services for industry-driven research, notably for SMEs, startups and scaleups, and for academia working with industry, in one of six areas, including Area 2 'Clean energy and/or clean mobility solutions'. Consortia must include at least one ESFRI Landmark or ERIC as beneficiary and follow the standard Horizon Europe eligibility rules; the grant covers 100% of eligible costs and access costs may be paid as unit costs. The topic budget is EUR 15 million for about 3 projects of around EUR 5 million each. Opens 9 March 2027; single-stage deadline 15 June 2027, 17:00 Brussels time.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-06-15",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "Horizon Europe Work Programme 2026-2027 Part 14 (Horizontal Activities), pp. 78–83 (HORIZON-BRIDGING-2027-03-06, Specific conditions, Expected Outcome and Scope), funds research infrastructures to give industrial users free access to their services, with Area 2 'Clean energy and/or clean mobility solutions' as one of six areas. It touches TenneT's field only through that clean-energy area, where energy research infrastructures could serve grid-related industrial research; no project file is close, the nearest being the test-environment work of NFDTES, and this connection is our interpretation. TenneT TSO B.V. is not a research infrastructure, but the Specific Features for Research Infrastructures (Part 14, pp. 112–114) allow selected user groups 'including from industry' to receive access free of charge, so TenneT could take part as an unfunded industrial user of a research-led project: Type 2 with C2.1. No project start, end or duration is stated, so both project dates are null.",
+  "call_type": "Type 2",
+  "category_codes": [
+    "C2.1"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T7"
+    ],
+    "role": [],
+    "activity": [
+      "A2",
+      "A8"
+    ],
+    "outcome": []
+  }
+}

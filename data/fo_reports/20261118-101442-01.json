@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "A free access programme in which European research infrastructures open their services to companies for industry-driven research in one chosen area, such as clean energy.\nResearch infrastructures are large shared research facilities, such as laboratories, test centres, data centres and specialised instruments, run for many users. The project must provide trans-national access (users visit or use a facility in another country, on site or remotely) and/or virtual access (users reach services such as databases online) to an integrated and customised set of such services. The main goal is access to existing services, not building new ones. Each proposal must choose one of six areas; Area 2 is \"Clean energy and/or clean mobility solutions\".",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 80–83 · HORIZON-BRIDGING-2027-03-06, Expected Outcome and Scope\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 78–80 · HORIZON-BRIDGING-2027-03-06, Specific conditions"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Mandatory: access provision to existing research infrastructure services for industrial users, with user training and support; optional: short-term development of services.\n- Mandatory: trans-national and/or virtual access activities, which must be included in the proposal and reflected in its resources\n- Mandatory in practice: one of six areas, clearly named in the proposal: biomedical or food technologies; clean energy and/or clean mobility solutions; advanced materials for circular economy and/or bioeconomy; accelerators and superconducting magnets; microelectronics; advanced sensing for ocean observation\n- Included: ad hoc training of users and scientific and technical support, and support to staff who help non-expert industrial users\n- Optional: developing and customising services or access modes for the area, as long as the new services are already offered during the project (short-term research and development) and the infrastructures keep them going afterwards\n- Expected: data management in line with FAIR principles (data that is findable, accessible, interoperable and reusable), links to the European Open Science Cloud (the EU's shared platform for research data), an outreach plan, and collaboration with related access projects\nThe topic names no excluded activities, but building new infrastructure is not its purpose.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 80–83 · HORIZON-BRIDGING-2027-03-06, Expected Outcome and Scope\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 78–80 · HORIZON-BRIDGING-2027-03-06, Specific conditions"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The need is that of companies, notably SMEs, startups and scaleups, that lack easy access to top research facilities for industry-driven research and innovation.\nThe topic wants research infrastructures to become more attractive to industry and to widen their user base. It addresses the barriers industry faces: scattered catalogues, different access conditions and slow procedures. Proposals should therefore shorten the \"time to access\" for industrial users and offer one single-entry access portal with converging conditions and selection procedures. The users must come from industry, or from academia when working with industry.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 80–83 · HORIZON-BRIDGING-2027-03-06, Expected Outcome and Scope"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "A running access programme: units of free access delivered to selected user projects, a single-entry portal, integrated service catalogues, outreach and training.\n- A list of the services and installations opened for trans-national or virtual access, with the number of units of access (the measured amount of use of a facility) offered to users\n- Open calls inviting user groups to apply, with independent peer review of their user projects\n- A single-entry point access portal and integrated or interoperable catalogues of services\n- An outreach and engagement plan aimed at industry, notably SMEs, startups and scaleups\n- Training and technical support for users, and any customised services developed during the project",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 80–83 · HORIZON-BRIDGING-2027-03-06, Expected Outcome and Scope\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 112–114 · Specific Features For Research Infrastructures"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The project must make research infrastructures more attractive and useful to industry, and enable breakthrough industry-driven research in the chosen area.\nThe expected outcomes, all of which proposals should contribute to, are:\n- Research infrastructures more attractive to industry, extending their user base in a sustainable way, with a future link to technology infrastructures (test and pilot facilities for industry) where appropriate\n- More efficient access for researchers and innovators, irrespective of location, through one portal and converging access conditions\n- Breakthrough and leading-edge research and innovation enabled by advanced services in the targeted areas\n- A new generation of researchers and innovators trained to use these tools, with attention to early-career people and those from widening countries (EU countries with lower research performance)\n- More awareness in industry of research infrastructure services\nThe topic sets no numerical targets. In the clean-energy area, the effect for grid operators would be indirect: better test and research facilities for energy technologies; this is our interpretation.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 80–83 · HORIZON-BRIDGING-2027-03-06, Expected Outcome and Scope"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "The results must last: new services must be kept going by the infrastructures, and the project must feed a more integrated EU access scheme.\n- Continued use: the long-term sustainability of any service developed must be ensured by the participating research infrastructures\n- Wider use: the project should work closely with the preparatory action HORIZON-INFRA-2025-01-DEV-05, the pilots under HORIZON-INFRA-2026-01-DEV-02 and the actions under HORIZON-INFRA-2027-01-SERV-01, towards a common EU access scheme\n- Access rights: beneficiaries must give the EU institutions and other EU-funded projects royalty-free access to tools, standards, specifications and other outputs needed to advertise the services and run access calls, during the project and for two years after it\n- Knowledge transfer: knowledge valorisation and coordination with technology infrastructures and digital services should be considered where relevant\nThe topic does not require replication by a named party or commercial availability of results.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 80–83 · HORIZON-BRIDGING-2027-03-06, Expected Outcome and Scope\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 78–80 · HORIZON-BRIDGING-2027-03-06, Specific conditions"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "At least three independent organisations from three different countries, one of them in an EU Member State; no maximum is set.\nThis is the standard Horizon Europe rule for Research and Innovation Actions, which the topic does not change. The budget of around EUR 5 million per project and the need for a portfolio of complementary infrastructures point to a consortium of several facilities.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 13 · B — Eligibility, Consortium composition\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 78–80 · HORIZON-BRIDGING-2027-03-06, Specific conditions"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "The consortium should include at least one ESFRI Landmark or ERIC as beneficiary; the other partners are typically complementary research infrastructures.\n- ESFRI Landmark: a mature, operating research infrastructure on the roadmap of the European Strategy Forum on Research Infrastructures; ERIC (European Research Infrastructure Consortium): a legal form the EU created for such infrastructures\n- For a distributed ERIC (an ERIC with hubs in several countries), a legal entity hosting its facilities may take part instead, with a signed declaration from the ERIC\n- The Joint Research Centre (the Commission's own research service) may join after selection, with zero funding or as an associated partner\n- Proposals should consider intermediaries that match research infrastructures with industry\n- Entities linked to high-risk suppliers of mobile network equipment are excluded (restrictions for the protection of European communication networks)\nIndustrial users such as TenneT are not consortium members; they apply to the project's access calls.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 80–83 · HORIZON-BRIDGING-2027-03-06, Expected Outcome and Scope\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 78–80 · HORIZON-BRIDGING-2027-03-06, Specific conditions\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 112–114 · Specific Features For Research Infrastructures"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "Resources must go mainly to access provision; the topic sets no split of work or budget between partners.\nThe main goal is access provision to existing services, and this must be clearly reflected by the proposed activities and allocated resources. Each infrastructure must define its unit of access and the number of units it offers. Development of services is allowed only as short-term work whose results are offered during the project.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 80–83 · HORIZON-BRIDGING-2027-03-06, Expected Outcome and Scope\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 112–114 · Specific Features For Research Infrastructures"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "Any eligible organisation in the consortium may coordinate; in practice a research infrastructure or ERIC is the natural lead.\nThe topic sets no rule on who must lead, so the General Annex rule applies: the consortium chooses a coordinator among its beneficiaries. Because the project is about opening research infrastructure services, a research infrastructure operator would normally lead; this is our interpretation.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 36 · E — Documents, notes on registration and consortium roles\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 80–83 · HORIZON-BRIDGING-2027-03-06, Expected Outcome and Scope"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "In theory yes, as any eligible Dutch legal entity may coordinate, but it is not realistic because TenneT does not run a research infrastructure.\nThe rules allow any legal entity established in a Member State to be a beneficiary and coordinator. The project, however, must provide access to research infrastructure services, and its partners must be infrastructures able to offer units of access. TenneT therefore could not credibly lead it.",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · p. 13 · B — Eligibility, Consortium composition\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 80–83 · HORIZON-BRIDGING-2027-03-06, Expected Outcome and Scope"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes, as an industrial user group: selected users get free access to the infrastructures, and their travel and stay can be paid by the project.\nAccess is provided \"free of charge\" to selected researchers or research teams (user groups) \"including from industry\". A TenneT team would have to:\n- apply to an access call the project publishes, with a user project (a short research plan) that is peer-reviewed independently\n- have most of its team working in a country other than the one where the infrastructure is located, unless access is given by an ERIC or international organisation\n- be allowed to publish the results it generates, because only SMEs are exempt from this rule\n- normally limit each stay to three months\nTenneT would not be a consortium partner and would not sign the grant agreement. It could also be an associated partner (a partner without funding that does not sign the grant agreement) if a consortium wants its industrial view, but the topic does not ask for this.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 112–114 · Specific Features For Research Infrastructures\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 80–83 · HORIZON-BRIDGING-2027-03-06, Expected Outcome and Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 36 · E — Documents, notes on registration and consortium roles"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Not as a user: users get free access, not money; only the infrastructures in the consortium are paid, at 100% of eligible costs.\nThe grant covers the access costs the infrastructures incur and the users' travel and subsistence when they visit. As a Research and Innovation Action the funding rate is 100% for all beneficiaries, with 25% flat-rate overheads, and access costs may be paid as unit costs (a fixed amount per unit of access). TenneT could only receive funding if it were a beneficiary providing a research infrastructure service, which it does not run. No Dutch national rules apply.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 112–114 · Specific Features For Research Infrastructures\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 78–80 · HORIZON-BRIDGING-2027-03-06, Specific conditions\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 31–33 · G — Legal and financial set-up of the grant agreements"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "A grid-related industrial user project, for example testing equipment, materials or digital tools for offshore and onshore grids at an energy research facility.\nOur judgement: only proposals that choose Area 2 (clean energy and/or clean mobility) matter to TenneT. In such a project TenneT could bring well-defined industrial research questions, for example on high-voltage components, cable materials, offshore wind integration or digital-twin models, and use specialised facilities it does not own. Its own test-environment work, such as the National Facility Digital Twin of the Electricity System, shows the type of facility it might want to use or compare with. The value for TenneT depends on which infrastructures the selected consortium brings together, which is not yet known.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 80–83 · HORIZON-BRIDGING-2027-03-06, Expected Outcome and Scope\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 112–114 · Specific Features For Research Infrastructures"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The project does not need to produce new technology itself; it must give access to state-of-the-art services so that users can do excellent research and innovation.\nThe award criteria add, under Excellence, the extent to which access will offer state-of-the-art infrastructures of European interest, high-quality services and excellent research or innovation by users, and the extent to which access procedures and online services improve. New or customised services are allowed only as short-term development.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 78–80 · HORIZON-BRIDGING-2027-03-06, Specific conditions\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 80–83 · HORIZON-BRIDGING-2027-03-06, Expected Outcome and Scope"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Mainly the access arrangements and services: integrated catalogues, a single-entry portal, converging access conditions and customised research services.\nThe topic innovates in how research infrastructures serve industry, not in a specific technology. The technology innovation happens in the user projects that the access enables.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 80–83 · HORIZON-BRIDGING-2027-03-06, Expected Outcome and Scope"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Research and innovation by users, supported by service provision; the project itself does not take a technology through development stages.\nThe project supports industry-driven research and innovation at the infrastructures, from research to testing, but its own work is access provision with limited short-term development of services.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 80–83 · HORIZON-BRIDGING-2027-03-06, Expected Outcome and Scope"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "Users work at existing research infrastructures, on site or remotely; no demonstration in operational infrastructure is required.\nTrans-national access can be hands-on (the user visits the facility) or remote (for example sample analysis or remote computing). Virtual access gives online access to services such as databases. The topic does not require testing under real operational conditions.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 112–114 · Specific Features For Research Infrastructures"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The services of several infrastructures must form one integrated, customised offer with a single entry point, and connect to EU data and access initiatives.\nProposals should offer a portfolio of complementary services with customised workflows for the chosen area, link digital services to the European Open Science Cloud and to Common European Data Spaces (EU frameworks for sharing data in specific sectors), and collaborate closely with the related EU access actions.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 80–83 · HORIZON-BRIDGING-2027-03-06, Expected Outcome and Scope"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "The project must document the access it provides: units of access, users, their home institutions and the nature and amount of access.\nEach infrastructure must define its unit of access and keep records of names, nationalities and home institutions of users, and of the nature and quantity of access given. Virtual access must be measured in units of access and assessed periodically by an external board. The topic sets no further performance indicators.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 112–114 · Specific Features For Research Infrastructures\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 80–83 · HORIZON-BRIDGING-2027-03-06, Expected Outcome and Scope"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "Users are central: they apply with their own user projects, are selected by independent peer review, and receive training and support.\nThe research infrastructures must publicise the access widely, open calls for users, select user projects through independent peer review and provide training and technical support. Outreach must target industry, notably SMEs, startups and scaleups, and academia working with industry.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 112–114 · Specific Features For Research Infrastructures\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 80–83 · HORIZON-BRIDGING-2027-03-06, Expected Outcome and Scope"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "The topic is subject to restrictions for the protection of European communication networks; it sets no other security rules of its own.\n- Entities assessed as high-risk suppliers of mobile network equipment, and entities they control, cannot take part\n- If the project uses satellite Earth observation, positioning, navigation or timing data, beneficiaries must use Copernicus and/or Galileo/EGNOS (the EU's satellite systems)\n- Data management and related ethics issues must follow FAIR principles where relevant",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 78–80 · HORIZON-BRIDGING-2027-03-06, Specific conditions\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 80–83 · HORIZON-BRIDGING-2027-03-06, Expected Outcome and Scope"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "Around EUR 5 million of EU funding per project, from a topic budget of EUR 15 million for about 3 projects.\n- Grant request: around EUR 5 million per project is considered appropriate, but proposals asking for other amounts are not excluded\n- Total project size: equal to the grant in principle, as the funding rate is 100% of eligible costs\n- Funding form: actual-cost grant (costs actually incurred are reimbursed), with access costs that may be paid as unit costs (a fixed amount per unit of access)",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 78–80 · HORIZON-BRIDGING-2027-03-06, Specific conditions\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 21–22 · Call - Bridging actions 2027 (HORIZON-BRIDGING-2027-03), Overview of this call\nFunding & Tenders Portal topic page HORIZON-BRIDGING-2027-03-06 · General information and Budget overview"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "All beneficiaries are funded at 100% of eligible costs; no co-financing is required.\n- Co-financing conditions: none set by the topic\n- Users: receive access free of charge, with travel and subsistence for visits covered by the grant",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 31–33 · G — Legal and financial set-up of the grant agreements\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 112–114 · Specific Features For Research Infrastructures"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Access costs may cover running costs and user support but not capital investment; overheads are a 25% flat rate.\n- Eligible costs: access costs of the infrastructures (actual costs, unit costs or both), travel and subsistence of users, staff, training and short-term service development\n- Excluded costs: capital investments, including depreciation of equipment and infrastructure, and internally invoiced goods and services, unless the work programme says otherwise\n- Caps or mandatory allocations: stays of users normally limited to three months; user teams mainly from non-associated third countries limited to 20% of total units of access\n- Overheads and VAT: indirect costs at 25% of eligible direct costs, excluding subcontracting and unit costs that already include indirect costs",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 112–114 · Specific Features For Research Infrastructures\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 31–33 · G — Legal and financial set-up of the grant agreements"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: a full proposal by 15 June 2027, 17:00 Brussels time, through the Funding & Tenders Portal.\n- Stage 1 — Full proposal: opens 9 March 2027; deadline 15 June 2027, 17:00 Brussels time; the page limit is 100 pages (an exception to the usual 40 pages); any eligible consortium with at least one ESFRI Landmark or ERIC may apply\n- Additional procedure: none; users later apply to the project's own access calls\nThe Director-General may open the call up to one month earlier or later and delay the deadline by up to two months.",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 21–22 · Call - Bridging actions 2027 (HORIZON-BRIDGING-2027-03), Overview of this call\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 78–80 · HORIZON-BRIDGING-2027-03-06, Specific conditions\nFunding & Tenders Portal topic page HORIZON-BRIDGING-2027-03-06 · General information and Budget overview"
+        },
+        {
+          "title": "Project window",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Applicants should hear the result about 5 months after the deadline and sign the grant about 8 months after it (indicative).\n- Expected invitation or assessment result: around November 2027, about 5 months after 15 June 2027 (indicative)\n- Grant agreement: around February 2028, about 8 months after the deadline (indicative)\n- Conditions before starting: a written consortium agreement between partners, and validation of each beneficiary's participant identification code (PIC)",
+          "sources": "wp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 28, 30 · F — Procedure, Ranking and Indicative timetable\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 36 · E — Documents, notes on registration and consortium roles"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "A standard Horizon Europe Research and Innovation Action application of up to 100 pages, including the list of services and units of access.\n- Application form: Horizon Europe RIA/IA application form in the Funding & Tenders Portal submission system, Part B limited to 100 pages\n- Mandatory annexes: the list of services and installations opened for access and the units of access offered, which the topic requires\n- Registration: every beneficiary, affiliated entity and associated partner needs a PIC in the Participant Register before submission",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 78–80 · HORIZON-BRIDGING-2027-03-06, Specific conditions\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 80–83 · HORIZON-BRIDGING-2027-03-06, Expected Outcome and Scope\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 36 · E — Documents, notes on registration and consortium roles\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 4 · A — Admissibility conditions, Page limits"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Proposals are scored on Excellence, Impact and Implementation, with extra access-related points under Excellence and a ranking that aims to fund each area.\n- Evaluation criteria: the standard criteria, plus under Excellence the quality of the access offered and the improvement of access procedures and online services\n- Thresholds: 3 out of 5 per criterion and 10 out of 15 overall\n- Ranking rules: to cover as many of the six areas as possible, the highest-ranked proposal in each area can be funded as well as those in ranking order, if it passes all thresholds; ties follow the standard Horizon Europe rules",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 78–80 · HORIZON-BRIDGING-2027-03-06, Specific conditions\nwp-15-general-annexes_horizon-2026-2027_en.pdf · p. 26 · D — Award criteria, Scores and weighting\nwp-15-general-annexes_horizon-2026-2027_en.pdf · pp. 28, 30 · F — Procedure, Ranking and Indicative timetable"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Some rules apply only in specific cases.\n- Conditional — satellite data: if satellite Earth observation, positioning or timing data is used, Copernicus and/or Galileo/EGNOS must be used\n- Conditional — distributed ERIC: a host entity may replace the ERIC as beneficiary only with a declaration signed by the ERIC's legal representative\n- Exception — Joint Research Centre: may join after selection with zero funding or as an associated partner\n- Recommended: involve intermediaries that match infrastructures with industry, and consider coordination with technology infrastructures",
+          "sources": "wp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 78–80 · HORIZON-BRIDGING-2027-03-06, Specific conditions\nwp-14-horizontal-activities_horizon-2026-2027_en.pdf · pp. 80–83 · HORIZON-BRIDGING-2027-03-06, Expected Outcome and Scope"
+        }
+      ]
+    }
+  ]
+}
