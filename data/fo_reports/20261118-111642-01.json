@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "A digital solution, already working as a prototype, that the consortium takes to a market-ready system tested in real operation in one of three sectors: healthcare, energy or mobility.\nSYSTEMEU is a Horizon Europe project (the EU's research and innovation programme) that links five regional innovation ecosystems and passes part of its EU grant on to outside organisations. This is its first open call. In the energy topic, called \"Decentralized, Clean & Smart Energy Networks\", the object is typically a software platform or digital tool for running energy networks. The call's own example is a \"smart energy manager\" or \"decentralized grid coordinator\" that must end the project integrated with utility-grade SCADA systems (the control systems network operators use to monitor and operate their grid).",
+          "sources": "20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 9–11 · 2.1 General Objective of the Call; 2.2 Project Topics & Challenges per Sector; 2.3.2 Energy TRL Pathway"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "The energy topic accepts any digital innovation that makes regional or cross-border energy systems more decentralised, clean, secure and resilient. Eligible work is limited to experimental development.\nThe three topics are open challenges. A proposal must choose one, and at least one project per sector will be funded:\n- Topic 1, Healthcare (digital health and medical technology)\n- Topic 2, Energy (decentralised, clean and smart energy networks)\n- Topic 3, Mobility (intelligent transport systems and logistics)\nThe energy topic is \"completely open to any digital innovation, software architecture, data model, or optimisation methodology\". It gives two example projects:\n- Smart grid and management systems: digital applications for automated monitoring, balancing, optimisation and resilience of local or distributed energy networks\n- Integrated municipal and regional loops: digital tools to improve and coordinate municipal heating, cooling or decentralised energy networks\nThe mobility topic also mentions vehicle-to-grid and coordination of charging infrastructure.\nEligible activities are experimental development as defined in Article 25 of the General Block Exemption Regulation (the EU state-aid rule for research and development aid): building system prototypes and pilot lines, testing under operational conditions, software and hardware integration and validation of certification files.\nExcluded: basic research, routine software updates, ordinary marketing campaigns, setting up production facilities and pure distribution channels.",
+          "sources": "20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 9–10 · 2.2 Project Topics & Challenges per Sector\n20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · p. 16 · 3.3 Eligible Activities & Technology Scope\nSYSTEMEU Open Call for FSTP web page (systemeuvalley.eu/open-call-for-fstp) · Call details, Scope of topics"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The project must answer one of the digital-transformation challenges SYSTEMEU has set for the energy sector. It must also show why cooperation between the five SYSTEMEU regions is needed.\nThe call's underlying problem is regional: Europe's research capacity is concentrated in a few metropolitan hubs, so innovators in peripheral regions lack access to advanced value chains. SYSTEMEU therefore links Bavaria in Germany with emerging innovation regions: Norte in Portugal, Castilla y León in Spain, Romania and Tuzla Canton in Bosnia and Herzegovina.\nIn the energy topic, the need is the transition to decentralised, clean, secure and resilient energy systems, with better use of resources and better-optimised networks. The call's example users are local energy cooperatives, industrial parks with solar and wind generation and prosumers (consumers who also produce electricity), and utilities that operate SCADA systems.\nThe application's Relevance section must cover the problem analysis, the fit with SYSTEMEU's mission and the interregional cooperation.",
+          "sources": "20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 5–6 · 1.1 Summary & Vision; 1.2 Strategic Objectives\n20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 9–11 · 2.2 Project Topics & Challenges per Sector; 2.3.2 Energy TRL Pathway\n20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · p. 29 · 6.2 Part A-F: Application Documents"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "A system validated in real operation and qualified for commercial roll-out, plus the reports, data plan and exploitation documents the monitoring rules require.\nFor energy, the call sets the end target as a qualified software platform integrated with utility-grade SCADA systems. It must comply with grid-operator cybersecurity and communication standards, for example IEC 60870-5-104 (a standard protocol for telecontrol between control centres and substations) or EEBUS (a communication standard for energy devices in buildings), and be ready for commercial roll-out to utilities.\nThe call also requires:\n- A Technical Interim Report at month 9 or 10, showing progress against the work plan and the planned maturity path\n- A final report and a final on-site or hybrid presentation of the completed system at month 16 or 19\n- Minutes of the monthly internal meetings and the monthly meetings with the Project Monitoring Group (a team of three to five officers from the SYSTEMEU regions that checks each funded project)\n- A Data Management Plan, with non-sensitive results published in open-access repositories\n- Business models, intellectual property agreements and, where relevant, regulatory files, as in the call's example work package on dissemination, exploitation and regulatory compliance",
+          "sources": "20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · p. 11 · 2.3.2 Energy TRL Pathway\n20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 22–24 · 4.3 Form of Payment & Staged Tranches; 4.3.1; 4.3.2\n20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 26–28 · 5.2.5 Data Management & Ethics Officer; 5.3 Work Packages; 5.4 Reporting Schedule"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Projects must deliver market-ready solutions and regional economic benefits. Impact carries the most weight in the evaluation, 40% of the score.\nThe call's strategic objectives are to connect the five regional innovation ecosystems, to move digital tools from working prototypes to market-ready systems in real settings, to transfer knowledge from Bavaria to the emerging regions, to use public grants to attract private investment, and to turn pilot lessons into regional policy recommendations.\nFor energy, the topic seeks decentralised, clean, secure and resilient energy systems, better use of resources and network optimisation. The call sets no numerical targets.\nUnder the Impact criterion, evaluators score the market opportunity, replicability, regional economic and social benefits, integration into interregional value chains and the quality of the dissemination and exploitation plan.",
+          "sources": "20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 5–6 · 1.2 Strategic Objectives\n20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · p. 9 · 2.2 Topic 2: Energy\n20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · p. 31 · 7.3 Award Criteria & Scoring Thresholds"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "The result must be ready for commercial deployment at the end, not a one-off pilot. Consortia must plan its exploitation and dissemination.\n- Commercial readiness: the energy end target is a platform \"fully ready for commercial utility roll-out\", integrated with utility SCADA and compliant with grid-operator standards such as IEC 60870-5-104 or EEBUS.\n- Replication: evaluators score replicability and integration into interregional value chains. The call does not require replication during the project.\n- Exploitation: each project must spend effort on dissemination and exploitation of results. The call's roles include a dissemination and exploitation manager, who develops business models, coordinates joint patents, prepares licensing or spin-off plans and links results to European networks such as the EIT Knowledge and Innovation Communities (EU-backed innovation networks).\n- Uptake: the same manager organises municipal, hospital or public-utility workshops to increase uptake of the solutions.\n- Open science: non-sensitive results must be published in open-access repositories under the project's Data Management Plan.",
+          "sources": "20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · p. 11 · 2.3.2 Energy TRL Pathway\n20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 26–27 · 5.2.4 Dissemination & Exploitation Manager; 5.2.5 Data Management & Ethics Officer\n20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · p. 31 · 7.3 Award Criteria\nSYSTEMEU Open Call for FSTP web page (systemeuvalley.eu/open-call-for-fstp) · Call details, Additional conditions"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "Between 2 and 8 independent organisations, depending on which of the three project types the consortium chooses.\n- Small project (Option B, a feasibility and integration project): 2–3 partners from at least 2 SYSTEMEU regions\n- Medium project (Option A, an innovation project): 3–5 partners from at least 3 SYSTEMEU regions\n- Flagship project (full-range systemic digitalisation): 5–8 partners covering all 5 SYSTEMEU regions\nAll partners must be legally independent of each other, with no subsidiary or joint-ownership links. A consortium may also include at most one self-funded partner from outside the five regions.",
+          "sources": "20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 16–18 · 3.4 Consortium Requirements & Project Typologies\nSystemEU_FTSPOpenCall_FAQ_20260911.pdf · Q1"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "Funded partners must be organisations established in the five SYSTEMEU regions, and each project type requires a company.\nEligible regions: Bavaria (Germany), Norte (Portugal), Castilla y León (Spain), the whole of Romania, and Tuzla Canton (Bosnia and Herzegovina). Natural persons cannot apply.\n- Small project: at least one for-profit startup or SME (small or medium-sized enterprise) from an eligible region as core partner\n- Medium project: at least one research organisation (university or RTO, research and technology organisation) and one for-profit company of any size\n- Flagship project: the \"triple helix\", meaning at least one university or RTO, one company and one public authority or public body that delivers public services, such as a municipality or hospital\nEligible organisation types are universities, RTOs and research centres; startups, SMEs and large enterprises; and public authorities and public bodies in healthcare, energy or mobility, including hospitals and NGOs. One organisation from any other region may join as a self-funded partner (it receives no money).",
+          "sources": "20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 16–18 · 3.1 Eligible Applicants; 3.2 Eligible Regions; 3.4 Consortium Requirements\nSystemEU_FTSPOpenCall_FAQ_20260911.pdf · Q1\nSYSTEMEU Open Call for FSTP web page (systemeuvalley.eu/open-call-for-fstp) · Call details, Type of beneficiaries"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "At least 60% of the project budget must go to startups, SMEs, public authorities, NGOs, universities or RTOs, not to large companies. Each funded partner must receive at least EUR 50,000.\n- Grant cap: no organisation may receive more than EUR 600,000 from SYSTEMEU in total, across all projects it takes part in\n- Subcontracting between partners of the same consortium is prohibited\n- Each partner is paid by its own regional funding authority, out of a fixed regional budget\nThe call describes roles to be shared in the consortium: a lead partner (single contact for the monitoring group and the call office), a technical lead (manages the engineering and the pilot sites), a financial officer per partner, a dissemination and exploitation manager and a data management and ethics officer. Work must be organised in work packages. The call's example has four: technology maturation, real-world demonstration, dissemination and exploitation, and project management.",
+          "sources": "20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 12, 21 · 2.4 Call Overview; 4.2 Funding Rates by Entity Type\n20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 25–27 · 5.2 Roles and Responsibilities; 5.3 Work Packages\nSystemEU_FTSPOpenCall_FAQ_20260911.pdf · Q5, Q7"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "A startup, SME, university, RTO or NGO established in one of the five SYSTEMEU regions. Large companies and self-funded partners cannot lead.\nThe lead partner (called the JIP Coordinator, JIP standing for Joint Interregional Project) must be able to manage cross-border reporting. It is the single contact for the Project Monitoring Group and the call office, submits all deliverables and milestone evidence, and must report delays or deviations.",
+          "sources": "20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 18, 25–26 · 3.4.4 General Consortium Governance Rules; 5.2.1 The Lead Partner\nSystemEU_FTSPOpenCall_FAQ_20260911.pdf · Q1"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "No. TenneT cannot lead a project in this call.\nTwo rules exclude it. The lead partner must be established in one of the five SYSTEMEU regions (Bavaria, Norte in Portugal, Castilla y León, Romania, Tuzla Canton), and TenneT TSO B.V. is in the Netherlands. The lead must also be a startup, SME, university, RTO or NGO, and TenneT is a large company. The FAQ adds that a self-funded partner from outside the regions may not coordinate.",
+          "sources": "20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 16, 18 · 3.2 Eligible Regions; 3.4.4 General Consortium Governance Rules\nSystemEU_FTSPOpenCall_FAQ_20260911.pdf · Q1"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes, as a self-funded partner that receives no money. Each consortium may include only one such partner.\nThe FAQ says an entity from a region outside SYSTEMEU may take part \"only as a self-funded partner\". It receives 0% of the funding, must prove its own financial security and must cover its own costs from other sources, such as internal resources or other grants. A consortium may include at most one self-funded partner, and that partner may not coordinate.\nThe call does not limit what work a self-funded partner may do. TenneT could therefore take on a real role, such as a pilot environment or validation partner, but it must finance that role itself.",
+          "sources": "SystemEU_FTSPOpenCall_FAQ_20260911.pdf · Q1\nSYSTEMEU Open Call for FSTP web page (systemeuvalley.eu/open-call-for-fstp) · FSTP FAQ, Q14"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "No. TenneT cannot receive funding, because only organisations established in the five SYSTEMEU regions are eligible.\nThe eligible regions are Bavaria, Norte (Portugal), Castilla y León (Spain), Romania and Tuzla Canton (Bosnia and Herzegovina). For reference, the rate for a large company in those regions is 50% of the budget, with a signed co-financing letter for the other 50%. TenneT TSO B.V. is in the Netherlands and would join only as a self-funded partner with 0% funding, so it would bear all of its costs.",
+          "sources": "20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 16, 21–22 · 3.2 Eligible Regions & NUTS Classification; 4.2 Funding Rates by Entity Type\nSystemEU_FTSPOpenCall_FAQ_20260911.pdf · Q1"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "In our judgement, TenneT would be most useful as the self-funded partner that brings transmission-operator requirements and validation to an energy project led from the SYSTEMEU regions.\nThe call's energy pathway ends with a platform integrated with utility-grade SCADA and compliant with grid-operator cybersecurity and communication standards such as IEC 60870-5-104. TenneT's knowledge of these interfaces and of grid-operation needs could help a consortium make that step credibly. Its work on digital grid tools, such as the Digital Twin Programme, GNN4GC (graph neural networks for grid control) and DataFleX (data exchange for decentralised flexibility), shows relevant expertise.\nPossible roles include defining requirements for coordinating distributed generation and flexibility with the transmission grid, sharing anonymised data or a simulation setting, and reviewing results. The funded pilots must take place in the SYSTEMEU regions and the call targets local and distributed networks. TenneT's direct benefit would therefore be mainly knowledge and early contact with solutions, not a Dutch pilot. The deadline is 23 November 2026, so joining would only make sense if a consortium is already nearly formed.",
+          "sources": "20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 9–11 · 2.2 Topic 2: Energy; 2.3.2 Energy TRL Pathway\nSystemEU_FTSPOpenCall_FAQ_20260911.pdf · Q1"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The project may build on an existing prototype. It does not have to create new basic knowledge, but it must bring a breakthrough or disruptive solution to market readiness.\nProjects must start from a working prototype at TRL 6 (a technology readiness level at which a prototype has been shown in a relevant environment) and basic research is excluded. The scope speaks of developing, testing or deploying \"breakthrough technologies and/or disruptive innovations\" in real settings. Two related TRL 6 prototypes from different companies may be merged if they form one cross-border solution. Evaluators score the state of the art and the novelty of the proposal.",
+          "sources": "20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 10, 16 · 2.3 Technology Readiness Levels; 3.3 Eligible Activities\nSYSTEMEU Open Call for FSTP web page (systemeuvalley.eu/open-call-for-fstp) · Call details, Scope of topics\nSYSTEMEU Open Call for FSTP web page (systemeuvalley.eu/open-call-for-fstp) · FSTP FAQ, Q15 and Q16"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Mainly digital technology: software, data models, optimisation methods and system architecture, combined with hardware integration where needed.\nThe energy topic is open to \"any digital innovation, software architecture, data model, or optimisation methodology\". Its examples improve how energy networks are operated and coordinated, such as automated monitoring, balancing and coordination of distributed networks and municipal heating or cooling loops. The call does not ask for innovation in markets or governance, although business models must be developed for exploitation.",
+          "sources": "20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 9–10 · 2.2 Topic 2: Energy\n20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · p. 26 · 5.2.4 Dissemination & Exploitation Manager"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Only prototyping, demonstration and preparation for deployment, which the call groups as experimental development. Basic research and production set-up are excluded.\nEligible work includes building system prototypes and pilot lines, testing under operational conditions, software and hardware integration and validating certification files. The call's example work packages run from technology maturation (TRL 6 to 7) to real-world demonstration (TRL 7 to 8), followed by dissemination and exploitation.",
+          "sources": "20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · p. 16 · 3.3 Eligible Activities & Technology Scope\n20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · p. 27 · 5.3 Work Packages"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "From TRL 6 at the start to TRL 8 at the end (from a prototype shown in a relevant setting to a complete, qualified system).\nFor energy the call defines the steps: at TRL 6 the smart energy manager is validated in a laboratory with hardware-in-the-loop simulation (real control hardware tested against a simulated grid). At TRL 7 it is demonstrated in a real operational grid, such as a local energy cooperative or an industrial park with solar or wind generation and prosumers. At TRL 8 it is integrated with utility-grade SCADA, compliant with grid-operator standards and ready for commercial roll-out. Projects already at TRL 7 may also apply.",
+          "sources": "20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 10–11 · 2.3.2 Energy TRL Pathway\nSystemEU_FTSPOpenCall_FAQ_20260911.pdf · Q12"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "The solution must be tested in a real operational environment, not only in a laboratory or simulation.\nFor energy, the call's mid-project step is a demonstration in a real operating grid, such as a local energy cooperative or an industrial park with real solar or wind generation and prosumers. Pilots take place at regional sites in the SYSTEMEU regions, supervised by the project's technical lead. The call's general description says projects \"must be implemented and tested in real-world environments\".",
+          "sources": "20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 10–11, 26 · 2.3.2 Energy TRL Pathway; 5.2.2 The Technical Lead\nSYSTEMEU Open Call for FSTP web page (systemeuvalley.eu/open-call-for-fstp) · Open call for FSTP, introduction"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The partners must build one cross-border solution that shares assets between regions and connects to existing utility systems.\nThe scope requires sharing resources, assets, capacities and knowledge across regions. Separate prototypes may be combined only if they form a single cohesive cross-border solution with clear interregional resource sharing. Evaluators score how well joint assets are integrated. For energy, the end product must be integrated with utility-grade SCADA systems and use grid-operator communication standards such as IEC 60870-5-104 or EEBUS.",
+          "sources": "20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · p. 11 · 2.3.2 Energy TRL Pathway\n20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · p. 31 · 7.3 Award Criteria\nSYSTEMEU Open Call for FSTP web page (systemeuvalley.eu/open-call-for-fstp) · Call details, Scope of topics\nSYSTEMEU Open Call for FSTP web page (systemeuvalley.eu/open-call-for-fstp) · FSTP FAQ, Q16"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "The project must show that it has reached TRL 8 in real operation. The final payment depends on the monitoring group accepting this.\nAt month 9 or 10, the Technical Interim Report must show progress against the work plan and evidence that the project is on track along the sector's maturity path. At the end, the Project Monitoring Group checks the final presentation and technical evidence, and confirms that the TRL 8 target \"has been credibly achieved\". For energy, that means a qualified platform integrated with utility SCADA and compliant with grid-operator cybersecurity and communication standards. The call sets no numerical performance indicators.",
+          "sources": "20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 23–24 · 4.3.1 Technical Interim Report; 4.3.2 Final Report\n20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · p. 11 · 2.3.2 Energy TRL Pathway"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "End users must take part in the real-world pilot. The call names the users but does not prescribe a co-design method.\nThe call's example demonstration work package involves real-world testing at regional pilot sites \"with end-users\". The energy pathway names local energy cooperatives, industrial parks and prosumers as test environments, and utilities as the target for roll-out. The flagship project type must include a public body that delivers public services. The dissemination manager must run workshops with municipalities or public utilities to show pilot results.",
+          "sources": "20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 11, 26–27 · 2.3.2 Energy TRL Pathway; 5.2.4; 5.3 Work Packages\n20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 17–18 · 3.4.3 Flagship Projects"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "Energy solutions must comply with grid-operator cybersecurity and communication standards, and all pilot data must be handled under GDPR (the EU General Data Protection Regulation).\n- Cybersecurity: at TRL 8 the platform must meet grid-operator cybersecurity and communication standards, for example IEC 60870-5-104 or EEBUS\n- Data: energy-usage data from pilots must be pseudonymised, stored on secure regional servers and processed under GDPR\n- Ethics: each proposal includes an ethics self-assessment covering data protection, AI and security. Proposals recommended for funding are checked against EU environmental, data protection and ethics standards",
+          "sources": "20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · p. 11 · 2.3.2 Energy TRL Pathway\n20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 26–27 · 5.2.5 Data Management & Ethics Officer\n20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 29, 32 · 6.2 Part E; 7.5 Ethics Assessment"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "EUR 7.55 million in total for 5 to 8 projects, with a maximum budget of EUR 0.75 million, EUR 1.1 million or EUR 2.2 million per project, depending on its type.\n- Total project size: small project up to EUR 750,000; medium project up to EUR 1.1 million; flagship project up to EUR 2.2 million. The call calls these the \"maximum total allocated budget\" per project, and the funding rates apply to the total budget in the proposal. If no flagship is selected, its EUR 2.2 million goes to 2 or 3 more medium projects.\n- Grant request: at least EUR 50,000 per funded partner; at most EUR 600,000 per organisation across all its SYSTEMEU projects. Each region has a fixed maximum: Castilla y León EUR 2 million, Romania EUR 1.65 million, Tuzla Canton EUR 1.65 million, Norte EUR 1.3 million, Bavaria EUR 950,000.\n- Funding form: lump sum (fixed amounts paid when agreed milestones are reached, not against invoices), paid by each regional funding authority to the partners in its region",
+          "sources": "20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 12, 16–18, 21–22 · 2.4 Call Overview; 3.4 Consortium Requirements; 4.1 Budget Allocation; 4.3 Form of Payment\nSYSTEMEU Open Call for FSTP web page (systemeuvalley.eu/open-call-for-fstp) · Call details, Funding support to be received"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "The funding rate depends on the organisation type, from 50% for large companies to 100% for startups, universities, RTOs, public authorities and NGOs.\n- Startups meeting the call's definition: 100%, no own contribution (70% and 30% own contribution in Castilla y León)\n- Non-profit universities and RTOs: 100%, for non-economic activities only, with separate accounts\n- SMEs: 70%, with a 30% own contribution\n- Large companies: 50%, with a 50% own contribution, only for highly integrated collaborative roles\n- Public authorities and NGOs: 100%, for public-service digitalisation without commercial revenue\n- Self-funded partner from outside the five regions: 0%, covering all its own costs\n- Co-financing conditions: SMEs and large companies co-finance their own share from private means. A startup is a company no older than 7 years, at least 51% owned by its founders, that has never paid out profits and has annual turnover below EUR 10 million.\n- Evidence required: a Co-financing Commitment Letter signed by the managing board for SMEs (30%) and large companies (50%), and proof of liquidity from every partner",
+          "sources": "20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 18–19, 21–22 · 3.5 Specific Definition of Startups; 4.2 Funding Rates by Entity Type\n20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · p. 30 · 6.4 Mandatory Supporting Documents\nSystemEU_FTSPOpenCall_FAQ_20260911.pdf · Q1"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Fixed regional budget limits, a 60% minimum share for smaller and public organisations, and tight limits on subcontracting shape every budget.\n- Eligible costs: personnel with timesheets, travel for interregional meetings or validation, depreciation of equipment and software, other goods and services, and subcontracting\n- Caps or mandatory allocations: at least 60% of the project budget to startups, SMEs, public authorities, NGOs, universities or RTOs; at least EUR 50,000 per partner; at most EUR 600,000 per organisation; the regional budget limits are absolute, so a project that needs more from one region than is left cannot be funded as proposed without changes\n- Excluded costs: the full purchase price of equipment (only depreciation for the period of use counts)\n- Overheads and VAT: indirect costs are a flat 25% of eligible direct costs, excluding subcontracting\n- Subcontracting or equipment: subcontracting only for minor, non-core services such as specialised testing or regulatory translation; not between consortium partners; at most 20% of a partner's budget and 20% of the project budget",
+          "sources": "20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 21, 24 · 4.1 Budget Allocation & Regional Limits; 4.2; 4.4 Eligible Costs\n20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · p. 30 · 6.3 Part G: Budget Template"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "Funding comes in three milestone-based instalments, and a quarter of it is held back until the final review is accepted.\n- Payment model: 25% pre-financing within 30 days of the bilateral agreement with the regional funding authority and the follow-up plan; 50% after the monitoring group approves the interim report at month 9 or 10; 25% after the final report at month 16 or 19 is accepted by the monitoring team and the European Commission\n- Retention or guarantee: regional funding authorities may collect bank guarantees during grant preparation where required, and every partner must prove liquidity\n- Financial reporting or audit: regional authorities may audit expenditure in case of suspected irregularities or where national law requires it, specifically in Romania and Spain. If a project misses TRL 8 for justified technical reasons, funding is generally not recovered, but negligence may lead to contractual measures.",
+          "sources": "20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 14, 22–24 · 2.5 Timeline; 4.3 Form of Payment & Staged Tranches; 4.3.2\n20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · p. 30 · 6.4 Mandatory Supporting Documents"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage. The lead partner submits the full application in English on the call's online platform by 23 November 2026, 17:00 Brussels time.\n- Stage 1 — Full application: 23 November 2026, 17:00 Brussels time. The lead partner completes the online form and uploads the application narrative (Parts A to F), the Excel budget (Part G) and all mandatory supporting documents. No late submissions and no changes after the deadline. Only consortia that meet the regional and composition rules are eligible.\n- Additional procedure: a redress window of 14 calendar days after results, from 21 January to 4 February 2027, for procedural complaints by email",
+          "sources": "20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 13–14 · 2.5 Timeline of the Call\n20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 29–30 · 6 Preparing the Application\n20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · p. 32 · 7.5 Ethics Assessment & Redress Procedure\nSYSTEMEU Open Call for Joint Interregional Projects page on the call's application platform (opportunities.getonepass.eu) · Applications"
+        },
+        {
+          "title": "Project window",
+          "answer": "Projects run 15 to 18 months, starting on 1 March 2027 and ending by 31 August 2028.\n- Maximum duration: 18 months (minimum 15 months)\n- Required start: 1 March 2027, the official project start date\n- Eligible-cost period: costs are eligible from 1 March 2027\n- Completion deadline: 31 August 2028, when final technical and financial files must be submitted",
+          "sources": "20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 12, 14–15 · 2.4 Call Overview; 2.5 Timeline of the Call & Operational Milestones"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Results are expected on 20 January 2027, and agreements are to be signed on 1 March 2027.\n- Expected invitation or assessment result: evaluation from late November to 20 December 2026; the call marks these dates as pending\n- Funding decision: 20 January 2027 (anticipated), when the Final Evaluation Board (one representative from each of the five regional administrations) announces the selected consortia\n- Grant agreement: preparation from 4 February to 1 March 2027; signature on 1 March 2027 of the consortium agreement and the bilateral agreements between each partner and its regional funding authority\n- Conditions before starting: a consortium agreement based on the DESCA Horizon Europe model (a standard template for consortium agreements); a registered 9-digit PIC (the EU participant identification code) for each funded partner; financial checks by the regional authorities, with 14 days to replace a partner that fails",
+          "sources": "20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 13–15 · 2.5 Timeline of the Call\n20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 25, 33 · 5.2 Roles and Responsibilities; 8 Registration of a New Entity & PIC Code Validation\nSystemEU_FTSPOpenCall_FAQ_20260911.pdf · Q8"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "An incomplete application, or one not in English, is excluded. The package has a narrative, an Excel budget and supporting documents for each partner.\n- Application form: the SYSTEMEU application narrative template, completed on the online platform in English. Parts: A project identification; B lead partner; C other partners; D project narrative (summary, relevance, ambition and innovation, work plan, team, risk analysis, social impact, business impact); E ethics self-assessment; F mandatory declarations signed by the lead partner\n- Budget: Part G Excel template, with estimated eligible costs per partner and comments justifying each major item, especially subcontracting and equipment depreciation\n- Partner documents: proof of liquidity from each partner (bank or verified financial statement); a co-financing commitment letter for SMEs and large companies; for startups claiming 100%, a registration certificate, cap table and declaration of non-distribution of profits; for non-profit bodies, a registration certificate showing non-profit status\n- Mandatory annexes: additional state-aid documents may be required for partners in Tuzla Canton; letters of support and CVs may be added\n- Registration: a PIC is recommended before submission and mandatory before signing for funded partners",
+          "sources": "20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 19–20 · 3.6 Exclusion Criteria\n20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 29–30 · 6.2 Part A-F; 6.3 Part G; 6.4 Mandatory Supporting Documents\n20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · p. 33 · 8 Registration of a New Entity & PIC Code Validation"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Three experts score each proposal on excellence, impact and implementation. Proposals must score at least 3 out of 5 on each and 10 out of 15 overall.\n- Evaluation criteria: excellence (clarity and ambition, credibility of the TRL 6 to 8 progress, method and use of joint assets); impact (market opportunity, replicability, regional economic and social benefit, interregional value chains, dissemination and exploitation plan); implementation (work plan, milestones and deliverables, budget, and the competence, diversity, gender balance and complementarity of the consortium)\n- Thresholds: 3.0 out of 5 on each criterion; at least 10 out of 15 in total\n- Weighting: excellence 30%, impact 40%, implementation 30%\n- Ranking rules: ties go to the higher impact score, then excellence. At least one project per sector is funded. The Final Evaluation Board may make small documented changes to fit the regional budgets. If no flagship is funded, the money goes to the best medium projects in the least-covered sectors.\n- Budget assessment: evaluators score whether the budget is appropriate; if a partner's region has run out of money, the board may ask for a replacement partner, shifted tasks or self-funding",
+          "sources": "20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 31–32 · 7.2 Independent Evaluation; 7.3 Award Criteria & Scoring Thresholds; 7.4 Final Evaluation Board\n20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 12, 24 · 2.4 Call Overview, footnote 1; 4.5 Oversubscription & Funding Gap Resolution"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Several rules apply only to particular partners or regions, including the self-funded partner route that is TenneT's only way in.\n- Exception — partner from outside the five regions: may join only as the single self-funded partner per consortium, with 0% funding and proof of its own financial security, and may not coordinate\n- Exception — startups in Castilla y León: funding capped at 70% instead of 100%\n- Exception — partners in Tuzla Canton: accounts in convertible marks, converted to euros using the EU's official average exchange rate; extra state-aid documents may be required\n- Conditional — partner fails the financial check: the consortium has 14 days to replace it or adapt the work plan, otherwise the project is not funded\n- Conditional — interim report not accepted: two weeks to resubmit before the 50% instalment is withheld\n- Conditional — use of generative AI: applicants must disclose which AI tools they used and how\n- Recommended: register a PIC early and use the OpenHubs partner-search platform, the matchmaking events and the regional contact points to build the consortium",
+          "sources": "SystemEU_FTSPOpenCall_FAQ_20260911.pdf · Q1, Q8, Q10, Q11\n20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 18, 21–23 · 3.5; 4.2 Funding Rates; 4.3.1\n20261112_SYSTEMEU_FSTP_Open_Call_Manual.pdf (Guidelines for Applicants, version 12.11.2026) · pp. 29–30, 33 · 6.1 Policy on the Use of Generative AI; 6.4; 6.5; 8"
+        }
+      ]
+    }
+  ]
+}
