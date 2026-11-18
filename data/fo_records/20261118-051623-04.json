@@ -1,0 +1,39 @@
+{
+  "id": "20261118-051623-04",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-CL4-2027-01-MAT-PROD-22 Innovative advanced materials and new production processes – reducing dependencies on Critical and Strategic Raw Materials (IA) (Innovative Advanced Materials for the EU and Processes4Planet partnerships) – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "INDUSTRY (HORIZON-CL4-2027-01)",
+  "call_module_title": "HORIZON-CL4-2027-01-MAT-PROD-22 Innovative advanced materials and new production processes – reducing dependencies on Critical and Strategic Raw Materials (IA) (Innovative Advanced Materials for the EU and Processes4Planet partnerships)",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-01-MAT-PROD-22",
+  "executive_summary": "Horizon Europe Innovation Action under the IAM4EU and Processes4Planet partnerships that funds innovative advanced materials and industrial production processes that substitute, or use more efficiently, critical and strategic raw materials in sectors such as energy, mobility, construction, electronics, medical devices or chemicals, from TRL 5 to TRL 7, with clear use cases, a business case and exploitation strategy (3 extra pages allowed) and application of the safe and sustainable by design framework. Participation is limited to entities established in EU Member States, Associated Countries, OECD countries and listed raw-materials partner countries and regions, and not controlled from non-eligible countries; actual-cost grant at the Innovation Action rates (70% for for-profit entities, up to 100% for non-profit). Indicative topic budget EUR 36 million, EUR 6–7.5 million per project, about six projects. Opened 13 October 2026; single-stage deadline 2 February 2027.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-02-02",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "Horizon Europe Work Programme 2026–2027 Part 7 (Digital, Industry and Space), pp. 41–44, Specific conditions, Expected Outcome and Scope of HORIZON-CL4-2027-01-MAT-PROD-22, funds new materials and production processes that replace or reduce critical and strategic raw materials, naming energy as one target sector. It touches TenneT's field through the materials in grid equipment and the security of its supply chain, although no project file is close to it: the projects closest in spirit (2GW Program, Station Veenoord–Boerdijk) concern supplier capacity and delivery, not materials development. The work is materials and process development by industry and research with use cases integrated into products, and the call sets out no route for a grid operator, so TenneT has no role in the project. Category C3.1 fits because less dependence on scarce raw materials could make manufacturers of cables, transformers and converters more resilient and shorten lead times; no project date is set because the call states no start, end or duration.",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.1"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T4",
+      "T9"
+    ],
+    "role": [],
+    "activity": [
+      "A5",
+      "A8"
+    ],
+    "outcome": [
+      "O5",
+      "O7"
+    ]
+  }
+}
