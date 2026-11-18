@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "Compact, portable and modular imaging systems that give fast, reliable information outside specialised centres, supported by local data analysis and edge AI (AI that runs on the device itself).\nThe project must develop, validate and demonstrate such systems. The call defines its terms precisely:\n- Modular: reconfigurable systems built from separate, standardised and interchangeable components, meant for mobile, distributed or field use. Add-ons to existing fixed imaging equipment in hospitals or laboratories are expressly excluded.\n- Mobile: easy to deploy in different settings; it can also mean transportable on wheels or carried by drones.\n- Imaging: generating, collecting, analysing and visualising optical and non-optical images (for example camera, radar or other sensor images).\nThe systems must fit into existing work processes so that imaging is available where it is needed, rather than bringing the object or patient to the imaging equipment.",
+          "sources": "Call-for-Proposals_EN-1.pdf · pp. 2, 4–5 · 1.1 Brief summary; 2.2 Aim of the programme, Definitions/scope\nCall-for-Proposals_EN-1.pdf · p. 6 · 2.2.3 Purpose of this Call for proposals"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Mobile and modular imaging research for either the health and care sector or the security sector; projects that address only software fall outside the scope.\n- Application sectors: health and care, or security. The call reads security broadly: defence and national security, but also law enforcement, public safety and climate-related security. The societal challenge it names includes protection of critical infrastructure, water safety and infrastructure inspections.\n- Examples of application areas the call names: early detection, triage and point-of-care diagnostics (diagnosis at the patient's location); and multimodal sensor systems (combining several kinds of sensor) for field observation and detection, such as monitoring floods and surveillance of dykes and other critical civil infrastructure.\n- Knowledge gaps the call lists, not limited to these: hardware (new, simpler and more compact imaging principles, sensor materials, semiconductor, photonic and electromagnetic components, configurable system architectures); software at the hardware interface (edge computing, embedded and physics-informed AI, uncertainty quantification, multimodal data fusion, image reconstruction from incomplete or noisy data); usage (human-technology interaction, trustworthy and explainable AI, autonomous image acquisition, self-calibration, real-time error detection); sustainability (standardisation, interoperability and integration of image data into digital workflows, use in nature and climate safety); and collaboration between several sensors, platforms or systems.\n- Excluded: proposals that focus exclusively on software, and standard extensions of existing stationary imaging infrastructure in specialist settings.\n- Budget split: half of the EUR 7 million budget is reserved for health projects and half for security projects; unused budget in one sector can go to good proposals in the other.\nA TenneT-related proposal would fall in the security sector, through infrastructure inspection and monitoring of critical infrastructure.",
+          "sources": "Call-for-Proposals_EN-1.pdf · pp. 2, 4–8 · 1.1 Brief summary; 2.2 Aim of the programme; 2.2.1 Societal challenge; 2.2.2 The intended societal impact; 2.2.3 Purpose of this Call for proposals"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The project must answer a societal need for rapid, reliable and versatile image-based information for timely decisions in health care or security in the Netherlands.\nThe call describes two sources of need:\n- Health: rising demand for care from an ageing population and more chronic conditions, while fewer health professionals are available.\n- Security: geopolitical tension, the need for stronger national and European resilience, climate change, water safety and the protection of critical infrastructure.\nIn both, the call stresses a shrinking labour market, so systems must be usable by non-specialists. A second need is economic: Dutch imaging start-ups and scale-ups lack scaling opportunities, test facilities and predictable demand. The proposal must give a clear problem definition and explain its social and scientific urgency, which is scored (20% of the assessment). The need is therefore society's and that of the professional users (care providers, security and public-safety organisations, infrastructure operators), not only the research community's.",
+          "sources": "Call-for-Proposals_EN-1.pdf · pp. 5–6 · 2.2.1 Societal challenge; 2.2.2 The intended societal impact\nCall-for-Proposals_EN-1.pdf · p. 21 · 4.1 Criteria, Problem definition and problem analysis"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "Validated and demonstrated mobile, modular imaging systems, plus the new knowledge behind them; the call does not list fixed deliverables.\nFrom the call's aim and knowledge gaps, the outputs it expects are:\n- imaging hardware: new compact imaging principles, sensor and component concepts, and configurable system architectures;\n- software tied to that hardware: edge and embedded AI, data fusion, image reconstruction and decision-support methods;\n- validation and demonstration results showing the systems work in practice;\n- an Impact Plan (the plan that links the problem, the route to impact and the research), on which the project must also report during its run;\n- knowledge-utilisation outputs such as training, learning communities, stakeholder workshops and communication, paid from a mandatory budget line;\n- open-access publications and a data management plan that makes research data FAIR (findable, accessible, interoperable, reusable).",
+          "sources": "Call-for-Proposals_EN-1.pdf · pp. 4, 6–8 · 2.2 Aim of the programme; 2.2.3 Purpose of this Call for proposals; 2.2.4 Societal impact of research\nCall-for-Proposals_EN-1.pdf · pp. 27–28, 31 · 5.1.2 Data management plan; 5.2.1 Progress report; 5.5 Research results – Open Science\nCall-for-Proposals_EN-1.pdf · p. 38 · 7.1.6 Knowledge utilisation"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The project must make a demonstrable contribution to a healthy and/or safe society through the use of mobile and modular imaging; the call sets no numerical targets.\n- The technology must be adaptable to many situations and changing needs, ethically responsible, easy to use, raise productivity and not require specialist expertise.\n- Security impact: safeguarding security and strengthening resilience, for example against challenges in defence and climate change, including monitoring of dykes and other critical civil infrastructure.\n- Health impact: more accessible care and earlier detection, easing the tension between rising care demand and fewer staff.\n- Economic impact: new opportunities for the Dutch imaging ecosystem and faster translation of knowledge into widely applicable solutions.\n- Policy link: the call is part of the Knowledge and Innovation Covenant 2024–2027, the Dutch government's mission-driven innovation policy, in which private co-funding is mandatory to reach economic and societal impact.\nImpact counts for 20% of the score (criterion 'Envisaged impact and route to impact').",
+          "sources": "Call-for-Proposals_EN-1.pdf · pp. 4, 6 · 2.1 Background; 2.2 Aim of the programme; 2.2.2 The intended societal impact\nCall-for-Proposals_EN-1.pdf · p. 21 · 4.1 Criteria"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "The results must be designed for wide use rather than an isolated pilot, but the call does not require replication or market launch within the project.\n- Wider use: the call aims to accelerate development and implementation and to turn knowledge into widely applicable solutions; imaging must become available to a wider group of users (the call calls this democratisation).\n- Standards and interoperability: the call names standardisation, interoperability and integration of image data into digital workflows as a knowledge gap, and calls for configurable, interoperable architectures; it does not require compliance with named standards.\n- Knowledge utilisation is mandatory: 5–20% of the grant must go to activities such as training, learning communities, stakeholder workshops and communication. The call also says sufficient attention must be paid to training professionals to use the technology.\n- Impact Plan: the consortium must set out a route to impact with the role of each partner and report on societal impact during the project.\n- Ownership and use of results: a consortium agreement sets intellectual property, publication and knowledge transfer; partners may agree their own IP terms, and licensing must follow the ten principles of socially responsible licensing.\nThe call does not say who must adopt, operate or maintain the result after funding ends.",
+          "sources": "Call-for-Proposals_EN-1.pdf · pp. 6–9 · 2.2.3 Purpose of this Call for proposals; 2.2.4 Societal impact of research\nCall-for-Proposals_EN-1.pdf · pp. 15, 38 · 3.3.4 Knowledge utilisation; 7.1.6 Knowledge utilisation\nCall-for-Proposals_EN-1.pdf · pp. 28, 30 · 5.1.3 Consortium agreement; 5.2.1 Progress report; 5.3.4 Principles of socially responsible licensing"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "At least four parties: a main applicant, at least one co-applicant and at least two co-funders; there is no maximum.\nCooperation partners (organisations that take part without funding or co-funding) may be added. Having two or more co-funders is a pass/fail condition: a proposal without them is not considered.",
+          "sources": "Call-for-Proposals_EN-1.pdf · p. 12 · 3.2 Who can apply\nCall-for-Proposals_EN-1.pdf · pp. 13, 19 · 3.2.2 Co-funders; 3.6 Requirements for consideration"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "Researchers from Dutch research organisations lead the work; companies and other organisations join as co-funders or cooperation partners.\n- Main applicant and co-applicants: researchers with a permanent or tenure-track contract at Dutch universities, universities of applied sciences, university medical centres, KNAW and NWO institutes and a few named institutes. Researchers in a comparable role at AMS Institute, IMEC-NL, Waag Futurelab and the Netherlands Defence Academy may be co-applicants. Researchers at foreign research organisations may also be co-applicants, with at most 50% of the grant for their personnel.\n- Co-funders: at least two, contributing cash or in kind. Organisations whose researchers can apply (universities and the other research organisations above) may not be co-funders. At least half of all co-funding must come from private sources, meaning not directly or indirectly from a research institution or public body.\n- Cooperation partners: optional companies, public or private organisations and other institutions that are closely involved without funding or co-funding.\n- The call encourages companies, social organisations, (vocational) education and end users to take part, and interdisciplinary collaboration is expected unless the proposal argues convincingly that it is not needed.\nThere is no country requirement for co-funders or cooperation partners, but NWO may refuse a co-funder linked to a sanctioned country or a knowledge-security risk.",
+          "sources": "Call-for-Proposals_EN-1.pdf · pp. 9, 12–14 · 2.2.4 Societal impact of research; 3.2 Who can apply; 3.2.1 Additional conditions; 3.2.2 Co-funders; 3.2.3 Cooperation partner(s)\nCall-for-Proposals_EN-1.pdf · pp. 17, 19 · 3.5.1 Co-funding; Definition private co-funding\nNWO-Co-funding-rules-2-September-2024.pdf · p. 1 · Article 3. Co-funder"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "The call does not prescribe work packages, but every consortium partner must play an active role in shaping and carrying out the project, and roles must be clearly divided.\n- All partners must help formulate the research questions and design and implement the project; the role of each co-funder and cooperation partner must be described in the proposal.\n- The grant goes to the main applicant's research organisation (the main beneficiary), which manages it; co-applicants are project co-leaders.\n- Only research organisations can receive the grant. Cooperation partners can be paid only as third parties through the materials, knowledge utilisation or project management budget lines, not for their own salary or research costs. Co-funders cannot be paid at all.\n- A main applicant may lead one proposal and be co-applicant in one other; a co-applicant may join at most two consortia.\n- Consortium quality, including a clear division of tasks and roles in research and governance, counts for 30% of the score.",
+          "sources": "Call-for-Proposals_EN-1.pdf · pp. 12–14 · 3.2 Who can apply; 3.2.1 Additional conditions; 3.2.2 Co-funders; 3.2.3 Cooperation partner(s)\nCall-for-Proposals_EN-1.pdf · pp. 21, 27 · 4.1 Criteria, Quality of the consortium; 5.1 Start of the project"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "Only a researcher with a permanent or tenure-track contract at a Dutch research organisation can be main applicant.\nEligible employers are Dutch universities and universities of applied sciences, university medical centres, KNAW and NWO institutes, the Netherlands Cancer Institute, the Max Planck Institute for Psycholinguistics, Naturalis, ARCNL and the Princess Máxima Center. Researchers at a university of applied sciences may also lead on a fixed-term contract. The main applicant submits the proposal in ISAAC (NWO's online application system), becomes project leader and NWO's contact, and their organisation manages the grant.",
+          "sources": "Call-for-Proposals_EN-1.pdf · pp. 12–13, 27 · 3.2 Who can apply; 3.2.1 Additional conditions; 5.1 Start of the project"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "No. TenneT cannot apply or coordinate, because only researchers at Dutch research organisations may be main applicant.\nTenneT is not one of the eligible research organisations, so its staff can be neither main applicant nor co-applicant. A consortium involving TenneT would have to be led by a university or research institute researcher, with TenneT in a supporting role.",
+          "sources": "Call-for-Proposals_EN-1.pdf · pp. 12–13 · 3.2 Who can apply; 3.2.1 Additional conditions"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes, as a co-funder or as a cooperation partner, in both cases without NWO funding.\n- Co-funder: TenneT would contribute cash and/or in kind (staff hours at fixed Dutch government hourly rates, or materials and equipment use), confirmed in a signed co-funding declaration. Each consortium needs at least two co-funders who together provide at least 20% of the total budget. In-kind contributions must be an identifiable part of the project work; know-how, overheads, consultancy, discounts and time spent on the user committee do not count.\n- Cooperation partner: TenneT would be closely involved in the research or the use of its results, without paying in or receiving funding.\n- In both roles TenneT would sit on the user committee (the body that monitors the project and advises on its direction, meeting at least once a year) and must help shape the research questions and the project.\nAt least half of all co-funding must be private, defined as not originating directly or indirectly from a research institution or public body. TenneT TSO B.V. is a company wholly owned by the Dutch State; whether its contribution counts as private is not addressed by the call and would need to be confirmed with NWO (interpretation).",
+          "sources": "Call-for-Proposals_EN-1.pdf · pp. 12–14 · 3.2 Who can apply; 3.2.2 Co-funders; 3.2.3 Cooperation partner(s)\nCall-for-Proposals_EN-1.pdf · pp. 17–19 · 3.5.1 Co-funding; Definition private co-funding\nCall-for-Proposals_EN-1.pdf · p. 28 · 5.2.2 User Committee\nNWO-Co-funding-rules-2-September-2024.pdf · pp. 2–3 · Article 6. Co-funding in kind; Article 7. Determining the monetary value of in-kind co-funding"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "No. NWO funds only the main applicant and co-applicants, which must be research organisations.\nThe call states that a co-funder receives no NWO funding and cannot be paid as a third party through the budget lines. A cooperation partner cannot have its salary or research costs funded either; it can at most be paid as a hired third party for specific services through the materials, knowledge utilisation or project management budget lines. TenneT would therefore have to finance all its own costs in the project.",
+          "sources": "Call-for-Proposals_EN-1.pdf · pp. 13–14 · 3.2.2 Co-funders; 3.2.3 Cooperation partner(s); 3.3 What can be applied for"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT could be a credible co-funder and end user in a security-sector project on drone- or sensor-based imaging for inspecting and monitoring critical energy infrastructure (interpretation).\n- Use case and requirements: TenneT already uses drones and sensors for line and substation inspection in its risk-based maintenance (Reliability Centered Maintenance), so it could define realistic inspection tasks, image-quality needs and integration with its maintenance workflows.\n- Test sites and data: access to substations, overhead lines or offshore assets, and existing inspection images, would give the project the realistic test environment the call says is a bottleneck. This could also count as in-kind co-funding if it is an identifiable part of the work.\n- In-kind staff time: asset-management and inspection specialists taking part in validation, valued at government hourly rates.\n- Security perspective: TenneT's view on physical protection of critical infrastructure fits the call's security sector.\nSince TenneT receives no funding, its contribution should be sized to the value of the knowledge and test results it gains. Electromagnetic interference and safety constraints near high-voltage equipment could be a distinctive research question TenneT brings (interpretation).",
+          "sources": "Call-for-Proposals_EN-1.pdf · pp. 4–7 · 2.2 Aim of the programme; 2.2.1 Societal challenge; 2.2.2 The intended societal impact\nCall-for-Proposals_EN-1.pdf · pp. 13–14, 17 · 3.2.2 Co-funders; 3.2.3 Cooperation partner(s); 3.5.1 Co-funding"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The project must produce genuinely new knowledge and technology; integrating existing solutions alone is not enough.\nThe call wants projects in which scientific breakthroughs, technological development and societal implementation go hand in hand, and it lists open knowledge gaps such as the fundamental limits of miniaturisation, reliable reconstruction from incomplete data and self-calibrating systems. The research question must be original and innovative within its disciplines, scored under 'Quality of the research' (30%).",
+          "sources": "Call-for-Proposals_EN-1.pdf · pp. 6–8 · 2.2.3 Purpose of this Call for proposals\nCall-for-Proposals_EN-1.pdf · p. 22 · 4.1 Criteria, Quality of the research"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "A combination of technology and system architecture, with operational use: hardware, embedded software and the way people use the systems.\n- Technology: imaging principles, sensors, materials, semiconductor, photonic and electromagnetic components.\n- System architecture: reconfigurable, modular and interoperable architectures, and cooperation between several sensors or platforms.\n- Operational methods: human-technology interaction, decision support, autonomous acquisition and integration into existing care or security processes.\nSoftware is allowed only alongside hardware: proposals that focus exclusively on software are out of scope. The call does not ask for innovation in market arrangements or governance models.",
+          "sources": "Call-for-Proposals_EN-1.pdf · pp. 4, 7–8 · 2.2 Aim of the programme; 2.2.3 Purpose of this Call for proposals"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Research through prototyping, validation and demonstration: the call's aim is to develop, validate and demonstrate the systems.\nIt describes projects that combine research and innovation, from scientific breakthroughs to technological development and societal implementation. Deployment into routine operation is not required.",
+          "sources": "Call-for-Proposals_EN-1.pdf · pp. 2, 4, 6 · 1.1 Brief summary; 2.2 Aim of the programme; 2.2.3 Purpose of this Call for proposals"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "The call sets no TRL (Technology Readiness Level, a 1–9 scale of maturity) for the start or end of the project.\nIt expects systems to be validated and demonstrated by the end and stresses early testing in realistic environments, which suggests an end point beyond laboratory proof of concept (interpretation).",
+          "sources": "Call-for-Proposals_EN-1.pdf · pp. 4, 6 · 2.2 Aim of the programme; 2.2.1 Societal challenge"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "The systems must be demonstrated, but the call does not prescribe where; it stresses testing at an early stage in a realistic and safe environment.\nThe call says integrated test and demonstration facilities, where technology can be tested early in a realistic setting, are of great importance, and that imaging must work where the information is needed: in the field, at infrastructure inspections, in disaster zones or at the patient's home. It does not require testing under real operational conditions or on operational infrastructure.",
+          "sources": "Call-for-Proposals_EN-1.pdf · pp. 4, 6 · 2.2 Aim of the programme; 2.2.1 Societal challenge"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The research must form one integrated project with clearly linked work packages, and the systems must fit existing workflows and processes.\n- The research plan must have work packages with a logical coherence and an effective strategy to integrate the knowledge of researchers and partners; this is scored.\n- The systems must integrate with existing work processes, health-care and safety processes, regulatory requirements and user needs.\n- The call also wants cooperation between systems, so that several sensors, platforms or systems jointly collect and interpret information, and integration of image data into digital workflows.",
+          "sources": "Call-for-Proposals_EN-1.pdf · pp. 4, 7–8 · 2.2 Aim of the programme; 2.2.3 Purpose of this Call for proposals\nCall-for-Proposals_EN-1.pdf · p. 22 · 4.1 Criteria, Quality of the research"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "The call sets no performance indicators; it only requires that the systems are validated and demonstrated and that the project contributes demonstrably to its intended impact.\nIt names trade-offs the research must address, between image quality, reliability, speed, energy use, mobility, decision-making and cost, and notes that timely detection is often more important than maximum resolution. During the project, the consortium must report on societal impact according to its Impact Plan.",
+          "sources": "Call-for-Proposals_EN-1.pdf · pp. 6–7 · 2.2.2 The intended societal impact; 2.2.3 Purpose of this Call for proposals\nCall-for-Proposals_EN-1.pdf · p. 28 · 5.2.1 Progress report"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "Users must be involved from the start: all consortium partners must help formulate the research questions and design and carry out the project.\n- The call describes this as co-design in preparing the proposal, co-creation during the research and co-production of societal impact.\n- Active involvement of partners from problem definition to implementation is scored under 'Quality of the consortium' (30%).\n- After award, a user committee of at least the co-applicants, co-funders and cooperation partners monitors the project and advises on its direction, meeting at least once a year with NWO present.\n- Systems must be easy to use without specialist expertise, and the call asks for research on human-technology interaction and on which tasks can be responsibly delegated to the system.",
+          "sources": "Call-for-Proposals_EN-1.pdf · pp. 8–9, 12 · 2.2.3 Purpose of this Call for proposals; 2.2.4 Societal impact of research; 3.2 Who can apply\nCall-for-Proposals_EN-1.pdf · pp. 21, 28 · 4.1 Criteria, Quality of the consortium; 5.2.2 User Committee"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "The main call-specific requirement is knowledge security: the main applicant must sign a statement that the proposal follows the research organisation's knowledge security policy.\n- Knowledge security (protecting sensitive knowledge and technology from misuse by foreign actors): the statement is a mandatory annex, prepared with the organisation's knowledge security officer; NWO may ask for risk-mitigation measures and add conditions in the award letter, and may refuse co-funders where knowledge security is at stake.\n- Data: the call asks for secure, reproducible and scalable use of image data and for ethically responsible application; a data management plan must be approved by NWO before the project starts.\n- Ethics: if the research needs an ethical statement or licence, it must be obtained before the relevant work starts.\nThe call sets no specific cybersecurity or operational-continuity requirements.",
+          "sources": "Call-for-Proposals_EN-1.pdf · pp. 6, 8 · 2.2.2 The intended societal impact; 2.2.3 Purpose of this Call for proposals\nCall-for-Proposals_EN-1.pdf · pp. 25, 27, 29 · 4.3.5 Knowledge security; 5.1.2 Data management plan; 5.3.1 Compliance with the National Knowledge Security Guidelines; 5.3.2 Ethical statement or licence\nNWO-Co-funding-rules-2-September-2024.pdf · p. 1 · Article 3. Co-funder"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "Each project can receive EUR 1–3.2 million from NWO, within a total call budget of EUR 7 million for at most about 7 projects.\n- Total project size: not stated directly. Because NWO funds at most 80% and at least 50% of the total project budget, a project's total budget is at least EUR 1.25 million and, at the maximum grant, between EUR 4 million and EUR 6.4 million, depending on the co-funding.\n- Grant request: EUR 1,000,000 minimum to EUR 3,200,000 maximum per project (per consortium), paid to the main applicant's research organisation; half of the call budget is reserved for health and half for security projects.\n- Funding form: actual-cost grant built from budget lines (personnel, materials, investments, knowledge utilisation, project management) at NWO's fixed rates.",
+          "sources": "Call-for-Proposals_EN-1.pdf · pp. 2, 14 · 1.1 Brief summary; 3.3 What can be applied for\nNWO call page 'KIC Mobile and modular imaging technology for a healthy and safe society' · What to apply for"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "NWO funds at most 80% of the total project budget; co-funders must provide at least 20%, and NWO's share may not fall below 50%.\n- Co-financing conditions: cash and/or in kind, in any mix the consortium chooses; at least two co-funders; at least 50% of all co-funding from private sources (not from a research institution or public body); co-funding is set at project level. Cash goes to the main applicant, who invoices the co-funder plus any VAT. In-kind staff time is valued at the fixed Dutch government hourly rates (HOT tables); know-how, discounts, overheads, consultancy and user-committee time are not accepted.\n- Evidence required: a co-funding declaration signed by an authorised signatory of each co-funder, stating the cash and in-kind amounts and whether they are private or public, submitted with the proposal; contributions are then confirmed in the consortium agreement.\nFor TenneT, any contribution would be its own cost, since co-funders receive nothing back from the grant.",
+          "sources": "Call-for-Proposals_EN-1.pdf · pp. 2, 13–14, 17–19 · 1.1 Brief summary; 3.2.2 Co-funders; 3.3 What can be applied for; 3.5.1 Co-funding; Definition private co-funding\nDeclaration-co-funding_KIC_v5-1.docx · Co-funder provides\nNWO-Co-funding-rules-2-September-2024.pdf · pp. 2–3 · Articles 4, 6 and 7"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "The grant is built from fixed budget lines with several caps, and knowledge utilisation is a mandatory line.\n- Eligible costs: personnel at research organisations (PhD students, Engineering Doctorates, postdocs, physician researchers, non-scientific staff, research leave), materials, investments, knowledge utilisation and project management.\n- Caps or mandatory allocations: materials at most 25% of the grant, of which at most 50% for work by third parties; investments at most EUR 500,000 per research organisation, depreciation only; knowledge utilisation 5–20% of the grant (mandatory); project management at most 5% of the grant, at most EUR 121 per hour; research leave at most 5%; foreign research organisations at most 50% of the grant for personnel.\n- Excluded costs: salaries of main and co-applicants, overheads and standard infrastructure, user-committee members, regular teaching, and salary or research costs of cooperation partners and co-funders.\n- Overheads and VAT: overheads are not eligible; VAT on cash co-funding is added on top of the pledged amount.\n- Subcontracting or equipment: only research organisations may budget investments; cooperation partners may be hired as third parties only through the materials, knowledge utilisation or project management lines.",
+          "sources": "Call-for-Proposals_EN-1.pdf · pp. 14–15 · 3.3 What can be applied for; 3.3.1–3.3.5\nCall-for-Proposals_EN-1.pdf · p. 17 · 3.5.1 Co-funding\nCall-for-Proposals_EN-1.pdf · pp. 33–39 · 7.1 Explanation of budget modules"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "For a co-funder, the main exposure is that pledged co-funding is binding for the whole project and is checked at the end.\n- Payment model: NWO pays the grant to the research organisation in instalments once the start requirements are met; cash co-funding is invoiced by the main applicant.\n- Financial reporting or audit: each co-funder's authorised officer must confirm by a management statement that the co-funding was provided; if co-funding falls short, NWO may reduce its contribution or ask for project changes.",
+          "sources": "Call-for-Proposals_EN-1.pdf · pp. 18, 27 · 3.5.1 Co-funding, Accountability of co-funding in cash or in kind; 5.1 Start of the project\nNWO-Co-funding-rules-2-September-2024.pdf · p. 3 · Article 8. Accountability\nDeclaration-co-funding_KIC_v5-1.docx · declaration text"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One mandatory stage: a full proposal in English, submitted by the main applicant through ISAAC (NWO's online application system).\n- Stage 1 — Full proposal: 13 May 2027, 14:00 CEST. Application form (sections 2–5 at most 20 pages), budget and mandatory annexes including the signed co-funding declarations; only a researcher at a Dutch research organisation can submit. No pre-proposal or letter of intent.\n- Additional procedure: online information session on 10 December 2026, 10:00–11:30 CET, and a preparatory workshop for forming consortia on 19 January 2027, both recommended but not compulsory. Requests to assess foreign research organisations as co-applicants are due by 13 April 2027, 14:00 CEST. After submission, applicants may send a rebuttal (a response to the referees) within ten working days, and consortia are normally invited to an interview.",
+          "sources": "Call-for-Proposals_EN-1.pdf · pp. 2–3, 10–11, 16 · 1.1 Brief summary; 2.3.1 Preparatory workshop; 3.1 Timeline; 3.4 Submission for and participating in consortium formation workshops; 3.5 Preparing and submitting a proposal in ISAAC\nCall-for-Proposals_EN-1.pdf · pp. 23, 36 · 4.2.2 Rebuttal; 4.2.4 Interview selection; 7.1.3 Scientific personnel at foreign research organisations\nApplication-form-1.docx · Application form guidelines"
+        },
+        {
+          "title": "Project window",
+          "answer": "Projects may last at most 6 years; the call sets no start or end date.\n- Maximum duration: 72 months.\n- Required start: not before the start form, data management plan and consortium agreement have been submitted after the award; funding decisions are expected in December 2027.",
+          "sources": "Call-for-Proposals_EN-1.pdf · pp. 11, 19, 27 · 3.1 Timeline; 3.6 Requirements for consideration; 5.1 Start of the project"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "NWO's Executive Board is expected to decide in December 2027 (indicative).\n- Expected invitation or assessment result: referees consulted June–July 2027; rebuttal September 2027; interviews and assessment committee meeting October–November 2027 (indicative).\n- Funding decision: December 2027 (indicative).\n- Conditions before starting: a start form, a data management plan approved by NWO and a consortium agreement signed by all partners (covering IP, publication, confidentiality and co-funding payments) must be submitted before work can start.",
+          "sources": "Call-for-Proposals_EN-1.pdf · p. 11 · 3.1 Timeline\nCall-for-Proposals_EN-1.pdf · pp. 27–28 · 5.1 Start of the project; 5.1.2 Data management plan; 5.1.3 Consortium agreement"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "A complete English proposal in ISAAC with NWO's forms and all mandatory annexes; anything missing, after one chance to correct it, means the proposal is not considered.\n- Application form: NWO template, in English, Calibri 10 pt; sections 2–5 at most 20 pages; no letters of support or extra documents; submitted as PDF via the main applicant's ISAAC account.\n- Budget: NWO Excel budget form with the most recent rates.\n- Mandatory annexes: co-funding declarations of every co-funder; 'Statements and signature' form; knowledge security statement; continuity-of-supervision letter if an applicant's contract ends before the project; no other annexes are allowed.\n- Partner documents: each co-funding declaration must be signed by an authorised signatory of the co-funder and must guarantee the full required co-funding.\n- Registration: an ISAAC account, and any organisation not yet in ISAAC must be registered by email at least five working days before the deadline.\n- Other pass/fail conditions: at least two co-funders, duration at most 6 years, a completed data management section and compliance with the DORA guidelines (no journal impact factors or h-index).",
+          "sources": "Call-for-Proposals_EN-1.pdf · pp. 16–19 · 3.5 Preparing and submitting a proposal in ISAAC; 3.5.1 Co-funding; 3.6 Requirements for consideration\nApplication-form-1.docx · Application form guidelines\nNWO call page 'KIC Mobile and modular imaging technology for a healthy and safe society' · Prepare, Fill in forms"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Proposals are scored on four weighted criteria by referees and an independent committee, then ranked; consortium and research quality weigh most.\n- Evaluation criteria: problem definition and analysis; envisaged impact and route to impact; quality of the consortium (composition, co-design, clear roles); quality of the research (originality, integration, coherent work packages, budget, risk analysis).\n- Weighting: 20%, 20%, 30% and 30% respectively.\n- Thresholds: an overall rating of at least 'very good' (score 3.4 or better on a 1–9 scale where 1 is best) and at least 4.0 on each criterion.\n- Ranking rules: half of the budget is reserved for health and half for security; in a tie, the lowest sum of the scores for criteria 1 and 2 wins, then a committee vote. If there are more than three times as many proposals as can be funded, only the best, at most twice the number fundable, are invited to interview.\n- Budget assessment: the budget must be suitable and well substantiated, which is part of the research quality criterion.",
+          "sources": "Call-for-Proposals_EN-1.pdf · p. 2 · 1.1 Brief summary\nCall-for-Proposals_EN-1.pdf · pp. 21–26 · 4.1 Criteria; 4.2.4 Interview selection; 4.2.6 Assessment committee meeting; 4.3.7 Ex aequo"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Most extra steps apply only to foreign co-applicants or to applicants whose contract ends early.\n- Conditional — foreign research organisation as co-applicant: the main applicant must send its registration extract, statutes, audited accounts and a Research Organisation Statement by 13 April 2027, 14:00 CEST; if late, the organisation is refused as co-applicant.\n- Conditional — applicant's contract ends before the project: a statement from the employer guaranteeing supervision for the whole project is mandatory.\n- Conditional — research needing an ethical statement or licence: it must be obtained before the work concerned starts.\n- Exception — university of applied sciences: its researchers may be main applicant on a fixed-term contract.\n- Exception — PhD project shorter than 48 months: the dean or institute director must commit in writing to funding the remainder.\n- Recommended: attending the information session and the preparatory workshop, and taking NWO's online impact workshops together with consortium partners.",
+          "sources": "Call-for-Proposals_EN-1.pdf · pp. 8, 10, 12–13 · 2.2.4 Societal impact of research; 2.3.1 Preparatory workshop; 3.2 Who can apply\nCall-for-Proposals_EN-1.pdf · pp. 29, 33, 35–36 · 5.3.2 Ethical statement or licence; 7.1.1 Personnel at a university in the Kingdom of the Netherlands, university medical centre or research organisation; 7.1.3 Scientific personnel at foreign research organisations"
+        }
+      ]
+    }
+  ]
+}

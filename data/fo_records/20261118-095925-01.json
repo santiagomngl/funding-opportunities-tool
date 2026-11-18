@@ -1,0 +1,28 @@
+{
+  "id": "20261118-095925-01",
+  "source": "NWO",
+  "display_title": "KIC Mobile and Modular Imaging Technology for a Healthy and Safe Society – Knowledge and Innovation Covenant (KIC)",
+  "organization_or_parent_framework": "NWO (Dutch Research Council), Domains ZonMw and Applied and Engineering Sciences (AES)",
+  "programme": "Knowledge and Innovation Covenant (KIC)",
+  "call_title": "KIC Mobile and Modular Imaging Technology for a Healthy and Safe Society",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://www.nwo.nl/en/calls/kic-mobile-and-modular-imaging-technology-for-a-healthy-and-safe-society",
+  "executive_summary": "Upcoming NWO call under the Knowledge and Innovation Covenant (KIC 2024-2027) to develop, validate and demonstrate compact, portable and modular imaging systems with local data analysis and edge AI, for the health and care sector or the broadly defined security sector (defence, public safety, climate-related security, protection and inspection of critical infrastructure); half of the EUR 7,000,000 budget is reserved for each sector and at most 7 projects are expected to be funded. Only researchers at Dutch research organisations may apply and receive the grant of EUR 1,000,000 to 3,200,000 per project; NWO funds at most 80% of the total project budget, and at least two co-funders (companies or other organisations) must jointly contribute at least 20% in cash or in kind, at least half of it from private sources, without receiving NWO funding. Single-stage call: full proposals by 13 May 2027, 14:00 CEST, projects of at most 6 years; information session 10 December 2026 and optional preparatory workshop 19 January 2027.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-05-13",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": 1250000,
+  "maximum_project_size": 4000000,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "The call funds research consortia that develop, validate and demonstrate mobile and modular imaging systems with edge AI for health or security, where security explicitly covers the protection of critical infrastructure, infrastructure inspections, drones and the surveillance of dykes and other critical civil infrastructure (Call for proposals, sections 2.2, 2.2.1 and 2.2.2). This touches TenneT's field through drone- and sensor-based inspection and condition monitoring of grid assets, as in the Reliability Centered Maintenance project, and through the physical security of critical infrastructure, although the call is generic imaging research and not specific to the grid. Only researchers at Dutch research organisations may be main or co-applicant; TenneT can take part as one of the at least two mandatory co-funders (cash or in kind, no NWO funding) or as a cooperation partner (sections 3.2, 3.2.2, 3.2.3 and 3.5.1), so it can participate but not receive the grant. The category is research-led participation as co-funder or user-committee member, since co-funders and cooperation partners sit on the project's user committee (section 5.2.2).",
+  "call_type": "Type 2",
+  "category_codes": ["C2.1"],
+  "taxonomy_values": {
+    "topic": ["T3", "T8", "T1", "T2"],
+    "role": ["R2", "R11", "R9"],
+    "activity": ["A2", "A5", "A6", "A7", "A8"],
+    "outcome": ["O3", "O2", "O6"]
+  }
+}
