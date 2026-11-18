@@ -1,0 +1,37 @@
+{
+  "id": "20261118-071455-03",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "EIC Accelerator Open – Horizon Europe",
+  "organization_or_parent_framework": "European Innovation Council (EIC)",
+  "programme": "Horizon Europe",
+  "call_title": "EIC Accelerator 2027 (HORIZON-EIC-2027-ACCELERATOR-01)",
+  "call_module_title": "EIC Accelerator Open",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2027-ACCELERATOR-01",
+  "executive_summary": "EIC Accelerator Open 2027 funds single start-ups and SMEs (and, for investment only or exceptionally blended finance, small mid-caps up to 499 employees) established in an EU Member State or Associated Country to develop and scale up deep-tech innovations in any field, with no predefined theme. Support is a lump-sum grant of up to EUR 2.5 million covering 70% of innovation costs from TRL 6 to 8, an EIC Fund equity or quasi-equity investment of EUR 1–10 million, or both (blended finance), from an indicative EUR 428 million for the Open strand (EUR 578 million for the whole Accelerator including Challenges). Short proposals may be submitted at any time from 10 November 2026; after a GO, full proposals go to the 2027 batching dates of 20 January, 17 March, 1 September and 4 November 2027 (17:00 Brussels time), followed by a jury interview. Projects should normally be completed within 24 months.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-01-20",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": 3571427,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "The EIC Work Programme 2027 (Section V and V.1, pp. 72–91) funds single SMEs to bring deep-tech innovations in any field from TRL 6 to 8 and to scale up, so it allows innovations in grid equipment, monitoring, flexibility or digital tools that TenneT could later buy; no project file is close, though ones such as Impressed Current Cathodic Corrosion Protection, Reliability Centered Maintenance and the Digital Twin Programme show where supplier innovations would land. Only a single company classified as an SME (or a small mid-cap for investment support) may apply (p. 73), so TenneT TSO B.V. cannot be a beneficiary and can at most back an applicant as a prospective customer, pilot site or letter-of-intent signatory. C2.2 fits because the grant covers demonstration in a relevant environment (p. 76–77), which TenneT could host as end user, and C2.4 fits because TenneT's realistic role is a supporting letter or advice to a single-company applicant.",
+  "call_type": "Type 2",
+  "category_codes": [
+    "C2.2",
+    "C2.4"
+  ],
+  "taxonomy_values": {
+    "topic": [],
+    "role": [
+      "R9"
+    ],
+    "activity": [
+      "A5",
+      "A7",
+      "A8"
+    ],
+    "outcome": []
+  }
+}
