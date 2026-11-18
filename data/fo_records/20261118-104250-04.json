@@ -1,0 +1,41 @@
+{
+  "id": "20261118-104250-04",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "Eureka-cluster Xecs voor micro- en nano-elektronica – Eureka-cluster Xecs",
+  "organization_or_parent_framework": "Netherlands Enterprise Agency (RVO)",
+  "programme": "Eureka-cluster Xecs",
+  "call_title": "Eureka-cluster Xecs voor micro- en nano-elektronica",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://www.rvo.nl/subsidies-financiering/eureka/netwerken-en-programmas/xecs",
+  "executive_summary": "National co-funding by RVO for Dutch partners in international Xecs projects (an Eureka cluster for market-oriented R&D on electronic components and systems), with partners from at least two countries and at least 35 person-years of effort. The Dutch budget is EUR 10 million a year, with at most EUR 4 million per Dutch consortium and rates of 25% to 50% depending on organisation type and research or development work. The international Project Outline is due on 21 January 2027 and the Full Project Proposal, by invitation, on 15 April 2027; the national application is expected in April 2027.",
+  "pre_submission_deadline": "2027-01-21",
+  "full_proposal_deadline": "2027-04-15",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": 11428571,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "The RVO Xecs page (Voor wie?, Voorwaarden) and RNES title 3.8 fund market-oriented R&D on electronic components and systems in any application area, which allows energy-system electronics such as the sensors and operational technology behind Reliability Centered Maintenance (RCM) and SylWin1 HVDC retrofit; the link to TenneT depends on the consortium's chosen application. Consortia may include user organisations, and RNES article 3.8.2 funds each participant in an Xecs-labelled consortium at 35% (industrial research) or 25% (experimental development) for a large company, so TenneT TSO B.V. could be a funded partner (C1.3). Article 3.8.9 excludes applications from government bodies, which on our reading does not cover TenneT TSO B.V. as a private-law company.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T1",
+      "T3"
+    ],
+    "role": [
+      "R2",
+      "R5"
+    ],
+    "activity": [
+      "A2",
+      "A5"
+    ],
+    "outcome": [
+      "O3"
+    ]
+  }
+}

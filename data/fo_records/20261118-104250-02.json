@@ -1,0 +1,41 @@
+{
+  "id": "20261118-104250-02",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "EKOO: Kritieke grondstoffen – Energie en Klimaat Onderzoek en Ontwikkeling (EKOO)",
+  "organization_or_parent_framework": "Netherlands Enterprise Agency (RVO)",
+  "programme": "Energie en Klimaat Onderzoek en Ontwikkeling (EKOO)",
+  "call_title": "EKOO: Kritieke grondstoffen",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://www.rvo.nl/subsidies-financiering/ekoo/kritieke-grondstoffen",
+  "executive_summary": "Grants for collaborations of companies and research organisations doing industrial research or experimental development that secures the supply of strategic and critical raw materials listed in the EU Critical Raw Materials Act, such as copper, aluminium, rare earths and silicon, through processing, recovery, reuse or substitution, with an application in the energy or digital transition, defence or high-tech. At least one company must take part and projects last at most two years. The tender has a budget of EUR 1.85 million, a maximum grant of EUR 500,000 per project and funding rates of 40% (large company) to 80% (non-economic research). Applications close on 3 December 2026 at 17:00.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2026-12-03",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": 1250000,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "The RVO scheme page (Waarvoor krijgt u subsidie?) and Staatscourant 2026, 31380 (Bijlage 4.2.1, Onderdeel D, innovatiethema 4) fund R&D that enables processing, recovery or reuse of, or substitution for, critical raw materials, with an application in the energy transition. Copper and aluminium are on the list, so recovering or substituting conductor and cable materials touches TenneT's grid assets and the material goals it shares with Renewables Grid Initiative (RGI), although no project file covers raw-material supply directly. RNES articles 4.2.9 and 4.2.10 fund each participant in a collaboration with at least one company, at 40% for a large company, so TenneT TSO B.V. could be a funded partner (C1.3); pilots and demonstrations are excluded, so C1.2 does not fit.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T9",
+      "T4"
+    ],
+    "role": [
+      "R2",
+      "R5"
+    ],
+    "activity": [
+      "A2",
+      "A5"
+    ],
+    "outcome": [
+      "O5"
+    ]
+  }
+}

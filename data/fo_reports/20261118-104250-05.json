@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "A quantum-enabled solution, using quantum computing, quantum communication or quantum sensing, to a real end-user problem in water, energy or physical or digital infrastructure.\nThe challenge is a pre-commercial procurement (the government buys research and development services, shares the risks and benefits with the developers and leaves the intellectual property with them). Phase 1 buys a feasibility study of the use case and business case; Phase 2 buys a proof of concept or prototype, with the aim of a solution that private investors would fund.",
+          "sources": "QDNL Innovation Impact Challenge call text (RVO, PDF) · p. 5 · Introduction; footnote 1\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 7 · 1.4 Goal of this Innovation Impact Challenge"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Feasibility studies and prototypes in which quantum effects make a substantive contribution, grounded in committed end-user demand, in at least one of three technology lines.\n- Quantum computing and simulation (CAT1, the first of three QDNL technology lines): quantum algorithms, quantum-inspired and hybrid quantum-classical methods, with a credible hypothesis of added value on quantum hardware; quantum advantage need not be shown in Phase 1.\n- Quantum communication and networks (CAT2): solutions relying on a quantum communication protocol; distributed quantum computing only if the key innovation is the communication between quantum processors.\n- Quantum sensing (CAT3): measurement and monitoring with a clear advantage over existing sensors, such as higher sensitivity, accuracy or resolution.\n- Combinations of lines are allowed, and intermediate steps may use simulation, emulation or classical substitutes.\nExcluded: QKD (quantum key distribution) as the solution; fundamental or technology-driven research without a defined application in infrastructure, water or energy; projects with only a hypothetical end user; studies that only list use cases; projects where quantum technology has no substantive role; market introduction activities.",
+          "sources": "QDNL Innovation Impact Challenge call text (RVO, PDF) · pp. 7–8 · 2.1 Scope and topic requirements; 2.2 Out of scope\nQDNL Innovation Impact Challenge call text (RVO, PDF) · pp. 9–10 · 4 Conditions outline for applicants and subcontractors"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The project must start from a real problem of an operational end user in infrastructure, water or energy, confirmed by a committed end-user organisation.\nFor energy, the call names grids under pressure from rising renewable generation and the resulting need for better planning, optimisation, monitoring, maintenance and control. A proposal must include commitment from at least one representative of a relevant end-user organisation, or of an organisation with direct knowledge of and access to that market, such as an existing technology or solution provider. The end user need not be the eventual customer. The envisioned solution must be one that a contracting authority (a public buyer) could potentially procure.",
+          "sources": "QDNL Innovation Impact Challenge call text (RVO, PDF) · p. 5 · 1.1 Context of the societal challenge\nQDNL Innovation Impact Challenge call text (RVO, PDF) · pp. 7–8 · 2.1 Scope and topic requirements"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "Phase 1 delivers a feasibility report answering five set questions; Phase 2 delivers a demonstrated, tested product, service or process with a final report.\n- Phase 1: a feasibility report in RVO's template, answering: the end-user problem and market gap; the minimum quantum-enabled solution and its value; the technology roadmap; alternatives and benchmarks; and the development time, cost and resources needed.\n- Phase 2: a final report in RVO's template, a demonstration of a tested product, service or process, and a monitoring and evaluation form; on request also a technical specification, test report, production or delivery plan, technical documentation and an updated business plan.\n- Both phases: a public summary of at most 200 words.",
+          "sources": "QDNL Innovation Impact Challenge call text (RVO, PDF) · p. 7 · 1.4 Goal\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 16 · 9.4 The feasibility study\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 17 · 11.4 Phase 2 Results\nInnovation Impact Challenge QDNL Format project plan phase 1 (RVO, Word) · Public Summary"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The solution must address an important end-user problem and create substantial value in the Netherlands, economically and for society.\nThe impact criterion rewards a clearly understood end user and problem, a significant problem that existing solutions do not address, substantial added value backed where possible by figures, broad reach or significant impact on value chains, and clear benefits for the Netherlands. The call links the challenge to the UN Sustainable Development Goals on clean water, affordable and clean energy, industry and infrastructure, sustainable cities and climate action, and to growth of the Dutch quantum sector.",
+          "sources": "QDNL Innovation Impact Challenge call text (RVO, PDF) · p. 1 · Cover\nQDNL Innovation Impact Challenge call text (RVO, PDF) · pp. 10–11 · 5.2 Assessment criteria (Criterium 1 Impact; Criterium 3 Economic perspective)"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "The result must be on track to be privately fundable after Phase 2; bringing it to market is not funded and the results must stay available to the Dutch economy.\n- Commercialisation: every contractor, including non-profits, must state how it will bring the innovation to market, for example through licences or a new company. The company must keep RVO and QDNL informed of commercialisation progress.\n- Rights: the contractor keeps the intellectual property, but RVO may use the knowledge without licence fees, publish it if in the public interest and require licences to third parties on reasonable terms.\n- Economic security: results, technology, source code, data and knowledge must remain available to the Dutch economy, and RVO and QDNL must be told at once if the office, management or strategic assets move outside the EU or EEA.\n- Dissemination: Phase 2 teams present their results at a public event.",
+          "sources": "QDNL Innovation Impact Challenge call text (RVO, PDF) · p. 14 · 8.3 Main contractor and subcontractors\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 15 · 9.2 Intellectual Property Rights; 9.3 Economic Security\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 17 · 11.6 Commercialisation\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 10 · 5.1 Assessment process"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "One main contractor signs the contract; the call sets no minimum or maximum team size, but the team must include committed end-user expertise.\nThe contract is with one party, the main contractor, which may work with subcontractors such as research institutes, other companies and the end user. In practice a proposal therefore needs at least a quantum developer and an end-user organisation or market expert.",
+          "sources": "QDNL Innovation Impact Challenge call text (RVO, PDF) · p. 14 · 8.3 Main contractor and subcontractors\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 7 · 2.1 Scope and topic requirements"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "The team must combine quantum-technology and application-domain expertise, with at least one committed end-user organisation or market expert.\n- End user: at least one representative of a relevant end-user organisation, or an organisation with direct access to that market such as an existing solution provider.\n- Developers: any organisation with research and development capabilities may be a funded contractor, except public service organisations.\n- Universities and research and technology organisations may take part; in Phase 2 only as consortium partners, not as lead.\n- Location: no country rule is stated, but the contractor must be registered in a professional or commercial register of the EU member state where it is established.",
+          "sources": "QDNL Innovation Impact Challenge call text (RVO, PDF) · p. 7 · 2.1 Scope and topic requirements\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 9 · 4 Conditions outline\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 14 · 8.3 Main contractor and subcontractors\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 18 · 13.1 Requirements to parties"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "The main contractor is responsible for the result and the administration, and must state which work goes to subcontractors and what each participant contributes.\n- The proposal must describe the activities and contribution of each participant and the budget for all participants, limited to research and development.\n- RVO may ask the main contractor to prove that subcontractors' resources are available for the whole contract, for example with written commitments.\n- In Phase 1 the end user contributes expertise, requirements, validation of assumptions or participation in discussions; in Phase 2 it may add access to an operational environment, such as for testing prototypes.",
+          "sources": "QDNL Innovation Impact Challenge call text (RVO, PDF) · pp. 9–10 · 4 Conditions outline\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 14 · 8.3 Main contractor and subcontractors\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 7 · 2.1 Scope and topic requirements"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "Phase 1 may be led by any eligible organisation with research and development capabilities; Phase 2 must be led by a company.\nPublic service organisations cannot be funded, so they cannot be main contractor. A different company may lead Phase 2 if the feasibility study shows this is logical, provided the Phase 1 lead says so by the time the Phase 1 report is submitted.",
+          "sources": "QDNL Innovation Impact Challenge call text (RVO, PDF) · p. 9 · 4 Conditions outline\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 14 · 8.3 Main contractor and subcontractors\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 16 · 10.1 Proposal request and parties"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "Unlikely: TenneT could lead only as a funded organisation with research and development capabilities that will bring the solution to market, and it is unclear whether it counts as a public service organisation.\nSection 8.3 excludes public service organisations from funding, and every contractor must state how it will commercialise the innovation. Phase 2 must be led by a company. TenneT's natural position is as end user rather than as main contractor.",
+          "sources": "QDNL Innovation Impact Challenge call text (RVO, PDF) · p. 14 · 8.3 Main contractor and subcontractors\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 9 · 4 Conditions outline"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes, as the committed end-user organisation, which every proposal must include.\nIn Phase 1 TenneT would contribute expertise, access to requirements, validation of assumptions and participation in project discussions. In Phase 2 it could also give access to an operational environment, for example to test a prototype. Public service organisations that cannot be funded may still join teams.",
+          "sources": "QDNL Innovation Impact Challenge call text (RVO, PDF) · p. 7 · 2.1 Scope and topic requirements\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 14 · 8.3 Main contractor and subcontractors"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Possibly, but it is unclear: the end user may receive part of the funding depending on its type, and public service organisations cannot be funded.\nThe challenge pays a fixed price including VAT to the main contractor, which may pay subcontractors. Section 2.1 says the end user can receive part of the funding 'depending on the type of organization and other consortium members'. Whether TenneT TSO B.V. counts as a public service organisation is not addressed; RVO would need to confirm. RVO reimburses only costs for which no other grant is given.",
+          "sources": "QDNL Innovation Impact Challenge call text (RVO, PDF) · p. 7 · 2.1 Scope and topic requirements\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 14 · 8.3 Main contractor and subcontractors; 8.4 Price and duration"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT could be the end user that defines a grid problem suited to quantum methods, such as network optimisation or cable and asset sensing, and validates assumptions and later prototypes.\nThis is our interpretation. The call names grid planning, optimisation, monitoring, maintenance and control as energy challenges, and quantum computing for grid management as an example. TenneT's GNN4GC work on AI-based grid control, its national digital-twin facility with Delft University of Technology and its condition-based maintenance give concrete use cases, data and a simulation or operational test setting. Its commitment letter and expertise would directly support the expertise criterion, which weighs 50% in Phase 1.",
+          "sources": "QDNL Innovation Impact Challenge call text (RVO, PDF) · pp. 5–6 · 1.1 Context; 1.3 Theme description\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 7 · 2.1 Scope and topic requirements\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 11 · 5.3 Assessment per Phase"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The solution must require genuine research and development to establish whether it can become technically and economically viable; studies that only list use cases are out of scope.\nQuantum effects must contribute substantively to the function or value of the envisioned minimum viable product. A long development horizon is allowed if justified by value. Routine changes and market-ready prototypes do not count as research and development.",
+          "sources": "QDNL Innovation Impact Challenge call text (RVO, PDF) · pp. 7–8 · 2.1 Scope and topic requirements; 2.2 Out of scope\nQDNL Innovation Impact Challenge call text (RVO, PDF) · pp. 18–19 · 13.2 Research, development and innovation"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Technology: a quantum-enabled product, service or process, possibly with supporting non-technical research on the business model.\nNon-technical research counts only when it is systematic, uses a sound method and feeds back into the development of the product or service; implementation research, use cases or business-case calculations alone do not count as research and development.",
+          "sources": "QDNL Innovation Impact Challenge call text (RVO, PDF) · pp. 7–8 · 2.1 Scope and topic requirements\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 19 · 13.2 Research, development and innovation (Non-technological innovation)"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Phase 1 is a feasibility study; Phase 2 is research and development up to a proof of concept, prototype or limited test series.\nMarket introduction is outside the challenge in both phases, and the Phase 2 proposal must focus only on research and development.",
+          "sources": "QDNL Innovation Impact Challenge call text (RVO, PDF) · p. 7 · 1.4 Goal\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 17 · 10.2 Components of your proposal for Phase 2; 11 Contracting and Execution of Phase 2"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "No TRL (Technology Readiness Level) is set; the starting point may be immature quantum technology, and Phase 2 should end with a tested proof of concept or prototype.\nIntermediate steps may use simulation, emulation, classical substitutes or available technology where the quantum capability is not yet mature enough.",
+          "sources": "QDNL Innovation Impact Challenge call text (RVO, PDF) · pp. 7–8 · 2.1 Scope and topic requirements\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 17 · 11.4 Phase 2 Results"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "Phase 2 must end with a demonstration of a tested product, service or process; testing in the end user's operational environment is possible but not required.\nIn Phase 2, access to a relevant operational environment, for instance for testing prototypes, can be added to the end user's contribution.",
+          "sources": "QDNL Innovation Impact Challenge call text (RVO, PDF) · p. 7 · 2.1 Scope and topic requirements\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 17 · 11.4 Phase 2 Results"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The proposal must offer one complete project, not part of one.\nA proposal that offers only part of a project is not eligible, in both phases. Several research and development projects that cannot be separated are treated as one project.",
+          "sources": "QDNL Innovation Impact Challenge call text (RVO, PDF) · p. 14 · 8.2 Requirements for the proposal\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 16 · 10.2 Components of your proposal for Phase 2\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 19 · 13.3 Relevant European definitions"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "Phase 1 must show whether a plausible business case exists; Phase 2 must give substantiated answers and a demonstrated value that justifies further investment.\nThe feasibility study must answer the five questions, including the alternatives and benchmark metrics against which the quantum solution is compared. Phase 2 proposals are judged on validated end-user demand, competitive alternatives and commercial potential, and Phase 2 ends with a test report available on request.",
+          "sources": "QDNL Innovation Impact Challenge call text (RVO, PDF) · p. 7 · 1.4 Goal\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 11 · 5.3 Assessment per Phase\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 17 · 11.4 Phase 2 Results"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "Mandatory: the end user must be committed from the start and help define requirements, validate assumptions and, in Phase 2, possibly host tests.\nProposals based only on a hypothetical end user, without committed demand-side expertise at the start of Phase 1 or at Phase 2, are out of scope.",
+          "sources": "QDNL Innovation Impact Challenge call text (RVO, PDF) · pp. 7–8 · 2.1 Scope and topic requirements; 2.2 Out of scope"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "Contractors must have a security and integrity policy and keep results within the Dutch economy.\n- The policy must cover access to and handling of confidential information, screening of directors and staff in key positions, and security measures for sensitive information and processes.\n- Results, including technology, source code, data and knowledge, must stay available to the Dutch economy, and moves of office, management or strategic assets outside the EU or EEA must be reported at once.",
+          "sources": "QDNL Innovation Impact Challenge call text (RVO, PDF) · pp. 15–16 · 9.3 Economic Security"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "EUR 2 million for Phase 1 and up to EUR 4.5 million for Phase 2, paid as fixed-price contracts including VAT.\n- Total project size: up to EUR 200,000 including VAT per Phase 1 feasibility study and up to EUR 1.5 million including VAT per Phase 2 project.\n- Phase 1 budgets per technology line: quantum computing EUR 600,000; quantum communication EUR 800,000; quantum sensing EUR 600,000, all including VAT. Phase 2: up to EUR 1.5 million per line; unused Phase 1 money may move to Phase 2 in the same line.\n- Funding form: a fixed price for a specific result, not a cost-based grant; the price must be in line with market rates and lower than for exclusive research, since the contractor keeps the intellectual property.",
+          "sources": "QDNL Innovation Impact Challenge call text (RVO, PDF) · p. 1 · Cover\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 9 · 3.2 Overall budget for the challenge\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 14 · 8.4 Price and duration of the contract"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "The contract pays the agreed price in full; no own contribution is required, but the price must be modest and justified.\n- Co-financing conditions: none required. A company may combine the contract with other grants only for costs not otherwise funded, and may combine it with tax incentives such as the WBSO (the Dutch tax credit for research and development).\n- Evidence required: on request, written commitments showing that subcontractors' resources are available.",
+          "sources": "QDNL Innovation Impact Challenge call text (RVO, PDF) · p. 9 · 3.1 Cost justification\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 14 · 8.3 Main contractor and subcontractors; 8.4 Price and duration"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Only research and development activities may be priced; market introduction and commercial development are excluded.\n- Caps: EUR 200,000 including VAT per Phase 1 study and EUR 1.5 million including VAT per Phase 2 project.\n- Excluded costs: market introduction, series production, routine changes and costs already covered by another grant.\n- VAT: all prices include VAT.\n- Pricing: the difference with the price of exclusive research must be explained in the budget.",
+          "sources": "QDNL Innovation Impact Challenge call text (RVO, PDF) · pp. 9–10 · 3.2 Overall budget; 4 Conditions outline\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 14 · 8.4 Price and duration\nQDNL Innovation Impact Challenge call text (RVO, PDF) · pp. 18–19 · 13.2 Research, development and innovation"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "Payments come largely in advance, so financial exposure is low.\n- Payment model: Phase 1 pays 40% at the start, 40% halfway and 20% on satisfactory completion. Phase 2 normally pays 50% at the start and 40% after a mid-term review, up to 90% during the project, with the rest on completion.\n- Financial reporting or audit: contractors must cooperate with evaluations for up to ten years after the Phase 1 study, and the applicant must be able to perform the contract with its existing financial resources.",
+          "sources": "QDNL Innovation Impact Challenge call text (RVO, PDF) · p. 15 · 9.1 Contracting\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 17 · 11.1 Contracting\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 18 · 13.1 Requirements to parties\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 21 · Voorbeeld fase 1 contract"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "Two competitive phases; Phase 2 is by invitation only for teams that completed Phase 1.\n- Stage 1 — Phase 1 proposal: 25 January 2027, 17:00, through RVO's online form (not via TenderNed, the Dutch public procurement portal). Open to eligible organisations with a committed end user.\n- Stage 2 — Phase 2 proposal: 6 August 2027, 17:00, by invitation only, after a successful feasibility study that finds the innovation plausible and in line with QDNL's goals.\n- Additional procedure: an interview with the selection committee on 8 and 9 February 2027 for Phase 1, and a pitch in September 2027 for Phase 2.",
+          "sources": "QDNL Innovation Impact Challenge call text (RVO, PDF) · p. 9 · 3.3 Planning Phase 1 and Phase 2\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 13 · 7.3 Submission portal\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 16 · 10.1 Proposal request and parties\nInnovation Impact Challenge QDNL (RVO page) · Indienen"
+        },
+        {
+          "title": "Project window",
+          "answer": "Phase 1 runs about 4.5 months from March 2027 and Phase 2 about 17.5 months, with final reporting by 28 February 2029.\n- Maximum duration: Phase 1 at most 4.5 months; Phase 2 about 17.5 months.\n- Required start: Phase 1 kick-off in March 2027; Phase 2 contracts awarded in October 2027.\n- Completion deadline: Phase 1 report by 2 July 2027; Phase 2 reporting by 28 February 2029.",
+          "sources": "QDNL Innovation Impact Challenge call text (RVO, PDF) · p. 9 · 3.3 Planning Phase 1 and Phase 2\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 14 · 8.4 Price and duration of the contract"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Phase 1 contracts are awarded in March 2027 and Phase 2 contracts in October 2027; RVO may adjust this timeline.\n- Expected invitation or assessment result: selection committee meetings on 8 and 9 February 2027 for Phase 1 and in September 2027 for Phase 2 (indicative).\n- Grant agreement: RVO sends an award letter with the contract, under the Dutch government's general terms for service contracts (ARVODI-2025); the contract must be signed and returned within 14 days.\n- Conditions before starting: registration in a professional or commercial register and a security and integrity policy.",
+          "sources": "QDNL Innovation Impact Challenge call text (RVO, PDF) · p. 9 · 3.3 Planning\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 15 · 9.1 Contracting\nQDNL Innovation Impact Challenge call text (RVO, PDF) · pp. 21–22 · Voorbeeld fase 1 contract\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 18 · 13.1 Requirements to parties"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "The online form, a project plan with budget in RVO's template and a separate public summary; missing or off-template documents make a proposal ineligible.\n- Application form: RVO's online form; files as separate PDF, Word or Excel uploads of at most 4 MB each.\n- Project plan: RVO's Phase 1 template including the budget; project outline at most 1,000 words, approach and team at most 1,000 words, the three criteria at most 2,000 words together.\n- Mandatory annexes: a public summary of at most 200 words as a separate document.\n- Partner documents: written commitment of subcontractors on request, and commitment from the end-user organisation.\n- Phase 2: also a business plan in RVO's template and a management summary.",
+          "sources": "QDNL Innovation Impact Challenge call text (RVO, PDF) · pp. 13–14 · 7.3 Submission portal; 8.1 Proposal components; 8.2 Requirements for the proposal\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 16 · 10.2 Components of your proposal for Phase 2\nInnovation Impact Challenge QDNL Format project plan phase 1 (RVO, Word) · Introduction; chapters 1–3"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "RVO checks admissibility, QDNL checks scope, then an independent committee scores three criteria, with different weights per phase.\n- Evaluation criteria: impact; innovation and expertise; economic perspective.\n- Thresholds: Phase 1 minimum 3 out of 5 for impact, 4 for innovation and expertise, 3 for economic perspective; Phase 2 minimum 3, 3 and 4.\n- Weighting: Phase 1 30% impact, 50% innovation and expertise, 20% economic perspective; Phase 2 25%, 25% and 50%.\n- Ranking rules: the highest-ranked proposals above the thresholds win within each line's budget; the committee may leave budget unspent if quality is too low.\n- Budget assessment: the price must be proportionate and justified; a lower price is not preferred in itself.",
+          "sources": "QDNL Innovation Impact Challenge call text (RVO, PDF) · pp. 10–11 · 5.1 Assessment process; 5.2 Assessment criteria; 5.3 Assessment per Phase\nQDNL Innovation Impact Challenge call text (RVO, PDF) · pp. 14–15 · 8.5 Ranking of proposals\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 9 · 3.1 Cost justification"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Contacting assessors is forbidden, minor omissions may be repaired within two working days, and changes during the project need RVO's written consent.\n- Conditional — minor omission after closing: RVO may ask for a correction within two working days; if not corrected in time, the proposal is excluded.\n- Conditional — contacting scope assessors or committee members: may lead to exclusion.\n- Conditional — change affecting results or replacement of a subcontractor: written consent from RVO, and a new subcontractor must be at least as competent.\n- Exception — public service organisation: may join a team but cannot receive funding.\n- Recommended: submit a few working days before the deadline; join the online information session on 9 November 2026 and the matchmaking event on 26 November 2026.",
+          "sources": "QDNL Innovation Impact Challenge call text (RVO, PDF) · p. 14 · 8.2 Requirements for the proposal; 8.3 Main contractor\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 15 · 8.5 Ranking of proposals\nQDNL Innovation Impact Challenge call text (RVO, PDF) · p. 16 · 9.5 Changes during Phase 1\nQDNL Innovation Impact Challenge call text (RVO, PDF) · pp. 9, 13 · 3.3 Planning; 7.3 Submission portal"
+        }
+      ]
+    }
+  ]
+}
