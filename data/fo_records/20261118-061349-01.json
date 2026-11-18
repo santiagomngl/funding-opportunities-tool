@@ -1,0 +1,43 @@
+{
+  "id": "20261118-061349-01",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "HORIZON-CL4-2027-04-DATA-08 Demand-side 3C pilot demonstrators on converged Telco Edge Cloud Infrastructure (IA) – Horizon Europe",
+  "organization_or_parent_framework": "European Commission",
+  "programme": "Horizon Europe",
+  "call_title": "DIGITAL (HORIZON-CL4-2027-04)",
+  "call_module_title": "HORIZON-CL4-2027-04-DATA-08 Demand-side 3C pilot demonstrators on converged Telco Edge Cloud Infrastructure (IA)",
+  "call_year": 2027,
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-04-DATA-08",
+  "executive_summary": "Horizon Europe Innovation Action under Cluster 4 (Digital, Industry and Space) that funds up to two demand-side pilot demonstrators in which users from a vertical sector and telecom and cloud infrastructure providers jointly validate applications on the emerging European 3C (Connected Collaborative Computing) telco-edge-cloud infrastructure, building on the supply-side 3C large-scale pilot: one pilot on mobility and the automotive sector, and one on another vertical sector such as energy, smart communities, health, agrifood or manufacturing, reaching TRL 6–8. Participation is limited to entities established in EU Member States, Iceland, Norway, Canada, Israel, the Republic of Korea, New Zealand, Switzerland, the United Kingdom and (by topic update) Japan, and not controlled from a non-eligible country unless guarantees are accepted. Budget-based grant at up to 70% of eligible costs for profit-making entities and up to 100% for non-profit entities; indicative topic budget EUR 38 million, around EUR 19 million per project for two projects. Opened 17 November 2026; single-stage deadline 18 March 2027.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-03-18",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": 27142857,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "Horizon Europe Work Programme 2026–2027 Part 7 (Digital, Industry and Space), pp. 110–113 (HORIZON-CL4-2027-04-DATA-08, Specific conditions, Expected Outcome and Scope), funds demand-side pilots that run sector applications on a European telco-edge-cloud infrastructure, with one of the two pilots on a vertical sector such as energy. It touches TenneT's field because an energy pilot could bring edge computing, AI and secure data sharing close to grid assets, which is close to TwinEU and DataFleX (data exchange between system and market parties) and to the Digital Twin Programme and the National Facility Digital Twin of the Electricity System (compute-heavy grid applications), although the topic is led by telecom infrastructure and energy competes with other verticals for one pilot. The eligibility conditions (pp. 110–111) and General Annexes B and G (pp. 13, 31) allow TenneT TSO B.V., a Dutch company owned by the Dutch State, to be a funded beneficiary on the demand (user) side at the Innovation Action rate of 70% for profit-making entities, so Type 1 and C1.3 fit. Both project dates are null because the call states no start, end or duration.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T1",
+      "T8"
+    ],
+    "role": [
+      "R2",
+      "R9"
+    ],
+    "activity": [
+      "A6",
+      "A7",
+      "A8"
+    ],
+    "outcome": [
+      "O11",
+      "O2"
+    ]
+  }
+}

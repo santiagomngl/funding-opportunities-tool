@@ -1,0 +1,37 @@
+{
+  "id": "20261118-061349-04",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "NTNU Open Call 2 – Spring & Autumn 2027 – DigiWind",
+  "organization_or_parent_framework": "Digital Europe Programme",
+  "programme": "DigiWind",
+  "call_title": "NTNU Open Call 2 – Spring & Autumn 2027",
+  "call_module_title": null,
+  "call_year": 2027,
+  "url": "https://digiwind.org/open-calls/ntnu-open-call-2/",
+  "executive_summary": "Cascade call issued by NTNU (Norwegian University of Science and Technology) within the DigiWind project (Digital Masters of Wind and Energy Systems), funded by the Digital Europe Programme. It offers up to 15 scholarships of EUR 6,940 each (EUR 104,100 in total) as a stipend for living costs during a six-month exchange semester at NTNU in Trondheim, in the M.Sc. Electric Power Engineering or M.Sc. Marine Technology programmes, with at least two designated DigiWind courses on digitalisation of wind and energy systems. Open to individual final-year bachelor's or master's students in relevant engineering fields at universities with an NTNU exchange agreement, who hold an EU/EEA or Digital Europe associated-country passport. The Spring 2027 round closed on 2 November 2026; the Autumn 2027 round, funded from what remains, closes on 1 March 2027 at 17:00 CET, with the semester starting on 23 August 2027.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-03-01",
+  "earliest_project_start_date": "2027-08-23",
+  "project_end_date": "2028-02-22",
+  "minimum_project_size": null,
+  "maximum_project_size": 6940,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "The DigiWind NTNU Open Call 2 page (Who Can Apply?, Programme Overview, Autumn 2027 timeline) and the Funding & Tenders Portal call page fund individual students' exchange semesters at NTNU in electric power engineering and marine technology, with courses on digitalisation of wind and energy systems. This touches TenneT's field through the skills pipeline for grid and offshore engineering, which none of the project files covers directly, though it supports the people needed for programmes such as the 2GW Program and the Digital Twin Programme. Only individual students may apply and receive the stipend, so the call sets out no route for TenneT itself: Type 3 with C3.6 (training of future engineers). The project end date is derived from the Autumn 2027 semester start on 23 August 2027 and the six-month exchange period.",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.6"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T11",
+      "T7"
+    ],
+    "role": [],
+    "activity": [
+      "A2"
+    ],
+    "outcome": [
+      "O14"
+    ]
+  }
+}

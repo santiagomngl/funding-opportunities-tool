@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "Funded places for individuals on a 12-week summer programme in offshore renewable energy, including grid integration and digital operation and maintenance.\nThe call is a cascade call (an EU-funded project passing part of its grant on to others) by TUS, the Technological University of the Shannon in Ireland, within DigiWind (Digital Masters of Wind and Energy Systems, a Digital Europe Programme project of five universities and four companies that funds advanced digital education in wind and energy systems). It funds no project: it pays a stipend to people attending the Leadership in Offshore Renewable Energy Summer Internship in Limerick, worth 10 ECTS credits at master's level. Topics include offshore wind development, wind resources and site selection, engineering design, environmental impacts, grid integration and cabling innovations, operation and maintenance with remote monitoring and virtual or augmented reality, and energy storage and Power-to-X (turning electricity into other energy carriers such as hydrogen). Each participant develops an innovation-focused case study on a real-world offshore energy challenge.",
+          "sources": "DIGIWIND_TUS-Open-Call_Summer_Internship_Guidelines-for-applicants.pdf · pp. 6–9 · The DigiWind Summer Research Internships Offer; 2.1 Leadership in Offshore Renewable Energy Summer Internship"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "More professionals able to evaluate offshore wind, grid integration and storage options for Europe's net-zero goals.\nBy the end, participants should be able to evaluate offshore renewable technologies, analyse technical, economic, environmental and regulatory factors, assess the suitability of electrical grids and energy infrastructure, and apply systems thinking to real offshore energy challenges. DigiWind's wider aim is a skilled workforce for Europe's green transition. No quantified targets are set beyond up to 12 places.",
+          "sources": "DIGIWIND_TUS-Open-Call_Summer_Internship_Guidelines-for-applicants.pdf · pp. 5, 9 · 1.1 About the DigiWind project; 2.1 Outcomes"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "Individuals, not organisations: graduates with a relevant bachelor's degree, or professionals with at least five years of relevant experience.\n- Academic route: a bachelor's degree in a relevant engineering, computing or technology discipline\n- Professional route: at least five years of experience in a related sector, with demonstrable knowledge of mathematics, programming and statistical tools, admitted through recognition of prior learning\n- Nationality: passport of an EU Member State, an EEA country, or Albania, Bosnia and Herzegovina, Kosovo, Moldova, Montenegro, North Macedonia, Serbia, Türkiye or Ukraine\n- English: IELTS 6.5 or TOEFL iBT 90, unless a native speaker\nThe preferred profile explicitly includes professionals in electrical power systems, controls and substation or grid operations. There is no consortium; one application per person.",
+          "sources": "DIGIWIND_TUS-Open-Call_Summer_Internship_Guidelines-for-applicants.pdf · pp. 10–12 · 3 Eligibility check, Table 1; 3.1; 4.1 Applicants profile and preferred skills"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": "In person in Limerick, with industry-based projects, guest lectures and site visits; it is a training programme, not a demonstration project.\nAttendance in person is mandatory and stipend payments depend on it. Participants work on industry-based projects and an innovation-focused case study applied to real offshore energy and electrical system challenges.",
+          "sources": "DIGIWIND_TUS-Open-Call_Summer_Internship_Guidelines-for-applicants.pdf · pp. 6–8 · The DigiWind Summer Research Internships Offer; Program objectives; 2.1 About"
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "It trains engineers in offshore grid integration, cabling and digital asset maintenance; TenneT cannot take part as an organisation because only individuals may apply.\nThe curriculum matches skills TenneT needs for offshore grid connections and maintenance, such as the 2GW Program, Hollandse Kust (west Beta) and Reliability Centered Maintenance. Because the professional route accepts people with five years of experience in substation or grid operations, a TenneT employee could apply in a personal capacity if their nationality qualifies, and TenneT could also point graduates or recruits to it. The call sets out no route for TenneT itself: the stipend goes to the individual.",
+          "sources": "DIGIWIND_TUS-Open-Call_Summer_Internship_Guidelines-for-applicants.pdf · pp. 8–12 · 2.1; 3 Eligibility check; 4.1 Applicants profile"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "Up to 12 places, each with a fixed stipend of EUR 7,200 (EUR 86,400 in total).\n- Grant request: EUR 7,200 per participant, paid monthly into an Irish bank account, subject to physical attendance\n- Funding form: fixed stipend",
+          "sources": "DIGIWIND_TUS-Open-Call_Summer_Internship_Guidelines-for-applicants.pdf · pp. 6, 17 · Offer overview; 7 Stipend Payment\nFunding & Tenders Portal cascade call page DigiWind TUS Open Call Summer Internship · Budget"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "The stipend is a fixed amount; participants arrange and pay their own travel, accommodation and subsistence in Limerick.",
+          "sources": "DIGIWIND_TUS-Open-Call_Summer_Internship_Guidelines-for-applicants.pdf · p. 6 · The DigiWind Summer Research Internships Offer"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One online application on the F6S platform by 1 March 2027, 17:00 CET; no extensions.\n- Stage 1 — Application: 1 March 2027, 17:00 CET, in English, with CV, degree awards, transcripts, motivation statement and proof of English\n- Additional procedure: selected candidates register through the TUS online application form",
+          "sources": "DIGIWIND_TUS-Open-Call_Summer_Internship_Guidelines-for-applicants.pdf · pp. 7, 13–14, 17 · Language; 5 The application process; 6.1; 7 Internship Registration"
+        },
+        {
+          "title": "Project window",
+          "answer": "Twelve weeks, from 7 June to 27 August 2027.\n- Maximum duration: 12 weeks\n- Required start: 7 June 2027",
+          "sources": "DIGIWIND_TUS-Open-Call_Summer_Internship_Guidelines-for-applicants.pdf · pp. 6, 14 · Offer overview; 6.1 timeline"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Results on 15 March 2027; enrolment until 1 June 2027; all dates indicative.\n- Expected assessment result: evaluation 2–12 March 2027, results 15 March 2027\n- Conditions before starting: accept the offer within one week; sign the Declaration of Honour and a learner agreement; hold a valid Irish PRSI (social insurance) number, a bank account and any visa needed",
+          "sources": "DIGIWIND_TUS-Open-Call_Summer_Internship_Guidelines-for-applicants.pdf · pp. 14, 16–19 · 6.1; 6.4 Selection process; 7; 8.3 Origin of funds\nDIGIWIND_TUS-Open-Call_Summer_Internship_Guidelines-for-applicants.pdf · p. 10 · 3 Eligibility check"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "A complete F6S form with CV, degree awards and transcripts, motivation statement and certified English score.\n- Application form: F6S online form, in English, PDFs without printing restrictions\n- Professional route: documents proving at least five years of relevant experience instead of degree documents",
+          "sources": "DIGIWIND_TUS-Open-Call_Summer_Internship_Guidelines-for-applicants.pdf · pp. 11, 13, 15 · 3.1 Preparing your essential documents; 5 Step 2; 6.2 Eligibility checklist"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Three TUS academics score each eligible applicant on four criteria from 1 to 5; at least 15 points are needed.\n- Evaluation criteria: knowledge of the renewable energy sector; relevant qualifications; motivation; commitment to diversity, equality and gender balance\n- Thresholds: 15 points\n- Ranking rules: offers follow the order of merit, with a reserve list; ties are broken by experience, qualifications, motivation and then diversity, and if needed a short interview",
+          "sources": "DIGIWIND_TUS-Open-Call_Summer_Internship_Guidelines-for-applicants.pdf · pp. 14–16 · 6.1; 6.3 Evaluation criteria; 6.4 Selection process"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Applicants without a qualifying degree may enter through recognition of prior learning, and appeals are possible within five working days.\n- Exception — professionals without a relevant degree: at least five years of relevant experience, assessed through recognition of prior learning\n- Conditional — appeal: a written appeal within 5 working days of the result, only on errors in the process or discrimination",
+          "sources": "DIGIWIND_TUS-Open-Call_Summer_Internship_Guidelines-for-applicants.pdf · pp. 10–11, 16 · 3 Eligibility check; 3.1 C; 6.5 Redress process"
+        }
+      ]
+    }
+  ]
+}

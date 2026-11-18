@@ -1,0 +1,38 @@
+{
+  "id": "20261118-061349-05",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "TUS Open Call Summer Internship – DigiWind",
+  "organization_or_parent_framework": "Digital Europe Programme",
+  "programme": "DigiWind",
+  "call_title": "TUS Open Call Summer Internship",
+  "call_module_title": null,
+  "call_year": 2027,
+  "url": "https://digiwind.org/open-calls/tus-open-call-summer-internship/",
+  "executive_summary": "Cascade call issued by TUS (Technological University of the Shannon, Ireland) within the DigiWind project (Digital Masters of Wind and Energy Systems), funded by the Digital Europe Programme. It offers up to 12 funded places on the 12-week Leadership in Offshore Renewable Energy Summer Internship in Limerick (7 June to 27 August 2027, 10 ECTS at master's level), covering offshore wind, grid integration and cabling, energy storage, Power-to-X and digital tools for monitoring and maintenance, each with a fixed stipend of EUR 7,200 paid monthly subject to in-person attendance. Open to individuals with a relevant bachelor's degree, or at least five years of relevant professional experience through recognition of prior learning, who hold a passport of an EU Member State or of listed EEA and associated countries. Applications via the F6S platform from 22 October 2026 to 1 March 2027 at 17:00 CET.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-03-01",
+  "earliest_project_start_date": "2027-06-07",
+  "project_end_date": "2027-08-27",
+  "minimum_project_size": null,
+  "maximum_project_size": 7200,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "The DigiWind TUS Summer Internship Guidelines for Applicants (sections 1.3, 2.1 and 3, pp. 6–10) fund individual places on a 12-week offshore renewable energy programme covering grid integration, cabling, storage and digital operation and maintenance. This touches TenneT's field because it trains engineers and professionals in offshore grid connection and asset management, the skills behind the 2GW Program, Hollandse Kust (west Beta) and Reliability Centered Maintenance, although none of the project files concerns skills. Only individuals may apply and receive the stipend (section 3, Table 1, p. 10), so the call sets out no route for TenneT as an organisation, even if a TenneT employee could apply in a personal capacity: Type 3 with C3.6 (training for technicians and engineers).",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.6"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T11",
+      "T7",
+      "T4"
+    ],
+    "role": [],
+    "activity": [
+      "A2"
+    ],
+    "outcome": [
+      "O14"
+    ]
+  }
+}

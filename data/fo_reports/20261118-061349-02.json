@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "A city-led intervention that removes a diagnosed barrier blocking city-wide climate neutrality, for example in how the city, utilities and grid operators plan and deliver electrification.\nThe call is a cascade call (an EU-funded project passing part of its grant on to others) by NetZeroCities, the platform project of the EU Mission for climate-neutral and smart cities. Each project is led by a Mission City (one of the cities selected for the EU Mission of 100 climate-neutral and smart cities by 2030). It must pick one of six challenge areas and deploy, scale and institutionalise enabling solutions, such as new delivery models, governance arrangements, procurement tools or financing approaches, so that the city can move from pilots to city-wide delivery. The most relevant area for TenneT is Urban Energy Systems: building the governance, planning and investment arrangements for a coordinated city energy system that delivers electrification, clean heat and flexibility at scale.",
+          "sources": "NZC-SGA3-ECT2-call-guidelines.pdf · pp. 4–5 · 1.1 Purpose; 1.3 Shared Mission Implementation Barriers\nNZC-SGA3-ECT2-call-guidelines.pdf · pp. 8–9 · 3.4 Challenge Areas\nNZC-ECT2-challenge-area-briefs-Annex-1-call-guidelines.pdf · p. 7 · Urban Energy Systems"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "The project must anchor its work in one of six challenge areas and may combine four kinds of eligible activities.\nChallenge areas (one must be chosen): place-based heating and cooling; urban energy systems; large-scale building retrofits and renovations; nature-based solutions at city scale; city finance innovation for climate neutrality; decarbonising urban mobility and logistics.\nEligible activities (one or more):\n- Pioneering activities: adapt, test or deploy new technologies, policy instruments, governance models or integrated, cross-sector solutions, framed as enablers of scaled deployment\n- Systemic, science-based initiatives: turn research into policies, standards, planning tools or investment decisions, for example with data, modelling or digital tools\n- Capacity and capability building: training, new roles and processes, and procurement, legal or financial skills in city administrations and key local actors\n- Collaborative governance and community building: multi-stakeholder coordination platforms, citizen engagement embedded in decisions, cross-agency governance\nNot prioritised: early experiments without a route to institutional adoption, standalone pilots that change no operating model, policy, budget or procurement, technology trials without delivery integration, and straightforward replication of proven approaches. Out of scope as costs: infrastructure, sub-grants or prizes, and large research infrastructure, so the call cannot pay for grid assets.",
+          "sources": "NZC-SGA3-ECT2-call-guidelines.pdf · pp. 8–10 · 3.4 Challenge Areas\nNZC-SGA3-ECT2-call-guidelines.pdf · pp. 15–16 · 5.4 Eligible activities\nNZC-SGA3-ECT2-Financial-Guidelines.pdf · p. 10 · 3.4.7 Out of scope costs"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The need must be a systemic barrier, shared across Mission Cities, that stops the city turning its climate plan into delivery; the city itself owns it.\nProposals must give a robust diagnosis of the institutional, policy, financial, market or data barriers in their local context and show they are a genuine system constraint, not an isolated project gap. The need starts from the city's Climate City Contract (the climate-neutrality plan each Mission City agrees with the EU). In the Urban Energy Systems area, the call names the barriers: fragmented grid, heat and mobility planning; weak coordination between cities, utilities, distribution system operators (DSOs) and transmission system operators (TSOs); unclear grid readiness; connection queues; and flexibility pilots that do not scale. These are needs shared by the city and the grid operators, which is where TenneT's congestion problems meet the city's plans.",
+          "sources": "NZC-SGA3-ECT2-call-guidelines.pdf · p. 23 · 9.3 Stage 2, Mandate to Act\nNZC-ECT2-challenge-area-briefs-Annex-1-call-guidelines.pdf · pp. 7–8 · Urban Energy Systems, Why this matters now; What is blocking progress"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "Implemented enabling solutions, measured indicators and at least one English-language knowledge asset other cities can reuse.\nRequired for every project:\n- innovative or enabling solutions piloted, adapted or implemented at city level\n- operationalised enabling measures, such as new delivery models, governance arrangements, regulatory approaches, investment mechanisms or procurement frameworks\n- strengthened institutional capacity and collaborative governance arrangements\n- standardised indicator values and baselines for greenhouse-gas and co-benefit indicators\n- at least one knowledge asset in English for replication in another city\nFor Urban Energy Systems, the call expects reusable delivery models, governance arrangements, datasets, procurement tools, financing approaches or implementation playbooks.",
+          "sources": "NZC-SGA3-ECT2-call-guidelines.pdf · p. 14 · 5.2 ECT2 Programme Outcomes; 5.3 Expected results and impact\nNZC-ECT2-challenge-area-briefs-Annex-1-call-guidelines.pdf · p. 7 · Urban Energy Systems"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Projects must contribute to city-wide climate neutrality, with greenhouse-gas reductions and co-benefits that they monitor with set indicators.\nWithin and beyond the 22 months, projects should deliver enabling solutions that strengthen the city's capacity to scale climate action, explicit lessons, and outcomes such as new business models, policy initiatives, governance innovations, financing models or EU-level replication strategies. Impact carries 40 of the 100 evaluation points. Projects must state their potential greenhouse-gas reductions and co-benefits and choose indicators from the call's set of 45 (12 greenhouse-gas and 33 co-benefit indicators); indirect or estimated emission reductions are accepted when credibly linked to scaling mechanisms. In Urban Energy Systems, the long-term outcomes named include fewer grid constraints, lower reinforcement costs and faster electrification of heat and transport, which are outcomes TenneT shares.",
+          "sources": "NZC-SGA3-ECT2-call-guidelines.pdf · pp. 11–14 · 4.1 Impact Framework; 4.2 Indicators Architecture; 5.3 Expected results and impact\nNZC-SGA3-ECT2-call-guidelines.pdf · pp. 23–25 · 9.3 Stage 2\nNZC-ECT2-challenge-area-briefs-Annex-1-call-guidelines.pdf · p. 9 · Proposed Impact Pathways"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "Results must be built for adoption beyond the project: replication and institutional uptake are core outcomes, not optional extras.\n- Wider use: the portfolio favours proposals that produce transferable how-to assets with clear evidence; replication outputs such as playbooks, templates or standards are scored.\n- Replication timing: within the project, the requirement is at least one knowledge asset for replication in another city; actual replication elsewhere is not required during the project.\n- Institutional adoption: proposals must show how outcomes become embedded in policy, governance, standards, procurement, budgets or operational routines after the 22 months.\n- Openness: results are open source by default and are not expected to be patented.\n- Knowledge sharing: projects join a Boot Camp and up to four collective sensemaking (peer-learning) sessions, appoint a systemic innovation focal point (3–4 person-months), and must promote the action and its results to multiple audiences.",
+          "sources": "NZC-SGA3-ECT2-call-guidelines.pdf · pp. 6, 14 · 3.1 Strategic portfolio; 5.3 Expected results and impact\nNZC-SGA3-ECT2-call-guidelines.pdf · p. 19 · 7.4.2 Building for synergies; 7.4.3 Communication and dissemination\nNZC-SGA3-ECT2-call-guidelines.pdf · pp. 24–25 · 9.3 Impact criteria\nNZC-SGA3-ECT2-call-guidelines.pdf · p. 27 · 10.2 Intellectual property"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "At least two legal entities: the Mission City administration plus at least one independent organisation; there is no maximum.\nAt least two entities must hold part of the subgrant, and no entity may receive more than two thirds of it. The number of Mission Cities in the consortium sets the funding envelope: one city with a partner, two cities or three or more cities.",
+          "sources": "NZC-SGA3-ECT2-call-guidelines.pdf · p. 6 · 2.2 Proposals Consortia\nNZC-SGA3-ECT2-call-guidelines.pdf · p. 22 · 9.2 Stage 1, criterion 2\nNZC-SGA3-ECT2-call-guidelines.pdf · pp. 17–18 · 7.2 Sub-grant allocation; 7.3 Funding envelopes"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "The consortium must include at least one Mission City administration; other partners can be any organisation involved in the city's climate plans, from any country.\n- Mission Cities: only local authorities or city administrations formally designated as Mission Cities count; non-Mission municipalities may not take part.\n- Higher-level governments (metropolitan area, province or national ministry) may join when they have a formal governance link with the city, but do not count as Mission Cities.\n- Other partners: for example research institutions, universities, SMEs, NGOs, associations, citizen groups or other stakeholders in the city's climate ambitions. For Urban Energy Systems, the call names utilities, network operators, housing providers, industry, regulators and funders as key stakeholders.\n- Excluded: partners of the NetZeroCities consortium itself.\n- Each city may appear in only one proposal.",
+          "sources": "NZC-SGA3-ECT2-call-guidelines.pdf · pp. 5–6 · 2.1 Eligibility; 2.2 Proposals Consortia\nNZC-SGA3-ECT2-call-guidelines.pdf · p. 22 · 9.2 Stage 1, criterion 1\nNZC-ECT2-challenge-area-briefs-Annex-1-call-guidelines.pdf · p. 8 · Urban Energy Systems"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "The lead city must carry and be budgeted for coordination, and no single entity may receive more than two thirds of the subgrant.\n- The work plan and budget must contain coordination activities and resources for the lead city, including oversight of partners' financial reporting.\n- The city must appoint a systemic innovation focal point for the programme's peer-learning activities (3–4 person-months).\n- At least two entities must have a budget; each partner's share is set in the proposal's budget table.\n- Subcontracting may cover only a limited part of the work and is not allowed between consortium members.\n- A consortium agreement should be signed before the award agreement; the DESCA model (a standard Horizon Europe consortium agreement) is recommended.",
+          "sources": "NZC-SGA3-ECT2-call-guidelines.pdf · pp. 6, 18–19 · 2.2 Proposals Consortia; 7.2 Sub-grant allocation; 7.4.1 Coordination by the proposal lead; 7.4.2 Building for synergies\nNZC-SGA3-ECT2-Financial-Guidelines.pdf · p. 8 · 3.4.2 Subcontracting Costs"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "Only a Mission City administration may lead.\nThe lead city appears as proposal lead on the submission platform, signs the award agreement with Climate KIC (the NetZeroCities coordinator) as lead beneficiary, passes funds and obligations on to partners, consolidates reporting and must provide a Certificate on Financial Statements (an external audit of its costs). In a multi-city proposal, one city is designated lead.",
+          "sources": "NZC-SGA3-ECT2-call-guidelines.pdf · pp. 5–6, 22 · 2.1 Eligibility; 2.2 Proposals Consortia; 9.2 Stage 1, criterion 3\nNZC-SGA3-ECT2-Financial-Guidelines.pdf · pp. 4–5, 11 · 2 Definitions; 5 Certificate on Financial Statement"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "No. TenneT cannot lead: every proposal must be led by a Mission City administration.\nTenneT's route is as a partner in a consortium led by a Dutch, or other, Mission City.",
+          "sources": "NZC-SGA3-ECT2-call-guidelines.pdf · pp. 5–6, 22 · 2.1 Eligibility; 9.2 Stage 1, criterion 3"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes. TenneT may join a Mission-City-led consortium as a partner, with or without a budget share.\nOther organisations involved in the city's climate ambitions may be consortium members, and the Urban Energy Systems brief names network operators and city–utility–DSO–TSO cooperation explicitly. A partner may also fund its own costs: budgets above the subgrant are allowed when the extra costs are self- or co-funded and clearly separated.",
+          "sources": "NZC-SGA3-ECT2-call-guidelines.pdf · p. 6 · 2.2 Proposals Consortia\nNZC-ECT2-challenge-area-briefs-Annex-1-call-guidelines.pdf · pp. 8–9 · Urban Energy Systems\nNZC-SGA3-ECT2-Financial-Guidelines.pdf · pp. 5–6 · 3.2 Maximum Grant Amount and Reimbursement Rate"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Probably yes, as a partner sharing the city's subgrant at 100% of eligible costs, though one sentence of the guidelines suggests only cities receive funds.\nThe budget rules require at least two entities with an allocated subgrant and cap each entity at two thirds, and the lead city cascades the funds to its partners. The reimbursement rate is 100% of actual eligible costs, with a 25% flat rate for indirect costs. Section 2.1, however, says only Mission City administrations may apply and receive funding; we read this as the city receiving the subgrant on behalf of the consortium, but TenneT should confirm with the call team (ect@netzerocities.eu). In a EUR 500,000 single-city project, TenneT's share could be at most about EUR 333,000, and realistically less, since the city must also fund its coordination. As a contracting entity under EU procurement law, TenneT must follow its own procurement rules for any subcontracting. There are no separate Dutch rules.",
+          "sources": "NZC-SGA3-ECT2-call-guidelines.pdf · pp. 5, 17–18 · 2.1 Eligibility; 7.2 Sub-grant allocation\nNZC-SGA3-ECT2-Financial-Guidelines.pdf · pp. 5–6, 8–9 · 3.1 Budget preparations; 3.2 Maximum Grant Amount and Reimbursement Rate; 3.4.2 Subcontracting Costs; 3.4.5 Indirect costs"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT could bring the transmission-grid view to a Dutch city's urban energy plan; this is our judgement.\nA credible role could combine:\n- grid-constraint data and congestion outlooks for the city's region, so the city can prioritise grid upgrades, heat zones and flexibility, as the brief's shared dashboards suggest\n- a governance model for city–DSO–TSO cooperation, building on TenneT's experience in the regional Energy boards with DSOs and local governments\n- flexible connection and flexibility-service models, drawing on the time-dependent transmission rights contract with Lion Storage and on Grids & Benefits and DataFleX\n- input on data-centre and industrial load integration, which the brief calls an emerging, largely unaddressed opportunity\nThe deadline of 3 December 2026 leaves little time, so this route works only if a Mission City is already preparing an Urban Energy Systems proposal and wants a grid operator on board.",
+          "sources": "NZC-ECT2-challenge-area-briefs-Annex-1-call-guidelines.pdf · pp. 7–10 · Urban Energy Systems\nNZC-SGA3-ECT2-call-guidelines.pdf · p. 17 · 6.1 Call Timeline"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The project need not invent new technology, but must bring real novelty in how solutions are delivered; replicating proven approaches is not prioritised.\nSolutions may be adapted, tested or deployed at city level. The portfolio selection favours innovative potential, meaning proposals that generate new knowledge and do not merely execute consolidated approaches. Straightforward replication of already proven or tested approaches, with little new learning, is explicitly not prioritised.",
+          "sources": "NZC-SGA3-ECT2-call-guidelines.pdf · pp. 6, 16 · 3.1 Strategic portfolio; 5.4 Eligible activities\nNZC-SGA3-ECT2-call-guidelines.pdf · p. 25 · 9.4 Stage 3"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Mainly governance, delivery and market arrangements, possibly combined with technology.\nEligible levers include policy and regulation, governance, participation and partnerships, procurement, financing, just transition and technology. For Urban Energy Systems, the call mentions shared planning mandates with utilities and network operators, outcome-based procurement of flexibility, clean heat or storage services, flexibility as a service, energy communities and customer offers.",
+          "sources": "NZC-SGA3-ECT2-call-guidelines.pdf · pp. 10, 14–15 · 3.5 Diversity of levers for change; 5.1 Aims; 5.4.1 Pioneering Activities\nNZC-ECT2-challenge-area-briefs-Annex-1-call-guidelines.pdf · pp. 7, 9 · Urban Energy Systems"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Deployment and scaling of enabling solutions in real city settings; early-stage research or isolated demonstrations are not the aim.\nThe programme moves cities from experimentation to city-wide delivery. Activities must be framed as enablers of scaled deployment, and analysis or strategy work must feed into decisions and implementation.",
+          "sources": "NZC-SGA3-ECT2-call-guidelines.pdf · pp. 4, 15–16 · 1.1 Purpose; 5.4 Eligible activities"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "The call sets no technology readiness level; it expects solutions ready to be implemented at city scale.\nEarly-stage experimentation without a credible route to institutional adoption is not prioritised.",
+          "sources": "NZC-SGA3-ECT2-call-guidelines.pdf · p. 16 · 5.4 Eligible activities"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "In the real city: solutions are implemented at city level under real operating conditions, not in a laboratory.\nProjects deploy and scale solutions in the Mission City's own context, with its administration and local actors. Technology trials without delivery integration, financing and policy embedding are not prioritised.",
+          "sources": "NZC-SGA3-ECT2-call-guidelines.pdf · pp. 13, 16 · 5 Scope; 5.4 Eligible activities"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "Activities must form one coherent intervention aimed at a single diagnosed barrier, embedded in the city's existing plans and institutions.\nEvery activity must be framed by what it is meant to change. The proposal must link the chosen challenge area, the system constraint and its outputs, and align with the city's Climate City Contract. For Urban Energy Systems, the call stresses aligning municipal climate plans, spatial planning, utility investment plans, DSO and TSO grid planning and district-heating strategies, where cities do not control the energy infrastructure themselves. Selected projects are also linked with others in the portfolio.",
+          "sources": "NZC-SGA3-ECT2-call-guidelines.pdf · pp. 15, 23 · 5.4 Eligible activities; 9.3 Stage 2\nNZC-ECT2-challenge-area-briefs-Annex-1-call-guidelines.pdf · pp. 8–9 · Urban Energy Systems, Impact and Learning Opportunities"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "Projects must report baselines and values for standardised greenhouse-gas and co-benefit indicators, and evidence of institutional change.\n- Indicators: chosen from the call's set of 45 (12 greenhouse-gas and 33 co-benefit indicators), compatible with city climate reporting platforms; cities may add their own indicators\n- Impact Framework: a mandatory template linking activities to outcomes, impacts and indicators; indicators can be refined during grant preparation\n- Learning: evidence of what works, for whom and why, gathered through monitoring, evaluation and learning and collective sensemaking sessions",
+          "sources": "NZC-SGA3-ECT2-call-guidelines.pdf · pp. 11–13 · 4.1 Impact Framework; 4.2 Indicators Architecture; 4.3 Collective Sensemaking\nNZC-SGA3-ECT2-call-guidelines.pdf · p. 14 · 5.3 Expected results and impact"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "Yes. Stakeholders and citizens must be engaged in decisions and delivery, not just consulted.\nA list of stakeholders to be engaged is a pass/fail eligibility requirement, and stakeholder engagement carries 10 points: it must be durable, linked to decisions and embedded in governance. Subgrantees must develop mechanisms to involve citizens and stakeholders, including vulnerable groups.",
+          "sources": "NZC-SGA3-ECT2-call-guidelines.pdf · pp. 13–14 · 5 Scope; 5.2 ECT2 Programme Outcomes\nNZC-SGA3-ECT2-call-guidelines.pdf · pp. 22, 24 · 9.2 criterion 6; 9.3 Stakeholder Engagement"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "Subgrants of EUR 500,000, EUR 1 million or EUR 1.5 million per project, depending on the number of Mission Cities, from a total of EUR 8 million.\n- Total project size: equal to the subgrant, since costs are reimbursed at 100%; a larger budget is allowed if the extra costs are self- or co-funded and clearly identified\n- Grant request: EUR 500,000 for one Mission City plus at least one other partner; EUR 1 million for at least two Mission Cities; EUR 1.5 million for at least three Mission Cities; per consortium, shared among partners\n- Funding form: subgrant reimbursing actual costs incurred, cascaded by Climate KIC from its Horizon Europe grant",
+          "sources": "NZC-SGA3-ECT2-call-guidelines.pdf · pp. 17–18 · 7.2 Sub-grant allocation; 7.3 Funding envelopes\nNZC-SGA3-ECT2-Financial-Guidelines.pdf · pp. 5–6 · 3.2 Maximum Grant Amount and Reimbursement Rate; 3.3 Form of Grant"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "100% of eligible costs for every partner; no co-financing is required.\n- Co-financing conditions: none required; any costs above the subgrant must be self- or co-funded, and costs may not also be claimed under another grant\n- Evidence required: a Certificate on Financial Statements from the lead city at final reporting",
+          "sources": "NZC-SGA3-ECT2-Financial-Guidelines.pdf · pp. 4–6, 11 · 1 General Principles; 3.2 Maximum Grant Amount and Reimbursement Rate; 5 Certificate on Financial Statement"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Horizon Europe cost rules apply, with a two-thirds cap per entity and mandatory budget lines for coordination, peer learning and audit.\n- Eligible costs: personnel (daily rate = annual personnel costs divided by 215), subcontracting, travel, equipment depreciation, other goods and services, internally invoiced goods and services\n- Caps or mandatory allocations: at most two thirds of the subgrant per entity; coordination costs for the lead city; 3–4 person-months for the city's systemic innovation focal point; travel for one to three people to two in-person events; the lead city's audit certificate under other goods and services\n- Excluded costs: infrastructure costs, sub-grants or prizes, large research infrastructure, deductible VAT, and normal activities of public administration staff\n- Overheads and VAT: 25% flat rate on personnel and purchase costs (not on subcontracting); VAT only if non-deductible\n- Subcontracting or equipment: subcontracting only for a limited part of the work and never between partners; equipment only as depreciation over the project, unless the partner's accounting expenses it in full",
+          "sources": "NZC-SGA3-ECT2-call-guidelines.pdf · pp. 18–19 · 7.2 Sub-grant allocation; 7.4 Mandatory budget features\nNZC-SGA3-ECT2-Financial-Guidelines.pdf · pp. 7–10 · 3.4 Eligible Costs; 3.4.6 Ineligible costs; 3.4.7 Out of scope costs"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "Partners must pre-finance 40% of the grant until the very end, because the balance is paid only after the parent EU project's final review.\n- Payment model: 60% pre-financing within 30 days of the award agreement entering into force; the balance after Climate KIC approves the final report and CINEA (the EU agency funding NetZeroCities) completes its final review of the parent grant\n- Financial reporting or audit: interim and final financial statements from every partner within 60 days of each reporting period (months 1–12 and 13–22); external audit certificate for the lead city; documents kept for five years",
+          "sources": "NZC-SGA3-ECT2-Financial-Guidelines.pdf · pp. 10–11 · 4.1 Reporting; 4.2 Payment Procedures; 5 Certificate on Financial Statement\nNZC-SGA3-ECT2-Financial-Guidelines.pdf · p. 7 · 3.3 Form of Grant and Eligibility of Costs"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: a full proposal submitted by the lead city in the Climate KIC grant management system by 3 December 2026.\n- Stage 1 — Full proposal: 3 December 2026, 12:00 CET, in English, through the Climate KIC Grant Management System using the platform form; no late submissions or changes after submission\n- Additional procedure: none; three online information sessions were held in September and October 2026",
+          "sources": "NZC-SGA3-ECT2-call-guidelines.pdf · pp. 17, 19–20 · 6.1 Call Timeline; 8.2 Submission platform; 8.3 Language; 8.4 Submission deadline"
+        },
+        {
+          "title": "Project window",
+          "answer": "A fixed 22-month programme from 1 April 2027 to 31 January 2029.\n- Maximum duration: 22 months\n- Required start: 1 April 2027 for all projects\n- Eligible-cost period: costs from 1 April 2027 to 31 January 2029, plus final reports, audit certificates and Boot Camp attendance before the start",
+          "sources": "NZC-SGA3-ECT2-call-guidelines.pdf · p. 17 · 6.1 Call Timeline; 7.1 Programme duration\nNZC-SGA3-ECT2-Financial-Guidelines.pdf · p. 6 · 3.3 Form of Grant and Eligibility of Costs"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Decisions by 5 February 2027 and award agreements signed by 1 April 2027.\n- Expected assessment result: eligibility check and expert review December 2026 to January 2027\n- Funding decision: 5 February 2027; appeals 5–12 February 2027; results published 19 February 2027\n- Grant agreement: award agreements issued for signature no later than 1 April 2027, after due diligence\n- Conditions before starting: consortium agreement signed before the award agreement; participation in the Boot Camp; compliance with any conditions set at selection",
+          "sources": "NZC-SGA3-ECT2-call-guidelines.pdf · pp. 6, 17, 19, 26 · 2.2 Proposals Consortia; 6.1 Call Timeline; 7.4.2 Building for synergies; 9.5 Decision communication"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "An online proposal with the chosen challenge area, stakeholder list, budget, Impact Framework and a signed mayor's letter of support for each city.\n- Application form: the platform form in the Climate KIC Grant Management System, in English; a Word template is available for drafting\n- Budget: per consortium organisation in the proposal's budget table, by cost category; an Excel template is provided\n- Mandatory annexes: the Impact Framework template with selected indicators; a work plan and risk register following the provided templates\n- Partner documents: a letter of support signed by the mayor or a mandated official of each Mission City, on official letterhead, naming the call and committing to the programme\n- Registration: each applicant organisation registers in the Climate KIC system",
+          "sources": "NZC-SGA3-ECT2-call-guidelines.pdf · pp. 19–22 · 7.2 Sub-grant allocation; 8 How to submit; 9.2 Stage 1 eligibility criteria\nFunding & Tenders Portal cascade call page NetZeroCities ECT2: Enabling City Transformation 2 · Relevant documentation"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Two experts score each eligible proposal out of 100, then a committee builds a balanced portfolio, so a high score does not guarantee funding.\n- Evaluation criteria: Mandate to Act (challenge diagnosis, authority, strategic coherence), Capacity to Act (delivery structure, consortium, interventions, risks, stakeholder engagement, inclusion) and Impact (lasting outcomes, greenhouse-gas and co-benefit evidence, policy uptake, learning, scaling and replication)\n- Thresholds: a minimum score is required to reach portfolio selection; the guidelines do not state its level\n- Weighting: Mandate to Act 25, Capacity to Act 35, Impact 40 points\n- Ranking rules: the selection committee applies portfolio lenses (innovative potential, challenge-area coverage, geographic and city-type diversity, spread of emission domains and levers, budget); a lower-scoring proposal that fills a portfolio gap may be funded\n- Budget assessment: value for money is assessed and the subgrant awarded may be lower than requested",
+          "sources": "NZC-SGA3-ECT2-call-guidelines.pdf · pp. 21–26 · 9.1 Overview; 9.3 Stage 2; 9.4 Stage 3; 9.5 Decision communication"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Multi-city proposals need one letter per city and a designated lead, and evident heavy use of AI in drafting is penalised.\n- Conditional — multi-city proposal: each city provides its own mayor's letter, one city is named lead, and each city may appear in only one proposal\n- Conditional — contracting authority or entity as partner: must follow national public procurement law when choosing subcontractors\n- Exception — higher-level government: may join with a formal governance link to the city, but does not count as a Mission City for the funding envelope\n- Recommended: use the DESCA consortium agreement; signal openness to collaboration across the portfolio; disclose any AI tools used, since proposals with evident and predominant AI use will be penalised",
+          "sources": "NZC-SGA3-ECT2-call-guidelines.pdf · pp. 5–6, 20, 22 · 2.1–2.2; 3.1 Strategic portfolio; 8.5 Artificial intelligence (AI) use; 9.2 Stage 1\nNZC-SGA3-ECT2-Financial-Guidelines.pdf · p. 8 · 3.4.2 Subcontracting Costs"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "A new product, process or service that an innovative SME develops with international partners and can bring to market soon after the project.\nEurostars (a funding programme of the Eureka network, part of the European Partnership on Innovative SMEs co-funded by Horizon Europe) funds international collaborative R&D and innovation projects in all fields. The project must be led by an innovative SME, meaning a small or medium-sized company aiming to develop new products, processes or services with international partners for European and global markets.",
+          "sources": "Funding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Call introduction\nFunding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Eligibility"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Any field of research and innovation is in scope, as long as the work is R&D or innovation with a clear route to market and civil use only.\n- Mandatory: research and experimental development or innovation leading to products, processes or services that can be easily commercialised\n- Excluded: any application that is not exclusively civil\nThe call names no topics, so an energy-sector project, for example grid sensors, inspection technology or grid software, is as eligible as any other.",
+          "sources": "Funding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Call introduction\nFunding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Eligibility"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The need must be a market need that the SME can address with a commercially viable new product, process or service.\nEvaluators score market size, market access and risk, competitive advantage and realistic commercialisation plans, so the problem must originate in industry or the market. For TenneT, the need would typically be its own, as a future customer or user of what the SME develops; this is our interpretation.",
+          "sources": "Funding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Evaluation and results"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "A product, process or service ready to be commercialised, plus the knowledge to get there; the call names no fixed output types.\nThe project must develop new or improved products, processes or services and bring new applied knowledge. Its commercialisation plans must be clear and realistic.",
+          "sources": "Funding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Call introduction\nFunding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Evaluation and results"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The project must create commercial impact for the participants and wider economic, environmental and societal benefits.\nImpact is one of three evaluation criteria and covers market size, market access and risk, competitive advantage, clear and realistic commercialisation plans, and economic, environmental and societal impact. No quantified targets are set.",
+          "sources": "Funding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Evaluation and results"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "The result is expected to reach the market, so commercialisation by the partners after the project is the core expectation.\nApplicants must present clear and realistic commercialisation plans and show market access. The call sets no requirements on replication elsewhere, standards or interoperability.",
+          "sources": "Funding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Evaluation and results"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "At least two independent entities from at least two Eurostars countries; no maximum is stated.\nAt least one partner must come from an EU Member State or a Horizon Europe associated country. Independent means that neither partner controls the other and they are not under the same control. No single participant or country may account for more than 70% of the project budget.",
+          "sources": "Funding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Eligibility"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "An innovative SME must lead, SMEs must carry at least half the budget, and large companies, universities and research organisations may join.\n- Lead: an innovative SME from a Eurostars country; the Netherlands is one\n- SME share: the budget of SMEs from Eurostars countries, excluding subcontracting, must be at least 50% of total project costs\n- Other partners: large companies, universities, research organisations and other organisations\n- Countries: Eurostars countries include EU Member States and others such as Norway, Switzerland, the United Kingdom, Canada, Israel, South Korea, Singapore and South Africa; organisations from other countries may take part if they fund themselves",
+          "sources": "Funding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Eligibility\nFunding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Funding information"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "SMEs must carry at least 50% of the budget and no participant or country more than 70%; otherwise the split is free.\nThese budget rules mean that a large partner such as TenneT could hold at most a minority share of the work, and less than half of the budget together with any other non-SME partners. Evaluators also score the quality of the consortium, the added value of cooperation and a reasonable cost structure.",
+          "sources": "Funding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Eligibility\nFunding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Evaluation and results"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "Only an innovative SME from a Eurostars country may lead.\nThe lead SME opens the application on the Eureka project platform and invites the other partners.",
+          "sources": "Funding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Eligibility\nFunding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Applying"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "No. TenneT cannot lead, because the lead must be an innovative SME.",
+          "sources": "Funding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Eligibility"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes. TenneT may join as a large-company partner, with national funding if the Netherlands allows it, or self-funded.\nOrganisations that are not eligible for public funding, or do not request it, must add a self-funding declaration to the application. TenneT could also support an SME's project as a user or test site without being a partner; the call does not describe such roles.",
+          "sources": "Funding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Eligibility\nFunding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Applying"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Unclear: each partner is funded by its own national funding body, and we could not read the Dutch rules for large companies.\nThe national funding body decides which organisations can receive funding, which activities are funded, the funding rates and any maximum per project or partner. For a Dutch partner this is the national funding body for the Netherlands (in practice the Netherlands Enterprise Agency, RVO). The Eureka national funding pages for the Netherlands could not be read. TenneT should check with RVO before relying on any grant, and plan to self-fund its costs if large companies are not funded.",
+          "sources": "Funding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Funding information"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT could act as the launching customer and test site for an SME's grid technology; this is our judgement.\nSince an SME must lead and SMEs must carry most of the budget, TenneT's credible role is small but valuable:\n- defining the user requirements for a product it may later buy, such as sensors, drones, inspection robots or analytics for asset condition, as in Reliability Centered Maintenance\n- giving access to substations, cables or data for testing and validation\n- strengthening the SME's market-access case, which evaluators score\nAny later purchase would still go through TenneT's own tenders.",
+          "sources": "Funding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Evaluation and results\nFunding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Eligibility"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The project must create new applied knowledge and a significantly new product, process or service; repackaging existing solutions is not enough.\nThe call uses the international definitions: R&D is creative and systematic work to increase knowledge or devise new applications of it, and innovation is a new or improved product or process that differs significantly from what the organisation had before. Evaluators score the degree of innovation, new applied knowledge and the level of technical challenge.",
+          "sources": "Funding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Eligibility\nFunding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Evaluation and results"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Mainly technology: products, processes or services.\nThe call does not cover governance or market-design innovation as such; it funds things that can be commercialised.",
+          "sources": "Funding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Call introduction\nFunding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Evaluation and results"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Research, development and innovation up to a result close to market.\nThe call covers research and experimental development and innovation, with the aim that the products, processes or services can be easily commercialised.",
+          "sources": "Funding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Call introduction\nFunding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Eligibility"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "The project must make its technical achievability and market potential credible; the call sets no indicators.\nEvaluators score technical achievability and risk, market size, market access and risk, competitive advantage and economic, environmental and societal impact.",
+          "sources": "Funding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Evaluation and results"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "Projects must be exclusively civil and pass an ethics review; no other security requirements are stated.",
+          "sources": "Funding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Eligibility\nFunding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Evaluation and results"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "About EUR 86.4 million in total for the call; project and grant sizes depend on each partner's national rules.\n- Total project size: no minimum or maximum in the international rules\n- Grant request: set per partner by its national funding body, which may cap the amount per project or partner\n- Funding form: national grants under each country's own rules. The Eureka national funding pages for the Netherlands could not be read.",
+          "sources": "Funding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Budget\nFunding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Funding information"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "Funding rates are set by each national funding body, not by the call.\n- Co-financing conditions: each partner finances whatever its national grant does not cover; partners not eligible for funding fund all their costs\n- Evidence required: depending on the country, financial reports or a business plan; a self-funding declaration for partners without public funding. The Eureka national funding pages for the Netherlands could not be read.",
+          "sources": "Funding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Funding information\nFunding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Applying"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "SMEs from Eurostars countries must carry at least 50% of total project costs, excluding subcontracting, and no participant or country more than 70%.\n- Caps or mandatory allocations: the 50% SME share and the 70% cap per participant or country\n- Eligible costs, overheads and VAT: set by the national funding bodies",
+          "sources": "Funding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Eligibility\nFunding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Funding information"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: the lead SME submits one application in English on the Eureka project platform between 17 December 2026 and 4 March 2027.\n- Stage 1 — Full application: 4 March 2027, 14:00 Brussels time, on myeurekaproject.org, opened by the lead SME, with a signed commitment and signature form and SME declarations\n- Additional procedure: partners should first contact their national funding body about their idea, funding, eligibility and viability; national bodies may require extra steps, and missing them can make a partner ineligible for funding",
+          "sources": "Funding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Applying\nFunding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Call introduction"
+        },
+        {
+          "title": "Project window",
+          "answer": "At most 36 months; the call sets no start date.\n- Maximum duration: 36 months; an extension may be approved after the start if justified, by the Eureka Secretariat and the national funding bodies",
+          "sources": "Funding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Eligibility"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Funding results by mid-June 2027 and national agreements five to seven months after the deadline, all indicative.\n- Expected assessment result: eligibility check within one week of 4 March 2027; viability check and expert evaluation mid-April 2027; panel ranking and ethics review end of May 2027\n- Funding decision: mid-June 2027\n- Grant agreement: with each partner's national funding body, five to seven months after the deadline (August to October 2027)\n- Conditions before starting: every partner must pass the legal and financial viability check",
+          "sources": "Funding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Evaluation and results"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "An online application in English with a signed commitment form, SME declarations and any national financial annexes or self-funding declarations.\n- Application form: online on myeurekaproject.org, in English\n- Mandatory annexes: signed commitment and signature form; SME declaration from each SME; national financial annexes where required (financial reports, a business plan for start-ups); a self-funding declaration for partners without public funding\n- Optional annexes: technical annex, Gantt chart\n- Parallel submission: any additional national steps required by the partner's funding body\n- Eligibility: all seven international criteria must be met or the application is rejected",
+          "sources": "Funding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Applying\nFunding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Eligibility"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Three independent experts score each application on three criteria, then a panel ranks the best 200; funding follows the ranking and national budgets.\n- Evaluation criteria: quality and efficiency of implementation (consortium, cooperation, management, cost structure); impact (market size, market access and risk, competitive advantage, commercialisation, wider impact); excellence (innovation, new knowledge, technical challenge, achievability and risk)\n- Thresholds: a project must be among the best 200 to reach the Independent Evaluation Panel, which must rate it excellent or good\n- Ranking rules: selected for funding on the panel's ranking list, provided all partners pass the viability check",
+          "sources": "Funding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Evaluation and results"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Partners without public funding must submit a self-funding declaration, and fully publicly funded organisations need no financial annex.\n- Conditional — no national funding: add a self-funding declaration, or the partner cannot take part\n- Exception — 100% publicly funded organisation: no financial annex required\n- Conditional — rejection on procedural grounds: the lead SME may request redress\n- Recommended: contact the national funding body before applying",
+          "sources": "Funding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Applying\nFunding & Tenders Portal cascade call page European Partnership on Innovative SMEs/Eurostars: joint transnational call for proposals (CALL 12 of Eurostars-3) · Evaluation and results"
+        }
+      ]
+    }
+  ]
+}

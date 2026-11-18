@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "Scholarships for individual students to spend a six-month exchange semester at NTNU learning digital skills for wind and energy systems.\nThe call is a cascade call (an EU-funded project passing part of its grant on to others) by NTNU, the Norwegian University of Science and Technology in Trondheim, within DigiWind (Digital Masters of Wind and Energy Systems, a Digital Europe Programme project of five universities and four companies that funds advanced digital education in wind and energy systems). It funds no project: it pays a stipend so that students can follow courses in the M.Sc. Electric Power Engineering or M.Sc. Marine Technology programmes. Each student must take 30 credits (about four courses), of which at least two designated DigiWind courses and at least one Electric Power Engineering course. The need behind it is Europe's shortage of engineers with digital skills for the energy transition.",
+          "sources": "DigiWind web page NTNU Open Call 2 · Programme Overview\nFunding & Tenders Portal cascade call page DigiWind NTNU Open Call 2 – Spring & Autumn 2027 · NTNU Open Call 2 Offer"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "More engineers in Europe who combine power-system or marine engineering with digital skills for wind and energy systems.\nDigiWind's stated aim is to equip Europe's top talent with advanced digital skills to drive innovation in wind and energy systems and build a skilled workforce for the green transition. Scholarship holders must also take part in student ambassador activities. The call sets no quantified targets beyond up to 15 scholarships.",
+          "sources": "DigiWind web page NTNU Open Call 2 · Programme Enrolment\nDIGIWIND_TUS-Open-Call_Summer_Internship_Guidelines-for-applicants.pdf · p. 5 · 1.1 About the DigiWind project"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "Individual students only, not organisations: final-year bachelor's students or master's students in a relevant engineering field.\n- Status: enrolled in a bachelor's or master's degree at a university with an active NTNU exchange agreement\n- Background: last-year B.Sc. in Engineering, B.Eng. or B.Sc. in Natural Science, or current M.Sc. students, with a background relevant to electric power engineering or marine technology\n- Nationality: passport of an EU/EEA country or of a Digital Europe Programme associated country\n- English: IELTS Academic 6.5, TOEFL iBT 88 or Cambridge C1/C2 180, unless a native speaker\nThere is no consortium. The call suits engineering students, for example at Dutch technical universities with an NTNU exchange agreement.",
+          "sources": "DigiWind web page NTNU Open Call 2 · Who Can Apply?\nFunding & Tenders Portal cascade call page DigiWind NTNU Open Call 2 – Spring & Autumn 2027 · Applicants profile"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "It trains future power and offshore engineers in grid digitalisation, a pool TenneT recruits from; TenneT cannot take part because only individual students may apply.\nThe eligible programmes, electric power engineering and marine technology, match the skills TenneT needs for offshore grid connections and digital grid operation, such as the 2GW Program and the Digital Twin Programme. TenneT could point Dutch students or young recruits to the call, or use it to build contacts with DigiWind partners such as Delft University of Technology. The call sets out no route for an organisation: the scholarship goes to the student.",
+          "sources": "DigiWind web page NTNU Open Call 2 · Who Can Apply?; Programme Overview"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "Up to 15 scholarships of EUR 6,940 each, EUR 104,100 in total, shared between the Spring and Autumn 2027 semesters.\n- Grant request: a fixed stipend of EUR 6,940 per student for living and subsistence costs during the six-month exchange\n- Funding form: fixed stipend, possibly paid through cash cards from NTNU's Unit for International Relations, after the mobility agreement is signed and enrolment confirmed",
+          "sources": "Funding & Tenders Portal cascade call page DigiWind NTNU Open Call 2 – Spring & Autumn 2027 · NTNU Open Call 2 Offer; Budget\nDigiWind web page NTNU Open Call 2 · What's offered"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "The stipend is a fixed amount; students pay the remaining costs themselves.\n- Co-financing conditions: tuition is waived for students from NTNU partner universities; each student must personally pay a welfare fee of about EUR 70 per semester",
+          "sources": "Funding & Tenders Portal cascade call page DigiWind NTNU Open Call 2 – Spring & Autumn 2027 · NTNU Open Call 2 Offer"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One application on the F6S platform per round; the Spring 2027 round has closed and the Autumn 2027 round is open.\n- Spring 2027 round: closed on 2 November 2026, 17:00 CET\n- Autumn 2027 round: 1 March 2027, 17:00 CET; funded from what remains after the Spring round, so fewer places may be left\n- Additional procedure: selected students are then enrolled by NTNU as international placement students",
+          "sources": "DigiWind web page NTNU Open Call 2 · Spring 2027; Autumn 2027; How to apply\nFunding & Tenders Portal cascade call page DigiWind NTNU Open Call 2 – Spring & Autumn 2027 · Call interdependency"
+        },
+        {
+          "title": "Project window",
+          "answer": "A six-month exchange semester starting 23 August 2027 for the Autumn round.\n- Maximum duration: 6 months\n- Required start: 23 August 2027 (Autumn 2027); the Spring semester started 11 January 2027",
+          "sources": "DigiWind web page NTNU Open Call 2 · Autumn 2027 timeline"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Autumn results on 15 March 2027, then enrolment from 1 June to 20 August 2027.\n- Expected assessment result: evaluation 2–12 March 2027, results 15 March 2027\n- Conditions before starting: accept the offer by email and sign the Declaration of Honour within five business days; enrol at NTNU",
+          "sources": "DigiWind web page NTNU Open Call 2 · Autumn 2027 timeline; Programme Enrolment"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "An F6S application with degree awards, transcripts, CV, personal statement and proof of English.\n- Application form: online on F6S\n- Partner documents: if selected, a Declaration of Honour and a Learner Agreement",
+          "sources": "DigiWind web page NTNU Open Call 2 · How to apply"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Three NTNU academics score eligible applicants on merit; at least 70% is needed.\n- Evaluation criteria and weighting: relevant qualifications 65%; positive mindset towards the green-digital energy transition 25%; commitment to diversity, equality and gender balance 10%\n- Thresholds: 70% overall",
+          "sources": "DigiWind web page NTNU Open Call 2 · Evaluation"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    }
+  ]
+}

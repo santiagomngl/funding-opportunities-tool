@@ -1,0 +1,45 @@
+{
+  "id": "20261118-061349-02",
+  "source": "EU Funding & Tenders Portal calls for proposals",
+  "display_title": "Enabling City Transformation 2 (ECT2) – NetZeroCities",
+  "organization_or_parent_framework": "Horizon Europe",
+  "programme": "NetZeroCities",
+  "call_title": "Enabling City Transformation 2 (ECT2)",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://netzerocities.eu/enabling-city-transformation/",
+  "executive_summary": "Cascade call issued by the NetZeroCities project (SGA3-NZC, coordinated by Climate KIC), funded by Horizon Europe under the Climate-Neutral and Smart Cities Mission. It funds 22-month interventions, led by a Mission City (one of the cities selected for the EU Mission of 100 climate-neutral and smart cities by 2030), that remove systemic barriers to city-wide climate neutrality in one of six challenge areas: place-based heating and cooling, urban energy systems (coordinating grid planning, electrification, clean heat and flexibility with utilities, DSOs and TSOs), large-scale building retrofits, nature-based solutions, city finance, and urban mobility and logistics. Each proposal needs a consortium of at least two legal entities led by the Mission City; other organisations may join as partners and receive part of the subgrant (at most two thirds per entity). Subgrants of EUR 500,000, 1 million or 1.5 million depending on whether one, two or three Mission Cities take part, reimbursed at 100% of actual eligible costs, from a total of EUR 8 million. Deadline 3 December 2026 at 12:00 CET; the programme runs from 1 April 2027 to 31 January 2029.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2026-12-03",
+  "earliest_project_start_date": "2027-04-01",
+  "project_end_date": "2029-01-31",
+  "minimum_project_size": 500000,
+  "maximum_project_size": 1500000,
+  "date_last_checked": "2026-11-18",
+  "status_rationale": "The NZC ECT2 Call Guidelines (sections 3.4 and 5, pp. 8–16) fund Mission-City-led interventions that remove systemic barriers to climate neutrality, and the Urban Energy Systems challenge area (Annex 1, pp. 7–10) explicitly targets coordinated grid planning, electrification, flexibility procurement and governance models for city–utility–DSO–TSO cooperation. This is close to Energy boards (TenneT coordinating with DSOs and regional governments on congestion and grid expansion), Grids & Benefits and DataFleX (local flexibility to relieve congestion) and the time-dependent transmission rights contract (flexible grid access), though ECT2 works at city level and must be led by the city. The guidelines (2.2, p. 6; 7.2, pp. 17–18) and Financial Guidelines (3.1–3.2, p. 5) let other organisations join a consortium led by a Dutch Mission City and hold part of the subgrant, reimbursed at 100% of eligible costs, so TenneT TSO B.V. could be a funded partner: Type 1 with C1.3. Section 2.1 (p. 5) says only Mission Cities may apply and receive funding, which we read as the lead receiving the subgrant and passing shares on to partners.",
+  "call_type": "Type 1",
+  "category_codes": [
+    "C1.3"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T5",
+      "T10",
+      "T6"
+    ],
+    "role": [
+      "R2",
+      "R9",
+      "R10"
+    ],
+    "activity": [
+      "A15",
+      "A14",
+      "A16"
+    ],
+    "outcome": [
+      "O10",
+      "O7"
+    ]
+  }
+}

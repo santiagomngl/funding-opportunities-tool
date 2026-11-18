@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "A demand-side pilot demonstrator: a real sector application, for example in energy, running on Europe's new shared telecom-edge-cloud computing infrastructure.\nThe topic calls this infrastructure a 3C network (Connected Collaborative Computing): a secure telecom network from several providers that also hosts computing, storage and AI services close to where data are produced (the edge) and in the cloud. A separate EU project funded in 2025 (the supply-side large-scale pilot) is building the open platform that orchestrates this infrastructure. Each project funded here must build on that platform and show what users in a sector gain from it. Up to two pilots are expected: one on mobility and the automotive industry, and one on another sector such as energy, smart communities, industrial virtual worlds, health, agrifood or manufacturing.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Part 7 Digital, Industry and Space · pp. 111–113 · HORIZON-CL4-2027-04-DATA-08, Expected Outcome and Scope"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Each project must run one sector pilot on the 3C infrastructure; an energy-sector pilot can only be the second, non-mobility pilot.\nWhat the pilots should do:\n- build on the open orchestration platform of the 2025 supply-side pilot (topic HORIZON-CL4-2025-03-DATA-08) and integrate sector applications and services with it\n- use open application interfaces and open-source components from the supply-side pilot and existing open-source projects such as Sylva, ANUKET, Nephio and CAMARA\n- explore AI, virtual worlds and other new technologies; the topic ranks cognitive cloud computing, swarm intelligence, generative AI and large language models, and augmented or extended reality as most important\n- set out a data governance model covering data sovereignty, interoperability with the Common European Data Spaces (EU-wide frameworks for sharing sector data) and the Gaia-X principles (a European initiative for trusted cloud and data sharing)\n- show the move from virtualised network functions to automated network operations and decentralised intelligence at the edge\n- test, validate and demonstrate prototypes in operational environments, with security, privacy, protection against quantum threats, energy efficiency and sustainable AI\n- orchestrate computing workloads from distributed sensors and actuators to the edge and cloud\nThe topic sets no excluded activities. Resulting solutions should also be available for use in the public sector.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Part 7 Digital, Industry and Space · pp. 111–113 · HORIZON-CL4-2027-04-DATA-08, Expected Outcome and Scope"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The need comes from sector users who want to use AI and edge computing but lack a trusted European network-and-computing infrastructure to run them on.\nThe topic starts from industry: European businesses in strategic sectors should gain from AI and from telecom features such as network slicing (reserving part of a network for one service), low latency (short delay) and integrated sensing. At the same time, telecom and cloud providers need to move beyond selling connectivity alone to higher-value services. The pilots must therefore be demand-led: users from the sector define and test the applications, together with infrastructure providers. For a grid operator, a fitting need would be secure, low-delay computing and AI close to substations or field sensors, with sovereign data sharing between parties; this is our interpretation, as the topic names energy only as an example sector.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Part 7 Digital, Industry and Space · pp. 111–113 · HORIZON-CL4-2027-04-DATA-08, Expected Outcome and Scope"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "Validated pilot demonstrators of sector applications on the 3C infrastructure, plus the data governance model and reusable open-source components.\nOutputs the topic expects:\n- one operational pilot demonstrator in the chosen sector, validated in operational environments and reaching TRL 6–8 (a system prototype demonstrated in an operational environment up to a complete, qualified system)\n- prototypes of agile virtualised network functions combined with integrated devices, computing and communication resources\n- a data governance model for secure and compliant data sharing between users and infrastructure providers\n- open-source frameworks and components, made available to the Open Euro Stack Support for Scale (an EU initiative to scale up European open-source digital technology)\n- new services and business models, with marketplace exploitation strategies and paths to commercialisation or replication",
+          "sources": "Horizon Europe Work Programme 2026–2027, Part 7 Digital, Industry and Space · pp. 111–113 · HORIZON-CL4-2027-04-DATA-08, Expected Outcome and Scope"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The pilots should show that European telecom-edge-cloud infrastructure makes key sectors more competitive and sustainable and gives Europe more digital sovereignty.\nExpected outcomes named in the topic:\n- demand-driven validation of open orchestration platforms across the telecom-cloud-edge continuum, unlocking the value of AI for European businesses\n- better quality of service, resilience and sustainability of digital communications, using network features such as application interfaces, slicing, automation, low latency, security and integrated sensing\n- a clear sector relevance for each pilot, with one pilot on smart mobility and the automotive sector\n- an ecosystem around the 3C infrastructure in which SMEs and start-ups develop new services and business models\nThe destination also aims to keep Europe in control of its critical digital infrastructure. The topic sets no quantified targets. For energy, an impact case could rest on grid resilience and secure data exchange, but that is for the consortium to argue.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Part 7 Digital, Industry and Space · pp. 111–113 · HORIZON-CL4-2027-04-DATA-08, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, Part 7 Digital, Industry and Space · p. 110 · Destination: Developing an agile and secure single market and infrastructure for data-services and trustworthy artificial intelligence services"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "The results must be designed for wider use: commercialisation or replication paths, open-source reuse and public-sector availability are all expected.\n- Replication: the topic expects business-model validation, marketplace exploitation strategies and paths to commercialisation or replicability; replication need not happen during the project.\n- Standards and interfaces: pilots should take up existing standards and use open interfaces and open-source components; the open-source frameworks should be made available to the Open Euro Stack Support for Scale.\n- Operational use: the pilots must reach TRL 6–8, close to operational use, and resulting solutions should be available for use in the public sector.\n- Cooperation: the pilots should liaise with the coordination and support action funded in 2025 that links the supply-side and demand-side pilots, follow the recommendations of the advisory group of end users, and collaborate with the Smart Networks and Systems Joint Undertaking and other EU projects.\n- Dissemination: as for every Horizon Europe proposal, the application must include a plan for exploitation and dissemination of results; beneficiaries must for four years after the project tell the EU if results could feed into standards.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Part 7 Digital, Industry and Space · pp. 111–113 · HORIZON-CL4-2027-04-DATA-08, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, Part 15 General Annexes · p. 4 · A — Admissibility\nHorizon Europe Work Programme 2026–2027, Part 15 General Annexes · p. 34 · G — Provisions concerning project implementation"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "At least three independent organisations from three different eligible countries; the topic sets no maximum.\nAt least one must be established in an EU Member State and the other two in different Member States or associated countries. Under this topic, only entities from EU Member States, Iceland, Norway, Canada, Israel, the Republic of Korea, New Zealand, Switzerland, the United Kingdom and, by a topic update, Japan count. In practice, a pilot that combines users and infrastructure providers will be much larger than three partners.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Part 15 General Annexes · p. 13 · B — Consortium composition\nHorizon Europe Work Programme 2026–2027, Part 7 Digital, Industry and Space · pp. 110–111 · HORIZON-CL4-2027-04-DATA-08, Specific conditions\nFunding & Tenders Portal topic page HORIZON-CL4-2027-04-DATA-08 · Topic updates"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "The consortium must combine partners from the demand side (sector users) and from the infrastructure supply side, with strong SME and start-up involvement.\n- Users: the pilots would be driven by a consortium including partners from both the demand (user) and infrastructure supply side; for an energy pilot, the demand side would be energy companies such as grid operators.\n- Suppliers: telecom operators, cloud and edge providers and technology vendors that run the infrastructure.\n- Stakeholders: proposals should ensure a high degree of participation of stakeholders from the sector concerned, with particular attention to SMEs, scale-ups and start-ups.\n- Countries: only entities established in EU Member States, Iceland, Norway, Canada, Israel, the Republic of Korea, New Zealand, Switzerland, the United Kingdom and Japan may take part. Entities controlled from another country, or by an entity from another country, may take part only if their country of establishment accepts guarantees; entities controlled from China cannot. Legal entities established in China are excluded from all actions of this part of the work programme.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Part 7 Digital, Industry and Space · pp. 111–113 · HORIZON-CL4-2027-04-DATA-08, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, Part 7 Digital, Industry and Space · pp. 110–111 · HORIZON-CL4-2027-04-DATA-08, Specific conditions\nHorizon Europe Work Programme 2026–2027, Part 7 Digital, Industry and Space · p. 110 · Destination: Developing an agile and secure single market and infrastructure for data-services and trustworthy artificial intelligence services\nFunding & Tenders Portal topic page HORIZON-CL4-2027-04-DATA-08 · Topic updates"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "The topic sets no rule on how work or budget must be split among partners.\nIt only requires that each pilot be driven jointly by demand-side users and infrastructure suppliers and that sector stakeholders participate strongly. How tasks and money are shared is for the consortium to propose; the evaluators judge whether each participant's role and the effort per work package are appropriate.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Part 7 Digital, Industry and Space · pp. 111–113 · HORIZON-CL4-2027-04-DATA-08, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, Part 15 General Annexes · p. 23 · D — Award criteria"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "Any eligible beneficiary may coordinate; the topic does not reserve the role for a type of organisation.\nThe coordinator must be one of the beneficiaries established in an eligible country, confirm at submission that it has the mandate to act for all applicants, and submit the proposal through the Funding & Tenders Portal.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Part 15 General Annexes · p. 27 · E — Documents, Submission\nHorizon Europe Work Programme 2026–2027, Part 7 Digital, Industry and Space · pp. 110–111 · HORIZON-CL4-2027-04-DATA-08, Specific conditions"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "Yes, TenneT may coordinate, as a Dutch legal entity in an eligible country, provided it is not controlled from a non-eligible country.\nThe Netherlands is an EU Member State, so TenneT TSO B.V. meets the country rule. The ownership-and-control restriction concerns entities controlled from non-eligible countries; TenneT is owned by the Dutch State, so this restriction should not apply, though every applicant must complete the ownership control declaration. In practice, coordinating a EUR 19 million telecom-led pilot would mean managing a large consortium mainly made up of telecom and cloud companies, so TenneT could more realistically lead the energy use case.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Part 7 Digital, Industry and Space · pp. 110–111 · HORIZON-CL4-2027-04-DATA-08, Specific conditions\nFunding & Tenders Portal topic page HORIZON-CL4-2027-04-DATA-08 · Call-specific instructions, Ownership Control Declaration"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes. TenneT may also join without funding, as an associated partner.\nAssociated partners take part in the work without signing the grant agreement and without charging costs. In that role TenneT could, for example, provide an operational environment or user requirements for an energy pilot without receiving any EU money.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Part 15 General Annexes · p. 5 · B — Specific cases, Associated partners"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Yes, as a beneficiary at up to 70% of its eligible costs, the Innovation Action rate for profit-making organisations.\nInnovation Actions are funded at up to 70% of eligible costs, and at up to 100% only for non-profit legal entities. As a company, TenneT TSO B.V. would most likely receive 70% and must finance at least 30% of its own costs. Eligible costs include personnel, subcontracting and purchases, plus a 25% flat rate for indirect costs on most direct costs. There are no separate Dutch rules: the European Commission funds all beneficiaries directly under the same Horizon Europe grant agreement.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Part 15 General Annexes · pp. 31–32 · G — Form of grant, funding rate and maximum grant amount; Budget categories"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "TenneT could be the energy-sector user that defines, hosts and validates the energy pilot; this is our judgement.\nA credible TenneT role could combine:\n- use cases close to grid assets, such as processing sensor data from substations or cable monitoring at the edge, or AI support for control rooms\n- an operational or near-operational test environment, so the pilot can reach TRL 6–8, for example linked to the National Facility Digital Twin of the Electricity System\n- requirements for security, data sovereignty and service continuity for critical infrastructure, building on its work in TwinEU on secure data exchange between system operators\n- knowledge of data sharing with market parties from DataFleX\nThe main hurdle is that only one of the two expected pilots is open to non-mobility sectors, so an energy consortium competes with health, agrifood, manufacturing and others.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Part 7 Digital, Industry and Space · pp. 111–113 · HORIZON-CL4-2027-04-DATA-08, Expected Outcome and Scope"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The project may integrate and apply existing technology, but must show a new application of it in a real sector at scale.\nThis is an Innovation Action: work that directly produces new or improved products, processes or services, including prototyping, testing, piloting and large-scale validation. The pilots are expected to reuse as far as possible existing open-source frameworks and the platform of the supply-side pilot, and to take up existing standards. Novelty lies in combining them into sector services, not in basic research.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Part 7 Digital, Industry and Space · pp. 111–113 · HORIZON-CL4-2027-04-DATA-08, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, Part 15 General Annexes · p. 14 · B — Eligible activities, Innovation actions"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "A combination of technology, system architecture and business models.\n- Technology and architecture: orchestration of computing workloads across telecom, edge and cloud, virtualised and automated network functions, AI services and post-quantum security.\n- Governance: a data governance model for sovereign and compliant data sharing between users and providers.\n- Market arrangements: new services and business models for infrastructure providers and SMEs, with marketplace strategies.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Part 7 Digital, Industry and Space · pp. 111–113 · HORIZON-CL4-2027-04-DATA-08, Expected Outcome and Scope"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Mainly demonstration and validation, with prototyping and integration leading up to them.\nThe pilots should include testing, validation and demonstration of prototypes in operational environments, and lead to business-model validation and paths to commercialisation. Fundamental research is not the aim.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Part 7 Digital, Industry and Space · pp. 111–113 · HORIZON-CL4-2027-04-DATA-08, Expected Outcome and Scope"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "TRL 6–8 by the end of the project.\nTRL 6 is a technology demonstrated in a relevant environment; TRL 8 is a complete system qualified for use. The topic sets no starting level, but reaching TRL 6–8 implies building on components that are already well developed, such as the supply-side pilot's platform.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Part 7 Digital, Industry and Space · pp. 110–111 · HORIZON-CL4-2027-04-DATA-08, Specific conditions"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "In operational environments: the pilots must test and demonstrate their prototypes under real operating conditions, not only in the laboratory.\nThe pilots should include testing, validation and demonstration of prototypes of virtualised network functions with integrated devices, computing and communication resources in operational environments. They must build on the real 3C infrastructure of the supply-side pilot. For an energy pilot, this suggests running on real grid-related sites or data rather than simulations alone; this is our interpretation.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Part 7 Digital, Industry and Space · pp. 111–113 · HORIZON-CL4-2027-04-DATA-08, Expected Outcome and Scope"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The pilot must form one integrated system built on the existing supply-side 3C infrastructure and open-source stack.\nSector applications must be integrated with the emerging European 3C infrastructure, orchestrating workloads from distributed sensors and actuators to edge and cloud. The pilots should exploit the open interfaces and open-source components of the supply-side pilot, take up existing standards, and collaborate with related EU work: the Smart Networks and Systems Joint Undertaking, the EU's research areas on AI across the computing continuum and sovereign edge and cloud infrastructure, the virtual worlds partnership, the connected automated mobility partnership and the Chips Joint Undertaking's software-defined vehicle work.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Part 7 Digital, Industry and Space · pp. 111–113 · HORIZON-CL4-2027-04-DATA-08, Expected Outcome and Scope"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "The pilots must show measurable gains for sector users and infrastructure providers, though the topic sets no indicators.\nEvidence expected from the demonstrations includes improved quality of service, resilience and sustainability of digital communications, benefits for infrastructure providers in operating networks more efficiently, energy efficiency and control of the ecological footprint, and validated business models. The proposal must define its own indicators.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Part 7 Digital, Industry and Space · pp. 111–113 · HORIZON-CL4-2027-04-DATA-08, Expected Outcome and Scope"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "Yes. Users must help drive the pilots: they are demand-side, user-led demonstrators.\nThe pilots would be driven by a consortium including partners from the demand (user) side, should ensure a high degree of participation of stakeholders from the sector, and should take into account the recommendations on user requirements from the advisory group of end users set up for the 3C pilots.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Part 7 Digital, Industry and Space · pp. 111–113 · HORIZON-CL4-2027-04-DATA-08, Expected Outcome and Scope"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "Security and privacy, including protection against future quantum-computer attacks, are required features of the pilots; participation is restricted for strategic security reasons.\n- The pilots must ensure security and privacy, including resistance to emerging quantum threats, for example with post-quantum cryptography (encryption designed to resist quantum computers).\n- Service continuity across different network domains and multiple clouds is a key feature.\n- The data governance model must ensure secure and compliant data sharing and data sovereignty.\n- Participation is limited to entities from the listed eligible countries, with guarantees required for entities controlled from elsewhere and none allowed from China, to avoid technological dependency on non-EU sources.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Part 7 Digital, Industry and Space · pp. 111–113 · HORIZON-CL4-2027-04-DATA-08, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, Part 7 Digital, Industry and Space · pp. 110–111 · HORIZON-CL4-2027-04-DATA-08, Specific conditions"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "EUR 38 million for the topic, around EUR 19 million of EU funding per project, for two projects.\n- Total project size: not set; with an EU contribution of EUR 19 million at the 70% rate for companies, a project would be around EUR 27 million in eligible costs, more if non-profit partners are funded at 100%\n- Grant request: around EUR 19 million per project (the whole consortium); proposals requesting other amounts are not excluded\n- Funding form: budget-based actual-cost grant (the EU reimburses eligible costs actually incurred)",
+          "sources": "Horizon Europe Work Programme 2026–2027, Part 7 Digital, Industry and Space · pp. 110–111 · HORIZON-CL4-2027-04-DATA-08, Specific conditions\nHorizon Europe Work Programme 2026–2027, Part 7 Digital, Industry and Space · p. 30 · Call DIGITAL (HORIZON-CL4-2027-04), budget table\nHorizon Europe Work Programme 2026–2027, Part 15 General Annexes · p. 31 · G — Form of grant, funding rate and maximum grant amount"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "Up to 70% of eligible costs for profit-making organisations such as TenneT, and up to 100% for non-profit organisations.\n- Profit-making organisations (companies, including TenneT TSO B.V.): up to 70%, so at least 30% own contribution\n- Non-profit legal entities (for example universities and research organisations): up to 100%\n- Co-financing conditions: each beneficiary finances the share of its own costs that the grant does not cover; the grant may not produce a profit",
+          "sources": "Horizon Europe Work Programme 2026–2027, Part 15 General Annexes · p. 31 · G — Form of grant, funding rate and maximum grant amount"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Standard Horizon Europe cost rules apply; the topic adds no caps or mandatory allocations.\n- Eligible costs: personnel, subcontracting and purchase costs actually incurred, plus unit costs where the beneficiary's usual accounting allows\n- Overheads: a 25% flat rate on eligible direct costs, excluding subcontracting and some other categories\n- Caps or mandatory allocations: none in the topic",
+          "sources": "Horizon Europe Work Programme 2026–2027, Part 15 General Annexes · p. 32 · G — Budget categories and cost eligibility rules"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: a full proposal submitted through the Funding & Tenders Portal by the deadline.\n- Stage 1 — Full proposal: 18 March 2027, 17:00 Brussels time; a Part A web form and a Part B technical description of at most 40 pages, submitted by the coordinator for the whole consortium. Submission opened on 17 November 2026.\n- Additional procedure: the Director-General may delay the deadline by up to two months.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Part 7 Digital, Industry and Space · p. 30 · Call DIGITAL (HORIZON-CL4-2027-04), budget table\nHorizon Europe Work Programme 2026–2027, Part 15 General Annexes · p. 4 · A — Page limits\nFunding & Tenders Portal topic page HORIZON-CL4-2027-04-DATA-08 · General information and Topic updates"
+        },
+        {
+          "title": "Project window",
+          "answer": "The topic sets no project duration or start date; these are fixed in each grant agreement.\n- Required start: normally after the grant agreement is signed, around 8 months after the deadline (so about November 2027); an earlier start is possible only exceptionally",
+          "sources": "Horizon Europe Work Programme 2026–2027, Part 15 General Annexes · pp. 30–31 · F — Indicative timetable; G — Starting date and project duration"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Results around August 2027 and grant signature around November 2027, both indicative.\n- Expected assessment result: around 5 months after the 18 March 2027 deadline\n- Grant agreement: around 8 months after the deadline\n- Conditions before starting: all beneficiaries must be validated in the Participant Register and pass the legal, financial-capacity and exclusion checks; invitation to grant preparation is not yet a commitment to fund",
+          "sources": "Horizon Europe Work Programme 2026–2027, Part 15 General Annexes · pp. 29–30 · F — Evaluation procedure; Indicative timetable"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "A complete electronic proposal with Part A, Part B within the page limit, an exploitation and dissemination plan and an ownership control declaration where required.\n- Application form: Part A filled in online and Part B (technical description) uploaded as PDF in the Funding & Tenders Portal, standard Horizon Europe RIA/IA form, at most 40 pages; excess pages are not read\n- Budget: a summarised budget per participant in Part A\n- Mandatory annexes: the plan for exploitation and dissemination of results inside the proposal; the ownership control declaration listed among the call-specific documents\n- Partner documents: the coordinator confirms the mandate of all applicants; each beneficiary signs a declaration of honour before the grant\n- Registration: each beneficiary needs a PIC (participant identification code) in the Participant Register before submission",
+          "sources": "Horizon Europe Work Programme 2026–2027, Part 15 General Annexes · pp. 4–5 · A — Admissibility; B — Entities eligible to participate\nHorizon Europe Work Programme 2026–2027, Part 15 General Annexes · p. 27 · E — Documents\nFunding & Tenders Portal topic page HORIZON-CL4-2027-04-DATA-08 · Call-specific instructions"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Proposals are scored on Excellence, Impact and Implementation, each out of 5, and Impact weighs 1.5 times in the ranking.\n- Evaluation criteria: Excellence (objectives, ambition beyond the state of the art, methodology), Impact (credible pathways to the topic's expected outcomes, dissemination and exploitation) and Quality and efficiency of implementation (work plan, resources, consortium capacity)\n- Thresholds: at least 3 out of 5 per criterion and 10 out of 15 overall\n- Weighting: Impact is weighted 1.5 for ranking Innovation Actions\n- Ranking rules: with equal scores, proposals covering aspects not yet covered by higher-ranked ones come first, then the Impact score, then Excellence; up to two projects are expected, one on mobility and one on another sector",
+          "sources": "Horizon Europe Work Programme 2026–2027, Part 15 General Annexes · pp. 23, 26, 28 · D — Award criteria; Scores and weighting; F — Evaluation procedure and ranking\nHorizon Europe Work Programme 2026–2027, Part 7 Digital, Industry and Space · pp. 111–113 · HORIZON-CL4-2027-04-DATA-08, Expected Outcome and Scope"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Entities controlled from outside the eligible countries need positively assessed guarantees to take part.\n- Conditional — control by a non-eligible country: such an entity may take part only if its eligible country of establishment positively assesses guarantees protecting the EU's strategic interests; entities controlled from China cannot submit guarantees\n- Conditional — results that could feed into standards: beneficiaries must, for four years after the project, inform the EU if results could contribute to standards\n- Recommended: involve SMEs, scale-ups and start-ups, and liaise with the 2025 coordination and support action and the end-user advisory group",
+          "sources": "Horizon Europe Work Programme 2026–2027, Part 7 Digital, Industry and Space · pp. 110–111 · HORIZON-CL4-2027-04-DATA-08, Specific conditions\nHorizon Europe Work Programme 2026–2027, Part 15 General Annexes · p. 34 · G — Provisions concerning project implementation\nHorizon Europe Work Programme 2026–2027, Part 7 Digital, Industry and Space · pp. 111–113 · HORIZON-CL4-2027-04-DATA-08, Expected Outcome and Scope"
+        }
+      ]
+    }
+  ]
+}
