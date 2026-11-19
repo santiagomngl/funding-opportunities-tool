@@ -1,0 +1,28 @@
+{
+  "id": "20261119-103945-04",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "Nationale Investeringsregeling Klimaatprojecten Industrie (NIKI) 2026 – Nationale Investeringsregeling Klimaatprojecten Industrie (NIKI)",
+  "organization_or_parent_framework": "Netherlands Enterprise Agency (RVO)",
+  "programme": "Nationale Investeringsregeling Klimaatprojecten Industrie (NIKI)",
+  "call_title": "Nationale Investeringsregeling Klimaatprojecten Industrie (NIKI) 2026",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://www.rvo.nl/subsidies-financiering/niki",
+  "executive_summary": "A Dutch tender, commissioned by the Ministry of Climate and Green Growth, that funds industrial companies (manufacturing, and waste and wastewater treatment) investing in a production installation in the Netherlands that applies an innovative technology on a commercial scale to cut greenhouse gas emissions, through direct savings in the production process (themes including process efficiency, electrification and hydrogen) or by replacing primary fossil carbon in product chains. The subsidy covers the funding gap over investment and ten years of operation, must be at least EUR 30 million per project, and is awarded by ranking bids in euros per tonne of CO2 avoided, up to EUR 300 per tonne. The 2026 round has EUR 250 million and closes on 16 December 2026 at 17:00; the idea-submission phase has closed.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2026-12-16",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-19",
+  "status_rationale": "The tender funds commercial-scale industrial installations in the Netherlands that cut CO2 emissions through process efficiency, electrification, hydrogen or replacing fossil carbon (RVO NIKI page, 'Waarvoor krijgt u subsidie?' and 'Voorwaarden'; Staatscourant 2026, 33351, Bijlage 4.13.1). It touches TenneT's field because industrial electrification adds large new loads and possible flexibility on a congested grid, which the RVO page itself flags; the close project files are Time-dependent transmission rights contract (Lion Storage) and CERRE study on flexibility and data centres, which deal with large flexible users, though NIKI funds the users' own plants. TenneT cannot take part: the applicant must be an industrial company in standard industry classification section C or E (subgroups 37 and 38.2) that owns the installation, and projects building new infrastructure are excluded (RVO NIKI page, 'Voorwaarden' and 'Waarvoor krijgt u geen subsidie?'). The category is flexibility and demand, as the call funds industrial electrification and process change that shape future grid demand.",
+  "call_type": "Type 3",
+  "category_codes": ["C3.3"],
+  "taxonomy_values": {
+    "topic": ["T10", "T9"],
+    "role": [],
+    "activity": ["A10"],
+    "outcome": ["O5"]
+  }
+}

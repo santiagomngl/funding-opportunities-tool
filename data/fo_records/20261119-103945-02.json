@@ -1,0 +1,28 @@
+{
+  "id": "20261119-103945-02",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "Call 6: Take it UP! – Interreg North Sea",
+  "organization_or_parent_framework": "Interreg North Sea 2021-2027 (European Regional Development Fund)",
+  "programme": "Interreg North Sea",
+  "call_title": "Call 6: Take it UP!",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://www.rvo.nl/subsidies-financiering/interreg/interreg-north-sea",
+  "executive_summary": "A capitalisation call of the Interreg North Sea programme for small-scale transnational projects that take an achieved output of an existing 2021-2027 Interreg North Sea project and transform it for a new target group, field or domain, or geography within the programme area. Partnerships have 3 to 9 partners from at least 3 programme countries, at least 2 of them from Interreg North Sea projects of 2021-2027; any legal entity in the programme area (the whole of the Netherlands) may take part, but private companies cannot be lead partner. Projects last 18 to 24 months with a total budget of up to EUR 1 million, and partners in EU Member States are reimbursed 60% of their costs (staff costs plus a 40% flat rate). The call has up to EUR 10.6 million from the European Regional Development Fund plus EUR 300,000 Norwegian funding; it opens on 1 December 2026 and closes on 15 March 2027 at 12:00 CET.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-03-15",
+  "earliest_project_start_date": "2027-05-01",
+  "project_end_date": "2029-06-30",
+  "minimum_project_size": null,
+  "maximum_project_size": 1000000,
+  "date_last_checked": "2026-11-19",
+  "status_rationale": "The call funds small-scale transnational projects that take up and upscale achieved outputs of 2021-2027 Interreg North Sea projects for a new target group, field or geography, under any of the four programme priorities, including green transitions and rural renewable energy solutions (Guidance Note Call 6, pp. 4-8, 'Special information for call 6'). It touches TenneT's field through the North Sea energy transition and regional cooperation on grids and renewables, close to the project files Energy boards, Renewables Grid Initiative (RGI) and Offshore TSO Collaboration (OTC), though it funds capitalisation of earlier project outputs rather than grid technology. Any legal entity in the programme area, which covers the whole of the Netherlands, may be a partner, private companies are welcome but cannot be lead partner, and all partners in EU Member States are reimbursed 60% of their costs (Guidance Note, pp. 9, 11 and 14), so TenneT can take part as a funded consortium partner.",
+  "call_type": "Type 1",
+  "category_codes": ["C1.3"],
+  "taxonomy_values": {
+    "topic": ["T7", "T9"],
+    "role": ["R2"],
+    "activity": ["A7", "A13", "A16"],
+    "outcome": ["O5"]
+  }
+}

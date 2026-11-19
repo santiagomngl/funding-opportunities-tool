@@ -1,0 +1,28 @@
+{
+  "id": "20261119-103945-05",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "Onderzoek Energiehubs (EHUB) – Onderzoek Energiehubs (EHUB)",
+  "organization_or_parent_framework": "Netherlands Enterprise Agency (RVO)",
+  "programme": "Onderzoek Energiehubs (EHUB)",
+  "call_title": "Onderzoek Energiehubs (EHUB)",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://www.rvo.nl/subsidies-financiering/ehub",
+  "executive_summary": "A Dutch subsidy, commissioned by the Ministry of Climate and Green Growth from the Climate Fund, for groups of at least three unrelated companies with large grid connections that want to form or extend an energy hub: a local collective arrangement to use transport capacity on the distribution or transmission grid more efficiently, through shared contracts, storage, conversion or demand steering. It funds an exploratory scan (fixed EUR 5,000 or EUR 8,500) and an in-depth study of the organisational, technical, financial or legal design of the hub (70% of costs, EUR 25,000 to 42,000, for a new hub; 40%, EUR 25,000 to 32,000, for an extension), which must be completed within one year. The budget of EUR 9.6 million is allocated first come, first served; applications are open from 1 October 2026 to 1 May 2027 at 17:00.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-05-01",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": 80000,
+  "date_last_checked": "2026-11-19",
+  "status_rationale": "The scheme funds scans and studies by groups of companies with large connections to form or extend energy hubs that use grid transport capacity more efficiently, including design of a group transport agreement with the distribution or transmission system operator (Staatscourant 2026, 31575, articles 4.16.1, 4.16.2 and 4.16.10). It touches TenneT's field directly: it targets grid congestion and flexible collective connection contracts, close to the project files Time-dependent transmission rights contract (Lion Storage), Energy boards and DataFleX, though it funds the users' preparatory studies rather than grid work. Only companies in the hub may apply, but the rules give the system operator a role: hubs on the transmission system need a written statement prepared with the transmission system operator where needed, and a study must design the contract terms and group capacity limits with the operator concerned (articles 4.16.9, onderdeel h, and 4.16.10, tweede lid, with explanatory notes), so TenneT can take part without funding. The categories are data provider for the grid information and supporting role for the written statements and contract design.",
+  "call_type": "Type 2",
+  "category_codes": ["C2.2", "C2.4"],
+  "taxonomy_values": {
+    "topic": ["T5", "T6"],
+    "role": ["R7", "R9"],
+    "activity": ["A3", "A14"],
+    "outcome": ["O7", "O10"]
+  }
+}

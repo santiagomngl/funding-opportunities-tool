@@ -1,0 +1,28 @@
+{
+  "id": "20261119-103945-03",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "Mijn cyberweerbare zaak (MCZ) – Mijn cyberweerbare zaak (MCZ)",
+  "organization_or_parent_framework": "Netherlands Enterprise Agency (RVO)",
+  "programme": "Mijn cyberweerbare zaak (MCZ)",
+  "call_title": "Mijn cyberweerbare zaak (MCZ)",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://www.rvo.nl/subsidies-financiering/mcz",
+  "executive_summary": "A Dutch subsidy, commissioned by the Ministry of Economic Affairs and Climate, for self-employed people and micro and small businesses with at most 50 employees and less than EUR 10 million turnover to buy and implement measures that protect their internal IT systems, such as firewalls, password managers, multi-factor authentication, backups and cyber-awareness training. The subsidy is 50% of eligible costs, with eligible costs of at least EUR 400 and a maximum subsidy of EUR 1,250 per business, after a mandatory CyberVeilig Check of the National Cyber Security Centre. The budget is EUR 1 million and applications close on 30 November 2026 at 17:00.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2026-11-30",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": 400,
+  "maximum_project_size": 2500,
+  "date_last_checked": "2026-11-19",
+  "status_rationale": "The scheme reimburses micro and small businesses for buying basic cybersecurity products and services for their own internal IT systems (RVO MCZ page, 'Waarvoor kunt u subsidie krijgen?' and 'Voorwaarden'). It does not touch TenneT's field: it concerns the office IT of small businesses in any sector, not the energy system or critical infrastructure, and no project file is close to it.",
+  "call_type": "Not relevant",
+  "category_codes": [],
+  "taxonomy_values": {
+    "topic": [],
+    "role": [],
+    "activity": [],
+    "outcome": []
+  }
+}
