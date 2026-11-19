@@ -1,0 +1,28 @@
+{
+  "id": "20261119-095840-01",
+  "source": "NWO",
+  "display_title": "Big Chemistry 2026 – Big Chemistry",
+  "organization_or_parent_framework": "NWO (Dutch Research Council), Domain Science",
+  "programme": "Big Chemistry",
+  "call_title": "Big Chemistry 2026",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://www.nwo.nl/en/calls/big-chemistry-2026",
+  "executive_summary": "NWO call within the National Growth Fund programme 'Self-thinking Molecular Systems' (Big Chemistry) for proof-of-concept research that combines experimental chemistry, automation and AI in three research lines: foams and emulsions; coatings, adhesives and inks; and drug-delivery systems. The main applicant must be a researcher at a Dutch research organisation; enterprises and civil society organisations with R&D in the Netherlands may be co-applicants (funded at 40% of eligible costs), cooperation partners or co-funders. A consortium needs at least a main applicant and a co-funder, with co-funding of at least 20% of the grant (at least half in cash, of private origin). Total budget EUR 2,550,421; at most EUR 400,000 grant per project, NWO funds at most 80% of the total project size, and projects last at most 30 months. Single-stage deadline: 23 February 2027, 14:00 CET.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-02-23",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": 500000,
+  "date_last_checked": "2026-11-19",
+  "status_rationale": "The call funds proof-of-concept research that uses AI and high-throughput experiments to predict and optimise the properties of complex molecular systems for the chemical industry, in the research lines foams and emulsions, coatings/adhesives/inks and drug-delivery systems (Call for proposals NGF Big Chemistry 2026, section 2.1 Aim of the programme and 2.2 Background). It does not touch TenneT's field: AI is applied only to chemical formulation, the call names no application in energy, grids or infrastructure, and the nearest project file (Impressed Current Cathodic Corrosion Protection) concerns asset maintenance offshore, which a generic coatings-formulation research line does not address.",
+  "call_type": "Not relevant",
+  "category_codes": [],
+  "taxonomy_values": {
+    "topic": [],
+    "role": [],
+    "activity": [],
+    "outcome": []
+  }
+}
