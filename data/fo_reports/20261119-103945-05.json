@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "A scan or a study that prepares the forming or extension of an energy hub: a group of at least three companies with large grid connections that jointly use grid capacity more efficiently.\nIn this scheme an energy hub is a local collective arrangement between companies to match electricity demand and supply, use storage or conversion, or take other measures, aimed at least at more efficient or reduced use of transport capacity on the part of the distribution grid (regional grid) or transmission grid (national high-voltage grid) they are connected to. The scheme is called EHUB (Onderzoek Energiehubs, research into energy hubs) and is run by RVO (the Netherlands Enterprise Agency). It funds two things:\n- A scan (exploratory study) for forming a new hub: the group's current collective electricity use profile and future energy needs, and at least three alternative packages of measures.\n- A study (in-depth study) for forming or extending a hub: the organisational, technical, financial or legal design of the hub.",
+          "sources": "Staatscourant 2026, 31575 · Artikel 4.16.1 Begripsbepalingen; Artikel 4.16.2 Subsidieverstrekking\nOnderzoek Energiehubs (EHUB) (RVO page) · Krijgt u subsidie?"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Only scans and studies are funded; investments in the hub itself are not.\nIn scope:\n- Scan: collective use profile (based on quarter-hour values where possible) and future energy demand of the companies, and at least three packages of measures covering contracts, generation, storage, demand steering and conversion. The scan must be done after the scheme was published (4 September 2026) and before applying, and only for a new hub.\n- Study: one or more of the four design parts of a new or extended hub (organisation, technology, finance, law); the plan and final report must address all four.\nExcluded:\n- Costs of mapping a single company's own energy use.\n- Process guidance costs, such as a hub coordinator who brings the companies together; provinces offer other support for this.\n- A company may take part in only one funded scan, and in one funded study of each type.\nOther energy carriers such as heat, hydrogen or gas may be part of the hub, as long as it also aims at better use of electricity grid capacity.",
+          "sources": "Staatscourant 2026, 31575 · Artikel 4.16.2; Artikel 4.16.4 Subsidiabele kosten; Artikel 4.16.7 Afwijzingsgronden; Toelichting § 2.2 Definitie energiehub\nOnderzoek Energiehubs (EHUB) (RVO page) · Krijgt u subsidie?; Waarvoor krijgt u geen subsidie?; Voorwaarden"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "Grid congestion: companies cannot settle, expand or decarbonise because the grid is full and new capacity takes years.\nThe need lies with businesses that have large grid connections (above 3x80 ampere), for example on an industrial estate. By pooling demand, generation, storage and contracts, they hope to fit more activity within the existing grid capacity, become more sustainable and grow despite congestion. The scheme supports initiatives in an early phase where the risk of failure is relatively high.",
+          "sources": "Staatscourant 2026, 31575 · Toelichting § 1 Aanleiding en problematiek; § 2.1 Aanleiding voor de subsidiemodule EHUB\nOnderzoek Energiehubs (EHUB) (RVO page) · Voor wie?"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "For a scan, an overview of three packages of measures and the preferred choice; for a study, a design and final report of the hub.\n- Scan: the collective use profile and a comparison of at least three packages of measures, with the chosen package and reasons.\n- Study final report (if the hub looks promising): the measures to use transport capacity on the distribution or transmission grid more efficiently; where a group transport agreement (one transport contract with the grid operator for two or more connected companies together) is chosen, the design of the contract terms with that grid operator and the group's contracted capacity limits; the chosen legal form with its articles of association; the legal agreements between partners, including cost settlement; the financing of the start-up; and a business case for the first three years.\nThe hub does not actually have to be formed for the subsidy.",
+          "sources": "Staatscourant 2026, 31575 · Artikel 4.16.10 Aanvraag subsidievaststelling; Toelichting § 3.2.2 Uitkomst bij een studie\nOnderzoek Energiehubs (EHUB) (RVO page) · Uw aanvraag voorbereiden"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Better use of existing grid capacity and less congestion, so that companies can grow and decarbonise.\nRVO names three benefits: companies can grow and become more sustainable despite congestion, they gain insight into their flexible capacity (how many kW they can use more, less or at another time), and they contribute directly to tackling congestion. The scheme is part of the national Stimuleringsprogramma Energiehubs (the government programme to promote energy hubs), funded from the Climate Fund. No numeric targets are set.",
+          "sources": "Onderzoek Energiehubs (EHUB) (RVO page) · Voor wie?\nStaatscourant 2026, 31575 · Toelichting § 4.3 Subsidieplafond en openstelling"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "The study must lead to a ready-to-use design for a working hub, and recipients must share their results.\n- The study's final report must set out the legal form, partner agreements, contract terms with the grid operator, start-up financing and a three-year business case, so that the hub can be formed or extended afterwards.\n- During a study, the recipient must join the provincial energy hub programme where one exists.\n- Recipients must cooperate, on request, in spreading their results and in an evaluation of the scheme.\n- The initiative must be registered on the Initiatievenradar (initiatives map) of the Kennisplatform Energiehubs.\nForming the hub is not a condition for the subsidy.",
+          "sources": "Staatscourant 2026, 31575 · Artikel 4.16.8 Verplichtingen subsidieontvanger; Artikel 4.16.10; Toelichting § 7.3 Kennisdeling\nOnderzoek Energiehubs (EHUB) (RVO page) · Voorwaarden"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "At least three unrelated companies with a large grid connection; there is no maximum.\nCompanies in the same group (for example parent and subsidiary) count as one. Other companies may join the hub, may be related to one of the three, and need not have a large connection. The scan subsidy is higher for six or more companies.",
+          "sources": "Onderzoek Energiehubs (EHUB) (RVO page) · Voorwaarden\nStaatscourant 2026, 31575 · Artikel 4.16.3 Hoogte subsidie; Toelichting Artikel 4.16.2"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "Companies with large grid connections (above 3x80 ampere) on the same part of the grid; no research or public partners are required.\nProducers of energy and social organisations such as schools, sports clubs or care institutions may join if they meet the partner conditions. For a hub on the regional grid, the partners must be on the same ring (a loop of underground cables, for example on an industrial estate); for a hub on the national grid, the grid operator must confirm in writing that the partners can cooperate at that level. Each partner signs a letter of intent confirming it is actively involved and will help form or extend the hub.",
+          "sources": "Onderzoek Energiehubs (EHUB) (RVO page) · Voorwaarden; Uw aanvraag voorbereiden; Veelgestelde vragen\nStaatscourant 2026, 31575 · Artikel 4.16.9, onderdeel h"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "The applicant decides who does the work; advisers or the companies' own staff may carry out the scan or study.\nOne company applies on behalf of the group and receives the subsidy. The plan of approach for a study must say which tasks are done, by whom, how and where, with a schedule and financing plan. Costs are calculated at a fixed hourly rate of EUR 60.",
+          "sources": "Onderzoek Energiehubs (EHUB) (RVO page) · Wie voert de scan uit?; Uw aanvraag voorbereiden\nStaatscourant 2026, 31575 · Artikel 4.16.4, vierde lid; Toelichting Artikel 4.16.4"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "One company with a large connection that will be part of the hub, or, for extending a hub, the legal entity set up for it.\nFor a scan or a study on a new hub, a single company with a large connection applies. For extending an existing hub, the hub's legal entity (for example a cooperative, private company or foundation) or one of its member companies applies. An authorised representative such as a park manager, hub coordinator, business association or municipality may submit on their behalf.",
+          "sources": "Onderzoek Energiehubs (EHUB) (RVO page) · Bepaal wie de aanvraag doet\nStaatscourant 2026, 31575 · Toelichting § 2.4 Aanvragers"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "No: only companies that are part of the hub, or its legal entity, may apply.\nTenneT is the transmission system operator, not one of the companies in the hub, so it cannot lead or apply.",
+          "sources": "Staatscourant 2026, 31575 · Artikel 4.16.2; Toelichting § 2.4 Aanvragers\nOnderzoek Energiehubs (EHUB) (RVO page) · Bepaal wie de aanvraag doet"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes, as grid operator for hubs on the national grid, without funding.\n- Written statement: a hub that wants to cooperate on the national high-voltage grid (the transmission system TenneT operates) must include a written statement from its grid operator that the partners can cooperate at that level. The explanatory notes say this statement comes from the regional grid operator, in consultation with the transmission system operator where needed.\n- Contract design: if a study chooses a group transport agreement, its final report must contain the design of the contract terms with the grid operator concerned (regional or transmission) and the group's contracted capacity limits; for a hub on TenneT's grid this means working out terms with TenneT.\n- Data: the hub's business case may include the price of the contract form at the grid operator.\nThese roles follow from TenneT's task as grid operator; the scheme does not pay for them.",
+          "sources": "Onderzoek Energiehubs (EHUB) (RVO page) · Verzamel alle informatie\nStaatscourant 2026, 31575 · Artikel 4.16.9, onderdeel h; Artikel 4.16.10, tweede lid; Toelichting Artikel 4.16.9; § 3.2.2"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "No: the subsidy goes only to the applying company or hub entity.\nThe scheme sets no route for a grid operator to receive funding. TenneT would bear the cost of its statements and contract discussions itself.",
+          "sources": "Staatscourant 2026, 31575 · Artikel 4.16.2; Artikel 4.16.3"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "Our interpretation: TenneT could be the counterparty that makes hubs on the high-voltage grid workable, by providing grid information and shaping group contracts.\n- Grid information for scans and studies: available capacity, congestion status and connection limits at the substation where large users connect, so that the packages of measures are realistic.\n- Contract design: group transport agreements and flexible contract forms, building on its time-dependent transmission rights contract with Lion Storage, so that hub studies end in a contract TenneT can actually offer.\n- Coordination with regional grid operators, which must issue the statement for hubs on the national grid, through the regional Energy boards.\nThe value for TenneT is more efficient use of congested transmission capacity and more flexibility it can use, without any grant.",
+          "sources": "Staatscourant 2026, 31575 · Artikel 4.16.9, onderdeel h; Artikel 4.16.10, tweede lid"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "No new technology is required: the scheme funds research and design that apply existing measures in a new collective arrangement.\nThe packages of measures may combine contracts, generation, storage, demand steering and conversion; the novelty lies in the joint organisation between companies.",
+          "sources": "Onderzoek Energiehubs (EHUB) (RVO page) · Subsidie voor een scan; Subsidie voor een studie"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Mainly market and contract arrangements and governance, combined with the technical design of the hub.\nThe study covers four design parts: organisational (how partners cooperate), technical (how the hub works), financial (business case and start-up financing) and legal (legal form, entry and exit, liability, cost sharing). Contract forms with the grid operator, such as a group transport agreement, are a central option.",
+          "sources": "Staatscourant 2026, 31575 · Artikel 4.16.2, eerste lid, onderdeel b; Artikel 4.16.10\nOnderzoek Energiehubs (EHUB) (RVO page) · Subsidie voor een studie"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Only exploration and design: a scan (feasibility) and a study (detailed design); building or operating the hub is not funded.",
+          "sources": "Staatscourant 2026, 31575 · Artikel 4.16.2; Toelichting § 2.3 Onderzoeken"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "The call sets no maturity level; a scan starts from an idea, and a study ends with a design ready for forming or extending the hub.",
+          "sources": "Staatscourant 2026, 31575 · Toelichting § 2.3 Onderzoeken; Artikel 4.16.10"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "No demonstration is required; the work is a desk study based on the companies' real use data.\nThe collective use profile should use quarter-hour values from the metering company or smart meter where available, and otherwise estimates.",
+          "sources": "Onderzoek Energiehubs (EHUB) (RVO page) · Verzamel alle informatie"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The study must cover all four design parts together and fit the hub to the grid connection and grid operator's contract options.\nEven when only part of the design is funded, the plan and final report must address organisation, technology, finance and law. The measures must relate to the part of the distribution or transmission grid where the partners are connected, and recipients of a study must take part in the provincial energy hub programme.",
+          "sources": "Staatscourant 2026, 31575 · Toelichting Artikel 4.16.2; Artikel 4.16.8; Artikel 4.16.10"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "The final report must show whether the hub is promising and, if so, set out its measures, contracts, legal form and three-year business case.\nThe report uses RVO's format; no numeric indicators are set.",
+          "sources": "Staatscourant 2026, 31575 · Artikel 4.16.10; Toelichting § 3.2.2\nOnderzoek Energiehubs (EHUB) (RVO page) · Uw aanvraag is goedgekeurd"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "The users are the partners: every partner company must be actively involved in the scan or study and commit to help form the hub, by signed letter of intent.",
+          "sources": "Onderzoek Energiehubs (EHUB) (RVO page) · Bereid uw verklaringen voor; Veelgestelde vragen"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "EUR 9.6 million in total; up to EUR 8,500 for a scan and up to EUR 42,000 for a study.\n- Grant request (scan): fixed EUR 5,000 for up to five companies, EUR 8,500 for six or more.\n- Grant request (study, new hub): 70% of eligible costs, at least EUR 25,000 and at most EUR 42,000.\n- Grant request (study, extension): 40% of eligible costs, at least EUR 25,000 and at most EUR 32,000.\n- Funding form: fixed amount for a scan; share of costs at a fixed hourly rate of EUR 60 for a study. If a scan and study are requested together, the scan amount counts towards the EUR 25,000 minimum and the study maximum no longer applies.",
+          "sources": "Staatscourant 2026, 31575 · Artikel 4.16.3 Hoogte subsidie; Artikel 4.16.4; Artikel II\nOnderzoek Energiehubs (EHUB) (RVO page) · Hoeveel subsidie krijgt u?"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "Rates depend on the study type, not on company size.\n- Study for a new hub: 70%; the companies pay 30%.\n- Study for extending a hub: 40%; the companies pay 60%.\n- Scan: fixed amount, paid after the scan is done.\nThe subsidy contains no state aid.",
+          "sources": "Staatscourant 2026, 31575 · Artikel 4.16.3; Artikel 4.16.12 Staatssteun"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Only costs of the scan or study count, at EUR 60 per hour.\n- Eligible costs: scan costs incurred before applying; study costs after approval.\n- Excluded costs: mapping individual companies' energy use, and process guidance.",
+          "sources": "Staatscourant 2026, 31575 · Artikel 4.16.4 Subsidiabele kosten"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "The scan is pre-financed by the companies; a study gets a 90% advance.\n- Payment model: scan subsidy paid after approval; study 90% advance, remaining 10% after the final report is accepted.",
+          "sources": "Onderzoek Energiehubs (EHUB) (RVO page) · Hoeveel subsidie krijgt u?; Uw aanvraag is goedgekeurd\nStaatscourant 2026, 31575 · Toelichting § 6 Aanvragen"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage, first come first served, until 1 May 2027, 17:00.\n- Stage 1 — Application: 1 October 2026, 9:00 to 1 May 2027, 17:00, through RVO's online portal with eHerkenning level 2+ (the Dutch business login). If budget runs short on one day, a lottery decides. RVO expects the budget not to be fully used.",
+          "sources": "Onderzoek Energiehubs (EHUB) (RVO page) · Budget en aanvraagperiode; Aanvragen\nStaatscourant 2026, 31575 · Toelichting § 13 Inwerkingtreding"
+        },
+        {
+          "title": "Project window",
+          "answer": "A study must be finished within one year of the date on RVO's decision letter; a scan is done before applying.\n- Maximum duration: 12 months for a study.\n- Required start: the date on the decision letter.\n- Eligible-cost period: for a scan, after 4 September 2026 and before the application.",
+          "sources": "Staatscourant 2026, 31575 · Artikel 4.16.6 Realisatietermijn\nOnderzoek Energiehubs (EHUB) (RVO page) · Voorwaarden; Uw aanvraag is goedgekeurd"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Decisions are sent from 1 January 2027.\n- Funding decision: a scan gets a decision that also fixes the subsidy; a study gets a provisional decision with an advance, and a final decision after the final report.",
+          "sources": "Onderzoek Energiehubs (EHUB) (RVO page) · Na uw aanvraag; Uw aanvraag is goedgekeurd\nStaatscourant 2026, 31575 · Artikel 4.16.10, eerste lid"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "Company details, grid operator statement, use profile, formats and two declarations.\n- Application form: RVO online form with company details and registration number on the Initiatievenradar.\n- Mandatory annexes: an overview of the ring from the regional grid operator, or for hubs on the national grid a written statement from the grid operator; the format Collectief gebruiksprofiel with a graph of current use and future plans; the format Individuele energiehuishouding per partner (new hub); the format Maatregelenpakketten (scan); the format Plan van aanpak studie (study).\n- Partner documents: declarations that at least three partners have a large connection and that all partners signed a letter of intent.\n- Registration: eHerkenning level 2+.",
+          "sources": "Onderzoek Energiehubs (EHUB) (RVO page) · Uw aanvraag voorbereiden\nStaatscourant 2026, 31575 · Artikel 4.16.9 Informatieverplichtingen"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "No scoring: complete applications that meet the conditions are funded in order of receipt.\n- Thresholds: a study is rejected if its plan of approach is of insufficient quality in its effective and efficient use of resources.\n- Ranking rules: order of receipt; a lottery if the budget is exceeded on one day.",
+          "sources": "Staatscourant 2026, 31575 · Artikel 4.16.5; Artikel 4.16.7, onderdeel c\nOnderzoek Energiehubs (EHUB) (RVO page) · Budget en aanvraagperiode"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Different documents apply depending on the grid level and type of hub.\n- Conditional — hub on the national grid: a written statement from the grid operator that the partners can cooperate at that level, instead of the ring overview.\n- Conditional — study result is promising: the final report must include the contract design with the grid operator if a group transport agreement is chosen.\n- Exception — extension of an existing hub: only a study is possible, at 40%, and the hub's legal entity may apply.",
+          "sources": "Onderzoek Energiehubs (EHUB) (RVO page) · Verzamel alle informatie\nStaatscourant 2026, 31575 · Artikel 4.16.9, onderdeel h; Artikel 4.16.10; Artikel 4.16.3"
+        }
+      ]
+    }
+  ]
+}
