@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "Investments by a municipality that improve the quality of life of residents living with a new 220/380 kV high-voltage project, chosen together with those residents.\nThe grant is a one-off specific grant (specifieke uitkering, money the national government gives a municipality for a set purpose) for municipalities where one of the following is built on land:\n- a new 220/380 kV substation;\n- a substantial extension of an existing 220/380 kV substation (the area zoned for it grows by at least 100% or at least 5 hectares);\n- a new 220/380 kV overhead line of at least 1 kilometre within the municipality.\nThe project must rest on a project decision or another planning decision under the Environment and Planning Act (Omgevingswet) taken between 1 January 2024 and 31 December 2030, and must appear on the list of eligible projects (about 30, based on the grid operator's Investment Plan 2026). Projects lying wholly on industrial or business land do not qualify. The need comes from residents and local stakeholders: the explanatory notes say the national high-voltage grid must expand sharply, that this weighs on local living conditions, and that falling public support and local resistance cause delays.",
+          "sources": "Staatscourant 2026, 26122 (Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV) · Artikel 1 Begripsbepalingen; Artikel 3 Activiteiten; Artikel 4 Netuitbreidingsprojecten; Toelichting § 2 Achtergrond; § 3 Verdeling van de middelen, Projectenlijst\nRegeling gebiedsinvesteringen hoogspanning op land 220/380 kV (RVO page) · Voor wie?; Voorwaarden"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The investments must lastingly improve the quality of life of residents near the grid extension, and so help keep regional support for expanding the high-voltage grid.\nExamples the call gives:\n- green spaces, parks or urban gardens;\n- walking and cycling paths, playgrounds and sports facilities;\n- renovation of a village or community centre or another meeting place;\n- making nearby homes more sustainable, for example collective purchase or subsidy of solar panels, heat pumps or insulation, lowering residents' energy bills.\nThe explanatory notes link this to the energy transition: without timely grid extension, climate targets slip out of reach and the costs of grid congestion rise. Measures the grid project's developer must take anyway for landscape integration are not eligible; extra measures beyond the legal requirements are.",
+          "sources": "Staatscourant 2026, 26122 (Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV) · Artikel 2 Doel van de regeling; Toelichting § 2 Achtergrond; § 4 Inzet middelen\nRegeling gebiedsinvesteringen hoogspanning op land 220/380 kV (RVO page) · Waarvoor krijgt u de specifieke uitkering?"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "Only Dutch municipalities with an eligible 220/380 kV project may apply; there is no consortium.\n- Lead applicant: the municipality where the substation or line is built. Where a line crosses several municipalities, each applies for its own kilometres.\n- Partners: none are required. The municipality must organise a participation process that invites at least all residents within 200 metres of the project.\n- Distribution of work: the municipality chooses and carries out the investments; contractors or local organisations may build them, but the municipality must avoid unlawful state aid to companies that build the facilities.\n- Suits best: municipalities, and through them local organisations, community groups and contractors who carry out the quality-of-life projects.",
+          "sources": "Staatscourant 2026, 26122 (Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV) · Artikel 3; Artikel 5, derde lid, onderdeel c; Artikel 9 Participatie; Artikel 12, derde lid; Toelichting § 5 Participatieproces\nRegeling gebiedsinvesteringen hoogspanning op land 220/380 kV (RVO page) · Voor wie?; Waarvoor krijgt u de specifieke uitkering?"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": "Nothing is demonstrated: the investments are realised in the area around the high-voltage project and must follow from the participation process.\nThe municipality must take residents' input as the starting point, record its choices in a spending plan approved by the municipal council, and explain to participants where it departs from their wishes. This participation is separate from the participation on the spatial integration of the grid project itself, and the scheme's money may not replace measures the grid project's developer must already take under planning law.",
+          "sources": "Staatscourant 2026, 26122 (Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV) · Artikel 9; Artikel 10 Raadsbesluit; Artikel 11 Bestedingsplan; Toelichting § 4 Inzet middelen (Wettelijke ruimtelijke inpassing initiatiefnemer); § 5 Participatieproces"
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "The scheme is paid out around TenneT's own onshore 220/380 kV grid extensions and aims to keep local support, which could reduce resistance and delays to them.\nOur judgement: the list of eligible projects, including stations such as Almere, Lelystad, Wijchen and Port of Moerdijk and lines such as Diemen-Lelystad-Ens and Vierverlaten-Ens, is based on TenneT's Investment Plan 2026, and the explanatory notes state that local resistance currently delays these projects and that residents' wishes often go beyond what TenneT is legally allowed to do. TenneT's project teams could point municipalities to the scheme early, align the timing of their project decisions with it, and coordinate their own spatial-integration measures with the municipality's spending plan, since those measures cannot be funded from the grant. TenneT cannot take part itself: only municipalities may apply, and the regulation gives the grid operator no role in the application, the participation process or the spending plan.",
+          "sources": "Staatscourant 2026, 26122 (Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV) · Artikel 3; Artikel 6; Toelichting § 2 Achtergrond; § 3 Projectenlijst; § 4 Inzet middelen; Bijlage I Projectenlijst\nFO record status_rationale (interpretation)"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "A fixed amount per eligible project, from a total budget of about EUR 193.4 million, allocated first come, first served.\n- Total project size: not set; the grant is a fixed amount, not a share of costs.\n- Grant request: EUR 6 million per new substation, EUR 3 million per substation extension, EUR 150,000 per kilometre of new overhead line (at least 1 kilometre in the municipality, rounded to one decimal), per municipality and per physical project; a line can be combined with a substation in one application.\n- Funding form: a fixed grant including VAT, paid to the municipality. The cabinet made EUR 197 million available, of which EUR 193.4 million is for the grants (including EUR 19.34 million paid into the VAT compensation fund) and about EUR 3.6 million covers RVO's costs.",
+          "sources": "Staatscourant 2026, 26122 (Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV) · Artikel 5 Hoogte, plafond en verdeling; Artikel 6, tweede lid; Toelichting § 3 Berekening; Budget\nRegeling gebiedsinvesteringen hoogspanning op land 220/380 kV (RVO page) · Budget en aanvraagperiode; Hoe hoog is de specifieke uitkering?"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "The grant is a fixed amount that does not depend on costs, and the municipality need not co-finance.\n- Co-financing conditions: none stated; VAT the municipality can recover through the VAT compensation fund or deduct is not covered by the grant.",
+          "sources": "Staatscourant 2026, 26122 (Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV) · Artikel 5; Artikel 7, tweede lid; Toelichting § 3 Berekening"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Only reasonable costs directly linked to improving residents' quality of life count, excluding recoverable VAT and measures the grid project must take anyway.\n- Eligible costs: reasonable costs directly connected with the quality-of-life investments, made from 1 October 2026 to 31 December 2036; part of the first advance may also pay for preparation, including the participation process.\n- Excluded costs: VAT the municipality can recover; landscape and spatial-integration measures the developer of the grid project is already legally required to take.\n- Overheads and VAT: the grant includes VAT, but VAT is paid into the VAT compensation fund and not to the municipality.",
+          "sources": "Staatscourant 2026, 26122 (Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV) · Artikel 7 In aanmerking komende kosten; Toelichting § 3 Berekening; Uitbetaling; § 4 Inzet middelen"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: the municipality applies online to RVO with eHerkenning level 3, from 15 October 2026, 09:00, to 31 March 2031, 17:00.\n- Stage 1 — Application: by 31 March 2031, 17:00, first come, first served; with a reference to the project decision, the amount and its calculation, and a participation plan.\n- Additional procedure: within two years of the grant decision, the municipality sends the council decision with the spending plan, the participation report and the minutes of the council meeting.\nThe project decision need not be final at the time of application.",
+          "sources": "Staatscourant 2026, 26122 (Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV) · Artikel 6 Aanvraag; Artikel 10 Raadsbesluit; Toelichting § 3 Reikwijdte regeling\nRegeling gebiedsinvesteringen hoogspanning op land 220/380 kV (RVO page) · Uw aanvraag voorbereiden; Aanvragen"
+        },
+        {
+          "title": "Project window",
+          "answer": "Investments must be realised within about five years of the grant, and costs count from 1 October 2026 to 31 December 2036.\n- Maximum duration: two years to adopt the council decision, then three years to carry out the investments.\n- Eligible-cost period: 1 October 2026 to 31 December 2036.\n- Completion deadline: within three years of the council decision; in exceptional cases, for example when the investment can only start during or after construction of the grid project, the municipality may ask for an extension.",
+          "sources": "Staatscourant 2026, 26122 (Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV) · Artikel 7, eerste lid; Artikel 10, eerste lid; Artikel 12, eerste en tweede lid; Toelichting § 3 Uitbetaling; § 7 Inrichting proces\nRegeling gebiedsinvesteringen hoogspanning op land 220/380 kV (RVO page) · Na uw aanvraag"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "RVO decides within 8 weeks of a complete application, extendable once by 8 weeks.\n- Funding decision: within 8 weeks, or at most 16 weeks.\n- Grant agreement: none; the first advance of 20% (excluding VAT) is paid within two weeks of the decision, and the second advance of 80% within eight weeks of receiving the council decision and its annexes.",
+          "sources": "Staatscourant 2026, 26122 (Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV) · Artikel 6, vierde en vijfde lid; Artikel 8 Voorschotten\nRegeling gebiedsinvesteringen hoogspanning op land 220/380 kV (RVO page) · Na uw aanvraag"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "The application must include the municipality's details, a reference to the project decision, the calculated amount and a participation plan.\n- Application form: online through RVO with eHerkenning level 3 and authorisation for RVO services at eH3.\n- Mandatory annexes: a participation plan describing the groups of residents and stakeholders, how they are informed and can give input, how their input is processed and fed back, and a timeline (RVO will publish a format).\n- Registration: Chamber of Commerce number and bank details of the municipality.",
+          "sources": "Staatscourant 2026, 26122 (Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV) · Artikel 6, derde lid; Artikel 9, eerste lid\nRegeling gebiedsinvesteringen hoogspanning op land 220/380 kV (RVO page) · Uw aanvraag voorbereiden"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Applications are not scored: complete applications are granted in order of receipt while budget lasts, and rejected only if the municipality is unlikely to meet its obligations.",
+          "sources": "Staatscourant 2026, 26122 (Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV) · Artikel 5, tweede lid; Artikel 13 Afwijsgronden"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Conditions apply when the project decision falls away or the work slips.\n- Conditional — project decision annulled after payment: the grant is settled at the amount actually spent on participation activities and the rest must be repaid.\n- Conditional — investments cannot be completed in time: the municipality must report this to RVO at once (at least four months before the deadline) and may ask for an extension.\n- Exception — a substation and a line decided at different times: only one grant per physical project; the municipality should invite stakeholders of the later decision to the first participation process or wait for the last decision.\n- Recommended: RVO's expert pool for energy infrastructure projects can help set up the participation process, and a communication toolkit is available.",
+          "sources": "Staatscourant 2026, 26122 (Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV) · Artikel 14; Artikel 15, derde lid; Artikel 16; Toelichting § 3 Reikwijdte regeling; § 7 Inrichting proces\nRegeling gebiedsinvesteringen hoogspanning op land 220/380 kV (RVO page) · Krijg hulp bij het participatieproces; Gebruik de communicatietoolkit"
+        }
+      ]
+    }
+  ]
+}

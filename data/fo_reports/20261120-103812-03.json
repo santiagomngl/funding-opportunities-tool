@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "Large-scale installations that produce renewable electricity, gas or heat, or that cut CO2 emissions, built and operated by the producer that applies.\nThe SDE++ (Stimulering Duurzame Energieproductie en Klimaattransitie, the main Dutch operating subsidy for renewable energy and CO2 reduction) funds techniques in five main categories:\n- Renewable electricity: for example solar PV on roofs, land or water, and onshore wind turbines.\n- Renewable gas: for example green gas from biomass.\n- Renewable heat: for example geothermal energy, aquathermal energy, solar thermal and heat pumps.\n- Low-carbon heat: for example electric boilers (e-boilers) and process-integrated heat pumps.\n- Low-carbon production: for example hydrogen from electrolysis and CO2 capture with use or permanent storage.\nThe need is national: the government wants to cut greenhouse gas emissions in the Netherlands by at least 55% in 2030 compared with 1990, and the subsidy covers the gap between the cost price of a technique and its market revenues so that companies invest.",
+          "sources": "Staatscourant 2026, 25954 (Regeling aanwijzing categorieën duurzame energieproductie en klimaattransitie 2026) · Artikel 2; Toelichting § 1 Doel en aanleiding; § 2 Stimulering duurzame energieproductie en klimaattransitie\nSDE++: Oriënteren, kenmerken (RVO page) · Doel SDE++; Hoe de SDE++ werkt\nSDE++: Aanvragen (RVO page) · Onder welke categorie valt uw project?"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The installations must reduce greenhouse gas emissions cost-effectively, towards the 2030 target of at least 55% less than in 1990.\nSeveral rules also shape how installations use the grid:\n- Almost all solar PV projects may contract additional feed-in capacity of at most 50% of their peak power, so that more renewable projects fit on the same grid capacity and grid congestion is limited; solar tracking systems are exempt.\n- Categories for east-west facades and vertical bifacial panels are included because their production profile has limited impact on congestion and negative prices.\n- Grid-connected electrolysers must have renewable power purchase agreements for wind or solar power covering the first year of production.\n- Ground-mounted solar must be nature-inclusive (at least 25% open space between panel rows, soil, water and ecology management and monitoring).",
+          "sources": "Staatscourant 2026, 25954 (Regeling aanwijzing categorieën duurzame energieproductie en klimaattransitie 2026) · Toelichting § 1 Doel en aanleiding; § 5 Categorieën (zon-PV)\nStaatscourant 2026, 25956 (wijziging Algemene uitvoeringsregeling SDE++, openstelling 2026) · Artikel I, onderdelen A en H; Toelichting § 2"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "Companies and non-profit organisations that will produce the energy or cut the emissions themselves; there is no consortium.\n- Lead applicant: the intended producer (beoogde producent) of the installation. The applicant must have the owner's consent for the site, the necessary permits, and must not be a company in difficulty.\n- Partners: none required; an intermediary may apply on the producer's behalf with an authorisation form.\n- Distribution of work: one application per category per installation address.\n- Suits best: energy producers, project developers, industrial companies that electrify or capture CO2, heat suppliers, green gas producers and hydrogen producers.",
+          "sources": "Staatscourant 2026, 25954 (Regeling aanwijzing categorieën duurzame energieproductie en klimaattransitie 2026) · Artikel 2, tweede lid; Artikel 6\nStaatscourant 2026, 25956 (wijziging Algemene uitvoeringsregeling SDE++, openstelling 2026) · Artikel I, onderdeel D (artikel 2e)\nSDE++: Aanvragen (RVO page) · Voorwaarden; Stappenplan aanvragen"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": "No innovation is required: the SDE++ funds the large-scale roll-out of existing techniques that produce renewable energy or reduce emissions.",
+          "sources": "Staatscourant 2026, 25954 (Regeling aanwijzing categorieën duurzame energieproductie en klimaattransitie 2026) · Toelichting § 2 Stimulering duurzame energieproductie en klimaattransitie (Algemeen)"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "The techniques must be ready for commercial operation: the installation must be put into use, in most categories within four years of the grant decision, after which the subsidy runs for 12 or 15 years.",
+          "sources": "Staatscourant 2026, 25954 (Regeling aanwijzing categorieën duurzame energieproductie en klimaattransitie 2026) · Artikelen 13 en volgende (tijdige ingebruikname, tweede lid)\nSDE++: Oriënteren, kenmerken (RVO page) · Hoe de SDE++ werkt"
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": "Installations are not demonstrated but operated commercially at a real site, connected to the grid or to the user's processes.\nConditions link them to existing infrastructure: solar PV feed-in capacity is capped at 50% of peak power, electrolysers may be grid-connected (with renewable power purchase agreements) or on a direct line to a wind or solar park, and the subsidy is reduced by the market value of the energy produced or emissions avoided each year.",
+          "sources": "Staatscourant 2026, 25954 (Regeling aanwijzing categorieën duurzame energieproductie en klimaattransitie 2026) · Toelichting § 5 Categorieën; Artikel 73 (waterstof uit elektrolyse)\nStaatscourant 2026, 25956 (wijziging Algemene uitvoeringsregeling SDE++, openstelling 2026) · Artikel I, onderdeel H\nSDE++: Oriënteren, kenmerken (RVO page) · Correctiebedrag"
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "The SDE++ decides which large renewable plants, e-boilers, heat pumps and electrolysers get built in the Netherlands, and so shapes future grid connections, congestion and flexible demand on TenneT's grid.\nOur judgement: the 2026 rules already steer grid use, with the 50% feed-in cap for solar PV and categories that favour production profiles with less congestion, and the round funds flexible electric loads such as e-boilers and grid-connected electrolysers that could become sources of flexibility, close to TenneT's time-dependent transmission contracts and its work on flexibility markets. TenneT could use the round's results to anticipate connection requests and could point developers of flexible loads to its flexible connection contracts. TenneT cannot take part itself: only the intended producer of an installation may apply, and the rules set out no role for a grid operator.",
+          "sources": "Staatscourant 2026, 25954 (Regeling aanwijzing categorieën duurzame energieproductie en klimaattransitie 2026) · Toelichting § 5 Categorieën (zon-PV); Artikel 73\nSDE++: Aanvragen (RVO page) · Voorwaarden\nFO record status_rationale (interpretation)"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "EUR 8 billion for the whole 2026 round, with EUR 750 million each reserved for high-temperature heat, low-temperature heat and molecules.\n- Total project size: not limited; the subsidy depends on the installation's actual production or emission reduction.\n- Grant request: up to the base amount (basisbedrag, the maximum cost price per unit of energy or tonne of CO2) of the category, or a lower amount the applicant bids, times the eligible production, over 12 or 15 years.\n- Funding form: an operating subsidy for the unprofitable gap (onrendabele top): each year the subsidy equals the base amount minus a correction amount for market revenues, with a floor; at high energy or CO2 prices the subsidy can be zero.",
+          "sources": "Staatscourant 2026, 25954 (Regeling aanwijzing categorieën duurzame energieproductie en klimaattransitie 2026) · Artikel 2, eerste lid; Artikel 3\nSDE++: Oriënteren, kenmerken (RVO page) · Hoe de SDE++ werkt; Subsidie voor onrendabele top; Basis- en aanvraagbedrag; Correctiebedrag\nSDE++: Aanvragen (RVO page) · Budget en aanvraagperiode"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "There is no funding percentage: the subsidy per unit produced or CO2 avoided covers the difference between the category's base amount and the market value, so the producer finances the investment and bears the rest.\n- Co-financing conditions: the applicant may not also apply for other subsidies for the installation and may not yet have entered irreversible investment commitments; installations that already received certain hydrogen or cooperative energy subsidies, or an energy investment tax deduction declaration, are rejected.",
+          "sources": "SDE++: Oriënteren, kenmerken (RVO page) · Subsidie voor onrendabele top\nSDE++: Aanvragen (RVO page) · Voorwaarden\nStaatscourant 2026, 25954 (Regeling aanwijzing categorieën duurzame energieproductie en klimaattransitie 2026) · Artikel 6, eerste lid"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One application stage of five phases, online through RVO with eHerkenning level 3, from 27 October 2026, 09:00, to 26 November 2026, 17:00.\n- Phase 1: 27 October, 09:00, to 2 November 2026, 17:00, maximum EUR 75 per 1,000 kg greenhouse gas avoided\n- Phase 2: to 9 November 2026, 17:00, maximum EUR 150\n- Phase 3: to 16 November 2026, 17:00, maximum EUR 225\n- Phase 4: to 23 November 2026, 17:00, maximum EUR 300\n- Phase 5: to 26 November 2026, 17:00, maximum EUR 300, or EUR 400 within the three reserved domains\nCheaper projects can apply in earlier phases; applications are handled first come, first served, and on the day the budget runs out the projects with the lowest expected subsidy per tonne of CO2 go first.",
+          "sources": "Staatscourant 2026, 25954 (Regeling aanwijzing categorieën duurzame energieproductie en klimaattransitie 2026) · Artikel 2, eerste lid; Artikel 3; Artikel 87 Fasebedragen; Toelichting § 2 Hekjes\nSDE++: Aanvragen (RVO page) · Stappenplan aanvragen; Aanvragen"
+        },
+        {
+          "title": "Project window",
+          "answer": "The installation must in most categories be in use within four years of the grant decision, and the subsidy then runs for 12 or 15 years depending on the category.\n- Required start: before applying, the producer may not yet have entered irreversible investment commitments.\n- Completion deadline: putting the installation into use within the term set per category, in most categories four years after the grant decision and three, five or six years in others.",
+          "sources": "Staatscourant 2026, 25954 (Regeling aanwijzing categorieën duurzame energieproductie en klimaattransitie 2026) · Artikelen 13 en volgende (tweede lid, tijdige ingebruikname)\nSDE++: Oriënteren, kenmerken (RVO page) · Hoe de SDE++ werkt\nSDE++: Aanvragen (RVO page) · Voorwaarden"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "RVO handles applications in order of receipt and sends a decision letter; very large grants and CO2 capture projects also need an implementation agreement and a bank guarantee.\n- Conditions before starting: for grants above EUR 400 million and certain CO2 capture and nature-inclusive solar applications, an implementation agreement (uitvoeringsovereenkomst) with the State within two weeks and a bank guarantee within four weeks of the decision, or the grant is withdrawn.",
+          "sources": "Staatscourant 2026, 25954 (Regeling aanwijzing categorieën duurzame energieproductie en klimaattransitie 2026) · Artikel 7 Uitvoeringsovereenkomst\nSDE++: Aanvragen (RVO page) · Na uw aanvraag"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    }
+  ]
+}

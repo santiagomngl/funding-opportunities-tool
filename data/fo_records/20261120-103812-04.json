@@ -1,0 +1,28 @@
+{
+  "id": "20261120-103812-04",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "Programmalijn 1: CO2-reducerende maatregelen anders dan waterstof en groene chemie en vergassing van reststromen – Studies voor Duurzame Industrie (STUDI)",
+  "organization_or_parent_framework": "Netherlands Enterprise Agency (RVO)",
+  "programme": "Studies voor Duurzame Industrie (STUDI)",
+  "call_title": "Studies voor Duurzame Industrie (STUDI)",
+  "call_module_title": "Programmalijn 1: CO2-reducerende maatregelen anders dan waterstof en groene chemie en vergassing van reststromen",
+  "call_year": 2026,
+  "url": "https://www.rvo.nl/subsidies-financiering/studi/studies-duurzame-industrie",
+  "executive_summary": "A Dutch subsidy of the Ministry of Climate and Green Growth, run by RVO with Energy Innovation NL, for companies in industry, alone or in a consortium with other companies or research organisations, that carry out a feasibility, environmental or comparable study (mainly desk research, pre-engineering and FEED) to prepare an investment decision on a pilot, demonstration or proven-technology project that reduces CO2 emissions in Dutch industry within ten years, for example through electrification, energy efficiency, secondary raw materials or CO2 capture. Programme line 1 covers all such measures except hydrogen, green chemistry and gasification. The subsidy is 50% of eligible costs for large companies (60% medium, 70% small), up to EUR 4 million per study (EUR 300,000 for a comparable study), and a study lasts at most one or two years. The budget of EUR 28.3 million is allocated first come, first served and is oversubscribed; applications are open from 18 May 2026, 09:00, to 31 March 2027, 17:00.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-03-31",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": 8000000,
+  "date_last_checked": "2026-11-20",
+  "status_rationale": "The scheme funds feasibility, environmental and comparable studies that prepare investment in industrial CO2-reduction projects, including replacing fossil-fuelled machines with electric ones (RNES articles 4.2.112 to 4.2.114 and bijlage 4.2.16, programme line 1, as amended by Staatscourant 2026, 15135; RVO page Waarvoor krijgt u subsidie?). It touches TenneT's field because industrial electrification drives new and larger grid connections, close to the project files Energy boards, Onshore and Offshore Grid Investment Plans 2026 and CERRE study on flexibility and data centres, although the call funds the industrial company's investment study rather than grid work. The subsidy may go to each participant in a consortium that includes at least one company that may invest in the follow-up project (RNES article 4.2.113, onderdeel b), so TenneT could be a funded partner at the 50% large-company rate in a study with an industrial company; this route is our interpretation of the rules. The category is funded consortium partner.",
+  "call_type": "Type 1",
+  "category_codes": ["C1.3"],
+  "taxonomy_values": {
+    "topic": ["T9", "T10"],
+    "role": ["R2", "R10"],
+    "activity": ["A3", "A4"],
+    "outcome": ["O5"]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "20261120-103812-03",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "SDE++ aanvraagronde 2026 – Stimulering Duurzame Energieproductie en Klimaattransitie (SDE++)",
+  "organization_or_parent_framework": "Netherlands Enterprise Agency (RVO)",
+  "programme": "Stimulering Duurzame Energieproductie en Klimaattransitie (SDE++)",
+  "call_title": "SDE++ aanvraagronde 2026",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://www.rvo.nl/subsidies-financiering/sde/aanvragen",
+  "executive_summary": "The 2026 round of the SDE++, the Dutch operating subsidy of the Ministry of Climate and Green Growth, run by RVO, for companies and non-profit organisations that produce renewable electricity, gas or heat on a large scale or reduce CO2 emissions, in five main categories: renewable electricity, renewable heat, renewable gas, low-carbon heat and low-carbon production (for example solar PV, wind, heat pumps, e-boilers, electrolysers and CO2 capture). The subsidy covers the gap between the cost price and the market value of the energy or avoided CO2 over the subsidy period. The budget is EUR 8 billion, of which EUR 750 million each is reserved for high-temperature heat, low-temperature heat and molecules; applications are submitted in five phases with rising maximum amounts from 27 October 2026, 09:00, to 26 November 2026, 17:00, and are handled first come, first served within each phase.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2026-11-26",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-20",
+  "status_rationale": "The round subsidises the production of renewable electricity, gas and heat and other CO2-reducing techniques by the intended producer, including e-boilers, heat pumps and grid-connected electrolysers (Staatscourant 2026, 25954, articles 2 to 4 and explanatory notes § 2; RVO page SDE++: Aanvragen, Voorwaarden). It touches TenneT's field because the funded installations connect to the grid and the rules shape their grid use, such as the 50% cap on contracted feed-in capacity for solar PV to limit grid congestion, close to the project files Time-dependent transmission rights contract (Lion Storage) and CERRE study on flexibility and data centres, although they fund producers rather than grid work. Only the intended producer of an installation may apply and the rules set out no role for a grid operator, so TenneT cannot take part. The category is flexibility and demand, since the round funds electrolysers, e-boilers and industrial electrification that can ease congestion.",
+  "call_type": "Type 3",
+  "category_codes": ["C3.3"],
+  "taxonomy_values": {
+    "topic": ["T7", "T9", "T10"],
+    "role": [],
+    "activity": ["A10"],
+    "outcome": ["O5", "O10"]
+  }
+}

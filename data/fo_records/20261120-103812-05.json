@@ -1,0 +1,28 @@
+{
+  "id": "20261120-103812-05",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "Programmalijn 2: Waterstof en groene chemie (GroenvermogenNL) – Studies voor Duurzame Industrie (STUDI)",
+  "organization_or_parent_framework": "Netherlands Enterprise Agency (RVO)",
+  "programme": "Studies voor Duurzame Industrie (STUDI)",
+  "call_title": "Studies voor Duurzame Industrie (STUDI)",
+  "call_module_title": "Programmalijn 2: Waterstof en groene chemie (GroenvermogenNL)",
+  "call_year": 2026,
+  "url": "https://www.rvo.nl/subsidies-financiering/studi/waterstof-en-groene-chemie",
+  "executive_summary": "A Dutch subsidy of the Ministry of Climate and Green Growth, run by RVO with Energy Innovation NL and linked to the National Growth Fund programme GroenvermogenNL, for companies, alone or in a consortium with other companies or research organisations, that carry out a feasibility, environmental or comparable study to prepare an investment decision on a pilot, demonstration or proven-technology project on hydrogen and green chemistry that reduces CO2 emissions in Dutch industry within ten years. Four sub-programmes are eligible: transport and storage of hydrogen and hydrogen carriers including conversion and import; industrial use of renewable hydrogen and green electrons; hydrogen production by electrolysis, including innovations for faster integration of electrolysers; and factories for electrolysers or their parts. The subsidy is 50% of eligible costs for large companies (60% medium, 70% small), up to EUR 4 million per study (EUR 300,000 for a comparable study), and a study lasts at most one or two years. The budget of EUR 10 million is allocated first come, first served (EUR 4.36 million left on 19 November 2026); applications are open from 18 May 2026, 09:00, to 31 March 2027, 17:00.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-03-31",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": 8000000,
+  "date_last_checked": "2026-11-20",
+  "status_rationale": "The scheme funds studies that prepare investment in hydrogen production by electrolysis, hydrogen transport, storage and conversion, and industrial use of renewable hydrogen and green electrons, including innovations for the faster integration of electrolysers (Staatscourant 2026, 15135, bijlage 4.2.16, programme line 2 and its four sub-programmes). It touches TenneT's field because large electrolysers are grid-connected flexible loads that affect congestion and balancing, close to the project files Time-dependent transmission rights contract (Lion Storage), CERRE study on flexibility and data centres and Target Grid 2045, although the call funds the developer's investment study. The subsidy may go to each participant in a consortium that includes at least one company that may invest in the follow-up project (RNES article 4.2.113, onderdeel b), so TenneT could be a funded partner at the 50% large-company rate, for example on grid integration of an electrolyser; this route is our interpretation of the rules. The category is funded consortium partner.",
+  "call_type": "Type 1",
+  "category_codes": ["C1.3"],
+  "taxonomy_values": {
+    "topic": ["T5", "T9", "T10"],
+    "role": ["R2", "R10"],
+    "activity": ["A3", "A4"],
+    "outcome": ["O5", "O10"]
+  }
+}

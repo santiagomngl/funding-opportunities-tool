@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "A desk study that prepares an industrial company's investment decision on a CO2-reducing pilot, demonstration or proven-technology project in the Netherlands, on hydrogen, its transport and storage, or green chemistry.\nSTUDI (Studies voor Duurzame Industrie, studies for sustainable industry, formerly TSE Industrie studies) funds three types of study:\n- a feasibility study (haalbaarheidsstudie) on a pilot project, in which an experimental prototype is tested in a realistic setting;\n- an environmental study (milieustudie) on a demonstration project or a project with proven technology, about investments that raise environmental protection;\n- a comparable study (vergelijkbare studie) on a demonstration or proven-technology project, funded as de-minimis aid (small amounts of state aid outside the usual EU rules).\nThe follow-up project must help reduce CO2 emissions in Dutch industry cost-effectively within ten years after the study ends. This call is programme line 2, Waterstof en groene chemie (hydrogen and green chemistry), which serves the National Growth Fund programme GroenvermogenNL (a Dutch government-funded programme to speed up the use of hydrogen and green chemistry).\nThe study must fit one of four sub-programmes:\n- Transport and storage of hydrogen and hydrogen carriers, including conversion: large-scale energy storage, conversion into other hydrogen carriers or products, and import chains; import facilities must meet the EU definition of energy infrastructure or specific infrastructure.\n- Use of hydrogen carriers and green electrons: renewable hydrogen as fuel or as feedstock for industry (including synthetic fuels), and direct use of renewable electricity in electrochemical carbon-based reactions and plasma technology.\n- Production of hydrogen: production of renewable hydrogen by electrolysis on renewable electricity, and innovations directly linked to the faster integration of electrolysers.\n- Production of electrolysers or their parts: factories for (parts of) electrolysers, with an environmental advantage over the standard production method.\nBoth renewable hydrogen and non-renewable hydrogen made from renewable electricity count; the latter must show at least 70% lifecycle greenhouse gas reduction compared with a fossil reference of 94 g CO2eq/MJ.",
+          "sources": "Regeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl, version 6 May 2026) · § 4.2.17 · Artikel 4.2.112 Begripsbepalingen; Artikel 4.2.113 Subsidieverstrekking\nStaatscourant 2026, 15135 · Bijlage A (bijlage 4.2.16), § 1 Doel; Bijlage 4.2.16, § 1 Doel; § 2 Programmalijn 2 (deelprogramma's 1 tot en met 4)\nSTUDI: Waterstof en groene chemie (GroenvermogenNL) (RVO page) · Introduction; Waarvoor krijgt u subsidie?"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Mainly desk research that answers the questions needed for an investment decision; research and development itself is excluded.\nIn scope:\n- literature research, market exploration and competitor analysis;\n- permit research and legal feasibility research;\n- working out the business case;\n- pre-engineering and parts of FEED (front-end engineering design, the detailed technical design before construction);\n- limited test work, such as testing samples, when needed to answer the feasibility questions, including preparing a test plan or buying test material.\nExcluded:\n- industrial research and experimental development, and test work aimed at improving or developing a product, process or service;\n- studies whose costs consist for more than half of test work;\n- parts of the study not needed for the investment decision;\n- studies on projects that invest in machines or production installations using fossil fuels, including natural gas, unless they only add environmental protection without raising capacity or fossil fuel use;\n- studies for a follow-up project that already received a subsidy for its implementation, unless that subsidy was the SDE++.",
+          "sources": "Staatscourant 2026, 15135 · Bijlage A (bijlage 4.2.16), § 1 Doel; Bijlage 4.2.16, § 1 Doel; § 2 Programmalijn 2 (deelprogramma's 1 tot en met 4)\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl, version 6 May 2026) · § 4.2.17 · Artikel 4.2.117, onderdeel h\nSTUDI: Waterstof en groene chemie (GroenvermogenNL) (RVO page) · Waarvoor krijgt u subsidie?; Voorwaarden; Wanneer wijzen wij uw aanvraag af?"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The need is an industrial company's: reducing its CO2 emissions in the Netherlands, where a pilot, demonstration or proven-technology investment needs a study before the company can decide to invest.\nIndustry means companies that make tangible goods, process raw materials and work with a high degree of mechanisation and automation, in practice those in the Dutch standard business classification (SBI) groups B (mining), C (manufacturing), D (only energy distribution and gas production) or E (water, waste and remediation); RVO decides at assessment whether an activity counts as industry. One of the applicants must be able to use the study results in its own company and must intend to invest in the follow-up project. The call addresses topics such as hydrogen production by electrolysis, hydrogen transport, storage and import, industrial use of hydrogen and green electrons, and electrolyser factories.",
+          "sources": "Staatscourant 2026, 15135 · Bijlage A (bijlage 4.2.16), § 1 Doel\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl, version 6 May 2026) · § 4.2.17 · Artikel 4.2.113\nSTUDI: Waterstof en groene chemie (GroenvermogenNL) (RVO page) · Voor wie?; Voorwaarden"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "A study report that supports an investment decision, plus a final report on business case, market factors and scale-up.\nWith the request for final settlement, the recipient must deliver:\n- a final report covering the financial or economic opportunities, including one or more business models; the non-technological factors for market application and how they are handled; and the scale-up and replication potential;\n- a report on the next steps the consortium will take to implement what was studied, and the expected CO2 reduction if it is implemented.",
+          "sources": "Regeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl, version 6 May 2026) · § 4.2.17 · Artikel 4.2.117a, tweede lid; Artikel 4.2.118 Aanvraag subsidievaststelling"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The follow-up project must reduce CO2 emissions in Dutch industrial processes cost-effectively within ten years after the study ends.\nCO2 reduction also includes avoiding future emissions from new factories with activities new to the Netherlands, compared with a conventional reference investment that meets Dutch minimum environmental standards; capturing atmospheric or biogenic CO2 for use or storage; producing green gas by gasification and sustainable transport fuels; and producing and importing renewable hydrogen for industry and mobility. Programme line 2 also aims at the faster and safe application of hydrogen production by electrolysis, electrochemistry, transport and storage (including import) and end uses of hydrogen, in support of GroenvermogenNL. The call sets no numeric targets, but the final report must state the expected CO2 reduction.",
+          "sources": "Staatscourant 2026, 15135 · Bijlage A (bijlage 4.2.16), § 1 Doel\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl, version 6 May 2026) · § 4.2.17 · Artikel 4.2.117a, tweede lid, onderdeel b"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "The study must lead credibly to a follow-up investment by an industrial company and its results must be shared.\n- The company must intend to invest in the follow-up project; the project plan must describe the next steps towards implementation if the result is positive, or the application is rejected.\n- The applicant must provide for good-quality knowledge dissemination.\n- The final report must cover scale-up and replication potential and the business models needed for market application.\nThe call does not require the follow-up project actually to be carried out.",
+          "sources": "Regeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl, version 6 May 2026) · § 4.2.17 · Artikel 4.2.113; Artikel 4.2.117, onderdelen b en d; Artikel 4.2.118\nSTUDI: Waterstof en groene chemie (GroenvermogenNL) (RVO page) · Voorwaarden"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "A single company may apply alone, or a consortium (samenwerkingsverband) may apply; a consortium needs at least one company with an interest in the results that intends to invest. No maximum is set.",
+          "sources": "Regeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl, version 6 May 2026) · § 4.2.17 · Artikel 4.2.113, onderdelen a en b\nSTUDI: Waterstof en groene chemie (GroenvermogenNL) (RVO page) · Extra voorwaarden voor een samenwerkingsverband"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "At least one company that takes part, has an interest in the results and plans to invest in the follow-up project; research organisations, other companies and local governments may join.\n- Municipalities and provinces may take part but receive no subsidy.\n- If a research organisation takes part, a signed collaboration agreement is needed before the study starts.\n- No company in the consortium may be a company in difficulty under EU state aid rules, unless it applies for de-minimis aid instead.\n- The call sets no country rule for partners; the follow-up project must reduce emissions in Dutch industry.",
+          "sources": "STUDI: Waterstof en groene chemie (GroenvermogenNL) (RVO page) · Voor wie?; Extra voorwaarden voor een samenwerkingsverband\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl, version 6 May 2026) · § 4.2.17 · Artikel 4.2.113"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "The consortium must be sufficiently balanced, shown by how costs are split between participants or by the ratio of private to public funding; otherwise the application is rejected.\n- Costs of a company in the applicant's own group with a Dutch establishment are subsidised up to EUR 25,000; above that, that company must itself be a participant.\n- For an environmental or comparable study on proven technology, only costs of activities by third parties outside the consortium and the group count.",
+          "sources": "Regeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl, version 6 May 2026) · § 4.2.17 · Artikel 4.2.114, zevende lid; Artikel 4.2.114a, vierde lid; Artikel 4.2.117, onderdeel c\nSTUDI: Waterstof en groene chemie (GroenvermogenNL) (RVO page) · Hoeveel subsidie krijgt u?; Extra voorwaarden voor een samenwerkingsverband"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "A company that carries out the study itself, or any participant in a consortium that includes at least one company, may apply.\nThe study must serve a possible follow-up investment by that company, or by a company in its group, and one of the applying companies must be able to use the results in its own business.",
+          "sources": "Regeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl, version 6 May 2026) · § 4.2.17 · Artikel 4.2.113\nSTUDI: Waterstof en groene chemie (GroenvermogenNL) (RVO page) · Voor wie?"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "Probably not as sole applicant, because the study must prepare an investment by a company in industry; TenneT could apply on behalf of a consortium only if it includes such a company.\nUnder the rules, the subsidy goes to a company carrying out the study for its own follow-up investment, or to a participant in a consortium. TenneT TSO B.V. transmits electricity, which is not one of the industry groups RVO names (SBI group D counts only for energy distribution and gas production), and RVO decides what counts as industry. In a consortium with an industrial company that plans to invest, TenneT could in principle submit the application, but the industrial partner is the natural lead.",
+          "sources": "Regeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl, version 6 May 2026) · § 4.2.17 · Artikel 4.2.113\nStaatscourant 2026, 15135 · Bijlage A (bijlage 4.2.16), § 1 Doel (definition of industry)\nSTUDI: Waterstof en groene chemie (GroenvermogenNL) (RVO page) · Voorwaarden"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes. TenneT can be a participant in a consortium led by an industrial company, with or without requesting subsidy for its own costs.\nThe rules only require at least one company that intends to invest; other participants are allowed. Only municipalities and provinces are excluded from receiving subsidy. TenneT could therefore also take part without requesting a grant, but the consortium must stay balanced.",
+          "sources": "Regeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl, version 6 May 2026) · § 4.2.17 · Artikel 4.2.113, onderdeel b; Artikel 4.2.117, onderdeel c\nSTUDI: Waterstof en groene chemie (GroenvermogenNL) (RVO page) · Voor wie?"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Yes, in our interpretation: each participant in a consortium can receive subsidy, so TenneT TSO B.V. could receive 50% of its eligible study costs as a large company.\n- Funding rate: 50% for a large company or research organisation (60% for a medium-sized, 70% for a small company).\n- Eligible costs: for a feasibility study the costs of the study under EU research aid rules; for an environmental study the costs under EU environmental aid rules; for a comparable study the costs of the study.\n- Cap: EUR 4 million per feasibility or environmental study and per follow-up project per round; EUR 300,000 per participant over three years for a comparable study.\nTenneT must therefore pay at least half of its own study costs itself.",
+          "sources": "Regeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl, version 6 May 2026) · § 4.2.17 · Artikel 4.2.113, onderdeel b; Artikel 4.2.114; Artikel 4.2.114a\nSTUDI: Waterstof en groene chemie (GroenvermogenNL) (RVO page) · Hoeveel subsidie krijgt u?"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "Our judgement: TenneT would be most useful as a partner in a study for a large grid-connected electrolyser or an electrochemical plant, contributing the grid side: connection location and capacity, connection timing, the scope for flexible or time-dependent transmission contracts, and how the electrolyser could respond to congestion and balancing needs. The sub-programme on innovations for the faster integration of electrolysers fits this most directly, and TenneT's experience with time-dependent transmission rights contracts and its Target Grid 2045 planning could make the follow-up investment more realistic. TenneT should keep its own costs in proportion to its role, since the consortium must be balanced and the investment must be made by the industrial partner.",
+          "sources": "STUDI: Waterstof en groene chemie (GroenvermogenNL) (RVO page) · Waarvoor krijgt u subsidie?; Extra voorwaarden voor een samenwerkingsverband\nFO record status_rationale (interpretation)"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The study itself need not produce new technology, but a pilot or demonstration project it prepares must use sufficiently innovative technology.\n- For a pilot or demonstration project, the application is rejected if the technique is not innovative enough; a demonstration project must be new to the Netherlands or apply technology in a way new to the Netherlands.\n- For a proven-technology project, the technology need not be new, but the payback time of the investment must be more than five years.",
+          "sources": "Regeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl, version 6 May 2026) · § 4.2.17 · Artikel 4.2.112 (demonstratieproject, project met uitontwikkelde technologie); Artikel 4.2.117, onderdeel i\nSTUDI: Waterstof en groene chemie (GroenvermogenNL) (RVO page) · Wanneer wijzen wij uw aanvraag af?"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "The call funds studies on technology and investment, not market or governance innovation: the object is an industrial installation or process that reduces CO2, together with its business case, permits and legal set-up.",
+          "sources": "Staatscourant 2026, 15135 · Bijlage A (bijlage 4.2.16), § 1 Doel\nSTUDI: Waterstof en groene chemie (GroenvermogenNL) (RVO page) · Waarvoor krijgt u subsidie?"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Only the study stage that comes before a pilot, demonstration or proven-technology investment; research, development and construction are excluded.\n- Feasibility study: before a pilot project.\n- Environmental study: before a demonstration project or proven-technology investment.\n- Comparable study: before a demonstration project or proven-technology investment.",
+          "sources": "Staatscourant 2026, 15135 · Bijlage A (bijlage 4.2.16), § 1 Doel (table)\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl, version 6 May 2026) · § 4.2.17 · Artikel 4.2.112"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "The call names no TRL (technology readiness level). The follow-up project ranges from a pilot, where a prototype is tested in a realistic setting, to technology already proven in one or more demonstration projects.",
+          "sources": "Regeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl, version 6 May 2026) · § 4.2.17 · Artikel 4.2.112 Begripsbepalingen"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "No demonstration is funded: the study prepares a later pilot or demonstration; only limited test work, such as testing samples, is allowed.",
+          "sources": "STUDI: Waterstof en groene chemie (GroenvermogenNL) (RVO page) · Voorwaarden\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl, version 6 May 2026) · § 4.2.17 · Artikel 4.2.117, onderdeel h"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The study must be about a concrete industrial project and must be usable in the applying company's own business.\nThe results must feed an investment decision on that project, and the project plan must describe the steps to implementation. For hydrogen import facilities, the follow-up must fit the EU definitions of energy infrastructure or specific infrastructure.",
+          "sources": "Regeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl, version 6 May 2026) · § 4.2.17 · Artikel 4.2.113; Artikel 4.2.117, onderdeel d\nStaatscourant 2026, 15135 · Bijlage A (bijlage 4.2.16), § 2"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "The final report must show the financial and economic opportunities, non-technological factors, scale-up potential and the expected CO2 reduction; for CO2 capture studies in programme line 1, also detailed cost and installation data.",
+          "sources": "Regeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl, version 6 May 2026) · § 4.2.17 · Artikel 4.2.117a, tweede lid; Artikel 4.2.118"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "The company that will use the results and invest must itself take part in the study.",
+          "sources": "Regeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl, version 6 May 2026) · § 4.2.17 · Artikel 4.2.113\nSTUDI: Waterstof en groene chemie (GroenvermogenNL) (RVO page) · Voor wie?"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "A budget of EUR 10 million, allocated first come, first served, with at most EUR 4 million subsidy per feasibility or environmental study.\n- Total project size: not limited; at 50% for a large company, the EUR 4 million cap corresponds to EUR 8 million of eligible costs.\n- Grant request: up to EUR 4 million per feasibility or environmental study, and in total per follow-up project per round; up to EUR 300,000 per company or per consortium participant over three years for a comparable study; at least EUR 25,000 for an environmental or comparable study on proven technology; at most EUR 300,000 over three years for a company in difficulty.\n- Funding form: a project subsidy on actual eligible costs.\nOn 19 November 2026, EUR 4,360,371 (44%) was still available, with EUR 5,520,328 of applications under review.",
+          "sources": "Regeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl, version 6 May 2026) · § 4.2.17 · Artikel 4.2.114, vierde tot en met zesde lid; Artikel 4.2.115; Artikel 4.2.117, onderdeel g\nStaatscourant 2026, 15135 · Artikel II, onderdeel B\nSTUDI: Waterstof en groene chemie (GroenvermogenNL) (RVO page) · Budget en aanvraagperiode"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "The subsidy is 50% of eligible costs, raised by 10 percentage points for medium-sized and 20 for small companies that incur and pay the costs themselves.\n- Large company or research organisation: 50%\n- Medium-sized company: 60%\n- Small company: 70%\n- Co-financing conditions: the participants pay the rest themselves; the consortium must be balanced in its split of costs or in its private and public funding.\n- Evidence required: an SME declaration for small and medium-sized companies; an explanation of the own contribution; a de-minimis declaration for comparable studies.",
+          "sources": "Regeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl, version 6 May 2026) · § 4.2.17 · Artikel 4.2.114, eerste tot en met derde lid; Artikel 4.2.117, onderdeel c\nSTUDI: Waterstof en groene chemie (GroenvermogenNL) (RVO page) · Hoeveel subsidie krijgt u?\nSTUDI: Aanvragen (RVO page) · Uw aanvraag voorbereiden"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Only costs directly linked to the study count, with limits on group-company costs and on test work.\n- Eligible costs: personnel and other costs directly connected with carrying out the study, supported by quotes where possible.\n- Caps or mandatory allocations: at most EUR 25,000 subsidy for costs of a group company with a Dutch establishment that is not itself a participant; test work may be at most half of the costs.\n- Excluded costs: for an environmental or comparable study on proven technology, costs within the consortium or the applicant's group.",
+          "sources": "Regeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl, version 6 May 2026) · § 4.2.17 · Artikel 4.2.114, zevende lid; Artikel 4.2.114a; Artikel 4.2.117, onderdeel h\nSTUDI: Waterstof en groene chemie (GroenvermogenNL) (RVO page) · Voor welke kosten krijgt u subsidie?"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: online through RVO with eHerkenning level 3, from 18 May 2026, 09:00, to 31 March 2027, 17:00, first come, first served.\n- Stage 1 — Application: by 31 March 2027, 17:00 (the opening table in Staatscourant 2026, 15135 prints the end date as 31-03-2026, which appears to be a typing error; RVO states 31 March 2027). Filling in takes about 1.5 hours.\n- Additional procedure: RVO offers an optional check of the project idea through a project idea form before applying.",
+          "sources": "STUDI: Waterstof en groene chemie (GroenvermogenNL) (RVO page) · Budget en aanvraagperiode; Aanvragen; Toets uw projectidee\nSTUDI: Aanvragen (RVO page) · Uw aanvraag voorbereiden; Aanvragen\nStaatscourant 2026, 15135 · Artikel II, onderdeel B"
+        },
+        {
+          "title": "Project window",
+          "answer": "A study lasts at most one year for a subsidy up to EUR 1 million and at most two years above that.\n- Maximum duration: 12 months (subsidy up to EUR 1 million) or 24 months (more than EUR 1 million).\n- Required start: with a research organisation in the consortium, not before the collaboration agreement is signed.",
+          "sources": "Regeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl, version 6 May 2026) · § 4.2.17 · Artikel 4.2.116 Realisatietermijn\nSTUDI: Waterstof en groene chemie (GroenvermogenNL) (RVO page) · Voorwaarden; Extra voorwaarden voor een samenwerkingsverband"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "RVO assesses applications in order of receipt and sends a decision; after a grant, the recipient reports progress, reports changes and applies for final settlement.\n- Conditions before starting: a signed collaboration agreement when a research organisation takes part.",
+          "sources": "STUDI: Aanvragen (RVO page) · Na uw aanvraag\nSTUDI: Waterstof en groene chemie (GroenvermogenNL) (RVO page) · Extra voorwaarden voor een samenwerkingsverband"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "An online application with the required annexes, a cost budget and statements on state aid.\n- Application form: online in Mijn RVO; save in between.\n- Budget: the costs per activity, supported by quotes.\n- Mandatory annexes: a project plan that describes the approach, risks, feasibility, participants and the steps after the study; an explanation of the own contribution.\n- Partner documents: an SME declaration where applicable; a statement that no company is in difficulty, with the decision scheme provided by the minister; a de-minimis declaration for comparable studies or companies in difficulty.\n- Registration: eHerkenning level 3 with authorisation for RVO services at eH3.",
+          "sources": "STUDI: Aanvragen (RVO page) · Uw aanvraag voorbereiden\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl, version 6 May 2026) · § 4.2.17 · Artikel 4.2.117; Artikel 4.2.117a, eerste lid\nSTUDI: Waterstof en groene chemie (GroenvermogenNL) (RVO page) · Hoeveel subsidie krijgt u?; Uw aanvraag voorbereiden"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Applications are not ranked: complete applications are granted in order of receipt, unless a rejection ground applies.\n- Evaluation criteria: rejection if the quality is insufficient (approach and method, handling of risks, feasibility, participants, effective and efficient use of money), if knowledge dissemination is insufficient, if the consortium is unbalanced, or if the next steps after the study are not described well enough.\n- Ranking rules: first come, first served.",
+          "sources": "Regeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl, version 6 May 2026) · § 4.2.17 · Artikel 4.2.115; Artikel 4.2.117\nSTUDI: Waterstof en groene chemie (GroenvermogenNL) (RVO page) · Wanneer wijzen wij uw aanvraag af?"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Extra rules apply to particular study types and companies.\n- Exception — comparable study: funded as de-minimis aid, up to EUR 300,000 per company over three years, with a de-minimis declaration; not open to fisheries, aquaculture or primary agriculture.\n- Exception — company in difficulty: may only receive de-minimis aid, up to EUR 300,000 over three years.\n- Conditional — proven technology: payback time must plausibly exceed five years, and the subsidy must be at least EUR 25,000.\n- Recommended: preparing for an EU Innovation Fund application can be eligible; RVO asks applicants to submit a project idea form first.",
+          "sources": "Regeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl, version 6 May 2026) · § 4.2.17 · Artikel 4.2.114, vierde en vijfde lid; Artikel 4.2.117, onderdelen e, g en i; Artikel 4.2.117a\nSTUDI: Waterstof en groene chemie (GroenvermogenNL) (RVO page) · Tip: Innovation Fund; Voorwaarden"
+        }
+      ]
+    }
+  ]
+}
