@@ -4,7 +4,7 @@
     "enabled_disabled": "enabled",
     "monitoring_interval": 7,
     "first_run_on": "2026-11-17",
-    "last_completed_scan_at": "2026-11-19T09:59:37+01:00"
+    "last_completed_scan_at": "2026-11-20T09:58:00+01:00"
   },
   "parameters_passed_to_the_agent": {
     "portal_type": "funder",
