@@ -1,0 +1,28 @@
+{
+  "id": "20261120-103812-01",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "PPS Innovatie – PPS Innovatie",
+  "organization_or_parent_framework": "Netherlands Enterprise Agency (RVO)",
+  "programme": "PPS Innovatie",
+  "call_title": "PPS Innovatie",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://www.rvo.nl/subsidies-financiering/pps-innovatie",
+  "executive_summary": "A Dutch programme subsidy (PPS-programmasubsidie) under the Ministry of Economic Affairs, run by RVO, for the 12 Top Consortia for Knowledge and Innovation (TKIs), such as TKI Energie, to fund their public-private partnership (PPS) programmes for 2027. Only a TKI may apply; it then passes the subsidy on to collaborative research projects of at least one research organisation and one company, and to innovation activities for SMEs, within the Knowledge and Innovation Agendas. Companies join projects through a TKI and contribute knowledge and money, with aid per participant of up to 80% (fundamental research), 50% or 60% (industrial research) and 25% or 40% (experimental development). Each TKI has its own budget ceiling, EUR 17,288,143 for TKI Energie out of about EUR 165.5 million in total; applications are open from 2 November 2026, 09:00, to 31 December 2026, 17:00.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2026-12-31",
+  "earliest_project_start_date": "2027-01-01",
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-20",
+  "status_rationale": "The scheme gives each TKI a programme subsidy that it must spend only on collaborative research projects of research organisations and companies and on innovation activities within its PPS programme (Staatscourant 2026, 37215, article II; RNES articles 3.2.1, 3.2.2 and 3.2.5). It touches TenneT's field through the programme of TKI Energie, one of the 12 eligible TKIs, which funds the kind of university-led research TenneT already supports in the project files TenneTwin, Unlocking Digital Twin Capabilities for Electricity Utilities and National Facility Digital Twin of the Electricity System, although the call itself sets no energy topics. Only a TKI may apply, but companies take part in the TKI's projects with cash or in-kind contributions, and the TKI decides which participants receive subsidy (RNES articles 3.2.5, first lid, onderdelen d and g, and 3.2.7, onderdelen d and g; RVO page Deelnemen aan een project in het PPS-programma), so TenneT can take part but its own funding is not assured. The category is research-led participation as a co-funding company partner.",
+  "call_type": "Type 2",
+  "category_codes": ["C2.1"],
+  "taxonomy_values": {
+    "topic": [],
+    "role": ["R2", "R11"],
+    "activity": ["A2", "A16"],
+    "outcome": []
+  }
+}

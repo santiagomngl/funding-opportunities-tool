@@ -1,0 +1,28 @@
+{
+  "id": "20261120-103812-02",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV (GHL-220/380 kV) – Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV (GHL-220/380 kV)",
+  "organization_or_parent_framework": "Netherlands Enterprise Agency (RVO)",
+  "programme": "Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV (GHL-220/380 kV)",
+  "call_title": "Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV (GHL-220/380 kV)",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://www.rvo.nl/subsidies-financiering/gebiedsinvesteringen-hoogspanning-op-land",
+  "executive_summary": "A one-off specific grant (specifieke uitkering) from the Ministry of Climate and Green Growth, paid from the Climate Fund and run by RVO, for Dutch municipalities that host a new 220/380 kV high-voltage project on land: a new substation, a substantial extension of an existing substation or a new overhead line, with a project decision taken between 1 January 2024 and 31 December 2030. The municipality must spend it, after a participation process with residents within at least 200 metres, on investments that improve the quality of life of residents, such as green spaces, paths, sports facilities, community centres or making nearby homes more sustainable. The grant is a fixed amount: EUR 6 million per new substation, EUR 3 million per substation extension and EUR 150,000 per kilometre of new overhead line; the total budget is about EUR 193.4–197 million, allocated first come, first served. Applications are open from 15 October 2026, 09:00, to 31 March 2031, 17:00.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2031-03-31",
+  "earliest_project_start_date": "2026-10-01",
+  "project_end_date": "2036-12-31",
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-20",
+  "status_rationale": "The scheme gives municipalities a fixed grant to improve the quality of life of residents around new 220/380 kV substations, substation extensions and overhead lines, chosen through a mandatory participation process (Staatscourant 2026, 26122, articles 2 to 5 and 9). It touches TenneT's field directly: the eligible projects are TenneT's own onshore grid extensions listed from its Investment Plan 2026, and the explanatory notes state that local resistance delays these projects, close to the project files Onshore and Offshore Grid Investment Plans 2026, Utrecht high-voltage substations (Utrecht-Noord) and Energy boards. Only municipalities may apply and the regulation gives TenneT no role in the application, the participation process or the spending plan (articles 3, 6, 9 and 11), so TenneT cannot take part. The category is environment, permitting and public support, because the scheme aims to keep regional support for grid extension.",
+  "call_type": "Type 3",
+  "category_codes": ["C3.7"],
+  "taxonomy_values": {
+    "topic": ["T4"],
+    "role": [],
+    "activity": [],
+    "outcome": ["O7"]
+  }
+}
