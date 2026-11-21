@@ -1,0 +1,28 @@
+{
+  "id": "20261121-103855-03",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "SPRILA 2026 – Subsidieregeling Private Laadinfrastructuur bij bedrijven (SPRILA)",
+  "organization_or_parent_framework": "Netherlands Enterprise Agency (RVO)",
+  "programme": "Subsidieregeling Private Laadinfrastructuur bij bedrijven (SPRILA)",
+  "call_title": "SPRILA 2026",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://www.rvo.nl/subsidies-financiering/laadinfrastructuur/sprila-aanschaf",
+  "executive_summary": "The 2026 opening of the SPRILA, paragraph 2.3 of the Tijdelijke subsidieregeling zero-emissie mobiliteit of the Ministry of Infrastructure and Water Management, run by RVO, subsidises companies registered with the Dutch Chamber of Commerce that install new private (not always publicly accessible) charging stations for electric vehicles or construction machinery on their own or rented sites in the Netherlands, optionally combined with a stationary battery of up to 1,000 kWh. The subsidy is a fixed amount per charging station (EUR 400–44,000 for a large company, double for SMEs) and EUR 60 per kWh of battery storage (EUR 85 for SMEs), capped at 20% of eligible costs for large companies and 40% for SMEs, with at least EUR 2,500 per location; public bodies and charge point operators (except for their own vehicles) are excluded. The 2026 budget is EUR 122.5 million in three ceilings (EUR 68.5 million for charging stations, EUR 45 million for batteries, EUR 9 million for public transport concession holders and coach companies), handed out first come, first served; applications run from 20 January 2026, 09:00, to 18 December 2026, 12:00, and by 20 November 2026 the charging and battery ceilings were almost fully requested.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2026-12-18",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": 12500,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-21",
+  "status_rationale": "The call funds investments in new private charging infrastructure for electric vehicles at company sites, with smart-charging capability (OCPP 1.6 or higher) and optional stationary batteries (Tijdelijke subsidieregeling zero-emissie mobiliteit, articles 2.3.3, 2.3.11 and 2.3.12; RVO page SPRILA, Voorwaarden). It touches TenneT's field through electrification and controllable charging load behind congested grid connections, close to the project files Grids & Benefits, Time-dependent transmission rights contract (Lion Storage) and CERRE study on flexibility and data centres, although it funds the vehicle owner's own charging rather than grid work. In our interpretation TenneT TSO B.V. qualifies as an applicant, since any company registered with the Chamber of Commerce with an establishment in the Netherlands may apply and only public-law bodies and charge point operators are excluded (article 2.3.4), so it could receive up to 20% of eligible costs for charging stations and batteries at its own sites for its own fleet or staff. The category is lead of an infrastructure project, because TenneT would apply alone for its own capital investment in charging infrastructure.",
+  "call_type": "Type 1",
+  "category_codes": ["C1.1"],
+  "taxonomy_values": {
+    "topic": ["T10", "T5"],
+    "role": ["R1", "R3"],
+    "activity": ["A10"],
+    "outcome": ["O5", "O10"]
+  }
+}

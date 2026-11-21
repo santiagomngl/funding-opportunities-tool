@@ -1,0 +1,28 @@
+{
+  "id": "20261121-103855-05",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "Subsidieregeling vroege opschaling energietransitie binnenschepen 2026-2029: openstelling 2026 – Subsidieregeling vroege opschaling energietransitie binnenschepen 2026-2029",
+  "organization_or_parent_framework": "Netherlands Enterprise Agency (RVO)",
+  "programme": "Subsidieregeling vroege opschaling energietransitie binnenschepen 2026-2029",
+  "call_title": "Subsidieregeling vroege opschaling energietransitie binnenschepen 2026-2029: openstelling 2026",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://www.rvo.nl/subsidies-financiering/maritiem/energietransitie-binnenvaartschepen",
+  "executive_summary": "The 2026 opening of a Dutch investment subsidy of the Ministry of Infrastructure and Water Management, run by RVO, for Dutch inland shipping entrepreneurs that buy and install a zero-emission, climate-neutral or hybrid energy line (propulsion system) in a new or retrofitted inland vessel: battery-electric, hydrogen fuel-cell electric, methanol combustion (retrofit only), hydrogen combustion, or hybrid-electric (retrofit of small vessels only). Optionally, and only together with an energy line and in a consortium led by the shipping entrepreneur (for example with a port operator or energy supplier), it also funds shore-side charging, battery-swap or bunkering infrastructure. The subsidy is 50% of eligible costs for the energy line (60% medium, 70% small companies, plus 10 percentage points for a zero-emission vessel) and 40% for the infrastructure, with grant caps per vessel from EUR 500,000 to EUR 3 million plus up to EUR 600,000 for infrastructure and a minimum request of EUR 150,000 per applicant. The 2026 budget is EUR 36,928,300, split into ceilings per energy line, of the scheme's EUR 231.2 million for 2026 to 2029; it is a tender in which ranked applications can be submitted from 17 November 2026, 09:00, to 16 March 2027, 17:00.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-03-16",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": 300000,
+  "maximum_project_size": 7500000,
+  "date_last_checked": "2026-11-21",
+  "status_rationale": "The opening subsidises the purchase and installation of electric, hydrogen or methanol energy lines in Dutch inland vessels and, optionally, the shore-side charging and bunkering infrastructure they need (Staatscourant 2026, 33019, articles 1, 3, 4 and 6; RVO page, Waarvoor krijgt u subsidie? and Laad- en tankinfrastructuur). It touches TenneT's field because the scheme's focus on electrification adds battery-powered ships and shore charging loads to the electricity system, close to the project files Grids & Benefits and Time-dependent transmission rights contract (Lion Storage), although it funds vessel owners and port-side infrastructure rather than grid work. Only a Dutch inland shipping entrepreneur may apply, and the consortium for shore infrastructure is led by one and is described with partners such as a port operator or energy supplier (articles 9(1) and 9(2); explanatory notes § 2.2), so the rules set out no route for a transmission system operator. The category is flexibility and demand, since the funded ship batteries and charging points are new electric loads and storage on the grid.",
+  "call_type": "Type 3",
+  "category_codes": ["C3.3"],
+  "taxonomy_values": {
+    "topic": ["T9", "T10"],
+    "role": [],
+    "activity": ["A10"],
+    "outcome": ["O5"]
+  }
+}
