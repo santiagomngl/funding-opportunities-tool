@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "A new or extended charging location for heavy electric trucks and buses, open to the public at all times, built and run by the company that applies.\nThe SPULA (Subsidieregeling Publieke Laadinfrastructuur zwaar vervoer, the Dutch subsidy for public charging infrastructure for heavy transport) is paragraph 2.2 of the Tijdelijke subsidieregeling zero-emissie mobiliteit (a temporary ministerial subsidy scheme for zero-emission mobility). Heavy electric road transport means vehicles of EU categories M3 (buses and coaches), N2 and N3 (goods vehicles above 3.5 tonnes). The charging location must:\n- be in the Netherlands and publicly accessible at all times, on public or private land, and open at least 40 hours a week between 09:00 and 21:00;\n- have at least 1,400 kW of charging stations of 200 kW or more, including at least two stations of 350 kW or more;\n- give every charging point a CCS or MCS connector (Combined Charging System, or Megawatt Charging System for trucks), foundations for vehicles of at least 50 tonnes, a clearance height of at least 4.2 m and space for a 16.5 m tractor-trailer;\n- lie on a business park or within 1 km driving distance of a motorway or main road (A- or N-weg), reached by a paved road at least 6 m wide.\nWhere the location will not have enough grid capacity within two years, the scheme also funds a stationary battery (a battery outside the vehicle that communicates with the charging station). The need is a national policy one: speeding up the roll-out of public charging for heavy electric transport to cut CO2 and air-polluting emissions; other vehicles may also use the location.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.2.1 Begripsbepalingen; Artikel 2.2.2 Doel van de subsidie; Artikel 2.2.3 Subsidiabele activiteiten\nTijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 1.2 Doel van de regeling\nSPULA: Veelgestelde vragen (RVO page) · Moeten alleen zware voertuigen toegang kunnen krijgen tot de laadlocatie?"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The scheme must speed up public charging for heavy electric transport, so that trucks and buses switch to zero-emission driving and CO2 and air pollution fall.\n- Spread across the country: at most five locations per two-digit postcode area are funded over the scheme's lifetime, and anonymous data on location, stations, power and battery capacity are published to steer that spread and show where charging will become available.\n- Renewable power: the stations must be supplied only with renewable electricity by the time the grant is settled.\n- Grid and congestion: the location needs a grid connection of at least 100 kVA within two years; the 2026 rules lowered this from 600 kVA so that operators who generate most of their power on site, because of grid congestion, can use a small connection to charge a battery.\n- Controllable charging: the stations must stay connected to the internet and use the Open Charge Point Protocol 1.6 or higher, a common communication standard, so that charging can be steered.\n- Policy targets: the published data also help track progress on the EU AFIR targets (the EU regulation that sets minimum charging infrastructure along main roads) and the regional NAL programmes (the Dutch national charging infrastructure agenda).",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 1.2; Artikel 2.2.9, vierde lid, onderdelen f, h en l; Artikel 2.2.10; Artikel 2.2.12\nStaatscourant 2025, 39984 (wijziging Tijdelijke subsidieregeling zero-emissie mobiliteit, openstelling 2026) · Toelichting, Artikelsgewijze toelichting E (wijziging artikel 2.2.9, vierde lid), onderdelen h en l"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "Charge-point operators, logistics and transport companies, fuel station operators and site owners who will build and run a public truck charging hub.\n- Lead applicant: any company registered with the Dutch Chamber of Commerce (KVK) with an establishment in the Netherlands. Public bus concession holders and public bodies (provinces, municipalities, water boards, joint public bodies and independent administrative bodies with legal personality) may not apply.\n- Partners: none; one company applies alone, with written consent from the site owner (or leaseholder) to place and operate the stations, and may use an intermediary to submit.\n- Limits: at most two applications per week per applicant or per group of companies, and the grant must be at least EUR 25,000.\n- Suppliers of chargers, power cabinets, batteries and civil works benefit indirectly, through the applicant's orders.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.2.4 Aanvrager; Artikel 2.2.9, tweede, derde en vierde lid (onderdeel k); Artikel 2.2.10\nSubsidieregeling Publieke Laadinfrastructuur zwaar vervoer (SPULA) (RVO page) · Uw aanvraag voorbereiden; Een intermediair machtigen\nSPULA-toestemmingsformulier van de locatie-eigenaar.pdf · p. 1"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": "No innovation is required: the scheme funds the roll-out of existing high-power charging technology at real sites.\nThe rules set technical minimums (power, connector type, communication protocol, site layout) rather than asking for new technology. Both integrated chargers (all-in-one stations) and modular systems (charging posts fed by a separate power cabinet) are allowed.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.2.3; Artikel 2.2.6, tweede lid\nSubsidieregeling Publieke Laadinfrastructuur zwaar vervoer (SPULA) (RVO page) · Geïntegreerd of modulair systeem"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "The equipment must be commercially available: the application needs a quote naming brand, type and specifications, and all stations must be in use within two years of the grant decision.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.2.9, vierde lid, onderdelen f en j; Artikel 2.2.12, eerste lid"
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": "There is no demonstration: the charging location is operated commercially at a real site and must stay public for 36 months after the grant is settled.\nIt must fit existing infrastructure in these ways:\n- Grid connection: at least 100 kVA, either present at application (shown by the latest invoice from the grid operator) or confirmed in writing by the grid operator to be available within two years; cable pooling (sharing an existing connection of at least 100 kVA) is allowed.\n- Stationary battery: at least 70% of the energy it discharges must go to the charging stations, and it must stay the applicant's property for 36 months.\n- Communication: permanent internet connection and Open Charge Point Protocol 1.6 or higher.\n- Public register: the stations must be listed in the public register of charging stations.\n- Tariffs: charging prices must be fair, clear, comparable and non-discriminatory (RVO page).",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.2.9, vierde lid, onderdelen f en h; Artikel 2.2.12\nSubsidieregeling Publieke Laadinfrastructuur zwaar vervoer (SPULA) (RVO page) · Voorwaarden; Verplichtingen na vaststelling subsidie"
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "Public truck charging hubs of up to 3.6 MW each add large new loads and connection requests on congested parts of the Dutch grid, and the scheme shapes how they connect.\nOur judgement: the 2026 rules push operators towards small grid connections combined with on-site generation and stationary batteries, require controllable charging via the Open Charge Point Protocol, and publish where hubs are planned. That touches TenneT's work on congestion and on steering electric-vehicle charging, as in its Grids & Benefits project, and on flexible, time-bound grid access as with battery operators. The published location and capacity data could help TenneT and regional network operators anticipate where heavy-transport charging will add load. TenneT cannot take part itself: the call sets out no role for a transmission system operator; only the company that builds and publicly operates the charging location may apply, and the grid operator that confirms the connection is, for locations of this size, in practice the regional network operator.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.2.3; Artikel 2.2.4; Artikel 2.2.9, vierde lid, onderdelen f, h en l\nStaatscourant 2025, 39984 (wijziging Tijdelijke subsidieregeling zero-emissie mobiliteit, openstelling 2026) · Artikelsgewijze toelichting E, onderdelen h en l\nFO record status_rationale (interpretation)"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "EUR 14.5 million for 2026, paid as fixed amounts per charging station and per kWh of battery storage, capped at 20% of eligible costs.\n- Total project size: not limited, but power above 3,600 kW per location and battery capacity above 1,400 kWh earn no subsidy; since the grant must be at least EUR 25,000 and at most 20% of eligible costs, eligible costs must in practice be at least EUR 125,000.\n- Grant request: per charging location, EUR 19,000 per station of 200 to 350 kW, EUR 43,000 per station of 350 to 550 kW, EUR 80,000 per station from 550 kW, and EUR 80 per kWh of stationary battery; for a modular system the amount follows the total power the power cabinet can deliver in parallel.\n- Funding form: fixed amounts per unit, reduced where they would exceed 20% of eligible costs, the state-aid limit.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.2.3; Artikel 2.2.6 Hoogte subsidie; Artikel 2.2.7, eerste lid; Artikel 2.2.10, tweede lid\nSubsidieregeling Publieke Laadinfrastructuur zwaar vervoer (SPULA) (RVO page) · Budget en aanvraagperiode; Hoeveel subsidie?; Maximum vergoede vermogens en batterijcapaciteit"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "The subsidy may cover at most 20% of eligible costs for every applicant, so the company must finance at least 80% itself.\n- Co-financing conditions: other subsidies already requested or received from a public body or the European Commission for the same location must be declared; earlier grants for the same costs are deducted, and the scheme cannot be combined with the EU Alternative Fuels Infrastructure Facility (AFIF). It can be combined with the hydrogen refuelling subsidy SWIM, and with the private charging subsidy SPRILA only for separate, non-public stations at the same location.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.2.6, vierde lid; Artikel 2.2.9, vierde lid, onderdeel e; Artikel 1.3\nSPULA: Veelgestelde vragen (RVO page) · Mag ik SPRILA én SPULA aanvragen; Kan ik SPULA combineren met SWIM; Kan ik de SPULA combineren met AFIF"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Eligible costs are the investment costs of building, installing, upgrading or extending the charging infrastructure, including any stationary battery.\n- Eligible costs: the charging infrastructure itself, related technical equipment, electrical and civil works, site or road adjustments, and permits, as defined in article 36bis of the EU General Block Exemption Regulation (the EU state-aid rules that allow this subsidy without prior approval).\n- Caps or mandatory allocations: subsidy for at most 3,600 kW of charging power and 1,400 kWh of battery per location.\n- Excluded costs: on-site production of renewable electricity, such as solar panels, and the grid connection that must already exist when applying.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.2.3; Artikel 2.2.5 Subsidiabele kosten\nSubsidieregeling Publieke Laadinfrastructuur zwaar vervoer (SPULA) (RVO page) · Kosten die voor subsidie in aanmerking komen; Maximum vergoede vermogens en batterijcapaciteit"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "RVO pays 80% of the grant as an advance with the grant decision; the rest follows settlement, and part can be reclaimed if the location stops meeting the conditions.\n- Payment model: an 80% advance at the grant decision; the grant is settled on request within 13 weeks after the work is finished.\n- Retention or guarantee: for each full month in the 36 months after settlement that the location is not public, not in the public register, or the battery conditions are not met, RVO can reclaim 1/36 of the grant.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.2.13 Voorschot; Artikel 2.2.14; Artikel 2.2.15 Gewijzigde vaststelling en terugvordering"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: online applications through RVO, with eHerkenning level 3 (the Dutch business login), from 3 February 2026, 09:00, to 18 December 2026, 12:00, first come, first served.\n- Stage 1 — Application: by 18 December 2026, 12:00; a complete application with quotes, the grid operator's invoice or connection confirmation and the site owner's consent form; any KVK-registered company with a Dutch establishment except bus concession holders and public bodies; at most two applications per week per applicant or group.\n- Additional procedure: work, including signing orders, may start after the application is submitted, at the applicant's own risk; work started before applying makes the application ineligible.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.2.8 Aanvraagperiode; Artikel 2.2.9; Artikel 1.3, onderdeel c\nSubsidieregeling Publieke Laadinfrastructuur zwaar vervoer (SPULA) (RVO page) · Aanvragen; Uw aanvraag voorbereiden\nSPULA: Veelgestelde vragen (RVO page) · Wanneer mag een niet-ondertekende offerte definitief worden gemaakt?"
+        },
+        {
+          "title": "Project window",
+          "answer": "All charging points must be fully available for heavy electric vehicles within two years of the grant decision.\n- Maximum duration: 24 months for building the location; a one-off extension of up to 12 months for the settlement request is possible if building takes longer.\n- Required start: not before the application is submitted.\n- Completion deadline: request settlement within 13 weeks after the work is finished, then keep the location public and registered (and the battery owned) for 36 months.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.2.12; Artikel 2.2.14, eerste en derde lid; Artikel 1.3, onderdeel c\nSubsidieregeling Publieke Laadinfrastructuur zwaar vervoer (SPULA) (RVO page) · Na uw aanvraag; Uitstel aanvragen"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "RVO aims to decide within 13 weeks, the maximum decision period, and handles applications in order of receipt.\n- Funding decision: within 13 weeks of the application; the decision letter obliges the recipient to have all charging points in use within two years.\n- Conditions before starting: none beyond submitting the application; the 2026 budget was approved by the Dutch Senate on 7 July 2026, so earlier grants made subject to budget approval are now final.",
+          "sources": "Subsidieregeling Publieke Laadinfrastructuur zwaar vervoer (SPULA) (RVO page) · Beslistermijn; Na uw aanvraag; Begroting 2026 goedgekeurd\nTijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 1.4 Begrotingsvoorbehoud"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "RVO assesses only complete applications, which must prove every technical, site and grid condition with documents.\n- Application form: RVO's online form, with eHerkenning level 3 and an RVO services authorisation at level 3.\n- Budget: unsigned quotes for the charging stations (brand, type, power per station, internet connection and Open Charge Point Protocol 1.6 or higher) and for the installation and other eligible costs, with a cost overview.\n- Mandatory annexes: the latest grid operator invoice showing the current connection and contracted transport capacity, or a grid operator's written confirmation, at most three months old, that a connection of at least 100 kVA will be available within two years of the grant; proof that the location meets the power, connector, foundation, clearance, space, road-width and location conditions (for example a technical drawing); proof that all stations will be available within two years; the coordinates of the entrance; the amount of other subsidies for the location.\n- Partner documents: the SPULA consent form signed by the site owner (or leaseholder).\n- Registration: KVK number; consent to anonymous publication of location, stations, charging points, total power and battery capacity.\nThe RVO FAQ page, last checked on 3 February 2026, still mentions a minimum connection of 600 kVA at application; the regulation as amended for 2026 requires 100 kVA, within two years.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.2.9 Aanvraag\nSubsidieregeling Publieke Laadinfrastructuur zwaar vervoer (SPULA) (RVO page) · Uw aanvraag voorbereiden; Aanvragen\nStaatscourant 2025, 39984 (wijziging Tijdelijke subsidieregeling zero-emissie mobiliteit, openstelling 2026) · Artikelsgewijze toelichting E, onderdeel h\nSPULA: Veelgestelde vragen (RVO page) · Mijn laadlocatie heeft op moment van aanvragen niet genoeg netaansluiting"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "There is no scoring: complete applications that meet the conditions are funded in order of receipt until the EUR 14.5 million is used up.\n- Ranking rules: a lottery decides when, on one day, applications arrive for several locations in the same two-digit postcode area and granting them all would exceed five locations there over the scheme's lifetime; a lottery among all complete applications of that day also applies on the day the budget runs out.\n- Budget assessment: if the budget is nearly used up but at least 70% of the requested grant can still be given, RVO first consults the applicant.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.2.7 Subsidieplafond en wijze van verdelen; Artikel 2.2.10; Bijlage 4\nSubsidieregeling Publieke Laadinfrastructuur zwaar vervoer (SPULA) (RVO page) · Loting en subsidieplafond\nSPULA: Veelgestelde vragen (RVO page) · Geldt er een maximum van 5 laadlocaties per postcodegebied per jaar?"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Extra documents and duties apply for a stationary battery, and an existing site can skip the foundation proof.\n- Conditional — stationary battery: an unsigned quote with investment costs, storage capacity and power, showing the battery communicates with the station; for 36 months the battery must stay the applicant's property and at least 70% of its discharged energy must go to the stations, which RVO can check with three months of usage data.\n- Exception — business park or existing fuel or charging station for heavy vehicles: no need to prove foundations for 50 tonnes.\n- Conditional — settlement: the 18-digit EAN code of the supply and a supply contract or guarantees of origin showing only renewable electricity is used; missing it affects the grant.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.2.9, vijfde en zesde lid; Artikel 2.2.12, derde lid; Artikel 2.2.14, tweede lid\nSPULA: Veelgestelde vragen (RVO page) · Hoe toon ik aan dat mijn batterij minimaal voor 70% wordt gebruikt voor de laadstations?"
+        }
+      ]
+    }
+  ]
+}

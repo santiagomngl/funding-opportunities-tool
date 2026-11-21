@@ -1,0 +1,28 @@
+{
+  "id": "20261121-103855-01",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "Programmalijn 3: Vergassing van reststromen – Studies voor Duurzame Industrie (STUDI)",
+  "organization_or_parent_framework": "Netherlands Enterprise Agency (RVO)",
+  "programme": "Studies voor Duurzame Industrie (STUDI)",
+  "call_title": "Studies voor Duurzame Industrie (STUDI)",
+  "call_module_title": "Programmalijn 3: Vergassing van reststromen",
+  "call_year": 2026,
+  "url": "https://www.rvo.nl/subsidies-financiering/studi/vergassing-van-reststromen",
+  "executive_summary": "A Dutch subsidy of the Ministry of Climate and Green Growth, run by RVO and financed from the Klimaatfonds, for companies in industry, alone or in a consortium with other companies or research organisations, that carry out a feasibility, environmental or comparable study (mainly desk research, pre-engineering and FEED) to prepare an investment decision on a pilot, demonstration or proven-technology project for the gasification of residual streams that are at least partly biogenic. The follow-up installation must turn residual streams into green gas, biofuels, methanol or industrial feedstock, have at least 5 MW thermal input at commercial scale and use at least 40% biogenic feedstock by energy value; using the syngas directly for heat or electricity, and projects mainly producing hydrogen, recycled carbon fuels or biochar, are excluded. The subsidy is 50% of eligible costs for large companies (60% medium, 70% small), up to EUR 3 million per feasibility or environmental study (EUR 300,000 for a comparable study), and a study lasts at most one or two years. The budget of EUR 7.5 million is allocated first come, first served and is oversubscribed (nothing left on 19 November 2026); applications are open from 18 May 2026, 09:00, to 31 March 2027, 17:00.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-03-31",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": 6000000,
+  "date_last_checked": "2026-11-21",
+  "status_rationale": "The scheme funds feasibility, environmental and comparable studies that prepare investment in installations that gasify biogenic or mixed residual streams into green gas, biofuels, methanol or chemical feedstock (Staatscourant 2026, 15135, bijlage 4.2.16, Programmalijn 3; RNES article 4.2.114, fourth paragraph, onderdeel b; RVO page Voor welke studies krijgt u subsidie?). It does not touch TenneT's field: the follow-up projects produce gas, fuels and feedstock rather than electricity, the programme line excludes projects that use the syngas directly for heat or electricity or that mainly produce hydrogen, and no project file is close, unlike programme lines 1 and 2, whose electrification and electrolyser studies affect grid connections and flexibility.",
+  "call_type": "Not relevant",
+  "category_codes": [],
+  "taxonomy_values": {
+    "topic": [],
+    "role": [],
+    "activity": [],
+    "outcome": []
+  }
+}

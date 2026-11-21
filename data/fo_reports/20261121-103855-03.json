@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "New private charging stations for electric vehicles at the applicant's own or rented company site in the Netherlands, optionally with a stationary battery.\nThe SPRILA (the Dutch subsidy for private charging infrastructure at companies, run by RVO, the Netherlands Enterprise Agency, for the Ministry of Infrastructure and Water Management) funds the investment in installing them. Each charging location must have at least:\n- one or more AC charging stations (alternating current, the usual slower chargers) of at least 11 kW; or\n- one or more DC charging stations (direct current fast chargers with a built-in converter) of at least 20 kW.\nPrivate means the stations may not be open to everyone at all times: at certain times only a specific group, such as the company's own vehicles, staff or customers, may use them.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.3.3, eerste en tweede lid\nSubsidieregeling Private Laadinfrastructuur bij bedrijven (SPRILA) (RVO page) · Voorwaarden; Toelichting private laadinfrastructuur"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "Installing new private charging stations is the core activity; a stationary battery is an optional add-on, and public, mobile and self-generation installations are excluded.\n- Mandatory: investment in new private charging infrastructure in the Netherlands that is not always publicly accessible, with at least one AC station of 11 kW or one DC station of 20 kW. Replacing existing stations with smart stations or with higher-power stations is allowed; at an existing location only the new stations count.\n- Optional: a stationary battery (a battery outside the vehicle that communicates with the charging station) of at most 1,000 kWh per charging location, only together with new charging stations and only if the total subsidy is at least EUR 25,000. Its hardware C-value (power in kW divided by capacity in kWh) may be at most 0.5, unless the battery is built into a DC station.\n- Excluded: publicly accessible charging (covered by the separate SPULA scheme for heavy transport), mobile charging units, on-site renewable generation such as solar panels, charging for private residents, subsidy for advice (removed in 2026), and companies whose main activity at the location is selling electricity to third parties (charge point operators), unless the stations are for their own vehicles or staff.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.3.3; Artikel 2.3.4, tweede en derde lid; Artikel 2.3.5, tweede lid\nSPRILA: Veelgestelde vragen (RVO page) · Laadstations; Aanvrager en leverancier; Exploitanten van laadinfrastructuur\nStaatscourant 2025, 39984 (wijziging Tijdelijke subsidieregeling zero-emissie mobiliteit, openstelling 2026) · Toelichting § 2.2 SPriLa (Vervallen subsidiemogelijkheid advisering)"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The need is the applicant company's own: charging its electric vehicles, its employees' or customers' vehicles, or its tenants' vehicles on its own site.\nThe scheme is for companies with their own electric cars, vans, taxis, buses, coaches, trucks or construction machinery, companies whose employees drive electric, companies with customers who drive electric, and property owners whose tenants need charging. Behind this is a national policy need: the regulation aims to speed up the roll-out of private charging so that companies switch to zero-emission vehicles and CO2 and air-pollutant emissions fall.\nGrid congestion (an overloaded local electricity grid) is part of the problem the scheme deals with: RVO tells applicants to check congestion in their region before applying, and the 2026 explanatory notes say the battery subsidy lets companies charge at higher power on a connection that is not large enough.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 1.2; Artikel 2.3.2\nSubsidieregeling Private Laadinfrastructuur bij bedrijven (SPRILA) (RVO page) · Voor wie?; Let op (netcongestie)\nStaatscourant 2025, 39984 (wijziging Tijdelijke subsidieregeling zero-emissie mobiliteit, openstelling 2026) · Artikelsgewijze toelichting (artikel 2.3.3 en 2.3.15)"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "Installed, working private charging stations, and where applied for a stationary battery, in use within 24 months of the grant decision.\n- Charging stations that are permanently connected to the internet and communicate through the Open Charge Point Protocol (OCPP, an open standard for remote control of chargers) version 1.6 or higher, so that charging can be steered (smart charging).\n- For a battery: registration on the Energieleveren website or with the grid operator after installation.\n- Proof of installation: an invoice (below EUR 25,000 subsidy) or, at the end of the project, a request for final settlement that includes the postcode where the stations connect to the electricity grid.\n- On request, usage data for three consecutive months within 24 months after the final settlement: kWh discharged from the battery and kWh delivered to vehicles.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.3.11, tweede lid, onderdeel h; Artikel 2.3.12, eerste lid, onderdeel g; Artikel 2.3.15; Artikel 2.3.17, derde lid\nSubsidieregeling Private Laadinfrastructuur bij bedrijven (SPRILA) (RVO page) · Aanvullende voorwaarden batterij"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The project must contribute to the switch to zero-emission vehicles and so to lower CO2 and air-pollutant emissions; the call sets no numeric target per project.\n- Climate and air quality: the regulation's aim is to cut CO2 and air pollutants by stimulating charging infrastructure for zero-emission vehicles.\n- Smart charging: RVO says the internet and OCPP requirement exists to stimulate smart charging, which lets charging be shifted in time, for example to fit within the grid connection.\n- Grid use: the battery must serve the charging stations. At least 70% of the kWh it discharges must go to the charging stations; the explanatory notes say this keeps batteries from being used largely for other purposes such as trading on energy markets.\n- Spread of funding: the battery has its own budget so that a small group of applicants does not take too large a share.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 1.2; Artikel 2.3.15, tweede lid\nSPRILA: Veelgestelde vragen (RVO page) · Hoe toon ik aan dat de laadinfrastructuur met het internet is verbonden?\nStaatscourant 2025, 39984 (wijziging Tijdelijke subsidieregeling zero-emissie mobiliteit, openstelling 2026) · Toelichting § 3 (budgetschotten); Artikelsgewijze toelichting (artikel 2.3.3 en 2.3.15)"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "The charging stations must stay in private use for at least 24 months after the final settlement, and a battery must stay owned and used for charging for 24 months.\n- Continued use: for at least 24 months after the subsidy is settled, the stations must be used as private charging infrastructure that is not always publicly accessible. They may appear at most as having restricted access, not as public, in registers of public charging points.\n- Battery: the recipient must own the battery without transfer to others for at least 24 consecutive months after settlement, use it for the charging stations and deliver at least 70% of its discharged kWh to them.\n- Consequence: if these obligations are not met, RVO can reclaim 1/24 of the subsidy for each full month of non-compliance; for a battery that mainly supplies other uses, RVO's examples show the advance or the whole battery subsidy being reclaimed.\n- No replication, dissemination, standards work or business model is required; the result is the applicant's own installation.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.3.15; Artikel 2.3.17a\nSubsidieregeling Private Laadinfrastructuur bij bedrijven (SPRILA) (RVO page) · Voorwaarden (Algemene voorwaarden; Aanvullende voorwaarden batterij)\nRekenvoorbeelden en capaciteitsberekeningen voor SPRILA (RVO page) · Rekenvoorbeeld inzet batterij"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "One applicant: the scheme has no consortium.\nEach applicant may submit one application per charging location per calendar year, covering the charging stations and, where applicable, the battery at that location.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.3.9, tweede lid\nSubsidieregeling Private Laadinfrastructuur bij bedrijven (SPRILA) (RVO page) · Voor wie?"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "No partners are required; the applicant must be a company registered with the Dutch Chamber of Commerce (KVK) with an establishment in the Netherlands.\n- The company must carry out economic activities, such as selling products or paid services; RVO says foundations, housing corporations, care institutions and associations can count if they do so regularly. Public transport concession holders (bus and train operators) may also apply.\n- The stations must be in the Netherlands, on the applicant's own or rented land.\n- Excluded: public-law independent administrative bodies with legal personality, provinces, municipalities, water boards and joint public bodies, and charge point operators except for their own vehicles or staff.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.3.3, eerste lid; Artikel 2.3.4\nSubsidieregeling Private Laadinfrastructuur bij bedrijven (SPRILA) (RVO page) · Voor wie?; Voor wie niet?; Algemene voorwaarden"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "The applicant buys and owns the installation; others may install, manage or lease it only under set conditions.\n- The company that uses the charging infrastructure for its business must buy it; it may work with a charge point operator to manage it.\n- Financial lease is allowed (the applicant is owner). With an operational lease, the leasing company must apply and state who the user is.\n- An installer may install stations on its own site itself, if the costs are reasonable and supported by work orders or photos.\n- An intermediary may submit the application with an authorisation (eHerkenning chain authorisation is possible).",
+          "sources": "SPRILA: Veelgestelde vragen (RVO page) · Exploitanten van laadinfrastructuur; Laadstations (Mag ik een laadstation leasen?; installateur); Aanvrager en leverancier\nSubsidieregeling Private Laadinfrastructuur bij bedrijven (SPRILA) (RVO page) · Een intermediair machtigen"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "The lead and only applicant is the company that installs the private charging stations on its own or rented site for its own business use.\nIt must be KVK-registered with an establishment in the Netherlands and must not be a public-law body (province, municipality, water board, independent administrative body with legal personality or joint public body), a company in difficulty under EU state-aid rules, or a charge point operator charging third parties.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 1.3, onderdeel b; Artikel 2.3.4\nSubsidieregeling Private Laadinfrastructuur bij bedrijven (SPRILA) (RVO page) · Voor wie?; Voor wie niet?"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "In our interpretation, yes: TenneT TSO B.V. could apply on its own for charging stations at its own sites for its own vehicles or staff.\nThe rules let any company registered with the Chamber of Commerce with an establishment in the Netherlands apply. TenneT TSO B.V. is a private-law company with economic activity (electricity transmission) and is not one of the excluded public-law bodies, although it is state-owned; the rules do not exclude state-owned companies. Conditions that would apply to TenneT:\n- the stations are on land TenneT owns or rents, such as an office, depot or substation site, and are not open to the public at all times;\n- for a subsidy of EUR 25,000 or more, TenneT must apply before it orders the work, with an unsigned quote;\n- the subsidy per location must be at least EUR 2,500.\nRVO has not ruled on TenneT's eligibility; TenneT could confirm it with RVO, for example in the advice talk RVO offers.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.3.4; Artikel 2.3.13, tweede lid; Artikel 1.3, onderdeel c\nSubsidieregeling Private Laadinfrastructuur bij bedrijven (SPRILA) (RVO page) · Voor wie?; Voor wie niet?; Advies nodig?; Meer dan EUR 25.000 subsidie\nFO record status_rationale (interpretation)"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "No: the scheme has only single applicants, so there is no role as an unfunded or associated partner.\nTenneT could only be involved in someone else's application indirectly, for example as the operator whose grid serves a large charging site; the scheme sets out no role for a grid operator, and the grid contract it asks for comes from the applicant's own connection, usually with a regional grid operator.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.3.4; Artikel 2.3.9, tweede lid; Artikel 2.3.12, eerste lid, onderdeel f\nFO record status_rationale (interpretation)"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Yes, in our interpretation, at large-company rates: a fixed amount per charging station and EUR 60 per kWh of battery, never more than 20% of eligible costs.\n- Charging stations (large company): AC from 11 kW EUR 400; AC double station (two charging points) from 2 x 11 kW EUR 800; AC from 43 kW EUR 880; AC double from 2 x 43 kW EUR 1,760; DC from 20 kW EUR 1,950; from 50 kW EUR 4,880; from 100 kW EUR 8,850; from 150 kW EUR 12,200; from 220 kW EUR 15,500; from 350 kW EUR 26,250; from 550 kW EUR 44,000.\n- Battery: EUR 60 per kWh, up to 1,000 kWh per location (so at most EUR 60,000).\n- Cap: at most 20% of eligible costs for a large company (40% for an SME); RVO lowers the subsidy if the fixed amounts exceed this.\n- State-aid basis: below EUR 25,000 the de minimis regulation (EU rules for small amounts of aid per company over three years, with a de minimis declaration); from EUR 25,000 article 36bis of the General Block Exemption Regulation (AGVV, the EU rules that allow aid for charging infrastructure).\nTenneT would therefore pay at least 80% of its eligible costs itself.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.3.6; Artikel 2.3.18; Artikel 2.3.3, derde lid\nSubsidieregeling Private Laadinfrastructuur bij bedrijven (SPRILA) (RVO page) · Lijst met subsidiebedragen 2026; Voorwaarden\nFO record status_rationale (interpretation)"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "Our judgement: TenneT would apply as a fleet owner, not as a grid operator, for charging at its own offices, depots or substation sites for its service vehicles and staff.\nThe subsidy is modest (20% of eligible costs for a large company), so it would mainly help where TenneT is already planning to electrify its own fleet or staff parking. The call's grid conditions match TenneT's own interests: the required smart-charging capability (OCPP 1.6 or higher) and the battery rules let charging be shifted to fit a site's connection, as in TenneT's work on congestion signals for EV charging (Grids & Benefits) and on time-bound connection contracts. Beyond its own sites, TenneT has no role in the call, but the scheme's public budget overview and the RVO dashboard of granted charging points could help it anticipate where charging demand is growing.",
+          "sources": "Subsidieregeling Private Laadinfrastructuur bij bedrijven (SPRILA) (RVO page) · Budget; Meer weten (RVO dashboard laadinfrastructuur)\nTijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.3.6, vijfde lid; Artikel 2.3.12, eerste lid, onderdeel g\nFO record status_rationale (interpretation)"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "No innovation is required: the scheme funds the installation of commercially available charging stations and batteries.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.3.2; Artikel 2.3.3"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "None: the project does not have to innovate; the only technical requirements are minimum power, internet connection with OCPP 1.6 or higher (the open protocol for steering chargers) and, for a battery, a maximum C-value of 0.5.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.3.3; Artikel 2.3.11, tweede lid, onderdeel h; Artikel 2.3.12, eerste lid, onderdeel g"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Only deployment: buying, installing and putting into use charging stations and, optionally, a battery.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.3.3, eerste lid; Artikel 2.3.15, eerste lid"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "The equipment must be ready for use: the charging infrastructure must be completed and in use within 24 months of the grant decision.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.3.15, eerste lid, onderdeel a"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "No demonstration: the stations are used in daily business operation at the applicant's real site.\nThey must be fixed installations at a set location; mobile charging units do not qualify.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.3.3, eerste lid\nSPRILA: Veelgestelde vragen (RVO page) · Komt mobiele laadinfrastructuur in aanmerking voor SPRILA?"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "The stations must fit the site's grid connection: for a subsidy of EUR 25,000 or more the applicant must show the grid capacity is there or will be within 24 months.\n- Grid contract: the application must include a contract with the grid operator that covers the planned grid capacity.\n- Capacity calculation: if the stations need more than 50% of the maximum power available on the current connection, the applicant must show by calculation that the capacity will be available within 24 months of the grant. A quote from the grid operator is not enough, because of the uncertainty caused by congestion. RVO's examples accept smart charging spread over the night, and reject a plan that relies on a flexible grid contract not yet signed.\n- Battery: it must communicate with the charging station it serves, and its power must fit the total power of the stations; software may not be used to lower its power to meet the C-value limit.\n- Modular systems (separate charging stations fed by one power cabinet): the subsidy is based on the power the cabinet can deliver in parallel, and no more stations may be claimed than are installed.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.3.12, eerste lid, onderdeel f, tweede en derde lid; Artikel 2.3.6, derde lid\nSPRILA: Veelgestelde vragen (RVO page) · Is een offerte van de netbeheerder voldoende...; Mag software worden gebruikt om het vermogen van de batterij te verlagen?\nRekenvoorbeelden en capaciteitsberekeningen voor SPRILA (RVO page) · Capaciteitsberekeningen; Rekenvoorbeeld inzet batterij; Rekenvoorbeelden modulair systeem"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "The applicant must prove installation, power and private use; for a battery, also that it mainly supplies the charging stations.\n- Installation and power: invoice or quote with brand, type, number of charging points and power per station, plus datasheets; at settlement, the postcode where the stations connect to the grid.\n- Private use: the stations may not be listed as publicly accessible for 24 months; RVO checks charging apps and reports, and a sign restricting access is enough.\n- Battery: at least 70% of the kWh discharged must go to the charging stations; RVO may ask for three months of battery-management and charging-session data, a total cost of ownership calculation, or visit the site.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.3.11, tweede lid; Artikel 2.3.12; Artikel 2.3.15, tweede lid; Artikel 2.3.17, derde lid\nSPRILA: Veelgestelde vragen (RVO page) · Publieke toegankelijkheid\nRekenvoorbeelden en capaciteitsberekeningen voor SPRILA (RVO page) · Rekenvoorbeeld inzet batterij\nSubsidieregeling Private Laadinfrastructuur bij bedrijven (SPRILA) (RVO page) · Aanvullende voorwaarden batterij"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "The only call-specific requirement is the OCPP 1.6 or higher internet connection; no cybersecurity certificate is required.\nRVO says a cybersecurity certificate for OCPP need not be submitted and advises applicants to discuss digital security with their supplier.",
+          "sources": "SPRILA: Veelgestelde vragen (RVO page) · Wat is OCPP 1.6 met een Cyber Security (CS)-certificaat?"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "EUR 122.5 million for 2026 in three separate ceilings, with a fixed subsidy per charging station and per kWh of battery and no maximum per project.\n- Ceilings: EUR 68.5 million for charging stations and EUR 45 million for batteries for applicants other than public transport concession holders and coach companies; EUR 9 million for charging and batteries for public transport concession holders and coach companies. On 20 November 2026 about EUR 67.9 million and EUR 44.1 million of the first two had been requested.\n- Total project size: eligible costs of at least EUR 12,500 for a large company (EUR 6,250 for an SME), following from the EUR 2,500 minimum subsidy; no maximum, since the former cap of EUR 350,000 per applicant was removed in 2026.\n- Grant request: at least EUR 2,500 per location; a battery only if the total subsidy is at least EUR 25,000.\n- Funding form: fixed amounts per charging station by power category and per kWh of battery storage, capped at a percentage of eligible costs.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.3.7b; Artikel 2.3.6; Artikel 2.3.13, tweede lid; Artikel 2.3.3, derde lid\nSubsidieregeling Private Laadinfrastructuur bij bedrijven (SPRILA) (RVO page) · Budget en aanvraagperiode; Budget; Voorwaarden\nStaatscourant 2025, 39984 (wijziging Tijdelijke subsidieregeling zero-emissie mobiliteit, openstelling 2026) · Toelichting § 2.2 SPriLa"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "The subsidy may cover at most 20% of eligible costs for a large company and 40% for an SME; the company pays the rest.\n- Large company: fixed amounts per station and EUR 60 per kWh of battery, at most 20% of eligible costs.\n- SME: double the station amounts and EUR 85 per kWh, at most 40%, with an SME declaration.\n- Co-financing conditions: other subsidies for the same location must be stated and may not lead to cumulation beyond EU state-aid limits; the Energy Investment Allowance (EIA, a Dutch tax deduction) may be combined for a battery, but its net benefit must be deducted from the eligible costs.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.3.6; Artikel 1.3, onderdeel a; Artikel 2.3.12, eerste lid, onderdeel h\nSubsidieregeling Private Laadinfrastructuur bij bedrijven (SPRILA) (RVO page) · Lijst met subsidiebedragen 2026; Voorwaarden\nSPRILA: Veelgestelde vragen (RVO page) · Mogen SPRILA en de Energie-investeringsaftrek (EIA) gestapeld worden voor batterijopslag?"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Eligible costs are those EU state-aid rules allow for charging infrastructure, including grid-connection works, but not on-site generation.\n- Eligible costs: the charging infrastructure and its technical equipment; electrical cables and transformers for the grid connection or a storage connection; civil works, land and road adaptations, installation and permit costs; investment in storage of renewable electricity.\n- Caps: battery at most 1,000 kWh per location and C-value at most 0.5 (both not for public transport concession holders); subsidy at least EUR 2,500 per location.\n- Excluded costs: investment in on-site renewable generation, such as solar panels; for subsidies of EUR 25,000 or more, costs made before the application.\n- Subcontracting or equipment: an installer may install on its own site if costs are reasonable; the number and category of stations cannot be raised after applying, but the supplier may change.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.3.5; Artikel 2.3.3, derde tot vijfde lid; Artikel 2.3.13, tweede lid\nSPRILA: Begrippen en definities (RVO page) · Subsidiabele kosten\nSPRILA: Veelgestelde vragen (RVO page) · Mag ik een andere leverancier kiezen...; Kan ik subsidie krijgen voor laadstations die ik als installateur zelf installeer?"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "Small grants are paid in full after installation; larger grants pay 50% up front and the rest after final settlement.\n- Payment model: below EUR 25,000 the subsidy is settled at once and paid in one sum. From EUR 25,000, RVO pays a 50% advance with the grant decision; the recipient must request final settlement within 24 months of the advance, after the works, and then receives the rest.\n- Retention or guarantee: none, but subsidy can be reclaimed pro rata (1/24 per month) if the stations or battery are not used as required for 24 months.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.3.14; Artikel 2.3.16; Artikel 2.3.17a\nSubsidieregeling Private Laadinfrastructuur bij bedrijven (SPRILA) (RVO page) · Na uw aanvraag"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage, submitted online to RVO with eHerkenning level 3 (a Dutch business login), from 20 January 2026, 09:00, to 18 December 2026, 12:00, first come, first served.\n- Stage 1 — Application, subsidy below EUR 25,000: install first, then apply in the same calendar year or within 13 weeks after the installation date, with the invoice.\n- Stage 1 — Application, subsidy of EUR 25,000 or more: apply before ordering the work, with an unsigned quote; a signed quote counts as an order and makes the stations ineligible.\n- Additional procedure: if a ceiling runs out on a day with several complete applications, RVO ranks them by lottery. A complete application below EUR 25,000 that loses out is treated as submitted on the first day of the next year's period. If at least 70% of a request can still be funded, RVO consults the applicant. On 20 November 2026 the charging and battery ceilings were almost fully requested.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.3.7b; Artikel 2.3.8, derde lid; Artikel 2.3.11, eerste lid\nSubsidieregeling Private Laadinfrastructuur bij bedrijven (SPRILA) (RVO page) · Budget en aanvraagperiode; Bepaal het moment van aanvragen; Aanvragen; Budget\nSPRILA: Veelgestelde vragen (RVO page) · Wat gebeurt er als een subsidiepot op de 1e dag leeg is (uitgeput)?"
+        },
+        {
+          "title": "Project window",
+          "answer": "The charging infrastructure must be completed and in use within 24 months of the grant decision, with one possible extension of up to 12 months.\n- Maximum duration: 24 months from the grant decision.\n- Required start: for a subsidy of EUR 25,000 or more, works may start, at the applicant's own risk, right after the application is submitted; for a smaller subsidy the installation is already done when applying.\n- Eligible-cost period: for a subsidy of EUR 25,000 or more, investment costs made before the application are not eligible.\n- Completion deadline: one extension of up to 12 months can be requested if the applicant shows that building the infrastructure takes longer, for example because of force majeure.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.3.15, eerste lid, onderdeel a; Artikel 2.3.17, tweede lid; Artikel 1.3, onderdeel c\nSubsidieregeling Private Laadinfrastructuur bij bedrijven (SPRILA) (RVO page) · Meer dan EUR 25.000 subsidie; Na uw aanvraag\nSPRILA: Veelgestelde vragen (RVO page) · Mag ik direct na het indienen van een subsidieaanvraag hoger dan EUR 25.000 opdrachten verstrekken?"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "RVO handles applications in order of receipt and aims to decide within 6 weeks; the legal term is 13 weeks.\n- Funding decision: below EUR 25,000 RVO settles the subsidy directly; from EUR 25,000 it grants the subsidy with a 50% advance and settles it after completion.\n- Conditions before starting: none beyond applying first for subsidies from EUR 25,000. Grants are conditional on the approval of the ministry's 2026 budget (article 1.4), since the ceilings were set before parliament approved it.",
+          "sources": "Subsidieregeling Private Laadinfrastructuur bij bedrijven (SPRILA) (RVO page) · Na uw aanvraag\nTijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 1.4; Artikel 2.3.14; Artikel 2.3.16\nStaatscourant 2025, 39984 (wijziging Tijdelijke subsidieregeling zero-emissie mobiliteit, openstelling 2026) · Toelichting (begrotingsvoorbehoud)"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "An online RVO form with company details and, depending on the subsidy size, an invoice or an unsigned quote, datasheets and grid evidence.\n- Application form: the RVO form, online with eHerkenning level 3; RVO estimates 2.5 to 3 hours of work.\n- Both routes: KVK number, addresses, bank account, contact person, user target group, postcode of the location, datasheets of the stations, other subsidies received for the same infrastructure, proof of OCPP 1.6 or higher and permanent internet connection, and an SME declaration if applying as an SME.\n- Below EUR 25,000: the installation invoice with number, brand, type, power and installation date, and a de minimis declaration.\n- EUR 25,000 or more: an unsigned quote with brand, type, specifications and installation costs, showing the project can be finished within 24 months; the grid operator contract showing current capacity; a capacity calculation if more than 50% of the contracted capacity is needed; for a battery, a quote and datasheet with capacity, power and C-value.\n- Partner documents: an authorisation if an intermediary applies.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.3.9; Artikel 2.3.11, tweede lid; Artikel 2.3.12\nSubsidieregeling Private Laadinfrastructuur bij bedrijven (SPRILA) (RVO page) · Uw aanvraag voorbereiden; Lijst benodigde informatie"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Applications are not scored: complete applications that meet the conditions are funded in order of receipt until a ceiling is reached.\n- Ranking rules: order of receipt by date; lottery among complete applications received on the day a ceiling runs out; applications carried over from 2025 go first.\n- Budget assessment: RVO lowers the subsidy if it exceeds the state-aid percentage; the applicant chooses whether to cut the station or the battery part. RVO checks that the battery power fits the total station power and may reject a battery that does not.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.3.7b, derde tot vijfde lid; Artikel 2.3.13\nSPRILA: Veelgestelde vragen (RVO page) · Wat gebeurt er als een subsidiepot op de 1e dag leeg is (uitgeput)?; Is de hoogte van het subsidiebedrag gegarandeerd?\nRekenvoorbeelden en capaciteitsberekeningen voor SPRILA (RVO page) · Rekenvoorbeeld Staatssteunruimte; Rekenvoorbeeld inzet batterij"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Extra documents apply when grid capacity is tight or a battery is included; public transport operators and charge point operators follow different rules.\n- Conditional — charging needs more than 50% of available connection capacity: a capacity calculation showing the capacity is available within 24 months of the grant; otherwise the application can be refused in whole or part.\n- Conditional — battery: total subsidy of at least EUR 25,000, a quote showing it communicates with the station, registration after installation, 24 months of ownership and 70% of discharge to the stations, or the battery subsidy is reclaimed.\n- Exception — public transport concession holders: no location postcode or grid contract needed, but the concession award date showing battery-electric buses; no 1,000 kWh or C-value limit.\n- Exception — charge point operators: eligible only for charging their own vehicles or their staff's.\n- Exception — SMEs: double station amounts, EUR 85 per kWh and a 40% cap, with an SME declaration.\n- Recommended: check for grid congestion in the region before applying, and use RVO's calculation tool and free advice talk.",
+          "sources": "Tijdelijke subsidieregeling zero-emissie mobiliteit (wetten.overheid.nl, version valid from 3 June 2026) · Artikel 2.3.3, derde tot vijfde lid; Artikel 2.3.4, derde lid; Artikel 2.3.12, tweede tot vierde lid; Artikel 2.3.15, tweede lid\nSubsidieregeling Private Laadinfrastructuur bij bedrijven (SPRILA) (RVO page) · Let op (netcongestie); Advies nodig?; Rekentool en rekenvoorbeelden; Lijst benodigde informatie voor OV-concessiehouders"
+        }
+      ]
+    }
+  ]
+}

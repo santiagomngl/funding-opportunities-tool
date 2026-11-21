@@ -4,7 +4,7 @@
     "enabled_disabled": "enabled",
     "monitoring_interval": 7,
     "first_run_on": "2026-11-16",
-    "last_completed_scan_at": "2026-11-20T10:50:20+01:00"
+    "last_completed_scan_at": "2026-11-21T10:45:54+01:00"
   },
   "parameters_passed_to_the_search_agent": {
     "portal_type": "gateway",

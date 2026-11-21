@@ -1,0 +1,28 @@
+{
+  "id": "20261121-103855-04",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "SPULA 2026 – Subsidieregeling Publieke Laadinfrastructuur zwaar vervoer (SPULA)",
+  "organization_or_parent_framework": "Netherlands Enterprise Agency (RVO)",
+  "programme": "Subsidieregeling Publieke Laadinfrastructuur zwaar vervoer (SPULA)",
+  "call_title": "SPULA 2026",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://www.rvo.nl/subsidies-financiering/laadinfrastructuur/spula",
+  "executive_summary": "The 2026 opening of the SPULA, a Dutch investment subsidy of the Ministry of Infrastructure and Water Management, run by RVO, for companies registered with the Dutch Chamber of Commerce that build or extend a publicly accessible charging location in the Netherlands for heavy electric vehicles (trucks and buses of categories M3, N2 and N3), with at least 1,400 kW of charging stations of 200 kW or more, including at least two of 350 kW or more; public bus concession holders and public bodies may not apply. The subsidy is a fixed amount per charging station (EUR 19,000 for 200 to 350 kW, EUR 43,000 for 350 to 550 kW, EUR 80,000 from 550 kW) and EUR 80 per kWh for a stationary battery where grid capacity is insufficient, capped at 20% of eligible costs, for at most 3,600 kW and 1,400 kWh per location; the grant must be at least EUR 25,000, and at most five locations per two-digit postcode area are funded over the scheme's lifetime. The 2026 budget is EUR 14.5 million, allocated first come, first served; applications are open from 3 February 2026, 09:00, to 18 December 2026, 12:00, and all charging points must be in use within two years of the grant decision.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2026-12-18",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": 125000,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-21",
+  "status_rationale": "The scheme subsidises investment in publicly accessible charging locations for heavy electric road transport, with an optional stationary battery when the location will lack grid capacity within two years (Tijdelijke subsidieregeling zero-emissie mobiliteit, paragraaf 2.2, articles 2.2.2, 2.2.3 and 2.2.6, as amended by Staatscourant 2025, 39984; RVO page SPULA, Waarvoor krijgt u subsidie?). It touches TenneT's field because megawatt-scale truck charging adds new load and connection requests on a congested grid, and the call ties the funding to grid connections, batteries and charging control via the Open Charge Point Protocol, close to the project files Grids & Benefits and Time-dependent transmission rights contract (Lion Storage), although it funds the charge-point operator's site rather than grid work. Only a company that builds and publicly operates the charging location for 36 months, with the site owner's consent, may apply (articles 2.2.4, 2.2.9 and 2.2.12); TenneT TSO B.V. is not among the excluded applicants, but the call sets out no role for a transmission system operator, and the grid operator appears only as the issuer of the connection confirmation, which for a location of at most 3,600 kW is in practice the regional network operator (our interpretation). The category is flexibility and demand, since the scheme funds the electrification of heavy transport and stationary batteries that help charging locations cope with grid congestion.",
+  "call_type": "Type 3",
+  "category_codes": ["C3.3"],
+  "taxonomy_values": {
+    "topic": ["T5", "T10"],
+    "role": [],
+    "activity": ["A9", "A10"],
+    "outcome": ["O5", "O10"]
+  }
+}
