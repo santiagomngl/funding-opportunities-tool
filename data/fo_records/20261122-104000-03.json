@@ -1,0 +1,28 @@
+{
+  "id": "20261122-104000-03",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "TechBridge: Oproep Verenigd Koninkrijk 2026 – Quantum Technologies – TechBridge",
+  "organization_or_parent_framework": "Ministerie van Economische Zaken en Klimaat",
+  "programme": "TechBridge",
+  "call_title": "TechBridge: Oproep Verenigd Koninkrijk 2026 – Quantum Technologies",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://www.rvo.nl/subsidies-financiering/techbridge/oproep-vk-2026-quantum-technologies",
+  "executive_summary": "Second bilateral UK-Dutch TechBridge call, run by RVO for the Dutch side under title 3.8 (Internationaal innoveren) of the Regeling nationale EZ-, LVVN- en KGG-subsidies and by Innovate UK for the UK side, for joint R&D to develop, prototype and test commercial second-generation quantum technologies: entanglement-based quantum networking, quantum computing algorithms and hybrid workflows, quantum sensing and imaging for areas such as public infrastructure, and manufacturing of quantum hardware. The consortium must be co-led by a for-profit UK company and a for-profit Dutch company; other Dutch organisations may join the Dutch application as partners. RVO grants up to EUR 300,000 per Dutch consortium (total Dutch budget EUR 1.2 million) at 25% to 50% of R&D costs depending on organisation type and research or development work. Applications are due on 9 February 2027, 17:00 CET; projects start on 1 June 2027 and last at most 24 months.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-02-09",
+  "earliest_project_start_date": "2027-06-01",
+  "project_end_date": "2029-05-31",
+  "minimum_project_size": null,
+  "maximum_project_size": 857143,
+  "date_last_checked": "2026-11-22",
+  "status_rationale": "The call text (sections 3 and 4) funds joint UK-Dutch R&D to develop, prototype and test commercial quantum networking, quantum computing algorithms and hybrid workflows, and quantum sensing for areas such as public infrastructure. This touches TenneT's field because quantum optimisation algorithms and sensing could apply to grid operation and asset monitoring, as in GNN4GC, National Facility Digital Twin of the Electricity System (NFDTES) and Reliability Centered Maintenance (RCM), although the call has no energy focus (our interpretation). Section 9 lets other Dutch organisations join the Dutch application of a for-profit Dutch lead company, and RNES articles 3.8.2 and 3.8.4 fund each participant at 35% (research) or 25% (development) for a large company, while article 3.8.9(b) excludes only government bodies, which on our reading does not cover TenneT TSO B.V. as a private-law company; so TenneT could be a funded partner (C1.3). The project end date was derived from the 1 June 2027 start and the maximum duration of 24 months.",
+  "call_type": "Type 1",
+  "category_codes": ["C1.3"],
+  "taxonomy_values": {
+    "topic": ["T1", "T3"],
+    "role": ["R2", "R5"],
+    "activity": ["A2", "A5", "A6", "A8"],
+    "outcome": ["O6", "O3"]
+  }
+}

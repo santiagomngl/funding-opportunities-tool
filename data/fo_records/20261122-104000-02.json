@@ -1,0 +1,28 @@
+{
+  "id": "20261122-104000-02",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "TechBridge: Oproep Duitsland 2026 – Next-Generation Battery Technologies and Manufacturing – TechBridge",
+  "organization_or_parent_framework": "Ministerie van Economische Zaken en Klimaat",
+  "programme": "TechBridge",
+  "call_title": "TechBridge: Oproep Duitsland 2026 – Next-Generation Battery Technologies and Manufacturing",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://www.rvo.nl/subsidies-financiering/techbridge/oproep-duitsland-2026-battery-technologies-manufacturing",
+  "executive_summary": "Bilateral German-Dutch TechBridge call, run by RVO for the Dutch side under title 3.8 (Internationaal innoveren) of the Regeling nationale EZ-, LVVN- en KGG-subsidies and funded from the National Growth Fund project Material Independence and Circular Batteries, for joint R&D on next-generation battery cell materials and cell manufacturing (TRL 4 to 7) aimed at niche markets such as aviation, drones, heavy-duty applications and robotics. Consortia need at least one company from Germany and one from the Netherlands; the Dutch side must be led by a for-profit Dutch company, and knowledge institutions may join. RVO grants up to EUR 2 million per Dutch consortium (total Dutch budget EUR 2 million) at 25% to 50% of R&D costs depending on organisation type and research or development work. Applications are due on 19 January 2027, 17:00 CET; projects start from 1 June 2027 and last at most 36 months.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-01-19",
+  "earliest_project_start_date": "2027-06-01",
+  "project_end_date": "2030-05-31",
+  "minimum_project_size": null,
+  "maximum_project_size": 5714286,
+  "date_last_checked": "2026-11-22",
+  "status_rationale": "The call text (sections 2 and 3) funds next-generation battery cell materials, cell assembly and manufacturing equipment concepts, with cell-level energy-density and cycle-life targets, for niche markets such as aviation, drones, heavy-duty applications and robotics, and says mass markets are not targeted. It does not touch TenneT's field: it covers no stationary storage, grid connection or flexibility use, and no project file is close; the only link, better cells for the drones used in Reliability Centered Maintenance (RCM), is too remote from the call's cell-chemistry scope. The project end date was derived from the earliest start of 1 June 2027 and the maximum duration of 36 months.",
+  "call_type": "Not relevant",
+  "category_codes": [],
+  "taxonomy_values": {
+    "topic": [],
+    "role": [],
+    "activity": [],
+    "outcome": []
+  }
+}

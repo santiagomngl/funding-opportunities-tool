@@ -1,0 +1,242 @@
+{
+  "project_requirements": [
+    {
+      "title": "What the call wants",
+      "question": "What must the project address, develop and achieve?",
+      "cards": [
+        {
+          "title": "Central object",
+          "question": "What is the principal thing the project must develop?",
+          "answer": "A commercial second-generation quantum technology product, process or service, developed, prototyped and tested jointly by UK and Dutch partners.\nSecond-generation quantum technologies are devices and software that use quantum effects such as entanglement and superposition directly, for example quantum computers, quantum networks and quantum sensors. The project must be directed at researching or developing an innovative product, process or service with the goal of commercialisation, and it must have a civilian purpose.",
+          "sources": "Call-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 1 · 1. Introduction\nCall-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 2 · 3. Scope; 4. Qualification Criteria"
+        },
+        {
+          "title": "Scope",
+          "question": "Which activities fall within the funding opportunity's scope?",
+          "answer": "The project must focus on development, prototyping and testing of commercial quantum technologies in at least one of four themes set by the call.\n- Theme 1: software or hardware solutions that advance commercial deployment of entanglement-based quantum networking (networks that link quantum devices through entangled particles).\n- Theme 2: quantum computing algorithms, software applications and hybrid workflows (combinations of quantum and conventional computing).\n- Theme 3: wider commercial adoption of quantum sensing and imaging, in areas such as life sciences, healthcare and public infrastructure.\n- Theme 4: commercially viable industrial manufacturing and assembly processes for hardware such as detectors, control electronics, laser and optical systems, and vacuum and cryogenic systems for quantum computers and networks.\n- Encouraged, not mandatory: including testbed providers or pilot production lines in the UK or the Netherlands, hosted at a national lab, research organisation or university facility.\n- Funded for Dutch partners: only research and development activities; other costs are borne by the partners.\n- Excluded: projects without a civilian purpose, and work a Dutch partner started before applying.",
+          "sources": "Call-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 2 · 3. Scope; 4. Qualification Criteria\nTechBridge: Oproep Verenigd Koninkrijk 2026 – Quantum Technologies (RVO page) · Belangrijkste nationale voorwaarden\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 3.8 Internationaal innoveren · Artikelen 3.8.4a and 3.8.5"
+        },
+        {
+          "title": "Problem",
+          "question": "What type of problem or need must justify the project, and where must it originate?",
+          "answer": "The project must answer a commercial need: the call is about turning quantum technology into marketable products, and the need is that of the participating companies and their markets.\nThe call sets no requirement for an operational user or societal problem owner. It asks for innovative products and applications with strong market potential, to drive economic growth in the quantum industries of both countries, and requires that the project benefits all involved partners. Theme 3 names life sciences, healthcare and public infrastructure as example application areas for quantum sensing, so a need from an infrastructure operator could justify a sensing project, but the call does not require one. RVO also rejects applications whose project is expected to have too few positive effects on the Dutch economy.",
+          "sources": "Call-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 1 · 2. Call description & objectives\nCall-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 2 · 3. Scope; 4. Qualification Criteria\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 3.8 Internationaal innoveren · Artikel 3.8.9, onderdeel a"
+        },
+        {
+          "title": "Deliverables",
+          "question": "Which concrete outputs must the project produce?",
+          "answer": "A developed, prototyped and tested quantum technology product, process or service with a route to commercialisation.\nThe call names no fixed list of outputs. Depending on the theme, the deliverable can be networking hardware or software, quantum algorithms and software applications, sensing or imaging systems, or a manufacturing and assembly process for quantum hardware. The national application must also include a public summary of the project, and after the project the Dutch partners must deliver a final report.",
+          "sources": "Call-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 2 · 3. Scope\nTechBridge: Oproep Verenigd Koninkrijk 2026 – Quantum Technologies (RVO page) · Doel; Uw aanvraag voorbereiden; Na uw aanvraag"
+        },
+        {
+          "title": "Impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "Economic impact: the call seeks commercialisation and growth of the UK and Dutch quantum industries, not targets for energy or other public systems.\n- Economic goal: foster deep bilateral knowledge exchange and drive economic growth within both countries' quantum industries.\n- Required: the product, process or service must be innovative with the potential to create impact, and the cooperation must give an obvious benefit and added value to the participants, for example a larger knowledge base, commercial leads or access to R&D infrastructure.\n- Dutch ranking: RVO ranks projects higher the more economic value the results create for the Netherlands and the wider the application possibilities of the results.\n- Targets: the call sets no quantified impact targets and names no climate or energy-system outcomes.",
+          "sources": "Call-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 1 · 2. Call description & objectives\nCall-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 2 · 4. Qualification Criteria\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 3.8 Internationaal innoveren · Artikel 3.8.10"
+        },
+        {
+          "title": "After the project",
+          "question": "How must the result be replicated, taken up and kept in use after the project?",
+          "answer": "The result must be aimed at commercialisation, but the call sets no requirements on replication, standards or continued operation after the project.\n- Use beyond the project: the project must be directed at developing a product, process or service with the goal of commercialisation; whether it must actually reach the market is not stated.\n- Rights: a signed consortium agreement on the execution and commercialisation of the results, including intellectual property rights, is mandatory for selected projects.\n- Replication, standards, business model and dissemination: the call sets no requirements.\n- After funding ends: Dutch partners must cooperate with an evaluation of the project's effects for five years after the grant is finally settled.",
+          "sources": "Call-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 2 · 4. Qualification Criteria\nCall-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 4 · 7. Funding Conditions\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 3.8 Internationaal innoveren · Artikel 3.8.12"
+        }
+      ]
+    },
+    {
+      "title": "Consortium",
+      "question": "How must collaboration be organised?",
+      "cards": [
+        {
+          "title": "Number of partners",
+          "question": "What is the permitted or required consortium size?",
+          "answer": "At least two companies: one for-profit company from the UK and one from the Netherlands, which co-lead the project; no maximum is set.\nOther organisations, such as knowledge institutions, may join as partners once this condition is met. Partners from other countries may also take part, but only with their own funding. No single organisation or country may account for more than 70% of the total eligible project costs, so neither side can carry the project alone.",
+          "sources": "Call-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 2 · 4. Qualification Criteria\nCall-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 5 · 9. Eligibility Criteria (Third-country participation)\nTechBridge: Oproep Verenigd Koninkrijk 2026 – Quantum Technologies (RVO page) · Belangrijkste internationale voorwaarden"
+        },
+        {
+          "title": "Partner composition",
+          "question": "Which types of partners must the consortium include?",
+          "answer": "A UK company and a Dutch company are mandatory; universities, research institutes and other organisations may join, and testbed providers are encouraged.\n- Mandatory: at least one for-profit company from the UK and one from the Netherlands.\n- Dutch side: at least one Dutch company must take part for Dutch funding; Dutch knowledge institutions can only take part, and be funded, alongside a Dutch company.\n- Encouraged: testbed providers or pilot production lines in the UK or the Netherlands, hosted at a national lab, research organisation or university facility.\n- Third countries: partners from other countries may join if they secure their own funding before the deadline and add a signed self-funding letter to the national applications.",
+          "sources": "Call-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 2 · 3. Scope; 4. Qualification Criteria\nCall-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 5 · 9. Eligibility Criteria (RVO; Third-country participation)\nTechBridge: Oproep Verenigd Koninkrijk 2026 – Quantum Technologies (RVO page) · Doel; Belangrijkste nationale voorwaarden"
+        },
+        {
+          "title": "Distribution of work",
+          "question": "How must work and budget be distributed among partners?",
+          "answer": "Costs must be balanced between the countries: no single organisation or country may claim more than 70% of the total eligible project costs.\n- Funding: each partner is funded by its own national funder (RVO for Dutch partners, Innovate UK for UK partners); no money flows between the two funders.\n- Dutch grant: all Dutch partners share at most EUR 300,000 per project; a higher total is cut back pro rata.\n- Benefit and risk: the project must benefit all partners, and there must be technological risk for all of them, so every partner needs a real development role.\n- Agreement: partners must sign a consortium agreement and send it to the funders within 3 months of the evaluation results.",
+          "sources": "Call-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 2 · 4. Qualification Criteria\nCall-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 4 · 7. Funding Conditions\nCall-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · pp. 4–5 · 9. Eligibility Criteria\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 3.8 Internationaal innoveren · Artikel 3.8.4, achtste lid, onderdeel g"
+        },
+        {
+          "title": "Coordinator",
+          "question": "What type of organisation may or must act as lead applicant?",
+          "answer": "A for-profit Dutch company must submit and lead the Dutch application; a UK company leads the UK application.\nThe project is co-led by one for-profit UK company and one for-profit Dutch company. In the Netherlands the penvoerder (the lead applicant that submits the application on behalf of all Dutch partners) must be a company (ondernemer). In the UK, the application must be led by a UK-registered business of any size.",
+          "sources": "Call-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 2 · 4. Qualification Criteria\nCall-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · pp. 4–5 · 9. Eligibility Criteria\nTechBridge: Oproep Verenigd Koninkrijk 2026 – Quantum Technologies (RVO page) · Belangrijkste nationale voorwaarden\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 3.8 Internationaal innoveren · Artikel 3.8.3"
+        }
+      ]
+    },
+    {
+      "title": "TenneT's position",
+      "question": "What is TenneT's position within the consortium?",
+      "cards": [
+        {
+          "title": "Coordinate",
+          "question": "Can TenneT apply or coordinate, and under which conditions?",
+          "answer": "Probably yes, if TenneT itself develops a quantum technology to commercialise, because the Dutch lead must be a for-profit Dutch company and TenneT TSO B.V. is a company.\nThe Dutch penvoerder (lead applicant) must be a for-profit company, and RVO rejects applications from a government or government institution. TenneT TSO B.V. is a private-law company, though fully state-owned; on our reading this exclusion does not apply to it, but RVO has not confirmed this. In practice the lead role fits a quantum technology company better: the project must be aimed at commercialising an innovative product, process or service with technological risk for all partners, and TenneT's role as a grid operator would more naturally be that of a partner and user.",
+          "sources": "Call-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 2 · 4. Qualification Criteria\nCall-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 5 · 9. Eligibility Criteria (RVO)\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 3.8 Internationaal innoveren · Artikelen 3.8.3 and 3.8.9, onderdeel b"
+        },
+        {
+          "title": "Participate",
+          "question": "Can TenneT take part without receiving funding?",
+          "answer": "Yes, as a partner in the Dutch application of a Dutch lead company; the call does not describe an unfunded or associated role.\nOther Dutch organisations may join the Dutch application as project partners. The call says nothing about Dutch partners that take part without asking for a grant, but it lets partners from third countries take part on their own funding, and a Dutch partner could ask for no grant. Every partner must face technological risk and benefit from the project, so TenneT would need a real development role, for example co-developing and testing a quantum algorithm or sensor on its own grid problems.",
+          "sources": "Call-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 2 · 4. Qualification Criteria\nCall-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 5 · 9. Eligibility Criteria (RVO; Third-country participation)"
+        },
+        {
+          "title": "Receive funding",
+          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
+          "answer": "Yes, at large-company rates, within a EUR 300,000 cap shared by all Dutch partners, through RVO.\nRVO funds only R&D costs. As a large company, TenneT TSO B.V. could receive at most:\n- Industrial research (research to gain new knowledge for new products, processes or services): 35% of eligible costs\n- Experimental development (building and testing prototypes close to real use): 25% of eligible costs\nAll Dutch partners in one project share at most EUR 300,000 of grant; if their requests add up to more, each is cut back pro rata. TenneT's grant therefore depends on what the Dutch lead company and other Dutch partners request, and TenneT must finance the rest of its own costs itself. Eligible costs are those named in article 25(3) of the EU General Block Exemption Regulation (the EU state-aid rules for R&D, which cover costs such as personnel, equipment and contract research). TenneT must not start its part of the project before applying. Our reading that TenneT is not a government body excluded under article 3.8.9 has not been confirmed by RVO.",
+          "sources": "Call-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 5 · 9. Eligibility Criteria (RVO)\nTechBridge: Oproep Verenigd Koninkrijk 2026 – Quantum Technologies (RVO page) · Budget; Subsidiepercentages\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 3.8 Internationaal innoveren · Artikelen 3.8.4, 3.8.4a, 3.8.5 and 3.8.9"
+        },
+        {
+          "title": "TenneT's likely contribution",
+          "question": "What contribution would make TenneT credible and useful within the project?",
+          "answer": "Our judgement: TenneT would be most credible as a problem owner and test partner that brings grid optimisation or asset-monitoring use cases, data and validation.\n- Quantum computing (theme 2): TenneT could supply grid optimisation problems, such as topology or redispatch optimisation, with representative network data, and validate hybrid quantum-classical workflows against its current tools, building on work like GNN4GC and the National Facility Digital Twin of the Electricity System (NFDTES).\n- Quantum sensing (theme 3, which names public infrastructure): TenneT could offer substations, cables or lines as test sites for quantum magnetometers or other sensors for condition monitoring, linked to Reliability Centered Maintenance (RCM).\n- Constraints: the project is led by companies aiming to commercialise their product, the Dutch grant is only EUR 300,000 for all Dutch partners, and projects last at most 24 months, so TenneT's contribution would be a modest, well-defined use case rather than a large programme.",
+          "sources": "Call-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 2 · 3. Scope; 4. Qualification Criteria\nCall-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 5 · 9. Eligibility Criteria (RVO)"
+        }
+      ]
+    },
+    {
+      "title": "Innovation",
+      "question": "What type of innovation must the project develop?",
+      "cards": [
+        {
+          "title": "Innovation threshold",
+          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
+          "answer": "The product, process or service must be genuinely innovative, with technological risk for all partners.\nThe call requires that the result is innovative, that there is technological risk for every partner, and that it has the potential to create impact. RVO ranks projects higher the more they contribute to technological renewal or to substantially new applications of an existing technology, so a new application of existing quantum technology can qualify.",
+          "sources": "Call-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 2 · 4. Qualification Criteria\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 3.8 Internationaal innoveren · Artikel 3.8.10, eerste lid, onderdeel a"
+        },
+        {
+          "title": "Innovation object",
+          "question": "In what must the project innovate?",
+          "answer": "Technology: the innovation must be in quantum hardware, software, algorithms or manufacturing processes.\nThe four themes cover quantum networking hardware and software, quantum computing algorithms and hybrid workflows, quantum sensing and imaging applications, and industrial manufacturing and assembly processes for quantum hardware. The call does not cover innovation in market arrangements or governance.",
+          "sources": "Call-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 2 · 3. Scope"
+        },
+        {
+          "title": "Development stages",
+          "question": "Which development stages must the project cover?",
+          "answer": "Research and development up to prototyping and testing; only research and development costs are funded.\nThe project must focus on development, prototyping and testing of commercial quantum technologies. RVO funds industrial research and experimental development (building and testing prototypes close to real use) at different rates, and no other stages such as deployment or commercial roll-out.",
+          "sources": "Call-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 2 · 3. Scope\nCall-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 5 · 9. Eligibility Criteria (RVO)\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 3.8 Internationaal innoveren · Artikel 3.8.4"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "The call sets no TRL (technology readiness level); it expects prototyping and testing of technologies aimed at commercialisation.\nThe call speaks of second-generation quantum technologies to be developed, prototyped and tested with a goal of commercialisation, which points to work beyond basic research, but no start or end maturity is stated.",
+          "sources": "Call-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 2 · 3. Scope; 4. Qualification Criteria"
+        }
+      ]
+    },
+    {
+      "title": "Work",
+      "question": "Which activities or work structure must the project cover?",
+      "cards": [
+        {
+          "title": "Demonstration",
+          "question": "Where and under which conditions must the solution be demonstrated?",
+          "answer": "Testing is required, but the call does not prescribe a setting; testbeds at labs or universities are encouraged.\nThe project must include testing of the quantum technology. The call encourages including testbed providers or pilot production lines in the UK or the Netherlands: prototype or development platforms to characterise, advance and demonstrate commercial quantum computing, networking or sensing solutions, hosted at a national lab, research organisation or university research facility. Testing under real operational conditions is not required.",
+          "sources": "Call-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 2 · 3. Scope\nTechBridge: Oproep Verenigd Koninkrijk 2026 – Quantum Technologies (RVO page) · Oproep"
+        },
+        {
+          "title": "Integration",
+          "question": "How must the activities fit together and with existing systems?",
+          "answer": "One joint project with one title across both countries, but the call sets no system-integration requirement.\nUK and Dutch partners file separate national applications that must use exactly the same project title, and the funders select projects jointly. The project must show added value from the technological cooperation between participants, such as a larger knowledge base, commercial leads or access to R&D infrastructure. The call does not say how the work must interact with existing infrastructure or processes.",
+          "sources": "Call-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 2 · 4. Qualification Criteria\nCall-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 3 · 5. Application; 6. Evaluation"
+        },
+        {
+          "title": "Evidence",
+          "question": "What must the demonstration prove?",
+          "answer": "The call sets no performance indicators for the tests.\nDutch partners report progress once a year and submit a final report when asking for the grant to be finally settled, and they must cooperate with an evaluation of the project's effects for five years. The call itself names no indicators the testing must prove.",
+          "sources": "TechBridge: Oproep Verenigd Koninkrijk 2026 – Quantum Technologies (RVO page) · Na uw aanvraag\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 3.8 Internationaal innoveren · Artikel 3.8.12"
+        },
+        {
+          "title": "User participation",
+          "question": "How must users take part in the project?",
+          "answer": "Not required; the call does not ask for users to define requirements or validate results.\nThe call only requires that the project benefits all involved partners and that the cooperation adds value. A user organisation such as a grid operator can join as a partner, but the call does not ask for one.",
+          "sources": "Call-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 2 · 4. Qualification Criteria"
+        },
+        {
+          "title": "Safety and cybersecurity",
+          "question": "Which safety, cybersecurity or data requirements must the project meet?",
+          "answer": "The call sets no safety or data rules, but RVO asks partners to manage economic-security risks of international cooperation.\nThe project must have a civilian purpose. RVO points applicants to its information on safe and resilient cooperation, because cooperation on knowledge-intensive technology can bring economic-security risks such as unwanted knowledge transfer, and refers to its WeerbaarWijzer tool and the Ondernemersloket Economische Veiligheid (the government help desk for economic security).",
+          "sources": "Call-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 2 · 4. Qualification Criteria\nTechBridge: Oproep Verenigd Koninkrijk 2026 – Quantum Technologies (RVO page) · Veilig en weerbaar samenwerken"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "Up to EUR 300,000 of grant for all Dutch partners of a project together, from a Dutch budget of EUR 1.2 million.\n- Total project size: not capped. At the large-company research rate of 35%, the EUR 300,000 cap matches about EUR 857,000 of Dutch eligible costs.\n- Grant request: at most EUR 300,000 per project for all Dutch partners together; requests above that are cut pro rata. UK partners can each apply to Innovate UK for a share of up to GBP 400,000.\n- Funding form: a cost-based grant over eligible R&D costs.",
+          "sources": "Call-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · pp. 4–5 · 9. Eligibility Criteria\nTechBridge: Oproep Verenigd Koninkrijk 2026 – Quantum Technologies (RVO page) · Budget en aanvraagperiode; Budget\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 3.8 Internationaal innoveren · Artikel 3.8.4, achtste lid, onderdeel g\nStaatscourant 2026, 33874 (officielebekendmakingen.nl) · Artikel II"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "Dutch rates depend on organisation type and on whether the work is research or development; partners pay the rest themselves.\n- Large company: 35% for research activities, 25% for development activities\n- SME: 45% for research activities, 35% for development activities\n- Universities and research organisations: 50% for research activities, 25% for development activities\n- Co-financing conditions: each partner finances its remaining costs from its own contribution; UK partners are funded by Innovate UK under UK rules.",
+          "sources": "Call-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 5 · 9. Eligibility Criteria (RVO)\nTechBridge: Oproep Verenigd Koninkrijk 2026 – Quantum Technologies (RVO page) · Subsidiepercentages; Belangrijkste nationale voorwaarden\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 3.8 Internationaal innoveren · Artikel 3.8.4"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Only research and development costs are eligible, and no country or organisation may carry more than 70% of the project costs.\n- Eligible costs: the costs named in article 25(3) of the EU General Block Exemption Regulation (the EU state-aid rules for R&D, which cover costs such as personnel, equipment and contract research).\n- Caps or mandatory allocations: at most 70% of total eligible project costs for any single organisation or country; EUR 300,000 of Dutch grant per project.\n- Excluded costs: costs of work a partner started before applying, and costs other than R&D.",
+          "sources": "Call-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 2 · 4. Qualification Criteria\nTechBridge: Oproep Verenigd Koninkrijk 2026 – Quantum Technologies (RVO page) · Belangrijkste nationale voorwaarden\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 3.8 Internationaal innoveren · Artikelen 3.8.4a and 3.8.5"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: each partner applies to its own national funder by 9 February 2027, using the same project title.\n- Stage 1 — National application to RVO: from 2 November 2026 to 9 February 2027, 17:00 CET, through the RVO application portal by the Dutch lead company on behalf of all Dutch partners.\n- Additional procedure — UK application: the UK partners must apply to Innovate UK on the Innovation Funding Service portal by 9 February 2027, 11:00 GMT (12:00 CET), using the same project title.\n- Additional procedure — pre-check: RVO invites partners to have their project idea checked before applying; this is optional.",
+          "sources": "Call-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 1 · Time Schedule\nCall-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 3 · 5. Application\nCall-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · pp. 4–5 · 9. Eligibility Criteria\nTechBridge: Oproep Verenigd Koninkrijk 2026 – Quantum Technologies (RVO page) · Projectvoorstel indienen"
+        },
+        {
+          "title": "Project window",
+          "answer": "Projects start on 1 June 2027 and last at most 24 months.\n- Maximum duration: 24 months.\n- Required start: 1 June 2027, according to the call's time schedule.\n- Eligible-cost period: a Dutch partner may not start its part of the project before applying, so costs count only from the application onwards; the regulation sets a completion term (realisatietermijn) of three years.",
+          "sources": "Call-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 1 · Time Schedule\nCall-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 2 · 4. Qualification Criteria\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 3.8 Internationaal innoveren · Artikelen 3.8.5 and 3.8.8"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "Funding decisions are expected at the end of March 2027, after a joint UK-Dutch consensus meeting.\n- Funding decision: end of March 2027 (indicative); RVO decides at most 13 weeks after receiving the application.\n- Grant agreement: RVO issues a grant decision to each Dutch applicant; no separate grant agreement is mentioned.\n- Conditions before starting: a signed consortium agreement on the execution and commercialisation of results is mandatory and must reach the funders within 3 months of the results.",
+          "sources": "Call-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 1 · Time Schedule\nCall-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 3 · 6. Evaluation\nCall-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 4 · 7. Funding Conditions\nTechBridge: Oproep Verenigd Koninkrijk 2026 – Quantum Technologies (RVO page) · Na uw aanvraag"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "The Dutch application consists of the RVO form plus a project plan, budget, consortium form, public summary and company declarations.\n- Application form: 'Internationaal Innoveren - TechBridge' in the RVO application portal, with RVO's project plan template.\n- Budget: the RVO TechBridge model budget (Excel).\n- Mandatory annexes: International Consortium Form and public summary, both on RVO templates.\n- Partner documents: per company a declaration that it is not an undertaking in difficulty, with the decision scheme; a signed consortium agreement (may be sent later); with several Dutch partners, per company a registration form and a mandate for the lead applicant; a self-funding letter for any third-country partner.\n- Registration: login with eHerkenning (the Dutch business login) for RVO.\n- Parallel submission: the UK partners must submit a matching application to Innovate UK.",
+          "sources": "TechBridge: Oproep Verenigd Koninkrijk 2026 – Quantum Technologies (RVO page) · Uw aanvraag voorbereiden; Projectvoorstel indienen\nTechBridge: subsidie voor sleuteltechnologieontwikkeling (RVO page) · Uw aanvraag voorbereiden\nCall-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 5 · 9. Eligibility Criteria (RVO; Third-country participation)"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "Each funder assesses its own applications; RVO ranks Dutch applications on four equally weighted criteria, and a joint consensus meeting selects the projects.\n- Evaluation criteria (RVO): contribution to technological renewal or substantially new applications of existing technology; efficiency and effectiveness of the project, novelty of the partnership and involvement of research organisations; economic value of the results for the Netherlands; fit with the participating companies' goals and breadth of application of the results.\n- Weighting: the four criteria weigh equally.\n- Ranking rules: RVO distributes the budget in order of ranking; a bilateral consensus meeting of RVO and Innovate UK then agrees a common list of funded projects based on the assessors' scores.\n- Budget assessment: RVO may ask questions about the project budget during its assessment.",
+          "sources": "Call-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 3 · 6. Evaluation\nRegeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 3.8 Internationaal innoveren · Artikelen 3.8.6 and 3.8.10\nTechBridge: Oproep Verenigd Koninkrijk 2026 – Quantum Technologies (RVO page) · Na uw aanvraag"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Grants depend on both national funders approving the project, and applications are rejected if the partner country's side is unlikely to proceed.\n- Conditional — the UK side fails: RVO rejects an application if it is likely that the project cannot go ahead because of circumstances in the UK or financial or technical problems of a UK partner.\n- Conditional — economic effect: RVO rejects an application if too few positive effects on the Dutch economy are expected.\n- Exception — third-country partners: they may join only with their own funding, secured before the deadline, and a signed self-funding letter annexed to both national applications.\n- Recommended: contact RVO for a pre-check of the project idea, and attend the joint information session (held on 11 November 2026).",
+          "sources": "Regeling nationale EZ-, LVVN- en KGG-subsidies (wetten.overheid.nl) · Titel 3.8 Internationaal innoveren · Artikel 3.8.9, onderdelen a and e\nCall-for-Proposals-for-Joint-R&D-Projects-UK-Netherlands-Commercialising-Quantum-Technologies_3.pdf · p. 5 · 9. Eligibility Criteria (Third-country participation); 10. Information session"
+        }
+      ]
+    }
+  ]
+}
