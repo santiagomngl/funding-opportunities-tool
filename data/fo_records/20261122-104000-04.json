@@ -1,0 +1,28 @@
+{
+  "id": "20261122-104000-04",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "Tijdelijke subsidieregeling vroege opschaling energietransitie zeeschepen 2026-2030: openstelling 2026 – Tijdelijke subsidieregeling vroege opschaling energietransitie zeeschepen 2026-2030",
+  "organization_or_parent_framework": "Ministerie van Infrastructuur en Waterstaat",
+  "programme": "Tijdelijke subsidieregeling vroege opschaling energietransitie zeeschepen 2026-2030",
+  "call_title": "Tijdelijke subsidieregeling vroege opschaling energietransitie zeeschepen 2026-2030: openstelling 2026",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://www.rvo.nl/subsidies-financiering/energietransitie-zeeschepen",
+  "executive_summary": "First opening of a Dutch investment subsidy of the Ministry of Infrastructure and Water Management, run by RVO, for shipowners established in the Netherlands that buy and install a hydrogen or methanol energy line (propulsion system) in a new or retrofitted seagoing vessel, optionally with energy-saving techniques and a battery pack (each up to EUR 400,000). The subsidy is 40% of eligible costs, plus 10 percentage points for an emission-free vessel and 10 or 20 points for medium or small companies, up to EUR 4 million per project and one vessel per application. The budget is EUR 29 million of the scheme's EUR 102.8 million to 2029; it is a tender ranked on five criteria, open from 6 October 2026, 09:00, to 9 February 2027, 17:00. Projects must start within 6 months of the grant decision and be completed within 3 years.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-02-09",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": 10000000,
+  "date_last_checked": "2026-11-22",
+  "status_rationale": "The scheme (Staatscourant 2026, 21927, articles 1, 3 and 8; RVO page, Waarvoor krijgt u subsidie?) funds Dutch shipowners' purchase and installation of hydrogen or methanol energy lines on seagoing vessels, with optional onboard energy-saving techniques and battery packs. It does not touch TenneT's field: unlike the inland-shipping scheme it funds no shore-side charging or other grid-connected infrastructure, only onboard propulsion fuelled by bunkered hydrogen or methanol, and no project file is close. Both project dates are null because the call states only a start within 6 months of the grant decision and completion within 3 years.",
+  "call_type": "Not relevant",
+  "category_codes": [],
+  "taxonomy_values": {
+    "topic": [],
+    "role": [],
+    "activity": [],
+    "outcome": []
+  }
+}
