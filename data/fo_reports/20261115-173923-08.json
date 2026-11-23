@@ -7,38 +7,38 @@
         {
           "title": "Central object",
           "question": "What is the principal thing the project must develop?",
-          "answer": "Develop and demonstrate systems that recover industrial excess heat and convert it to mechanical or electrical power.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · Expected Outcome"
+          "answer": "Novel systems that recover industrial excess heat and convert it into mechanical or electrical power, demonstrated at operational industrial sites, possibly with energy storage.\nExcess or waste heat is heat from industrial processes that is now lost. Converting it back to electricity saves energy, limits the rise in electricity demand from industrial electrification and, combined with storage, can offer flexible generation to stabilise the grid.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · HORIZON-CL5-2027-05-D4-09, Scope"
         },
         {
           "title": "Scope",
           "question": "Which activities fall within the funding opportunity's scope?",
-          "answer": "Develop and validate new ways to recover and convert excess industrial heat to mechanical or electrical power. Demonstrate the technology in operating factories and consider adding storage.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · Specific conditions"
+          "answer": "Projects must address all six items listed; the call names no excluded activities.\n- Develop and validate novel excess-heat recovery and conversion systems\n- Demonstrate physically, at one or more operational industrial sites, heat recovery (possibly with energy storage) and conversion to mechanical or electrical power\n- Maximise replicability in plants of the same sector across the EU and Associated Countries: survey and analyse the needs of most such factories before the design phase, so the solution can be adapted to most of them\n- Identify common components and define a standardised, cost-competitive version\n- Develop open technical and economic guidelines and open tools for integrating these systems into the SCADA (Supervisory Control and Data Acquisition) and energy management systems of existing plants, and for innovative business models that offer heat valorisation as flexible electricity generation to stabilise the power grid\n- Disseminate results, notably to the public-private partnerships of Cluster 4 Digital, Industry and Space",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · HORIZON-CL5-2027-05-D4-09, Scope"
         },
         {
           "title": "Problem",
           "question": "What type of problem or need must justify the project, and where must it originate?",
-          "answer": "Factories need options to recover heat that would otherwise be lost. Power production from waste heat and storage could also help offset higher electricity use as factories electrify.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · Expected Outcome"
+          "answer": "Industry wastes large amounts of process heat while electrification raises its power demand and costs.\nThe need originates with energy-intensive industry: better use of excess heat is a major source of energy savings and cost reduction. The call adds a system need: flexible electricity generation that can help stabilise the grid.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · HORIZON-CL5-2027-05-D4-09, Expected Outcome and Scope"
         },
         {
           "title": "Deliverables",
           "question": "Which concrete outputs must the project produce?",
-          "answer": "Provide a working industrial demonstrator, standardised components and open guidance for plant control systems. Develop business models for using the recovered heat, including flexible electricity production where relevant.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · Expected Outcome"
+          "answer": "A validated heat-to-power system demonstrated at industrial sites, a sector needs survey, standardised components, open integration guidelines and tools, and business models.\n- Novel heat recovery and conversion systems, developed, validated and physically demonstrated\n- A survey and analysis of the needs of factories in the target sector\n- A standardised, cost-competitive version of the common components\n- Open guidelines and tools for SCADA and energy-management integration\n- Business models for heat valorisation as flexible generation\n- Pathways and business models for at least one industrial sector",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · HORIZON-CL5-2027-05-D4-09, Expected Outcome and Scope"
         },
         {
           "title": "Impact",
           "question": "Which wider system outcomes and impacts must the project support?",
-          "answer": "Demonstrate measurable gains in energy efficiency, economic performance and safety. Where the project makes electricity, quantify its flexibility and expected grid value.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · Expected Outcome"
+          "answer": "Projects must contribute to both outcomes: a sector adopting heat-to-power pathways that cut energy costs, and measurable performance improvements, including flexibility of electricity production.\n- At least one industrial sector with significant heat demand develops pathways and business models that measurably increase heat recovery and conversion to power, reducing energy costs\n- Measurable improvement in energy efficiency, flexibility of electricity production, climate and environmental protection, reliability and safety, physical and cyber security, and profitability\nThe call requires measurable improvement but sets no numerical targets.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · HORIZON-CL5-2027-05-D4-09, Expected Outcome"
         },
         {
           "title": "After the project",
           "question": "How must the result be replicated, taken up and kept in use after the project?",
-          "answer": "Survey factories’ needs before designing the solution, standardise suitable components and share the results. Provide open guidance usable by other plants in the same sector.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · Expected Outcome"
+          "answer": "The solution must be designed from the start for replication across plants of the same sector, with standardised components and open integration tools.\n- A sector-wide needs survey before design, so the solution fits most plants\n- Standardised, cost-competitive components\n- Open technical and economic guidelines and tools\n- Dissemination to Cluster 4 public-private partnerships\n- The granting authority may object, for up to 4 years after the project, to a transfer of ownership or exclusive licensing of results",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · HORIZON-CL5-2027-05-D4-09, Specific conditions and Scope"
         }
       ]
     },
@@ -49,26 +49,26 @@
         {
           "title": "Number of partners",
           "question": "What is the permitted or required consortium size?",
-          "answer": "The proposal needs at least three independent funded partners in three different eligible countries. At least one must be established in a European Union Member State. The other two must be established in different Member States or countries associated with Horizon Europe (countries formally participating in the European research programme).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+          "answer": "At least three independent organisations from three different countries; the call sets no maximum.\nThe general rule requires, as beneficiaries (organisations that sign the grant agreement and receive funding), three legal entities independent of each other: at least one established in an EU Member State and two others each in a different Member State or country associated with Horizon Europe (non-EU countries taking part in the programme, such as Norway, Switzerland or the United Kingdom). Affiliated entities (organisations legally linked to a beneficiary) and associated partners (organisations taking part without funding) do not count towards this minimum.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · B — Eligibility, Consortium composition"
         },
         {
           "title": "Partner composition",
           "question": "Which types of partners must the consortium include?",
-          "answer": "The industrial team needs a working factory, heat recovery and conversion expertise, and participants able to integrate the system with existing controls.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+          "answer": "The call names no required partner types; physical demonstration requires at least one operational industrial site, so an industrial host is needed in practice.\nEntities established in an eligible country but directly or indirectly controlled by China or by a legal entity established in China are not eligible.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · HORIZON-CL5-2027-05-D4-09, Specific conditions and Scope"
         },
         {
           "title": "Distribution of work",
           "question": "How must work and budget be distributed among partners?",
-          "answer": "The plant team must be able to carry out a physical demonstration in an operating factory. Identify wider sector needs before design and build integration guidance that other plants can use.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · Scope"
+          "answer": "The call prescribes no division of work or budget.\nSince the grant is a lump sum (a fixed amount paid against completed work packages), the consortium must allocate the amount to work packages and partners in a detailed budget table.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · HORIZON-CL5-2027-05-D4-09, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, lump sum grant proposals"
         },
         {
           "title": "Coordinator",
           "question": "What type of organisation may or must act as lead applicant?",
-          "answer": "The group appoints a funded partner to lead the work on industrial waste heat to power and represent it to the funder.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners"
+          "answer": "No type of organisation is prescribed: the beneficiaries choose one of themselves as coordinator.\nThe coordinator manages and coordinates the project and represents the consortium towards the granting authority (the European Commission or its agency). At submission it must confirm that it has the mandate to act for all applicants.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Coordinator\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, Submission"
         }
       ]
     },
@@ -79,26 +79,26 @@
         {
           "title": "Coordinate",
           "question": "Can TenneT apply or coordinate, and under which conditions?",
-          "answer": "TenneT could coordinate the project if it can develop grid-facing flexibility evidence or requirements for the flexible-generation business model. The applicants choose their coordinator (the funded partner that represents the group to the funder). The plan must include an operational industrial site and a credible plant team.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · Scope"
+          "answer": "Formally yes, but an industrial heat-to-power demonstration is naturally led by industry or technology developers; TenneT TSO B.V. would at most join.\nAny eligible beneficiary may coordinate, and a Dutch entity is eligible. TenneT must not be controlled by China or a Chinese entity.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 11, 36 · B — Entities eligible for funding; IMPORTANT, Coordinator\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · HORIZON-CL5-2027-05-D4-09, Specific conditions"
         },
         {
           "title": "Participate",
           "question": "Can TenneT take part without receiving funding?",
-          "answer": "TenneT could develop grid-facing flexibility evidence or requirements for the flexible-generation business model as an associated partner (an organisation that works without a grant). It would cover its own costs and would not count towards the minimum number of funded partners.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · Scope"
+          "answer": "Yes, as an associated partner, which takes part without funding and bears its own costs.\nAn associated partner does not sign the grant agreement, cannot charge costs, does not need legal validation and does not count towards the minimum of three beneficiaries from three countries. It must still register in the Participant Register before the application is submitted.\nTenneT could advise on grid requirements for flexible industrial generation as an associated partner.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 5 · B — Eligibility, Associated partners\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Registration, Consortium roles and Associated partners\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · HORIZON-CL5-2027-05-D4-09"
         },
         {
           "title": "Receive funding",
           "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
-          "answer": "TenneT can receive up to 70% of eligible costs (project costs the grant rules allow) for qualifying work. The Dutch entity could develop grid-facing flexibility evidence or requirements for the flexible-generation business model. Budget at least 30% of those costs from other resources. The rate helps set a lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending). The topic explicitly covers flexible-generation business models. A partner focused on network analysis needs a substantive task tied to that work.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · Scope"
+          "answer": "Yes: as a beneficiary TenneT can receive up to 70% of its eligible costs, paid within a lump sum.\nThis topic is an innovation action (a project that develops, pilots and demonstrates new or improved solutions close to the market), for which the maximum rate is 70% for organisations other than non-profit legal entities. The grant is a lump sum fixed from a detailed budget and paid against completed work packages. The expected EU contribution is around EUR 6.75 million per project, for the whole consortium. The call sets no Dutch national rules.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · HORIZON-CL5-2027-05-D4-09, Specific conditions"
         },
         {
           "title": "TenneT's likely contribution",
           "question": "What contribution would make TenneT credible and useful within the project?",
-          "answer": "TenneT could define the operating characteristics that make recovered-heat generation useful for the grid. A credible funded contribution would need to support the flexible-generation business model or its evidence.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · Scope"
+          "answer": "TenneT could help define how converted waste heat, with storage, can be offered as flexible generation to stabilise the grid, and test the business model.\nThis is our interpretation. The call explicitly asks for business models that offer heat valorisation as flexible electricity generation for grid stability. TenneT could supply market access rules and prequalification requirements through ARTeMIS, and assess the value of such flexibility in congested areas, using experience such as time-dependent transmission rights. The heat-recovery technology and industrial demonstration are outside TenneT's role.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · HORIZON-CL5-2027-05-D4-09, Scope"
         }
       ]
     },
@@ -109,26 +109,26 @@
         {
           "title": "Innovation threshold",
           "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
-          "answer": "Develop a novel recovery and conversion system. The industrial demonstration must show a credible improvement over available solutions.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · Scope"
+          "answer": "The heat recovery and conversion systems must be novel, and then standardised and made cost-competitive for replication.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · HORIZON-CL5-2027-05-D4-09, Scope"
         },
         {
           "title": "Innovation object",
           "question": "In what must the project innovate?",
-          "answer": "Innovation covers heat recovery and conversion equipment, integration with industrial processes and standardised components that other factories can use.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · Scope"
+          "answer": "A combination of technology (heat recovery and conversion), integration with plant control systems, standardisation and business models for grid flexibility.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · HORIZON-CL5-2027-05-D4-09, Scope"
         },
         {
           "title": "Development stages",
           "question": "Which development stages must the project cover?",
-          "answer": "Identify factory requirements before design, develop and validate the system, then demonstrate it physically in an operating industrial site.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · Scope"
+          "answer": "Development, validation and physical demonstration at industrial sites, followed by standardisation and replication planning.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · HORIZON-CL5-2027-05-D4-09, Scope"
         },
         {
           "title": "Maturity",
           "question": "Which maturity level is expected at the start and end of the project?",
-          "answer": "The work should reach TRL 7–8 (technology readiness level: from a prototype demonstrated in operation to a complete, qualified system) by project end. The call allows work to start at any maturity level.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · Specific conditions"
+          "answer": "Activities are expected to reach TRL 7–8 by the end of the project and may start at any TRL.\nTRL 7 is a system prototype demonstrated in an operational environment; TRL 8 is a complete and qualified system.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · HORIZON-CL5-2027-05-D4-09, Specific conditions, Technology Readiness Level\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · B — Technology Readiness Levels"
         }
       ]
     },
@@ -139,32 +139,32 @@
         {
           "title": "Demonstration",
           "question": "Where and under which conditions must the solution be demonstrated?",
-          "answer": "Use one or more operating industrial sites for the physical demonstration. Check that the equipment can work with existing plant control and energy management systems.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · Specific conditions"
+          "answer": "The solution must be physically demonstrated within one or more operational industrial sites, which means real operating conditions.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · HORIZON-CL5-2027-05-D4-09, Scope"
         },
         {
           "title": "Integration",
           "question": "How must the activities fit together and with existing systems?",
-          "answer": "Integrate the system with industrial processes and usable supplies of excess heat, with storage where appropriate. Standardise common components to make it transferable to similar factories.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · Scope"
+          "answer": "The systems must integrate into existing plants' SCADA and energy management systems, possibly with thermal or electrical storage, and offer flexible output to the grid.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · HORIZON-CL5-2027-05-D4-09, Scope"
         },
         {
           "title": "Evidence",
           "question": "What must the demonstration prove?",
-          "answer": "Demonstrate measurable improvements in recovering and converting waste heat. Show how the same sector can use the results, with open technical and economic guidance.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · Expected Outcome"
+          "answer": "The project must show measurable improvement in efficiency, flexibility, environmental protection, reliability, safety, security and profitability.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · HORIZON-CL5-2027-05-D4-09, Expected Outcome"
         },
         {
           "title": "User participation",
           "question": "How must users take part in the project?",
-          "answer": "Identify the needs of factories in the target sector before designing the system. Demonstrate it in one or more operating industrial sites.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · Scope"
+          "answer": "The needs of most factories in the target sector must be surveyed and analysed before design starts; the call sets no other user-involvement rule.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · HORIZON-CL5-2027-05-D4-09, Scope"
         },
         {
           "title": "Safety and cybersecurity",
           "question": "Which safety, cybersecurity or data requirements must the project meet?",
-          "answer": "Assess reliability, safety and physical and cyber protection as part of the measured results. The integration plan should cover the host’s industrial control environment.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · Specific conditions"
+          "answer": "The call asks for measurable improvement in reliability, safety, and physical and cyber security, and excludes Chinese-controlled entities.\n- Security: physical and cyber security are among the performance dimensions to improve, relevant to SCADA integration\n- Control restriction: entities controlled by China or a Chinese legal entity are not eligible\n- Satellite data: if used, Copernicus and/or Galileo/EGNOS must be used",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · HORIZON-CL5-2027-05-D4-09, Specific conditions, Expected Outcome and Scope"
         }
       ]
     }
@@ -176,23 +176,23 @@
       "cards": [
         {
           "title": "Funding envelope",
-          "answer": "The Commission indicates EUR 13.5 million for industrial waste heat to power. It expects 2 awards.\n- Grant request: around EUR 6.75 million per project. Different requests remain eligible.\n- Funding form: Lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 45 · Overview of this call\nDemonstration of industrial excess/waste heat conversion to mechanical or electrical power · Budget overview"
+          "answer": "About 2 projects of around EUR 6.75 million each are expected, within a topic budget of EUR 13.5 million.\n- Total project size: not stated\n- Grant request: around EUR 6.75 million per project, for the whole consortium; other amounts may be requested and selected\n- Funding form: lump sum (a fixed amount set from a detailed budget and paid against completed work packages)\nFinal budgets may change by up to 20% after evaluation.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 44–46 · Call BATTERIES and ENERGY (HORIZON-CL5-2027-05), Overview of this call\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · HORIZON-CL5-2027-05-D4-09, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 29 · F — Budget flexibility"
         },
         {
           "title": "Funding rate and co-financing",
-          "answer": "For-profit organisations can receive up to 70% towards industrial waste heat to power. The rate is used to set the lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).\n- For-profit organisations: Up to 70% of eligible costs (project costs the grant rules allow), leaving at least 30% to cover.\n- Non-profit legal entities: Up to 100% of eligible costs (project costs the grant rules allow).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · Specific conditions"
+          "answer": "Companies such as TenneT receive at most 70% of eligible costs; non-profit legal entities receive up to 100%.\n- For-profit organisations: up to 70% of eligible costs, so at least 30% must come from their own resources\n- Non-profit legal entities (for example universities and research organisations): up to 100% of eligible costs\n- Co-financing conditions: the call sets no rule on cash or in-kind co-financing beyond the funding rate; the remainder is simply not reimbursed\nGrants may not produce a profit: any surplus of revenue plus grant over costs is deducted from the final grant.\nFor lump sum grants the rate is applied when the lump sum is calculated and does not appear in the grant agreement.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, funding rate and maximum grant amount"
         },
         {
           "title": "Budget constraints",
-          "answer": "Plan the budget for industrial waste heat to power using the cost categories allowed by the grant. Use estimates to set the fixed grant.\n- Budget detail: Set out the main cost categories by beneficiary (organisations formally responsible for funded work) and work package (separately planned blocks of project work).\n- Purchases and subcontracting: Apply best-value and conflict-of-interest rules.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nLump Sum Funding in Horizon Europe: What do I need to know? · pp. 6–7, 26–27 · Detailed budget table"
+          "answer": "The grant is a lump sum fixed from a detailed budget table, which must still follow the normal cost-eligibility rules.\n- Eligible costs: the detailed budget table must contain only costs that would be eligible under an actual-cost grant (personnel, subcontracting, purchases, other direct costs), because the lump sum must approximate the costs actually incurred\n- Overheads and VAT: indirect costs are included in the lump sum calculation at the standard 25% flat rate of direct costs (excluding subcontracting)\n- Subcontracting or equipment: purchases and subcontracting must give best value for money and be free of conflicts of interest; ineligible costs in the budget table can lead to a reduced grant, even late in the project\nPayment depends on completing the work packages, not on proving the costs.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, lump sum grant proposals\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 32 · G — Budget categories and cost eligibility rules"
         },
         {
           "title": "Cash flow and financial exposure",
-          "answer": "Plan cash flow for industrial waste heat to power around acceptance of completed blocks of work.\n- Payment model: Pre-financing (an advance at the start of the grant), then periodic payments for accepted work packages (separately planned blocks of project work) and a final balance.\n- Retention or guarantee: 5–8% of the maximum grant is deducted from pre-financing for mutual insurance.\n- Financial reporting or audit: Keep evidence of implementation and completion.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 33 · Reporting & payment arrangements\nLump Sum Funding in Horizon Europe: What do I need to know? · pp. 17–23 · Payment schedule, Reporting and payment, Keeping records"
+          "answer": "Partners normally receive a large advance after signing, minus a 5–8% contribution to a shared insurance fund, then interim payments.\n- Payment model: pre-financing (an advance) of normally 160% of the average EU funding per reporting period, then interim payments linked to periodic reports, and a final payment after the final report fixes the grant\n- Retention or guarantee: 5% to 8% of the maximum grant is deducted from the pre-financing and paid into the mutual insurance mechanism (a fund covering sums that cannot be recovered from beneficiaries)\n- Financial reporting or audit: depending on grant size and type of beneficiary, a certificate on the financial statements may be required; each beneficiary is liable only for its own debts",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 32–33 · G — Reporting & payment arrangements, Certificates, Liability regime for recoveries"
         }
       ]
     },
@@ -202,18 +202,18 @@
       "cards": [
         {
           "title": "Application route",
-          "answer": "Apply for industrial waste heat to power through the European Funding & Tenders Portal in one stage.\n- Full proposal: 15 September 2027 at 17:00 Brussels time. The technical proposal (Part B) is limited to 45 pages.\n- Opening: 5 May 2027.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 45 · Overview of this call\nDemonstration of industrial excess/waste heat conversion to mechanical or electrical power · General information\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents"
+          "answer": "One stage: full proposals are due by 15 September 2027, 17:00 Brussels time, through the EU Funding & Tenders Portal.\n- Stage 1 — Full proposal: 15 September 2027, 17:00 Brussels time; Part A online and Part B of at most 45 pages (the limit for lump sum innovation actions), with a detailed lump sum budget table\n- Opening: 5 May 2027\n- Additional procedure: none; the Commission may open the call up to one month earlier or later and delay the deadline by up to two months",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 44–46 · Call BATTERIES and ENERGY (HORIZON-CL5-2027-05), Overview of this call\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility, Page limits"
         },
         {
           "title": "Project window",
-          "answer": "The grant agreement (the contract setting the funded work and payment rules) sets the start date and duration for industrial waste heat to power.\n- Required start: Work normally starts after the grant agreement is signed. A reasoned exception needs approval.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · Starting date & project duration"
+          "answer": "The call sets no duration or start date: both are fixed in the grant agreement.\n- Maximum duration: not set by the call; the grant agreement states the duration in months, and extensions are possible only exceptionally\n- Required start: normally after the grant agreement is signed; an earlier start is possible only exceptionally, for duly justified reasons and with the granting authority's agreement",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · G — Starting date & project duration"
         },
         {
           "title": "Decision and contracting",
-          "answer": "The Commission’s timetable for assessing and contracting industrial waste heat to power is indicative.\n- Expected invitation or assessment result: Around 5 months from the full-proposal deadline.\n- Grant agreement (the contract setting the funded work and payment rules): Around 8 months from the full-proposal deadline.\n- Conditions before starting: Beneficiaries (organisations formally responsible for funded work) must conclude a written consortium agreement (the partners’ written agreement on how the project will run).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium agreement"
+          "answer": "Indicatively, the evaluation result comes about 5 months after the deadline and the grant agreement is signed about 8 months after it.\n- Funding decision: about 5 months after the deadline (indicative), around February 2028\n- Grant agreement: about 8 months after the deadline (indicative)\n- Conditions before starting: an invitation to grant preparation is not yet a funding commitment, since legal entity validation, financial capacity and exclusion checks follow; the partners must sign a written consortium agreement",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · F — Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 29 · F — No commitment to provide funding\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Consortium agreement"
         }
       ]
     },
@@ -223,18 +223,18 @@
       "cards": [
         {
           "title": "Mandatory submission package — pass/fail",
-          "answer": "Use the portal’s forms to submit the proposal and supporting documents for industrial waste heat to power.\n- Application form: Complete Part A in the Portal and attach Part B and mandatory annexes.\n- Registration: Beneficiaries (organisations formally responsible for funded work) and affiliated entities (organisations legally linked to funded partners) need participant identification codes (organisation registration numbers).\n- Partner documents: The coordinator confirms its authority to act for the applicant group.\n- Budget: Provide the detailed lump-sum (a fixed grant paid for accepted work rather than reimbursing actual spending) budget table with the full proposal.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 4–5, 11–13 · B — Eligibility"
+          "answer": "The proposal must be complete, submitted electronically before the deadline, and within the page limit; incomplete applications are rejected.\n- Application form: Part A (administrative data and a summary budget, filled in online) and Part B (the technical description, uploaded as a PDF) through the EU Funding & Tenders Portal, using the forms inside the submission system; Part B is limited to 45 pages\n- Budget: the summary budget in Part A and a detailed budget table, which is the basis for the lump sum\n- Mandatory annexes: a plan for the exploitation and dissemination of results, including communication activities, and the ethics self-assessment\n- Partner documents: the coordinator confirms at submission that it has the mandate to act for all applicants; every participant signs a declaration of honour before the grant is signed\n- Registration: every beneficiary, affiliated entity and associated partner needs a participant identification code (PIC, a number from the EU Participant Register) before submission; validation of beneficiaries follows at grant preparation\n- Parallel submission: none\n- Lump sum: the detailed budget table is mandatory and is used to fix the lump sum",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility, Page limits\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 5 · B — Entities eligible to participate\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · B — Ethics\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Registration"
         },
         {
           "title": "Evaluation and selection — scored or ranked",
-          "answer": "Industrial waste heat to power proposals compete on research quality, impact and the quality of the delivery plan.\n- Full proposal: Excellence, impact and implementation are scored. Each criterion needs 3/5 and the total needs 10/15.\n- Impact is weighted by 1.5 in Innovation Action (a grant for developing and demonstrating new solutions) full-proposal ranking.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria"
+          "answer": "Independent experts score three criteria out of 5; a proposal needs 3 on each and 10 in total, and Impact weighs 1.5 times in the ranking.\n- Evaluation criteria: Excellence (clear, ambitious objectives beyond the state of the art; sound methodology), Impact (credible pathways to the expected outcomes; dissemination and exploitation measures) and Quality and efficiency of the implementation (work plan, risks, resources, capacity of each partner)\n- Thresholds: at least 3 out of 5 for each criterion and 10 out of 15 overall\n- Weighting: for ranking, the Impact score counts 1.5 times\n- Ranking rules: equal scores are separated first by whether a proposal covers aspects of the call not covered by higher-ranked ones, then by the Impact score, then Excellence, then gender balance among lead researchers and geographical diversity\n- Budget assessment: the grant awarded may be lower than requested, and topic budgets may change by up to 20% after evaluation",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria, Scores and weighting, Two-stage calls\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 28–29 · F — Evaluation procedure and ranking, Budget flexibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 31 · G — Form of grant, funding rate and maximum grant amount"
         },
         {
           "title": "Conditional and exceptional requirements",
-          "answer": "The industrial heat-to-power call can restrict transfer of ownership or sole rights to use results.\n- Conditional requirement: Provide standardised, cost-competitive components and open integration tools.\n- Conditional requirement: Screen beneficiary (organisations formally responsible for funded work) control and use the specified European Union services for covered satellite data or services.\n- Exception — Transfer of results: The granting authority may object to a transfer of ownership or to exclusive licensing (giving another party sole rights to use the results) for up to four years after the project ends.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · Scope"
+          "answer": "Physical demonstration at an operational industrial site, the lump sum, the China-control restriction and the ownership safeguard apply in addition to the general rules.\n- Conditional — demonstration: at one or more operational industrial sites\n- Conditional — replication: sector needs survey before the design phase\n- Exception — entities controlled by China: not eligible\n- Conditional — results transfer: the granting authority may object to transfers or exclusive licensing for 4 years after the project\n- Conditional — satellite data: use Copernicus and/or Galileo/EGNOS if such data are used",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 207–209 · HORIZON-CL5-2027-05-D4-09, Specific conditions and Scope"
         }
       ]
     }

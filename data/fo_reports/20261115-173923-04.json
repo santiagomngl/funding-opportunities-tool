@@ -7,38 +7,38 @@
         {
           "title": "Central object",
           "question": "What is the principal thing the project must develop?",
-          "answer": "Develop and test artificial intelligence tools that improve access to climate information or make a sector more resilient to climate hazards.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Expected Outcome"
+          "answer": "AI-powered tools that help regional and local authorities adapt to climate change, through accessible climate data or better sector adaptation.\nEach proposal must choose one of two objectives. Objective 1, AI for more accessible data, uses AI such as deep learning to make large climate data sets understandable for decision-makers. Objective 2, AI for sectoral adaptation, develops AI tools that help authorities manage resources and improve adaptation technologies in key sectors, for example water, buildings, transport or the resilience of energy systems.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–64 · HORIZON-MISS-2027-01-CLIMA-02, Expected Outcome and Scope"
         },
         {
           "title": "Scope",
           "question": "Which activities fall within the funding opportunity's scope?",
-          "answer": "Choose either improved access to climate information or artificial intelligence for a specific sector’s adaptation. Demonstrate a tangible improvement where regional or local authorities will use it.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Specific conditions"
+          "answer": "Proposals must address one of two objectives, identify a specific gap an AI tool can fill, and go beyond the state of the art.\n- Objective 1 — AI for more accessible data: integrate AI to make data more accessible and understandable for regional and local decision-making, test the improvements with at least 3 regional and local authorities, and improve data integrity and accessibility, possibly using Destination Earth (the EU's digital twin of the Earth) data and services\n- Objective 2 — AI for sectoral adaptation: develop and test machine-learning and AI tools in the territory of at least 5 regional or local authorities, engaging private-sector actors with expertise in the chosen sector, such as smart agriculture, buildings, water, waste, transport or resilience of energy systems, so that the tools can scale\n- For both: training and dissemination material for different target groups; avoidance of biases, representative data, and attention to the limits and misinformation risks of generative AI\nProposals must explain why the AI tool improves existing models, tools or applications, or justify an entirely new solution.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–64 · HORIZON-MISS-2027-01-CLIMA-02, Scope"
         },
         {
           "title": "Problem",
           "question": "What type of problem or need must justify the project, and where must it originate?",
-          "answer": "Authorities need climate information they can act on. The sector route also addresses specific operational problems where climate impacts are changing, including in energy.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Expected Outcome"
+          "answer": "Regions and local authorities need better ways to turn climate data into adaptation decisions and to make key sectors more resilient; AI could help but is under-used.\nThe need originates with regional and local authorities as decision-makers. The call ties it to the AI Continent Action Plan and the EU Mission on Adaptation to Climate Change.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–64 · HORIZON-MISS-2027-01-CLIMA-02, Expected Outcome and Scope, Rationale"
         },
         {
           "title": "Deliverables",
           "question": "Which concrete outputs must the project produce?",
-          "answer": "Deliver a tested tool for the selected adaptation need and materials that help authorities and other target users use its outputs.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Expected Outcome"
+          "answer": "AI-powered tools tested with authorities, plus training and dissemination material.\n- Objective 1: AI tools that make climate data accessible, tested with at least 3 authorities, with improved data integrity and accessibility\n- Objective 2: AI tools for sectoral adaptation, developed and tested in at least 5 authorities' territories\n- For both: training and dissemination material for authorities and other target groups",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–64 · HORIZON-MISS-2027-01-CLIMA-02, Scope"
         },
         {
           "title": "Impact",
           "question": "Which wider system outcomes and impacts must the project support?",
-          "answer": "The first route should make climate knowledge more actionable. The second should improve the capacity of selected sectors to respond to climate impacts.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Expected Outcome"
+          "answer": "Each project must contribute to one of two outcomes: better adaptation knowledge for authorities through AI, or more climate-resilient sectors in the selected regions.\n- AI improves actionable climate adaptation knowledge for European regions and local authorities by integrating climate data into decision-making\n- Specific sectors in the selected regions become more resilient thanks to AI, while advancing their digital transformation\nThe call sets no quantified targets.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–64 · HORIZON-MISS-2027-01-CLIMA-02, Expected Outcome"
         },
         {
           "title": "After the project",
           "question": "How must the result be replicated, taken up and kept in use after the project?",
-          "answer": "Prepare material that helps local or regional authorities use the tools beyond the tests. Reserve resources to cooperate with the European adaptation support platform and practitioner community.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Expected Outcome"
+          "answer": "Tools should be designed for scalability and uptake, and projects must feed the Mission's platforms and community.\n- Objective 2 requires private-sector involvement so tools are designed for scalability and uptake\n- Training material should help authorities make the best use of the tools\n- A mechanism and resources for links with the Mission Implementation Platform and other knowledge platforms, participation in the Mission Community of Practice, and sharing knowledge with the project from HORIZON-MISS-2026-01-CLIMA-02",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–64 · HORIZON-MISS-2027-01-CLIMA-02, Scope; Links to the Mission"
         }
       ]
     },
@@ -49,26 +49,26 @@
         {
           "title": "Number of partners",
           "question": "What is the permitted or required consortium size?",
-          "answer": "The proposal needs at least three independent funded partners in three different eligible countries. At least one must be established in a European Union Member State. The other two must be established in different Member States or countries associated with Horizon Europe (countries formally participating in the European research programme).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+          "answer": "At least three independent organisations from three different countries; the call sets no maximum.\nThe general rule requires, as beneficiaries (organisations that sign the grant agreement and receive funding), three legal entities independent of each other: at least one established in an EU Member State and two others each in a different Member State or country associated with Horizon Europe (non-EU countries taking part in the programme, such as Norway, Switzerland or the United Kingdom). Affiliated entities (organisations legally linked to a beneficiary) and associated partners (organisations taking part without funding) do not count towards this minimum.\nAuthorities used for testing (3 or 5) need not be beneficiaries, as the call only requires testing with them or in their territory.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · B — Eligibility, Consortium composition\nHorizon Europe Work Programme 2026–2027, Missions · pp. 61–64 · HORIZON-MISS-2027-01-CLIMA-02"
         },
         {
           "title": "Partner composition",
           "question": "Which types of partners must the consortium include?",
-          "answer": "Involve regional or local authorities that can test the selected objective. The sector route should include private-sector actors with relevant expertise.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+          "answer": "The call requires no specific partner types, but Objective 2 must engage private-sector actors with expertise in the chosen sector.\nRegional and local authorities must be involved for testing: at least 3 for Objective 1, at least 5 for Objective 2. Legal entities established in China are, exceptionally, eligible for research and innovation actions under the Adaptation to Climate Change Mission, unlike most of Horizon Europe.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–64 · HORIZON-MISS-2027-01-CLIMA-02, Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 6–7 · B — Restrictions on the participation of legal entities established in China"
         },
         {
           "title": "Distribution of work",
           "question": "How must work and budget be distributed among partners?",
-          "answer": "Include resources and a mechanism to work with the European adaptation mission implementation platform. Design and test the tools with the authority or sector partners relevant to the chosen objective.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Scope"
+          "answer": "The call sets no budget split, but proposals must reserve resources for collaboration with the Mission.\nSince the grant is a lump sum (a fixed amount paid against completed work packages), the consortium must allocate the amount to work packages and partners in a detailed budget table.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–64 · HORIZON-MISS-2027-01-CLIMA-02, Specific conditions; Links to the Mission\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, lump sum grant proposals"
         },
         {
           "title": "Coordinator",
           "question": "What type of organisation may or must act as lead applicant?",
-          "answer": "The group appoints a funded partner to lead the work on regional climate adaptation tools and represent it to the funder.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners"
+          "answer": "No type of organisation is prescribed: the beneficiaries choose one of themselves as coordinator.\nThe coordinator manages and coordinates the project and represents the consortium towards the granting authority (the European Commission or its agency). At submission it must confirm that it has the mandate to act for all applicants.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Coordinator\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, Submission"
         }
       ]
     },
@@ -79,26 +79,26 @@
         {
           "title": "Coordinate",
           "question": "Can TenneT apply or coordinate, and under which conditions?",
-          "answer": "TenneT could coordinate the project if it can contribute sector expertise to the route that applies artificial intelligence to energy-system adaptation. The applicants choose their coordinator (the funded partner that represents the group to the funder).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Scope"
+          "answer": "Formally yes, but a project on climate adaptation for authorities is more naturally led by a research or AI organisation; TenneT TSO B.V. would more likely join under Objective 2.\nAny eligible beneficiary may coordinate, and a Dutch entity is eligible.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 11, 36 · B — Entities eligible for funding; IMPORTANT, Coordinator\nHorizon Europe Work Programme 2026–2027, Missions · pp. 61–64 · HORIZON-MISS-2027-01-CLIMA-02, Scope"
         },
         {
           "title": "Participate",
           "question": "Can TenneT take part without receiving funding?",
-          "answer": "TenneT could take part in regional climate adaptation tools without receiving a grant. As an associated partner (an organisation that works without a grant), it could contribute sector expertise to the route that applies artificial intelligence to energy-system adaptation. It would cover its own costs and would not count towards the minimum number of funded partners.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Scope"
+          "answer": "Yes, as an associated partner, which takes part without funding and bears its own costs.\nAn associated partner does not sign the grant agreement, cannot charge costs, does not need legal validation and does not count towards the minimum of three beneficiaries from three countries. It must still register in the Participant Register before the application is submitted.\nTenneT could also contribute as an associated partner by sharing grid-exposure data for an energy-resilience use case.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 5 · B — Eligibility, Associated partners\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Registration, Consortium roles and Associated partners\nHorizon Europe Work Programme 2026–2027, Missions · pp. 61–64 · HORIZON-MISS-2027-01-CLIMA-02"
         },
         {
           "title": "Receive funding",
           "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
-          "answer": "TenneT can receive up to 100% of eligible costs (project costs the grant rules allow) for qualifying work. The Dutch entity could contribute sector expertise to the route that applies artificial intelligence to energy-system adaptation. The rate helps set a lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Scope"
+          "answer": "Yes: as a beneficiary TenneT could receive up to 100% of its eligible costs, built into a lump sum.\nThis topic is a research and innovation action (a project that creates new knowledge or tests the feasibility of a new technology, up to small-scale prototypes), for which the maximum rate is 100% for all participants, including companies. The grant is a lump sum fixed from a detailed budget and paid against completed work packages. The expected EU contribution is around EUR 3 million per project, for the whole consortium. The call sets no Dutch national rules.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Missions · pp. 61–64 · HORIZON-MISS-2027-01-CLIMA-02, Specific conditions"
         },
         {
           "title": "TenneT's likely contribution",
           "question": "What contribution would make TenneT credible and useful within the project?",
-          "answer": "TenneT could use data and virtual asset models to validate an electricity infrastructure adaptation tool in several authorities’ territories.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Scope"
+          "answer": "Under Objective 2, TenneT could co-develop AI tools that link climate hazard data to grid vulnerability for regional authorities.\nThis is our interpretation. The call names resilience of energy systems as an example sector and asks for private-sector actors with sector expertise. TenneT could bring asset and outage data, climate-risk use cases for substations and lines, and its AI and digital twin experience from GNN4GC and the National Facility Digital Twin of the Electricity System. The tools must serve regional and local authorities, so TenneT's own operational benefit would be indirect.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–64 · HORIZON-MISS-2027-01-CLIMA-02, Scope"
         }
       ]
     },
@@ -109,20 +109,20 @@
         {
           "title": "Innovation threshold",
           "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
-          "answer": "Improve an existing tool where it can meet the need, or justify developing a new tool. Show the concrete benefit to the authorities or sector users.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Scope"
+          "answer": "Proposals must go beyond the state of the art and target a specific gap that an AI tool can fill.\nThey must explain why the tool improves existing models or applications, or justify an entirely new solution.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–64 · HORIZON-MISS-2027-01-CLIMA-02, Scope, Rationale"
         },
         {
           "title": "Innovation object",
           "question": "In what must the project innovate?",
-          "answer": "Innovate in how authorities access and interpret climate data, or in an application that changes how an exposed sector adapts.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Scope"
+          "answer": "Mainly technology (AI models and tools), applied to decision-making processes of authorities and to sector processes or technologies.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–64 · HORIZON-MISS-2027-01-CLIMA-02, Scope"
         },
         {
           "title": "Development stages",
           "question": "Which development stages must the project cover?",
-          "answer": "Identify a tool or gap, develop or adapt the application, and test it with the authorities or within the required territories.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Scope"
+          "answer": "Research, development and testing of AI tools with or in the territory of authorities; not deployment.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–64 · HORIZON-MISS-2027-01-CLIMA-02, Scope"
         },
         {
           "title": "Maturity",
@@ -139,32 +139,32 @@
         {
           "title": "Demonstration",
           "question": "Where and under which conditions must the solution be demonstrated?",
-          "answer": "Test the climate-information route with at least three regional or local authorities. Test the sector route across at least five regional or local authority territories.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Specific conditions"
+          "answer": "Tools must be tested with real authorities: at least 3 regional and local authorities for Objective 1, in the territory of at least 5 for Objective 2.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–64 · HORIZON-MISS-2027-01-CLIMA-02, Scope"
         },
         {
           "title": "Integration",
           "question": "How must the activities fit together and with existing systems?",
-          "answer": "Build on relevant European climate data, existing tools and the Mission platform (the support network for regional adaptation). For the sector route, fit the tool to users’ actual decisions.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Scope"
+          "answer": "The tools must fit authorities' decision-making or sector processes, and the project must link to the Mission Implementation Platform and other knowledge platforms.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–64 · HORIZON-MISS-2027-01-CLIMA-02, Scope; Links to the Mission"
         },
         {
           "title": "Evidence",
           "question": "What must the demonstration prove?",
-          "answer": "Show concrete added value for participating authorities or demonstrate a sectoral adaptation benefit in the required territories. Consider bias and limitations in the data and models.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Expected Outcome"
+          "answer": "Objective 1 tools must show concrete added value to end users (decision-makers); monitoring is encouraged to follow the UNDERPIN framework and risk assessment the CLIMAAX framework.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–64 · HORIZON-MISS-2027-01-CLIMA-02, Scope; Links to the Mission"
         },
         {
           "title": "User participation",
           "question": "How must users take part in the project?",
-          "answer": "Test the data-access route with at least three regional or local authorities. Test the sector route in at least five such territories and involve businesses with relevant sector expertise.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Scope"
+          "answer": "Authorities, the end users, must take part in testing: at least 3 or 5 depending on the objective, and Objective 2 also engages private-sector actors.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–64 · HORIZON-MISS-2027-01-CLIMA-02, Scope"
         },
         {
           "title": "Safety and cybersecurity",
           "question": "Which safety, cybersecurity or data requirements must the project meet?",
-          "answer": "Consider representativeness and potential biases in data and results. Address the limitations and risk of misinformation if the tool uses generative artificial intelligence (models that can produce new content).",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Specific conditions"
+          "answer": "The call sets no cybersecurity requirement, but asks to avoid biases, use representative data and consider the limits and misinformation risks of generative AI.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–64 · HORIZON-MISS-2027-01-CLIMA-02, Scope"
         }
       ]
     }
@@ -176,23 +176,23 @@
       "cards": [
         {
           "title": "Funding envelope",
-          "answer": "The Commission indicates EUR 12 million for regional climate adaptation tools. It expects 4 awards.\n- Grant request: around EUR 3 million per project. Different requests remain eligible.\n- Funding form: Lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Missions · p. 22 · Overview of this call\nResearching and applying the potential of Artificial Intelligence to foster climate resilience at the regional and local levels · Budget overview"
+          "answer": "About 4 projects of around EUR 3 million each are expected, within a topic budget of EUR 12 million.\n- Total project size: not stated\n- Grant request: around EUR 3 million per project, for the whole consortium; other amounts may be requested and selected\n- Funding form: lump sum (a fixed amount set from a detailed budget and paid against completed work packages)\nFinal budgets may change by up to 20% after evaluation.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 22–23 · Call HORIZON-MISS-2027-01, Overview of this call\nHorizon Europe Work Programme 2026–2027, Missions · pp. 61–64 · HORIZON-MISS-2027-01-CLIMA-02, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 29 · F — Budget flexibility"
         },
         {
           "title": "Funding rate and co-financing",
-          "answer": "The grant can cover up to 100% of eligible costs (project costs the grant rules allow) for regional climate adaptation tools. This is a research and innovation action (a grant for research and early development). The rate is used to calculate the lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Specific conditions"
+          "answer": "The single rate for all participants, including companies such as TenneT, is up to 100% of eligible costs.\n- Co-financing conditions: none required by the call; every beneficiary can be reimbursed up to all its eligible costs\nGrants may not produce a profit: any surplus of revenue plus grant over costs is deducted from the final grant.\nFor lump sum grants the rate is applied when the lump sum is calculated and does not appear in the grant agreement.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, funding rate and maximum grant amount"
         },
         {
           "title": "Budget constraints",
-          "answer": "Plan the budget for regional climate adaptation tools using the cost categories allowed by the grant. Use estimates to set the fixed grant.\n- Budget detail: Set out the main cost categories by beneficiary (organisations formally responsible for funded work) and work package (separately planned blocks of project work).\n- Purchases and subcontracting: Apply best-value and conflict-of-interest rules.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nLump Sum Funding in Horizon Europe: What do I need to know? · pp. 6–7, 26–27 · Detailed budget table"
+          "answer": "The grant is a lump sum fixed from a detailed budget table, which must still follow the normal cost-eligibility rules.\n- Eligible costs: the detailed budget table must contain only costs that would be eligible under an actual-cost grant (personnel, subcontracting, purchases, other direct costs), because the lump sum must approximate the costs actually incurred\n- Overheads and VAT: indirect costs are included in the lump sum calculation at the standard 25% flat rate of direct costs (excluding subcontracting)\n- Subcontracting or equipment: purchases and subcontracting must give best value for money and be free of conflicts of interest; ineligible costs in the budget table can lead to a reduced grant, even late in the project\nPayment depends on completing the work packages, not on proving the costs.\n- Mandatory allocations: resources and budget for operational links with the Mission Implementation Platform and engagement with the Mission",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, lump sum grant proposals\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 32 · G — Budget categories and cost eligibility rules"
         },
         {
           "title": "Cash flow and financial exposure",
-          "answer": "Plan cash flow for regional climate adaptation tools around acceptance of completed blocks of work.\n- Payment model: Pre-financing (an advance at the start of the grant), then periodic payments for accepted work packages (separately planned blocks of project work) and a final balance.\n- Retention or guarantee: 5–8% of the maximum grant is deducted from pre-financing for mutual insurance.\n- Financial reporting or audit: Keep evidence of implementation and completion.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 33 · Reporting & payment arrangements\nLump Sum Funding in Horizon Europe: What do I need to know? · pp. 17–23 · Payment schedule, Reporting and payment, Keeping records"
+          "answer": "Partners normally receive a large advance after signing, minus a 5–8% contribution to a shared insurance fund, then interim payments.\n- Payment model: pre-financing (an advance) of normally 160% of the average EU funding per reporting period, then interim payments linked to periodic reports, and a final payment after the final report fixes the grant\n- Retention or guarantee: 5% to 8% of the maximum grant is deducted from the pre-financing and paid into the mutual insurance mechanism (a fund covering sums that cannot be recovered from beneficiaries)\n- Financial reporting or audit: depending on grant size and type of beneficiary, a certificate on the financial statements may be required; each beneficiary is liable only for its own debts",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 32–33 · G — Reporting & payment arrangements, Certificates, Liability regime for recoveries"
         }
       ]
     },
@@ -202,18 +202,18 @@
       "cards": [
         {
           "title": "Application route",
-          "answer": "Apply for regional climate adaptation tools through the European Funding & Tenders Portal in one stage.\n- Full proposal: 21 September 2027 at 17:00 Brussels time. The technical proposal (Part B) is limited to 45 pages.\n- Opening: 9 February 2027.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · p. 22 · Overview of this call\nResearching and applying the potential of Artificial Intelligence to foster climate resilience at the regional and local levels · General information\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents"
+          "answer": "One stage: full proposals are due by 21 September 2027, 17:00 Brussels time, through the EU Funding & Tenders Portal.\n- Stage 1 — Full proposal: 21 September 2027, 17:00 Brussels time; Part A online and Part B of at most 45 pages (the limit for lump sum research and innovation actions), with a detailed lump sum budget table; the objective chosen must be stated in the free keywords ('objective 1' or 'objective 2')\n- Opening: 9 February 2027\n- Additional procedure: none; the Commission may open the call up to one month earlier or later and delay the deadline by up to two months",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 22–23 · Call HORIZON-MISS-2027-01, Overview of this call\nHorizon Europe Work Programme 2026–2027, Missions · pp. 61–64 · HORIZON-MISS-2027-01-CLIMA-02, Specific conditions, Procedure\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility, Page limits"
         },
         {
           "title": "Project window",
-          "answer": "The grant agreement (the contract setting the funded work and payment rules) sets the start date and duration for regional climate adaptation tools.\n- Required start: Work normally starts after the grant agreement is signed. A reasoned exception needs approval.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · Starting date & project duration"
+          "answer": "The call sets no duration or start date: both are fixed in the grant agreement.\n- Maximum duration: not set by the call; the grant agreement states the duration in months, and extensions are possible only exceptionally\n- Required start: normally after the grant agreement is signed; an earlier start is possible only exceptionally, for duly justified reasons and with the granting authority's agreement",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · G — Starting date & project duration"
         },
         {
           "title": "Decision and contracting",
-          "answer": "The Commission’s timetable for assessing and contracting regional climate adaptation tools is indicative.\n- Expected invitation or assessment result: Around 5 months from the full-proposal deadline.\n- Grant agreement (the contract setting the funded work and payment rules): Around 8 months from the full-proposal deadline.\n- Conditions before starting: Beneficiaries (organisations formally responsible for funded work) must conclude a written consortium agreement (the partners’ written agreement on how the project will run).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium agreement"
+          "answer": "Indicatively, the evaluation result comes about 5 months after the deadline and the grant agreement is signed about 8 months after it.\n- Funding decision: about 5 months after the deadline (indicative), around February 2028\n- Grant agreement: about 8 months after the deadline (indicative)\n- Conditions before starting: an invitation to grant preparation is not yet a funding commitment, since legal entity validation, financial capacity and exclusion checks follow; the partners must sign a written consortium agreement",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · F — Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 29 · F — No commitment to provide funding\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Consortium agreement"
         }
       ]
     },
@@ -223,18 +223,18 @@
       "cards": [
         {
           "title": "Mandatory submission package — pass/fail",
-          "answer": "Use the portal’s forms to submit the proposal and supporting documents for regional climate adaptation tools.\n- Application form: Complete Part A in the Portal and attach Part B and mandatory annexes.\n- Registration: Beneficiaries (organisations formally responsible for funded work) and affiliated entities (organisations legally linked to funded partners) need participant identification codes (organisation registration numbers).\n- Partner documents: The coordinator confirms its authority to act for the applicant group.\n- Budget: Provide the detailed lump-sum (a fixed grant paid for accepted work rather than reimbursing actual spending) budget table with the full proposal.\n- Mandatory application input: Identify Objective 1 or 2 in the proposal's free keywords.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 4–5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Scope"
+          "answer": "The proposal must be complete, submitted electronically before the deadline, and within the page limit; incomplete applications are rejected.\n- Application form: Part A (administrative data and a summary budget, filled in online) and Part B (the technical description, uploaded as a PDF) through the EU Funding & Tenders Portal, using the forms inside the submission system; Part B is limited to 45 pages\n- Budget: the summary budget in Part A and a detailed budget table, which is the basis for the lump sum\n- Mandatory annexes: a plan for the exploitation and dissemination of results, including communication activities, and the ethics self-assessment\n- Partner documents: the coordinator confirms at submission that it has the mandate to act for all applicants; every participant signs a declaration of honour before the grant is signed\n- Registration: every beneficiary, affiliated entity and associated partner needs a participant identification code (PIC, a number from the EU Participant Register) before submission; validation of beneficiaries follows at grant preparation\n- Parallel submission: none\n- Lump sum: the detailed budget table is mandatory and is used to fix the lump sum\n- Keywords: the objective addressed must be named in the free keywords section",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility, Page limits\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 5 · B — Entities eligible to participate\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · B — Ethics\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Registration\nHorizon Europe Work Programme 2026–2027, Missions · pp. 61–64 · HORIZON-MISS-2027-01-CLIMA-02, Specific conditions"
         },
         {
           "title": "Evaluation and selection — scored or ranked",
-          "answer": "Regional climate adaptation tools proposals compete on research quality, impact and the quality of the delivery plan.\n- Full proposal: Excellence, impact and implementation are scored. Each criterion needs 3/5 and the total needs 10/15.\n- If thresholds are met, the portfolio should include the highest-ranked proposal for each of the two objectives.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria\nHorizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Specific conditions"
+          "answer": "Independent experts score three criteria out of 5; a proposal needs 3 on each and 10 in total.\n- Evaluation criteria: Excellence (clear, ambitious objectives beyond the state of the art; sound methodology), Impact (credible pathways to the expected outcomes; dissemination and exploitation measures) and Quality and efficiency of the implementation (work plan, risks, resources, capacity of each partner)\n- Thresholds: at least 3 out of 5 for each criterion and 10 out of 15 overall\n- Ranking rules: equal scores are separated first by whether a proposal covers aspects of the call not covered by higher-ranked ones, then by the Excellence score, then Impact, then gender balance among lead researchers and geographical diversity\n- Budget assessment: the grant awarded may be lower than requested, and topic budgets may change by up to 20% after evaluation\n- Portfolio rule: besides ranking order, at least the highest-ranked proposal for each objective is funded, provided it passes all thresholds",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria, Scores and weighting, Two-stage calls\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 28–29 · F — Evaluation procedure and ranking, Budget flexibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 31 · G — Form of grant, funding rate and maximum grant amount"
         },
         {
           "title": "Conditional and exceptional requirements",
-          "answer": "Name the selected climate-adaptation objective in the proposal so it can be ranked in the right group.\n- Conditional requirement: Choose a single objective. Show how the proposed artificial intelligence approach improves on existing options or substantiate the need for a new solution.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Missions · pp. 61–63 · Scope"
+          "answer": "The choice of objective decides the number of test authorities; a portfolio rule guarantees funding for each objective.\n- Conditional — Objective 1: test with at least 3 regional and local authorities\n- Conditional — Objective 2: test in at least 5 authorities' territories and engage private-sector actors\n- Exception — ranking: at least one top proposal per objective is funded if it passes the thresholds\n- Exception — entities established in China: eligible for this Mission's research and innovation actions\n- Conditional — Mission: resources for links with the Mission Implementation Platform and Community of Practice\n- Recommended: UNDERPIN monitoring and CLIMAAX risk assessment; Destination Earth data",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 61–64 · HORIZON-MISS-2027-01-CLIMA-02, Specific conditions and Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 6–7 · B — Restrictions on the participation of legal entities established in China"
         }
       ]
     }

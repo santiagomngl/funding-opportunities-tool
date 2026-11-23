@@ -7,38 +7,38 @@
         {
           "title": "Central object",
           "question": "What is the principal thing the project must develop?",
-          "answer": "Develop a battery concept for low-cost mobility, high-performance mobility or stationary storage using advanced materials and cell designs.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · Expected Outcome"
+          "answer": "A next-generation battery concept beyond the state of the art, based on innovative advanced materials, in one of three areas: low-cost, high-performance, or stationary storage.\nArea A is low-cost batteries for electric cars and/or stationary storage; Area B is high-performance batteries for aviation and maritime use; Area C is durable advanced materials and cell concepts for stationary storage in grids or energy-intensive industry. Each project contributes to one area only.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · HORIZON-CL5-2027-04-Two-Stage-D2-07, Expected Outcome and Scope"
         },
         {
           "title": "Scope",
           "question": "Which activities fall within the funding opportunity's scope?",
-          "answer": "Choose a low-cost, high-performance or stationary battery area. For grid storage, show how new materials or cell concepts could enable economical multi-hour storage at system level.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–104 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–104 · Specific conditions"
+          "answer": "Projects choose one area and cover its points, plus three assessments that apply to all.\nArea A — low-cost batteries:\n- chemistries with minimal critical raw materials; cost reduction through smart functions and lighter or simpler casing or cooling is encouraged\nArea B — high-performance batteries:\n- structural integration and multifunctional materials to boost weight and volume performance\nArea C — stationary storage materials and cells:\n- for grid storage: potential for cost-effective system integration, targeting a system cost below EUR 50 per kWh, and support for multi-hour storage to enhance renewable uptake and grid flexibility\n- for energy-intensive industry: continuous high-load operation, cycling in harsh conditions and long-term reliability\nAll projects must assess:\n- scalability, manufacturability and market relevance\n- extended cycle life, cost-efficient recyclability and sustainability by design\n- safety, thermal management, performance monitoring and predictive diagnostics",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · HORIZON-CL5-2027-04-Two-Stage-D2-07, Scope"
         },
         {
           "title": "Problem",
           "question": "What type of problem or need must justify the project, and where must it originate?",
-          "answer": "Battery developers need cell concepts that can reduce material costs, raise performance for demanding uses or deliver dependable stationary storage at lower system cost.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · Expected Outcome\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–104 · Scope"
+          "answer": "Europe needs new battery concepts and materials to stay competitive and support clean energy use, from cheap EV cells to grid-scale storage.\nThe need originates with industry and the energy system: battery cost, performance and dependence on critical raw materials limit electric mobility and storage. For Area C the need lies with grid operators and energy-intensive industry needing durable, affordable multi-hour storage.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · HORIZON-CL5-2027-04-Two-Stage-D2-07, Expected Outcome and Scope"
         },
         {
           "title": "Deliverables",
           "question": "Which concrete outputs must the project produce?",
-          "answer": "Provide concept-validation results and assess manufacturability, scale-up, service life, recycling and safety. Grid-storage concepts target system costs below EUR 50 per kilowatt-hour.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–104 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–104 · Expected Outcome"
+          "answer": "Validated battery concepts in the chosen area, with benchmarks against today's technology, and assessments of scalability, sustainability and safety.\n- Area A: benchmark against state-of-the-art lithium-ion and sodium-ion batteries, and main component cost below EUR 35 per kWh\n- Area B: validated concepts exceeding 500 Wh/kg energy density and/or state-of-the-art power density\n- Area C: durable and reliable advanced materials and cell-level concepts for stationary storage\n- For all: the three required assessments, and reports to the Batt4EU and IAM4EU partnerships",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · HORIZON-CL5-2027-04-Two-Stage-D2-07, Expected Outcome and Scope"
         },
         {
           "title": "Impact",
           "question": "Which wider system outcomes and impacts must the project support?",
-          "answer": "Improve battery affordability or performance in the selected area. Stationary concepts should support industrial electrification or allow the grid to use more renewable electricity and flexibility.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · Expected Outcome\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–104 · Expected Outcome"
+          "answer": "Projects are expected to generate innovative battery concepts that safeguard European competitiveness and support green energy use through better storage and energy management.\nEach area has its own targets:\n- Area A: main component cost below EUR 35 per kWh, compared against a state-of-the-art benchmark\n- Area B: energy density above 500 Wh/kg and/or power density beyond the state of the art\n- Area C: for grids, system-level cost below EUR 50 per kWh and multi-hour storage for renewable uptake and grid flexibility",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · HORIZON-CL5-2027-04-Two-Stage-D2-07, Expected Outcome and Scope"
         },
         {
           "title": "After the project",
           "question": "How must the result be replicated, taken up and kept in use after the project?",
-          "answer": "Assess whether the concept can scale and be manufactured, and what market would use it. Report results to the European partnerships on batteries and innovative advanced materials.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–104 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–104 · Expected Outcome"
+          "answer": "Results stay at laboratory scale but must be assessed for scalability, manufacturability, market relevance and recyclability.\n- The Safe and Sustainable by Design framework (an EU framework for safer and more sustainable chemicals and materials) should guide the work\n- Reporting to the European Partnership on Batteries (Batt4EU) and the Innovative Advanced Materials partnership (IAM4EU) on their indicators\n- The granting authority may object, for up to 4 years after the project, to a transfer of ownership or exclusive licensing of results",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · HORIZON-CL5-2027-04-Two-Stage-D2-07, Specific conditions and Scope"
         }
       ]
     },
@@ -49,26 +49,26 @@
         {
           "title": "Number of partners",
           "question": "What is the permitted or required consortium size?",
-          "answer": "The proposal needs at least three independent funded partners in three different eligible countries. At least one must be established in a European Union Member State. The other two must be established in different Member States or countries associated with Horizon Europe (countries formally participating in the European research programme).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+          "answer": "At least three independent organisations from three different countries; the call sets no maximum.\nThe general rule requires, as beneficiaries (organisations that sign the grant agreement and receive funding), three legal entities independent of each other: at least one established in an EU Member State and two others each in a different Member State or country associated with Horizon Europe (non-EU countries taking part in the programme, such as Norway, Switzerland or the United Kingdom). Affiliated entities (organisations legally linked to a beneficiary) and associated partners (organisations taking part without funding) do not count towards this minimum.\nThe European Commission's Joint Research Centre (JRC) may join the selected consortium, but does not count for the proposal since it does not take part in preparing it.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · B — Eligibility, Consortium composition\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · HORIZON-CL5-2027-04-Two-Stage-D2-07"
         },
         {
           "title": "Partner composition",
           "question": "Which types of partners must the consortium include?",
-          "answer": "Build a research team for the selected battery area. The European Commission’s Joint Research Centre may join selected projects after proposal preparation to contribute experimental or desk research.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+          "answer": "The call names no required partner types; it invites proposals to consider involving the Joint Research Centre for battery performance or safety research.\nThe JRC would join after selection as a zero-funding beneficiary or associated partner. Legal entities established in China are not eligible for research and innovation actions in this part of the work programme.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · HORIZON-CL5-2027-04-Two-Stage-D2-07, Specific conditions and Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 6–7 · B — Restrictions on the participation of legal entities established in China"
         },
         {
           "title": "Distribution of work",
           "question": "How must work and budget be distributed among partners?",
-          "answer": null,
-          "sources": null
+          "answer": "The call prescribes no division of work or budget.\nSince the grant is a lump sum (a fixed amount paid against completed work packages), the consortium must allocate the amount to work packages and partners in a detailed budget table at the second stage.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · HORIZON-CL5-2027-04-Two-Stage-D2-07, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, lump sum grant proposals"
         },
         {
           "title": "Coordinator",
           "question": "What type of organisation may or must act as lead applicant?",
-          "answer": "The group appoints a funded partner to lead the work on next-generation battery concepts and represent it to the funder.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners"
+          "answer": "No type of organisation is prescribed: the beneficiaries choose one of themselves as coordinator.\nThe coordinator manages and coordinates the project and represents the consortium towards the granting authority (the European Commission or its agency). At submission it must confirm that it has the mandate to act for all applicants.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Coordinator\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, Submission"
         }
       ]
     },
@@ -79,26 +79,26 @@
         {
           "title": "Coordinate",
           "question": "Can TenneT apply or coordinate, and under which conditions?",
-          "answer": "TenneT could coordinate the project if it can define or validate grid-level requirements for stationary materials and cell concepts. The applicants choose their coordinator (the funded partner that represents the group to the funder).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · Scope"
+          "answer": "Formally yes, but battery materials research is led by research institutes and battery industry; TenneT TSO B.V. would at most join an Area C consortium.\nAny eligible beneficiary may coordinate, and a Dutch entity is eligible.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 11, 36 · B — Entities eligible for funding; IMPORTANT, Coordinator\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · HORIZON-CL5-2027-04-Two-Stage-D2-07, Scope"
         },
         {
           "title": "Participate",
           "question": "Can TenneT take part without receiving funding?",
-          "answer": "TenneT could define or validate grid-level requirements for stationary materials and cell concepts as an associated partner (an organisation that works without a grant). It would cover its own costs and would not count towards the minimum number of funded partners.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · Scope"
+          "answer": "Yes, as an associated partner, which takes part without funding and bears its own costs.\nAn associated partner does not sign the grant agreement, cannot charge costs, does not need legal validation and does not count towards the minimum of three beneficiaries from three countries. It must still register in the Participant Register before the application is submitted.\nIn Area C, TenneT could provide grid-storage requirements as an associated partner.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 5 · B — Eligibility, Associated partners\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Registration, Consortium roles and Associated partners\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · HORIZON-CL5-2027-04-Two-Stage-D2-07"
         },
         {
           "title": "Receive funding",
           "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
-          "answer": "TenneT can receive up to 100% of eligible costs (project costs the grant rules allow) for qualifying work. The Dutch entity could define or validate grid-level requirements for stationary materials and cell concepts. The rate helps set a lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · Scope"
+          "answer": "Yes: as a beneficiary TenneT could receive up to 100% of its eligible costs, built into a lump sum.\nThis topic is a research and innovation action (a project that creates new knowledge or tests the feasibility of a new technology, up to small-scale prototypes), for which the maximum rate is 100% for all participants, including companies. The grant is a lump sum fixed from a detailed budget and paid against completed work packages. The expected EU contribution is around EUR 4.8 million per project, for the whole consortium. The call sets no Dutch national rules.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · HORIZON-CL5-2027-04-Two-Stage-D2-07, Specific conditions"
         },
         {
           "title": "TenneT's likely contribution",
           "question": "What contribution would make TenneT credible and useful within the project?",
-          "answer": "TenneT could define a real grid duty cycle for the stationary route and help researchers test whether the storage concept has system-level value.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–104 · Scope"
+          "answer": "Only in Area C could TenneT contribute, by specifying grid-storage requirements, such as multi-hour duration and services, and assessing system integration potential.\nThis is our interpretation. Area C asks grid-storage solutions to show cost-effective system integration and multi-hour support for renewables and grid flexibility. TenneT's experience with battery operators, such as the time-dependent transmission rights contract with Lion Storage, could inform what grid use cases require. At TRL 4–5 the work is laboratory research, so TenneT's input would be small.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · HORIZON-CL5-2027-04-Two-Stage-D2-07, Scope"
         }
       ]
     },
@@ -109,26 +109,26 @@
         {
           "title": "Innovation threshold",
           "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
-          "answer": "Develop a new battery concept or material and benchmark its performance. Existing lithium-ion and sodium-ion batteries are comparators for the low-cost mobility route.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · Scope"
+          "answer": "The project must go beyond the state of the art with genuinely new battery concepts and materials, benchmarked against current technology.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · HORIZON-CL5-2027-04-Two-Stage-D2-07, Scope and Expected Outcome"
         },
         {
           "title": "Innovation object",
           "question": "In what must the project innovate?",
-          "answer": "Innovation covers battery chemistry, multifunctional materials, cell designs and structural integration, with requirements tailored to the selected use.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · Scope"
+          "answer": "Technology: battery chemistries, advanced materials, cell-level concepts and structural integration.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · HORIZON-CL5-2027-04-Two-Stage-D2-07, Scope"
         },
         {
           "title": "Development stages",
           "question": "Which development stages must the project cover?",
-          "answer": "Develop and validate the chosen concept and assess whether it can be manufactured and scaled. Stationary projects combine materials and cell-level work.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · Scope"
+          "answer": "Research and laboratory validation of concepts, with assessments of scalability and manufacturability; no demonstration.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · HORIZON-CL5-2027-04-Two-Stage-D2-07, Scope and Specific conditions"
         },
         {
           "title": "Maturity",
           "question": "Which maturity level is expected at the start and end of the project?",
-          "answer": "The work should reach TRL 4–5 (technology readiness level: technology validated in a laboratory or relevant conditions) by project end. The call allows work to start at any maturity level.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–104 · Specific conditions"
+          "answer": "Activities are expected to reach TRL 4–5 by the end of the project and may start at any TRL.\nTRL 4 is technology validated in a laboratory; TRL 5 is technology validated in a relevant environment.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · HORIZON-CL5-2027-04-Two-Stage-D2-07, Specific conditions, Technology Readiness Level\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · B — Technology Readiness Levels"
         }
       ]
     },
@@ -139,20 +139,20 @@
         {
           "title": "Demonstration",
           "question": "Where and under which conditions must the solution be demonstrated?",
-          "answer": "Validate the battery concept at early technical maturity in a laboratory or other relevant environment. Grid concepts should show credible integration potential at system level.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–104 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–104 · Specific conditions"
+          "answer": "No real-world demonstration is required: validation in the laboratory or a relevant environment, at TRL 4–5.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · HORIZON-CL5-2027-04-Two-Stage-D2-07, Specific conditions and Expected Outcome"
         },
         {
           "title": "Integration",
           "question": "How must the activities fit together and with existing systems?",
-          "answer": "For stationary storage, connect materials and cell design to the intended grid or industrial use. Show how monitoring, safety and management fit the proposed design.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · Scope"
+          "answer": null,
+          "sources": null
         },
         {
           "title": "Evidence",
           "question": "What must the demonstration prove?",
-          "answer": "Compare measurable performance against the chosen route’s benchmark. For grid storage, show potential for cost-effective storage, alongside scalability, service life and recyclability.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · Expected Outcome"
+          "answer": "Each area has quantified targets, and all results must be compared with a state-of-the-art benchmark.\n- Area A: state-of-the-art benchmark for lithium-ion and sodium-ion batteries, and component cost below EUR 35 per kWh\n- Area B: above 500 Wh/kg and/or power density beyond the benchmark\n- Area C (grid): system cost target below EUR 50 per kWh and multi-hour storage support",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · HORIZON-CL5-2027-04-Two-Stage-D2-07, Expected Outcome and Scope"
         },
         {
           "title": "User participation",
@@ -163,8 +163,8 @@
         {
           "title": "Safety and cybersecurity",
           "question": "Which safety, cybersecurity or data requirements must the project meet?",
-          "answer": "Assess battery safety, thermal management, monitoring and fault diagnostics. Consider the Commission’s Safe and Sustainable by Design approach (evaluating material hazards and sustainability during design).",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–104 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–104 · Specific conditions"
+          "answer": "Safety is a mandatory assessment: enhanced safety, thermal management, performance monitoring and predictive diagnostics; the call sets no cybersecurity rule.\nThe Safe and Sustainable by Design framework should be used as reference. If satellite data are used, Copernicus and/or Galileo/EGNOS must be used.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · HORIZON-CL5-2027-04-Two-Stage-D2-07, Specific conditions and Scope"
         }
       ]
     }
@@ -176,23 +176,23 @@
       "cards": [
         {
           "title": "Funding envelope",
-          "answer": "The Commission indicates EUR 48 million for next-generation battery concepts. It expects 10 awards.\n- Grant request: around EUR 4.8 million per project. Different requests remain eligible.\n- Funding form: Lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 43 · Overview of this call\nNovel approaches towards next-generation battery concepts, leveraging the enabling role of innovative advanced materials (BATT4EU and IAM4EU Partnerships) · Budget overview\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–104 · Specific conditions"
+          "answer": "About 10 projects of around EUR 4.8 million each can be funded from the topic budget of EUR 48 million.\n- Total project size: not stated\n- Grant request: around EUR 4.8 million per project, for the whole consortium; other amounts may be requested and selected\n- Funding form: lump sum (a fixed amount set from a detailed budget and paid against completed work packages)\nFinal budgets may change by up to 20% after evaluation.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 43–44 · Call BATTERIES and MOBILITY (HORIZON-CL5-2027-04-Two-Stage), Overview of this call\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · HORIZON-CL5-2027-04-Two-Stage-D2-07, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 29 · F — Budget flexibility"
         },
         {
           "title": "Funding rate and co-financing",
-          "answer": "The grant can cover up to 100% of eligible costs (project costs the grant rules allow) for next-generation battery concepts. This is a research and innovation action (a grant for research and early development). The rate is used to calculate the lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–104 · Specific conditions"
+          "answer": "The single rate for all participants, including companies such as TenneT, is up to 100% of eligible costs.\n- Co-financing conditions: none required by the call; every beneficiary can be reimbursed up to all its eligible costs\nGrants may not produce a profit: any surplus of revenue plus grant over costs is deducted from the final grant.\nFor lump sum grants the rate is applied when the lump sum is calculated and does not appear in the grant agreement.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, funding rate and maximum grant amount"
         },
         {
           "title": "Budget constraints",
-          "answer": "Plan the budget for next-generation battery concepts using the cost categories allowed by the grant. Use estimates to set the fixed grant.\n- Budget detail: Set out the main cost categories by beneficiary (organisations formally responsible for funded work) and work package (separately planned blocks of project work).\n- Purchases and subcontracting: Apply best-value and conflict-of-interest rules.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nLump Sum Funding in Horizon Europe: What do I need to know? · pp. 6–7, 26–27 · Detailed budget table"
+          "answer": "The grant is a lump sum fixed from a detailed budget table, which must still follow the normal cost-eligibility rules.\n- Eligible costs: the detailed budget table must contain only costs that would be eligible under an actual-cost grant (personnel, subcontracting, purchases, other direct costs), because the lump sum must approximate the costs actually incurred\n- Overheads and VAT: indirect costs are included in the lump sum calculation at the standard 25% flat rate of direct costs (excluding subcontracting)\n- Subcontracting or equipment: purchases and subcontracting must give best value for money and be free of conflicts of interest; ineligible costs in the budget table can lead to a reduced grant, even late in the project\nPayment depends on completing the work packages, not on proving the costs.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, lump sum grant proposals\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 32 · G — Budget categories and cost eligibility rules"
         },
         {
           "title": "Cash flow and financial exposure",
-          "answer": "Plan cash flow for next-generation battery concepts around acceptance of completed blocks of work.\n- Payment model: Pre-financing (an advance at the start of the grant), then periodic payments for accepted work packages (separately planned blocks of project work) and a final balance.\n- Retention or guarantee: 5–8% of the maximum grant is deducted from pre-financing for mutual insurance.\n- Financial reporting or audit: Keep evidence of implementation and completion.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 33 · Reporting & payment arrangements\nLump Sum Funding in Horizon Europe: What do I need to know? · pp. 17–23 · Payment schedule, Reporting and payment, Keeping records"
+          "answer": "Partners normally receive a large advance after signing, minus a 5–8% contribution to a shared insurance fund, then interim payments.\n- Payment model: pre-financing (an advance) of normally 160% of the average EU funding per reporting period, then interim payments linked to periodic reports, and a final payment after the final report fixes the grant\n- Retention or guarantee: 5% to 8% of the maximum grant is deducted from the pre-financing and paid into the mutual insurance mechanism (a fund covering sums that cannot be recovered from beneficiaries)\n- Financial reporting or audit: depending on grant size and type of beneficiary, a certificate on the financial statements may be required; each beneficiary is liable only for its own debts",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 32–33 · G — Reporting & payment arrangements, Certificates, Liability regime for recoveries"
         }
       ]
     },
@@ -202,18 +202,18 @@
       "cards": [
         {
           "title": "Application route",
-          "answer": "Apply for next-generation battery concepts through the European Funding & Tenders Portal in two stages, with a full proposal by invitation.\n- Stage 1 — Outline: 14 April 2027 at 17:00 Brussels time. Submit a 10-page outline with anonymised abstract and Part B.\n- Stage 2 — Full proposal: 7 October 2027 at 17:00 Brussels time. By invitation after stage one. The technical proposal (Part B) is limited to 45 pages.\n- Opening: 15 December 2026.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 43 · Overview of this call\nNovel approaches towards next-generation battery concepts, leveraging the enabling role of innovative advanced materials (BATT4EU and IAM4EU Partnerships) · General information\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–104 · Specific conditions"
+          "answer": "Two stages (a short, anonymous outline first; only consortia that pass are invited to send a full proposal), through the EU Funding & Tenders Portal.\n- Stage 1 — Outline proposal: 14 April 2027, 17:00 Brussels time; at most 10 pages, evaluated blindly, so organisation names, acronyms, logos and staff names must not appear in the abstract or Part B\n- Stage 2 — Full proposal: 7 October 2027, 17:00 Brussels time, by invitation only after passing stage 1; Part B of at most 45 pages (the limit for lump sum research and innovation actions) with a detailed lump sum budget table\n- Opening: 15 December 2026\n- Additional procedure: none; the Commission may open the call up to one month earlier or later and delay deadlines by up to two months",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 43–44 · Call BATTERIES and MOBILITY (HORIZON-CL5-2027-04-Two-Stage), Overview of this call\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · HORIZON-CL5-2027-04-Two-Stage-D2-07, Specific conditions, Admissibility conditions and Procedure\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4, 28 · A — Admissibility, Page limits; F — Evaluation procedure"
         },
         {
           "title": "Project window",
-          "answer": "The grant agreement (the contract setting the funded work and payment rules) sets the start date and duration for next-generation battery concepts.\n- Required start: Work normally starts after the grant agreement is signed. A reasoned exception needs approval.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · Starting date & project duration"
+          "answer": "The call sets no duration or start date: both are fixed in the grant agreement.\n- Maximum duration: not set by the call; the grant agreement states the duration in months, and extensions are possible only exceptionally\n- Required start: normally after the grant agreement is signed; an earlier start is possible only exceptionally, for duly justified reasons and with the granting authority's agreement",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · G — Starting date & project duration"
         },
         {
           "title": "Decision and contracting",
-          "answer": "The Commission’s timetable for assessing and contracting next-generation battery concepts is indicative.\n- Stage-one result: Around 3 months from the first deadline.\n- Expected invitation or assessment result: Around 5 months from the full-proposal deadline.\n- Grant agreement (the contract setting the funded work and payment rules): Around 8 months from the full-proposal deadline.\n- Conditions before starting: Beneficiaries (organisations formally responsible for funded work) must conclude a written consortium agreement (the partners’ written agreement on how the project will run).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium agreement"
+          "answer": "Indicatively, stage 1 results come about 3 months after its deadline, and the grant is signed about 8 months after the stage 2 deadline.\n- Expected invitation or assessment result: about 3 months after the stage 1 deadline (indicative)\n- Funding decision: about 5 months after the stage 2 deadline (indicative)\n- Grant agreement: about 8 months after the stage 2 deadline (indicative)\n- Conditions before starting: an invitation to grant preparation is not yet a funding commitment, since legal entity validation, financial capacity and exclusion checks follow; the partners must sign a written consortium agreement",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · F — Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 29 · F — No commitment to provide funding\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Consortium agreement"
         }
       ]
     },
@@ -223,18 +223,18 @@
       "cards": [
         {
           "title": "Mandatory submission package — pass/fail",
-          "answer": "Use the portal’s forms to submit the proposal and supporting documents for next-generation battery concepts.\n- Application form: Complete Part A in the Portal and attach Part B and mandatory annexes.\n- Registration: Beneficiaries (organisations formally responsible for funded work) and affiliated entities (organisations legally linked to funded partners) need participant identification codes (organisation registration numbers).\n- Partner documents: The coordinator confirms its authority to act for the applicant group.\n- Budget: Provide the detailed lump-sum (a fixed grant paid for accepted work rather than reimbursing actual spending) budget table with the full proposal.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 4–5, 11–13 · B — Eligibility"
+          "answer": "The proposal must be complete, submitted electronically before the deadline, and within the page limit; incomplete applications are rejected.\n- Application form: Part A (administrative data and a summary budget, filled in online) and Part B (the technical description, uploaded as a PDF) through the EU Funding & Tenders Portal, using the forms inside the submission system; Part B is limited to 45 pages; the stage 1 outline is limited to 10 pages\n- Budget: the summary budget in Part A and a detailed budget table, which is the basis for the lump sum\n- Mandatory annexes: a plan for the exploitation and dissemination of results, including communication activities (not needed at stage 1), and the ethics self-assessment\n- Partner documents: the coordinator confirms at submission that it has the mandate to act for all applicants; every participant signs a declaration of honour before the grant is signed\n- Registration: every beneficiary, affiliated entity and associated partner needs a participant identification code (PIC, a number from the EU Participant Register) before submission; validation of beneficiaries follows at grant preparation\n- Parallel submission: none\n- Blind first stage: no organisation names, acronyms, logos or staff names in the stage 1 abstract and Part B\n- Lump sum: the detailed budget table at stage 2 is used to fix the lump sum",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility, Page limits\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 5 · B — Entities eligible to participate\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · B — Ethics\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Registration\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · HORIZON-CL5-2027-04-Two-Stage-D2-07, Specific conditions"
         },
         {
           "title": "Evaluation and selection — scored or ranked",
-          "answer": "Next-generation battery concepts proposals are scored first at outline stage and again if invited to submit a full proposal.\n- Outline: Excellence and impact each need 4/5. The overall threshold depends on competition and budget.\n- Full proposal: Excellence, impact and implementation are scored. Each criterion needs 3/5 and the total needs 10/15.\n- Subject to thresholds, the highest-ranked proposal in each of Areas A, B and C receives a place in the portfolio.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–104 · Specific conditions"
+          "answer": "Independent experts score three criteria out of 5; a proposal needs 3 on each and 10 in total.\n- Evaluation criteria: Excellence (clear, ambitious objectives beyond the state of the art; sound methodology), Impact (credible pathways to the expected outcomes; dissemination and exploitation measures) and Quality and efficiency of the implementation (work plan, risks, resources, capacity of each partner)\n- Stage 1: only Excellence and Impact are scored, each needing at least 4; the overall stage 1 threshold is set so that about three times the budget goes through to stage 2, normally 8 or 8.5\n- Thresholds: at least 3 out of 5 for each criterion and 10 out of 15 overall\n- Ranking rules: equal scores are separated first by whether a proposal covers aspects of the call not covered by higher-ranked ones, then by the Excellence score, then Impact, then gender balance among lead researchers and geographical diversity\n- Budget assessment: the grant awarded may be lower than requested, and topic budgets may change by up to 20% after evaluation\n- Portfolio rule: besides ranking order, at least the highest-ranked proposal in each of the three areas is funded, if it passes all thresholds",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria, Scores and weighting, Two-stage calls\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 28–29 · F — Evaluation procedure and ranking, Budget flexibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 31 · G — Form of grant, funding rate and maximum grant amount"
         },
         {
           "title": "Conditional and exceptional requirements",
-          "answer": "Select the battery development area and check the rules for participation and commercial use of results.\n- Conditional requirement: Anonymise the abstract and Part B at stage one. Select one battery area.\n- Conditional requirement: Use Copernicus for Earth observation and/or Galileo or the European Geostationary Navigation Overlay Service for satellite positioning, navigation or timing where covered satellite services are used.\n- Exception — Transfer of results: The granting authority may object to a transfer of ownership or to exclusive licensing (giving another party sole rights to use the results) for up to four years after the project ends.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–104 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–104 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · Specific conditions"
+          "answer": "A blind first stage, one area per proposal, a portfolio rule and the possible JRC role are specific to this topic.\n- Exception — blind evaluation: stage 1 proposals must be anonymous\n- Conditional — area: contribute to one of the three areas and meet its targets\n- Exception — ranking: the top proposal of each area is funded if it passes the thresholds\n- Exception — Joint Research Centre: may join after selection without taking part in the proposal\n- Conditional — results transfer: the granting authority may object to transfers or exclusive licensing for 4 years after the project\n- Conditional — partnership reporting: report to Batt4EU and IAM4EU\n- Recommended: use the Safe and Sustainable by Design framework",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 101–105 · HORIZON-CL5-2027-04-Two-Stage-D2-07, Specific conditions and Scope"
         }
       ]
     }

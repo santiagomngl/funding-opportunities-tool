@@ -7,38 +7,38 @@
         {
           "title": "Central object",
           "question": "What is the principal thing the project must develop?",
-          "answer": "Develop and demonstrate low-voltage direct-current microgrids that can run a building’s or neighbourhood’s electrical equipment.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Expected Outcome"
+          "answer": "Low-voltage direct-current (LVDC) microgrids in city buildings or neighbourhoods, with design tools, a real-life demonstration and support for regulation and standards.\nAn LVDC microgrid connects the DC devices in a building (solar panels, batteries, LED lighting, IT equipment, heat pumps, EV chargers) on a local direct-current network, linked to the normal alternating-current (AC) distribution grid through one central converter. The call expects it to save energy and materials, optimise storage and self-consumption, support grid stability and allow islanded operation.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Scope"
         },
         {
           "title": "Scope",
           "question": "Which activities fall within the funding opportunity's scope?",
-          "answer": "Design, demonstrate and assess a low-voltage direct-current microgrid in an urban setting. Cover flexibility, lifecycle impacts, local regulations, standards and how the system could be replicated.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Specific conditions"
+          "answer": "Proposals are expected to address all seven aspects the call lists; the call names no excluded activities.\n- Develop safe, sustainable LVDC design methods and tools, including grid monitoring, control and safe handling of DC faults at affordable cost, and assess life-cycle costs and benefits against AC installations, including impacts on the AC distribution grid (harmonics, ancillary services, demand response) and on vulnerable consumers' bills\n- Demonstrate in real life an LVDC microgrid connecting all electrical applications in at least one residential, office or commercial building or one neighbourhood; the proposal must already review local regulations and grid codes and show the demonstration is possible, if needed through pre-agreed regulatory relaxation or an innovation sandbox\n- Demonstrate LVDC virtually, by digital twin simulation, in other buildings, including at least one under renovation, in different cities and countries and, if possible, a vulnerable urban area; at least 3 real and virtual demonstrations in total\n- Identify regulatory barriers at European, national and distribution system operator level, and propose solutions\n- Contribute to standardisation in CEN-CENELEC and IEC (the European and international standards bodies), notably with use cases\n- Develop awareness, education and training materials for authorities, the public, students, planners, developers and installers, with local academia\n- Disseminate results, engage stakeholders from the planning phase, and organise at least one open workshop with site visits",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Scope"
         },
         {
           "title": "Problem",
           "question": "What type of problem or need must justify the project, and where must it originate?",
-          "answer": "Cities need to know whether local direct-current networks can avoid power conversion losses and help buildings coordinate flexible electricity use.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Expected Outcome"
+          "answer": "Most building devices run on DC, but buildings are wired for AC, causing conversion losses and heavier connections to city grids.\nThe need originates with cities and society: European Green Deal, Clean Industrial Deal and Solar Strategy goals, energy efficiency, local renewables and resilience. The call notes that an LVDC microgrid needs a much smaller connection to the AC distribution grid than a traditional installation, reducing pressure on city grids. Barriers are mainly awareness, acceptance, safety concerns, regulation and standards.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Expected Outcome and Scope"
         },
         {
           "title": "Deliverables",
           "question": "Which concrete outputs must the project produce?",
-          "answer": "Deliver live and virtual demonstrations, recommendations on regulatory obstacles, use cases for standards and training materials for those who will use or install the system.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Expected Outcome"
+          "answer": "Design tools and methods, a real-life LVDC demonstration, virtual demonstrations, regulatory recommendations, standardisation input and training materials.\n- LVDC design methods and tools, and a life-cycle cost-benefit methodology\n- At least one real-life LVDC microgrid, and enough virtual demonstrations to reach at least 3 in total\n- Technical installation guidelines and recommendations on regulatory alignment for authorities and distribution operators\n- Use cases and other contributions to CEN-CENELEC and IEC standards\n- Awareness, education and training materials\n- At least one open workshop with site visits",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Expected Outcome and Scope"
         },
         {
           "title": "Impact",
           "question": "Which wider system outcomes and impacts must the project support?",
-          "answer": "Show measurable energy savings and how local resources can support flexibility. Capture what the changes mean for users, including vulnerable consumers.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Expected Outcome"
+          "answer": "Projects must contribute to all four outcomes: awareness, measurable acceptance, uptake in cities through guidelines, and more regulatory options and standards for LVDC.\n- Improved awareness of LVDC microgrids' potential for the Green Deal, Clean Industrial Deal, SET Plan and Solar Strategy\n- Increased acceptance, with significant and measurable contributions to safety (especially DC faults), energy and resource efficiency, renewable and storage integration, demand response, peak shaving and resilience, and where applicable proof that LVDC lets energy communities share assets\n- Increased uptake in cities through technical guidelines and regulatory recommendations to authorities and distribution operators\n- More regulatory options and standards supporting EU industry leadership in LVDC\nThe call requires measurable contributions but sets no numerical targets.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Expected Outcome"
         },
         {
           "title": "After the project",
           "question": "How must the result be replicated, taken up and kept in use after the project?",
-          "answer": "Prepare training for designers, installers and residents, and share standards use cases. Organise a workshop with site visits and collaborate with other selected projects.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Expected Outcome"
+          "answer": "The results must enable wider uptake: guidelines, regulatory proposals and standards are mandatory, and the project joins the Cities Mission's clustering.\n- Transferability: virtual demonstrations in different cities and countries must assess regulatory feasibility and costs and benefits elsewhere\n- Standards: contribution to CEN-CENELEC and IEC is required\n- Knowledge: training and education materials, dissemination and an open workshop\n- Network: a Memorandum of Understanding with the Cities Mission Platform (the support platform of the EU Mission for 100 climate-neutral cities) as soon as possible after the start, and clustering with other Cities Mission projects; cooperation with the other projects under this topic\nThe call does not say who must operate the demonstration after the project.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Specific conditions and Scope"
         }
       ]
     },
@@ -49,26 +49,26 @@
         {
           "title": "Number of partners",
           "question": "What is the permitted or required consortium size?",
-          "answer": "At least three cities from different eligible countries must participate as funded partners. At least one must be established in a European Union Member State. The other two must be established in different Member States or countries associated with Horizon Europe (countries formally participating in the European research programme). The three funded independent-organisation minimum applies as well.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition\nHorizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Specific conditions"
+          "answer": "At least three independent organisations from three different countries; the call sets no maximum.\nThe general rule requires, as beneficiaries (organisations that sign the grant agreement and receive funding), three legal entities independent of each other: at least one established in an EU Member State and two others each in a different Member State or country associated with Horizon Europe (non-EU countries taking part in the programme, such as Norway, Switzerland or the United Kingdom). Affiliated entities (organisations legally linked to a beneficiary) and associated partners (organisations taking part without funding) do not count towards this minimum.\nIn addition, at least three cities from three different Member States or Associated Countries must be beneficiaries, represented by a local authority or an entity with its explicit consent; at least one must be one of the 112 cities of the EU Mission on Climate-Neutral and Smart Cities.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · B — Eligibility, Consortium composition\nHorizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01"
         },
         {
           "title": "Partner composition",
           "question": "Which types of partners must the consortium include?",
-          "answer": "Three cities from different eligible countries must participate as funded partners through their local authorities or explicitly mandated entities. At least one must be a selected European climate-neutral cities mission city. The work needs social sciences and humanities expertise.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+          "answer": "At least three cities must be beneficiaries, one of them a Mission city, and social sciences and humanities experts are required.\n- Cities: three, from three different Member States or Associated Countries, each represented by a local authority or an entity with its explicit consent; at least one of the 112 Mission cities\n- Social sciences and humanities: contributions from these disciplines and involvement of SSH experts and institutions are required, especially for training and stakeholder engagement\n- Local academia and research partners: for education and training materials\n- Exclusion: entities controlled by China or a Chinese legal entity are not eligible\nProposals should build on earlier projects, notably Shift2DC, HYPERRIDE, TIGON, HYNET and THEUS.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Specific conditions and Scope"
         },
         {
           "title": "Distribution of work",
           "question": "How must work and budget be distributed among partners?",
-          "answer": "Plan work and resources for cooperation with the European cities mission platform. Separate live deployment from virtual replication studies while connecting the results.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Specific conditions"
+          "answer": "The call prescribes no budget split, but the work plan must include resources for cooperation with the Cities Mission Platform and for clustering.\nSince the grant is a lump sum (a fixed amount paid against completed work packages), the consortium must allocate the amount to work packages and partners in a detailed budget table.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Specific conditions and Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, lump sum grant proposals"
         },
         {
           "title": "Coordinator",
           "question": "What type of organisation may or must act as lead applicant?",
-          "answer": "The group appoints a funded partner to lead the work on urban direct-current microgrids and represent it to the funder.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners"
+          "answer": "No type of organisation is prescribed: the beneficiaries choose one of themselves as coordinator.\nThe coordinator manages and coordinates the project and represents the consortium towards the granting authority (the European Commission or its agency). At submission it must confirm that it has the mandate to act for all applicants.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Coordinator\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, Submission"
         }
       ]
     },
@@ -79,26 +79,26 @@
         {
           "title": "Coordinate",
           "question": "Can TenneT apply or coordinate, and under which conditions?",
-          "answer": "TenneT could coordinate the project if it can contribute a defined system or standards task alongside the mandatory city participants. The applicants choose their coordinator (the funded partner that represents the group to the funder). The proposal still needs the three required city participants.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Scope"
+          "answer": "Formally yes, but the project is about building-level DC networks in cities, so TenneT TSO B.V. would not be a natural lead.\nAny eligible beneficiary may coordinate, and a Dutch entity is eligible. TenneT does not count towards the three required cities.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 11, 36 · B — Entities eligible for funding; IMPORTANT, Coordinator\nHorizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Specific conditions"
         },
         {
           "title": "Participate",
           "question": "Can TenneT take part without receiving funding?",
-          "answer": "TenneT could take part in urban direct-current microgrids without receiving a grant. As an associated partner (an organisation that works without a grant), it could contribute a defined system or standards task alongside the mandatory city participants. It would cover its own costs and would not count towards the minimum number of funded partners. Only funded participation counts for a mandatory practitioner or city role under the topic’s rules.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Scope"
+          "answer": "Yes, as an associated partner, which takes part without funding and bears its own costs.\nAn associated partner does not sign the grant agreement, cannot charge costs, does not need legal validation and does not count towards the minimum of three beneficiaries from three countries. It must still register in the Participant Register before the application is submitted.\nTenneT could, for example, advise on how LVDC microgrids and their ancillary services affect the wider grid.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 5 · B — Eligibility, Associated partners\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Registration, Consortium roles and Associated partners\nHorizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01"
         },
         {
           "title": "Receive funding",
           "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
-          "answer": "TenneT can receive up to 70% of eligible costs (project costs the grant rules allow) for qualifying work. The Dutch entity could contribute a defined system or standards task alongside the mandatory city participants. Budget at least 30% of those costs from other resources. The rate helps set a lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Scope"
+          "answer": "Yes: as a beneficiary TenneT can receive up to 70% of its eligible costs, paid within a lump sum.\nThis topic is an innovation action (a project that develops, pilots and demonstrates new or improved solutions close to the market), for which the maximum rate is 70% for organisations other than non-profit legal entities. The grant is a lump sum fixed from a detailed budget and paid against completed work packages. The expected EU contribution is around EUR 7 million per project, for the whole consortium. The call sets no Dutch national rules.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Specific conditions"
         },
         {
           "title": "TenneT's likely contribution",
           "question": "What contribution would make TenneT credible and useful within the project?",
-          "answer": "TenneT could assess how flexibility from local microgrids affects the transmission network. City and distribution partners would need to lead on the deployment setting and local interfaces.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Scope"
+          "answer": "TenneT's possible contribution is limited to the system view: how LVDC microgrids' lower connection needs and ancillary services could ease congestion.\nThis is our interpretation. The life-cycle assessment must include impacts on the overall energy system, such as demand response and ancillary services, and the call stresses reduced pressure on city grids. TenneT could provide congestion data from Dutch regions, input from the regional Energy boards, and flexibility requirements from its balancing work. The microgrids themselves sit behind the connection of distribution grids, so Dutch DSOs are the more natural grid partners.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Scope"
         }
       ]
     },
@@ -109,26 +109,26 @@
         {
           "title": "Innovation threshold",
           "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
-          "answer": "Develop innovative design methods and tools for urban microgrids. Build on prior European work on direct-current distribution, including the Shift2DC (Shift to Direct Current) project.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Scope"
+          "answer": "The project must develop innovative design methods and tools and demonstrate LVDC in real life; it builds on earlier projects such as Shift2DC.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Scope"
         },
         {
           "title": "Innovation object",
           "question": "In what must the project innovate?",
-          "answer": "The innovation spans network design, use of local flexibility and safe, sustainable installation, with new regulatory and standards options.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Scope"
+          "answer": "A combination of technology (LVDC design, control and fault protection), regulation and standards, and social aspects such as acceptance and training.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Expected Outcome and Scope"
         },
         {
           "title": "Development stages",
           "question": "Which development stages must the project cover?",
-          "answer": "Design a microgrid, check local rules, run at least one live demonstration and simulate how it would work in other buildings.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Scope"
+          "answer": "Design and tool development, real-life and virtual demonstration, and preparation for wider uptake through guidelines and standards.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Scope"
         },
         {
           "title": "Maturity",
           "question": "Which maturity level is expected at the start and end of the project?",
-          "answer": "The work should reach TRL 7–8 (technology readiness level: from a prototype demonstrated in operation to a complete, qualified system) by project end.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Specific conditions"
+          "answer": "Activities are expected to reach TRL 7–8 by the end of the project.\nTRL 7 is a system prototype demonstrated in an operational environment; TRL 8 is a complete and qualified system.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Specific conditions, Technology Readiness Level\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · B — Technology Readiness Levels"
         }
       ]
     },
@@ -139,32 +139,32 @@
         {
           "title": "Demonstration",
           "question": "Where and under which conditions must the solution be demonstrated?",
-          "answer": "Use at least three real and virtual demonstrations in total, including a live building or neighbourhood and at least one renovation in the virtual work.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Specific conditions"
+          "answer": "At least one real-life LVDC microgrid connecting all electrical applications in a building or neighbourhood, plus virtual demonstrations to reach at least 3.\nVirtual demonstrations use digital twins (numerical models of buildings) in other building types, including one under renovation, in different cities and countries. The real demonstration must be shown to be legally possible in the local context already at proposal stage.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Scope"
         },
         {
           "title": "Integration",
           "question": "How must the activities fit together and with existing systems?",
-          "answer": "Connect all electrical applications in at least one building or neighbourhood. Use simulations to check fit with other building types, including at least one renovation.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Scope"
+          "answer": "The microgrid must integrate all electrical applications of the building and connect to the AC distribution grid through a central converter.\nThe assessment must cover the impact on the AC grid, such as harmonics and support through ancillary services, and the project must cluster with other Cities Mission projects such as those on positive energy district digital twins.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Scope"
         },
         {
           "title": "Evidence",
           "question": "What must the demonstration prove?",
-          "answer": "Measure energy savings and assess flexibility, lifecycle cost and social effects, including the impact on vulnerable consumers’ bills.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Expected Outcome"
+          "answer": "The project must produce measurable evidence on safety, efficiency, integration, demand response, peak shaving and resilience, and life-cycle costs and benefits.\nCosts and benefits must be assessed technically, environmentally, economically and socially, including the effect on vulnerable consumers' energy bills, and compared with traditional AC installations.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Expected Outcome and Scope"
         },
         {
           "title": "User participation",
           "question": "How must users take part in the project?",
-          "answer": "At least three cities must be funded partners, through their authority or a mandated organisation. Engage building users and the wider value chain through outreach, training and site visits.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Scope"
+          "answer": "Residents, users, industry and researchers must be engaged from the planning phase, with at least one open workshop and site visits.\nSocial sciences and humanities experts must help make the work relevant to society.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Scope"
         },
         {
           "title": "Safety and cybersecurity",
           "question": "Which safety, cybersecurity or data requirements must the project meet?",
-          "answer": "Develop safe microgrid designs and address the local regulatory framework and applicable grid connection arrangements in the proposal.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Scope"
+          "answer": "Safe handling of DC faults is a core requirement; the call sets no cybersecurity rule.\n- Safety: design tools must ensure safe handling of DC faults; acceptance must show measurable contributions to human and building safety\n- Control restriction: entities controlled by China or a Chinese legal entity are not eligible",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Specific conditions, Expected Outcome and Scope"
         }
       ]
     }
@@ -176,23 +176,23 @@
       "cards": [
         {
           "title": "Funding envelope",
-          "answer": "The Commission indicates EUR 20 million for urban direct-current microgrids. It expects 3 awards.\n- Grant request: around EUR 7 million per project. Different requests remain eligible.\n- Funding form: Lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Missions · p. 27 · Overview of this call\nInnovative microgrids for improved energy system integration and efficiency in urban contexts · Budget overview"
+          "answer": "About 3 projects of around EUR 7 million each are expected, within a topic budget of EUR 20 million.\n- Total project size: not stated\n- Grant request: around EUR 7 million per project, for the whole consortium; other amounts may be requested and selected\n- Funding form: lump sum (a fixed amount set from a detailed budget and paid against completed work packages)\nFinal budgets may change by up to 20% after evaluation.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 27–28 · Call HORIZON-MISS-2027-04, Overview of this call\nHorizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 29 · F — Budget flexibility"
         },
         {
           "title": "Funding rate and co-financing",
-          "answer": "For-profit organisations can receive up to 70% towards urban direct-current microgrids. The rate is used to set the lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).\n- For-profit organisations: Up to 70% of eligible costs (project costs the grant rules allow), leaving at least 30% to cover.\n- Non-profit legal entities: Up to 100% of eligible costs (project costs the grant rules allow).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Specific conditions"
+          "answer": "Companies such as TenneT receive at most 70% of eligible costs; non-profit legal entities receive up to 100%.\n- For-profit organisations: up to 70% of eligible costs, so at least 30% must come from their own resources\n- Non-profit legal entities (for example universities and research organisations): up to 100% of eligible costs\n- Co-financing conditions: the call sets no rule on cash or in-kind co-financing beyond the funding rate; the remainder is simply not reimbursed\nGrants may not produce a profit: any surplus of revenue plus grant over costs is deducted from the final grant.\nFor lump sum grants the rate is applied when the lump sum is calculated and does not appear in the grant agreement.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, funding rate and maximum grant amount"
         },
         {
           "title": "Budget constraints",
-          "answer": "Plan the budget for urban direct-current microgrids using the cost categories allowed by the grant. Use estimates to set the fixed grant.\n- Budget detail: Set out the main cost categories by beneficiary (organisations formally responsible for funded work) and work package (separately planned blocks of project work).\n- Purchases and subcontracting: Apply best-value and conflict-of-interest rules.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nLump Sum Funding in Horizon Europe: What do I need to know? · pp. 6–7, 26–27 · Detailed budget table"
+          "answer": "The grant is a lump sum fixed from a detailed budget table, which must still follow the normal cost-eligibility rules.\n- Eligible costs: the detailed budget table must contain only costs that would be eligible under an actual-cost grant (personnel, subcontracting, purchases, other direct costs), because the lump sum must approximate the costs actually incurred\n- Overheads and VAT: indirect costs are included in the lump sum calculation at the standard 25% flat rate of direct costs (excluding subcontracting)\n- Subcontracting or equipment: purchases and subcontracting must give best value for money and be free of conflicts of interest; ineligible costs in the budget table can lead to a reduced grant, even late in the project\nPayment depends on completing the work packages, not on proving the costs.\n- Mandatory allocations: the work plan must include activities and resources for cooperation with the Cities Mission Platform and clustering",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, lump sum grant proposals\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 32 · G — Budget categories and cost eligibility rules"
         },
         {
           "title": "Cash flow and financial exposure",
-          "answer": "Plan cash flow for urban direct-current microgrids around acceptance of completed blocks of work.\n- Payment model: Pre-financing (an advance at the start of the grant), then periodic payments for accepted work packages (separately planned blocks of project work) and a final balance.\n- Retention or guarantee: 5–8% of the maximum grant is deducted from pre-financing for mutual insurance.\n- Financial reporting or audit: Keep evidence of implementation and completion.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 33 · Reporting & payment arrangements\nLump Sum Funding in Horizon Europe: What do I need to know? · pp. 17–23 · Payment schedule, Reporting and payment, Keeping records"
+          "answer": "Partners normally receive a large advance after signing, minus a 5–8% contribution to a shared insurance fund, then interim payments.\n- Payment model: pre-financing (an advance) of normally 160% of the average EU funding per reporting period, then interim payments linked to periodic reports, and a final payment after the final report fixes the grant\n- Retention or guarantee: 5% to 8% of the maximum grant is deducted from the pre-financing and paid into the mutual insurance mechanism (a fund covering sums that cannot be recovered from beneficiaries)\n- Financial reporting or audit: depending on grant size and type of beneficiary, a certificate on the financial statements may be required; each beneficiary is liable only for its own debts",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 32–33 · G — Reporting & payment arrangements, Certificates, Liability regime for recoveries"
         }
       ]
     },
@@ -202,18 +202,18 @@
       "cards": [
         {
           "title": "Application route",
-          "answer": "Apply for urban direct-current microgrids through the European Funding & Tenders Portal in one stage.\n- Full proposal: 7 October 2027 at 17:00 Brussels time. The technical proposal (Part B) is limited to 45 pages.\n- Opening: 9 February 2027.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · p. 27 · Overview of this call\nInnovative microgrids for improved energy system integration and efficiency in urban contexts · General information\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents"
+          "answer": "One stage: full proposals are due by 7 October 2027, 17:00 Brussels time, through the EU Funding & Tenders Portal.\n- Stage 1 — Full proposal: 7 October 2027, 17:00 Brussels time; Part A online and Part B of at most 45 pages (the limit for lump sum innovation actions), with a detailed lump sum budget table and a review of local regulations and grid codes for the demonstration\n- Opening: 9 February 2027\n- Additional procedure: none; the Commission may open the call up to one month earlier or later and delay the deadline by up to two months",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 27–28 · Call HORIZON-MISS-2027-04, Overview of this call\nHorizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility, Page limits"
         },
         {
           "title": "Project window",
-          "answer": "The grant agreement (the contract setting the funded work and payment rules) sets the start date and duration for urban direct-current microgrids.\n- Required start: Work normally starts after the grant agreement is signed. A reasoned exception needs approval.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · Starting date & project duration"
+          "answer": "The call sets no duration or start date: both are fixed in the grant agreement.\n- Maximum duration: not set by the call; the grant agreement states the duration in months, and extensions are possible only exceptionally\n- Required start: normally after the grant agreement is signed; an earlier start is possible only exceptionally, for duly justified reasons and with the granting authority's agreement\n- Conditions after the start: the Memorandum of Understanding with the Cities Mission Platform must be concluded as soon as possible after the starting date",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · G — Starting date & project duration"
         },
         {
           "title": "Decision and contracting",
-          "answer": "The Commission’s timetable for assessing and contracting urban direct-current microgrids is indicative.\n- Expected invitation or assessment result: Around 5 months from the full-proposal deadline.\n- Grant agreement (the contract setting the funded work and payment rules): Around 8 months from the full-proposal deadline.\n- Conditions before starting: Beneficiaries (organisations formally responsible for funded work) must conclude a written consortium agreement (the partners’ written agreement on how the project will run).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium agreement"
+          "answer": "Indicatively, the evaluation result comes about 5 months after the deadline and the grant agreement is signed about 8 months after it.\n- Funding decision: about 5 months after the deadline (indicative), around March 2028\n- Grant agreement: about 8 months after the deadline (indicative)\n- Conditions before starting: an invitation to grant preparation is not yet a funding commitment, since legal entity validation, financial capacity and exclusion checks follow; the partners must sign a written consortium agreement",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · F — Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 29 · F — No commitment to provide funding\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Consortium agreement"
         }
       ]
     },
@@ -223,18 +223,18 @@
       "cards": [
         {
           "title": "Mandatory submission package — pass/fail",
-          "answer": "Use the portal’s forms to submit the proposal and supporting documents for urban direct-current microgrids.\n- Application form: Complete Part A in the Portal and attach Part B and mandatory annexes.\n- Registration: Beneficiaries (organisations formally responsible for funded work) and affiliated entities (organisations legally linked to funded partners) need participant identification codes (organisation registration numbers).\n- Partner documents: The coordinator confirms its authority to act for the applicant group.\n- Budget: Provide the detailed lump-sum (a fixed grant paid for accepted work rather than reimbursing actual spending) budget table with the full proposal.\n- Mandatory application input: Include an explicit authority to act for the applicant group statement if a participating entity represents a city. Retained proposals need a formal signed and dated authority to act for the applicant group letter during grant preparation.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 4–5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Scope\nInnovative microgrids for improved energy system integration and efficiency in urban contexts · Topic Q&A 105274, 105275"
+          "answer": "The proposal must be complete, submitted electronically before the deadline, and within the page limit; incomplete applications are rejected.\n- Application form: Part A (administrative data and a summary budget, filled in online) and Part B (the technical description, uploaded as a PDF) through the EU Funding & Tenders Portal, using the forms inside the submission system; Part B is limited to 45 pages\n- Budget: the summary budget in Part A and a detailed budget table, which is the basis for the lump sum\n- Mandatory annexes: a plan for the exploitation and dissemination of results, including communication activities, and the ethics self-assessment\n- Partner documents: the coordinator confirms at submission that it has the mandate to act for all applicants; every participant signs a declaration of honour before the grant is signed\n- Registration: every beneficiary, affiliated entity and associated partner needs a participant identification code (PIC, a number from the EU Participant Register) before submission; validation of beneficiaries follows at grant preparation\n- Parallel submission: none\n- Lump sum: the detailed budget table is mandatory and is used to fix the lump sum\n- City consent: cities not represented by their local authority need its explicit consent\n- Regulatory review: the proposal must include a review of local regulations and grid codes showing the real-life demonstration is possible",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility, Page limits\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 5 · B — Entities eligible to participate\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · B — Ethics\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Registration\nHorizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Specific conditions and Scope"
         },
         {
           "title": "Evaluation and selection — scored or ranked",
-          "answer": "Urban direct-current microgrids proposals compete on research quality, impact and the quality of the delivery plan.\n- Full proposal: Excellence, impact and implementation are scored. Each criterion needs 3/5 and the total needs 10/15.\n- Impact is weighted by 1.5 in Innovation Action (a grant for developing and demonstrating new solutions) full-proposal ranking.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria"
+          "answer": "Independent experts score three criteria out of 5; a proposal needs 3 on each and 10 in total, and Impact weighs 1.5 times in the ranking.\n- Evaluation criteria: Excellence (clear, ambitious objectives beyond the state of the art; sound methodology), Impact (credible pathways to the expected outcomes; dissemination and exploitation measures) and Quality and efficiency of the implementation (work plan, risks, resources, capacity of each partner)\n- Thresholds: at least 3 out of 5 for each criterion and 10 out of 15 overall\n- Weighting: for ranking, the Impact score counts 1.5 times\n- Ranking rules: equal scores are separated first by whether a proposal covers aspects of the call not covered by higher-ranked ones, then by the Impact score, then Excellence, then gender balance among lead researchers and geographical diversity\n- Budget assessment: the grant awarded may be lower than requested, and topic budgets may change by up to 20% after evaluation",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria, Scores and weighting, Two-stage calls\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 28–29 · F — Evaluation procedure and ranking, Budget flexibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 31 · G — Form of grant, funding rate and maximum grant amount"
         },
         {
           "title": "Conditional and exceptional requirements",
-          "answer": "The urban microgrid proposal needs cities that meet the topic’s specific eligibility rules.\n- Conditional requirement: Document readiness for real-life deployment with a review of local regulation and grid codes and evidence that the installations can proceed.\n- Conditional requirement: Resource collaboration with the Cities Mission Platform and conclude the memorandum of understanding as soon as possible after the project starts.\n- Conditional requirement: Screen partners for China-control restrictions.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Missions · pp. 157–160 · Scope"
+          "answer": "Three city beneficiaries including a Mission city, the Cities Mission Platform agreement, the lump sum and the China-control restriction are specific to this topic.\n- Conditional — cities: three cities from three countries as beneficiaries, one of the 112 Mission cities\n- Conditional — Cities Mission Platform: a Memorandum of Understanding soon after the start, with resources for cooperation and clustering; grants are linked to the platform's action HORIZON-MISS-2021-CIT-02-03\n- Conditional — social sciences and humanities: SSH experts and institutions must be involved\n- Exception — regulation: the demonstration may rely on pre-agreed regulatory relaxation or an innovation sandbox\n- Exception — entities controlled by China: not eligible\n- Recommended: build on Shift2DC, HYPERRIDE, TIGON, HYNET and THEUS; cooperate with the other projects of this topic",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Specific conditions and Scope"
         }
       ]
     }
