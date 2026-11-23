@@ -16,13 +16,24 @@
   "minimum_project_size": null,
   "maximum_project_size": null,
   "date_last_checked": "2026-11-23",
-  "status_rationale": "The tender awards the permit and a 15-year operating subsidy for building and operating a 1 GW offshore wind farm on plot Gamma-B (Regeling subsidie- en vergunningverlening kavel Gamma-B, Staatscourant 2026, 21303, articles 2, 10 to 15). It touches TenneT's field directly: the wind farm connects to TenneT's 2 GW HVDC platform shared with Gamma-A, close to the project files 2GW Program, Onshore and Offshore Grid Investment Plans 2026 and Grid Optimisation Plan (over-planting of 1.15 GW on a 1 GW export cable). Only the wind farm developer can receive the permit and subsidy, but the rules give TenneT a defined unfunded role as offshore transmission system operator: the applicant must agree TenneT's connection conditions within 12 months, and TenneT and the permit holder draw up a joint connection and test plan and test the wind farm with TenneT's grid connection system (article 3(3) and 8(5); explanatory notes § 5.3; RVO Q&A, Ontwikkelkader questions 4 to 6). The category is manufacturer-led with TenneT as unfunded system integrator and test-environment provider, because TenneT integrates the developer's wind farm into its own offshore grid and tests it there.",
-  "call_type": "Type 2",
-  "category_codes": ["C2.2"],
+  "status_rationale": "The tender awards the permit and a 15-year operating subsidy for building and operating a 1 GW offshore wind farm on plot Gamma-B (Regeling subsidie- en vergunningverlening kavel Gamma-B, Staatscourant 2026, 21303, articles 2 and 10 to 15). It touches TenneT's field directly: the wind farm connects to TenneT's 2 GW HVDC platform shared with Gamma-A, close to the project files 2GW Program, Onshore and Offshore Grid Investment Plans 2026 and Grid Optimisation Plan (over-planting of 1.15 GW on a 1 GW export cable). Only a wind farm developer or energy company can receive the permit and subsidy (article 10; RVO page, Voor wie?), and TenneT's connection and joint-testing duties follow from its statutory role as offshore grid operator, not from a role in the subsidised project, so the call sets out no route for TenneT. The category is environment, permitting and public support, because every applicant must commit to due diligence, carbon-footprint assessment and at least 70% recyclable rotor blades (article 7, c to f).",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.7"
+  ],
   "taxonomy_values": {
-    "topic": ["T7", "T4", "T8", "T9"],
-    "role": ["R9"],
-    "activity": ["A9", "A8"],
-    "outcome": ["O7", "O5"]
+    "topic": [
+      "T7",
+      "T9"
+    ],
+    "role": [],
+    "activity": [
+      "A9",
+      "A10"
+    ],
+    "outcome": [
+      "O7",
+      "O5"
+    ]
   }
 }
