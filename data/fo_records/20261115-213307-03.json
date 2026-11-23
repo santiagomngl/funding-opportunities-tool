@@ -11,12 +11,12 @@
   "executive_summary": "This Innovation Action supports fully electric ferries, offshore vessels, short-sea shipping and inland vessels. It covers extended battery life, rapid charging and corresponding grid capacity for higher-power operation. The topic encourages EU and EEA shipyards, equipment manufacturers and suppliers in eligible consortia. The topic budget is EUR 20 million with around EUR 10 million expected per project. It opens 2026-12-15 and closes 2027-04-14 at 17:00 Brussels time.",
   "pre_submission_deadline": null,
   "full_proposal_deadline": "2027-04-14",
-  "earliest_project_start_date": "2027-01-01",
-  "project_end_date": "2029-12-31",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
   "minimum_project_size": null,
   "maximum_project_size": null,
-  "date_last_checked": "2026-11-15",
-  "status_rationale": "Climate, Energy and Mobility Work Programme, pp. 257–260, Specific conditions and Scope, defines the work. An eligible Dutch TSO can contribute a funded grid-facing work package with a ship operator, port and charging partners where projected aggregate loads require transmission-level analysis. The connection to Grids & Benefits supports Type 1 and C1.3. The date helper provides both project dates as defaults from 1 January 2027 and 36 months.",
+  "date_last_checked": "2026-11-23",
+  "status_rationale": "Climate, Energy and Mobility Work Programme, pp. 257–260, Specific conditions and Scope, defines the work. An eligible Dutch TSO can contribute a funded grid-facing work package with a ship operator, port and charging partners where projected aggregate loads require transmission-level analysis. The connection to Grids & Benefits supports Type 1 and C1.3. Both project dates are null because the call states no start, end or duration.",
   "call_type": "Type 1",
   "category_codes": [
     "C1.3"

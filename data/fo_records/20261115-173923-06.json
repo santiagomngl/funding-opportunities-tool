@@ -11,12 +11,12 @@
   "executive_summary": "Demonstrates improved thermal management and waste-heat recovery from 100–500 kW IT rooms and small edge data centres in warm and cold climates. Eligible consortia can bring together equipment developers, facility operators and local heat users. The topic budget is EUR 15.75 million, with around EUR 5.25 million expected per project. Opening 2027-05-05. Full proposal deadline 2027-09-15 at 17:00 Brussels time.",
   "pre_submission_deadline": null,
   "full_proposal_deadline": "2027-09-15",
-  "earliest_project_start_date": "2027-01-01",
-  "project_end_date": "2029-12-31",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
   "minimum_project_size": null,
   "maximum_project_size": null,
-  "date_last_checked": "2026-11-15",
-  "status_rationale": "Climate, Energy and Mobility Work Programme, pp. 201–203, describes the eligible work in Scope. Dutch legal entities are generally eligible, but the call text establishes no practical TenneT role in premises cooling, heat reuse or integration with building controls. Efficient installations could lower electricity demand. This supports Type 3 and C3.3. Both project dates are date-helper defaults based on 1 January 2027 and 36 months.",
+  "date_last_checked": "2026-11-23",
+  "status_rationale": "Climate, Energy and Mobility Work Programme, pp. 201–203, describes the eligible work in Scope. Dutch legal entities are generally eligible, but the call text establishes no practical TenneT role in premises cooling, heat reuse or integration with building controls. Efficient installations could lower electricity demand. This supports Type 3 and C3.3. Both project dates are null because the call states no start, end or duration.",
   "call_type": "Type 3",
   "category_codes": [
     "C3.3"

@@ -1,127 +1,31 @@
 {
-  "project_requirements": [
+  "call_overview": [
     {
-      "title": "What the call wants",
-      "question": "What must the project address, develop and achieve?",
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
       "cards": [
         {
-          "title": "Central object",
-          "question": "What is the principal thing the project must develop?",
-          "answer": "Low-voltage direct-current (LVDC) microgrids in city buildings or neighbourhoods, with design tools, a real-life demonstration and support for regulation and standards.\nAn LVDC microgrid connects the DC devices in a building (solar panels, batteries, LED lighting, IT equipment, heat pumps, EV chargers) on a local direct-current network, linked to the normal alternating-current (AC) distribution grid through one central converter. The call expects it to save energy and materials, optimise storage and self-consumption, support grid stability and allow islanded operation.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Scope"
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "Low-voltage direct-current (LVDC) microgrids in city buildings or neighbourhoods, with design tools, a real-life demonstration and support for regulation and standards.\nAn LVDC microgrid connects the DC devices in a building (solar panels, batteries, LED lighting, IT equipment, heat pumps, EV chargers) on a local direct-current network, linked to the normal alternating-current (AC) distribution grid through one central converter. The call expects it to save energy and materials, optimise storage and self-consumption, support grid stability and allow islanded operation.\nProposals are expected to address all seven aspects the call lists; the call names no excluded activities.\n- Develop safe, sustainable LVDC design methods and tools, including grid monitoring, control and safe handling of DC faults at affordable cost, and assess life-cycle costs and benefits against AC installations, including impacts on the AC distribution grid (harmonics, ancillary services, demand response) and on vulnerable consumers' bills\n- Demonstrate in real life an LVDC microgrid connecting all electrical applications in at least one residential, office or commercial building or one neighbourhood; the proposal must already review local regulations and grid codes and show the demonstration is possible, if needed through pre-agreed regulatory relaxation or an innovation sandbox\n- Demonstrate LVDC virtually, by digital twin simulation, in other buildings, including at least one under renovation, in different cities and countries and, if possible, a vulnerable urban area; at least 3 real and virtual demonstrations in total\n- Identify regulatory barriers at European, national and distribution system operator level, and propose solutions\n- Contribute to standardisation in CEN-CENELEC and IEC (the European and international standards bodies), notably with use cases\n- Develop awareness, education and training materials for authorities, the public, students, planners, developers and installers, with local academia\n- Disseminate results, engage stakeholders from the planning phase, and organise at least one open workshop with site visits\nNeed: Most building devices run on DC, but buildings are wired for AC, causing conversion losses and heavier connections to city grids.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Expected Outcome and Scope"
         },
         {
-          "title": "Scope",
-          "question": "Which activities fall within the funding opportunity's scope?",
-          "answer": "Proposals are expected to address all seven aspects the call lists; the call names no excluded activities.\n- Develop safe, sustainable LVDC design methods and tools, including grid monitoring, control and safe handling of DC faults at affordable cost, and assess life-cycle costs and benefits against AC installations, including impacts on the AC distribution grid (harmonics, ancillary services, demand response) and on vulnerable consumers' bills\n- Demonstrate in real life an LVDC microgrid connecting all electrical applications in at least one residential, office or commercial building or one neighbourhood; the proposal must already review local regulations and grid codes and show the demonstration is possible, if needed through pre-agreed regulatory relaxation or an innovation sandbox\n- Demonstrate LVDC virtually, by digital twin simulation, in other buildings, including at least one under renovation, in different cities and countries and, if possible, a vulnerable urban area; at least 3 real and virtual demonstrations in total\n- Identify regulatory barriers at European, national and distribution system operator level, and propose solutions\n- Contribute to standardisation in CEN-CENELEC and IEC (the European and international standards bodies), notably with use cases\n- Develop awareness, education and training materials for authorities, the public, students, planners, developers and installers, with local academia\n- Disseminate results, engage stakeholders from the planning phase, and organise at least one open workshop with site visits",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Scope"
-        },
-        {
-          "title": "Problem",
-          "question": "What type of problem or need must justify the project, and where must it originate?",
-          "answer": "Most building devices run on DC, but buildings are wired for AC, causing conversion losses and heavier connections to city grids.\nThe need originates with cities and society: European Green Deal, Clean Industrial Deal and Solar Strategy goals, energy efficiency, local renewables and resilience. The call notes that an LVDC microgrid needs a much smaller connection to the AC distribution grid than a traditional installation, reducing pressure on city grids. Barriers are mainly awareness, acceptance, safety concerns, regulation and standards.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Expected Outcome and Scope"
-        },
-        {
-          "title": "Deliverables",
-          "question": "Which concrete outputs must the project produce?",
-          "answer": "Design tools and methods, a real-life LVDC demonstration, virtual demonstrations, regulatory recommendations, standardisation input and training materials.\n- LVDC design methods and tools, and a life-cycle cost-benefit methodology\n- At least one real-life LVDC microgrid, and enough virtual demonstrations to reach at least 3 in total\n- Technical installation guidelines and recommendations on regulatory alignment for authorities and distribution operators\n- Use cases and other contributions to CEN-CENELEC and IEC standards\n- Awareness, education and training materials\n- At least one open workshop with site visits",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Expected Outcome and Scope"
-        },
-        {
-          "title": "Impact",
+          "title": "Project impact",
           "question": "Which wider system outcomes and impacts must the project support?",
           "answer": "Projects must contribute to all four outcomes: awareness, measurable acceptance, uptake in cities through guidelines, and more regulatory options and standards for LVDC.\n- Improved awareness of LVDC microgrids' potential for the Green Deal, Clean Industrial Deal, SET Plan and Solar Strategy\n- Increased acceptance, with significant and measurable contributions to safety (especially DC faults), energy and resource efficiency, renewable and storage integration, demand response, peak shaving and resilience, and where applicable proof that LVDC lets energy communities share assets\n- Increased uptake in cities through technical guidelines and regulatory recommendations to authorities and distribution operators\n- More regulatory options and standards supporting EU industry leadership in LVDC\nThe call requires measurable contributions but sets no numerical targets.",
           "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Expected Outcome"
         },
         {
-          "title": "After the project",
-          "question": "How must the result be replicated, taken up and kept in use after the project?",
-          "answer": "The results must enable wider uptake: guidelines, regulatory proposals and standards are mandatory, and the project joins the Cities Mission's clustering.\n- Transferability: virtual demonstrations in different cities and countries must assess regulatory feasibility and costs and benefits elsewhere\n- Standards: contribution to CEN-CENELEC and IEC is required\n- Knowledge: training and education materials, dissemination and an open workshop\n- Network: a Memorandum of Understanding with the Cities Mission Platform (the support platform of the EU Mission for 100 climate-neutral cities) as soon as possible after the start, and clustering with other Cities Mission projects; cooperation with the other projects under this topic\nThe call does not say who must operate the demonstration after the project.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Specific conditions and Scope"
-        }
-      ]
-    },
-    {
-      "title": "Consortium",
-      "question": "How must collaboration be organised?",
-      "cards": [
-        {
-          "title": "Number of partners",
-          "question": "What is the permitted or required consortium size?",
-          "answer": "At least three independent organisations from three different countries; the call sets no maximum.\nThe general rule requires, as beneficiaries (organisations that sign the grant agreement and receive funding), three legal entities independent of each other: at least one established in an EU Member State and two others each in a different Member State or country associated with Horizon Europe (non-EU countries taking part in the programme, such as Norway, Switzerland or the United Kingdom). Affiliated entities (organisations legally linked to a beneficiary) and associated partners (organisations taking part without funding) do not count towards this minimum.\nIn addition, at least three cities from three different Member States or Associated Countries must be beneficiaries, represented by a local authority or an entity with its explicit consent; at least one must be one of the 112 cities of the EU Mission on Climate-Neutral and Smart Cities.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · B — Eligibility, Consortium composition\nHorizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01"
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "Consortia with at least three cities as beneficiaries, one of them a Mission city, plus DC technology, building and social-science partners; there is no prescribed lead.\n- Lead: any beneficiary may coordinate; the call reserves the role for no organisation type\n- Cities: at least three, from three different Member States or Associated Countries, each represented by a local authority or an entity with its explicit consent; at least one of the 112 cities of the EU Mission on Climate-Neutral and Smart Cities\n- Composition: the general rule also requires three independent legal entities from three countries; social sciences and humanities experts and institutions must be involved, and local academia should help with training material\n- Work split: none prescribed, but resources are needed for cooperation with the Cities Mission Platform; as a lump sum grant, the budget is split over work packages in a detailed table\n- Exclusion: entities controlled by China or a Chinese legal entity are not eligible\nThe call suits cities, DC power-electronics and protection suppliers, building owners and developers, distribution system operators, installers and research institutes working on DC grids.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Specific conditions and Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 13, 36 · B — Consortium composition; IMPORTANT, Coordinator"
         },
         {
-          "title": "Partner composition",
-          "question": "Which types of partners must the consortium include?",
-          "answer": "At least three cities must be beneficiaries, one of them a Mission city, and social sciences and humanities experts are required.\n- Cities: three, from three different Member States or Associated Countries, each represented by a local authority or an entity with its explicit consent; at least one of the 112 Mission cities\n- Social sciences and humanities: contributions from these disciplines and involvement of SSH experts and institutions are required, especially for training and stakeholder engagement\n- Local academia and research partners: for education and training materials\n- Exclusion: entities controlled by China or a Chinese legal entity are not eligible\nProposals should build on earlier projects, notably Shift2DC, HYPERRIDE, TIGON, HYNET and THEUS.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Specific conditions and Scope"
-        },
-        {
-          "title": "Distribution of work",
-          "question": "How must work and budget be distributed among partners?",
-          "answer": "The call prescribes no budget split, but the work plan must include resources for cooperation with the Cities Mission Platform and for clustering.\nSince the grant is a lump sum (a fixed amount paid against completed work packages), the consortium must allocate the amount to work packages and partners in a detailed budget table.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Specific conditions and Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, lump sum grant proposals"
-        },
-        {
-          "title": "Coordinator",
-          "question": "What type of organisation may or must act as lead applicant?",
-          "answer": "No type of organisation is prescribed: the beneficiaries choose one of themselves as coordinator.\nThe coordinator manages and coordinates the project and represents the consortium towards the granting authority (the European Commission or its agency). At submission it must confirm that it has the mandate to act for all applicants.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Coordinator\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, Submission"
-        }
-      ]
-    },
-    {
-      "title": "TenneT's position",
-      "question": "What is TenneT's position within the consortium?",
-      "cards": [
-        {
-          "title": "Coordinate",
-          "question": "Can TenneT apply or coordinate, and under which conditions?",
-          "answer": "Formally yes, but the project is about building-level DC networks in cities, so TenneT TSO B.V. would not be a natural lead.\nAny eligible beneficiary may coordinate, and a Dutch entity is eligible. TenneT does not count towards the three required cities.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 11, 36 · B — Entities eligible for funding; IMPORTANT, Coordinator\nHorizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Specific conditions"
-        },
-        {
-          "title": "Participate",
-          "question": "Can TenneT take part without receiving funding?",
-          "answer": "Yes, as an associated partner, which takes part without funding and bears its own costs.\nAn associated partner does not sign the grant agreement, cannot charge costs, does not need legal validation and does not count towards the minimum of three beneficiaries from three countries. It must still register in the Participant Register before the application is submitted.\nTenneT could, for example, advise on how LVDC microgrids and their ancillary services affect the wider grid.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 5 · B — Eligibility, Associated partners\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Registration, Consortium roles and Associated partners\nHorizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01"
-        },
-        {
-          "title": "Receive funding",
-          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
-          "answer": "Yes: as a beneficiary TenneT can receive up to 70% of its eligible costs, paid within a lump sum.\nThis topic is an innovation action (a project that develops, pilots and demonstrates new or improved solutions close to the market), for which the maximum rate is 70% for organisations other than non-profit legal entities. The grant is a lump sum fixed from a detailed budget and paid against completed work packages. The expected EU contribution is around EUR 7 million per project, for the whole consortium. The call sets no Dutch national rules.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Specific conditions"
-        },
-        {
-          "title": "TenneT's likely contribution",
-          "question": "What contribution would make TenneT credible and useful within the project?",
-          "answer": "TenneT's possible contribution is limited to the system view: how LVDC microgrids' lower connection needs and ancillary services could ease congestion.\nThis is our interpretation. The life-cycle assessment must include impacts on the overall energy system, such as demand response and ancillary services, and the call stresses reduced pressure on city grids. TenneT could provide congestion data from Dutch regions, input from the regional Energy boards, and flexibility requirements from its balancing work. The microgrids themselves sit behind the connection of distribution grids, so Dutch DSOs are the more natural grid partners.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Scope"
-        }
-      ]
-    },
-    {
-      "title": "Innovation",
-      "question": "What type of innovation must the project develop?",
-      "cards": [
-        {
-          "title": "Innovation threshold",
-          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
-          "answer": "The project must develop innovative design methods and tools and demonstrate LVDC in real life; it builds on earlier projects such as Shift2DC.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Scope"
-        },
-        {
-          "title": "Innovation object",
-          "question": "In what must the project innovate?",
-          "answer": "A combination of technology (LVDC design, control and fault protection), regulation and standards, and social aspects such as acceptance and training.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Expected Outcome and Scope"
-        },
-        {
-          "title": "Development stages",
-          "question": "Which development stages must the project cover?",
-          "answer": "Design and tool development, real-life and virtual demonstration, and preparation for wider uptake through guidelines and standards.",
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": "The project must develop innovative design methods and tools and demonstrate LVDC in real life; it builds on earlier projects such as Shift2DC.\nA combination of technology (LVDC design, control and fault protection), regulation and standards, and social aspects such as acceptance and training.",
           "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Scope"
         },
         {
@@ -129,42 +33,24 @@
           "question": "Which maturity level is expected at the start and end of the project?",
           "answer": "Activities are expected to reach TRL 7–8 by the end of the project.\nTRL 7 is a system prototype demonstrated in an operational environment; TRL 8 is a complete and qualified system.",
           "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Specific conditions, Technology Readiness Level\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · B — Technology Readiness Levels"
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": "At least one real-life LVDC microgrid connecting all electrical applications in a building or neighbourhood, plus virtual demonstrations to reach at least 3.\nVirtual demonstrations use digital twins (numerical models of buildings) in other building types, including one under renovation, in different cities and countries. The real demonstration must be shown to be legally possible in the local context already at proposal stage.\nThe microgrid must integrate all electrical applications of the building and connect to the AC distribution grid through a central converter.\nThe assessment must cover the impact on the AC grid, such as harmonics and support through ancillary services, and the project must cluster with other Cities Mission projects such as those on positive energy district digital twins.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Scope"
         }
       ]
     },
     {
-      "title": "Work",
-      "question": "Which activities or work structure must the project cover?",
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
       "cards": [
         {
-          "title": "Demonstration",
-          "question": "Where and under which conditions must the solution be demonstrated?",
-          "answer": "At least one real-life LVDC microgrid connecting all electrical applications in a building or neighbourhood, plus virtual demonstrations to reach at least 3.\nVirtual demonstrations use digital twins (numerical models of buildings) in other building types, including one under renovation, in different cities and countries. The real demonstration must be shown to be legally possible in the local context already at proposal stage.",
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "The call touches TenneT's congestion problem: DC microgrids need much smaller connections to the AC grid and can offer demand response and ancillary services.\nThis is our interpretation. The call stresses reduced pressure on city grids and asks to assess impacts on the AC distribution grid and contributions to grid stability. Widespread uptake could ease congestion that TenneT and the Dutch DSOs tackle together in the regional Energy boards. TenneT cannot usefully take part: the microgrids sit behind the connection to distribution grids, and the call names only cities, authorities and power distribution operators on the grid side, setting out no role for a transmission system operator.",
           "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Scope"
-        },
-        {
-          "title": "Integration",
-          "question": "How must the activities fit together and with existing systems?",
-          "answer": "The microgrid must integrate all electrical applications of the building and connect to the AC distribution grid through a central converter.\nThe assessment must cover the impact on the AC grid, such as harmonics and support through ancillary services, and the project must cluster with other Cities Mission projects such as those on positive energy district digital twins.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Scope"
-        },
-        {
-          "title": "Evidence",
-          "question": "What must the demonstration prove?",
-          "answer": "The project must produce measurable evidence on safety, efficiency, integration, demand response, peak shaving and resilience, and life-cycle costs and benefits.\nCosts and benefits must be assessed technically, environmentally, economically and socially, including the effect on vulnerable consumers' energy bills, and compared with traditional AC installations.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Expected Outcome and Scope"
-        },
-        {
-          "title": "User participation",
-          "question": "How must users take part in the project?",
-          "answer": "Residents, users, industry and researchers must be engaged from the planning phase, with at least one open workshop and site visits.\nSocial sciences and humanities experts must help make the work relevant to society.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Scope"
-        },
-        {
-          "title": "Safety and cybersecurity",
-          "question": "Which safety, cybersecurity or data requirements must the project meet?",
-          "answer": "Safe handling of DC faults is a core requirement; the call sets no cybersecurity rule.\n- Safety: design tools must ensure safe handling of DC faults; acceptance must show measurable contributions to human and building safety\n- Control restriction: entities controlled by China or a Chinese legal entity are not eligible",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 157–161 · HORIZON-MISS-2027-04-CIT-01, Specific conditions, Expected Outcome and Scope"
         }
       ]
     }
@@ -181,7 +67,7 @@
         },
         {
           "title": "Funding rate and co-financing",
-          "answer": "Companies such as TenneT receive at most 70% of eligible costs; non-profit legal entities receive up to 100%.\n- For-profit organisations: up to 70% of eligible costs, so at least 30% must come from their own resources\n- Non-profit legal entities (for example universities and research organisations): up to 100% of eligible costs\n- Co-financing conditions: the call sets no rule on cash or in-kind co-financing beyond the funding rate; the remainder is simply not reimbursed\nGrants may not produce a profit: any surplus of revenue plus grant over costs is deducted from the final grant.\nFor lump sum grants the rate is applied when the lump sum is calculated and does not appear in the grant agreement.",
+          "answer": "Companies receive at most 70% of eligible costs; non-profit legal entities receive up to 100%.\n- For-profit organisations: up to 70% of eligible costs, so at least 30% must come from their own resources\n- Non-profit legal entities (for example universities and research organisations): up to 100% of eligible costs\n- Co-financing conditions: the call sets no rule on cash or in-kind co-financing beyond the funding rate; the remainder is simply not reimbursed\nGrants may not produce a profit: any surplus of revenue plus grant over costs is deducted from the final grant.\nFor lump sum grants the rate is applied when the lump sum is calculated and does not appear in the grant agreement.",
           "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, funding rate and maximum grant amount"
         },
         {
@@ -191,8 +77,8 @@
         },
         {
           "title": "Cash flow and financial exposure",
-          "answer": "Partners normally receive a large advance after signing, minus a 5–8% contribution to a shared insurance fund, then interim payments.\n- Payment model: pre-financing (an advance) of normally 160% of the average EU funding per reporting period, then interim payments linked to periodic reports, and a final payment after the final report fixes the grant\n- Retention or guarantee: 5% to 8% of the maximum grant is deducted from the pre-financing and paid into the mutual insurance mechanism (a fund covering sums that cannot be recovered from beneficiaries)\n- Financial reporting or audit: depending on grant size and type of beneficiary, a certificate on the financial statements may be required; each beneficiary is liable only for its own debts",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 32–33 · G — Reporting & payment arrangements, Certificates, Liability regime for recoveries"
+          "answer": null,
+          "sources": null
         }
       ]
     },

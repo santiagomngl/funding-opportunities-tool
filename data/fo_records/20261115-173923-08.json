@@ -11,12 +11,12 @@
   "executive_summary": "Demonstrates waste-heat conversion to mechanical or electrical power at operating industrial sites and develops tools and business models for flexible electricity supply. Eligible consortia can combine industrial hosts and technology partners for testing in an operating facility. The topic budget is EUR 13.50 million, with around EUR 6.75 million expected per project. Opening 2027-05-05. Full proposal deadline 2027-09-15 at 17:00 Brussels time.",
   "pre_submission_deadline": null,
   "full_proposal_deadline": "2027-09-15",
-  "earliest_project_start_date": "2027-01-01",
-  "project_end_date": "2029-12-31",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
   "minimum_project_size": null,
   "maximum_project_size": null,
-  "date_last_checked": "2026-11-15",
-  "status_rationale": "Climate, Energy and Mobility Work Programme, pp. 207–209, describes the eligible work in Scope. Annex B permits a Dutch funded partner. The required flexibility business-model and plant-to-grid integration work can support a work package on power-system requirements or assessing system value. This supports Type 1 and C1.3. Both project dates are date-helper defaults based on 1 January 2027 and 36 months.",
+  "date_last_checked": "2026-11-23",
+  "status_rationale": "Climate, Energy and Mobility Work Programme, pp. 207–209, describes the eligible work in Scope. Annex B permits a Dutch funded partner. The required flexibility business-model and plant-to-grid integration work can support a work package on power-system requirements or assessing system value. This supports Type 1 and C1.3. Both project dates are null because the call states no start, end or duration.",
   "call_type": "Type 1",
   "category_codes": [
     "C1.3"

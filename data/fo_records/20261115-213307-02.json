@@ -11,12 +11,12 @@
   "executive_summary": "This Coordination and Support Action twins Hydrogen Valleys with cities planning renewable hydrogen for hard-to-abate activities. It supports roadmaps and feasibility work and expects at least one selected Mission city. Eligible legal entities can apply under the Coordination and Support Action rules. The topic budget is EUR 5 million with around EUR 5 million expected per project. It opens 2027-02-09 and closes 2027-10-07 at 17:00 Brussels time.",
   "pre_submission_deadline": null,
   "full_proposal_deadline": "2027-10-07",
-  "earliest_project_start_date": "2027-01-01",
-  "project_end_date": "2029-12-31",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
   "minimum_project_size": null,
   "maximum_project_size": null,
-  "date_last_checked": "2026-11-15",
-  "status_rationale": "Missions Work Programme, pp. 161–163, Specific conditions and Scope, defines the work. An eligible Dutch beneficiary can contribute to city roadmaps through feasibility work on the grid demands and infrastructure needs of renewable hydrogen for hard-to-electrify sectors. The connection to Energy boards supports Type 1 and C1.3. The date helper provides both project dates as defaults from 1 January 2027 and 36 months.",
+  "date_last_checked": "2026-11-23",
+  "status_rationale": "Missions Work Programme, pp. 161–163, Specific conditions and Scope, defines the work. An eligible Dutch beneficiary can contribute to city roadmaps through feasibility work on the grid demands and infrastructure needs of renewable hydrogen for hard-to-electrify sectors. The connection to Energy boards supports Type 1 and C1.3. Both project dates are null because the call states no start, end or duration.",
   "call_type": "Type 1",
   "category_codes": [
     "C1.3"

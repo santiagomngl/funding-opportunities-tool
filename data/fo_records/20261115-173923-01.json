@@ -11,15 +11,15 @@
   "executive_summary": "Demonstrates low-voltage direct-current microgrids in European urban buildings or neighbourhoods, testing flexibility, efficiency, regulatory feasibility and digital-twin replication. Each proposal needs three city beneficiaries in different eligible countries, including a selected Cities Mission city. The topic budget is EUR 20 million, with around EUR 7 million expected per project. Opening 2027-02-09. Full proposal deadline 2027-10-07 at 17:00 Brussels time.",
   "pre_submission_deadline": null,
   "full_proposal_deadline": "2027-10-07",
-  "earliest_project_start_date": "2027-01-01",
-  "project_end_date": "2029-12-31",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
   "minimum_project_size": null,
   "maximum_project_size": null,
-  "date_last_checked": "2026-11-15",
-  "status_rationale": "Missions Work Programme, pp. 157–160, describes the eligible work in Scope. A Dutch TSO can be an additional funded beneficiary for system-level flexibility assessment, modelling or standardisation. The three eligible city beneficiaries and the mandatory Mission city remain separate consortium requirements. This supports Type 1 and C1.3. Both project dates are date-helper defaults based on 1 January 2027 and 36 months.",
-  "call_type": "Type 1",
+  "date_last_checked": "2026-11-23",
+  "status_rationale": "Missions Work Programme, pp. 157–161, Specific conditions and Scope, funds lump-sum Innovation Actions that design and demonstrate low-voltage DC microgrids in city buildings or neighbourhoods, with at least three city beneficiaries. It touches TenneT's field because such microgrids need smaller connections to the AC grid and can provide demand response and ancillary services, relevant to congestion work such as the Energy boards. The call sets out no route for TenneT: the microgrids sit behind the connection to distribution grids, and the scope names only cities, authorities and power distribution operators on the grid side. C3.3 fits because flexible, lower-capacity building loads could ease congestion through others. Both project dates are null because the call states no start, end or duration.",
+  "call_type": "Type 3",
   "category_codes": [
-    "C1.3"
+    "C3.3"
   ],
   "taxonomy_values": {
     "topic": [
@@ -27,11 +27,7 @@
       "T5",
       "T10"
     ],
-    "role": [
-      "R2",
-      "R8",
-      "R10"
-    ],
+    "role": [],
     "activity": [
       "A3",
       "A6",

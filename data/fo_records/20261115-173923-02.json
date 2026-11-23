@@ -11,15 +11,15 @@
   "executive_summary": "Tests sustainability and resilience measures in ports across the four Mission basins, including local strategies for renewable energy, climate adaptation, biodiversity and pollution reduction. Eligible consortia can include port authorities, public administrations and industry partners. The topic budget is EUR 11.90 million, with EUR 5.50–5.95 million expected per project. Opening 2027-02-09. Full proposal deadline 2027-09-21 at 17:00 Brussels time.",
   "pre_submission_deadline": null,
   "full_proposal_deadline": "2027-09-21",
-  "earliest_project_start_date": "2027-01-01",
-  "project_end_date": "2029-12-31",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
   "minimum_project_size": null,
   "maximum_project_size": null,
-  "date_last_checked": "2026-11-15",
-  "status_rationale": "Missions Work Programme, pp. 131–134, describes the eligible work in Scope. General Annex B allows a Dutch funded beneficiary, and the scope names industry partners and renewable-energy strategies. TenneT could contribute to an eligible port energy strategy through grid-connection planning in a North Sea demonstrator. This supports Type 1 and C1.3. Both project dates are date-helper defaults based on 1 January 2027 and 36 months.",
-  "call_type": "Type 1",
+  "date_last_checked": "2026-11-23",
+  "status_rationale": "Missions Work Programme, pp. 131–134, Specific conditions and Scope, funds Innovation Actions that test and upscale solutions against pollution, biodiversity loss and climate risk in at least four ports in four sea and river basins. It touches TenneT's field only narrowly: local Implementation Strategies may include the transition to renewable energy in ports, which depends on grid connections as planned in the Onshore and Offshore Grid Investment Plans 2026. The call sets out no route for TenneT: the scope is port ecology and pollution, led by ports and public authorities, and establishes no grid work package. C3.7 fits because the call funds environmental and local energy measures in ports that could ease permitting and public support for energy infrastructure. Both project dates are null because the call states no start, end or duration.",
+  "call_type": "Type 3",
   "category_codes": [
-    "C1.3"
+    "C3.7"
   ],
   "taxonomy_values": {
     "topic": [
@@ -27,10 +27,7 @@
       "T8",
       "T9"
     ],
-    "role": [
-      "R2",
-      "R10"
-    ],
+    "role": [],
     "activity": [
       "A3",
       "A7",

@@ -11,12 +11,12 @@
   "executive_summary": "Demonstrates non-commercial battery systems delivering more than eight hours of storage for utility-scale or industrial uses. Eligible consortium beneficiaries can receive up to 70% for for-profit beneficiaries under Horizon Europe. The indicative topic budget is EUR 18.8 million, with around EUR 9.4 million expected per project. Opening 2027-05-05, full proposal deadline 2027-09-15 at 17:00 Brussels time.",
   "pre_submission_deadline": null,
   "full_proposal_deadline": "2027-09-15",
-  "earliest_project_start_date": "2027-01-01",
-  "project_end_date": "2029-12-31",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
   "minimum_project_size": null,
   "maximum_project_size": null,
-  "date_last_checked": "2026-11-15",
-  "status_rationale": "Work Programme Part 8, pp. 105–107, Scope and Specific conditions, funds this work, which connects to Time-dependent transmission rights contract. Annex B permits a funded Dutch consortium member. The topic expressly allows front-of-meter grid-scale cases and asks projects to quantify system impact, creating a plausible grid-validation role subject to the China-control restriction. The funded consortium role supports Type 1 and C1.3. The helper supplied both project dates from 1 January 2027 using its 36-month default.",
+  "date_last_checked": "2026-11-23",
+  "status_rationale": "Work Programme Part 8, pp. 105–107, Scope and Specific conditions, funds this work, which connects to Time-dependent transmission rights contract. Annex B permits a funded Dutch consortium member. The topic expressly allows front-of-meter grid-scale cases and asks projects to quantify system impact, creating a plausible grid-validation role subject to the China-control restriction. The funded consortium role supports Type 1 and C1.3. Both project dates are null because the call states no start, end or duration.",
   "call_type": "Type 1",
   "category_codes": [
     "C1.3"

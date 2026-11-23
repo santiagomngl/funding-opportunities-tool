@@ -11,12 +11,12 @@
   "executive_summary": "Researches next-generation battery materials and cell-level concepts in one of three areas. Area C covers stationary grid storage and energy-intensive industry. Eligible research consortia can propose an area for mobility, grid storage or energy-intensive industry. The topic budget is EUR 48 million, with around EUR 4.8 million expected per project. Opening 2026-12-15. First stage 2027-04-14, invited full proposals 2027-10-07. Both submission deadlines are at 17:00 Brussels time.",
   "pre_submission_deadline": "2027-04-14",
   "full_proposal_deadline": "2027-10-07",
-  "earliest_project_start_date": "2027-01-01",
-  "project_end_date": "2029-12-31",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
   "minimum_project_size": null,
   "maximum_project_size": null,
-  "date_last_checked": "2026-11-15",
-  "status_rationale": "Climate, Energy and Mobility Work Programme, pp. 101–104, describes the eligible work in Scope. General Annex B allows funded Dutch consortium participation. Area C explicitly calls for system-level integration potential and multi-hour grid flexibility, which can support TSO analysis of integration requirements. This supports Type 1 and C1.3. Both project dates are date-helper defaults based on 1 January 2027 and 36 months.",
+  "date_last_checked": "2026-11-23",
+  "status_rationale": "Climate, Energy and Mobility Work Programme, pp. 101–104, describes the eligible work in Scope. General Annex B allows funded Dutch consortium participation. Area C explicitly calls for system-level integration potential and multi-hour grid flexibility, which can support TSO analysis of integration requirements. This supports Type 1 and C1.3. Both project dates are null because the call states no start, end or duration.",
   "call_type": "Type 1",
   "category_codes": [
     "C1.3"

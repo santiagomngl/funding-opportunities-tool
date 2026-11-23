@@ -1,127 +1,31 @@
 {
-  "project_requirements": [
+  "call_overview": [
     {
-      "title": "What the call wants",
-      "question": "What must the project address, develop and achieve?",
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
       "cards": [
         {
-          "title": "Central object",
-          "question": "What is the principal thing the project must develop?",
-          "answer": "Systemic innovative solutions that make ports greener, more circular and more resilient, demonstrated in at least four ports in four European basins.\nThe topic serves the EU Mission Restore our Ocean and Waters (an EU programme with 2030 targets for healthy seas and waters). Solutions should reduce pollution and environmental degradation, reverse biodiversity loss and improve resource management in port areas, in coastal and inland ports of any type and size.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · HORIZON-MISS-2027-03-OCEAN-03, Expected Outcome and Scope"
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "Systemic innovative solutions that make ports greener, more circular and more resilient, demonstrated in at least four ports in four European basins.\nThe topic serves the EU Mission Restore our Ocean and Waters (an EU programme with 2030 targets for healthy seas and waters). Solutions should reduce pollution and environmental degradation, reverse biodiversity loss and improve resource management in port areas, in coastal and inland ports of any type and size.\nProjects should cover five activity lines, with demonstrations in four ports and work with four associated regions; the call names no excluded activities.\n- Test, deploy and upscale innovative solutions to restore port ecosystems and mitigate pollution for one or more Mission objectives, and monitor their effectiveness\n- Bring together ports, local stakeholders, authorities, science and industry to develop local Implementation Strategies, for example on renewable energy, alternative fuels, circular economy, biodiversity restoration and nature-based solutions, or adaptation to sea-level rise and extreme weather\n- Share knowledge within and between ports and demonstrate transferability and scalability\n- Provide assistance and capacity building to smaller ports, for example waste management systems or vegetated buffers protecting port infrastructure\n- Create synergies with other EU, national and regional programmes and leverage funding from authorities, the private sector and investors\nDemonstrations take place in at least 4 ports, one in each basin: Atlantic and Arctic; Mediterranean; Baltic and North Sea; Danube including the Black Sea.\nNeed: Ports pollute and degrade marine and freshwater ecosystems and are exposed to climate risks; they need help to act on the Mission's 2030 targets.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · HORIZON-MISS-2027-03-OCEAN-03, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · HORIZON-MISS-2027-03-OCEAN-03, Expected Outcome and Scope"
         },
         {
-          "title": "Scope",
-          "question": "Which activities fall within the funding opportunity's scope?",
-          "answer": "Projects should cover five activity lines, with demonstrations in four ports and work with four associated regions; the call names no excluded activities.\n- Test, deploy and upscale innovative solutions to restore port ecosystems and mitigate pollution for one or more Mission objectives, and monitor their effectiveness\n- Bring together ports, local stakeholders, authorities, science and industry to develop local Implementation Strategies, for example on renewable energy, alternative fuels, circular economy, biodiversity restoration and nature-based solutions, or adaptation to sea-level rise and extreme weather\n- Share knowledge within and between ports and demonstrate transferability and scalability\n- Provide assistance and capacity building to smaller ports, for example waste management systems or vegetated buffers protecting port infrastructure\n- Create synergies with other EU, national and regional programmes and leverage funding from authorities, the private sector and investors\nDemonstrations take place in at least 4 ports, one in each basin: Atlantic and Arctic; Mediterranean; Baltic and North Sea; Danube including the Black Sea.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · HORIZON-MISS-2027-03-OCEAN-03, Scope"
-        },
-        {
-          "title": "Problem",
-          "question": "What type of problem or need must justify the project, and where must it originate?",
-          "answer": "Ports pollute and degrade marine and freshwater ecosystems and are exposed to climate risks; they need help to act on the Mission's 2030 targets.\nThe need originates with port cities, port authorities and their communities, and with society's objectives for clean, healthy waters set in EU law such as the Water Framework Directive, the Marine Strategy Framework Directive and the Nature Restoration Regulation.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · HORIZON-MISS-2027-03-OCEAN-03, Expected Outcome and Scope"
-        },
-        {
-          "title": "Deliverables",
-          "question": "Which concrete outputs must the project produce?",
-          "answer": "Demonstrated solutions in four ports, local Implementation Strategies, monitoring of effectiveness, capacity-building programmes and replication plans for associated regions.\n- Solutions tested and deployed in at least 4 ports, with effectiveness monitored\n- Local Implementation Strategies for the demonstration ports\n- Knowledge-sharing formats such as summer schools, twinning and living labs\n- Capacity-building programmes for smaller ports\n- Replication plans for at least 4 associated regions, with technical assistance",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · HORIZON-MISS-2027-03-OCEAN-03, Scope"
-        },
-        {
-          "title": "Impact",
+          "title": "Project impact",
           "question": "Which wider system outcomes and impacts must the project support?",
           "answer": "Projects must contribute to all outcomes: measurable progress on Mission targets, ports ready to deploy solutions, more ports acting, more resilience, and knowledge sharing.\n- Measurable, quantifiable, verifiable and ambitious progress towards one or more interlinked Mission objectives and targets by 2030, through place-based and people-centred actions\n- Ports and port cities involved and ready to test, deploy and upscale systemic solutions, including monitoring invasive species and improving ecosystem connectivity\n- More ports taking concrete measures to protect ecosystems and biodiversity, eliminate pollution and make the blue economy carbon-neutral and circular\n- More resilience to extreme climate events, sea-level rise, floods and droughts, especially through less pollution and better environmental management\n- Better knowledge sharing within and across ports and their communities",
           "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · HORIZON-MISS-2027-03-OCEAN-03, Expected Outcome"
         },
         {
-          "title": "After the project",
-          "question": "How must the result be replicated, taken up and kept in use after the project?",
-          "answer": "Replication is built in: each project must help at least four associated regions plan and start the uptake of its solutions.\n- Associated regions (local or regional public authorities outside the demonstration sites) must follow the project, receive its knowledge and technical assistance, and develop a replication plan\n- Small grants of up to EUR 100,000 may support them\n- Authorities are encouraged to combine other funding, such as the European Regional Development Fund or LIFE, to deploy solutions\n- Projects must build on results of previous national and EU projects",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · HORIZON-MISS-2027-03-OCEAN-03, Specific conditions and Scope"
-        }
-      ]
-    },
-    {
-      "title": "Consortium",
-      "question": "How must collaboration be organised?",
-      "cards": [
-        {
-          "title": "Number of partners",
-          "question": "What is the permitted or required consortium size?",
-          "answer": "At least three independent organisations from three different countries; the call sets no maximum.\nThe general rule requires, as beneficiaries (organisations that sign the grant agreement and receive funding), three legal entities independent of each other: at least one established in an EU Member State and two others each in a different Member State or country associated with Horizon Europe (non-EU countries taking part in the programme, such as Norway, Switzerland or the United Kingdom). Affiliated entities (organisations legally linked to a beneficiary) and associated partners (organisations taking part without funding) do not count towards this minimum.\nIn practice the four demonstration ports in four basins mean partners from at least four countries.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · B — Eligibility, Consortium composition\nHorizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · HORIZON-MISS-2027-03-OCEAN-03"
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "Consortia of ports, port authorities, local stakeholders, science and industry, with demonstrations in four ports in four basins; there is no prescribed lead.\n- Lead: any beneficiary may coordinate; the call reserves the role for no organisation type\n- Composition: the general rule requires three independent legal entities from three countries; public bodies managing ports and their communities are strongly encouraged as partners, with strong involvement of public administrations and port managing authorities\n- Sites: at least 4 ports, one in each of the Atlantic and Arctic, Mediterranean, Baltic and North Sea, and Danube and Black Sea basins\n- Work split: none prescribed; cascade grants of up to EUR 100,000 may go only to local or regional public authorities not already at a demonstration site\n- Exclusion: legal entities established in China are not eligible for innovation actions\nThe call suits port authorities, port cities, environmental technology and nature-based-solution companies, waste and water specialists and marine research institutes.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · HORIZON-MISS-2027-03-OCEAN-03, Specific conditions, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 6, 13, 36 · B — Restrictions on China, Consortium composition; IMPORTANT, Coordinator"
         },
         {
-          "title": "Partner composition",
-          "question": "Which types of partners must the consortium include?",
-          "answer": "The call strongly encourages public bodies managing ports, with their communities, as consortium partners.\nIt also asks to bring together harbours, local stakeholders, authorities, scientific and industry partners, with strong and meaningful involvement of public administrations and port managing authorities in the demonstrations. Legal entities established in China are not eligible for innovation actions.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · HORIZON-MISS-2027-03-OCEAN-03, Expected Outcome and Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 6 · B — Restrictions on the participation of legal entities established in China"
-        },
-        {
-          "title": "Distribution of work",
-          "question": "How must work and budget be distributed among partners?",
-          "answer": "The demonstration work must be spread over four ports in four basins; the call sets no split of budget.\nCascade grants (financial support to third parties) of up to EUR 100,000 each may go only to local or regional public authorities that are not beneficiaries at a demonstration site, once per recipient.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · HORIZON-MISS-2027-03-OCEAN-03, Specific conditions and Scope"
-        },
-        {
-          "title": "Coordinator",
-          "question": "What type of organisation may or must act as lead applicant?",
-          "answer": "No type of organisation is prescribed: the beneficiaries choose one of themselves as coordinator.\nThe coordinator manages and coordinates the project and represents the consortium towards the granting authority (the European Commission or its agency). At submission it must confirm that it has the mandate to act for all applicants.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Coordinator\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, Submission"
-        }
-      ]
-    },
-    {
-      "title": "TenneT's position",
-      "question": "What is TenneT's position within the consortium?",
-      "cards": [
-        {
-          "title": "Coordinate",
-          "question": "Can TenneT apply or coordinate, and under which conditions?",
-          "answer": "Formally yes, but a port-environment project is naturally led by port authorities or research partners; TenneT TSO B.V. would at most join.\nAny eligible beneficiary may coordinate, and a Dutch entity is eligible.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 11, 36 · B — Entities eligible for funding; IMPORTANT, Coordinator\nHorizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · HORIZON-MISS-2027-03-OCEAN-03, Expected Outcome"
-        },
-        {
-          "title": "Participate",
-          "question": "Can TenneT take part without receiving funding?",
-          "answer": "Yes, as an associated partner, which takes part without funding and bears its own costs.\nAn associated partner does not sign the grant agreement, cannot charge costs, does not need legal validation and does not count towards the minimum of three beneficiaries from three countries. It must still register in the Participant Register before the application is submitted.\nTenneT could, for instance, give input to a port's renewable-energy strategy as an associated partner.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 5 · B — Eligibility, Associated partners\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Registration, Consortium roles and Associated partners\nHorizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · HORIZON-MISS-2027-03-OCEAN-03"
-        },
-        {
-          "title": "Receive funding",
-          "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
-          "answer": "Yes in principle: as a beneficiary TenneT could receive up to 70% of its eligible costs.\nThis topic is an innovation action (a project that develops, pilots and demonstrates new or improved solutions close to the market), for which the maximum rate is 70% for organisations other than non-profit legal entities. The grant reimburses costs actually incurred plus a 25% flat rate for indirect costs. The expected EU contribution is EUR 5.5–5.95 million per project, for the whole consortium. TenneT cannot receive the cascade grants, which are reserved for public authorities. The call sets no Dutch national rules.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · HORIZON-MISS-2027-03-OCEAN-03, Specific conditions"
-        },
-        {
-          "title": "TenneT's likely contribution",
-          "question": "What contribution would make TenneT credible and useful within the project?",
-          "answer": "TenneT's possible contribution is narrow: grid-connection planning for port electrification and renewable energy in a North Sea basin port, such as shore power or offshore wind landing.\nThis is our interpretation. One example of a local Implementation Strategy is the transition to renewable energy and alternative fuels, which in Dutch ports depends on grid capacity. TenneT could share connection plans from its Onshore and Offshore Grid Investment Plans 2026 and congestion information through the regional Energy boards. The call's focus is ecology and pollution, so this would be a minor part of any project.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · HORIZON-MISS-2027-03-OCEAN-03, Scope"
-        }
-      ]
-    },
-    {
-      "title": "Innovation",
-      "question": "What type of innovation must the project develop?",
-      "cards": [
-        {
-          "title": "Innovation threshold",
-          "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
-          "answer": "The project must test, deploy and upscale innovative solutions, and may build on the best available knowledge from earlier projects.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · HORIZON-MISS-2027-03-OCEAN-03, Scope"
-        },
-        {
-          "title": "Innovation object",
-          "question": "In what must the project innovate?",
-          "answer": "A systemic combination of technology, nature-based solutions, governance and cooperation models between ports and authorities.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · HORIZON-MISS-2027-03-OCEAN-03, Scope"
-        },
-        {
-          "title": "Development stages",
-          "question": "Which development stages must the project cover?",
-          "answer": "Testing, deployment and upscaling, with replication planning; not early research.",
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": "The project must test, deploy and upscale innovative solutions, and may build on the best available knowledge from earlier projects.\nA systemic combination of technology, nature-based solutions, governance and cooperation models between ports and authorities.",
           "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · HORIZON-MISS-2027-03-OCEAN-03, Scope"
         },
         {
@@ -129,42 +33,24 @@
           "question": "Which maturity level is expected at the start and end of the project?",
           "answer": "Activities are expected to reach TRL 6–8 by the end of the project.\nTRL 6 is technology demonstrated in a relevant environment; TRL 8 is a complete and qualified system.",
           "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · HORIZON-MISS-2027-03-OCEAN-03, Specific conditions, Technology Readiness Level\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · B — Technology Readiness Levels"
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": "Demonstration in real ports is required: at least 4, one in each of the four sea and river basins.\nDemonstrations need strong involvement of public administrations and port managing authorities; existing activities in some ports can serve as pilots that other ports learn from.\nThe solutions must be systemic and fit local Implementation Strategies that bring together ports, authorities, science and industry.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · HORIZON-MISS-2027-03-OCEAN-03, Scope\nHorizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · HORIZON-MISS-2027-03-OCEAN-03, Scope"
         }
       ]
     },
     {
-      "title": "Work",
-      "question": "Which activities or work structure must the project cover?",
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
       "cards": [
         {
-          "title": "Demonstration",
-          "question": "Where and under which conditions must the solution be demonstrated?",
-          "answer": "Demonstration in real ports is required: at least 4, one in each of the four sea and river basins.\nDemonstrations need strong involvement of public administrations and port managing authorities; existing activities in some ports can serve as pilots that other ports learn from.",
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "The call touches TenneT's field only narrowly: port energy strategies may include renewable energy and electrification, which depend on grid connections in Dutch ports.\nThis is our interpretation. One example of a local Implementation Strategy is the transition to renewable energy and alternative fuels, and ports are hubs for offshore wind landing and industrial electrification planned in TenneT's Onshore and Offshore Grid Investment Plans 2026. Environmental improvements in ports could also ease public support for energy infrastructure there. TenneT cannot usefully take part: the call funds port ecology, pollution and resilience measures led by ports and authorities, and sets out no role for a transmission system operator.",
           "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · HORIZON-MISS-2027-03-OCEAN-03, Scope"
-        },
-        {
-          "title": "Integration",
-          "question": "How must the activities fit together and with existing systems?",
-          "answer": "The solutions must be systemic and fit local Implementation Strategies that bring together ports, authorities, science and industry.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · HORIZON-MISS-2027-03-OCEAN-03, Scope"
-        },
-        {
-          "title": "Evidence",
-          "question": "What must the demonstration prove?",
-          "answer": "Progress on Mission targets must be measurable, quantifiable and verifiable, and the effectiveness of solutions must be monitored.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · HORIZON-MISS-2027-03-OCEAN-03, Expected Outcome and Scope"
-        },
-        {
-          "title": "User participation",
-          "question": "How must users take part in the project?",
-          "answer": "Ports, their communities, local stakeholders and authorities must take part, with associated regions following the work closely.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Missions · pp. 131–134 · HORIZON-MISS-2027-03-OCEAN-03, Expected Outcome and Scope"
-        },
-        {
-          "title": "Safety and cybersecurity",
-          "question": "Which safety, cybersecurity or data requirements must the project meet?",
-          "answer": null,
-          "sources": null
         }
       ]
     }
@@ -181,7 +67,7 @@
         },
         {
           "title": "Funding rate and co-financing",
-          "answer": "Companies such as TenneT receive at most 70% of eligible costs; non-profit legal entities receive up to 100%.\n- For-profit organisations: up to 70% of eligible costs, so at least 30% must come from their own resources\n- Non-profit legal entities (for example universities and research organisations): up to 100% of eligible costs\n- Co-financing conditions: the call sets no rule on cash or in-kind co-financing beyond the funding rate; the remainder is simply not reimbursed\nGrants may not produce a profit: any surplus of revenue plus grant over costs is deducted from the final grant.\nAuthorities are encouraged to combine other funds, such as regional development funds or LIFE, to deploy solutions.",
+          "answer": "Companies receive at most 70% of eligible costs; non-profit legal entities receive up to 100%.\n- For-profit organisations: up to 70% of eligible costs, so at least 30% must come from their own resources\n- Non-profit legal entities (for example universities and research organisations): up to 100% of eligible costs\n- Co-financing conditions: the call sets no rule on cash or in-kind co-financing beyond the funding rate; the remainder is simply not reimbursed\nGrants may not produce a profit: any surplus of revenue plus grant over costs is deducted from the final grant.\nAuthorities are encouraged to combine other funds, such as regional development funds or LIFE, to deploy solutions.",
           "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, funding rate and maximum grant amount"
         },
         {
@@ -191,8 +77,8 @@
         },
         {
           "title": "Cash flow and financial exposure",
-          "answer": "Partners normally receive a large advance after signing, minus a 5–8% contribution to a shared insurance fund, then interim payments.\n- Payment model: pre-financing (an advance) of normally 160% of the average EU funding per reporting period, then interim payments linked to periodic reports, and a final payment after the final report fixes the grant\n- Retention or guarantee: 5% to 8% of the maximum grant is deducted from the pre-financing and paid into the mutual insurance mechanism (a fund covering sums that cannot be recovered from beneficiaries)\n- Financial reporting or audit: depending on grant size and type of beneficiary, a certificate on the financial statements may be required; each beneficiary is liable only for its own debts",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 32–33 · G — Reporting & payment arrangements, Certificates, Liability regime for recoveries"
+          "answer": null,
+          "sources": null
         }
       ]
     },

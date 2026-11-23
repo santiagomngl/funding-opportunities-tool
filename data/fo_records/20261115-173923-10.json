@@ -11,12 +11,12 @@
   "executive_summary": "Supports renewable process heat, industrial electrification and integrated storage for energy-intensive industries. Proposals are expected to pilot technologies and reduce the process carbon footprint by at least 20%. Eligible consortia can include process manufacturers and suppliers able to engineer and demonstrate the solution. The topic budget is EUR 52.50 million, with EUR 7–9 million expected per project. Opening 2026-10-13. First stage 2027-02-02, invited full proposals 2027-09-02. Both submission deadlines are at 17:00 Brussels time.",
   "pre_submission_deadline": "2027-02-02",
   "full_proposal_deadline": "2027-09-02",
-  "earliest_project_start_date": "2027-01-01",
-  "project_end_date": "2029-12-31",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
   "minimum_project_size": null,
   "maximum_project_size": null,
-  "date_last_checked": "2026-11-15",
-  "status_rationale": "Digital, Industry and Space Work Programme, pp. 67–70, describes the eligible work in Scope. Annex B allows Dutch companies generally, but the topic establishes no practical TenneT role in the process-technology and materials pilots. Lower or more flexible industrial demand could indirectly benefit grid operations. This supports Type 3 and C3.3. Both project dates are date-helper defaults based on 1 January 2027 and 36 months.",
+  "date_last_checked": "2026-11-23",
+  "status_rationale": "Digital, Industry and Space Work Programme, pp. 67–70, describes the eligible work in Scope. Annex B allows Dutch companies generally, but the topic establishes no practical TenneT role in the process-technology and materials pilots. Lower or more flexible industrial demand could indirectly benefit grid operations. This supports Type 3 and C3.3. Both project dates are null because the call states no start, end or duration.",
   "call_type": "Type 3",
   "category_codes": [
     "C3.3"
