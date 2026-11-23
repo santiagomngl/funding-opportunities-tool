@@ -7,38 +7,38 @@
         {
           "title": "Central object",
           "question": "What is the principal thing the project must develop?",
-          "answer": "Develop and demonstrate either high-voltage direct-current solar for industrial users or integrated operation of solar generators in electricity markets.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · Expected Outcome"
+          "answer": "Either high-voltage direct-current (DC) PV systems for industrial users (Scope 1), or PV systems that take part in electricity markets and ancillary services (Scope 2).\nEach proposal must cover at least one of the two scopes. Scope 1 is a blueprint and demonstration of PV systems above 3 kV feeding DC grids at industrial sites. Scope 2 is the demonstration of PV, alone or pooled with storage, demand or other generation, earning revenue from balancing, ancillary services (services that keep the grid stable) and dynamic or nodal pricing.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · HORIZON-CL5-2027-07-D3-17, Expected Outcome and Scope"
         },
         {
           "title": "Scope",
           "question": "Which activities fall within the funding opportunity's scope?",
-          "answer": "Cover at least one route: high-voltage direct-current solar for industrial loads, or solar participation in electricity markets. The project may address both routes together.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · Scope"
+          "answer": "Proposals must cover at least one of two scopes, each with its own activity list; the call names no excluded activities.\nScope 1 — High-voltage DC PV systems:\n- design higher-voltage system architectures and evaluate their efficiency benefit\n- develop the blueprint for an AC/DC hybrid solution (combining alternating and direct current) that manages end-user loads with high efficiency\n- demonstrate a hybrid system operating above 3 kV in DC grids for industrial installations\n- investigate the impact of higher voltage on PV modules\nScope 2 — PV participation in electricity markets:\n- demonstrate integrated management of PV generators for dynamic and/or nodal pricing (prices that differ by time or by grid location)\n- pool PV with other consumption or production assets to take part in balancing mechanisms, assess their viability and demonstrate business models and financing schemes\n- demonstrate reliability, procurement-driven risk mitigation and better system availability through digitalisation",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · HORIZON-CL5-2027-07-D3-17, Scope"
         },
         {
           "title": "Problem",
           "question": "What type of problem or need must justify the project, and where must it originate?",
-          "answer": "Industrial users need more efficient solar-powered installations, while generators need viable operating strategies when market prices fall very low or turn negative.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · Expected Outcome"
+          "answer": "Two problems: large PV systems need higher-voltage architectures to cut losses and costs, and zero or negative power prices threaten the profitability of solar PV.\nThe call explains that utility-scale PV is moving to architectures of 3 kV and above, possibly with storage, and that a blueprint is needed for DC networks around large industrial users, data servers and charging stations, supporting industrial electrification. Separately, frequent zero or negative prices hurt PV operators, and participation in ancillary services would cut system operating costs and PV curtailment (forced cuts in output). The need originates with industry, PV investors and system planners.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · HORIZON-CL5-2027-07-D3-17, Expected Outcome"
         },
         {
           "title": "Deliverables",
           "question": "Which concrete outputs must the project produce?",
-          "answer": "For the electrical route, provide a design for combining alternating and direct current and a working demonstration above 3 kilovolts. For the market route, demonstrate pooling and credible business and finance arrangements.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · Expected Outcome"
+          "answer": "Depending on the scope: a high-voltage DC PV blueprint and demonstration, or demonstrated market participation of pooled PV with business models.\n- Scope 1: higher-voltage architectures with evaluated efficiency benefits, an AC/DC hybrid blueprint, a demonstration above 3 kV in an industrial DC grid, and results on the impact of high voltage on PV modules\n- Scope 2: demonstrations of PV management under dynamic or nodal pricing, pooled assets in balancing mechanisms, business models and financing schemes, and digital reliability solutions\n- For both: an exploitation plan with a business case and preliminary plans for scalability, commercialisation and deployment, and reports to the European Partnership for Innovation in Photovoltaics",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · HORIZON-CL5-2027-07-D3-17, Scope"
         },
         {
           "title": "Impact",
           "question": "Which wider system outcomes and impacts must the project support?",
-          "answer": "The electrical route should cut power conversion losses. The market route should make solar flexibility useful for balancing (matching electricity supply and demand in real time) and improve commercial viability.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · Expected Outcome"
+          "answer": "Each scope has its own expected outcomes: efficient, cheaper PV electricity for industry (Scope 1), or more profitable and flexible PV in energy markets (Scope 2).\n- Scope 1: highly efficient PV systems, optimal use of generated PV electricity and energy savings; lower levelised cost of electricity (the average cost per kWh over the system's life) and affordable electricity for industrial users\n- Scope 2: higher social profitability of PV through ancillary services; an energy-efficient, cost-competitive and flexible contribution of PV to energy markets\n- Both: support for the solar energy joint research and innovation agenda; the call also mentions lower system operating costs, less curtailment and better system reliability\nThe call sets no quantified targets.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · HORIZON-CL5-2027-07-D3-17, Expected Outcome"
         },
         {
           "title": "After the project",
           "question": "How must the result be replicated, taken up and kept in use after the project?",
-          "answer": "If the project will develop a product or service, document the route to sale and deployment in a business case. Report results to the European Partnership for Innovation in Photovoltaics (the programme’s solar industry and research partnership).",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · Scope"
+          "answer": "Results must lead towards market use: the exploitation plan must contain a business case and preliminary plans for scale-up, commercialisation and deployment.\n- Where exploitation means a product, process or service, the plan must include an exploitation strategy and a strong business case\n- Preliminary plans for scalability, commercialisation and deployment (feasibility study, business plan), naming possible funding sources, in particular the Innovation Fund (the EU's fund for large-scale clean technology deployment)\n- Projects must report results to the European Partnership for Innovation in Photovoltaics (EUPI-PV, a public-private partnership on solar R&I) to monitor its indicators\n- The granting authority may object, for up to 4 years after the project, to a transfer of ownership or exclusive licensing of results",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · HORIZON-CL5-2027-07-D3-17, Specific conditions and Scope"
         }
       ]
     },
@@ -49,26 +49,26 @@
         {
           "title": "Number of partners",
           "question": "What is the permitted or required consortium size?",
-          "answer": "The proposal needs at least three independent funded partners in three different eligible countries. At least one must be established in a European Union Member State. The other two must be established in different Member States or countries associated with Horizon Europe (countries formally participating in the European research programme).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+          "answer": "At least three independent organisations from three different countries; the call sets no maximum.\nThe general rule requires, as beneficiaries (organisations that sign the grant agreement and receive funding), three legal entities independent of each other: at least one established in an EU Member State and two others each in a different Member State or country associated with Horizon Europe (non-EU countries taking part in the programme, such as Norway, Switzerland or the United Kingdom). Affiliated entities (organisations legally linked to a beneficiary) and associated partners (organisations taking part without funding) do not count towards this minimum.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · B — Eligibility, Consortium composition"
         },
         {
           "title": "Partner composition",
           "question": "Which types of partners must the consortium include?",
-          "answer": "Build the team around the route selected. The electrical route needs participants who can design and demonstrate an industrial installation. The market route needs partners who can pool generation and consumption and test balancing.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+          "answer": "The call names no required partner types.\nEntities established in an eligible country but directly or indirectly controlled by China or by a legal entity established in China are not eligible. In practice Scope 1 needs PV and power-electronics developers and an industrial host site; Scope 2 needs asset owners or aggregators and market or system operators, but this is our reading.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · HORIZON-CL5-2027-07-D3-17, Specific conditions"
         },
         {
           "title": "Distribution of work",
           "question": "How must work and budget be distributed among partners?",
-          "answer": null,
-          "sources": null
+          "answer": "The call prescribes no division of work or budget.\nSince the grant is a lump sum (a fixed amount paid against completed work packages), the consortium must allocate the amount to work packages and partners in a detailed budget table.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · HORIZON-CL5-2027-07-D3-17, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, lump sum grant proposals"
         },
         {
           "title": "Coordinator",
           "question": "What type of organisation may or must act as lead applicant?",
-          "answer": "The group appoints a funded partner to lead the work on industrial solar and electricity markets and represent it to the funder.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners"
+          "answer": "No type of organisation is prescribed: the beneficiaries choose one of themselves as coordinator.\nThe coordinator manages and coordinates the project and represents the consortium towards the granting authority (the European Commission or its agency). At submission it must confirm that it has the mandate to act for all applicants.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Coordinator\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, Submission"
         }
       ]
     },
@@ -79,26 +79,26 @@
         {
           "title": "Coordinate",
           "question": "Can TenneT apply or coordinate, and under which conditions?",
-          "answer": "TenneT could coordinate the project if it can specify or validate the grid service in the solar electricity-market demonstration. The applicants choose their coordinator (the funded partner that represents the group to the funder).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · Scope"
+          "answer": "Formally yes, but the topic is about PV systems and their market participation, so TenneT TSO B.V. would more naturally join a Scope 2 consortium than lead one.\nAny eligible beneficiary may coordinate, and a Dutch entity is eligible. TenneT must not be controlled by China or a Chinese entity.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 11, 36 · B — Entities eligible for funding; IMPORTANT, Coordinator\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · HORIZON-CL5-2027-07-D3-17, Specific conditions"
         },
         {
           "title": "Participate",
           "question": "Can TenneT take part without receiving funding?",
-          "answer": "TenneT could specify or validate the grid service in the solar electricity-market demonstration as an associated partner (an organisation that works without a grant). It would cover its own costs and would not count towards the minimum number of funded partners.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · Scope"
+          "answer": "Yes, as an associated partner, which takes part without funding and bears its own costs.\nAn associated partner does not sign the grant agreement, cannot charge costs, does not need legal validation and does not count towards the minimum of three beneficiaries from three countries. It must still register in the Participant Register before the application is submitted.\nFor Scope 2, a TSO could take part as an associated partner to provide balancing-market access rules and test conditions without receiving funding.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 5 · B — Eligibility, Associated partners\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Registration, Consortium roles and Associated partners\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · HORIZON-CL5-2027-07-D3-17"
         },
         {
           "title": "Receive funding",
           "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
-          "answer": "TenneT can receive up to 70% of eligible costs (project costs the grant rules allow) for qualifying work. The Dutch entity could specify or validate the grid service in the solar electricity-market demonstration. Budget at least 30% of those costs from other resources. The rate helps set a lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending). The topic excludes organisations directly or indirectly controlled by China or by a legal entity established there.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · Scope"
+          "answer": "Yes: as a beneficiary TenneT can receive up to 70% of its eligible costs, paid within a lump sum.\nThis topic is an innovation action (a project that develops, pilots and demonstrates new or improved solutions close to the market), for which the maximum rate is 70% for organisations other than non-profit legal entities. The grant is a lump sum: the amount is fixed from a detailed budget and paid when work packages are completed, so the rate is built into the amount. The expected EU contribution is around EUR 6 million per project, for the whole consortium. The call sets no Dutch national rules.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · HORIZON-CL5-2027-07-D3-17, Specific conditions"
         },
         {
           "title": "TenneT's likely contribution",
           "question": "What contribution would make TenneT credible and useful within the project?",
-          "answer": "TenneT could define balancing requirements and assess whether grouped solar generators, batteries and industrial loads can supply a dependable service.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · Scope"
+          "answer": "In Scope 2, TenneT could act as the balancing-market operator that lets pooled PV assets prequalify and deliver ancillary services in a demonstration.\nThis is our interpretation. TenneT's ARTeMIS system for prequalifying and managing Balancing Service Providers is directly relevant to pooling PV with other assets in balancing mechanisms, and its time-dependent transmission rights, as in the Lion Storage contract, show how flexible access can ease congestion. TenneT could provide market rules, data and test access. Scope 1, on DC grids at industrial sites behind the connection point, is far from TenneT's role.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · HORIZON-CL5-2027-07-D3-17, Scope"
         }
       ]
     },
@@ -109,26 +109,26 @@
         {
           "title": "Innovation threshold",
           "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
-          "answer": "Existing generators and assets can be combined in new configurations. The project has to demonstrate the resulting electrical or market arrangement.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · Scope"
+          "answer": "The project must design and demonstrate new architectures or new market participation of PV; it is not enough to apply existing solutions unchanged.\nThe general award criteria assess how far the work goes beyond the state of the art; Scope 2 also allows the demonstration of business models and financing schemes for existing assets.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · HORIZON-CL5-2027-07-D3-17, Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 23 · D — Award criteria"
         },
         {
           "title": "Innovation object",
           "question": "In what must the project innovate?",
-          "answer": "Innovation may be in high-voltage industrial power design or in pooling, dynamic pricing and balancing (matching supply and demand in real time).",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · Scope"
+          "answer": "Scope 1 is mainly technology and system architecture; Scope 2 combines operational methods, digital solutions and market arrangements, including business models.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · HORIZON-CL5-2027-07-D3-17, Scope"
         },
         {
           "title": "Development stages",
           "question": "Which development stages must the project cover?",
-          "answer": "Design and demonstrate the selected system. The electrical route also investigates what higher voltage does to solar modules, and the market route assesses commercial viability.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · Scope"
+          "answer": "Design, development of blueprints and demonstration; the exploitation plan must prepare scale-up and deployment.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · HORIZON-CL5-2027-07-D3-17, Scope"
         },
         {
           "title": "Maturity",
           "question": "Which maturity level is expected at the start and end of the project?",
-          "answer": "The work should reach TRL 6–8 (technology readiness level: from demonstration in relevant conditions to a complete, qualified system) by project end. The call allows work to start at any maturity level.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · Specific conditions"
+          "answer": "Activities are expected to reach TRL 6–8 by the end of the project and may start at any TRL.\nTRL 6 is technology demonstrated in a relevant environment; TRL 8 is a complete and qualified system.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · HORIZON-CL5-2027-07-D3-17, Specific conditions, Technology Readiness Level\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · B — Technology Readiness Levels"
         }
       ]
     },
@@ -139,32 +139,32 @@
         {
           "title": "Demonstration",
           "question": "Where and under which conditions must the solution be demonstrated?",
-          "answer": "Demonstrate direct-current operation above 3 kilovolts in an industrial hybrid system, or demonstrate pooled solar, generation and consumption assets in the selected market use case.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · Scope"
+          "answer": "Both scopes require demonstration: Scope 1 in an industrial DC installation above 3 kV, Scope 2 in electricity markets and balancing mechanisms.\nThe call does not name a laboratory or a specific site, but the TRL 6–8 target implies real or near-real operating conditions.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · HORIZON-CL5-2027-07-D3-17, Scope and Specific conditions"
         },
         {
           "title": "Integration",
           "question": "How must the activities fit together and with existing systems?",
-          "answer": "Connect direct-current solar generation and storage with industrial loads, or combine solar generation with other assets to participate in electricity markets.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · Scope"
+          "answer": "The systems must combine PV with storage, loads or other assets: AC/DC hybrid systems in Scope 1, pooled assets in Scope 2.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · HORIZON-CL5-2027-07-D3-17, Expected Outcome and Scope"
         },
         {
           "title": "Evidence",
           "question": "What must the demonstration prove?",
-          "answer": "For the electrical route, demonstrate direct-current operation above 3 kilovolts and assess module effects. For the market route, show that dispatch, pricing or balancing can work with pooled assets and a credible business model.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · Expected Outcome"
+          "answer": "Scope 1 must evaluate the efficiency benefit of higher voltage and its effect on modules; Scope 2 must assess the viability of pooled systems. The call sets no numerical indicators.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · HORIZON-CL5-2027-07-D3-17, Scope"
         },
         {
           "title": "User participation",
           "question": "How must users take part in the project?",
-          "answer": "Build the electrical design around strategic end users such as industrial sites. The market route demonstrates pooled demand or generation assets, with no separately prescribed co-design procedure.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · Scope"
+          "answer": null,
+          "sources": null
         },
         {
           "title": "Safety and cybersecurity",
           "question": "Which safety, cybersecurity or data requirements must the project meet?",
-          "answer": null,
-          "sources": null
+          "answer": "The call sets no cybersecurity rule, but excludes Chinese-controlled entities and adds an ownership-transfer safeguard.\n- Control restriction: entities directly or indirectly controlled by China or by a legal entity established in China are not eligible\n- Results: the granting authority may object to a transfer of ownership or exclusive licensing of results for up to 4 years after the project\n- Satellite data: if satellite earth observation, positioning, navigation or timing data are used, Copernicus and/or Galileo/EGNOS must be used",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · HORIZON-CL5-2027-07-D3-17, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 9–10, 34 · B — Restrictions on control in Innovation Actions; G — Granting authority right to object to transfers"
         }
       ]
     }
@@ -176,23 +176,23 @@
       "cards": [
         {
           "title": "Funding envelope",
-          "answer": "The Commission indicates EUR 18 million for industrial solar and electricity markets. It expects 3 awards.\n- Grant request: Around EUR 6 million per project. Different requests are eligible.\n- Funding form: Lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 48 · Overview of this call\nPV based electrification of the economy: Designing & optimising PV systems supporting industrial electrification and promoting participation in electricity markets (EUPI-PV Partnership) · Budget overview"
+          "answer": "About 3 projects of around EUR 6 million each are expected, within a topic budget of EUR 18 million.\n- Total project size: not stated\n- Grant request: around EUR 6 million per project, for the whole consortium; other amounts may be requested and selected\n- Funding form: lump sum (a fixed amount, set from a detailed budget and paid against completed work packages rather than reported costs)\nFinal budgets may change by up to 20% after evaluation.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 48–49 · Call ENERGY (HORIZON-CL5-2027-07), Overview of this call\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · HORIZON-CL5-2027-07-D3-17, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 29 · F — Budget flexibility"
         },
         {
           "title": "Funding rate and co-financing",
-          "answer": "For-profit organisations can receive up to 70% towards industrial solar and electricity markets. The rate is used to set the lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).\n- For-profit organisations: Up to 70% of eligible costs (project costs the grant rules allow), leaving at least 30% to cover.\n- Non-profit legal entities: Up to 100% of eligible costs (project costs the grant rules allow).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount"
+          "answer": "Companies such as TenneT receive at most 70% of eligible costs; non-profit legal entities receive up to 100%.\n- For-profit organisations: up to 70% of eligible costs, so at least 30% must come from their own resources\n- Non-profit legal entities (for example universities and research organisations): up to 100% of eligible costs\n- Co-financing conditions: the call sets no rule on cash or in-kind co-financing beyond the funding rate; the remainder is simply not reimbursed\nGrants may not produce a profit: any surplus of revenue plus grant over costs is deducted from the final grant.\nFor lump sum grants the rate is applied when the lump sum is calculated and does not appear in the grant agreement.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, funding rate and maximum grant amount"
         },
         {
           "title": "Budget constraints",
-          "answer": "Plan the budget for industrial solar and electricity markets using the cost categories allowed by the grant. Use estimates to set the fixed grant.\n- Eligible costs (project costs the grant rules allow): Estimate costs by beneficiary (organisations formally responsible for funded work), work package (separately planned blocks of project work) and budget category.\n- Subcontracting or equipment: Apply best-value and conflict-of-interest rules. Estimate equipment depreciation when applicable.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nLump Sum Funding in Horizon Europe: What do I need to know? · pp. 7, 27, 34–36 · Writing a lump sum proposal and detailed budget table"
+          "answer": "The grant is a lump sum fixed from a detailed budget table, which must still follow the normal cost-eligibility rules.\n- Eligible costs: the detailed budget table must contain only costs that would be eligible under an actual-cost grant (personnel, subcontracting, purchases, other direct costs), because the lump sum must approximate the costs actually incurred\n- Overheads and VAT: indirect costs are included in the lump sum calculation at the standard 25% flat rate of direct costs (excluding subcontracting)\n- Subcontracting or equipment: purchases and subcontracting must give best value for money and be free of conflicts of interest; ineligible costs in the budget table can lead to a reduced grant, even late in the project\nPayment depends on completing the work packages, not on proving the costs.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, lump sum grant proposals\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 32 · G — Budget categories and cost eligibility rules"
         },
         {
           "title": "Cash flow and financial exposure",
-          "answer": "Plan cash flow for industrial solar and electricity markets around acceptance of completed blocks of work.\n- Payment model: Pre-financing (an advance at the start of the grant) followed by reporting-period payments for completed work packages (separately planned blocks of project work). Incomplete packages can delay payment.\n- Retention or guarantee: The mutual insurance mechanism (a common fund covering grant recovery risks) deducts 5–8% of the maximum grant from pre-financing.\n- Financial reporting or audit: Retain evidence of task completion. Actual-cost reporting is not required for the lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 33 · Reporting & payment arrangements\nLump Sum Funding in Horizon Europe: What do I need to know? · pp. 17–23 · Payment schedule, Reporting and payment, Keeping records"
+          "answer": "Partners normally receive a large advance after signing, minus a 5–8% contribution to a shared insurance fund, then interim payments.\n- Payment model: pre-financing (an advance) of normally 160% of the average EU funding per reporting period, then interim payments linked to periodic reports, and a final payment after the final report fixes the grant\n- Retention or guarantee: 5% to 8% of the maximum grant is deducted from the pre-financing and paid into the mutual insurance mechanism (a fund covering sums that cannot be recovered from beneficiaries)\n- Financial reporting or audit: depending on grant size and type of beneficiary, a certificate on the financial statements may be required; each beneficiary is liable only for its own debts",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 32–33 · G — Reporting & payment arrangements, Certificates, Liability regime for recoveries"
         }
       ]
     },
@@ -202,18 +202,18 @@
       "cards": [
         {
           "title": "Application route",
-          "answer": "Apply for industrial solar and electricity markets through the European Funding & Tenders Portal in one stage.\n- Full proposal: 1 December 2027, 17:00 Brussels time. Submit Part A (online administration form) and Part B (technical proposal) with a 45-page limit.\n- Opening: 4 August 2027.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 48 · Overview of this call\nPV based electrification of the economy: Designing & optimising PV systems supporting industrial electrification and promoting participation in electricity markets (EUPI-PV Partnership) · General information\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents"
+          "answer": "One stage: full proposals are due by 1 December 2027, 17:00 Brussels time, through the EU Funding & Tenders Portal.\n- Stage 1 — Full proposal: 1 December 2027, 17:00 Brussels time; Part A online and Part B of at most 45 pages (the limit for lump sum innovation actions), with a detailed lump sum budget table; the proposal must name the scope or scopes it covers\n- Opening: 4 August 2027\n- Additional procedure: none; the Commission may open the call up to one month earlier or later and delay the deadline by up to two months",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 48–49 · Call ENERGY (HORIZON-CL5-2027-07), Overview of this call\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility, Page limits\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · HORIZON-CL5-2027-07-D3-17, Scope"
         },
         {
           "title": "Project window",
-          "answer": "The grant agreement (the contract setting the funded work and payment rules) sets the start date and duration for industrial solar and electricity markets.\n- Required start: Work normally starts after the grant agreement is signed. A reasoned exception needs approval.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · Starting date & project duration"
+          "answer": "The call sets no duration or start date: both are fixed in the grant agreement.\n- Maximum duration: not set by the call; the grant agreement states the duration in months, and extensions are possible only exceptionally\n- Required start: normally after the grant agreement is signed; an earlier start is possible only exceptionally, for duly justified reasons and with the granting authority's agreement",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · G — Starting date & project duration"
         },
         {
           "title": "Decision and contracting",
-          "answer": "The Commission’s timetable for assessing and contracting industrial solar and electricity markets is indicative.\n- Expected invitation or assessment result: Around five months from the full-proposal deadline.\n- Grant agreement (the contract setting the funded work and payment rules): Around eight months from the full-proposal deadline.\n- Conditions before starting: The beneficiaries (organisations formally responsible for funded work) must conclude a written consortium agreement (the partners’ written agreement on how the project will run).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium agreement"
+          "answer": "Indicatively, the evaluation result comes about 5 months after the deadline and the grant agreement is signed about 8 months after it.\n- Funding decision: about 5 months after the deadline (indicative), around May 2028\n- Grant agreement: about 8 months after the deadline (indicative)\n- Conditions before starting: an invitation to grant preparation is not yet a funding commitment, since legal entity validation, financial capacity and exclusion checks follow; the partners must sign a written consortium agreement",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · F — Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 29 · F — No commitment to provide funding\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Consortium agreement"
         }
       ]
     },
@@ -223,18 +223,18 @@
       "cards": [
         {
           "title": "Mandatory submission package — pass/fail",
-          "answer": "Use the portal’s forms to submit the proposal and supporting documents for industrial solar and electricity markets.\n- Application form: Complete online Part A and upload technical Part B and applicable annexes.\n- Registration: Beneficiaries (organisations formally responsible for funded work) and affiliated entities (organisations legally linked to funded partners) need a participant identification code before submission.\n- Partner documents: The coordinator confirms its authority to act for the applicant group at submission. Participants sign declarations of honour (signed confirmations of eligibility and other requirements) before grant signature.\n- Budget: Attach the detailed budget table from the submission system.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 5 · Entities eligible to participate"
+          "answer": "The proposal must be complete, submitted electronically before the deadline, and within the page limit; incomplete applications are rejected.\n- Application form: Part A (administrative data and a summary budget, filled in online) and Part B (the technical description, uploaded as a PDF) through the EU Funding & Tenders Portal, using the forms inside the submission system; Part B is limited to 45 pages\n- Budget: the summary budget in Part A and a detailed budget table, which is the basis for the lump sum\n- Mandatory annexes: a plan for the exploitation and dissemination of results, including communication activities, and the ethics self-assessment\n- Partner documents: the coordinator confirms at submission that it has the mandate to act for all applicants; every participant signs a declaration of honour before the grant is signed\n- Registration: every beneficiary, affiliated entity and associated partner needs a participant identification code (PIC, a number from the EU Participant Register) before submission; validation of beneficiaries follows at grant preparation\n- Parallel submission: none\n- Lump sum: the detailed budget table is mandatory and is used to fix the lump sum\n- Exploitation plan: must include a business case and preliminary plans for scalability, commercialisation and deployment",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility, Page limits\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 5 · B — Entities eligible to participate\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · B — Ethics\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Registration\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · HORIZON-CL5-2027-07-D3-17, Scope"
         },
         {
           "title": "Evaluation and selection — scored or ranked",
-          "answer": "Industrial solar and electricity markets proposals compete on research quality, impact and the quality of the delivery plan.\n- Evaluation criteria: Excellence, impact, and quality and efficiency of implementation.\n- Thresholds: At least 3/5 on each criterion and 10/15 overall.\n- Ranking rules: Ties first favour uncovered topic aspects. The next criteria are impact then excellence.\n- Weighting: The impact score (the score for what the project is expected to achieve) has a 1.5 multiplier for ranking.\n- Budget assessment: Ineligible or overstated costs can reduce the lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 28–29 · Evaluation procedure and ranking\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents"
+          "answer": "Independent experts score three criteria out of 5; a proposal needs 3 on each and 10 in total, and Impact weighs 1.5 times in the ranking.\n- Evaluation criteria: Excellence (clear, ambitious objectives beyond the state of the art; sound methodology), Impact (credible pathways to the expected outcomes; dissemination and exploitation measures) and Quality and efficiency of the implementation (work plan, risks, resources, capacity of each partner)\n- Thresholds: at least 3 out of 5 for each criterion and 10 out of 15 overall\n- Weighting: for ranking, the Impact score counts 1.5 times\n- Ranking rules: equal scores are separated first by whether a proposal covers aspects of the call not covered by higher-ranked ones, then by the Impact score, then Excellence, then gender balance among lead researchers and geographical diversity\n- Budget assessment: the grant awarded may be lower than requested, and topic budgets may change by up to 20% after evaluation",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria, Scores and weighting, Two-stage calls\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 28–29 · F — Evaluation procedure and ranking, Budget flexibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 31 · G — Form of grant, funding rate and maximum grant amount"
         },
         {
           "title": "Conditional and exceptional requirements",
-          "answer": "Solar proposals may face ownership restrictions and additional requirements for commercialising results.\n- Conditional — Product or service exploitation: The exploitation and dissemination plan must include a strategy and a business case. It should address scale, deployment and potential finance.\n- Conditional — Satellite data or services: Use Copernicus for Earth observation and/or Galileo or the European Geostationary Navigation Overlay Service for satellite positioning, navigation or timing where the proposal uses the covered services.\n- Conditional — China control: Entities directly or indirectly controlled by China or an entity established there are ineligible.\n- Exception — Transfer of results: The granting authority may object to a transfer of ownership or to exclusive licensing (giving another party sole rights to use the results) for up to four years after the project ends.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · Scope"
+          "answer": "The choice of scope, the lump sum, the China-control restriction and the ownership safeguard shape the proposal.\n- Conditional — scope: each proposal must cover at least one of the two scopes and meet that scope's expected outcomes\n- Conditional — product or service exploitation: a strong business case and preliminary scale-up plans, naming possible funding such as the Innovation Fund\n- Exception — entities controlled by China: not eligible\n- Conditional — results transfer: the granting authority may object to transfers or exclusive licensing for 4 years after the project\n- Conditional — partnership reporting: report results to the European Partnership for Innovation in Photovoltaics\n- Conditional — satellite data: use Copernicus and/or Galileo/EGNOS if such data are used",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 154–157 · HORIZON-CL5-2027-07-D3-17, Specific conditions and Scope"
         }
       ]
     }

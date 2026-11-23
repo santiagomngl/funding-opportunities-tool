@@ -7,38 +7,38 @@
         {
           "title": "Central object",
           "question": "What is the principal thing the project must develop?",
-          "answer": "Validate and scale efficient open-source artificial intelligence for real-time operation of distributed energy systems.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · Expected Outcome"
+          "answer": "Secure, frugal open-source AI tools, including generative AI, validated at scale on an operational grid for real-time grid operation, forecasting and consumer empowerment.\nFrugal means energy-, resource-, data- and cost-efficient, locally deployed and sustainable. The tools must run inside the digital spine of the energy system (the EU's planned common digital infrastructure linking grid data, digital twins and applications), together with an AI development environment and edge and federated learning.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · HORIZON-CL5-2027-02-D3-24, Expected Outcome and Scope"
         },
         {
           "title": "Scope",
           "question": "Which activities fall within the funding opportunity's scope?",
-          "answer": "Validate and scale secure open-source artificial intelligence for grid monitoring, forecasting and balancing (matching electricity supply and demand). Demonstrate its development environment and prototype distributed learning across devices.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · Scope"
+          "answer": "Projects are expected to deliver all six numbered points, building on earlier Horizon Europe and Digital Europe work.\n- Validate on a demo site and an operational grid, and scale, secure frugal open-source AI tools and models for real-time grid monitoring, balancing, forecasting and consumer empowerment, and for markets where relevant\n- Demonstrate an AI development environment within the enhanced digital spine, including its digital twin, incorporating the Common Reference Framework for energy-saving applications\n- Prototype and validate at scale machine learning at edge nodes and federated at swarm level in an agent-based architecture, with methods to scale down AI models and incremental and reinforcement learning\n- Keep deliverables compatible with the Common European Energy Data Space and consistent with EU policies such as Apply AI, the Competitiveness Compass and the digitalisation of energy initiatives\n- Use the European AI factories and gigafactories (EU-funded AI computing centres) where relevant and possible\n- Use and further develop European standards and contribute to standards bodies and open-source communities\nThe project must build on earlier work: the digital spine in Cluster 5, cloud-edge and AI data processing in Cluster 4, and Digital Europe's Common Reference Framework and Common Energy Data Space. The call names no excluded activities.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · HORIZON-CL5-2027-02-D3-24, Scope"
         },
         {
           "title": "Problem",
           "question": "What type of problem or need must justify the project, and where must it originate?",
-          "answer": "Operators need evidence that artificial intelligence can work efficiently and securely in real-time electricity operations before deploying it more widely.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · Expected Outcome"
+          "answer": "Grid and market operators need trustworthy, efficient AI that works in real time on a distributed energy system and at scale, not just in pilots.\nThe need originates with grid operators and energy consumers: distributed energy systems require real-time monitoring, balancing and forecasting beyond conventional tools, while AI must be secure, resource-efficient and governed. The call frames this as upscaling earlier EU results into operational use.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · HORIZON-CL5-2027-02-D3-24, Expected Outcome and Scope"
         },
         {
           "title": "Deliverables",
           "question": "Which concrete outputs must the project produce?",
-          "answer": "Deliver validated tools, a development environment linked to the digital energy system, tested learning across local devices and a governance and operating model.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · Expected Outcome"
+          "answer": "Validated AI tools and models, a demonstrated AI development environment in the digital spine, edge and federated learning prototypes, and a governance framework.\n- Open-source frugal (generative) AI tools and models validated on an operational grid\n- An AI development environment integrated with the digital spine and its digital twin\n- Prototypes of edge-level and federated machine learning in an agent-based architecture\n- A governance framework and operating model for the AI-powered digital spine\n- Contributions to European standards and open-source communities",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · HORIZON-CL5-2027-02-D3-24, Expected Outcome and Scope"
         },
         {
           "title": "Impact",
           "question": "Which wider system outcomes and impacts must the project support?",
-          "answer": "Improve grid decisions and support energy savings without making models unnecessarily expensive to run. Scale learning across devices and establish how organisations can operate the shared infrastructure.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · Expected Outcome"
+          "answer": "Projects must contribute to all four outcomes: frugal AI tools for real-time grid and market operation, a demonstrated AI environment in the digital spine, scaled edge and federated learning, and governance.\n- Advanced, secure, frugal AI tools for real-time grid operation (including protection), market operation where relevant, and consumer empowerment\n- A demonstrated AI development environment integrated with the upgraded digital spine and energy-saving consumer applications\n- Scaled-up learning at edge nodes and federated systems with agent-based architectures\n- A governance framework and operating model for the AI-powered digital spine\nThe deliverables must also promote AI adoption and competitiveness in line with EU policy. The call sets no quantified targets.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · HORIZON-CL5-2027-02-D3-24, Expected Outcome and Scope"
         },
         {
           "title": "After the project",
           "question": "How must the result be replicated, taken up and kept in use after the project?",
-          "answer": "Use existing standards and work with open-source communities. Take part in BRIDGE (the European network for sharing smart-grid, storage and digital energy results).",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · Scope"
+          "answer": "The tools are meant for wide use: open-source, standards-based, compatible with the Common European Energy Data Space and governed by a defined operating model.\n- Open-source tools and models\n- Use and development of European standards, with active contributions to standards bodies and open-source communities\n- A governance framework and operating model for the AI-powered digital spine after deployment\n- Contribution to BRIDGE (the European Commission's cooperation network of smart-grid, storage and digital energy projects)\n- The granting authority may object, for up to 4 years after the project, to a transfer of ownership or exclusive licensing of results",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · HORIZON-CL5-2027-02-D3-24, Specific conditions, Expected Outcome and Scope"
         }
       ]
     },
@@ -49,14 +49,14 @@
         {
           "title": "Number of partners",
           "question": "What is the permitted or required consortium size?",
-          "answer": "The proposal needs at least three independent funded partners in three different eligible countries. At least one must be established in a European Union Member State. The other two must be established in different Member States or countries associated with Horizon Europe (countries formally participating in the European research programme).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+          "answer": "At least three independent organisations from three different countries; the call sets no maximum.\nThe general rule requires, as beneficiaries (organisations that sign the grant agreement and receive funding), three legal entities independent of each other: at least one established in an EU Member State and two others each in a different Member State or country associated with Horizon Europe (non-EU countries taking part in the programme, such as Norway, Switzerland or the United Kingdom). Affiliated entities (organisations legally linked to a beneficiary) and associated partners (organisations taking part without funding) do not count towards this minimum.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · B — Eligibility, Consortium composition"
         },
         {
           "title": "Partner composition",
           "question": "Which types of partners must the consortium include?",
-          "answer": "Include partners able to validate models on an operational grid and at a separate demonstration site. Bring together grid operations, model development and edge-computing (processing close to devices or data sources) expertise.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+          "answer": "The call names no required partner types, but validation on an operational grid implies at least one grid operator.\nEntities established in an eligible country but directly or indirectly controlled by China or by a legal entity established in China are not eligible. The need for an operational grid is our reading of the scope.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · HORIZON-CL5-2027-02-D3-24, Specific conditions and Scope"
         },
         {
           "title": "Distribution of work",
@@ -67,8 +67,8 @@
         {
           "title": "Coordinator",
           "question": "What type of organisation may or must act as lead applicant?",
-          "answer": "The group appoints a funded partner to lead the work on operational grid artificial intelligence and represent it to the funder.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners"
+          "answer": "No type of organisation is prescribed: the beneficiaries choose one of themselves as coordinator.\nThe coordinator manages and coordinates the project and represents the consortium towards the granting authority (the European Commission or its agency). At submission it must confirm that it has the mandate to act for all applicants.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Coordinator\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, Submission"
         }
       ]
     },
@@ -79,26 +79,26 @@
         {
           "title": "Coordinate",
           "question": "Can TenneT apply or coordinate, and under which conditions?",
-          "answer": "TenneT could coordinate the project if it can provide a suitable operational grid setting or validate an in-scope model. The applicants choose their coordinator (the funded partner that represents the group to the funder).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · Scope"
+          "answer": "Yes: TenneT TSO B.V. may coordinate, and as a grid operator it could provide the operational grid on which validation must take place.\nAny eligible beneficiary may coordinate, and a Dutch entity is eligible. TenneT must not be controlled by China or a Chinese entity.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 11, 36 · B — Entities eligible for funding; IMPORTANT, Coordinator\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · HORIZON-CL5-2027-02-D3-24, Specific conditions and Scope"
         },
         {
           "title": "Participate",
           "question": "Can TenneT take part without receiving funding?",
-          "answer": "TenneT could provide a suitable operational grid setting or validate an in-scope model as an associated partner (an organisation that works without a grant). It would cover its own costs and would not count towards the minimum number of funded partners.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · Scope"
+          "answer": "Yes, as an associated partner, which takes part without funding and bears its own costs.\nAn associated partner does not sign the grant agreement, cannot charge costs, does not need legal validation and does not count towards the minimum of three beneficiaries from three countries. It must still register in the Participant Register before the application is submitted.\nFor this topic an associated role is unlikely to fit an operational grid validation, which needs real work and access from the grid operator.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 5 · B — Eligibility, Associated partners\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Registration, Consortium roles and Associated partners\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · HORIZON-CL5-2027-02-D3-24"
         },
         {
           "title": "Receive funding",
           "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
-          "answer": "TenneT can receive up to 70% of eligible costs (project costs the grant rules allow) for qualifying work. The Dutch entity could provide a suitable operational grid setting or validate an in-scope model. Budget at least 30% of those costs from other resources. The topic excludes organisations directly or indirectly controlled by China or by a legal entity established there.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · Scope"
+          "answer": "Yes: as a beneficiary TenneT can receive up to 70% of its eligible costs; it must fund the rest itself.\nThis topic is an innovation action (a project that develops, pilots and demonstrates new or improved solutions close to the market), for which the maximum rate is 70% for organisations other than non-profit legal entities. The grant reimburses costs actually incurred plus a 25% flat rate for indirect costs. The expected EU contribution is around EUR 10 million per project, for the whole consortium. The call sets no Dutch national rules.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, funding rate and maximum grant amount, Budget categories\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · HORIZON-CL5-2027-02-D3-24, Specific conditions"
         },
         {
           "title": "TenneT's likely contribution",
           "question": "What contribution would make TenneT credible and useful within the project?",
-          "answer": "TenneT could test models in its digital twin (virtual network model) and validate results against operational evidence on forecasts or balancing.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · Scope"
+          "answer": "TenneT could host the operational-grid validation of AI tools for real-time monitoring, forecasting and balancing, building on its digital twin and AI grid-control work.\nThis is our interpretation. TenneT's National Facility Digital Twin of the Electricity System and TenneTwin offer an environment to validate AI before live use; GNN4GC, run by TenneT Germany, develops graph neural network agents for grid control; TwinEU, which includes Dutch DSOs, works on data federation. TenneT could bring balancing data from ARTeMIS and operational use cases. Live deployment in a control room would need strict security and fallback arrangements.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · HORIZON-CL5-2027-02-D3-24, Scope"
         }
       ]
     },
@@ -109,26 +109,26 @@
         {
           "title": "Innovation threshold",
           "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
-          "answer": "The project starts from state-of-the-art models and tools. It adds value by adapting them to live energy systems and validating that they scale.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · Scope"
+          "answer": "The project must take state-of-the-art AI to large-scale operational validation and upscaling; it builds on existing tools rather than starting new research.\nThe scope explicitly builds on earlier EU actions. Innovation lies in making the tools frugal, secure and scalable, and in edge and federated learning at swarm level.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · HORIZON-CL5-2027-02-D3-24, Scope"
         },
         {
           "title": "Innovation object",
           "question": "In what must the project innovate?",
-          "answer": "Innovation covers resource-efficient models, a shared development environment, distributed machine learning and governance for operating the shared digital infrastructure.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · Scope"
+          "answer": "A combination of technology, system architecture and governance.\nThe technology is the AI models and tools; the architecture is the digital spine with edge and federated agent-based learning; the governance is an operating model for AI in the digital spine.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · HORIZON-CL5-2027-02-D3-24, Expected Outcome and Scope"
         },
         {
           "title": "Development stages",
           "question": "Which development stages must the project cover?",
-          "answer": "Validate tools at a demonstration site and in an operational grid. Prototype learning on local devices and validate it at scale across participating systems.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · Scope"
+          "answer": "Validation, upscaling and demonstration close to deployment; prototyping only for edge and federated learning.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · HORIZON-CL5-2027-02-D3-24, Scope"
         },
         {
           "title": "Maturity",
           "question": "Which maturity level is expected at the start and end of the project?",
-          "answer": "The work should reach TRL 7–8 (technology readiness level: from a prototype demonstrated in operation to a complete, qualified system) by project end. The call allows work to start at any maturity level.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · Specific conditions"
+          "answer": "Activities are expected to reach TRL 7–8 by the end of the project and may start at any TRL.\nTRL 7 is a system prototype demonstrated in an operational environment; TRL 8 is a complete and qualified system.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · HORIZON-CL5-2027-02-D3-24, Specific conditions, Technology Readiness Level\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · B — Technology Readiness Levels"
         }
       ]
     },
@@ -139,32 +139,32 @@
         {
           "title": "Demonstration",
           "question": "Where and under which conditions must the solution be demonstrated?",
-          "answer": "Use both a demonstration site and an operational grid. Validate learning on local devices and across participating devices at scale.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · Scope"
+          "answer": "Validation must take place on a demo site and on an operational grid; this is development under real operational conditions.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · HORIZON-CL5-2027-02-D3-24, Scope"
         },
         {
           "title": "Integration",
           "question": "How must the activities fit together and with existing systems?",
-          "answer": "Connect the development environment to shared energy-system digital infrastructure, including its digital twin (virtual operating model). Incorporate the common European framework for consumer energy-saving applications.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · Scope"
+          "answer": "The AI tools must work within the digital spine, its digital twin and the Common Reference Framework, compatible with the Common European Energy Data Space.\nEdge and federated learning must be integrated in an agent-based architecture, and the tools must connect grid, market and consumer applications.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · HORIZON-CL5-2027-02-D3-24, Scope"
         },
         {
           "title": "Evidence",
           "question": "What must the demonstration prove?",
-          "answer": "Show that tools are secure and efficient at operational scale. Verify that local devices can learn within federated systems (systems that coordinate model learning across participants).",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · Expected Outcome"
+          "answer": null,
+          "sources": null
         },
         {
           "title": "User participation",
           "question": "How must users take part in the project?",
-          "answer": "The work should support consumers and grid operators through operational validation. Include market operators where the use case covers market operations.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · Scope"
+          "answer": "The call includes consumer empowerment and energy-saving consumer applications, but sets no rule on user co-design.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · HORIZON-CL5-2027-02-D3-24, Expected Outcome and Scope"
         },
         {
           "title": "Safety and cybersecurity",
           "question": "Which safety, cybersecurity or data requirements must the project meet?",
-          "answer": "Validate secure operation and make the covered tools open source. Align the solution with the European energy data-space work, which sets a common approach to sharing data.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · Specific conditions"
+          "answer": "The AI tools must be secure, including for grid protection, and Chinese-controlled entities are excluded.\n- Security: the call asks for secure AI tools for real-time grid operations, including protection\n- Control restriction: entities controlled by China or a Chinese legal entity are not eligible\n- Data: deliverables must follow the principles of the Common European Energy Data Space\n- Results: the granting authority may object to transfer or exclusive licensing of results for up to 4 years\n- Satellite data: if used, Copernicus and/or Galileo/EGNOS must be used",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · HORIZON-CL5-2027-02-D3-24, Specific conditions, Expected Outcome and Scope"
         }
       ]
     }
@@ -176,23 +176,23 @@
       "cards": [
         {
           "title": "Funding envelope",
-          "answer": "The Commission indicates EUR 20 million for operational grid artificial intelligence. It expects 2 awards.\n- Grant request: Around EUR 10 million per project. Different requests are eligible.\n- Funding form: Budget-based grant (paid using approved costs or rates for the funded work).",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 40 · Overview of this call\nLarge scale operational validation and upscaling of state-of-the-art (Generative) AI tools and models powering a next generation digital energy system · Budget overview\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount"
+          "answer": "About 2 projects of around EUR 10 million each are expected, within a topic budget of EUR 20 million.\n- Total project size: not stated\n- Grant request: around EUR 10 million per project, for the whole consortium; other amounts may be requested and selected\n- Funding form: actual-cost grant with a 25% flat rate for indirect costs\nFinal budgets may change by up to 20% after evaluation.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 38–40 · Call BATTERIES and ENERGY (HORIZON-CL5-2027-02), Overview of this call\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · HORIZON-CL5-2027-02-D3-24, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 29 · F — Budget flexibility"
         },
         {
           "title": "Funding rate and co-financing",
-          "answer": "For-profit organisations can receive up to 70% towards operational grid artificial intelligence.\n- For-profit organisations: Up to 70% of eligible costs (project costs the grant rules allow), leaving at least 30% to cover.\n- Non-profit legal entities: Up to 100% of eligible costs (project costs the grant rules allow).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount"
+          "answer": "Companies such as TenneT receive at most 70% of eligible costs; non-profit legal entities receive up to 100%.\n- For-profit organisations: up to 70% of eligible costs, so at least 30% must come from their own resources\n- Non-profit legal entities (for example universities and research organisations): up to 100% of eligible costs\n- Co-financing conditions: the call sets no rule on cash or in-kind co-financing beyond the funding rate; the remainder is simply not reimbursed\nGrants may not produce a profit: any surplus of revenue plus grant over costs is deducted from the final grant.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, funding rate and maximum grant amount"
         },
         {
           "title": "Budget constraints",
-          "answer": "Plan the budget for operational grid artificial intelligence using the cost categories allowed by the grant. The grant agreement (the contract setting the funded work and payment rules) specifies how those costs can be claimed.\n- Eligible costs (project costs the grant rules allow): Personnel, subcontracting and purchases are principal categories.\n- Overheads and value added tax (tax on purchases): The 25% indirect-cost rate (overheads such as general office expenses) excludes subcontracting, third-party support and categories already including indirect costs.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount and Budget categories and cost eligibility rules"
+          "answer": "The grant reimburses only eligible costs actually incurred, plus a flat 25% for indirect costs; subcontracting should stay a limited part.\n- Eligible costs: personnel, subcontracting and purchase costs (equipment, travel, other goods and services), plus personnel unit costs where the beneficiary uses them\n- Overheads and VAT: indirect costs are a flat rate of 25% of eligible direct costs, excluding subcontracting and financial support to third parties\n- Subcontracting or equipment: subcontracting should normally be a limited part of the project and be done by third parties, not by beneficiaries; purchases must give best value for money\nBudgeted costs are not paid as such: only the costs actually incurred are reimbursed.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, Budget categories and cost eligibility rules\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Consortium roles"
         },
         {
           "title": "Cash flow and financial exposure",
-          "answer": "Plan cash flow for operational grid artificial intelligence around the initial advance and later payments.\n- Payment model: Pre-financing (an advance at the start of the grant) usually precedes periodic payments and the final balance.\n- Retention or guarantee: The mutual insurance mechanism (a common fund covering grant recovery risks) deducts 5–8% of the maximum grant from pre-financing.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 33 · Reporting & payment arrangements"
+          "answer": "Partners normally receive a large advance after signing, minus a 5–8% contribution to a shared insurance fund, then interim payments.\n- Payment model: pre-financing (an advance) of normally 160% of the average EU funding per reporting period, then interim payments linked to periodic reports, and a final payment after the final report fixes the grant\n- Retention or guarantee: 5% to 8% of the maximum grant is deducted from the pre-financing and paid into the mutual insurance mechanism (a fund covering sums that cannot be recovered from beneficiaries)\n- Financial reporting or audit: depending on grant size and type of beneficiary, a certificate on the financial statements may be required; each beneficiary is liable only for its own debts",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 32–33 · G — Reporting & payment arrangements, Certificates, Liability regime for recoveries"
         }
       ]
     },
@@ -202,18 +202,18 @@
       "cards": [
         {
           "title": "Application route",
-          "answer": "Apply for operational grid artificial intelligence through the European Funding & Tenders Portal in one stage.\n- Full proposal: 31 March 2027, 17:00 Brussels time. Submit Part A (online administration form) and Part B (technical proposal) with a 40-page limit.\n- Opening: 3 December 2026.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 40 · Overview of this call\nLarge scale operational validation and upscaling of state-of-the-art (Generative) AI tools and models powering a next generation digital energy system · General information\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents"
+          "answer": "One stage: full proposals are due by 31 March 2027, 17:00 Brussels time, through the EU Funding & Tenders Portal.\n- Stage 1 — Full proposal: 31 March 2027, 17:00 Brussels time; Part A online and Part B of at most 40 pages\n- Opening: 3 December 2026\n- Additional procedure: none; the Commission may open the call up to one month earlier or later and delay the deadline by up to two months",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 38–40 · Call BATTERIES and ENERGY (HORIZON-CL5-2027-02), Overview of this call\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility, Page limits"
         },
         {
           "title": "Project window",
-          "answer": "The grant agreement (the contract setting the funded work and payment rules) sets the start date and duration for operational grid artificial intelligence.\n- Required start: Work normally starts after the grant agreement is signed. A reasoned exception needs approval.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · Starting date & project duration"
+          "answer": "The call sets no duration or start date: both are fixed in the grant agreement.\n- Maximum duration: not set by the call; the grant agreement states the duration in months, and extensions are possible only exceptionally\n- Required start: normally after the grant agreement is signed; an earlier start is possible only exceptionally, for duly justified reasons and with the granting authority's agreement",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · G — Starting date & project duration"
         },
         {
           "title": "Decision and contracting",
-          "answer": "The Commission’s timetable for assessing and contracting operational grid artificial intelligence is indicative.\n- Expected invitation or assessment result: Around five months from the full-proposal deadline.\n- Grant agreement (the contract setting the funded work and payment rules): Around eight months from the full-proposal deadline.\n- Conditions before starting: The beneficiaries (organisations formally responsible for funded work) must conclude a written consortium agreement (the partners’ written agreement on how the project will run).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium agreement"
+          "answer": "Indicatively, the evaluation result comes about 5 months after the deadline and the grant agreement is signed about 8 months after it.\n- Funding decision: about 5 months after the deadline (indicative), around August 2027\n- Grant agreement: about 8 months after the deadline (indicative)\n- Conditions before starting: an invitation to grant preparation is not yet a funding commitment, since legal entity validation, financial capacity and exclusion checks follow; the partners must sign a written consortium agreement",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · F — Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 29 · F — No commitment to provide funding\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Consortium agreement"
         }
       ]
     },
@@ -223,18 +223,18 @@
       "cards": [
         {
           "title": "Mandatory submission package — pass/fail",
-          "answer": "Use the portal’s forms to submit the proposal and supporting documents for operational grid artificial intelligence.\n- Application form: Complete online Part A and upload technical Part B and applicable annexes.\n- Registration: Beneficiaries (organisations formally responsible for funded work) and affiliated entities (organisations legally linked to funded partners) need a participant identification code before submission.\n- Partner documents: The coordinator confirms its authority to act for the applicant group at submission. Participants sign declarations of honour (signed confirmations of eligibility and other requirements) before grant signature.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 5 · Entities eligible to participate"
+          "answer": "The proposal must be complete, submitted electronically before the deadline, and within the page limit; incomplete applications are rejected.\n- Application form: Part A (administrative data and a summary budget, filled in online) and Part B (the technical description, uploaded as a PDF) through the EU Funding & Tenders Portal, using the forms inside the submission system; Part B is limited to 40 pages\n- Budget: the summary budget in Part A\n- Mandatory annexes: a plan for the exploitation and dissemination of results, including communication activities, and the ethics self-assessment\n- Partner documents: the coordinator confirms at submission that it has the mandate to act for all applicants; every participant signs a declaration of honour before the grant is signed\n- Registration: every beneficiary, affiliated entity and associated partner needs a participant identification code (PIC, a number from the EU Participant Register) before submission; validation of beneficiaries follows at grant preparation\n- Parallel submission: none",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility, Page limits\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 5 · B — Entities eligible to participate\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · B — Ethics\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Registration"
         },
         {
           "title": "Evaluation and selection — scored or ranked",
-          "answer": "Operational grid artificial intelligence proposals compete on research quality, impact and the quality of the delivery plan.\n- Evaluation criteria: Excellence, impact, and quality and efficiency of implementation.\n- Thresholds: At least 3/5 on each criterion and 10/15 overall.\n- Ranking rules: Ties first favour uncovered topic aspects. The next criteria are impact then excellence.\n- Weighting: The impact score (the score for what the project is expected to achieve) has a 1.5 multiplier for ranking.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 28–29 · Evaluation procedure and ranking"
+          "answer": "Independent experts score three criteria out of 5; a proposal needs 3 on each and 10 in total, and Impact weighs 1.5 times in the ranking.\n- Evaluation criteria: Excellence (clear, ambitious objectives beyond the state of the art; sound methodology), Impact (credible pathways to the expected outcomes; dissemination and exploitation measures) and Quality and efficiency of the implementation (work plan, risks, resources, capacity of each partner)\n- Thresholds: at least 3 out of 5 for each criterion and 10 out of 15 overall\n- Weighting: for ranking, the Impact score counts 1.5 times\n- Ranking rules: equal scores are separated first by whether a proposal covers aspects of the call not covered by higher-ranked ones, then by the Impact score, then Excellence, then gender balance among lead researchers and geographical diversity\n- Budget assessment: the grant awarded may be lower than requested, and topic budgets may change by up to 20% after evaluation",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria, Scores and weighting, Two-stage calls\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 28–29 · F — Evaluation procedure and ranking, Budget flexibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 31 · G — Form of grant, funding rate and maximum grant amount"
         },
         {
           "title": "Conditional and exceptional requirements",
-          "answer": "Screen ownership and check satellite conditions for the live-grid artificial intelligence demonstration.\n- Recommended: Use European artificial intelligence factories or gigafactories where relevant and possible.\n- Conditional — Satellite data or services: Use Copernicus for Earth observation and/or Galileo or the European Geostationary Navigation Overlay Service for satellite positioning, navigation or timing where the proposal uses the covered services.\n- Conditional — China control: Entities directly or indirectly controlled by China or an entity established there are ineligible.\n- Exception — Transfer of results: The granting authority may object to a transfer of ownership or to exclusive licensing (giving another party sole rights to use the results) for up to four years after the project ends.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · Scope"
+          "answer": "The China-control restriction, the ownership safeguard and the satellite-data rule apply in addition to the general rules.\n- Exception — entities controlled by China: not eligible\n- Conditional — results transfer: the granting authority may object to transfers or exclusive licensing for 4 years after the project\n- Conditional — satellite data: use Copernicus and/or Galileo/EGNOS if such data are used\n- Recommended: use European AI factories and gigafactories; contribute to standards bodies, open-source communities and BRIDGE",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 172–174 · HORIZON-CL5-2027-02-D3-24, Specific conditions and Scope"
         }
       ]
     }
