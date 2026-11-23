@@ -11,12 +11,12 @@
   "executive_summary": "Funds either agrivoltaics or offshore/nearshore solar demonstrations, including wind–solar co-location, grid connection, permitting and at least 5 MW of combined demonstration capacity. Eligible consortia can include solar developers, research teams and grid partners. The topic budget is EUR 30 million, with around EUR 7.5 million expected per project. Opening 2026-08-04. Full proposal deadline 2026-12-01 at 17:00 Brussels time.",
   "pre_submission_deadline": null,
   "full_proposal_deadline": "2026-12-01",
-  "earliest_project_start_date": "2026-01-01",
-  "project_end_date": "2028-12-31",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
   "minimum_project_size": null,
   "maximum_project_size": null,
-  "date_last_checked": "2026-11-15",
-  "status_rationale": "Climate, Energy and Mobility Work Programme, pp. 148–151, describes the eligible work in Scope. General Annex B permits a funded Dutch partner. The offshore/nearshore route specifically asks for grid-connection optimisation and supports integration with existing offshore wind generation. This supports Type 1 and C1.3. Both project dates are date-helper defaults based on 1 January 2026 and 36 months.",
+  "date_last_checked": "2026-11-23",
+  "status_rationale": "Climate, Energy and Mobility Work Programme, pp. 148–151, describes the eligible work in Scope. General Annex B permits a funded Dutch partner. The offshore/nearshore route specifically asks for grid-connection optimisation and supports integration with existing offshore wind generation. This supports Type 1 and C1.3. Both project dates are null because the call states no start, end or duration.",
   "call_type": "Type 1",
   "category_codes": [
     "C1.3"

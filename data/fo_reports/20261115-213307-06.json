@@ -7,38 +7,38 @@
         {
           "title": "Central object",
           "question": "What is the principal thing the project must develop?",
-          "answer": "Improve the models and methods used to understand, predict and attribute extreme weather events in a changing climate.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · Expected Outcome"
+          "answer": "Better scientific understanding, modelling, prediction and attribution of extreme weather and climate events, including compound and cascading events, under climate change.\nAttribution means determining how far climate change made a specific event more likely or severe. The project must combine many lines of evidence, from high-resolution Earth system models and digital twins to historical data and AI methods.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · HORIZON-CL5-2027-01-D1-07, Expected Outcome and Scope"
         },
         {
           "title": "Scope",
           "question": "Which activities fall within the funding opportunity's scope?",
-          "answer": "Use observational evidence and multiple modelling approaches to investigate extreme events. Include interactions and cascading impacts where relevant to communities, ecosystems or infrastructure.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · Scope"
+          "answer": "Actions are expected to cover the full chain from process understanding to prediction, with case studies; the call names no excluded activities.\n- Draw on a hierarchy of models, including high-resolution Earth system models and digital twins, and on past and recent climate data, to understand the processes, pre-conditioning and causes of extreme events, including human factors and natural variability\n- Innovative, efficient modelling and analysis, including AI-based approaches, to predict, emulate and reveal unprecedented high-impact events and their likelihood, which are particularly welcome\n- Address extremes in their broadest sense: isolated, compound or cascading events affecting lives, ecosystems, socio-economic sectors and infrastructure, from continental to local scale\n- Quantitative intercomparisons, retrospective analyses, lessons learned and case studies of recent emblematic extreme events, showing progress in seamless prediction from short-term weather to multi-decadal scales\n- Support the future European Climate Risk Assessment (EUCRA), for example through storylines of extremes, and contribute to the EU Mission on Adaptation to Climate Change\n- Coordinate with projects selected under the European Space Agency's FutureEO programme within the joint Extreme-Events Flagship Cluster, with sufficient means reserved",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · HORIZON-CL5-2027-01-D1-07, Scope"
         },
         {
           "title": "Problem",
           "question": "What type of problem or need must justify the project, and where must it originate?",
-          "answer": "Public authorities and infrastructure operators need to anticipate extremes and interacting hazards that can overwhelm existing preparedness.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · Expected Outcome"
+          "answer": "Climate change makes extreme events more frequent and severe, and society needs better prediction of them and of how hazards interact.\nThe need originates with the research community and with EU, national and regional actors responsible for preparedness, disaster risk reduction and adaptation, who need reliable predictions, attribution and early warning.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · HORIZON-CL5-2027-01-D1-07, Expected Outcome and Scope"
         },
         {
           "title": "Deliverables",
           "question": "Which concrete outputs must the project produce?",
-          "answer": "Compare models quantitatively, analyse past events and provide case studies that show advances in prediction, attribution (identifying causes) and projections across timescales.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · Expected Outcome"
+          "answer": "Improved models and methods for prediction, projection and attribution of extremes, intercomparisons and case studies, and contributions to risk assessments and early warning.\n- Model and method advances, including AI-based ones\n- Intercomparisons, retrospective analyses and case studies of recent extreme events\n- Storylines or other inputs to the European Climate Risk Assessment\n- Contributions to early warning systems for single and multi-hazard events",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · HORIZON-CL5-2027-01-D1-07, Expected Outcome and Scope"
         },
         {
           "title": "Impact",
           "question": "Which wider system outcomes and impacts must the project support?",
-          "answer": "Improve how authorities anticipate extremes and prepare for compound hazards. The research should feed European climate risk assessment and early-warning work.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · Expected Outcome\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · Scope"
+          "answer": "Projects must contribute to all three outcomes: better understanding of past and present extremes, better prediction and attribution, and up-to-date inputs to science, risk assessment and early warning.\n- Improved understanding of past and present extremes in Europe and globally, including interactions between hazards and their cumulative or cascading effects\n- Enhanced seamless prediction, projection and attribution capabilities supporting preparedness, response and resilience of EU, national and regional actors, guided by the Preparedness Union Strategy, the EU Adaptation Strategy and the European Climate Adaptation Plan\n- Up-to-date contributions to climate science, risk assessments, adaptation strategies and policies, and improved early warning for single and multi-hazard events\nThe call sets no quantified targets.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · HORIZON-CL5-2027-01-D1-07, Expected Outcome"
         },
         {
           "title": "After the project",
           "question": "How must the result be replicated, taken up and kept in use after the project?",
-          "answer": "Plan for the results to support European climate risk assessment and adaptation. Provide resources for coordination with the European Space Agency’s Future Earth Observation programme.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · Expected Outcome"
+          "answer": "Results should reach operational users: cooperation with Copernicus, Destination Earth and disaster risk reduction actors, and transfer to operations, are encouraged.\n- Integration into or interoperability with Copernicus (the EU's Earth observation programme), Destination Earth (the EU's digital twin of the Earth) and similar initiatives\n- The Joint Research Centre could help transfer outcomes to operations in the Copernicus Emergency Management Service\n- Contribution to the European Climate Risk Assessment and the Adaptation Mission\n- International cooperation with low- and middle-income countries for capacity building is encouraged",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · HORIZON-CL5-2027-01-D1-07, Scope"
         }
       ]
     },
@@ -49,26 +49,26 @@
         {
           "title": "Number of partners",
           "question": "What is the permitted or required consortium size?",
-          "answer": "The proposal needs at least three independent funded partners in three different eligible countries. At least one must be established in a European Union Member State. The other two must be established in different Member States or countries associated with Horizon Europe (countries formally participating in the European research programme).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+          "answer": "At least three independent organisations from three different countries; the call sets no maximum.\nThe general rule requires, as beneficiaries (organisations that sign the grant agreement and receive funding), three legal entities independent of each other: at least one established in an EU Member State and two others each in a different Member State or country associated with Horizon Europe (non-EU countries taking part in the programme, such as Norway, Switzerland or the United Kingdom). Affiliated entities (organisations legally linked to a beneficiary) and associated partners (organisations taking part without funding) do not count towards this minimum.\nThe European Commission's Joint Research Centre (JRC) may join the selected consortium, but does not count for the proposal since it does not take part in preparing it.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · B — Eligibility, Consortium composition\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · HORIZON-CL5-2027-01-D1-07"
         },
         {
           "title": "Partner composition",
           "question": "Which types of partners must the consortium include?",
-          "answer": "Use research bodies that can combine climate observations and models. The call encourages cooperation with risk reduction and adaptation actors, where it improves evidence or capacity.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+          "answer": "The call names no required partner types; climate research organisations are the natural core.\nCooperation with disaster risk reduction and adaptation actors at global, EU, national and regional level is encouraged, as is cooperation with low- and middle-income countries. Unusually, legal entities established in China are eligible, since this research and innovation action falls under the destination Climate sciences and responses.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · HORIZON-CL5-2027-01-D1-07, Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 6–7 · B — Restrictions on the participation of legal entities established in China"
         },
         {
           "title": "Distribution of work",
           "question": "How must work and budget be distributed among partners?",
-          "answer": "Allocate resources to coordinate with European Space Agency projects on future earth observation, including cluster meetings, shared data management or joint work.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · Scope"
+          "answer": "The call prescribes no split, but proposals must reserve sufficient means for coordination with the European Space Agency's FutureEO projects.\nThis covers cluster meetings, joint data management and possible joint actions. Since the grant is a lump sum (a fixed amount paid against completed work packages), the consortium must allocate the amount to work packages and partners in a detailed budget table.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · HORIZON-CL5-2027-01-D1-07, Specific conditions and Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, lump sum grant proposals"
         },
         {
           "title": "Coordinator",
           "question": "What type of organisation may or must act as lead applicant?",
-          "answer": "The group appoints a funded partner to lead the work on extreme-weather prediction and represent it to the funder.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners"
+          "answer": "No type of organisation is prescribed: the beneficiaries choose one of themselves as coordinator.\nThe coordinator manages and coordinates the project and represents the consortium towards the granting authority (the European Commission or its agency). At submission it must confirm that it has the mandate to act for all applicants.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Coordinator\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, Submission"
         }
       ]
     },
@@ -79,26 +79,26 @@
         {
           "title": "Coordinate",
           "question": "Can TenneT apply or coordinate, and under which conditions?",
-          "answer": "TenneT could coordinate the project if it can contribute observations and operational analysis for a case study of an extreme event affecting essential services. The applicants choose their coordinator (the funded partner that represents the group to the funder).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · Scope"
+          "answer": "Formally yes, but this is climate science research led by research organisations; TenneT TSO B.V. would at most join as an infrastructure user.\nAny eligible beneficiary may coordinate, and a Dutch entity is eligible.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 11, 36 · B — Entities eligible for funding; IMPORTANT, Coordinator\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · HORIZON-CL5-2027-01-D1-07, Scope"
         },
         {
           "title": "Participate",
           "question": "Can TenneT take part without receiving funding?",
-          "answer": "TenneT could take part in extreme-weather prediction without receiving a grant. As an associated partner (an organisation that works without a grant), it could contribute observations and operational analysis for a case study of an extreme event affecting essential services. It would cover its own costs and would not count towards the minimum number of funded partners.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · Scope"
+          "answer": "Yes, as an associated partner, which takes part without funding and bears its own costs.\nAn associated partner does not sign the grant agreement, cannot charge costs, does not need legal validation and does not count towards the minimum of three beneficiaries from three countries. It must still register in the Participant Register before the application is submitted.\nThis is the more realistic role for TenneT: an associated partner that supplies infrastructure case studies and tests the usefulness of predictions.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 5 · B — Eligibility, Associated partners\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Registration, Consortium roles and Associated partners\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · HORIZON-CL5-2027-01-D1-07"
         },
         {
           "title": "Receive funding",
           "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
-          "answer": "TenneT can receive up to 100% of eligible costs (project costs the grant rules allow) for qualifying work. The Dutch entity could contribute observations and operational analysis for a case study of an extreme event affecting essential services. The rate helps set a lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · Scope"
+          "answer": "Yes in principle: as a beneficiary TenneT could receive up to 100% of its eligible costs, built into a lump sum.\nThis topic is a research and innovation action (a project that creates new knowledge or tests the feasibility of a new technology, up to small-scale prototypes), for which the maximum rate is 100% for all participants, including companies. The grant is a lump sum fixed from a detailed budget and paid against completed work packages. The expected EU contribution is around EUR 6 million per project, for the whole consortium. The call sets no Dutch national rules.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · HORIZON-CL5-2027-01-D1-07, Specific conditions"
         },
         {
           "title": "TenneT's likely contribution",
           "question": "What contribution would make TenneT credible and useful within the project?",
-          "answer": "TenneT could supply observations of asset disruption during documented extreme events and help researchers test what their forecasts mean for grid-service continuity.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · Expected Outcome"
+          "answer": "TenneT could provide case studies of extreme events that hit grid infrastructure, and test whether predictions are usable for grid operations.\nRelevant events are storms, heatwaves and flooding. This is our interpretation. The call includes cascading events affecting infrastructure and welcomes case studies of recent extremes. TenneT's outage and asset data, and its digital twin work with Delft University of Technology, could help connect climate predictions to grid preparedness. The project is climate science, so TenneT would be a user-side partner with a small role.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · HORIZON-CL5-2027-01-D1-07, Scope"
         }
       ]
     },
@@ -109,20 +109,20 @@
         {
           "title": "Innovation threshold",
           "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
-          "answer": "Develop improved research methods and models. Existing observations, simulations and methods can support work on extremes beyond the historical record.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · Scope"
+          "answer": "The project must produce new scientific knowledge and better modelling and prediction capabilities, beyond the current state of the art.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · HORIZON-CL5-2027-01-D1-07, Expected Outcome and Scope"
         },
         {
           "title": "Innovation object",
           "question": "In what must the project innovate?",
-          "answer": "The innovation is in climate science, bringing together modelling, observations and attribution (assessing the causes of an extreme event).",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · Scope"
+          "answer": "Scientific methods and models: Earth system modelling, digital twins, attribution methods and AI-based prediction and emulation.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · HORIZON-CL5-2027-01-D1-07, Scope"
         },
         {
           "title": "Development stages",
           "question": "Which development stages must the project cover?",
-          "answer": "Study the processes behind extremes, improve modelling and prediction, and check performance using observational and model evidence.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · Scope"
+          "answer": "Research: analysis, modelling, intercomparison and case studies; no demonstration or deployment.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · HORIZON-CL5-2027-01-D1-07, Scope"
         },
         {
           "title": "Maturity",
@@ -139,26 +139,26 @@
         {
           "title": "Demonstration",
           "question": "Where and under which conditions must the solution be demonstrated?",
-          "answer": "Study recent, varied extreme events through case studies and retrospective analysis. Test predictions and findings against observations and model evidence.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · Specific conditions"
+          "answer": "No physical demonstration is required; the project must demonstrate progress through quantitative intercomparisons, retrospective analyses and case studies.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · HORIZON-CL5-2027-01-D1-07, Scope"
         },
         {
           "title": "Integration",
           "question": "How must the activities fit together and with existing systems?",
-          "answer": "Connect understanding across weather and climate timescales. Make output usable for developing risk assessments and adaptation responses, including work with relevant European initiatives.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · Scope"
+          "answer": "The work should integrate multiple lines of evidence and be interoperable with Copernicus and Destination Earth.\nIt must also coordinate with the ESA FutureEO projects in the Extreme-Events Flagship Cluster.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · HORIZON-CL5-2027-01-D1-07, Scope"
         },
         {
           "title": "Evidence",
           "question": "What must the demonstration prove?",
-          "answer": "Show better ability to explain and predict the extremes addressed, including compounding or unprecedented events where relevant. Evaluate models and communicate uncertainty.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · Expected Outcome"
+          "answer": "Progress must be shown in improved understanding, integration of evidence and prediction skill across timescales, through quantitative intercomparisons and case studies.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · HORIZON-CL5-2027-01-D1-07, Scope"
         },
         {
           "title": "User participation",
           "question": "How must users take part in the project?",
-          "answer": "Cooperation with disaster-risk and adaptation communities is encouraged where it helps turn the research into usable evidence.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · Scope"
+          "answer": "Cooperation with disaster risk reduction and adaptation actors is encouraged; the call sets no formal user co-design.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · HORIZON-CL5-2027-01-D1-07, Scope"
         },
         {
           "title": "Safety and cybersecurity",
@@ -176,23 +176,23 @@
       "cards": [
         {
           "title": "Funding envelope",
-          "answer": "The Commission indicates EUR 18 million for extreme-weather prediction. It expects 3 awards.\n- Grant request: around EUR 6 million per project is indicative. The Commission can select a different request.\n- Funding form: Lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 37 · Overview of this call\nAdvancing understanding, modelling and prediction of extreme events in a changing climate · Budget overview"
+          "answer": "About 3 projects of around EUR 6 million each are expected, within a topic budget of EUR 18 million.\n- Total project size: not stated\n- Grant request: around EUR 6 million per project, for the whole consortium; other amounts may be requested and selected\n- Funding form: lump sum (a fixed amount set from a detailed budget and paid against completed work packages)\nFinal budgets may change by up to 20% after evaluation.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 37–38 · Call CLIMATE (HORIZON-CL5-2027-01), Overview of this call\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · HORIZON-CL5-2027-01-D1-07, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 29 · F — Budget flexibility"
         },
         {
           "title": "Funding rate and co-financing",
-          "answer": "The grant can cover up to 100% of eligible costs (project costs the grant rules allow) for extreme-weather prediction. This is a research and innovation action (a grant for research and early development). The rate is used to calculate the lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · Specific conditions"
+          "answer": "The single rate for all participants, including companies such as TenneT, is up to 100% of eligible costs.\n- Co-financing conditions: none required by the call; every beneficiary can be reimbursed up to all its eligible costs\nGrants may not produce a profit: any surplus of revenue plus grant over costs is deducted from the final grant.\nFor lump sum grants the rate is applied when the lump sum is calculated and does not appear in the grant agreement.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, funding rate and maximum grant amount"
         },
         {
           "title": "Budget constraints",
-          "answer": "Plan the budget for extreme-weather prediction using the cost categories allowed by the grant. Use estimates to set the fixed grant.\n- Eligible costs (project costs the grant rules allow): Include only realistic estimates consistent with Horizon Europe eligible-cost rules.\n- Subcontracting or equipment: Purchases and subcontracts must provide best value and avoid conflicts of interest.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nLump Sum Funding in Horizon Europe: What do I need to know? · pp. 6–7 · Writing a lump sum proposal"
+          "answer": "The grant is a lump sum fixed from a detailed budget table, which must still follow the normal cost-eligibility rules.\n- Eligible costs: the detailed budget table must contain only costs that would be eligible under an actual-cost grant (personnel, subcontracting, purchases, other direct costs), because the lump sum must approximate the costs actually incurred\n- Overheads and VAT: indirect costs are included in the lump sum calculation at the standard 25% flat rate of direct costs (excluding subcontracting)\n- Subcontracting or equipment: purchases and subcontracting must give best value for money and be free of conflicts of interest; ineligible costs in the budget table can lead to a reduced grant, even late in the project\nPayment depends on completing the work packages, not on proving the costs.\n- Mandatory allocations: sufficient means for coordination with the ESA FutureEO projects",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, lump sum grant proposals\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 32 · G — Budget categories and cost eligibility rules"
         },
         {
           "title": "Cash flow and financial exposure",
-          "answer": "Plan cash flow for extreme-weather prediction around acceptance of completed blocks of work.\n- Payment model: Normally pre-financing (an advance at the start of the grant), periodic payments for accepted work packages (separately planned blocks of project work), and a final balance.\n- Retention or guarantee: 5–8% of the maximum grant is deducted from pre-financing for the mutual insurance mechanism (a common fund covering grant recovery risks).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 33 · Reporting & payment arrangements\nLump Sum Funding in Horizon Europe: What do I need to know? · pp. 3, 17–20 · Basic principles / Reporting and payment"
+          "answer": "Partners normally receive a large advance after signing, minus a 5–8% contribution to a shared insurance fund, then interim payments.\n- Payment model: pre-financing (an advance) of normally 160% of the average EU funding per reporting period, then interim payments linked to periodic reports, and a final payment after the final report fixes the grant\n- Retention or guarantee: 5% to 8% of the maximum grant is deducted from the pre-financing and paid into the mutual insurance mechanism (a fund covering sums that cannot be recovered from beneficiaries)\n- Financial reporting or audit: depending on grant size and type of beneficiary, a certificate on the financial statements may be required; each beneficiary is liable only for its own debts",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 32–33 · G — Reporting & payment arrangements, Certificates, Liability regime for recoveries"
         }
       ]
     },
@@ -202,18 +202,18 @@
       "cards": [
         {
           "title": "Application route",
-          "answer": "Apply for extreme-weather prediction through the European Funding & Tenders Portal in one stage.\n- Full proposal: 4 March 2027, 17:00 Brussels time. Submit Part A (online administration form) and Part B (technical proposal). Part B is limited to 45 pages.\n- Opening: 17 November 2026.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 37 · Overview of this call\nAdvancing understanding, modelling and prediction of extreme events in a changing climate · General information\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 4 · Page limits\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents"
+          "answer": "One stage: the call opened on 17 November 2026 and full proposals are due by 4 March 2027, 17:00 Brussels time, through the EU Funding & Tenders Portal.\n- Stage 1 — Full proposal: 4 March 2027, 17:00 Brussels time; Part A online and Part B of at most 45 pages (the limit for lump sum research and innovation actions), with a detailed lump sum budget table\n- Opening: 17 November 2026\n- Additional procedure: none; the Commission may delay the deadline by up to two months",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 37–38 · Call CLIMATE (HORIZON-CL5-2027-01), Overview of this call\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility, Page limits"
         },
         {
           "title": "Project window",
-          "answer": "The grant agreement (the contract setting the funded work and payment rules) sets the start date and duration for extreme-weather prediction.\n- Required start: Work normally starts after the grant agreement is signed. A reasoned exception needs approval.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · Starting date & project duration\nLump Sum Model Grant Agreement · p. 17 · Article 4 — Duration and starting date\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · Specific conditions"
+          "answer": "The call sets no duration or start date: both are fixed in the grant agreement.\n- Maximum duration: not set by the call; the grant agreement states the duration in months, and extensions are possible only exceptionally\n- Required start: normally after the grant agreement is signed; an earlier start is possible only exceptionally, for duly justified reasons and with the granting authority's agreement",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · G — Starting date & project duration"
         },
         {
           "title": "Decision and contracting",
-          "answer": "The Commission’s timetable for assessing and contracting extreme-weather prediction is indicative.\n- Expected invitation or assessment result: Around five months after the deadline.\n- Grant agreement (the contract setting the funded work and payment rules): The indicative signature date is around eight months after the deadline.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · Indicative timetable for evaluation and for signature of the grant agreement"
+          "answer": "Indicatively, the evaluation result comes about 5 months after the deadline and the grant agreement is signed about 8 months after it.\n- Funding decision: about 5 months after the deadline (indicative), around August 2027\n- Grant agreement: about 8 months after the deadline (indicative)\n- Conditions before starting: an invitation to grant preparation is not yet a funding commitment, since legal entity validation, financial capacity and exclusion checks follow; the partners must sign a written consortium agreement",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · F — Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 29 · F — No commitment to provide funding\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Consortium agreement"
         }
       ]
     },
@@ -223,18 +223,18 @@
       "cards": [
         {
           "title": "Mandatory submission package — pass/fail",
-          "answer": "Use the portal’s forms to submit the proposal and supporting documents for extreme-weather prediction.\n- Application form: Complete Part A online and upload Part B as a fixed-format document with the required annexes.\n- Registration: Enter a participant identification code for each beneficiary (organisations formally responsible for funded work) and affiliated entity (organisations legally linked to funded partners).\n- Budget: Attach the detailed lump-sum (a fixed grant paid for accepted work rather than reimbursing actual spending) budget table.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Participant Register\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · Specific conditions"
+          "answer": "The proposal must be complete, submitted electronically before the deadline, and within the page limit; incomplete applications are rejected.\n- Application form: Part A (administrative data and a summary budget, filled in online) and Part B (the technical description, uploaded as a PDF) through the EU Funding & Tenders Portal, using the forms inside the submission system; Part B is limited to 45 pages\n- Budget: the summary budget in Part A and a detailed budget table, which is the basis for the lump sum\n- Mandatory annexes: a plan for the exploitation and dissemination of results, including communication activities, and the ethics self-assessment\n- Partner documents: the coordinator confirms at submission that it has the mandate to act for all applicants; every participant signs a declaration of honour before the grant is signed\n- Registration: every beneficiary, affiliated entity and associated partner needs a participant identification code (PIC, a number from the EU Participant Register) before submission; validation of beneficiaries follows at grant preparation\n- Parallel submission: none\n- Lump sum: the detailed budget table is mandatory and is used to fix the lump sum",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility, Page limits\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 5 · B — Entities eligible to participate\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · B — Ethics\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Registration"
         },
         {
           "title": "Evaluation and selection — scored or ranked",
-          "answer": "Extreme-weather prediction proposals compete on research quality, impact and the quality of the delivery plan.\n- Evaluation criteria: Excellence, impact, and quality and efficiency of implementation.\n- Thresholds: At least 3/5 per criterion and 10/15 overall.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria"
+          "answer": "Independent experts score three criteria out of 5; a proposal needs 3 on each and 10 in total.\n- Evaluation criteria: Excellence (clear, ambitious objectives beyond the state of the art; sound methodology), Impact (credible pathways to the expected outcomes; dissemination and exploitation measures) and Quality and efficiency of the implementation (work plan, risks, resources, capacity of each partner)\n- Thresholds: at least 3 out of 5 for each criterion and 10 out of 15 overall\n- Ranking rules: equal scores are separated first by whether a proposal covers aspects of the call not covered by higher-ranked ones, then by the Excellence score, then Impact, then gender balance among lead researchers and geographical diversity\n- Budget assessment: the grant awarded may be lower than requested, and topic budgets may change by up to 20% after evaluation",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria, Scores and weighting, Two-stage calls\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 28–29 · F — Evaluation procedure and ranking, Budget flexibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 31 · G — Form of grant, funding rate and maximum grant amount"
         },
         {
           "title": "Conditional and exceptional requirements",
-          "answer": "Prepare to coordinate extreme-weather research with European Space Agency projects.\n- Conditional — Satellite services: Use Copernicus for Earth observation and/or Galileo or the European Geostationary Navigation Overlay Service for satellite positioning, navigation or timing when relying on satellite-based Earth observation, positioning, navigation or timing.\n- Recommended: Allow resources for Earth System Science Initiative coordination, including joint data management and cluster meetings.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · Scope"
+          "answer": "Coordination with ESA projects, the possible JRC role and the lump sum are specific to this topic.\n- Conditional — ESA coordination: successful consortia must coordinate with ESA FutureEO projects in the Extreme-Events Flagship Cluster and budget for it\n- Exception — Joint Research Centre: may join after selection as a zero-funding beneficiary or associated partner\n- Exception — entities established in China: eligible for this destination's research and innovation actions\n- Conditional — satellite data: use Copernicus and/or Galileo/EGNOS if such data are used\n- Recommended: interoperability with Copernicus and Destination Earth; cooperation with low- and middle-income countries",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 66–68 · HORIZON-CL5-2027-01-D1-07, Specific conditions and Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 6–7 · B — Restrictions on the participation of legal entities established in China"
         }
       ]
     }

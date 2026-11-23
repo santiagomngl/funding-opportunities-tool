@@ -11,12 +11,12 @@
   "executive_summary": "This Innovation Action funds industrial demonstrations in integrated energy systems, zero-emission power, or storage, fuels and carbon utilisation. The proposal selects one main area and demonstrates a clean-tech value chain. The topic expects an industry-driven consortium of clean-tech suppliers, energy users and other value-chain partners. The topic budget is EUR 140 million with EUR 15–25 million expected per project. It opens 2027-01-12 and closes 2027-09-15 at 17:00 Brussels time.",
   "pre_submission_deadline": null,
   "full_proposal_deadline": "2027-09-15",
-  "earliest_project_start_date": "2027-01-01",
-  "project_end_date": "2029-12-31",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
   "minimum_project_size": null,
   "maximum_project_size": null,
-  "date_last_checked": "2026-11-15",
-  "status_rationale": "Horizontal Activities Work Programme, pp. 40–43, Specific conditions and Scope, defines the work. The topic expressly covers integrated systems and energy-to-grid-to-industry demonstrations. A Dutch TSO can join an industry-driven consortium as a funded grid-integration partner. The connection to Target Grid 2045 supports Type 1 and C1.3. The date helper provides both project dates as defaults from 1 January 2027 and 36 months.",
+  "date_last_checked": "2026-11-23",
+  "status_rationale": "Horizontal Activities Work Programme, pp. 40–43, Specific conditions and Scope, defines the work. The topic expressly covers integrated systems and energy-to-grid-to-industry demonstrations. A Dutch TSO can join an industry-driven consortium as a funded grid-integration partner. The connection to Target Grid 2045 supports Type 1 and C1.3. Both project dates are null because the call states no start, end or duration.",
   "call_type": "Type 1",
   "category_codes": [
     "C1.3"

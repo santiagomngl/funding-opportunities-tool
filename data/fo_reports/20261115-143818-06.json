@@ -7,38 +7,38 @@
         {
           "title": "Central object",
           "question": "What is the principal thing the project must develop?",
-          "answer": "Develop and demonstrate wave and tidal energy technology that withstands harsh conditions with low cost and environmental impact.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Expected Outcome"
+          "answer": "One large European programme-style project that develops and demonstrates cost-effective wave and tidal energy systems able to survive harsh sea conditions.\nThe project combines its own research and at least three demonstrations with cascade grants (financial support to third parties, small grants the consortium passes on to other organisations through its own calls) to bring wave and tidal technologies closer to market, in line with the EU's Strategic Energy Technology (SET) Plan targets for ocean energy.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · HORIZON-CL5-2027-02-D3-09, Scope and Structure"
         },
         {
           "title": "Scope",
           "question": "Which activities fall within the funding opportunity's scope?",
-          "answer": "Develop and demonstrate wave and tidal systems and their components. Cover breakthrough work, validation and demonstration, with the core team organising onward funding for third-party breakthrough and validation work.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Scope"
+          "answer": "The project may work on any of eight areas, organised in three challenges; the call names no excluded activity.\nAreas that can be considered:\n- innovative wave energy devices, developed and demonstrated in a controlled environment\n- innovative next-generation tidal energy devices, likewise\n- new sustainable materials for converters, moorings and foundations\n- tailored moorings and connection of electrical or other power transmission systems (cables, electrical equipment), including combined mooring and electrical connectors, shared anchors in arrays, and quick connection and disconnection without large vessels or divers\n- condition monitoring and predictive maintenance instrumentation, including AI\n- advanced manufacturing of devices, structures and auxiliary equipment\n- installation, maintenance and decommissioning technologies\nChallenges:\n- Breakthrough challenge: new solutions and knowledge, by the consortium and through cascade grants\n- Validation challenge: validation in laboratory and relevant environment, by the consortium and through cascade grants\n- Demonstration challenge: at least three clearly different demonstrations up to TRL 7, carried out only by the core consortium",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · HORIZON-CL5-2027-02-D3-09, Scope; Structure, breakdown of activities and budget allocation"
         },
         {
           "title": "Problem",
           "question": "What type of problem or need must justify the project, and where must it originate?",
-          "answer": "Ocean-energy developers need equipment and connections that withstand marine conditions and cost less to install, operate and maintain.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Expected Outcome"
+          "answer": "Wave and tidal energy is still too costly and fragmented in Europe to reach the market and meet the SET Plan targets.\nThe need originates with the ocean energy sector and research community: devices must become cheaper, more reliable and durable in harsh seas, with minimal impact on health, the environment and biodiversity, and European efforts must be aligned rather than fragmented. Energy producers and consumers are named as beneficiaries.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · HORIZON-CL5-2027-02-D3-09, Expected Outcome and Scope"
         },
         {
           "title": "Deliverables",
           "question": "Which concrete outputs must the project produce?",
-          "answer": "Provide at least three distinct demonstrations and document project progress against annual milestones. Design the third-party grant calls, evaluation, risk plan and deployment decisions.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Expected Outcome"
+          "answer": "New technologies and tools, validated solutions, at least three demonstrations, a series of cascade calls, and annual progress reporting against agreed metrics.\n- Breakthrough technologies, at least validated towards the end of the project\n- Validated technologies, tools and solutions\n- At least three demonstrations, each passing a go/no-go milestone before deployment\n- Consecutive cascade calls for the breakthrough challenge (the first in year 1) and for the validation challenge (later)\n- An annual deliverable and milestone reporting progress on technology metrics and SET Plan indicators\n- A risk and mitigation plan, and an Advisory Board",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · HORIZON-CL5-2027-02-D3-09, Structure; Governance of the project"
         },
         {
           "title": "Impact",
           "question": "Which wider system outcomes and impacts must the project support?",
-          "answer": "Improve cost, reliability, efficiency and sustainability throughout an ocean-energy farm’s life. Coordinate research and validation so promising solutions can move towards use.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Expected Outcome"
+          "answer": "Projects must contribute to all four expected outcomes: progress on SET Plan ocean energy targets, better-performing devices, aligned European efforts, and a larger, low-impact ocean energy contribution.\n- Advance the SET Plan's research and innovation priorities and targets for ocean energy\n- Increased performance of wave and tidal technologies: efficiency, flexibility, lower cost, reliability, sustainability, operation and maintenance, robustness and security across the whole farm lifetime\n- Efficient support to ocean energy R&I through alignment and cooperation, avoiding fragmentation\n- A greater contribution of ocean energy to the energy system at the lowest possible cost and with minimal impacts on health and biodiversity\nProgress must be monitored against the high-level SET Plan indicators for ocean energy.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · HORIZON-CL5-2027-02-D3-09, Expected Outcome; Governance of the project"
         },
         {
           "title": "After the project",
           "question": "How must the result be replicated, taken up and kept in use after the project?",
-          "answer": "Share results that can be disclosed and contribute to the Clean Energy Transition Partnership’s knowledge and impact networks (channels for sharing evidence from funded projects). Link the demonstrations to prospects for industrial uptake.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Scope"
+          "answer": "The project must accelerate industry take-up and share results with the European R&D community through the Clean Energy Transition Partnership.\n- Demonstrations must accelerate take-up of innovation by industry and show a financial close for each, possibly with other EU, national or regional support\n- The consortium must contribute to the Knowledge Community and Impact Network of the Clean Energy Transition Partnership and share communicable results\n- Progress is assessed with the stage-gate metrics of Task 12 of the IEA Ocean Energy Systems programme (an international benchmarking framework)\n- Liaison with the IEA Ocean Energy Systems programme for synergies is expected where relevant",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · HORIZON-CL5-2027-02-D3-09, Structure; Governance of the project"
         }
       ]
     },
@@ -49,26 +49,26 @@
         {
           "title": "Number of partners",
           "question": "What is the permitted or required consortium size?",
-          "answer": "The proposal needs at least three independent funded partners in three different eligible countries. At least one must be established in a European Union Member State. The other two must be established in different Member States or countries associated with Horizon Europe (countries formally participating in the European research programme).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+          "answer": "At least three independent organisations from three different countries; the call sets no maximum.\nThe general rule requires, as beneficiaries (organisations that sign the grant agreement and receive funding), three legal entities independent of each other: at least one established in an EU Member State and two others each in a different Member State or country associated with Horizon Europe (non-EU countries taking part in the programme, such as Norway, Switzerland or the United Kingdom). Affiliated entities (organisations legally linked to a beneficiary) and associated partners (organisations taking part without funding) do not count towards this minimum.\nOnly one project is expected for the whole EUR 43 million budget, so in practice the core consortium will be a broad European alliance.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · B — Eligibility, Consortium composition\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 38–39 · Call BATTERIES and ENERGY (HORIZON-CL5-2027-02), Overview of this call"
         },
         {
           "title": "Partner composition",
           "question": "Which types of partners must the consortium include?",
-          "answer": "The consortium needs ocean-energy demonstration skills and a record of managing large projects or awarding third-party grants. Set up an advisory board with independent public and private experts and the relevant European initiatives.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+          "answer": "The call names no mandatory partner types, but the core consortium must have proven experience in managing large projects and cascade grants.\nThe beneficiaries that manage the cascade calls must show sound financial management of large projects, including public procurement or calls and grants to third parties. The cascade calls must be open to any public or private entity, including SMEs, research organisations, academia, start-ups and industry. Legal entities established in China are not eligible for innovation actions.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · HORIZON-CL5-2027-02-D3-09, Activities implemented through Financial Support to Third Parties; Governance of the project\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 6 · B — Restrictions on the participation of legal entities established in China"
         },
         {
           "title": "Distribution of work",
           "question": "How must work and budget be distributed among partners?",
-          "answer": "The core consortium runs the demonstrations itself and manages all onward grants (funding passed to outside organisations). It can share breakthrough and validation work with third parties. Demonstrations should use at most EUR 24 million of the European grant and project management should stay within 7%.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Scope"
+          "answer": "The budget is split by rules: at most 7% for management, up to EUR 24 million for demonstrations, and about EUR 9 million for cascade grants.\n- Project management: not more than 7% of the EU funding\n- Demonstration challenge: at most about EUR 24 million of EU funding, done only by the core consortium\n- Breakthrough cascade calls: up to EUR 3 million\n- Validation cascade calls: up to EUR 6 million\n- Maximum per third party: EUR 800,000, as grants only\nThe core consortium manages the whole project, including the cascade calls and the projects they fund.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · HORIZON-CL5-2027-02-D3-09, Specific conditions; Activities directly implemented by the core consortium; Activities implemented through FSTP"
         },
         {
           "title": "Coordinator",
           "question": "What type of organisation may or must act as lead applicant?",
-          "answer": "The group appoints a funded partner to lead the work on wave and tidal energy systems and represent it to the funder.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners"
+          "answer": "No type of organisation is prescribed: the beneficiaries choose one of themselves as coordinator.\nThe coordinator manages and coordinates the project and represents the consortium towards the granting authority (the European Commission or its agency). At submission it must confirm that it has the mandate to act for all applicants.\nGiven the size and the cascade-grant management, the coordinator should have proven experience in running large projects and calls for third parties; this follows from the call's expectation of the core consortium.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Coordinator\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, Submission\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · HORIZON-CL5-2027-02-D3-09"
         }
       ]
     },
@@ -79,26 +79,26 @@
         {
           "title": "Coordinate",
           "question": "Can TenneT apply or coordinate, and under which conditions?",
-          "answer": "TenneT could coordinate the project if it can develop or validate the electrical connection for an ocean-energy demonstrator run by the core consortium. The applicants choose their coordinator (the funded partner that represents the group to the funder).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Scope"
+          "answer": "Formally yes, but TenneT TSO B.V. is not an ocean energy developer, so leading this sector programme would be unusual.\nAny eligible beneficiary may coordinate, and a Dutch entity is eligible. The coordinator would manage EUR 43 million, cascade calls and an Advisory Board.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 11, 36 · B — Entities eligible for funding; IMPORTANT, Coordinator\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · HORIZON-CL5-2027-02-D3-09, Governance of the project"
         },
         {
           "title": "Participate",
           "question": "Can TenneT take part without receiving funding?",
-          "answer": "TenneT could take part in wave and tidal energy systems without receiving a grant. As an associated partner (an organisation that works without a grant), it could develop or validate the electrical connection for an ocean-energy demonstrator run by the core consortium. It would cover its own costs and would not count towards the minimum number of funded partners. The source’s national eligibility rules for awards to third parties are separate from the main project’s grant.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Scope"
+          "answer": "Yes, as an associated partner, which takes part without funding and bears its own costs.\nAn associated partner does not sign the grant agreement, cannot charge costs, does not need legal validation and does not count towards the minimum of three beneficiaries from three countries. It must still register in the Participant Register before the application is submitted.\nTenneT could also simply apply to one of the project's cascade calls, which are open to any public or private entity.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 5 · B — Eligibility, Associated partners\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Registration, Consortium roles and Associated partners\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · HORIZON-CL5-2027-02-D3-09"
         },
         {
           "title": "Receive funding",
           "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
-          "answer": "TenneT can receive up to 70% of eligible costs (project costs the grant rules allow) for qualifying work. The Dutch entity could develop or validate the electrical connection for an ocean-energy demonstrator run by the core consortium. Budget at least 30% of those costs from other resources.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Scope"
+          "answer": "Yes: as a core beneficiary TenneT can receive up to 70% of its eligible costs, or it could win a cascade grant of up to EUR 800,000.\nThis topic is an innovation action (a project that develops, pilots and demonstrates new or improved solutions close to the market), for which the maximum rate is 70% for organisations other than non-profit legal entities. The grant reimburses costs actually incurred plus a 25% flat rate for indirect costs. The call sets no Dutch national rules.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · HORIZON-CL5-2027-02-D3-09, Specific conditions"
         },
         {
           "title": "TenneT's likely contribution",
           "question": "What contribution would make TenneT credible and useful within the project?",
-          "answer": "TenneT could assess power-connection interfaces and monitoring requirements for ocean energy. The project would need a defined engineering or validation role for the Dutch operator.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Scope"
+          "answer": "TenneT could advise on, or work on, the electrical connection and power transmission of wave and tidal arrays, and on grid integration.\nThis is our interpretation. One scope area covers moorings and connection of electrical power transmission systems, including cables and electrical equipment, which touches TenneT's offshore connection expertise from programmes such as Hollandse Kust and the 2GW Program. Ocean energy is, however, a small and early-stage source for the Dutch grid, so TenneT's role would be marginal: for example an Advisory Board-style input or a cascade project on connection standards.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · HORIZON-CL5-2027-02-D3-09, Scope"
         }
       ]
     },
@@ -109,26 +109,26 @@
         {
           "title": "Innovation threshold",
           "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
-          "answer": "The breakthrough strand develops new solutions. The validation strand can test technology developed within the project or by earlier European or national projects.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Scope"
+          "answer": "The project must develop genuinely new solutions in the breakthrough challenge, while the validation challenge may also take up technologies developed in earlier projects.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · HORIZON-CL5-2027-02-D3-09, Structure, breakdown of activities and budget allocation"
         },
         {
           "title": "Innovation object",
           "question": "In what must the project innovate?",
-          "answer": "The call covers converters, materials, moorings, power connections, condition monitoring, manufacturing and deployment methods.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Scope"
+          "answer": "Mainly technology (devices, materials, moorings, connections, monitoring, manufacturing and installation methods), supported by governance of a multi-party programme.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · HORIZON-CL5-2027-02-D3-09, Scope; Governance of the project"
         },
         {
           "title": "Development stages",
           "question": "Which development stages must the project cover?",
-          "answer": "Cover breakthrough development, validation and demonstration. The core consortium alone runs the demonstrations and must plan at least three with distinct technical focuses.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Scope"
+          "answer": "All stages from breakthrough development through validation to demonstration and preparation for deployment.\nDemonstrations must pass a go/no-go milestone before entering the deployment phase.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · HORIZON-CL5-2027-02-D3-09, Structure; Activities directly implemented by the core consortium"
         },
         {
           "title": "Maturity",
           "question": "Which maturity level is expected at the start and end of the project?",
-          "answer": "The work should reach TRL 6–7 (technology readiness level: technology demonstrated in relevant or operational conditions) by project end. The call allows work to start at any maturity level.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Specific conditions"
+          "answer": "Activities are expected to reach TRL 6–7 by the end of the project and may start at any TRL; demonstrations go up to TRL 7.\nTRL 6 is technology demonstrated in a relevant environment; TRL 7 is a system prototype demonstrated in an operational environment.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · HORIZON-CL5-2027-02-D3-09, Specific conditions, Technology Readiness Level; Structure\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · B — Technology Readiness Levels"
         }
       ]
     },
@@ -139,32 +139,32 @@
         {
           "title": "Demonstration",
           "question": "Where and under which conditions must the solution be demonstrated?",
-          "answer": "Use controlled, monitored and reproducible conditions. Suitable settings include tanks, test rigs, sheltered basins or instrumented real-sea sites.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Scope"
+          "answer": "At least three clearly different demonstrations are required, in a controlled environment such as test tanks, basins or instrumented real-sea test sites.\nControlled environment means monitored and reproducible conditions. Before each go/no-go milestone the project must show all permits for deployment, complete engineering plans compliant with standards, and a complete business and implementation plan. The proposal must show a pathway to the permits and a financial close for each demonstration. Demonstrations are selected with the stage-gate approach of IEA Ocean Energy Systems Task 12.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · HORIZON-CL5-2027-02-D3-09, Scope; Activities directly implemented by the core consortium"
         },
         {
           "title": "Integration",
           "question": "How must the activities fit together and with existing systems?",
-          "answer": "Connect third-party breakthrough and validation grants with the core demonstrations. A later round can validate promising early work without starting the research chain again.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Scope"
+          "answer": "The consortium's own work and the cascade projects must form one programme with continuous progression from breakthrough to validation to demonstration.\nCascade calls should be planned so that successful work can continue without major interruption, and later calls can support earlier winners further.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · HORIZON-CL5-2027-02-D3-09, Structure; Activities implemented through FSTP"
         },
         {
           "title": "Evidence",
           "question": "What must the demonstration prove?",
-          "answer": "Use the International Energy Agency’s Ocean Energy Systems performance measures. Report progress annually and show permits, engineering readiness and a business and implementation plan before each deployment decision.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Expected Outcome"
+          "answer": "Progress must be shown with the IEA Ocean Energy Systems stage-gate metrics, with qualitative and quantitative indicators and annual reviews.\n- Technology-specific indicators in each area covered\n- Contribution to the high-level SET Plan ocean energy indicators\n- Annual reviews set as milestones, subject to approval by the granting authority\n- Benchmarking and progress monitoring, building on the framework of the Europewave pre-commercial procurement",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · HORIZON-CL5-2027-02-D3-09, Governance of the project"
         },
         {
           "title": "User participation",
           "question": "How must users take part in the project?",
-          "answer": "The independent advisory board should include public and private ocean-energy experts. Third-party grants can fund applications that demonstrate value for end users.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Scope"
+          "answer": "The call asks for an independent Advisory Board of ocean energy experts to keep the project aligned with the SET Plan.\nIt must include representatives of the SET Plan working group on ocean energy, the Clean Energy Transition Partnership and the European Commission. Cascade validation projects may also cover new use cases with defined added value to end users. The call sets no co-design requirement.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · HORIZON-CL5-2027-02-D3-09, Structure; Governance of the project"
         },
         {
           "title": "Safety and cybersecurity",
           "question": "Which safety, cybersecurity or data requirements must the project meet?",
-          "answer": "Before each deployment decision, the demonstrator needs permits and a detailed engineering design that meets applicable standards. Cover relevant safety and environmental risks in the project’s mitigation plan.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Scope"
+          "answer": "The call sets no cybersecurity requirement; it asks for a full risk and mitigation plan and permits for every demonstration.\n- Risk: special attention to the risk that a demonstration does not reach a go decision\n- Permits and standards: needed before each demonstration's go/no-go milestone\n- Satellite data: if used, Copernicus and/or Galileo/EGNOS must be used",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · HORIZON-CL5-2027-02-D3-09, Specific conditions; Activities directly implemented by the core consortium; Governance of the project"
         }
       ]
     }
@@ -176,23 +176,23 @@
       "cards": [
         {
           "title": "Funding envelope",
-          "answer": "The Commission indicates EUR 43 million for wave and tidal energy systems. It expects 1 award.\n- Grant request: Around EUR 43 million per project. Different requests are eligible.\n- Funding form: Budget-based grant (paid using approved costs or rates for the funded work).",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 39 · Overview of this call\nInnovative technologies and solutions to improve wave and tidal energy systems · Budget overview\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount"
+          "answer": "One project of around EUR 43 million is expected, which is the entire topic budget.\n- Total project size: not stated\n- Grant request: around EUR 43 million for the whole consortium; other amounts may be requested and selected\n- Funding form: actual-cost grant with a 25% flat rate for indirect costs, of which part is passed on as cascade grants of at most EUR 800,000 per third party\nFinal budgets may change by up to 20% after evaluation.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 38–39 · Call BATTERIES and ENERGY (HORIZON-CL5-2027-02), Overview of this call\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · HORIZON-CL5-2027-02-D3-09, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 29 · F — Budget flexibility"
         },
         {
           "title": "Funding rate and co-financing",
-          "answer": "For-profit organisations can receive up to 70% towards wave and tidal energy systems.\n- For-profit organisations: Up to 70% of eligible costs (project costs the grant rules allow), leaving at least 30% to cover.\n- Non-profit legal entities: Up to 100% of eligible costs (project costs the grant rules allow).\n- Co-financing conditions: Beneficiaries (organisations formally responsible for funded work) administering onward grants receive their own funding rate on the eligible amounts paid.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nInnovative technologies and solutions to improve wave and tidal energy systems · Topic Q&A 87774"
+          "answer": "Companies such as TenneT receive at most 70% of eligible costs; non-profit legal entities receive up to 100%.\n- For-profit organisations: up to 70% of eligible costs, so at least 30% must come from their own resources\n- Non-profit legal entities (for example universities and research organisations): up to 100% of eligible costs\n- Co-financing conditions: the call sets no rule on cash or in-kind co-financing beyond the funding rate; the remainder is simply not reimbursed\nGrants may not produce a profit: any surplus of revenue plus grant over costs is deducted from the final grant.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, funding rate and maximum grant amount"
         },
         {
           "title": "Budget constraints",
-          "answer": "Separate the core wave and tidal demonstrations from the funding reserved for awards to outside organisations.\n- Caps or mandatory allocations: Up to EUR 800,000 cumulatively per third-party recipient. Demonstrations should use at most EUR 24 million of European Union funding, and management should stay at or below 7%.\n- Caps or mandatory allocations: Up to EUR 3 million for breakthrough awards and up to EUR 6 million expected for validation awards.\n- Eligible costs (project costs the grant rules allow): Onward grants are reimbursed to beneficiaries (organisations formally responsible for funded work) as actual costs.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Structure, breakdown of activities and budget allocation\nInnovative technologies and solutions to improve wave and tidal energy systems · Topic Q&As 87775, 87776 and 87777"
+          "answer": "The grant reimburses only eligible costs actually incurred, plus a flat 25% for indirect costs; subcontracting should stay a limited part.\n- Eligible costs: personnel, subcontracting and purchase costs (equipment, travel, other goods and services), plus personnel unit costs where the beneficiary uses them\n- Overheads and VAT: indirect costs are a flat rate of 25% of eligible direct costs, excluding subcontracting and financial support to third parties\n- Subcontracting or equipment: subcontracting should normally be a limited part of the project and be done by third parties, not by beneficiaries; purchases must give best value for money\nBudgeted costs are not paid as such: only the costs actually incurred are reimbursed.\n- Caps or mandatory allocations: management at most 7% of EU funding; demonstrations at most about EUR 24 million; cascade grants up to EUR 3 million (breakthrough) and EUR 6 million (validation); at most EUR 800,000 per third party",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, Budget categories and cost eligibility rules\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Consortium roles"
         },
         {
           "title": "Cash flow and financial exposure",
-          "answer": "Plan cash flow for wave and tidal energy systems around the initial advance and later payments.\n- Payment model: Pre-financing (an advance at the start of the grant) usually precedes periodic payments and the final balance.\n- Retention or guarantee: The mutual insurance mechanism (a common fund covering grant recovery risks) deducts 5–8% of the maximum grant from pre-financing.\n- Financial reporting or audit: Keep evidence of onward grants charged as actual costs at the beneficiary (organisations formally responsible for funded work)’s reimbursement rate.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 33 · Reporting & payment arrangements\nInnovative technologies and solutions to improve wave and tidal energy systems · Topic Q&As 87774 and 87775"
+          "answer": "Partners normally receive a large advance after signing, minus a 5–8% contribution to a shared insurance fund, then interim payments.\n- Payment model: pre-financing (an advance) of normally 160% of the average EU funding per reporting period, then interim payments linked to periodic reports, and a final payment after the final report fixes the grant\n- Retention or guarantee: 5% to 8% of the maximum grant is deducted from the pre-financing and paid into the mutual insurance mechanism (a fund covering sums that cannot be recovered from beneficiaries)\n- Financial reporting or audit: depending on grant size and type of beneficiary, a certificate on the financial statements may be required; each beneficiary is liable only for its own debts",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 32–33 · G — Reporting & payment arrangements, Certificates, Liability regime for recoveries"
         }
       ]
     },
@@ -202,18 +202,18 @@
       "cards": [
         {
           "title": "Application route",
-          "answer": "Apply for wave and tidal energy systems through the European Funding & Tenders Portal in one stage.\n- Full proposal: 31 March 2027, 17:00 Brussels time. Submit Part A (online administration form) and Part B (technical proposal) with a 60-page limit.\n- Opening: 3 December 2026.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 39 · Overview of this call\nInnovative technologies and solutions to improve wave and tidal energy systems · General information\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Specific conditions"
+          "answer": "One stage: full proposals are due by 31 March 2027, 17:00 Brussels time, through the EU Funding & Tenders Portal.\n- Stage 1 — Full proposal: 31 March 2027, 17:00 Brussels time; Part A online and Part B of at most 60 pages, an exception to the usual 40 because of the topic's complexity\n- Opening: 3 December 2026\n- Additional procedure: none; the Commission may open the call up to one month earlier or later and delay the deadline by up to two months",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 38–39 · Call BATTERIES and ENERGY (HORIZON-CL5-2027-02), Overview of this call\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · HORIZON-CL5-2027-02-D3-09, Specific conditions, Admissibility conditions"
         },
         {
           "title": "Project window",
-          "answer": "The Commission estimates around 60 months for the core wave and tidal project.\n- Required start: Work normally starts after the grant agreement (the contract setting the funded work and payment rules) is signed. A reasoned exception needs approval.\n- Estimated duration: About 60 months for the core action.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · Starting date & project duration\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Duration"
+          "answer": "The call sets no duration or start date: both are fixed in the grant agreement.\n- Maximum duration: not set by the call; the grant agreement states the duration in months, and extensions are possible only exceptionally\n- Required start: normally after the grant agreement is signed; an earlier start is possible only exceptionally, for duly justified reasons and with the granting authority's agreement\n- Expected duration: the call estimates around 5 years",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · G — Starting date & project duration"
         },
         {
           "title": "Decision and contracting",
-          "answer": "The Commission’s timetable for assessing and contracting wave and tidal energy systems is indicative.\n- Expected invitation or assessment result: Around five months from the full-proposal deadline.\n- Grant agreement (the contract setting the funded work and payment rules): Around eight months from the full-proposal deadline.\n- Conditions before starting: The beneficiaries (organisations formally responsible for funded work) must conclude a written consortium agreement (the partners’ written agreement on how the project will run).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium agreement"
+          "answer": "Indicatively, the evaluation result comes about 5 months after the deadline and the grant agreement is signed about 8 months after it.\n- Funding decision: about 5 months after the deadline (indicative), around August 2027\n- Grant agreement: about 8 months after the deadline (indicative)\n- Conditions before starting: an invitation to grant preparation is not yet a funding commitment, since legal entity validation, financial capacity and exclusion checks follow; the partners must sign a written consortium agreement",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · F — Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 29 · F — No commitment to provide funding\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Consortium agreement"
         }
       ]
     },
@@ -223,18 +223,18 @@
       "cards": [
         {
           "title": "Mandatory submission package — pass/fail",
-          "answer": "The wave and tidal proposal must explain how the consortium will run its demonstrations and award grants to outside organisations.\n- Application form: Complete online Part A and upload technical Part B and applicable annexes.\n- Registration: Beneficiaries (organisations formally responsible for funded work) and affiliated entities (organisations legally linked to funded partners) need a participant identification code before submission.\n- Partner documents: The coordinator confirms its authority to act for the applicant group at submission. Participants sign declarations of honour (signed confirmations of eligibility and other requirements) before grant signature.\n- Mandatory annexes and details: Describe the third-party grant calls, advisory-board recruitment and readiness milestones.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 5 · Entities eligible to participate\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Scope\nInnovative technologies and solutions to improve wave and tidal energy systems · Topic Q&A 91447"
+          "answer": "The proposal must be complete, submitted electronically before the deadline, and within the page limit; incomplete applications are rejected.\n- Application form: Part A (administrative data and a summary budget, filled in online) and Part B (the technical description, uploaded as a PDF) through the EU Funding & Tenders Portal, using the forms inside the submission system; Part B is limited to 60 pages\n- Budget: the summary budget in Part A\n- Mandatory annexes: a plan for the exploitation and dissemination of results, including communication activities, and the ethics self-assessment\n- Partner documents: the coordinator confirms at submission that it has the mandate to act for all applicants; every participant signs a declaration of honour before the grant is signed\n- Registration: every beneficiary, affiliated entity and associated partner needs a participant identification code (PIC, a number from the EU Participant Register) before submission; validation of beneficiaries follows at grant preparation\n- Parallel submission: none\n- Cascade calls: the proposal must describe the objectives and expected results of each cascade call, the selection criteria and evaluation method, timelines and indicators",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility, Page limits\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 5 · B — Entities eligible to participate\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · B — Ethics\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Registration\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · HORIZON-CL5-2027-02-D3-09, Specific conditions; Governance of the project"
         },
         {
           "title": "Evaluation and selection — scored or ranked",
-          "answer": "Wave and tidal energy systems proposals compete on research quality, impact and the quality of the delivery plan.\n- Evaluation criteria: Excellence, impact, and quality and efficiency of implementation.\n- Thresholds: At least 3/5 on each criterion and 10/15 overall.\n- Ranking rules: Ties first favour uncovered topic aspects. The next criteria are impact then excellence.\n- Weighting: The impact score (the score for what the project is expected to achieve) has a 1.5 multiplier for ranking.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 28–29 · Evaluation procedure and ranking"
+          "answer": "Independent experts score three criteria out of 5; a proposal needs 3 on each and 10 in total, and Impact weighs 1.5 times in the ranking.\n- Evaluation criteria: Excellence (clear, ambitious objectives beyond the state of the art; sound methodology), Impact (credible pathways to the expected outcomes; dissemination and exploitation measures) and Quality and efficiency of the implementation (work plan, risks, resources, capacity of each partner)\n- Thresholds: at least 3 out of 5 for each criterion and 10 out of 15 overall\n- Weighting: for ranking, the Impact score counts 1.5 times\n- Ranking rules: equal scores are separated first by whether a proposal covers aspects of the call not covered by higher-ranked ones, then by the Impact score, then Excellence, then gender balance among lead researchers and geographical diversity\n- Budget assessment: the grant awarded may be lower than requested, and topic budgets may change by up to 20% after evaluation",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria, Scores and weighting, Two-stage calls\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 28–29 · F — Evaluation procedure and ranking, Budget flexibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 31 · G — Form of grant, funding rate and maximum grant amount"
         },
         {
           "title": "Conditional and exceptional requirements",
-          "answer": "Plan every wave and tidal deployment around an explicit decision with documented engineering, permits and a business plan.\n- Conditional — Before each deployment decision: Have the permits, detailed compliant engineering and business and implementation plans in place.\n- Recommended: Use relevant European ocean-energy research facilities where they suit the demonstrator.\n- Conditional — Satellite data or services: Use Copernicus for Earth observation and/or Galileo or the European Geostationary Navigation Overlay Service for satellite positioning, navigation or timing where the proposal uses the covered services.\n- Conditional — Consortium establishment: The destination excludes entities established in China from these Innovation Actions.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · Scope\nInnovative technologies and solutions to improve wave and tidal energy systems · Destination\nInnovative technologies and solutions to improve wave and tidal energy systems · Topic Q&A 100835"
+          "answer": "Cascade grants, the go/no-go gates, the Advisory Board and a 60-page limit are specific to this topic.\n- Exception — page limit: 60 pages instead of 40\n- Conditional — cascade grants: mandatory, as grants only, at most EUR 800,000 per third party, open to any public or private entity and with attention to EU geographical balance; the first breakthrough call in year 1\n- Conditional — demonstrations: permits, engineering plans and business plan in place before each go/no-go milestone\n- Conditional — Advisory Board: independent experts plus representatives of the SET Plan working group, the Clean Energy Transition Partnership and the European Commission\n- Conditional — satellite data: use Copernicus and/or Galileo/EGNOS if such data are used\n- Recommended: use European research infrastructures such as Marinerg-i and RISEnergy; liaise with the IEA Ocean Energy Systems programme",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 133–140 · HORIZON-CL5-2027-02-D3-09, Specific conditions; Structure; Governance of the project"
         }
       ]
     }

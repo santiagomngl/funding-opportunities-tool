@@ -7,38 +7,38 @@
         {
           "title": "What the call wants",
           "question": "What is the principal thing the project must develop, and which problem or need must it address?",
-          "answer": "Design and demonstrate efficient thermal management and waste-heat reuse for server rooms in buildings or small local data centres. Operators need ways to reuse heat that would otherwise be rejected.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 201–203 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 201–203 · Expected Outcome"
+          "answer": "Demonstrations of cost-effective cooling and waste-heat recovery for existing small IT rooms and edge data centres, with business cases for re-using the heat.\nThe sites are 100–500 kW. Edge data centres are small data centres close to users. Sites of this size fall outside the Energy Efficiency Directive recast, so most current efforts miss them. Proposals must address both points:\n- Demonstrate holistic thermal management and excess-heat recovery, optionally with heat storage or heat upgrading, re-used in the building or a nearby site; take the building envelope into account through simulation or digital twins; integrate with building automation, control and management systems; and place demonstrators in both a cold-climate and a warm-climate EU Member State or Associated Country\n- Develop business cases for heat recovery and re-use, for example for space heating or hot water in the building, a local district heating and cooling network, or another nearby user\nThe need originates with society and the ICT and building sectors: ICT energy use is expected to rise by about 50% this decade, and the Commission aims for climate-neutral, energy- and resource-efficient data centres by 2030.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 201–203 · HORIZON-CL5-2027-05-D4-06, Scope"
         },
         {
           "title": "Project impact",
           "question": "Which wider system outcomes and impacts must the project support?",
-          "answer": "Show how better cooling and heat reuse can cut energy use, make waste heat useful and make performance data easier for others to access.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 201–203 · Expected Outcome"
+          "answer": "Projects must contribute to two outcomes: open performance data and shared best practice, and new IT-room designs that valorise waste heat.\n- Improved open access to performance data, best practices and knowledge for owners and operators of IT infrastructure and for the IT and building sectors\n- New designs of IT rooms and small edge data centres that put waste heat to use through thermal management techniques, processes and tools\nThe wider aim is to cut energy and resource use across the ICT value chain in line with EU climate neutrality goals. The call sets no quantified targets.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 201–203 · HORIZON-CL5-2027-05-D4-06, Expected Outcome and Scope"
         },
         {
           "title": "Who it suits",
           "question": "Who may lead, which partners must take part, and how must the work be shared?",
-          "answer": "This suits building and small data-centre operators, cooling and controls suppliers, and local users of recovered heat. The group needs at least three independent grant recipients in different eligible countries, including one in a European Union Member State. Choose a lead from those recipients and include the organisations needed to integrate the heat recovery on site.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 201–203 · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 4–5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 201–203 · Specific conditions"
+          "answer": "Consortia of at least three independent organisations from three countries, with IT-room operators, building owners and heat-recovery specialists; there is no prescribed lead.\n- Lead: any beneficiary may coordinate; the call reserves the role for no organisation type\n- Composition: the general rule requires three independent legal entities, one in an EU Member State and two others in different Member States or countries associated with Horizon Europe (non-EU countries taking part in the programme); the call names no required partner types\n- Sites: demonstrators in at least one cold-climate and one warm-climate country\n- Exclusion: entities controlled by China or a Chinese legal entity are not eligible\n- Work split: none prescribed; as a lump sum grant, the budget is split over work packages in a detailed table\nThe call suits data-centre and IT-room operators, cooling and heat-pump suppliers, building automation companies, district-heating operators and building research institutes.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 201–203 · HORIZON-CL5-2027-05-D4-06, Specific conditions and Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 13, 36 · B — Consortium composition; IMPORTANT, Coordinator"
         },
         {
           "title": "Innovation",
           "question": "How new must the project be, and in what must it innovate?",
-          "answer": "Integrate commercially credible cooling and waste-heat recovery with the building or local heat user. The call expects a combined system and a business case for using the recovered heat.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 201–203 · Scope"
+          "answer": "The call asks to demonstrate state-of-the-art solutions, not to invent new ones: innovation lies in holistic, cost-effective integration in existing sites.\nThe innovation combines technology (thermal management, heat recovery, storage and upgrading), system integration with building automation and management systems, and business models for heat re-use.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 201–203 · HORIZON-CL5-2027-05-D4-06, Scope"
         },
         {
           "title": "Maturity",
           "question": "Which maturity level is expected at the start and end of the project?",
-          "answer": "The work should reach TRL 6–7 (technology readiness level: technology demonstrated in relevant or operational conditions) by project end. The call allows work to start at any maturity level.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 201–203 · Specific conditions"
+          "answer": "Activities are expected to reach TRL 6–7 by the end of the project and may start at any TRL.\nTRL 6 is technology demonstrated in a relevant environment; TRL 7 is a system prototype demonstrated in an operational environment.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 201–203 · HORIZON-CL5-2027-05-D4-06, Specific conditions, Technology Readiness Level\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · B — Technology Readiness Levels"
         },
         {
           "title": "Demonstration and integration of work",
           "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
-          "answer": "Demonstrate heat recovery at existing server rooms or small data centres using 100–500 kilowatts, in both warm and cold climates. Integrate it with building controls and demonstrate a use for the heat on site or nearby.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 201–203 · Scope"
+          "answer": "Demonstration in existing IT rooms or small edge data centres, in a cold and a warm climate, integrated with the building's systems.\nThe solutions must be integrated with building automation and control systems and with existing building management systems, improve self-assessment and self-optimisation, and enable further energy services. Recovered heat must be used in the building or a nearby site, such as a district heating and cooling network. Projects are encouraged to build synergies with the data-centre pilots of HORIZON-CL4-2027-04-DATA-09 on energy efficiency of AI data processing.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 201–203 · HORIZON-CL5-2027-05-D4-06, Scope"
         }
       ]
     },
@@ -49,8 +49,8 @@
         {
           "title": "Why it matters to TenneT",
           "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
-          "answer": "The pilots could change how small data centres use electricity and recover heat. The topic focuses on building systems and local heat use and sets out no transmission-operator work.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 201–203 · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 4–5, 11–13 · B — Eligibility"
+          "answer": "The call touches TenneT's congestion problem indirectly: more efficient small data centres and IT rooms use less electricity and could free grid capacity in congested areas.\nThis is our interpretation. TenneT contributed to the CERRE study on how data centres can become active grid assets; this call covers the heat side, not grid flexibility, and the sites are small (100–500 kW) and connected to distribution grids. TenneT cannot usefully take part itself: the call needs IT-room sites and heat users, and sets out no role for a transmission system operator.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 201–203 · HORIZON-CL5-2027-05-D4-06, Scope"
         }
       ]
     }
@@ -62,18 +62,18 @@
       "cards": [
         {
           "title": "Funding envelope",
-          "answer": "The Commission indicates EUR 15.75 million for small data-centre heat recovery. It expects 3 awards.\n- Grant request: around EUR 5.25 million per project. Different requests remain eligible.\n- Funding form: Lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 201–203 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 45 · Overview of this call\nThermal energy optimisation and waste heat recovery of high energy demand IT rooms in buildings or small edge data centres · Budget overview"
+          "answer": "About 3 projects of around EUR 5.25 million each are expected, within a topic budget of EUR 15.75 million.\n- Total project size: not stated\n- Grant request: around EUR 5.25 million per project, for the whole consortium; other amounts may be requested and selected\n- Funding form: lump sum (a fixed amount set from a detailed budget and paid against completed work packages rather than reported costs)\nFinal budgets may change by up to 20% after evaluation.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 44–46 · Call BATTERIES and ENERGY (HORIZON-CL5-2027-05), Overview of this call\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 201–203 · HORIZON-CL5-2027-05-D4-06, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 29 · F — Budget flexibility"
         },
         {
           "title": "Funding rate and co-financing",
-          "answer": "For-profit organisations can receive up to 70% towards small data-centre heat recovery. The rate is used to set the lump sum (a fixed grant paid for accepted work rather than reimbursing actual spending).\n- For-profit organisations: Up to 70% of eligible costs (project costs the grant rules allow), leaving at least 30% to cover.\n- Non-profit legal entities: Up to 100% of eligible costs (project costs the grant rules allow).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 201–203 · Specific conditions"
+          "answer": "Companies receive at most 70% of eligible costs; non-profit legal entities receive up to 100%.\n- For-profit organisations: up to 70% of eligible costs, so at least 30% must come from their own resources\n- Non-profit legal entities (for example universities and research organisations): up to 100% of eligible costs\n- Co-financing conditions: the call sets no rule on cash or in-kind co-financing beyond the funding rate; the remainder is simply not reimbursed\nGrants may not produce a profit: any surplus of revenue plus grant over costs is deducted from the final grant.\nFor lump sum grants the rate is applied when the lump sum is calculated and does not appear in the grant agreement.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, funding rate and maximum grant amount"
         },
         {
           "title": "Budget constraints",
-          "answer": null,
-          "sources": null
+          "answer": "The grant is a lump sum fixed from a detailed budget table, which must still follow the normal cost-eligibility rules.\n- Eligible costs: the detailed budget table must contain only costs that would be eligible under an actual-cost grant (personnel, subcontracting, purchases, other direct costs), because the lump sum must approximate the costs actually incurred\n- Overheads and VAT: indirect costs are included in the lump sum calculation at the standard 25% flat rate of direct costs (excluding subcontracting)\n- Subcontracting or equipment: purchases and subcontracting must give best value for money and be free of conflicts of interest; ineligible costs in the budget table can lead to a reduced grant, even late in the project\nPayment depends on completing the work packages, not on proving the costs.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, lump sum grant proposals\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 32 · G — Budget categories and cost eligibility rules"
         },
         {
           "title": "Cash flow and financial exposure",
@@ -88,18 +88,18 @@
       "cards": [
         {
           "title": "Application route",
-          "answer": "Apply for small data-centre heat recovery through the European Funding & Tenders Portal in one stage.\n- Full proposal: 15 September 2027 at 17:00 Brussels time. The technical proposal (Part B) is limited to 45 pages.\n- Opening: 5 May 2027.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 45 · Overview of this call\nThermal energy optimisation and waste heat recovery of high energy demand IT rooms in buildings or small edge data centres · General information\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents"
+          "answer": "One stage: full proposals are due by 15 September 2027, 17:00 Brussels time, through the EU Funding & Tenders Portal.\n- Stage 1 — Full proposal: 15 September 2027, 17:00 Brussels time; Part A online and Part B of at most 45 pages (the limit for lump sum innovation actions), with a detailed lump sum budget table\n- Opening: 5 May 2027\n- Additional procedure: none; the Commission may open the call up to one month earlier or later and delay the deadline by up to two months",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 44–46 · Call BATTERIES and ENERGY (HORIZON-CL5-2027-05), Overview of this call\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility, Page limits"
         },
         {
           "title": "Project window",
-          "answer": "The grant agreement (the contract setting the funded work and payment rules) sets the start date and duration for small data-centre heat recovery.\n- Required start: Work normally starts after the grant agreement is signed. A reasoned exception needs approval.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · Starting date & project duration"
+          "answer": "The call sets no duration or start date: both are fixed in the grant agreement.\n- Maximum duration: not set by the call; the grant agreement states the duration in months, and extensions are possible only exceptionally\n- Required start: normally after the grant agreement is signed; an earlier start is possible only exceptionally, for duly justified reasons and with the granting authority's agreement",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · G — Starting date & project duration"
         },
         {
           "title": "Decision and contracting",
-          "answer": null,
-          "sources": null
+          "answer": "Indicatively, the evaluation result comes about 5 months after the deadline and the grant agreement is signed about 8 months after it.\n- Funding decision: about 5 months after the deadline (indicative), around February 2028\n- Grant agreement: about 8 months after the deadline (indicative)\n- Conditions before starting: an invitation to grant preparation is not yet a funding commitment, since legal entity validation, financial capacity and exclusion checks follow; the partners must sign a written consortium agreement",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · F — Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 29 · F — No commitment to provide funding\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Consortium agreement"
         }
       ]
     },
@@ -109,18 +109,18 @@
       "cards": [
         {
           "title": "Mandatory submission package — pass/fail",
-          "answer": null,
-          "sources": null
+          "answer": "The proposal must be complete, submitted electronically before the deadline, and within the page limit; incomplete applications are rejected.\n- Application form: Part A (administrative data and a summary budget, filled in online) and Part B (the technical description, uploaded as a PDF) through the EU Funding & Tenders Portal, using the forms inside the submission system; Part B is limited to 45 pages\n- Budget: the summary budget in Part A and a detailed budget table, which is the basis for the lump sum\n- Mandatory annexes: a plan for the exploitation and dissemination of results, including communication activities, and the ethics self-assessment\n- Partner documents: the coordinator confirms at submission that it has the mandate to act for all applicants; every participant signs a declaration of honour before the grant is signed\n- Registration: every beneficiary, affiliated entity and associated partner needs a participant identification code (PIC, a number from the EU Participant Register) before submission; validation of beneficiaries follows at grant preparation\n- Parallel submission: none\n- Lump sum: the detailed budget table is mandatory and is used to fix the lump sum",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility, Page limits\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 5 · B — Entities eligible to participate\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · B — Ethics\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Registration"
         },
         {
           "title": "Evaluation and selection — scored or ranked",
-          "answer": null,
-          "sources": null
+          "answer": "Independent experts score three criteria out of 5; a proposal needs 3 on each and 10 in total, and Impact weighs 1.5 times in the ranking.\n- Evaluation criteria: Excellence (clear, ambitious objectives beyond the state of the art; sound methodology), Impact (credible pathways to the expected outcomes; dissemination and exploitation measures) and Quality and efficiency of the implementation (work plan, risks, resources, capacity of each partner)\n- Thresholds: at least 3 out of 5 for each criterion and 10 out of 15 overall\n- Weighting: for ranking, the Impact score counts 1.5 times\n- Ranking rules: equal scores are separated first by whether a proposal covers aspects of the call not covered by higher-ranked ones, then by the Impact score, then Excellence, then gender balance among lead researchers and geographical diversity\n- Budget assessment: the grant awarded may be lower than requested, and topic budgets may change by up to 20% after evaluation",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria, Scores and weighting, Two-stage calls\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 28–29 · F — Evaluation procedure and ranking, Budget flexibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 31 · G — Form of grant, funding rate and maximum grant amount"
         },
         {
           "title": "Conditional and exceptional requirements",
-          "answer": "The granting authority can restrict transfers of rights in the small data-centre heat-recovery results.\n- Conditional requirement: Screen beneficiary (organisations formally responsible for funded work) control and use Copernicus for Earth observation and/or Galileo or the European Geostationary Navigation Overlay Service for satellite positioning, navigation or timing if covered satellite data or services are used.\n- Exception — Transfer of results: The granting authority may object to a transfer of ownership or to exclusive licensing (giving another party sole rights to use the results) for up to four years after the project ends.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 201–203 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 201–203 · Scope"
+          "answer": "Demonstrators in two climate zones, the lump sum and the China-control restriction are specific to this topic.\n- Conditional — climate zones: demonstrators in both a cold-climate and a warm-climate Member State or Associated Country\n- Conditional — site size: existing IT rooms or small edge data centres of 100–500 kW\n- Exception — entities controlled by China: not eligible\n- Conditional — results transfer: the granting authority may object to transfers or exclusive licensing for 4 years after the project\n- Conditional — satellite data: use Copernicus and/or Galileo/EGNOS if such data are used\n- Recommended: synergies with the AI data-centre pilots of HORIZON-CL4-2027-04-DATA-09",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 201–203 · HORIZON-CL5-2027-05-D4-06, Specific conditions and Scope"
         }
       ]
     }

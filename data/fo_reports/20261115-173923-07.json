@@ -7,38 +7,38 @@
         {
           "title": "Central object",
           "question": "What is the principal thing the project must develop?",
-          "answer": "Develop and demonstrate more energy-efficient cooling, backup power, computing design or operations for artificial intelligence data centres.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · Scope\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · Expected Outcome"
+          "answer": "Pilots, with open demonstration sites, of new technologies that make AI data processing in data centres more energy-efficient and sustainable.\nProjects pick one or more of six development areas, from on-chip cooling to integrating data centres into energy-system planning and operation, and must set up open pilot sites that serve as European reference points for the data-centre industry.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · HORIZON-CL4-2027-04-DATA-09, Expected Outcome and Scope"
         },
         {
           "title": "Scope",
           "question": "Which activities fall within the funding opportunity's scope?",
-          "answer": "Choose at least one of six development areas and use open pilots to benchmark the work. Options are chip cooling, backup power and storage, computing loads and architecture, materials, data-centre operation, or integration into the electricity system and wider region.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · Scope\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · Specific conditions"
+          "answer": "Actions should address one or more of six development areas and must establish open pilot demonstration sites.\n- 1. Direct on-chip cooling and thermal management: direct liquid cooling, heat spreaders, thermal interface materials, advanced packaging, multi-scale thermal management\n- 2. Energy-efficient power backup and storage: early-stage concepts such as graphene-enhanced batteries, supercapacitors and other emerging chemistries, and net-zero backup\n- 3. Sustainable data-centre architectures and AI workload optimisation: AI-driven scheduling, adaptive power management, dynamic resource allocation, heat capture and reuse\n- 4. Materials for energy efficiency: applying existing research on new materials and components to data centres\n- 5. Optimising data-centre operation: AI for operation, computing architecture and virtualisation to minimise the carbon and environmental footprint\n- 6. Integration of data centres into energy systems and the wider region, including into energy-system planning and operation\n- Open pilot sites (mandatory): to test, integrate, demonstrate, benchmark and disseminate results to the data-centre and colocation industry, cloud providers and edge operators",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · HORIZON-CL4-2027-04-DATA-09, Scope"
         },
         {
           "title": "Problem",
           "question": "What type of problem or need must justify the project, and where must it originate?",
-          "answer": "Data-centre operators need to control the power and cooling demands of dense computing systems. The scope also covers electricity-system coordination where relevant to the chosen work.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · Scope\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · Expected Outcome"
+          "answer": "AI workloads make data centres hotter and more power-hungry; Europe needs efficient, sustainable AI processing for its climate goals and strategic autonomy.\nThe need originates with the data-centre industry and society: dense AI chips hit thermal limits, cooling and backup power consume energy, and data centres must fit European targets for carbon-neutral heating and cooling.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · HORIZON-CL4-2027-04-DATA-09, Expected Outcome"
         },
         {
           "title": "Deliverables",
           "question": "Which concrete outputs must the project produce?",
-          "answer": "Deliver open pilot sites, the selected prototypes or methods, and comparative results that industrial users can use to assess or replicate the changes.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · Scope\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · Expected Outcome"
+          "answer": "Demonstrated innovations in the chosen areas and open pilot demonstration sites that act as European reference points.\nDepending on the areas chosen:\n- demonstrated heat-removal innovations for high-power AI chips\n- prototypes of novel backup power systems with minimal cooling needs\n- methods and frameworks that optimise the whole data centre, including carbon-aware scheduling, power capping, renewables integration and waste-heat reuse\n- solutions that integrate data centres into energy-system planning and operation\n- open pilot sites with benchmarking and dissemination",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · HORIZON-CL4-2027-04-DATA-09, Expected Outcome and Scope"
         },
         {
           "title": "Impact",
           "question": "Which wider system outcomes and impacts must the project support?",
-          "answer": "Reduce the energy needed to run data centres processing artificial intelligence. The chosen area may also improve resilience, heat reuse or renewable and flexible operation.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · Expected Outcome"
+          "answer": "Projects should contribute to one or more of three outcomes: better chip cooling, low-cooling backup power, and whole-data-centre optimisation.\n- Heat removal from AI chips that enables higher performance without throttling, with lower cooling energy and higher reliability\n- Backup power systems with minimal cooling needs, improving resilience and better use of renewable power\n- Methods to optimise the whole data centre, such as carbon-aware job scheduling and power capping to cut energy demand and peak temperatures, plus integration of renewables and waste-heat reuse\nOutcomes should show potential for improved power usage effectiveness (the ratio of total facility energy to IT energy) and external use of waste heat. The call sets no quantified targets.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · HORIZON-CL4-2027-04-DATA-09, Expected Outcome"
         },
         {
           "title": "After the project",
           "question": "How must the result be replicated, taken up and kept in use after the project?",
-          "answer": "Use the open pilot sites as European reference points. The call encourages cooperation with the complementary European topic on heat recovery from small data centres.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · Scope\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · Expected Outcome"
+          "answer": "The open pilot sites must act as European reference points and models for technology uptake across the data-centre industry.\n- Sites showcase breakthroughs and benchmark results for the data-centre and colocation industry, cloud providers and edge operators\n- Synergies with projects under HORIZON-CL5-2027-05-D4-06 on waste heat from small IT rooms are encouraged\n- The granting authority may object, for up to 4 years after the project, to a transfer of ownership or exclusive licensing of results",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · HORIZON-CL4-2027-04-DATA-09, Specific conditions and Scope"
         }
       ]
     },
@@ -49,14 +49,14 @@
         {
           "title": "Number of partners",
           "question": "What is the permitted or required consortium size?",
-          "answer": "The proposal needs at least three independent funded partners in three different eligible countries. At least one must be established in a European Union Member State. The other two must be established in different Member States or countries associated with Horizon Europe (countries formally participating in the European research programme).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+          "answer": "At least three independent organisations from three different countries; the call sets no maximum.\nThe general rule requires, as beneficiaries (organisations that sign the grant agreement and receive funding), three legal entities independent of each other: at least one established in an EU Member State and two others each in a different Member State or country associated with Horizon Europe (non-EU countries taking part in the programme, such as Norway, Switzerland or the United Kingdom). Affiliated entities (organisations legally linked to a beneficiary) and associated partners (organisations taking part without funding) do not count towards this minimum.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · B — Eligibility, Consortium composition"
         },
         {
           "title": "Partner composition",
           "question": "Which types of partners must the consortium include?",
-          "answer": "Choose partners who can run open data-centre pilots and deliver the selected technical work. Availability of operators, hosting providers and industrial users matters for testing and uptake.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+          "answer": "The call names no required partner types; the pilot sites imply data-centre operators or owners.\nEntities established in an eligible country but directly or indirectly controlled by China or by a legal entity established in China are not eligible.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · HORIZON-CL4-2027-04-DATA-09, Specific conditions and Scope"
         },
         {
           "title": "Distribution of work",
@@ -67,8 +67,8 @@
         {
           "title": "Coordinator",
           "question": "What type of organisation may or must act as lead applicant?",
-          "answer": "The group appoints a funded partner to lead the work on efficient artificial intelligence data centres and represent it to the funder.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners"
+          "answer": "No type of organisation is prescribed: the beneficiaries choose one of themselves as coordinator.\nThe coordinator manages and coordinates the project and represents the consortium towards the granting authority (the European Commission or its agency). At submission it must confirm that it has the mandate to act for all applicants.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Coordinator\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, Submission"
         }
       ]
     },
@@ -79,26 +79,26 @@
         {
           "title": "Coordinate",
           "question": "Can TenneT apply or coordinate, and under which conditions?",
-          "answer": "TenneT could coordinate the project if it can test how data-centre operation integrates with electricity-system planning or operation. The applicants choose their coordinator (the funded partner that represents the group to the funder).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · Scope"
+          "answer": "Formally yes, but the project centres on data-centre technology; TenneT TSO B.V. would more naturally join for development area 6 than lead.\nAny eligible beneficiary may coordinate, and a Dutch entity is eligible. TenneT must not be controlled by China or a Chinese entity.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 11, 36 · B — Entities eligible for funding; IMPORTANT, Coordinator\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · HORIZON-CL4-2027-04-DATA-09, Specific conditions and Scope"
         },
         {
           "title": "Participate",
           "question": "Can TenneT take part without receiving funding?",
-          "answer": "TenneT could test how data-centre operation integrates with electricity-system planning or operation as an associated partner (an organisation that works without a grant). It would cover its own costs and would not count towards the minimum number of funded partners.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · Scope"
+          "answer": "Yes, as an associated partner, which takes part without funding and bears its own costs.\nAn associated partner does not sign the grant agreement, cannot charge costs, does not need legal validation and does not count towards the minimum of three beneficiaries from three countries. It must still register in the Participant Register before the application is submitted.\nFor area 6, TenneT could provide grid-planning input as an associated partner.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 5 · B — Eligibility, Associated partners\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Registration, Consortium roles and Associated partners\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · HORIZON-CL4-2027-04-DATA-09"
         },
         {
           "title": "Receive funding",
           "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
-          "answer": "TenneT can receive up to 70% of eligible costs (project costs the grant rules allow) for qualifying work. The Dutch entity could test how data-centre operation integrates with electricity-system planning or operation. Budget at least 30% of those costs from other resources. The topic excludes organisations directly or indirectly controlled by China or by a legal entity established there.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · Scope"
+          "answer": "Yes: as a beneficiary TenneT can receive up to 70% of its eligible costs; it must fund the rest itself.\nThis topic is an innovation action (a project that develops, pilots and demonstrates new or improved solutions close to the market), for which the maximum rate is 70% for organisations other than non-profit legal entities. The grant reimburses costs actually incurred plus a 25% flat rate for indirect costs. The expected EU contribution is EUR 9–10 million per project, for the whole consortium. The call sets no Dutch national rules.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, funding rate and maximum grant amount, Budget categories\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · HORIZON-CL4-2027-04-DATA-09, Specific conditions"
         },
         {
           "title": "TenneT's likely contribution",
           "question": "What contribution would make TenneT credible and useful within the project?",
-          "answer": "TenneT could test how changes in when computing runs affect electricity demand and congestion. An open pilot would need the data-centre operator’s participation.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · Scope"
+          "answer": "Under development area 6, TenneT could work on integrating data centres into grid planning and operation, for example grid-aware workload shifting and flexible connections.\nThis is our interpretation. TenneT contributed to the CERRE study on data centres as active grid assets, and its time-dependent transmission rights, as in the Lion Storage contract, show how flexible access can relieve congestion. Power capping and carbon-aware scheduling could become flexibility services, and data-centre backup storage could support balancing through ARTeMIS. The other five areas are data-centre internals with no TenneT role.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · HORIZON-CL4-2027-04-DATA-09, Scope"
         }
       ]
     },
@@ -109,26 +109,26 @@
         {
           "title": "Innovation threshold",
           "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
-          "answer": "Both new components and better integration of existing research can qualify. The chosen development area should lead to measurable improvements at an open demonstration site.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · Scope"
+          "answer": "The project must pilot new technologies and methods; area 4 may apply existing materials research to data centres.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · HORIZON-CL4-2027-04-DATA-09, Expected Outcome and Scope"
         },
         {
           "title": "Innovation object",
           "question": "In what must the project innovate?",
-          "answer": "Innovation may be in chip cooling, resilient backup power, materials, computing design or how a centre coordinates electricity, cooling and computing workloads.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · Scope"
+          "answer": "Depending on the area: technology (cooling, storage, materials), system architecture and operational methods (workload scheduling, power management), or system integration with energy networks.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · HORIZON-CL4-2027-04-DATA-09, Scope"
         },
         {
           "title": "Development stages",
           "question": "Which development stages must the project cover?",
-          "answer": "Develop the selected technology or operating approach, then integrate, demonstrate and benchmark it at open pilot sites.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · Scope"
+          "answer": "Piloting and demonstration at open sites, with benchmarking and dissemination for uptake.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · HORIZON-CL4-2027-04-DATA-09, Expected Outcome and Scope"
         },
         {
           "title": "Maturity",
           "question": "Which maturity level is expected at the start and end of the project?",
-          "answer": "The work should reach TRL 8 (technology readiness level: a complete, qualified system) by project end. The work is expected to start at TRL 6–7 (technology readiness level: technology demonstrated in relevant or operational conditions).",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · Specific conditions"
+          "answer": "Activities are expected to start at TRL 6–7 and reach TRL 8 by the end of the project.\nTRL 6–7 is technology demonstrated in a relevant environment up to a prototype in an operational environment; TRL 8 is a complete and qualified system. Unlike most topics, a starting level is set, so early-stage ideas do not fit, even though area 2 speaks of early-stage storage concepts.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · HORIZON-CL4-2027-04-DATA-09, Specific conditions, Technology Readiness Level\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · B — Technology Readiness Levels"
         }
       ]
     },
@@ -139,32 +139,32 @@
         {
           "title": "Demonstration",
           "question": "Where and under which conditions must the solution be demonstrated?",
-          "answer": "Establish open pilots where the selected tools or equipment can be tested and integrated. Use the pilots to demonstrate and share benchmark evidence with relevant industrial users.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · Scope\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · Specific conditions"
+          "answer": "Open pilot demonstration sites are mandatory: they test and integrate results and demonstrate, benchmark and disseminate them to industry.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · HORIZON-CL4-2027-04-DATA-09, Scope"
         },
         {
           "title": "Integration",
           "question": "How must the activities fit together and with existing systems?",
-          "answer": "Use open pilot sites to connect research results with data-centre operations. Selected areas can integrate cooling, power, models and information that supports energy-system planning.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · Scope"
+          "answer": "Results must be integrated at the pilot sites; area 6 also integrates data centres into energy-system planning and operation and the wider region.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · HORIZON-CL4-2027-04-DATA-09, Scope"
         },
         {
           "title": "Evidence",
           "question": "What must the demonstration prove?",
-          "answer": "Benchmark improvements in the selected development area. Depending on the route, compare heat removal, energy use, backup reliability or the performance of whole-centre controls.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · Scope\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · Expected Outcome"
+          "answer": "Outcomes should show potential for improved power usage effectiveness and use of waste heat in external applications; the pilot sites must benchmark results.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · HORIZON-CL4-2027-04-DATA-09, Expected Outcome and Scope"
         },
         {
           "title": "User participation",
           "question": "How must users take part in the project?",
-          "answer": "Open the pilots to relevant data-centre operators, shared hosting providers, cloud providers and local computing operators so they can learn from the tests.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · Scope"
+          "answer": null,
+          "sources": null
         },
         {
           "title": "Safety and cybersecurity",
           "question": "Which safety, cybersecurity or data requirements must the project meet?",
-          "answer": null,
-          "sources": null
+          "answer": "The call sets no cybersecurity requirement; it excludes Chinese-controlled entities and adds an ownership-transfer safeguard.\n- Control restriction: entities controlled by China or a Chinese legal entity are not eligible\n- Results: the granting authority may object to transfer or exclusive licensing of results for up to 4 years\n- Resilience: backup power innovations should improve data-centre resilience",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · HORIZON-CL4-2027-04-DATA-09, Specific conditions and Expected Outcome"
         }
       ]
     }
@@ -176,23 +176,23 @@
       "cards": [
         {
           "title": "Funding envelope",
-          "answer": "The Commission indicates EUR 39 million for efficient artificial intelligence data centres. It expects 4 awards.\n- Grant request: EUR 9–10 million per project. Different requests remain eligible.\n- Funding form: Budget-based grant (paid using approved costs or rates for the funded work).",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · p. 31 · Overview of this call\nEnergy efficiency and sustainability of AI data processing in Data Centres (IA) · Budget overview"
+          "answer": "About 4 projects of EUR 9–10 million each are expected, within a topic budget of EUR 39 million.\n- Total project size: not stated\n- Grant request: EUR 9–10 million per project, for the whole consortium; other amounts may be requested and selected\n- Funding form: actual-cost grant with a 25% flat rate for indirect costs\nFinal budgets may change by up to 20% after evaluation.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 31–32 · Call DIGITAL (HORIZON-CL4-2027-04), Overview of this call\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · HORIZON-CL4-2027-04-DATA-09, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 29 · F — Budget flexibility"
         },
         {
           "title": "Funding rate and co-financing",
-          "answer": "For-profit organisations can receive up to 70% towards efficient artificial intelligence data centres.\n- For-profit organisations: Up to 70% of eligible costs (project costs the grant rules allow), leaving at least 30% to cover.\n- Non-profit legal entities: Up to 100% of eligible costs (project costs the grant rules allow).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · Specific conditions"
+          "answer": "Companies such as TenneT receive at most 70% of eligible costs; non-profit legal entities receive up to 100%.\n- For-profit organisations: up to 70% of eligible costs, so at least 30% must come from their own resources\n- Non-profit legal entities (for example universities and research organisations): up to 100% of eligible costs\n- Co-financing conditions: the call sets no rule on cash or in-kind co-financing beyond the funding rate; the remainder is simply not reimbursed\nGrants may not produce a profit: any surplus of revenue plus grant over costs is deducted from the final grant.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, funding rate and maximum grant amount"
         },
         {
           "title": "Budget constraints",
-          "answer": "Plan the budget for efficient artificial intelligence data centres using the cost categories allowed by the grant. The grant agreement (the contract setting the funded work and payment rules) specifies how those costs can be claimed.\n- Eligible costs (project costs the grant rules allow): Staff, purchases and subcontracting.\n- Overheads and value added tax (tax on purchases): A 25% flat rate (a set percentage applied to qualifying costs) applies to the eligible direct cost base with the scheduled exclusions.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 32 · Budget categories and cost eligibility rules\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · Specific conditions"
+          "answer": "The grant reimburses only eligible costs actually incurred, plus a flat 25% for indirect costs; subcontracting should stay a limited part.\n- Eligible costs: personnel, subcontracting and purchase costs (equipment, travel, other goods and services), plus personnel unit costs where the beneficiary uses them\n- Overheads and VAT: indirect costs are a flat rate of 25% of eligible direct costs, excluding subcontracting and financial support to third parties\n- Subcontracting or equipment: subcontracting should normally be a limited part of the project and be done by third parties, not by beneficiaries; purchases must give best value for money\nBudgeted costs are not paid as such: only the costs actually incurred are reimbursed.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, Budget categories and cost eligibility rules\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Consortium roles"
         },
         {
           "title": "Cash flow and financial exposure",
-          "answer": "Plan cash flow for efficient artificial intelligence data centres around the initial advance and later payments.\n- Payment model: Normally pre-financing (an advance at the start of the grant) followed by periodic payments and the final balance.\n- Retention or guarantee: 5–8% of the maximum grant is deducted from pre-financing for mutual insurance.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 33 · Reporting & payment arrangements"
+          "answer": "Partners normally receive a large advance after signing, minus a 5–8% contribution to a shared insurance fund, then interim payments.\n- Payment model: pre-financing (an advance) of normally 160% of the average EU funding per reporting period, then interim payments linked to periodic reports, and a final payment after the final report fixes the grant\n- Retention or guarantee: 5% to 8% of the maximum grant is deducted from the pre-financing and paid into the mutual insurance mechanism (a fund covering sums that cannot be recovered from beneficiaries)\n- Financial reporting or audit: depending on grant size and type of beneficiary, a certificate on the financial statements may be required; each beneficiary is liable only for its own debts",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 32–33 · G — Reporting & payment arrangements, Certificates, Liability regime for recoveries"
         }
       ]
     },
@@ -202,18 +202,18 @@
       "cards": [
         {
           "title": "Application route",
-          "answer": "Apply for efficient artificial intelligence data centres through the European Funding & Tenders Portal in one stage.\n- Full proposal: 18 March 2027 at 17:00 Brussels time. The technical proposal (Part B) is limited to 40 pages.\n- Opening: 17 November 2026.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · p. 31 · Overview of this call\nEnergy efficiency and sustainability of AI data processing in Data Centres (IA) · General information\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents"
+          "answer": "One stage: the call opened on 17 November 2026 and full proposals are due by 18 March 2027, 17:00 Brussels time, through the EU Funding & Tenders Portal.\n- Stage 1 — Full proposal: 18 March 2027, 17:00 Brussels time; Part A online and Part B of at most 40 pages\n- Opening: 17 November 2026\n- Additional procedure: none; the Commission may delay the deadline by up to two months",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 31–32 · Call DIGITAL (HORIZON-CL4-2027-04), Overview of this call\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility, Page limits"
         },
         {
           "title": "Project window",
-          "answer": "The grant agreement (the contract setting the funded work and payment rules) sets the start date and duration for efficient artificial intelligence data centres.\n- Required start: Work normally starts after the grant agreement is signed. A reasoned exception needs approval.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · Starting date & project duration"
+          "answer": "The call sets no duration or start date: both are fixed in the grant agreement.\n- Maximum duration: not set by the call; the grant agreement states the duration in months, and extensions are possible only exceptionally\n- Required start: normally after the grant agreement is signed; an earlier start is possible only exceptionally, for duly justified reasons and with the granting authority's agreement",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · G — Starting date & project duration"
         },
         {
           "title": "Decision and contracting",
-          "answer": "The Commission’s timetable for assessing and contracting efficient artificial intelligence data centres is indicative.\n- Expected invitation or assessment result: Around 5 months from the full-proposal deadline.\n- Grant agreement (the contract setting the funded work and payment rules): Around 8 months from the full-proposal deadline.\n- Conditions before starting: Beneficiaries (organisations formally responsible for funded work) must conclude a written consortium agreement (the partners’ written agreement on how the project will run).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium agreement"
+          "answer": "Indicatively, the evaluation result comes about 5 months after the deadline and the grant agreement is signed about 8 months after it.\n- Funding decision: about 5 months after the deadline (indicative), around August 2027\n- Grant agreement: about 8 months after the deadline (indicative)\n- Conditions before starting: an invitation to grant preparation is not yet a funding commitment, since legal entity validation, financial capacity and exclusion checks follow; the partners must sign a written consortium agreement",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · F — Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 29 · F — No commitment to provide funding\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Consortium agreement"
         }
       ]
     },
@@ -223,18 +223,18 @@
       "cards": [
         {
           "title": "Mandatory submission package — pass/fail",
-          "answer": "Use the portal’s forms to submit the proposal and supporting documents for efficient artificial intelligence data centres.\n- Application form: Complete Part A in the Portal and attach Part B and mandatory annexes.\n- Registration: Beneficiaries (organisations formally responsible for funded work) and affiliated entities (organisations legally linked to funded partners) need participant identification codes (organisation registration numbers).\n- Partner documents: The coordinator confirms its authority to act for the applicant group.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 4–5, 11–13 · B — Eligibility"
+          "answer": "The proposal must be complete, submitted electronically before the deadline, and within the page limit; incomplete applications are rejected.\n- Application form: Part A (administrative data and a summary budget, filled in online) and Part B (the technical description, uploaded as a PDF) through the EU Funding & Tenders Portal, using the forms inside the submission system; Part B is limited to 40 pages\n- Budget: the summary budget in Part A\n- Mandatory annexes: a plan for the exploitation and dissemination of results, including communication activities, and the ethics self-assessment\n- Partner documents: the coordinator confirms at submission that it has the mandate to act for all applicants; every participant signs a declaration of honour before the grant is signed\n- Registration: every beneficiary, affiliated entity and associated partner needs a participant identification code (PIC, a number from the EU Participant Register) before submission; validation of beneficiaries follows at grant preparation\n- Parallel submission: none",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility, Page limits\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 5 · B — Entities eligible to participate\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · B — Ethics\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Registration"
         },
         {
           "title": "Evaluation and selection — scored or ranked",
-          "answer": "Efficient artificial intelligence data centres proposals compete on research quality, impact and the quality of the delivery plan.\n- Full proposal: Excellence, impact and implementation are scored. Each criterion needs 3/5 and the total needs 10/15.\n- Impact is weighted by 1.5 in Innovation Action (a grant for developing and demonstrating new solutions) full-proposal ranking.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria"
+          "answer": "Independent experts score three criteria out of 5; a proposal needs 3 on each and 10 in total, and Impact weighs 1.5 times in the ranking.\n- Evaluation criteria: Excellence (clear, ambitious objectives beyond the state of the art; sound methodology), Impact (credible pathways to the expected outcomes; dissemination and exploitation measures) and Quality and efficiency of the implementation (work plan, risks, resources, capacity of each partner)\n- Thresholds: at least 3 out of 5 for each criterion and 10 out of 15 overall\n- Weighting: for ranking, the Impact score counts 1.5 times\n- Ranking rules: equal scores are separated first by whether a proposal covers aspects of the call not covered by higher-ranked ones, then by the Impact score, then Excellence, then gender balance among lead researchers and geographical diversity\n- Budget assessment: the grant awarded may be lower than requested, and topic budgets may change by up to 20% after evaluation",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria, Scores and weighting, Two-stage calls\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 28–29 · F — Evaluation procedure and ranking, Budget flexibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 31 · G — Form of grant, funding rate and maximum grant amount"
         },
         {
           "title": "Conditional and exceptional requirements",
-          "answer": "Check the data-centre call’s ownership and control conditions before forming the consortium.\n- Conditional requirement: Control restriction: Entities directly or indirectly controlled by China or a China-established entity are ineligible.\n- Exception — Transfer of results: The granting authority may object to a transfer of ownership or to exclusive licensing (giving another party sole rights to use the results) for up to four years after the project ends.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · Scope"
+          "answer": "Open pilot sites, a fixed starting maturity, the China-control restriction and the ownership safeguard apply in addition to the general rules.\n- Conditional — pilot sites: open demonstration sites are required\n- Conditional — maturity: activities start at TRL 6–7\n- Exception — entities controlled by China: not eligible\n- Conditional — results transfer: the granting authority may object to transfers or exclusive licensing for 4 years after the project\n- Recommended: synergies with HORIZON-CL5-2027-05-D4-06",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 121–123 · HORIZON-CL4-2027-04-DATA-09, Specific conditions and Scope"
         }
       ]
     }

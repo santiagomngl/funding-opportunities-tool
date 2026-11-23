@@ -7,38 +7,38 @@
         {
           "title": "What the call wants",
           "question": "What is the principal thing the project must develop, and which problem or need must it address?",
-          "answer": "Improve existing industrial recycling processes so they can handle mixed battery inputs and recover more valuable materials.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 96–98 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 96–98 · Expected Outcome"
+          "answer": "Innovations that make existing industrial battery-recycling processes more adaptable, flexible and efficient, recovering high-purity battery-grade materials from mixed lithium-ion feedstocks.\nFeedstocks include production scrap and different lithium-ion chemistries, possibly in the same batch. Black mass is the shredded powder of battery cells from which metals are recovered. Proposals are expected to address all of the following:\n- develop and demonstrate recycling technologies for feedstocks of variable composition\n- optimise hydrometallurgical and/or pyrometallurgical processes (chemical leaching or high-temperature smelting) to recover critical raw metals, at least meeting the EU Batteries Regulation's recovery requirements\n- carry out detailed techno-economic and life-cycle assessments showing significant gains in energy efficiency, CO2 and ecological footprint and economic viability\n- where required, include robust digitalised sorting and other advanced pre-treatment\nThe need originates with European industry: reducing dependence on imported raw materials and meeting the Batteries Regulation's targets.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 96–98 · HORIZON-CL5-2027-02-D2-05, Expected Outcome and Scope"
         },
         {
           "title": "Project impact",
           "question": "Which wider system outcomes and impacts must the project support?",
-          "answer": "Recover critical materials more efficiently, reduce reliance on imports and meet recovery and sustainability requirements under the European Batteries Regulation.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 96–98 · Expected Outcome"
+          "answer": "Projects must contribute to all four outcomes: cheaper, more efficient recycling, flexible handling of diverse feedstocks, less dependence on imported raw materials, and compliance with the Batteries Regulation.\n- Better cost and recovery efficiency of existing scaled recycling technologies\n- Demonstrated solutions that efficiently recycle diverse feedstocks, including production scrap and mixed lithium-ion chemistries\n- Improved European competitiveness through less dependence on imported raw materials\n- Demonstrable compliance with the EU Batteries Regulation's targets, including recycling efficiency and material recovery rates\nRecovered materials should be suitable for reintroduction into the European battery manufacturing value chain.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 96–98 · HORIZON-CL5-2027-02-D2-05, Expected Outcome and Scope"
         },
         {
           "title": "Who it suits",
           "question": "Who may lead, which partners must take part, and how must the work be shared?",
-          "answer": "This suits battery recyclers, separation and process-equipment firms, and research organisations with access to an operating recycling process. The group needs three independent grant recipients in different eligible countries, including one in a European Union Member State. An eligible recipient coordinates. Control by China or by an entity based there prevents participation.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 96–98 · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 4–5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 96–98 · Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners"
+          "answer": "Consortia of at least three independent organisations from three countries, led in practice by recyclers and process technology companies; there is no prescribed lead.\n- Lead: any beneficiary may coordinate; the call reserves the role for no organisation type\n- Composition: the general rule requires three independent legal entities, one in an EU Member State and two others in different Member States or countries associated with Horizon Europe (non-EU countries taking part in the programme); the call names no required partner types\n- Joint Research Centre: the European Commission's science service may join after selection, as a zero-funding beneficiary or associated partner, for circularity and sustainability aspects\n- Exclusion: entities controlled by China or a Chinese legal entity are not eligible\nThe call suits battery recyclers, metallurgical and chemical process companies, sorting-technology suppliers, battery manufacturers and research institutes.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 96–98 · HORIZON-CL5-2027-02-D2-05, Specific conditions and Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 13, 36 · B — Consortium composition; IMPORTANT, Coordinator"
         },
         {
           "title": "Innovation",
           "question": "How new must the project be, and in what must it innovate?",
-          "answer": "Demonstrate technical innovations in processing mixed battery materials. The call specifically targets improvements to scaled recycling technologies and processing of black mass (the powder from shredded cells).",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 96–98 · Scope"
+          "answer": "The project must show clear technical innovations in black mass processing and mixed-feedstock handling, improving existing scaled processes.\nThe innovation is in process technology, with digital sorting where needed, supported by techno-economic and life-cycle assessment.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 96–98 · HORIZON-CL5-2027-02-D2-05, Scope"
         },
         {
           "title": "Maturity",
           "question": "Which maturity level is expected at the start and end of the project?",
-          "answer": "The work should reach TRL 6–7 (technology readiness level: technology demonstrated in relevant or operational conditions) by project end. The call allows work to start at any maturity level.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 96–98 · Specific conditions"
+          "answer": "Activities are expected to reach TRL 6–7 by the end of the project and may start at any TRL.\nTRL 6 is technology demonstrated in a relevant environment; TRL 7 is a system prototype demonstrated in an operational environment.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 96–98 · HORIZON-CL5-2027-02-D2-05, Specific conditions, Technology Readiness Level\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · B — Technology Readiness Levels"
         },
         {
           "title": "Demonstration and integration of work",
           "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
-          "answer": "Demonstrate recovery on variable input streams within an existing industrial process. Compare output quality, material recovery, costs and environmental performance.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 96–98 · Scope"
+          "answer": "Recycling technologies must be developed and demonstrated, in practice at existing scaled recycling plants, handling variable feedstocks possibly within one batch.\nThe recovered materials must fit back into the European battery manufacturing value chain. The Safe and Sustainable by Design framework (an EU framework for safer and more sustainable chemicals and materials) should be used as reference.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 96–98 · HORIZON-CL5-2027-02-D2-05, Expected Outcome and Scope"
         }
       ]
     },
@@ -49,8 +49,8 @@
         {
           "title": "Why it matters to TenneT",
           "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
-          "answer": "More dependable recovery of critical battery materials could lower supply risks for storage suppliers. The topic funds industrial recycling and sets out no transmission-operator work.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 96–98 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 96–98 · Specific conditions"
+          "answer": "Affordable, European-sourced battery materials support the supply of grid-scale storage, which TenneT relies on for flexibility and congestion relief.\nThis is our interpretation. TenneT works with battery operators, for example through the time-dependent transmission rights contract with Lion Storage, and a more resilient battery supply chain helps storage projects grow. The effect is indirect. TenneT cannot usefully take part: the call funds recycling processes and plants and sets out no role for a transmission system operator.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 96–98 · HORIZON-CL5-2027-02-D2-05, Expected Outcome"
         }
       ]
     }
@@ -62,18 +62,18 @@
       "cards": [
         {
           "title": "Funding envelope",
-          "answer": "The Commission indicates EUR 18.8 million for industrial battery recycling. It expects 2 awards.\n- Grant request: around EUR 9.4 million per project is indicative. The Commission can select a different request.\n- Funding form: Budget-based grant (paid using approved costs or rates for the funded work).",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 96–98 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 39 · Overview of this call\nImprovement of Adaptability, Flexibility and Efficiency of Existing Recycling Processes (BATT4EU Partnership) · Budget overview"
+          "answer": "About 2 projects of around EUR 9.4 million each are expected, within a topic budget of EUR 18.8 million.\n- Total project size: not stated\n- Grant request: around EUR 9.4 million per project, for the whole consortium; other amounts may be requested and selected\n- Funding form: actual-cost grant (reimburses eligible costs actually incurred) with a 25% flat rate for indirect costs\nFinal budgets may change by up to 20% after evaluation.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 38–40 · Call BATTERIES and ENERGY (HORIZON-CL5-2027-02), Overview of this call\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 96–98 · HORIZON-CL5-2027-02-D2-05, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 29, 31 · F — Budget flexibility; G — Form of grant"
         },
         {
           "title": "Funding rate and co-financing",
-          "answer": "For-profit organisations can receive up to 70% towards industrial battery recycling.\n- For-profit organisations: Up to 70% of eligible costs (project costs the grant rules allow), leaving at least 30% to cover.\n- Non-profit legal entities: Up to 100% of eligible costs (project costs the grant rules allow).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 96–98 · Specific conditions"
+          "answer": "Companies receive at most 70% of eligible costs; non-profit legal entities receive up to 100%.\n- For-profit organisations: up to 70% of eligible costs, so at least 30% must come from their own resources\n- Non-profit legal entities (for example universities and research organisations): up to 100% of eligible costs\n- Co-financing conditions: the call sets no rule on cash or in-kind co-financing beyond the funding rate; the remainder is simply not reimbursed\nGrants may not produce a profit: any surplus of revenue plus grant over costs is deducted from the final grant.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, funding rate and maximum grant amount"
         },
         {
           "title": "Budget constraints",
-          "answer": null,
-          "sources": null
+          "answer": "The grant reimburses only eligible costs actually incurred, plus a flat 25% for indirect costs; subcontracting should stay a limited part.\n- Eligible costs: personnel, subcontracting and purchase costs (equipment, travel, other goods and services), plus personnel unit costs where the beneficiary uses them\n- Overheads and VAT: indirect costs are a flat rate of 25% of eligible direct costs, excluding subcontracting and financial support to third parties\n- Subcontracting or equipment: subcontracting should normally be a limited part of the project and be done by third parties, not by beneficiaries; purchases must give best value for money\nBudgeted costs are not paid as such: only the costs actually incurred are reimbursed.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, Budget categories and cost eligibility rules\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Consortium roles"
         },
         {
           "title": "Cash flow and financial exposure",
@@ -88,18 +88,18 @@
       "cards": [
         {
           "title": "Application route",
-          "answer": "Apply for industrial battery recycling through the European Funding & Tenders Portal in one stage.\n- Full proposal: 31 March 2027, 17:00 Brussels time. Submit Part A (online administration form) and Part B (technical proposal). Part B is limited to 40 pages.\n- Opening: 3 December 2026.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 39 · Overview of this call\nImprovement of Adaptability, Flexibility and Efficiency of Existing Recycling Processes (BATT4EU Partnership) · General information\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 4 · Page limits\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents"
+          "answer": "One stage: full proposals are due by 31 March 2027, 17:00 Brussels time, through the EU Funding & Tenders Portal.\n- Stage 1 — Full proposal: 31 March 2027, 17:00 Brussels time; Part A online and Part B of at most 40 pages\n- Opening: 3 December 2026\n- Additional procedure: none; the Commission may open the call up to one month earlier or later and delay the deadline by up to two months",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 38–40 · Call BATTERIES and ENERGY (HORIZON-CL5-2027-02), Overview of this call\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility, Page limits"
         },
         {
           "title": "Project window",
-          "answer": "The grant agreement (the contract setting the funded work and payment rules) sets the start date and duration for industrial battery recycling.\n- Required start: Work normally starts after the grant agreement is signed. A reasoned exception needs approval.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · Starting date & project duration\nHorizon Europe Model Grant Agreement · p. 21 · Article 4 — Duration and starting date\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 96–98 · Specific conditions"
+          "answer": "The call sets no duration or start date: both are fixed in the grant agreement.\n- Maximum duration: not set by the call; the grant agreement states the duration in months, and extensions are possible only exceptionally\n- Required start: normally after the grant agreement is signed; an earlier start is possible only exceptionally, for duly justified reasons and with the granting authority's agreement",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · G — Starting date & project duration"
         },
         {
           "title": "Decision and contracting",
-          "answer": null,
-          "sources": null
+          "answer": "Indicatively, the evaluation result comes about 5 months after the deadline and the grant agreement is signed about 8 months after it.\n- Funding decision: about 5 months after the deadline (indicative), around August 2027\n- Grant agreement: about 8 months after the deadline (indicative)\n- Conditions before starting: an invitation to grant preparation is not yet a funding commitment, since legal entity validation, financial capacity and exclusion checks follow; the partners must sign a written consortium agreement",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · F — Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 29 · F — No commitment to provide funding\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Consortium agreement"
         }
       ]
     },
@@ -109,18 +109,18 @@
       "cards": [
         {
           "title": "Mandatory submission package — pass/fail",
-          "answer": null,
-          "sources": null
+          "answer": "The proposal must be complete, submitted electronically before the deadline, and within the page limit; incomplete applications are rejected.\n- Application form: Part A (administrative data and a summary budget, filled in online) and Part B (the technical description, uploaded as a PDF) through the EU Funding & Tenders Portal, using the forms inside the submission system; Part B is limited to 40 pages\n- Budget: the summary budget in Part A\n- Mandatory annexes: a plan for the exploitation and dissemination of results, including communication activities, and the ethics self-assessment\n- Partner documents: the coordinator confirms at submission that it has the mandate to act for all applicants; every participant signs a declaration of honour before the grant is signed\n- Registration: every beneficiary, affiliated entity and associated partner needs a participant identification code (PIC, a number from the EU Participant Register) before submission; validation of beneficiaries follows at grant preparation\n- Parallel submission: none\n- Exploitation plan: for a product or service, preliminary plans for scalability, commercialisation and deployment, naming possible funding sources such as the Innovation Fund",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility, Page limits\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 5 · B — Entities eligible to participate\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · B — Ethics\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Registration\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 96–98 · HORIZON-CL5-2027-02-D2-05, Scope"
         },
         {
           "title": "Evaluation and selection — scored or ranked",
-          "answer": null,
-          "sources": null
+          "answer": "Independent experts score three criteria out of 5; a proposal needs 3 on each and 10 in total, and Impact weighs 1.5 times in the ranking.\n- Evaluation criteria: Excellence (clear, ambitious objectives beyond the state of the art; sound methodology), Impact (credible pathways to the expected outcomes; dissemination and exploitation measures) and Quality and efficiency of the implementation (work plan, risks, resources, capacity of each partner)\n- Thresholds: at least 3 out of 5 for each criterion and 10 out of 15 overall\n- Weighting: for ranking, the Impact score counts 1.5 times\n- Ranking rules: equal scores are separated first by whether a proposal covers aspects of the call not covered by higher-ranked ones, then by the Impact score, then Excellence, then gender balance among lead researchers and geographical diversity\n- Budget assessment: the grant awarded may be lower than requested, and topic budgets may change by up to 20% after evaluation",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria, Scores and weighting, Two-stage calls\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 28–29 · F — Evaluation procedure and ranking, Budget flexibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 31 · G — Form of grant, funding rate and maximum grant amount"
         },
         {
           "title": "Conditional and exceptional requirements",
-          "answer": "The battery recycling call has conditions on controlling interests and commercial use of results.\n- Conditional — Commercial exploitation: If marketing a product, process or service, the exploitation plan must include a strategy for that use.\n- Conditional — Satellite services: Use Copernicus for Earth observation and/or Galileo or the European Geostationary Navigation Overlay Service for satellite positioning, navigation or timing when using satellite-based Earth observation, positioning, navigation or timing.\n- Expected: Report results to the European Partnership on Batteries (the European industry and research initiative) partnership for monitoring of its performance indicators.\n- Exception — Results transfers: The granting authority may object to transfers or exclusive licences (giving another party sole rights to use the results) of results for up to four years after project end.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 96–98 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 96–98 · Scope"
+          "answer": "The China-control restriction, the ownership safeguard, the possible JRC role and partnership reporting apply in addition to the general rules.\n- Exception — entities controlled by China: not eligible\n- Exception — Joint Research Centre: may join after selection without taking part in the proposal\n- Conditional — results transfer: the granting authority may object to transfers or exclusive licensing for 4 years after the project\n- Conditional — partnership reporting: report results to the European Partnership on Batteries (Batt4EU)\n- Conditional — satellite data: use Copernicus and/or Galileo/EGNOS if such data are used\n- Recommended: use the Safe and Sustainable by Design framework",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 96–98 · HORIZON-CL5-2027-02-D2-05, Specific conditions and Scope"
         }
       ]
     }

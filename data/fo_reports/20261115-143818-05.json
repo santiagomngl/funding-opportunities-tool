@@ -7,38 +7,38 @@
         {
           "title": "Central object",
           "question": "What is the principal thing the project must develop?",
-          "answer": "Demonstrate a battery system that can provide more than eight hours of storage for a grid or large electricity user.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · Expected Outcome"
+          "answer": "A system-level demonstration of an innovative long-duration battery storage concept, storing energy for more than 8 hours, for utility-scale grids or large industrial users.\nThe technology must not yet be on the market: the call names novel redox flow batteries, high-temperature systems, metal-air systems and multivalent chemistries (organic or aqueous) as examples, but any non-commercialised technology or architecture may qualify.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · HORIZON-CL5-2027-05-D2-08, Scope"
         },
         {
           "title": "Scope",
           "question": "Which activities fall within the funding opportunity's scope?",
-          "answer": "Demonstrate a non-commercial battery design at system level for more than eight hours of storage. Assess relevant use cases, complementary storage, digitally supported management, safety and sustainable materials.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · Scope"
+          "answer": "Projects are expected to cover all seven points the call lists; the call names no optional or excluded activities.\n- Demonstrate an advanced long-duration storage technology not yet on the market\n- Assess and define the use cases (front-of-the-meter grid-scale storage, behind-the-meter storage at a large industrial consumer, or firming of renewable generation), with quantified impact on grid resilience, emissions, safety and storage cost\n- Assess hybridisation with complementary storage technologies, for example redox flow batteries with supercapacitors, to optimise performance and extend lifetime\n- Use abundant, low-cost and sustainable materials with reliable, scalable European supply chains, with realistic pathways to production at scale\n- Integrate digital technologies for accurate state-of-charge, state-of-health and lifetime prediction, and optimise battery and energy management systems\n- Carry out a techno-economic analysis of capital and operating costs, based on measured performance (self-discharge, calendar and cycle life, round-trip efficiency, safety investments), against the incumbent commercial technology\n- Carry out a system-level safety assessment (flammability, toxicity, explosion potential) with mitigation strategies",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · HORIZON-CL5-2027-05-D2-08, Scope"
         },
         {
           "title": "Problem",
           "question": "What type of problem or need must justify the project, and where must it originate?",
-          "answer": "Power systems and large users need longer storage to maintain supply and flexibility beyond the operating window of shorter-duration batteries.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · Expected Outcome"
+          "answer": "Europe needs long-duration storage for grid stability and flexibility that does not depend on critical raw materials.\nThe need originates with the energy system and its users: grid operators and industrial consumers need storage lasting longer than today's lithium-ion batteries to support energy security, firm renewable output and resilience, while Europe wants to reduce dependence on imported critical raw materials. The call also points to the need for reliable operating data to support an EU-wide stationary storage strategy.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · HORIZON-CL5-2027-05-D2-08, Expected Outcome and Scope"
         },
         {
           "title": "Deliverables",
           "question": "Which concrete outputs must the project produce?",
-          "answer": "Produce an operating demonstrator, measured performance data and a system safety assessment. Compare the economics with the commercial technology currently used for the same job.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · Expected Outcome"
+          "answer": "A demonstrated long-duration storage system, defined use cases, measured operating data, a techno-economic analysis, a safety assessment and an exploitation plan.\n- A system-level demonstration of the storage technology\n- Use-case definitions with quantified impacts\n- A hybridisation assessment\n- Digital tools for state of charge, state of health and lifetime prediction, and optimised management systems\n- Sufficient, reproducible operating data for detailed techno-economic analysis\n- The techno-economic analysis and the system-level safety assessment\n- Pathways to production at scale and, for exploitation, preliminary plans for scalability, commercialisation and deployment",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · HORIZON-CL5-2027-05-D2-08, Expected Outcome and Scope"
         },
         {
           "title": "Impact",
           "question": "Which wider system outcomes and impacts must the project support?",
-          "answer": "Quantify gains in resilience, emissions, safety and storage cost. The result should help operators select system designs that are dependable and less exposed to critical materials.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · Expected Outcome"
+          "answer": "Projects must contribute to all four outcomes: demonstrated long-duration storage for grid stability, less dependence on critical raw materials, input to an EU storage strategy, and reliable operating data.\n- Demonstrated system-level long-duration storage explicitly aimed at grid stability, resilience and flexibility in Europe\n- A substantial reduction of Europe's dependence on critical raw materials\n- Strategic insights for a coherent EU-wide stationary storage deployment strategy\n- Sufficient and reproducible operating data for reliable techno-economic analysis\nThe call sets no numerical targets, but requires the use cases to quantify impact on grid resilience, emissions, safety and cost.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · HORIZON-CL5-2027-05-D2-08, Expected Outcome and Scope"
         },
         {
           "title": "After the project",
           "question": "How must the result be replicated, taken up and kept in use after the project?",
-          "answer": "If commercial use is intended, provide a feasibility study or business plan for scale-up and possible funding. Report results to the European Partnership on Batteries (the sector’s research and industry partnership).",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · Scope"
+          "answer": "The results must be prepared for market uptake, with a production route at scale and preliminary deployment plans.\n- Where exploitation means a product or service, the exploitation plan must include a strategy and preliminary plans for scalability, commercialisation and deployment (feasibility study, business plan), naming possible funding such as the Innovation Fund (the EU's fund for large-scale clean technology deployment)\n- Realistic pathways to production at scale with European supply chains\n- The Safe and Sustainable by Design framework (an EU framework for assessing safety and sustainability of chemicals and materials) should be used as reference\n- Projects must report results to the European Partnership on Batteries (Batt4EU, a public-private partnership) to monitor its indicators\n- The granting authority may object, for up to 4 years after the project, to a transfer of ownership or exclusive licensing of results",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · HORIZON-CL5-2027-05-D2-08, Specific conditions and Scope"
         }
       ]
     },
@@ -49,14 +49,14 @@
         {
           "title": "Number of partners",
           "question": "What is the permitted or required consortium size?",
-          "answer": "The proposal needs at least three independent funded partners in three different eligible countries. At least one must be established in a European Union Member State. The other two must be established in different Member States or countries associated with Horizon Europe (countries formally participating in the European research programme).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+          "answer": "At least three independent organisations from three different countries; the call sets no maximum.\nThe general rule requires, as beneficiaries (organisations that sign the grant agreement and receive funding), three legal entities independent of each other: at least one established in an EU Member State and two others each in a different Member State or country associated with Horizon Europe (non-EU countries taking part in the programme, such as Norway, Switzerland or the United Kingdom). Affiliated entities (organisations legally linked to a beneficiary) and associated partners (organisations taking part without funding) do not count towards this minimum.\nThe European Commission's Joint Research Centre (JRC) may join the selected consortium, but does not count for the proposal since it does not take part in preparing it.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · B — Eligibility, Consortium composition\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · HORIZON-CL5-2027-05-D2-08"
         },
         {
           "title": "Partner composition",
           "question": "Which types of partners must the consortium include?",
-          "answer": "The demonstration needs participants able to build and operate the selected battery system. The European Commission’s Joint Research Centre may join selected projects after proposal preparation to assess performance or safety.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+          "answer": "The call names no required partner types; it invites proposals to consider involving the Joint Research Centre.\nThe JRC (the European Commission's in-house science service) could carry out experimental or desk research on battery performance or safety, joining after selection as a beneficiary with zero funding or as an associated partner. Entities established in an eligible country but directly or indirectly controlled by China or by a legal entity established in China are not eligible, and legal entities established in China are excluded from this destination's actions.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · HORIZON-CL5-2027-05-D2-08, Specific conditions and Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 109–110 · Destination Sustainable, secure and competitive energy supply"
         },
         {
           "title": "Distribution of work",
@@ -67,8 +67,8 @@
         {
           "title": "Coordinator",
           "question": "What type of organisation may or must act as lead applicant?",
-          "answer": "The group appoints a funded partner to lead the work on long-duration batteries and represent it to the funder.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners"
+          "answer": "No type of organisation is prescribed: the beneficiaries choose one of themselves as coordinator.\nThe coordinator manages and coordinates the project and represents the consortium towards the granting authority (the European Commission or its agency). At submission it must confirm that it has the mandate to act for all applicants.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Coordinator\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, Submission"
         }
       ]
     },
@@ -79,26 +79,26 @@
         {
           "title": "Coordinate",
           "question": "Can TenneT apply or coordinate, and under which conditions?",
-          "answer": "TenneT could coordinate the project if it can define or validate grid needs for a utility-scale long-duration storage use case. The applicants choose their coordinator (the funded partner that represents the group to the funder).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · Scope"
+          "answer": "Formally yes, but a battery technology demonstration is naturally led by the technology developer; TenneT TSO B.V. would more likely host or advise on a grid use case.\nAny eligible beneficiary may coordinate, and a Dutch entity is eligible. TenneT must not be controlled by China or a Chinese entity.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 11, 36 · B — Entities eligible for funding; IMPORTANT, Coordinator\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · HORIZON-CL5-2027-05-D2-08, Specific conditions"
         },
         {
           "title": "Participate",
           "question": "Can TenneT take part without receiving funding?",
-          "answer": "TenneT could take part in long-duration batteries without receiving a grant. As an associated partner (an organisation that works without a grant), it could define or validate grid needs for a utility-scale long-duration storage use case. It would cover its own costs and would not count towards the minimum number of funded partners.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · Scope"
+          "answer": "Yes, as an associated partner, which takes part without funding and bears its own costs.\nAn associated partner does not sign the grant agreement, cannot charge costs, does not need legal validation and does not count towards the minimum of three beneficiaries from three countries. It must still register in the Participant Register before the application is submitted.\nTenneT could, for example, help define the front-of-the-meter grid use case as an associated partner.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 5 · B — Eligibility, Associated partners\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Registration, Consortium roles and Associated partners\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · HORIZON-CL5-2027-05-D2-08"
         },
         {
           "title": "Receive funding",
           "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
-          "answer": "TenneT can receive up to 70% of eligible costs (project costs the grant rules allow) for qualifying work. The Dutch entity could define or validate grid needs for a utility-scale long-duration storage use case. Budget at least 30% of those costs from other resources. The topic excludes organisations directly or indirectly controlled by China or by a legal entity established there.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · Scope"
+          "answer": "Yes: as a beneficiary TenneT can receive up to 70% of its eligible costs; it must fund the rest itself.\nThis topic is an innovation action (a project that develops, pilots and demonstrates new or improved solutions close to the market), for which the maximum rate is 70% for organisations other than non-profit legal entities. The grant reimburses costs actually incurred plus a 25% flat rate for indirect costs. The expected EU contribution is around EUR 9.4 million per project, for the whole consortium. The call sets no Dutch national rules.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, funding rate and maximum grant amount, Budget categories\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · HORIZON-CL5-2027-05-D2-08, Specific conditions"
         },
         {
           "title": "TenneT's likely contribution",
           "question": "What contribution would make TenneT credible and useful within the project?",
-          "answer": "TenneT could define sustained discharge and availability needs for a grid-scale use case and assess system benefits against realistic operating profiles.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · Scope"
+          "answer": "TenneT could define and quantify the grid-scale use case, specifying what services a long-duration battery must deliver for grid stability and congestion relief.\nThis is our interpretation. TenneT's time-dependent transmission rights contract with battery operator Lion Storage shows how storage can free grid capacity, and its balancing platform ARTeMIS handles prequalification of flexibility providers. TenneT could supply grid data, service requirements and connection conditions, and assess the impact on grid resilience. Hosting a battery itself is less likely, since TenneT as a TSO is generally not the owner of storage assets.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · HORIZON-CL5-2027-05-D2-08, Scope"
         }
       ]
     },
@@ -109,26 +109,26 @@
         {
           "title": "Innovation threshold",
           "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
-          "answer": "Demonstrate an advanced battery technology or architecture that has yet to reach the market. Compare it against the incumbent commercial technology.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · Scope"
+          "answer": "The technology must be genuinely new: the call requires long-duration storage technologies not yet on the market.\nIntegration of existing commercial batteries does not qualify. The digital management and hybridisation work may combine existing methods.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · HORIZON-CL5-2027-05-D2-08, Scope"
         },
         {
           "title": "Innovation object",
           "question": "In what must the project innovate?",
-          "answer": "The innovation is in battery technology and system design, including whether complementary forms of storage or improved controls can work together.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · Scope"
+          "answer": "Mainly technology (storage chemistry and system architecture), combined with digital management systems and a techno-economic business case.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · HORIZON-CL5-2027-05-D2-08, Scope"
         },
         {
           "title": "Development stages",
           "question": "Which development stages must the project cover?",
-          "answer": "Demonstrate the battery at system level, measure performance and assess economics, safety and potential combinations with other technologies.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · Scope"
+          "answer": "Demonstration at system level, with preparation for production at scale and deployment; not basic research.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · HORIZON-CL5-2027-05-D2-08, Scope"
         },
         {
           "title": "Maturity",
           "question": "Which maturity level is expected at the start and end of the project?",
-          "answer": "The work should reach TRL 6–7 (technology readiness level: technology demonstrated in relevant or operational conditions) by project end. The call allows work to start at any maturity level.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · Specific conditions"
+          "answer": "Activities are expected to reach TRL 6–7 by the end of the project and may start at any TRL.\nTRL 6 is technology demonstrated in a relevant environment; TRL 7 is a system prototype demonstrated in an operational environment.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · HORIZON-CL5-2027-05-D2-08, Specific conditions, Technology Readiness Level\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · B — Technology Readiness Levels"
         }
       ]
     },
@@ -139,20 +139,20 @@
         {
           "title": "Demonstration",
           "question": "Where and under which conditions must the solution be demonstrated?",
-          "answer": "Demonstrate the technology at system level for large-scale grid storage, an industrial user or smoothing renewable generation. Show how it performs for the selected use case.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · Scope"
+          "answer": "A system-level demonstration is required, supporting utility-scale grids or industrial consumers.\nThe call does not name a site, but TRL 6–7 means a relevant or operational environment, and the techno-economic analysis must rest on measured performance.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · HORIZON-CL5-2027-05-D2-08, Scope and Specific conditions"
         },
         {
           "title": "Integration",
           "question": "How must the activities fit together and with existing systems?",
-          "answer": "Define the use case at a grid connection, industrial site or renewable generation facility. Assess whether combining storage technologies improves performance or service life.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · Scope"
+          "answer": "The storage must work as one system with its battery and energy management systems.\nIt may be hybridised with complementary storage technologies and must be designed for the chosen grid or industrial use case.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · HORIZON-CL5-2027-05-D2-08, Scope"
         },
         {
           "title": "Evidence",
           "question": "What must the demonstration prove?",
-          "answer": "Use measured self-discharge, service life and round-trip efficiency (the proportion of stored energy recovered). Compare investment and operating costs with the incumbent and quantify grid resilience, emissions and safety.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · Expected Outcome"
+          "answer": "Measured performance data must prove economic viability and safety against the incumbent commercial technology.\n- Measured metrics named by the call: self-discharge rate, calendar life, cycle life, round-trip efficiency and necessary safety investments\n- Capital and operating cost assessments based on those measurements\n- Quantified impacts of the use case on grid resilience, emissions, safety and storage cost\n- Sufficient and reproducible operating data for detailed techno-economic analysis",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · HORIZON-CL5-2027-05-D2-08, Expected Outcome and Scope"
         },
         {
           "title": "User participation",
@@ -163,8 +163,8 @@
         {
           "title": "Safety and cybersecurity",
           "question": "Which safety, cybersecurity or data requirements must the project meet?",
-          "answer": "The project must assess battery-system safety and document mitigation. Consider the Commission’s Safe and Sustainable by Design approach (assessing material hazards and sustainability during design).",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · Specific conditions"
+          "answer": "A full system-level safety assessment is mandatory; the call sets no cybersecurity requirement.\n- Safety: document flammability, toxicity and explosion risks and mitigation strategies ahead of wide adoption, using the Safe and Sustainable by Design framework as reference\n- Control restriction: entities controlled by China or a Chinese legal entity are not eligible\n- Satellite data: if used, Copernicus and/or Galileo/EGNOS must be used",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · HORIZON-CL5-2027-05-D2-08, Specific conditions and Scope"
         }
       ]
     }
@@ -176,23 +176,23 @@
       "cards": [
         {
           "title": "Funding envelope",
-          "answer": "The Commission indicates EUR 18.8 million for long-duration batteries. It expects 2 awards.\n- Grant request: Around EUR 9.4 million per project. Different requests are eligible.\n- Funding form: Budget-based grant (paid using approved costs or rates for the funded work).",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 45 · Overview of this call\nDemonstration for Long-duration Battery Energy Storage Systems (BATT4EU Partnership) · Budget overview\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount"
+          "answer": "About 2 projects of around EUR 9.4 million each are expected, within a topic budget of EUR 18.8 million.\n- Total project size: not stated\n- Grant request: around EUR 9.4 million per project, for the whole consortium; other amounts may be requested and selected\n- Funding form: actual-cost grant (reimburses eligible costs actually incurred) with a 25% flat rate for indirect costs\nFinal budgets may change by up to 20% after evaluation.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 44–45 · Call BATTERIES and ENERGY (HORIZON-CL5-2027-05), Overview of this call\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · HORIZON-CL5-2027-05-D2-08, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 29, 31 · F — Budget flexibility; G — Form of grant"
         },
         {
           "title": "Funding rate and co-financing",
-          "answer": "For-profit organisations can receive up to 70% towards long-duration batteries.\n- For-profit organisations: Up to 70% of eligible costs (project costs the grant rules allow), leaving at least 30% to cover.\n- Non-profit legal entities: Up to 100% of eligible costs (project costs the grant rules allow).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount"
+          "answer": "Companies such as TenneT receive at most 70% of eligible costs; non-profit legal entities receive up to 100%.\n- For-profit organisations: up to 70% of eligible costs, so at least 30% must come from their own resources\n- Non-profit legal entities (for example universities and research organisations): up to 100% of eligible costs\n- Co-financing conditions: the call sets no rule on cash or in-kind co-financing beyond the funding rate; the remainder is simply not reimbursed\nGrants may not produce a profit: any surplus of revenue plus grant over costs is deducted from the final grant.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, funding rate and maximum grant amount"
         },
         {
           "title": "Budget constraints",
-          "answer": "Plan the budget for long-duration batteries using the cost categories allowed by the grant. The grant agreement (the contract setting the funded work and payment rules) specifies how those costs can be claimed.\n- Eligible costs (project costs the grant rules allow): Personnel, subcontracting and purchases are principal categories.\n- Overheads and value added tax (tax on purchases): The 25% indirect-cost rate (overheads such as general office expenses) excludes subcontracting, third-party support and categories already including indirect costs.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount and Budget categories and cost eligibility rules"
+          "answer": "The grant reimburses only eligible costs actually incurred, plus a flat 25% for indirect costs; subcontracting should stay a limited part.\n- Eligible costs: personnel, subcontracting and purchase costs (equipment, travel, other goods and services), plus personnel unit costs where the beneficiary uses them\n- Overheads and VAT: indirect costs are a flat rate of 25% of eligible direct costs, excluding subcontracting and financial support to third parties\n- Subcontracting or equipment: subcontracting should normally be a limited part of the project and be done by third parties, not by beneficiaries; purchases must give best value for money\nBudgeted costs are not paid as such: only the costs actually incurred are reimbursed.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, Budget categories and cost eligibility rules\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Consortium roles"
         },
         {
           "title": "Cash flow and financial exposure",
-          "answer": "Plan cash flow for long-duration batteries around the initial advance and later payments.\n- Payment model: Pre-financing (an advance at the start of the grant) usually precedes periodic payments and the final balance.\n- Retention or guarantee: The mutual insurance mechanism (a common fund covering grant recovery risks) deducts 5–8% of the maximum grant from pre-financing.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 33 · Reporting & payment arrangements"
+          "answer": "Partners normally receive a large advance after signing, minus a 5–8% contribution to a shared insurance fund, then interim payments.\n- Payment model: pre-financing (an advance) of normally 160% of the average EU funding per reporting period, then interim payments linked to periodic reports, and a final payment after the final report fixes the grant\n- Retention or guarantee: 5% to 8% of the maximum grant is deducted from the pre-financing and paid into the mutual insurance mechanism (a fund covering sums that cannot be recovered from beneficiaries)\n- Financial reporting or audit: depending on grant size and type of beneficiary, a certificate on the financial statements may be required; each beneficiary is liable only for its own debts",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 32–33 · G — Reporting & payment arrangements, Certificates, Liability regime for recoveries"
         }
       ]
     },
@@ -202,18 +202,18 @@
       "cards": [
         {
           "title": "Application route",
-          "answer": "Apply for long-duration batteries through the European Funding & Tenders Portal in one stage.\n- Full proposal: 15 September 2027, 17:00 Brussels time. Submit Part A (online administration form) and Part B (technical proposal) with a 40-page limit.\n- Opening: 5 May 2027.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 45 · Overview of this call\nDemonstration for Long-duration Battery Energy Storage Systems (BATT4EU Partnership) · General information\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents"
+          "answer": "One stage: full proposals are due by 15 September 2027, 17:00 Brussels time, through the EU Funding & Tenders Portal.\n- Stage 1 — Full proposal: 15 September 2027, 17:00 Brussels time; Part A online and Part B of at most 40 pages\n- Opening: 5 May 2027\n- Additional procedure: none; the Commission may open the call up to one month earlier or later and delay the deadline by up to two months",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 44–45 · Call BATTERIES and ENERGY (HORIZON-CL5-2027-05), Overview of this call\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility, Page limits"
         },
         {
           "title": "Project window",
-          "answer": "The grant agreement (the contract setting the funded work and payment rules) sets the start date and duration for long-duration batteries.\n- Required start: Work normally starts after the grant agreement is signed. A reasoned exception needs approval.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · Starting date & project duration"
+          "answer": "The call sets no duration or start date: both are fixed in the grant agreement.\n- Maximum duration: not set by the call; the grant agreement states the duration in months, and extensions are possible only exceptionally\n- Required start: normally after the grant agreement is signed; an earlier start is possible only exceptionally, for duly justified reasons and with the granting authority's agreement",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · G — Starting date & project duration"
         },
         {
           "title": "Decision and contracting",
-          "answer": "The Commission’s timetable for assessing and contracting long-duration batteries is indicative.\n- Expected invitation or assessment result: Around five months from the full-proposal deadline.\n- Grant agreement (the contract setting the funded work and payment rules): Around eight months from the full-proposal deadline.\n- Conditions before starting: The beneficiaries (organisations formally responsible for funded work) must conclude a written consortium agreement (the partners’ written agreement on how the project will run).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium agreement"
+          "answer": "Indicatively, the evaluation result comes about 5 months after the deadline and the grant agreement is signed about 8 months after it.\n- Funding decision: about 5 months after the deadline (indicative), around February 2028\n- Grant agreement: about 8 months after the deadline (indicative)\n- Conditions before starting: an invitation to grant preparation is not yet a funding commitment, since legal entity validation, financial capacity and exclusion checks follow; the partners must sign a written consortium agreement",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · F — Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 29 · F — No commitment to provide funding\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Consortium agreement"
         }
       ]
     },
@@ -223,18 +223,18 @@
       "cards": [
         {
           "title": "Mandatory submission package — pass/fail",
-          "answer": "Use the portal’s forms to submit the proposal and supporting documents for long-duration batteries.\n- Application form: Complete online Part A and upload technical Part B and applicable annexes.\n- Registration: Beneficiaries (organisations formally responsible for funded work) and affiliated entities (organisations legally linked to funded partners) need a participant identification code before submission.\n- Partner documents: The coordinator confirms its authority to act for the applicant group at submission. Participants sign declarations of honour (signed confirmations of eligibility and other requirements) before grant signature.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 5 · Entities eligible to participate"
+          "answer": "The proposal must be complete, submitted electronically before the deadline, and within the page limit; incomplete applications are rejected.\n- Application form: Part A (administrative data and a summary budget, filled in online) and Part B (the technical description, uploaded as a PDF) through the EU Funding & Tenders Portal, using the forms inside the submission system; Part B is limited to 40 pages\n- Budget: the summary budget in Part A\n- Mandatory annexes: a plan for the exploitation and dissemination of results, including communication activities, and the ethics self-assessment\n- Partner documents: the coordinator confirms at submission that it has the mandate to act for all applicants; every participant signs a declaration of honour before the grant is signed\n- Registration: every beneficiary, affiliated entity and associated partner needs a participant identification code (PIC, a number from the EU Participant Register) before submission; validation of beneficiaries follows at grant preparation\n- Parallel submission: none\n- Exploitation plan: for a product or service, preliminary plans for scalability, commercialisation and deployment, naming possible funding sources",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility, Page limits\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 5 · B — Entities eligible to participate\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · B — Ethics\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Registration\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · HORIZON-CL5-2027-05-D2-08, Scope"
         },
         {
           "title": "Evaluation and selection — scored or ranked",
-          "answer": "Long-duration batteries proposals compete on research quality, impact and the quality of the delivery plan.\n- Evaluation criteria: Excellence, impact, and quality and efficiency of implementation.\n- Thresholds: At least 3/5 on each criterion and 10/15 overall.\n- Ranking rules: Ties first favour uncovered topic aspects. The next criteria are impact then excellence.\n- Weighting: The impact score (the score for what the project is expected to achieve) has a 1.5 multiplier for ranking.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 28–29 · Evaluation procedure and ranking"
+          "answer": "Independent experts score three criteria out of 5; a proposal needs 3 on each and 10 in total, and Impact weighs 1.5 times in the ranking.\n- Evaluation criteria: Excellence (clear, ambitious objectives beyond the state of the art; sound methodology), Impact (credible pathways to the expected outcomes; dissemination and exploitation measures) and Quality and efficiency of the implementation (work plan, risks, resources, capacity of each partner)\n- Thresholds: at least 3 out of 5 for each criterion and 10 out of 15 overall\n- Weighting: for ranking, the Impact score counts 1.5 times\n- Ranking rules: equal scores are separated first by whether a proposal covers aspects of the call not covered by higher-ranked ones, then by the Impact score, then Excellence, then gender balance among lead researchers and geographical diversity\n- Budget assessment: the grant awarded may be lower than requested, and topic budgets may change by up to 20% after evaluation",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria, Scores and weighting, Two-stage calls\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 28–29 · F — Evaluation procedure and ranking, Budget flexibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 31 · G — Form of grant, funding rate and maximum grant amount"
         },
         {
           "title": "Conditional and exceptional requirements",
-          "answer": "Battery demonstrators may involve the Commission’s science service and must consider how their results will be used commercially where applicable.\n- Conditional — Commercial exploitation: Include an exploitation strategy where the results are intended for a product or service.\n- Recommended: Consider the Commission’s Safe and Sustainable by Design framework for the materials assessment.\n- Conditional — Satellite data or services: Use Copernicus for Earth observation and/or Galileo or the European Geostationary Navigation Overlay Service for satellite positioning, navigation or timing where the proposal uses the covered services.\n- Conditional — China control: Entities directly or indirectly controlled by China or an entity established there are ineligible.\n- Exception — Transfer of results: The granting authority may object to a transfer of ownership or to exclusive licensing (giving another party sole rights to use the results) for up to four years after the project ends.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · Scope"
+          "answer": "The China restrictions, the possible JRC role and the partnership reporting duty apply in addition to the general rules.\n- Exception — entities controlled by China, and entities established in China: not eligible\n- Exception — Joint Research Centre: may join after selection as a zero-funding beneficiary or associated partner, without taking part in the proposal\n- Conditional — results transfer: the granting authority may object to transfers or exclusive licensing for 4 years after the project\n- Conditional — partnership reporting: report results to Batt4EU\n- Conditional — satellite data: use Copernicus and/or Galileo/EGNOS if such data are used\n- Recommended: use the Safe and Sustainable by Design framework; consider involving the JRC for performance or safety testing",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 105–107 · HORIZON-CL5-2027-05-D2-08, Specific conditions and Scope"
         }
       ]
     }

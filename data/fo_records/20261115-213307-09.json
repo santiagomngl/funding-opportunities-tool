@@ -11,12 +11,12 @@
   "executive_summary": "This Innovation Action funds a common AI robotics integration framework tested in at least three industrial pilots. It covers integration with existing systems, practical tools, data and guidance. Eligible consortia bring together system integrators, technology providers and industrial end users. The topic budget is EUR 18 million with around EUR 18 million expected per project. It opens 2026-11-17 and closes 2027-03-18 at 17:00 Brussels time.",
   "pre_submission_deadline": null,
   "full_proposal_deadline": "2027-03-18",
-  "earliest_project_start_date": "2027-01-01",
-  "project_end_date": "2029-12-31",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
   "minimum_project_size": null,
   "maximum_project_size": null,
-  "date_last_checked": "2026-11-15",
-  "status_rationale": "Digital, Industry and Space Work Programme, pp. 151–154, Specific conditions and Scope, defines the work. Eligible industrial end users can join for integration and validation. TenneT could contribute a funded equipment-integration work package with an energy-equipment manufacturer, subject to fitting the industrial pilot design. The connection to Reliability Centered Maintenance (RCM) supports Type 1 and C1.3. The date helper provides both project dates as defaults from 1 January 2027 and 36 months.",
+  "date_last_checked": "2026-11-23",
+  "status_rationale": "Digital, Industry and Space Work Programme, pp. 151–154, Specific conditions and Scope, defines the work. Eligible industrial end users can join for integration and validation. TenneT could contribute a funded equipment-integration work package with an energy-equipment manufacturer, subject to fitting the industrial pilot design. The connection to Reliability Centered Maintenance (RCM) supports Type 1 and C1.3. Both project dates are null because the call states no start, end or duration.",
   "call_type": "Type 1",
   "category_codes": [
     "C1.3"
