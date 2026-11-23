@@ -7,38 +7,38 @@
         {
           "title": "What the call wants",
           "question": "What is the principal thing the project must develop, and which problem or need must it address?",
-          "answer": "Demonstrate industrial production methods and equipment for tandem solar cells and modules that combine efficiency gains with lifetimes comparable to silicon.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 153–154 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 153–154 · Expected Outcome"
+          "answer": "Demonstrated industrial processes and equipment for manufacturing tandem solar cells and modules at large scale, more efficient than silicon and as durable.\nTandem PV stacks two solar-cell materials, typically perovskite on silicon, to convert more sunlight than silicon alone can. Proposals are expected to:\n- demonstrate tandem technologies with lifetimes similar to silicon and efficiencies beyond the silicon limit\n- demonstrate interface and thin-film engineering at large scale\n- demonstrate production processes and equipment ready for large-scale deployment\nThe need originates with European industry and policy: the EU targets 600 GW of solar PV by 2030 and, under the Net-Zero Industry Act, European manufacturing of at least 30 GW a year, to reduce import dependence. The call also sees tandem technology as an opening for European start-ups and scale-ups.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 153–154 · HORIZON-CL5-2027-07-D3-16, Expected Outcome and Scope"
         },
         {
           "title": "Project impact",
           "question": "Which wider system outcomes and impacts must the project support?",
-          "answer": "Improve the prospects for selling durable, efficient tandem solar products at scale. The work supports European solar manufacturing and the joint solar research and innovation agenda.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 153–154 · Expected Outcome"
+          "answer": "Projects must contribute to all three outcomes: better commercial prospects for European tandem PV, the EU Solar PV Industry Alliance's goals, and the solar research agenda.\n- Increased potential to commercialise tandem PV and competitive know-how for the European PV industrial base\n- Contribution to the objectives of the EU Solar PV Industry Alliance (an industry platform to rebuild European solar manufacturing)\n- Support for the solar energy joint research and innovation agenda\nThe wider aim is a more resilient EU PV value chain with fewer excessive dependencies, towards the 600 GW deployment and 30 GW manufacturing targets for 2030.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 153–154 · HORIZON-CL5-2027-07-D3-16, Expected Outcome"
         },
         {
           "title": "Who it suits",
           "question": "Who may lead, which partners must take part, and how must the work be shared?",
-          "answer": "This suits solar manufacturers, production-equipment suppliers and research institutes that can demonstrate industrial tandem-cell and module production. At least three independent grant recipients must be in different eligible countries, including one in a European Union Member State. One acts as coordinator (the partner representing the group). Control by China or a legal entity based there prevents participation.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 153–154 · Scope\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 4–5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 153–154 · Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners"
+          "answer": "Consortia of at least three independent organisations from three countries, typically PV manufacturers, equipment makers and research institutes; there is no prescribed lead.\n- Lead: any beneficiary may coordinate; the call reserves the role for no organisation type\n- Composition: the general rule requires three independent legal entities, one in an EU Member State and two others in different Member States or countries associated with Horizon Europe (non-EU countries taking part in the programme); the call names no required partner types\n- Work split: none prescribed\n- Exclusion: entities controlled by China or a Chinese legal entity are not eligible\nThe call suits PV cell and module manufacturers, production-equipment suppliers, materials companies, start-ups and scale-ups, and PV research institutes.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 153–154 · HORIZON-CL5-2027-07-D3-16, Specific conditions and Expected Outcome\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 13, 36 · B — Consortium composition; IMPORTANT, Coordinator"
         },
         {
           "title": "Innovation",
           "question": "How new must the project be, and in what must it innovate?",
-          "answer": "Innovate in tandem cell and module technology, large-scale thin-film and interface engineering, and manufacturing processes or equipment that can scale.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 153–154 · Scope"
+          "answer": "The project must demonstrate novel tandem technologies that beat silicon's efficiency limit, together with new large-scale manufacturing processes and equipment.\nThe innovation is in technology (cells, interfaces, thin films) and in production processes and equipment, not in system architecture or market arrangements.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 153–154 · HORIZON-CL5-2027-07-D3-16, Expected Outcome and Scope"
         },
         {
           "title": "Maturity",
           "question": "Which maturity level is expected at the start and end of the project?",
-          "answer": "The work should reach TRL 6–7 (technology readiness level: technology demonstrated in relevant or operational conditions) by project end. The call allows work to start at any maturity level.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 153–154 · Specific conditions"
+          "answer": "Activities are expected to reach TRL 6–7 by the end of the project and may start at any TRL.\nTRL 6 is technology demonstrated in a relevant environment; TRL 7 is a system prototype demonstrated in an operational environment, here meaning pilot manufacturing close to industrial conditions.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 153–154 · HORIZON-CL5-2027-07-D3-16, Specific conditions, Technology Readiness Level\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · B — Technology Readiness Levels"
         },
         {
           "title": "Demonstration and integration of work",
           "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
-          "answer": "Demonstrate the tandem technology, thin-film and interface engineering, and production equipment at a scale that supports wider industrial deployment. Link the processing steps to the finished device’s efficiency and lifetime.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 153–154 · Scope"
+          "answer": "Demonstration of tandem devices, large-scale thin-film engineering and production processes and equipment ready for large-scale deployment, in a manufacturing setting.\nThe call does not prescribe a site. It asks for no integration with grids or buildings; the focus is manufacturing.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 153–154 · HORIZON-CL5-2027-07-D3-16, Scope"
         }
       ]
     },
@@ -49,8 +49,8 @@
         {
           "title": "Why it matters to TenneT",
           "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
-          "answer": "Higher-efficiency solar modules could affect the volume of generation connecting to TenneT’s network. The call focuses on cell and module production and gives no transmission-operator role.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 153–154 · Scope\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 153–154 · Specific conditions"
+          "answer": "More efficient PV delivers more energy per hectare and per connection, which matters for TenneT's congested grid and connection planning.\nThis is our interpretation. Higher module efficiency means more output from the same connection, which links to TenneT's thinking on over-planting and using connections more fully. The effect on TenneT is indirect and long-term. TenneT cannot usefully take part: the call funds PV manufacturing processes and equipment and sets out no role for a transmission system operator.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 153–154 · HORIZON-CL5-2027-07-D3-16, Expected Outcome and Scope"
         }
       ]
     }
@@ -62,18 +62,18 @@
       "cards": [
         {
           "title": "Funding envelope",
-          "answer": "The Commission indicates EUR 28.5 million for tandem solar manufacturing. It expects 3 awards.\n- Grant request: around EUR 9.5 million per project is indicative. The Commission can select a different request.\n- Funding form: Budget-based grant (paid using approved costs or rates for the funded work).",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 153–154 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 48 · Overview of this call\nIndustrial processes and equipment for innovative, reliable and scalable tandem technologies (EUPI-PV Partnership) · Budget overview"
+          "answer": "About 3 projects of around EUR 9.5 million each are expected, within a topic budget of EUR 28.5 million.\n- Total project size: not stated\n- Grant request: around EUR 9.5 million per project, for the whole consortium; other amounts may be requested and selected\n- Funding form: actual-cost grant (reimburses eligible costs actually incurred) with a 25% flat rate for indirect costs\nFinal budgets may change by up to 20% after evaluation.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 48–49 · Call ENERGY (HORIZON-CL5-2027-07), Overview of this call\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 153–154 · HORIZON-CL5-2027-07-D3-16, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 29, 31 · F — Budget flexibility; G — Form of grant"
         },
         {
           "title": "Funding rate and co-financing",
-          "answer": "For-profit organisations can receive up to 70% towards tandem solar manufacturing.\n- For-profit organisations: Up to 70% of eligible costs (project costs the grant rules allow), leaving at least 30% to cover.\n- Non-profit legal entities: Up to 100% of eligible costs (project costs the grant rules allow).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 153–154 · Specific conditions"
+          "answer": "Companies such as TenneT receive at most 70% of eligible costs; non-profit legal entities receive up to 100%.\n- For-profit organisations: up to 70% of eligible costs, so at least 30% must come from their own resources\n- Non-profit legal entities (for example universities and research organisations): up to 100% of eligible costs\n- Co-financing conditions: the call sets no rule on cash or in-kind co-financing beyond the funding rate; the remainder is simply not reimbursed\nGrants may not produce a profit: any surplus of revenue plus grant over costs is deducted from the final grant.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, funding rate and maximum grant amount"
         },
         {
           "title": "Budget constraints",
-          "answer": null,
-          "sources": null
+          "answer": "The grant reimburses only eligible costs actually incurred, plus a flat 25% for indirect costs; subcontracting should stay a limited part.\n- Eligible costs: personnel, subcontracting and purchase costs (equipment, travel, other goods and services), plus personnel unit costs where the beneficiary uses them\n- Overheads and VAT: indirect costs are a flat rate of 25% of eligible direct costs, excluding subcontracting and financial support to third parties\n- Subcontracting or equipment: subcontracting should normally be a limited part of the project and be done by third parties, not by beneficiaries; purchases must give best value for money\nBudgeted costs are not paid as such: only the costs actually incurred are reimbursed.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, Budget categories and cost eligibility rules\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Consortium roles"
         },
         {
           "title": "Cash flow and financial exposure",
@@ -88,18 +88,18 @@
       "cards": [
         {
           "title": "Application route",
-          "answer": "Apply for tandem solar manufacturing through the European Funding & Tenders Portal in one stage.\n- Full proposal: 1 December 2027, 17:00 Brussels time. Submit Part A (online administration form) and Part B (technical proposal). Part B is limited to 40 pages.\n- Opening: 4 August 2027.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · p. 48 · Overview of this call\nIndustrial processes and equipment for innovative, reliable and scalable tandem technologies (EUPI-PV Partnership) · General information\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 4 · Page limits\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents"
+          "answer": "One stage: full proposals are due by 1 December 2027, 17:00 Brussels time, through the EU Funding & Tenders Portal.\n- Stage 1 — Full proposal: 1 December 2027, 17:00 Brussels time; Part A online and Part B of at most 40 pages\n- Opening: 4 August 2027\n- Additional procedure: none; the Commission may open the call up to one month earlier or later and delay the deadline by up to two months",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 48–49 · Call ENERGY (HORIZON-CL5-2027-07), Overview of this call\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility, Page limits"
         },
         {
           "title": "Project window",
-          "answer": "The grant agreement (the contract setting the funded work and payment rules) sets the start date and duration for tandem solar manufacturing.\n- Required start: Work normally starts after the grant agreement is signed. A reasoned exception needs approval.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · Starting date & project duration\nHorizon Europe Model Grant Agreement · p. 21 · Article 4 — Duration and starting date\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 153–154 · Specific conditions"
+          "answer": "The call sets no duration or start date: both are fixed in the grant agreement.\n- Maximum duration: not set by the call; the grant agreement states the duration in months, and extensions are possible only exceptionally\n- Required start: normally after the grant agreement is signed; an earlier start is possible only exceptionally, for duly justified reasons and with the granting authority's agreement",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · G — Starting date & project duration"
         },
         {
           "title": "Decision and contracting",
-          "answer": null,
-          "sources": null
+          "answer": "Indicatively, the evaluation result comes about 5 months after the deadline and the grant agreement is signed about 8 months after it.\n- Funding decision: about 5 months after the deadline (indicative), around May 2028\n- Grant agreement: about 8 months after the deadline (indicative)\n- Conditions before starting: an invitation to grant preparation is not yet a funding commitment, since legal entity validation, financial capacity and exclusion checks follow; the partners must sign a written consortium agreement",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · F — Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 29 · F — No commitment to provide funding\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Consortium agreement"
         }
       ]
     },
@@ -109,18 +109,18 @@
       "cards": [
         {
           "title": "Mandatory submission package — pass/fail",
-          "answer": null,
-          "sources": null
+          "answer": "The proposal must be complete, submitted electronically before the deadline, and within the page limit; incomplete applications are rejected.\n- Application form: Part A (administrative data and a summary budget, filled in online) and Part B (the technical description, uploaded as a PDF) through the EU Funding & Tenders Portal, using the forms inside the submission system; Part B is limited to 40 pages\n- Budget: the summary budget in Part A\n- Mandatory annexes: a plan for the exploitation and dissemination of results, including communication activities, and the ethics self-assessment\n- Partner documents: the coordinator confirms at submission that it has the mandate to act for all applicants; every participant signs a declaration of honour before the grant is signed\n- Registration: every beneficiary, affiliated entity and associated partner needs a participant identification code (PIC, a number from the EU Participant Register) before submission; validation of beneficiaries follows at grant preparation\n- Parallel submission: none\n- Exploitation plan: a strong business case and preliminary plans for scale-up, commercialisation and deployment, naming funding such as the Innovation Fund",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility, Page limits\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 5 · B — Entities eligible to participate\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · B — Ethics\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Registration\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 153–154 · HORIZON-CL5-2027-07-D3-16, Scope"
         },
         {
           "title": "Evaluation and selection — scored or ranked",
-          "answer": null,
-          "sources": null
+          "answer": "Independent experts score three criteria out of 5; a proposal needs 3 on each and 10 in total, and Impact weighs 1.5 times in the ranking.\n- Evaluation criteria: Excellence (clear, ambitious objectives beyond the state of the art; sound methodology), Impact (credible pathways to the expected outcomes; dissemination and exploitation measures) and Quality and efficiency of the implementation (work plan, risks, resources, capacity of each partner)\n- Thresholds: at least 3 out of 5 for each criterion and 10 out of 15 overall\n- Weighting: for ranking, the Impact score counts 1.5 times\n- Ranking rules: equal scores are separated first by whether a proposal covers aspects of the call not covered by higher-ranked ones, then by the Impact score, then Excellence, then gender balance among lead researchers and geographical diversity\n- Budget assessment: the grant awarded may be lower than requested, and topic budgets may change by up to 20% after evaluation",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria, Scores and weighting, Two-stage calls\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 28–29 · F — Evaluation procedure and ranking, Budget flexibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 31 · G — Form of grant, funding rate and maximum grant amount"
         },
         {
           "title": "Conditional and exceptional requirements",
-          "answer": "An industrial tandem-solar proposal needs a credible commercial strategy where the results will be sold or deployed.\n- Conditional — Commercial exploitation: If results are intended for commercial exploitation, include an exploitation strategy. The plan should include a business case and steps for scaling, commercialisation and deployment.\n- Expected: Report results to European Partnership for Innovation in Photovoltaics (the solar industry and research partnership) for monitoring of its performance indicators.\n- Exception — Results transfers: The granting authority may object to transfers or exclusive licences (giving another party sole rights to use the results) of results for up to four years after project end.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 153–154 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 153–154 · Scope"
+          "answer": "The China-control restriction, the ownership safeguard, the business case and partnership reporting apply in addition to the general rules.\n- Exception — entities controlled by China: not eligible\n- Conditional — results transfer: the granting authority may object to transfers or exclusive licensing for 4 years after the project\n- Conditional — exploitation: a strong business case and preliminary scale-up plans, naming possible funding such as the Innovation Fund\n- Conditional — partnership reporting: report results to the European Partnership for Innovation in Photovoltaics (EUPI-PV)",
+          "sources": "Horizon Europe Work Programme 2026–2027, Climate, Energy and Mobility · pp. 153–154 · HORIZON-CL5-2027-07-D3-16, Specific conditions and Scope"
         }
       ]
     }

@@ -7,38 +7,38 @@
         {
           "title": "Central object",
           "question": "What is the principal thing the project must develop?",
-          "answer": "Develop a reusable integration framework and kit for deploying artificial intelligence robotics in factories and other industrial settings.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Scope\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Expected Outcome"
+          "answer": "A modular integration framework and Integration Kit that help companies, especially SMEs, adopt AI-driven robotics, validated in at least three industrial pilots.\nSystem integrators are the firms that combine robots, software and sensors into working production solutions. The topic serves the EU's Apply AI Strategy, which aims to speed up the move of AI-powered robotics from research to deployment.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · HORIZON-CL4-2027-04-DIGITAL-EMERGING-05, Expected Outcome and Scope"
         },
         {
           "title": "Scope",
           "question": "Which activities fall within the funding opportunity's scope?",
-          "answer": "Develop a modular way to integrate artificial intelligence robots into operating industrial systems. Demonstrate it across distinct uses and include compatible interfaces, adoption tools and relevant safety tests.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Scope"
+          "answer": "The project is expected to deliver six results and address Europe's gap in robotics system integration.\n- A deployable, modular integration framework validated in at least three real-world industrial pilots in different reference scenarios, covering both SMEs and larger manufacturers; for example a common software layer, standard interfaces to existing workflows and legacy systems, multi-robot coordination, links to AI tools and IoT, configuration templates and safety guidelines\n- An Integration Kit with ready-to-use modules, example configurations and practical tools\n- Where relevant, high-fidelity digital twin testbeds linked to each pilot\n- Reusable data sets, compliant with regulation and IP protection, and benchmark tasks for the AI and robotics community\n- A Step-by-Step Adoption Guide for SMEs and other end users, including regulatory compliance and certification\n- Contributions to open standards and guidance on certification pathways, making full use of the AI-on-Demand Platform and the EuroCORE repository\nIntegration frameworks should promote energy-efficient AI ('Green AI') and carbon-aware operation.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · HORIZON-CL4-2027-04-DIGITAL-EMERGING-05, Scope"
         },
         {
           "title": "Problem",
           "question": "What type of problem or need must justify the project, and where must it originate?",
-          "answer": "Industrial users and integrators need a repeatable way to connect robots to existing technology and workflows without rebuilding the entire system for each use.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Scope\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Expected Outcome"
+          "answer": "Europe lacks system-integration capability to turn robotics and AI components into solutions industry, especially SMEs, can adopt.\nThe need originates with industry: end users, notably SMEs, struggle to adopt AI-driven robotics, and there is a gap between technology providers and end users. System integrators need upskilling on state-of-the-art components and interoperability.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · HORIZON-CL4-2027-04-DIGITAL-EMERGING-05, Expected Outcome and Scope"
         },
         {
           "title": "Deliverables",
           "question": "Which concrete outputs must the project produce?",
-          "answer": "Provide the integration framework and kit, reusable datasets and benchmark tasks, an adoption guide, and contributions to standards and practical certification guidance.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Scope\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Expected Outcome"
+          "answer": "An integration framework, an Integration Kit, digital twin testbeds where relevant, reusable data sets and benchmarks, an SME adoption guide, and standards contributions.\nThe framework must be validated in at least three real-world industrial pilots.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · HORIZON-CL4-2027-04-DIGITAL-EMERGING-05, Scope"
         },
         {
           "title": "Impact",
           "question": "Which wider system outcomes and impacts must the project support?",
-          "answer": "Speed adoption of safe and reusable robotic systems, especially for smaller businesses. The framework should help European users bring components from different developers together.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Expected Outcome\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Scope"
+          "answer": "Projects must contribute to all three outcomes: wider and faster robotics deployment, modular and interoperable integration frameworks, and more competitive European industry, notably SMEs.\n- Wider, faster deployment of robotics, bridging technology providers and end users\n- Modular, interoperable integration frameworks and solutions, with standardised protocols for data, training and safety testing, evaluation and validation\n- Improved competitiveness of European industries, notably SMEs, through advanced robotics, intelligent planning and control, user feedback techniques and AI innovations\nThe call sets no quantified targets.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · HORIZON-CL4-2027-04-DIGITAL-EMERGING-05, Expected Outcome"
         },
         {
           "title": "After the project",
           "question": "How must the result be replicated, taken up and kept in use after the project?",
-          "answer": "Publish practical adoption guidance and contribute to open standards where relevant. Use the European shared artificial intelligence platform and coordinate with the European industry and research partnership for artificial intelligence, data and robotics.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Scope\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Expected Outcome"
+          "answer": "The results are designed for broad reuse: common frameworks and reusable building blocks across sectors, open data sets and benchmarks, standards and an adoption guide.\n- Reuse through the AI-on-Demand Platform and EuroCORE, avoiding duplication\n- Open standards contributions and certification guidance to build trust\n- Tasks for cohesion activities with the European Partnership on AI, Data and Robotics (ADRA), which all proposals must allocate",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · HORIZON-CL4-2027-04-DIGITAL-EMERGING-05, Expected Outcome and Scope"
         }
       ]
     },
@@ -49,26 +49,26 @@
         {
           "title": "Number of partners",
           "question": "What is the permitted or required consortium size?",
-          "answer": "The proposal needs at least three independent funded partners in three different eligible countries. At least one must be established in a European Union Member State. The other two must be established in different Member States or countries associated with Horizon Europe (countries formally participating in the European research programme).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+          "answer": "At least three independent organisations from three different countries; the call sets no maximum.\nThe general rule requires, as beneficiaries (organisations that sign the grant agreement and receive funding), three legal entities independent of each other: at least one established in an EU Member State and two others each in a different Member State or country associated with Horizon Europe (non-EU countries taking part in the programme, such as Norway, Switzerland or the United Kingdom). Affiliated entities (organisations legally linked to a beneficiary) and associated partners (organisations taking part without funding) do not count towards this minimum.\nAll beneficiaries must be established in the countries eligible for this topic: the EU Member States, Iceland, Norway, Canada, Israel, the Republic of Korea, New Zealand, Switzerland and the United Kingdom.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 13 · B — Eligibility, Consortium composition\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · HORIZON-CL4-2027-04-DIGITAL-EMERGING-05"
         },
         {
           "title": "Partner composition",
           "question": "Which types of partners must the consortium include?",
-          "answer": "Build a team that brings robotics developers, system integrators and industrial users together. The topic restricts where participants can be established and who can control them.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Scope\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 13 · Consortium composition"
+          "answer": "Participation is restricted to entities from EU Member States and a short list of associated countries, and entities controlled from elsewhere need security guarantees.\n- Eligible countries: EU Member States, Iceland, Norway, Canada, Israel, Republic of Korea, New Zealand, Switzerland, United Kingdom, and countries associated during 2026–2027 if listed for this topic\n- Control: an entity in an eligible country but controlled by a non-eligible country or entity may take part only with guarantees positively assessed by its country of establishment; entities controlled by China cannot submit guarantees\n- Partner types: none required, but the pilots need industrial end users, including SMEs and larger manufacturers, and the project targets system integrators",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · HORIZON-CL4-2027-04-DIGITAL-EMERGING-05, Specific conditions, Eligibility conditions and Scope"
         },
         {
           "title": "Distribution of work",
           "question": "How must work and budget be distributed among partners?",
-          "answer": "Coordinate reusable modules, standards work, demonstrators and user guidance. Set aside tasks for cooperation with the European partnership for artificial intelligence, data and robotics.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Scope"
+          "answer": "The call prescribes no split, but all proposals must allocate tasks for cohesion activities with the AI, Data and Robotics Partnership.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · HORIZON-CL4-2027-04-DIGITAL-EMERGING-05, Scope"
         },
         {
           "title": "Coordinator",
           "question": "What type of organisation may or must act as lead applicant?",
-          "answer": "The group appoints a funded partner to lead the work on industrial robotics integration and represent it to the funder.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners"
+          "answer": "No type of organisation is prescribed: the beneficiaries choose one of themselves as coordinator.\nThe coordinator manages and coordinates the project and represents the consortium towards the granting authority (the European Commission or its agency). At submission it must confirm that it has the mandate to act for all applicants.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Coordinator\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents, Submission"
         }
       ]
     },
@@ -79,26 +79,26 @@
         {
           "title": "Coordinate",
           "question": "Can TenneT apply or coordinate, and under which conditions?",
-          "answer": "TenneT could coordinate the project if it can validate a reusable robotic integration framework in a qualifying industrial pilot. The applicants choose their coordinator (the funded partner that represents the group to the funder).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Scope"
+          "answer": "Formally yes, as TenneT TSO B.V. is established in an eligible country, but an industrial robotics integration project is naturally led by integrators or robotics firms.\nOnly one project is expected for the whole EUR 18 million, so the consortium will be a broad European alliance.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Coordinator\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · HORIZON-CL4-2027-04-DIGITAL-EMERGING-05, Specific conditions\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 31–32 · Call DIGITAL (HORIZON-CL4-2027-04), Overview of this call"
         },
         {
           "title": "Participate",
           "question": "Can TenneT take part without receiving funding?",
-          "answer": "TenneT could validate a reusable robotic integration framework in a qualifying industrial pilot as an associated partner (an organisation that works without a grant). It would cover its own costs and would not count towards the minimum number of funded partners.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 5, 11–13 · B — Eligibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Consortium roles, Coordinator and Associated partners\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Scope"
+          "answer": "Yes, as an associated partner, which takes part without funding and bears its own costs.\nAn associated partner does not sign the grant agreement, cannot charge costs, does not need legal validation and does not count towards the minimum of three beneficiaries from three countries. It must still register in the Participant Register before the application is submitted.\nTenneT could also take part as an end user hosting or advising on a pilot, without funding.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 5 · B — Eligibility, Associated partners\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Registration, Consortium roles and Associated partners\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · HORIZON-CL4-2027-04-DIGITAL-EMERGING-05"
         },
         {
           "title": "Receive funding",
           "question": "Can TenneT receive funding, and which funding rate or cost rules apply?",
-          "answer": "TenneT can receive up to 70% of eligible costs (project costs the grant rules allow) for qualifying work. The Dutch entity could validate a reusable robotic integration framework in a qualifying industrial pilot. Budget at least 30% of those costs from other resources. The call restricts foreign control even for Dutch entities. A valid guarantee may be required, and entities controlled from China cannot use that route.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Scope"
+          "answer": "Yes: as a beneficiary TenneT can receive up to 70% of its eligible costs; it must fund the rest itself.\nThis topic is an innovation action (a project that develops, pilots and demonstrates new or improved solutions close to the market), for which the maximum rate is 70% for organisations other than non-profit legal entities. The grant reimburses costs actually incurred plus a 25% flat rate for indirect costs. The expected EU contribution is around EUR 18 million for the single project. TenneT TSO B.V. is Dutch and not controlled from a non-eligible country, so the country restriction does not exclude it. The call sets no Dutch national rules.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · HORIZON-CL4-2027-04-DIGITAL-EMERGING-05, Specific conditions"
         },
         {
           "title": "TenneT's likely contribution",
           "question": "What contribution would make TenneT credible and useful within the project?",
-          "answer": "TenneT could supply an industrial inspection or maintenance use case with a manufacturing partner. The work would need to validate reusable integration within one of the qualifying industrial pilots.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Scope\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Expected Outcome"
+          "answer": "TenneT could be the industrial end user for one pilot, for example robotic inspection or maintenance in substations.\nThis is our interpretation. TenneT's Reliability Centered Maintenance programme already uses drones and sensors for condition-based maintenance, and robotics with AI could extend this. The call targets industrial production and SMEs, so a grid-asset pilot would have to fit one of the reference scenarios; this is not certain.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · HORIZON-CL4-2027-04-DIGITAL-EMERGING-05, Scope"
         }
       ]
     },
@@ -109,26 +109,26 @@
         {
           "title": "Innovation threshold",
           "question": "Must the project produce genuinely new knowledge or technology, or may it integrate and apply existing solutions?",
-          "answer": "Develop reusable ways to integrate and deploy robotic technology. Existing robotics components can be used within the modular framework and its demonstrators.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Scope"
+          "answer": "The project must deliver new integration frameworks, tools and building blocks; it integrates state-of-the-art components rather than inventing new robots.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · HORIZON-CL4-2027-04-DIGITAL-EMERGING-05, Expected Outcome and Scope"
         },
         {
           "title": "Innovation object",
           "question": "In what must the project innovate?",
-          "answer": "The innovation is in integration architecture, interoperability, data and training protocols, safe commissioning and adoption tools for industrial users.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Scope"
+          "answer": "System architecture (integration frameworks and interfaces), software tools, standards, and adoption methods for end users.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · HORIZON-CL4-2027-04-DIGITAL-EMERGING-05, Scope"
         },
         {
           "title": "Development stages",
           "question": "Which development stages must the project cover?",
-          "answer": "Start with technologies validated in a laboratory. Develop and test the integration kit and validate it in at least three real industrial pilots.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Scope"
+          "answer": "Development, integration, validation in real industrial pilots, and preparation for adoption.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · HORIZON-CL4-2027-04-DIGITAL-EMERGING-05, Scope"
         },
         {
           "title": "Maturity",
           "question": "Which maturity level is expected at the start and end of the project?",
-          "answer": "The work should reach TRL 7 (technology readiness level: a prototype demonstrated in operation) by project end. The work is expected to start at TRL 4 (technology readiness level: technology validated in a laboratory).",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Specific conditions"
+          "answer": "Activities are expected to start at TRL 4 and reach TRL 7 by the end of the project.\nTRL 4 is technology validated in a laboratory; TRL 7 is a system prototype demonstrated in an operational environment.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · HORIZON-CL4-2027-04-DIGITAL-EMERGING-05, Specific conditions, Technology Readiness Level\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · B — Technology Readiness Levels"
         }
       ]
     },
@@ -139,32 +139,32 @@
         {
           "title": "Demonstration",
           "question": "Where and under which conditions must the solution be demonstrated?",
-          "answer": "Validate the framework in at least three distinct real-world industrial pilots, covering smaller and larger businesses. Connect virtual testbeds where relevant.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Scope\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Specific conditions"
+          "answer": "Validation in at least three real-world industrial pilots in different reference scenarios, for SMEs and larger manufacturers, is required; digital twin testbeds may support them.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · HORIZON-CL4-2027-04-DIGITAL-EMERGING-05, Scope"
         },
         {
           "title": "Integration",
           "question": "How must the activities fit together and with existing systems?",
-          "answer": "Make the kit integrate different hardware and software modules with operating industrial systems. Where relevant, link pilots to digital twins (virtual test environments) and use recognised open standards.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Scope"
+          "answer": "The framework must connect to existing workflows and legacy systems rather than replace them.\nIt should coordinate multiple robots, link with AI tools and IoT environments, and transfer smoothly from simulation to production.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · HORIZON-CL4-2027-04-DIGITAL-EMERGING-05, Scope"
         },
         {
           "title": "Evidence",
           "question": "What must the demonstration prove?",
-          "answer": "Use at least three real industrial pilots in different scenarios to demonstrate that the framework transfers. Share reusable datasets and benchmark tasks under the relevant data and intellectual property rules.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Scope\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Expected Outcome"
+          "answer": "The pilots must show the approach adapts to varied industrial needs and company sizes; benchmark tasks and data sets support comparison.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · HORIZON-CL4-2027-04-DIGITAL-EMERGING-05, Scope"
         },
         {
           "title": "User participation",
           "question": "How must users take part in the project?",
-          "answer": "The project should bridge technology suppliers, system integrators and industrial end users. Prepare practical adoption guidance for small and medium-sized enterprises and other users.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Scope"
+          "answer": "End users, especially SMEs, are central: the pilots, the adoption guide and the Integration Kit are built for them.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · HORIZON-CL4-2027-04-DIGITAL-EMERGING-05, Expected Outcome and Scope"
         },
         {
           "title": "Safety and cybersecurity",
           "question": "Which safety, cybersecurity or data requirements must the project meet?",
-          "answer": "Follow European data protection and intellectual property rules when sharing datasets. Build in safe testing and document any guarantees required when an applicant is controlled from an ineligible country.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Scope\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Specific conditions"
+          "answer": "Safety and strategic security are central: safety testing protocols, certification guidance and a strict country and control restriction.\n- Safety: standardised protocols for safety testing, safety guidelines in the framework, digital twin testbeds for safe testing, and certification guidance\n- Strategic security: participation limited to listed countries; controlled entities need positively assessed guarantees on control, access to sensitive information, security clearances and retention of results within eligible countries\n- Data: data sets must comply with regulation, IP protection and European data protection rules",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · HORIZON-CL4-2027-04-DIGITAL-EMERGING-05, Specific conditions and Scope"
         }
       ]
     }
@@ -176,23 +176,23 @@
       "cards": [
         {
           "title": "Funding envelope",
-          "answer": "The Commission indicates EUR 18 million for industrial robotics integration. It expects 1 award.\n- Grant request: around EUR 18 million per project is indicative. The Commission can select a different request.\n- Funding form: Budget-based grant (paid using approved costs or rates for the funded work).",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · p. 31 · Overview of this call\nApply AI: AI-Driven Robotics for Industry: Enabling System Integration and Adoption (IA) (Partnership in AI, Data and Robotics) · Budget overview"
+          "answer": "One project of around EUR 18 million is expected, which is the entire topic budget.\n- Total project size: not stated\n- Grant request: around EUR 18 million for the whole consortium; other amounts may be requested and selected\n- Funding form: actual-cost grant with a 25% flat rate for indirect costs\nFinal budgets may change by up to 20% after evaluation.",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 31–32 · Call DIGITAL (HORIZON-CL4-2027-04), Overview of this call\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · HORIZON-CL4-2027-04-DIGITAL-EMERGING-05, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 29 · F — Budget flexibility"
         },
         {
           "title": "Funding rate and co-financing",
-          "answer": "For-profit organisations can receive up to 70% towards industrial robotics integration.\n- For-profit organisations: Up to 70% of eligible costs (project costs the grant rules allow), leaving at least 30% to cover.\n- Non-profit legal entities: Up to 100% of eligible costs (project costs the grant rules allow).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · Form of grant, funding rate and maximum grant amount\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Specific conditions"
+          "answer": "Companies such as TenneT receive at most 70% of eligible costs; non-profit legal entities receive up to 100%.\n- For-profit organisations: up to 70% of eligible costs, so at least 30% must come from their own resources\n- Non-profit legal entities (for example universities and research organisations): up to 100% of eligible costs\n- Co-financing conditions: the call sets no rule on cash or in-kind co-financing beyond the funding rate; the remainder is simply not reimbursed\nGrants may not produce a profit: any surplus of revenue plus grant over costs is deducted from the final grant.",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, funding rate and maximum grant amount"
         },
         {
           "title": "Budget constraints",
-          "answer": "Plan the budget for industrial robotics integration using the cost categories allowed by the grant. The grant agreement (the contract setting the funded work and payment rules) specifies how those costs can be claimed.\n- Eligible costs (project costs the grant rules allow): Personnel, purchases and eligible subcontracting.\n- Overheads and value added tax (tax on purchases): The indirect-cost rate (overheads such as general office expenses) is 25% of the eligible direct-cost base after exclusions. value added tax is eligible where it is unrecoverable and the cost otherwise qualifies.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 32 · Budget categories and cost eligibility rules\nEU Annotated Grant Agreement · p. 143 · Value added tax\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Specific conditions"
+          "answer": "The grant reimburses only eligible costs actually incurred, plus a flat 25% for indirect costs; subcontracting should stay a limited part.\n- Eligible costs: personnel, subcontracting and purchase costs (equipment, travel, other goods and services), plus personnel unit costs where the beneficiary uses them\n- Overheads and VAT: indirect costs are a flat rate of 25% of eligible direct costs, excluding subcontracting and financial support to third parties\n- Subcontracting or equipment: subcontracting should normally be a limited part of the project and be done by third parties, not by beneficiaries; purchases must give best value for money\nBudgeted costs are not paid as such: only the costs actually incurred are reimbursed.\n- Mandatory allocations: tasks for cohesion activities with the AI, Data and Robotics Partnership",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 31–32 · G — Form of grant, Budget categories and cost eligibility rules\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Consortium roles"
         },
         {
           "title": "Cash flow and financial exposure",
-          "answer": "Plan cash flow for industrial robotics integration around the initial advance and later payments.\n- Payment model: Usually pre-financing (an advance at the start of the grant), then interim payments linked to reporting and a final balance.\n- Retention or guarantee: 5–8% of the maximum grant is deducted from pre-financing for the mutual insurance mechanism (a common fund covering grant recovery risks).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 33 · Reporting & payment arrangements\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Specific conditions"
+          "answer": "Partners normally receive a large advance after signing, minus a 5–8% contribution to a shared insurance fund, then interim payments.\n- Payment model: pre-financing (an advance) of normally 160% of the average EU funding per reporting period, then interim payments linked to periodic reports, and a final payment after the final report fixes the grant\n- Retention or guarantee: 5% to 8% of the maximum grant is deducted from the pre-financing and paid into the mutual insurance mechanism (a fund covering sums that cannot be recovered from beneficiaries)\n- Financial reporting or audit: depending on grant size and type of beneficiary, a certificate on the financial statements may be required; each beneficiary is liable only for its own debts",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 32–33 · G — Reporting & payment arrangements, Certificates, Liability regime for recoveries"
         }
       ]
     },
@@ -202,18 +202,18 @@
       "cards": [
         {
           "title": "Application route",
-          "answer": "Apply for industrial robotics integration through the European Funding & Tenders Portal in one stage.\n- Full proposal: 18 March 2027, 17:00 Brussels time. Submit Part A (online administration form) and Part B (technical proposal). Part B is limited to 40 pages.\n- Opening: 17 November 2026.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · p. 31 · Overview of this call\nApply AI: AI-Driven Robotics for Industry: Enabling System Integration and Adoption (IA) (Partnership in AI, Data and Robotics) · General information\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 4 · Page limits\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents"
+          "answer": "One stage: the call opened on 17 November 2026 and full proposals are due by 18 March 2027, 17:00 Brussels time, through the EU Funding & Tenders Portal.\n- Stage 1 — Full proposal: 18 March 2027, 17:00 Brussels time; Part A online and Part B of at most 40 pages\n- Opening: 17 November 2026\n- Additional procedure: entities controlled from a non-eligible country must provide guarantees assessed by their country of establishment; the Commission may delay the deadline by up to two months",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 31–32 · Call DIGITAL (HORIZON-CL4-2027-04), Overview of this call\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · HORIZON-CL4-2027-04-DIGITAL-EMERGING-05, Specific conditions\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility, Page limits"
         },
         {
           "title": "Project window",
-          "answer": "The grant agreement (the contract setting the funded work and payment rules) sets the start date and duration for industrial robotics integration.\n- Required start: Work normally starts after the grant agreement is signed. A reasoned exception needs approval.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · Starting date & project duration\nHorizon Europe Model Grant Agreement · p. 21 · Article 4 — Duration and starting date\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Specific conditions"
+          "answer": "The call sets no duration or start date: both are fixed in the grant agreement.\n- Maximum duration: not set by the call; the grant agreement states the duration in months, and extensions are possible only exceptionally\n- Required start: normally after the grant agreement is signed; an earlier start is possible only exceptionally, for duly justified reasons and with the granting authority's agreement",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 30–31 · G — Starting date & project duration"
         },
         {
           "title": "Decision and contracting",
-          "answer": "The Commission’s timetable for assessing and contracting industrial robotics integration is indicative.\n- Expected invitation or assessment result: Around five months after the deadline.\n- Grant agreement (the contract setting the funded work and payment rules): The indicative signature date is around eight months after the deadline.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · Indicative timetable for evaluation and for signature of the grant agreement"
+          "answer": "Indicatively, the evaluation result comes about 5 months after the deadline and the grant agreement is signed about 8 months after it.\n- Funding decision: about 5 months after the deadline (indicative), around August 2027\n- Grant agreement: about 8 months after the deadline (indicative)\n- Conditions before starting: an invitation to grant preparation is not yet a funding commitment, since legal entity validation, financial capacity and exclusion checks follow; the partners must sign a written consortium agreement",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 30 · F — Indicative timetable for evaluation and for signature of the grant agreement\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 29 · F — No commitment to provide funding\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Consortium agreement"
         }
       ]
     },
@@ -223,18 +223,18 @@
       "cards": [
         {
           "title": "Mandatory submission package — pass/fail",
-          "answer": "Use the portal’s forms to submit the proposal and supporting documents for industrial robotics integration.\n- Application form: Complete Part A online and upload Part B as a fixed-format document with the required annexes.\n- Registration: Enter a participant identification code for each beneficiary (organisations formally responsible for funded work) and affiliated entity (organisations legally linked to funded partners).",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · Participant Register\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Specific conditions"
+          "answer": "The proposal must be complete, submitted electronically before the deadline, and within the page limit; incomplete applications are rejected.\n- Application form: Part A (administrative data and a summary budget, filled in online) and Part B (the technical description, uploaded as a PDF) through the EU Funding & Tenders Portal, using the forms inside the submission system; Part B is limited to 40 pages\n- Budget: the summary budget in Part A\n- Mandatory annexes: a plan for the exploitation and dissemination of results, including communication activities, and the ethics self-assessment\n- Partner documents: the coordinator confirms at submission that it has the mandate to act for all applicants; every participant signs a declaration of honour before the grant is signed\n- Registration: every beneficiary, affiliated entity and associated partner needs a participant identification code (PIC, a number from the EU Participant Register) before submission; validation of beneficiaries follows at grant preparation\n- Parallel submission: none\n- Guarantees: required for entities controlled by a non-eligible country or entity",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 3–4 · A — Admissibility, Page limits\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 5 · B — Entities eligible to participate\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 15 · B — Ethics\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 27 · E — Documents\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 36 · IMPORTANT, Registration\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · HORIZON-CL4-2027-04-DIGITAL-EMERGING-05, Specific conditions"
         },
         {
           "title": "Evaluation and selection — scored or ranked",
-          "answer": "Industrial robotics integration proposals compete on research quality, impact and the quality of the delivery plan.\n- Evaluation criteria: Excellence, impact, and quality and efficiency of implementation.\n- Thresholds: At least 3/5 per criterion and 10/15 overall.\n- Weighting: Impact is multiplied by 1.5 for the ranking.",
-          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria"
+          "answer": "Independent experts score three criteria out of 5; a proposal needs 3 on each and 10 in total, and Impact weighs 1.5 times in the ranking.\n- Evaluation criteria: Excellence (clear, ambitious objectives beyond the state of the art; sound methodology), Impact (credible pathways to the expected outcomes; dissemination and exploitation measures) and Quality and efficiency of the implementation (work plan, risks, resources, capacity of each partner)\n- Thresholds: at least 3 out of 5 for each criterion and 10 out of 15 overall\n- Weighting: for ranking, the Impact score counts 1.5 times\n- Ranking rules: equal scores are separated first by whether a proposal covers aspects of the call not covered by higher-ranked ones, then by the Impact score, then Excellence, then gender balance among lead researchers and geographical diversity\n- Budget assessment: the grant awarded may be lower than requested, and topic budgets may change by up to 20% after evaluation",
+          "sources": "Horizon Europe Work Programme 2026–2027, General Annexes · pp. 23–26 · D — Award criteria, Scores and weighting, Two-stage calls\nHorizon Europe Work Programme 2026–2027, General Annexes · pp. 28–29 · F — Evaluation procedure and ranking, Budget flexibility\nHorizon Europe Work Programme 2026–2027, General Annexes · p. 31 · G — Form of grant, funding rate and maximum grant amount"
         },
         {
           "title": "Conditional and exceptional requirements",
-          "answer": "Industrial robotics applicants must meet the topic’s country and ownership-control rules.\n- Conditional — Other countries associating in 2026–2027: Check topic eligibility in the participating-countries list at submission. The association agreement must apply at grant signature.",
-          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Specific conditions\nHorizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · Scope\nApply AI: AI-Driven Robotics for Industry: Enabling System Integration and Adoption (IA) (Partnership in AI, Data and Robotics) · Topic updates, 19 October 2026"
+          "answer": "The country and control restriction is the key exception; ADRA cohesion tasks and at least three pilots are also required.\n- Exception — eligible countries: EU Member States, Iceland, Norway, Canada, Israel, Republic of Korea, New Zealand, Switzerland, United Kingdom, and newly associated countries if listed\n- Conditional — control by a non-eligible country: guarantees positively assessed by the country of establishment; entities controlled by China cannot submit guarantees\n- Conditional — pilots: at least three real-world industrial pilots\n- Conditional — partnership: tasks for cohesion activities with ADRA\n- Recommended: Green AI and carbon-aware operation; use of the AI-on-Demand Platform and EuroCORE",
+          "sources": "Horizon Europe Work Programme 2026–2027, Digital, Industry and Space · pp. 151–154 · HORIZON-CL4-2027-04-DIGITAL-EMERGING-05, Specific conditions and Scope"
         }
       ]
     }
