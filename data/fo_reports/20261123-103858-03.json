@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "Investments by industrial companies in proven, market-ready equipment that cuts their own CO2 emissions in the Netherlands, where the investment would otherwise pay back too slowly.\nVEKI (Versnelde klimaatinvesteringen industrie, accelerated climate investments in industry) is a Dutch subsidy run by RVO (the Netherlands Enterprise Agency) for the Ministry of Climate and Green Growth. It is for the step after innovation: the technique must already have proven itself in similar industrial projects; pilots and demonstrations are sent to the separate DEI+ scheme. The investment must fit one of four themes:\n- Energy efficiency in the production process (not in buildings), for example industrial heat pumps; equipment running on fossil fuels, including natural gas, is excluded.\n- Circular economy: using fewer or secondary raw materials, preventing waste, and collecting, sorting or recycling waste; plastics, textiles, furniture and mattresses are explicitly encouraged.\n- Infrastructure for waste heat (residual heat) and for hydrogen made from electricity, such as steam networks, heat networks fed by waste heat, and hydrogen pipelines or storage.\n- Other measures that cut CO2 or other greenhouse gases (methane, nitrous oxide, fluorinated gases, SF6) within the applicant's own production process.\nExcluded are, among others, hydrogen production, renewable energy production, combined heat and power, carbon capture and storage or use, biofuels and mobile construction equipment. The need lies with the company itself: it wants to decarbonise but the extra investment does not pay back within 5 years.",
+          "sources": "Versnelde klimaatinvesteringen industrie (VEKI) (RVO page) · Waarvoor krijgt u subsidie?; Welke projecten krijgen geen subsidie?\nHandleiding VEKI.pdf (April 2026) · pp. 4–7 · 2 Thema's\nRegeling nationale EZK- en LNV-subsidies (wetten.overheid.nl) · Bijlage 4.6.2, 2. Thema's"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "An absolute cut in CO2 emissions in the Netherlands by 2030, compared with industry's current emissions, delivered cost-effectively.\nThe scheme supports the national goal of 55% less CO2 in 2030 than in 1990 and the aim of depending less on oil and natural gas; RVO adds that less fossil energy often also means less nitrogen emission, which applicants must describe. A project that expands production must still lead to an absolute reduction, for example because capacity elsewhere closes. Reductions are counted with a reference-park method: extra electricity use counts at 0.14 kg CO2 per kWh, as if produced by fossil power stations, so electrification earns credit only when it saves more than that. Cost-effectiveness is capped: the subsidy may not exceed EUR 80 per tonne of CO2 avoided over 15 years from commissioning. RVO warns applicants who will use or generate more electricity to check first whether the regional grid is congested.",
+          "sources": "Handleiding VEKI.pdf (April 2026) · p. 3 · 1 Introductie; p. 9 · 3.3 Redenen voor afwijzing\nRegeling nationale EZK- en LNV-subsidies (wetten.overheid.nl) · Bijlage 4.6.2, 1. Doelstelling; Artikel 4.6.7 Afwijzingsgronden; Artikel 4.6.9 Informatieverplichtingen\nVersnelde klimaatinvesteringen industrie (VEKI) (RVO page) · Waarvoor krijgt u subsidie?"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "Single industrial companies, from small firms to large groups, investing at their own risk in their own plant.\n- Lead applicant: one company per application that carries out the project for its own account and risk and is an industrial enterprise under the Dutch standard industry classification (SBI) of Statistics Netherlands: section C (manufacturing), section D only for companies that distribute energy, or section E (waste and wastewater treatment). The SBI code of the activity that achieves the reduction counts, not necessarily the code registered at the Chamber of Commerce; within a group, the applicant and the plant owner may differ.\n- Consortium: none is required. Municipalities, provinces and the national government cannot receive the subsidy; water boards can.\n- Applicants must show they can finance their own share and are not a company in difficulty.\n- Best suited to: manufacturers, recyclers and waste processors with a ready-to-build project, and indirectly to suppliers of industrial heat pumps, electric boilers and furnaces, recycling lines, heat and hydrogen pipelines, and engineering contractors. It does not suit universities or startups developing new technology.",
+          "sources": "Handleiding VEKI.pdf (April 2026) · p. 8 · 3.1 Voorwaarden, Wie kan subsidie aanvragen?; p. 15 · 4.4\nRegeling nationale EZK- en LNV-subsidies (wetten.overheid.nl) · Artikel 4.6.2, tweede lid\nVersnelde klimaatinvesteringen industrie (VEKI) (RVO page) · Voor wie?; Voorwaarden"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": "No new technology is wanted: the call funds the roll-out of techniques that have already proven themselves in similar industrial projects.\nApplicants must make it plausible that the technology is proven; an application is rejected if the project could instead apply to DEI+ (the demonstration scheme for energy and climate innovation). Projects that only cover pre-engineering are excluded, and circular-economy investments in technologies that are already profitable throughout the EU are not eligible. The change is mainly technological and in the production process: replacing equipment, electrifying heat, recycling materials or building heat or hydrogen links.",
+          "sources": "Regeling nationale EZK- en LNV-subsidies (wetten.overheid.nl) · Artikel 4.6.7, eerste lid, onderdelen e en f\nHandleiding VEKI.pdf (April 2026) · pp. 4–5 · 2.1 and 2.2 Thema 2; p. 10 · 3.3 Redenen voor afwijzing\nVersnelde klimaatinvesteringen industrie (VEKI) (RVO page) · Waarvoor krijgt u subsidie?"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "Commercially available technology at the start, installed and in use by the end.\nThe call does not state a TRL (technology readiness level). It requires equipment that is ready for the market and has proven itself in similar industrial projects, and the installation must be commissioned within the project period of at most 4 years.",
+          "sources": "Versnelde klimaatinvesteringen industrie (VEKI) (RVO page) · Waarvoor krijgt u subsidie?\nRegeling nationale EZK- en LNV-subsidies (wetten.overheid.nl) · Artikel 4.6.6; Artikel 4.6.7, eerste lid, onderdeel e"
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": "The investment is built into the company's own operating plant in the Netherlands, not tested in a lab or pilot.\nThe installation must stay in use after the project. For infrastructure projects only the pipes, networks and storage needed to move hydrogen or waste heat between supplier and user are eligible, not the users' own equipment. The applicant must show that all parties with an essential role in the chain and the stakeholders are involved, for example through supply and offtake contracts. If the project needs a heavier grid connection, that reinforcement can be eligible: in full when the connection matches the project's capacity or the grid operator imposes a larger one (normally up to 10 MVA), otherwise pro rata.",
+          "sources": "Handleiding VEKI.pdf (April 2026) · pp. 11, 14 · 4.3 Projectkosten; Reikwijdte; Projectkosten voor verzwaring van uw netaansluiting\nRegeling nationale EZK- en LNV-subsidies (wetten.overheid.nl) · Artikel 4.6.7, eerste lid, onderdeel c"
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "VEKI speeds up electrification of Dutch industry, which drives new high-voltage connection requests and load growth on a congested grid that TenneT must plan for.\nThe scheme pays for industrial heat pumps, electric process heat and other electrification, and even for reinforcing a plant's own grid connection, while RVO tells applicants to check grid congestion first. Funded projects therefore show where industrial demand will grow in the next four years, which matters for connection planning, extra substation bays and flexible contracts such as time-dependent transmission rights. TenneT cannot clearly take part itself: applicants must be industrial companies in SBI sections C or E, or energy-distributing companies in section D, the CO2 cut must occur in the applicant's own production process, and the 'other measures' theme excludes investments covered by the EU state-aid rules for energy infrastructure; the call does not say whether a transmission system operator qualifies, for example for an SF6 reduction project.",
+          "sources": "Versnelde klimaatinvesteringen industrie (VEKI) (RVO page) · Waarvoor krijgt u subsidie?\nHandleiding VEKI.pdf (April 2026) · p. 6 · Thema 3; p. 8 · 3.1 Voorwaarden; p. 14 · Projectkosten voor verzwaring van uw netaansluiting\nRegeling nationale EZK- en LNV-subsidies (wetten.overheid.nl) · Artikel 4.6.1; Artikel 4.6.2, tweede lid"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "EUR 123.2 million in total for 2026, at most EUR 30 million per project, awarded first come, first served; the budget is currently oversubscribed.\n- Total project size: not set; the subsidy is a share of the eligible investment costs, usually the extra cost compared with a less clean reference investment.\n- Grant request: per project, at least EUR 125,000 for a large company or EUR 30,000 for a small or medium-sized company, and at most EUR 30 million; at most EUR 25 million for specific infrastructure and storage for hydrogen or waste heat, and at most EUR 11 million for public local hydrogen infrastructure, whose eligible costs may not exceed EUR 22 million. The subsidy may never exceed EUR 80 per tonne of CO2 avoided.\n- Funding form: a grant on actual costs, paid in advances and settled at the end.",
+          "sources": "Versnelde klimaatinvesteringen industrie (VEKI) (RVO page) · Budget en aanvraagperiode; Hoeveel subsidie krijgt u?\nHandleiding VEKI.pdf (April 2026) · p. 11 · 4.1 Subsidiebudget en maximale subsidie\nStaatscourant 2026, 15135 · Toelichting, VEKI\nRegeling nationale EZK- en LNV-subsidies (wetten.overheid.nl) · Artikel 4.6.3; Artikel 4.6.7"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "The rate depends on the theme and on whether a reference investment is used; the company pays the rest itself.\n- Other CO2-reducing measures: 40% of the extra cost over a reference investment, or 20% of the directly related costs without one.\n- Circular economy: 40% of the extra cost.\n- Energy efficiency: 30% of the extra cost, or 15% without a reference investment.\n- Infrastructure for waste heat and hydrogen: 30% to 50% of the total investment cost depending on the EU rule that applies; for local infrastructure the subsidy is also capped at the investment cost minus the operating profit.\n- Medium-sized companies: plus 10 percentage points (plus 5 without a reference investment).\n- Small companies: plus 20 percentage points (plus 10 without a reference investment).\n- Co-financing conditions: the applicant must show how it finances its own share, split into debt and equity; expected project revenues and the subsidy for project hours may not be used for it. Contributions from municipalities or provinces count towards the state-aid limit.\n- Evidence required: recent annual accounts, signed financing agreements or a bank or investor statement, and a group guarantee where a related company provides the money.",
+          "sources": "Handleiding VEKI.pdf (April 2026) · p. 11 · 4.2 Subsidiepercentages; pp. 8–9 · Wijze van financieren plus onderbouwing; p. 15 · 4.4\nRegeling nationale EZK- en LNV-subsidies (wetten.overheid.nl) · Artikel 4.6.3; Artikel 4.6.9, onderdeel e"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": "Only capitalised investment costs count, mostly as extra costs over a less clean reference investment.\n- Eligible costs: investments in assets such as machines and installations; financial lease is allowed for all themes, operational lease only for other CO2-reducing measures and energy efficiency, without operating costs.\n- Excluded costs: costs that are not capitalised but booked directly to profit and loss.\n- Grid connection: reinforcing the plant's own connection can be eligible, in full or pro rata to the capacity the project needs.",
+          "sources": "Regeling nationale EZK- en LNV-subsidies (wetten.overheid.nl) · Artikel 4.6.3, vijfde lid\nHandleiding VEKI.pdf (April 2026) · pp. 11–14 · 4.3 Projectkosten"
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One stage: a complete application to RVO between 7 May 2026, 09:00, and 28 January 2027, 17:00, handled in order of receipt.\n- Stage 1 — Full application: through RVO's online portal with eHerkenning (the Dutch business login) at level 3 or higher, with project plan, budget and calculation models. The date the application is complete sets its place in the queue; applications arriving on the closing day are only considered if complete.\n- Additional procedure: an optional, non-binding project-idea check with an RVO adviser before applying.\nWork may not start before the application is submitted: no binding orders or construction contracts.",
+          "sources": "Versnelde klimaatinvesteringen industrie (VEKI) (RVO page) · Aanvragen; Toets uw projectidee\nHandleiding VEKI.pdf (April 2026) · p. 16 · 5 Het aanvraagproces in 5 stappen\nStaatscourant 2026, 15135 · Artikel II, onderdeel C; Toelichting, VEKI"
+        },
+        {
+          "title": "Project window",
+          "answer": "Start within 6 months of the grant decision and finish within 4 years of the start.\n- Maximum duration: 48 months from the start of the activities.\n- Required start: no binding commitment before the application; activities in the project plan, such as detailed engineering, must start within 6 months of the grant decision.\n- Eligible-cost period: from submission of the application to the end of the project.",
+          "sources": "Regeling nationale EZK- en LNV-subsidies (wetten.overheid.nl) · Artikel 4.6.6 Realisatietermijn\nHandleiding VEKI.pdf (April 2026) · p. 8 · Wanneer begint u en hoelang mag een project duren?"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "RVO decides within 8 weeks of a complete application, extendable once by 8 weeks.\n- Funding decision: a decision letter stating the amount and obligations; applications that meet the conditions are funded until the budget runs out.\n- Payments: a first advance within 2 weeks of the grant or project start, up to 90% in advances, the last 10% at final settlement; a milestone budget is mandatory for requests of EUR 2 million or more.",
+          "sources": "Handleiding VEKI.pdf (April 2026) · p. 9 · 3.2 Beoordeling; p. 19 · 7 Als uw project subsidie krijgt"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "A complete application with project plan, budget, payback and CO2 models and several declarations.\n- Application form: RVO online portal, signed with eHerkenning.\n- Budget: RVO's model budget, with a milestone budget if the request is EUR 2 million or more, and an operating calculation for local infrastructure.\n- Mandatory annexes: project plan (RVO model), proof of financing of the own share, SME check where relevant, payback-period model, cost-effectiveness and CO2 model, and a declaration that the investment is not legally required under the environmental rules.\n- Partner documents: a declaration that the company is not in difficulty, with decision scheme, group organisation chart and annual accounts.",
+          "sources": "Handleiding VEKI.pdf (April 2026) · pp. 17–18 · 6 Onderdelen van de subsidieaanvraag\nRegeling nationale EZK- en LNV-subsidies (wetten.overheid.nl) · Artikel 4.6.9 Informatieverplichtingen"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "No ranking: complete applications are checked against the rejection grounds and funded in order of receipt until the budget runs out.\n- Rejection grounds include: payback period of 5 years or less without subsidy, more than EUR 80 per tonne of CO2, insufficient quality (plan, budget, risks, feasibility, chain partners, efficient use of means), unproven technology, a project that fits DEI+, no absolute CO2 cut in 2030, and doubtful financing.",
+          "sources": "Regeling nationale EZK- en LNV-subsidies (wetten.overheid.nl) · Artikel 4.6.5; Artikel 4.6.7 Afwijzingsgronden\nHandleiding VEKI.pdf (April 2026) · pp. 9–10 · 3.3 Redenen voor afwijzing"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": null,
+          "sources": null
+        }
+      ]
+    }
+  ]
+}
