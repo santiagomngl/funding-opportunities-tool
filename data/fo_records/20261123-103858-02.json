@@ -1,0 +1,39 @@
+{
+  "id": "20261123-103858-02",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "Vergunning windpark IJmuiden Ver Gamma-B – Windenergie op zee",
+  "organization_or_parent_framework": "Ministerie van Klimaat en Groene Groei",
+  "programme": "Windenergie op zee",
+  "call_title": "Vergunning windpark IJmuiden Ver Gamma-B",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://www.rvo.nl/subsidies-financiering/windenergie-op-zee/ijmuiden-ver-gamma-b",
+  "executive_summary": "Tender, run by RVO for the Ministry of Climate and Green Growth, for the permit to build and operate an offshore wind farm of about 1 GW (up to 1.15 GW installed) on plot Gamma-B of the IJmuiden Ver wind energy area, about 61 km off the Dutch coast, with an optional operating subsidy. Wind farm developers and energy companies submit one application each, either in a zero-subsidy auction (highest one-off bid wins) or in the subsidy procedure (lowest tender amount wins), with a maximum tender amount of EUR 0.116 per kWh and a subsidy ceiling of EUR 4.698 billion paid over 15 years on actual production. Applications are open from 26 November 2026 to 10 December 2026, 17:00; the permit is expected in the first quarter of 2027 and the wind farm, which connects to TenneT's 2 GW offshore platform shared with Gamma-A, is expected in operation in 2032.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2026-12-10",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-23",
+  "status_rationale": "The tender awards the permit and a 15-year operating subsidy for building and operating a 1 GW offshore wind farm on plot Gamma-B (Regeling subsidie- en vergunningverlening kavel Gamma-B, Staatscourant 2026, 21303, articles 2 and 10 to 15). It touches TenneT's field directly: the wind farm connects to TenneT's 2 GW HVDC platform shared with Gamma-A, close to the project files 2GW Program, Onshore and Offshore Grid Investment Plans 2026 and Grid Optimisation Plan (over-planting of 1.15 GW on a 1 GW export cable). Only a wind farm developer or energy company can receive the permit and subsidy (article 10; RVO page, Voor wie?), and TenneT's connection and joint-testing duties follow from its statutory role as offshore grid operator, not from a role in the subsidised project, so the call sets out no route for TenneT. The category is environment, permitting and public support, because every applicant must commit to due diligence, carbon-footprint assessment and at least 70% recyclable rotor blades (article 7, c to f).",
+  "call_type": "Type 3",
+  "category_codes": [
+    "C3.7"
+  ],
+  "taxonomy_values": {
+    "topic": [
+      "T7",
+      "T9"
+    ],
+    "role": [],
+    "activity": [
+      "A9",
+      "A10"
+    ],
+    "outcome": [
+      "O7",
+      "O5"
+    ]
+  }
+}

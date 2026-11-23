@@ -1,0 +1,128 @@
+{
+  "call_overview": [
+    {
+      "title": "About the call",
+      "question": "What does the call offer, and who can apply?",
+      "cards": [
+        {
+          "title": "What the call wants",
+          "question": "What is the principal thing the project must develop, and which problem or need must it address?",
+          "answer": "A complete offshore wind farm of about 1 GW on site Gamma-A of the IJmuiden Ver wind energy area, built, operated and later removed by the permit holder.\nSite Gamma-A lies in the North Sea about 53 km off the Dutch west coast and covers 129 km2. The permit holder must design the farm, choose and install the turbines, foundations and inter-array cables (the 66 kV cables between the turbines and the offshore platform), operate the farm and remove it at the end of its life. The site decision (kavelbesluit, the government decision that sets where and under which conditions the farm may be built) allows up to 1.15 GW of installed capacity, but no more than 1 GW can be exported. Storage, solar power at sea and other activities are not part of this permit.\nThe need behind the call is a public one set by the national government: Dutch climate targets (55% fewer greenhouse gas emissions by 2030, climate neutrality by 2050) and a more resilient Dutch energy system. The government gives the reason it now subsidises offshore wind: higher financing and material costs and slower growth in electricity demand make it hard for developers to sign long-term power purchase contracts, so zero-subsidy tenders of recent years are no longer certain to succeed.",
+          "sources": "Vergunning windpark IJmuiden Ver Gamma-A (RVO page) · Om welk gebied gaat het?\nStaatscourant 2026, 21297 (Regeling subsidie- en vergunningverlening kavel Gamma-A in windenergiegebied IJmuiden Ver) · Toelichting, 1. Aanleiding en doel; 2. Aanwijzing kavels windenergie op zee"
+        },
+        {
+          "title": "Project impact",
+          "question": "Which wider system outcomes and impacts must the project support?",
+          "answer": "The farm must add about 1 GW of offshore wind generation to the Dutch electricity system, entering use around 2032, and help keep the national offshore wind roll-out on track.\n- Climate targets: the regulation links the tender to the Dutch Climate Act targets of 55% emission reduction in 2030 and climate neutrality in 2050.\n- Energy independence and resilience: RVO states that the farm strengthens the energy independence and resilience of the Dutch energy system.\n- Grid integration: the electricity lands at the Maasvlakte through a 2 GW direct-current platform and cable shared with site Gamma-B, so the farm's timely completion is needed to test and commission that grid connection.\n- Supply chain and sustainability: under the EU Net-Zero Industry Act (an EU regulation that sets non-price criteria for renewable energy auctions) the applicant must limit dependence on China for turbines and key components, assess and report the carbon footprint of the components, and use rotor blades that are at least 70% recyclable.",
+          "sources": "Staatscourant 2026, 21297 (Regeling subsidie- en vergunningverlening kavel Gamma-A in windenergiegebied IJmuiden Ver) · Toelichting, 1. Aanleiding en doel; 5.3; 5.6\nVergunning windpark IJmuiden Ver Gamma-A (RVO page) · Voor wie?; Hoe komt de elektriciteit van zee naar land?\nStaatscourant 2026, 21297 (Regeling subsidie- en vergunningverlening kavel Gamma-A in windenergiegebied IJmuiden Ver) · Artikel 7"
+        },
+        {
+          "title": "Who it suits",
+          "question": "Who may lead, which partners must take part, and how must the work be shared?",
+          "answer": "Wind farm developers and energy companies with the capital and track record to build a 1 GW offshore wind farm; only one applicant wins the permit.\n- Lead applicant: one company, a company in formation registered with the Dutch Chamber of Commerce, or a partnership (samenwerkingsverband, at least two unrelated participants without a joint legal entity) whose lead partner (penvoerder) submits for all. RVO advises applying as a single company (a BV, CV or NV) rather than as a partnership. Companies in one group count as one applicant, and each applicant may submit only one application.\n- Required parties: the application must name the manufacturers and installers of foundations, turbines and inter-array cables, and the parties that will maintain and operate the farm, with their offshore experience.\n- Financial strength: the applicant's equity plus binding capital commitments must cover at least 20% of total investment costs; the equity of partnership members or parent companies may be counted.\n- Control: an operator established in the European Economic Area must keep operational control of the farm.\n- Suits: large utilities, offshore wind developers and their investors; turbine, foundation and cable suppliers take part only as named subcontractors, not as applicants.",
+          "sources": "Staatscourant 2026, 21297 (Regeling subsidie- en vergunningverlening kavel Gamma-A in windenergiegebied IJmuiden Ver) · Artikelen 1, 2, 3 (vijfde en zesde lid), 7 en 8\nVragen-en-antwoorden_Regeling-vergunningverlening-IJmuiden Ver Gamma-A_versie _6-11-2026.pdf · Organisatie, vragen 1 and 3\nToelichting-op bijlagen-bij-aanvraag-IJmuiden-Ver-Gamma-A_versie-9-november.pdf · pp. 9 and 13 · Bijlage 4; Bijlage 8"
+        },
+        {
+          "title": "Innovation",
+          "question": "How new must the project be, and in what must it innovate?",
+          "answer": "No innovation is required: the call funds the construction and operation of a commercial wind farm with proven technology.\nThe regulation assesses technical, financial and economic feasibility, not novelty. Turbines must be certified at the latest four weeks before construction starts. The only technology requirements beyond the site decision are the Net-Zero Industry Act conditions, for example that rotor blades are at least 70% recyclable by weight with a recycling technique at TRL 6 (a technology demonstrated in a relevant environment), and the limits on Chinese-made turbines and components.",
+          "sources": "Staatscourant 2026, 21297 (Regeling subsidie- en vergunningverlening kavel Gamma-A in windenergiegebied IJmuiden Ver) · Artikelen 7 and 8; Toelichting, 5.4\nToelichting-op bijlagen-bij-aanvraag-IJmuiden-Ver-Gamma-A_versie-9-november.pdf · p. 15 · Bijlage 10"
+        },
+        {
+          "title": "Maturity",
+          "question": "Which maturity level is expected at the start and end of the project?",
+          "answer": "The farm must use commercially available, certified technology; the call sets no TRL for the farm itself.\nTurbines that are not yet certified at the time of application are allowed only if the applicant shows they will be certified at the latest four weeks before construction starts. The recycling technique for the rotor blades must be at TRL 6.",
+          "sources": "Toelichting-op bijlagen-bij-aanvraag-IJmuiden-Ver-Gamma-A_versie-9-november.pdf · p. 15 · Bijlage 10\nStaatscourant 2026, 21297 (Regeling subsidie- en vergunningverlening kavel Gamma-A in windenergiegebied IJmuiden Ver) · Artikel 7, onderdeel f"
+        },
+        {
+          "title": "Demonstration and integration of work",
+          "question": "Where must the solution be demonstrated, and how must the work fit with existing systems?",
+          "answer": "The farm must be built and operated at full scale at sea and integrated with TenneT's offshore grid connection, including joint testing at full power.\nTenneT, the designated operator of the offshore transmission grid, connects Gamma-A and Gamma-B to the same 2 GW direct-current platform. The applicant's timetable must show when it will accept TenneT's connection and transport conditions (at most 12 months after the permit), start pulling the 66 kV cables into the platform, and be ready to deliver full power for the test phase of the direct-current link. Between these milestones the permit holder and TenneT draw up a joint connection and test plan and test the farm and the grid connection system together. The applicant must also show it can meet the delivery dates of the national offshore wind development framework (ontwikkelkader), start construction within 39 months and operation within 54 months after the permit becomes final, and put the farm into use within 5.5 years of the subsidy decision.",
+          "sources": "Staatscourant 2026, 21297 (Regeling subsidie- en vergunningverlening kavel Gamma-A in windenergiegebied IJmuiden Ver) · Artikelen 3 (derde lid), 8 and 14; Toelichting, 5.3\nVragen-en-antwoorden_Regeling-vergunningverlening-IJmuiden Ver Gamma-A_versie _6-11-2026.pdf · Ontwikkelkader, vragen 3 to 6"
+        }
+      ]
+    },
+    {
+      "title": "Relevance to TenneT",
+      "question": "Why is this call relevant to TenneT?",
+      "cards": [
+        {
+          "title": "Why it matters to TenneT",
+          "question": "Why does this call matter to TenneT, and why can't TenneT take part itself?",
+          "answer": "The call decides who builds the wind farm that will feed TenneT's 2 GW IJmuiden Ver Gamma platform and with whom TenneT must commission that direct-current link.\nTenneT's direct-current connection cannot be fully tested without a complete wind farm delivering full power, so the winner's timetable, financial strength and supply chain directly affect when TenneT's asset enters service (close to the 2GW Program and the Offshore Grid Investment Plans). If the tender fails, part of the platform's capacity could stay unused. The mandatory carbon-footprint, recyclability and supply-chain conditions could also improve the environmental case and public acceptance of offshore wind and its grid connections; this is an interpretation.\nTenneT cannot take part itself: the subsidy goes only to a producer of renewable electricity from a wind farm on the site, and TenneT appears in the call only as the statutory offshore grid operator whose conditions the applicant must accept.",
+          "sources": "Staatscourant 2026, 21297 (Regeling subsidie- en vergunningverlening kavel Gamma-A in windenergiegebied IJmuiden Ver) · Artikel 10; Toelichting, 2 and 5.3\nVragen-en-antwoorden_Regeling-vergunningverlening-IJmuiden Ver Gamma-A_versie _6-11-2026.pdf · Ontwikkelkader, vragen 4 and 5"
+        }
+      ]
+    }
+  ],
+  "funding_timing_submission": [
+    {
+      "title": "Funding",
+      "question": "How much funding can the project receive?",
+      "cards": [
+        {
+          "title": "Funding envelope",
+          "answer": "The subsidy can reach at most EUR 4.758 billion over 15 years; the regulation sets no limit on project size or investment.\n- Grant request: the applicant bids a tender amount (the price per kWh it needs) of at most EUR 0.117 per kWh, given with six decimals; the lowest bid wins. A request above the EUR 4.758 billion ceiling is cut back by lowering the subsidised full-load hours.\n- Funding form: an operating subsidy paid on electricity actually produced, on the model of the Dutch SDE++ scheme (which pays the gap between the cost price of renewable energy and its market value). Each year the subsidy is the tender amount minus a correction amount based on the market price, with a base electricity price of EUR 0.037694 per kWh below which no extra subsidy is paid. Production counts up to the farm's P50 value (the yearly output expected with 50% probability), at most 4,000 full-load hours a year.\n- Zero-subsidy alternative: the applicant may instead bid in a parallel auction for the permit without subsidy, with a one-off payment; auction bids are handled first.",
+          "sources": "Staatscourant 2026, 21297 (Regeling subsidie- en vergunningverlening kavel Gamma-A in windenergiegebied IJmuiden Ver) · Artikelen 4, 5, 12, 13 and 15; Toelichting, 3.4\nVragen-en-antwoorden_Regeling-vergunningverlening-IJmuiden Ver Gamma-A_versie _6-11-2026.pdf · SDE, vraag 7"
+        },
+        {
+          "title": "Funding rate and co-financing",
+          "answer": "There is no funding rate: the subsidy covers the yearly gap between the tender amount and the market price, and the developer finances the whole investment.\n- Co-financing conditions: equity plus binding capital commitments of the applicant (or its partners or parent companies, on request) must be at least 20% of total investment costs; the rest may come from lenders named in the financing plan.\n- Evidence required: the most recent adopted annual accounts (at most three calendar years old) of the applicant and, where used, of its parents or partners; an auditor's statement for any capital commitment; and a financing plan naming the intended financiers and their shares.",
+          "sources": "Staatscourant 2026, 21297 (Regeling subsidie- en vergunningverlening kavel Gamma-A in windenergiegebied IJmuiden Ver) · Artikelen 4 and 8 (derde en vierde lid)\nToelichting-op bijlagen-bij-aanvraag-IJmuiden-Ver-Gamma-A_versie-9-november.pdf · pp. 9–10 · Bijlage 4; Bijlage 5"
+        },
+        {
+          "title": "Budget constraints",
+          "answer": null,
+          "sources": null
+        },
+        {
+          "title": "Cash flow and financial exposure",
+          "answer": "The winner must post a EUR 100 million bank guarantee or surety bond, and subsidy is paid only afterwards on actual production.\n- Payment model: subsidy is paid in arrears on realised production over 15 years; the start of the subsidy period may be chosen but must be no later than 5.5 years after the subsidy decision, with possible use of a 16th year for missed production (forward banking).\n- Retention or guarantee: a EUR 100 million bank guarantee (from a bank in the European Economic Area) or surety bond (from an insurer rated at least A) within four weeks of the permit; EUR 10 million is forfeited for each missed milestone period and for each month after it, and the full EUR 100 million if the permit is withdrawn.\n- Revenue cap: if the yearly average electricity price exceeds EUR 0.135 per kWh, subsidy received must be paid back up to the amount paid out.",
+          "sources": "Staatscourant 2026, 21297 (Regeling subsidie- en vergunningverlening kavel Gamma-A in windenergiegebied IJmuiden Ver) · Artikelen 6, 14 and 15; Toelichting, 3.4.6 and 3.4.7\nVragen-en-antwoorden_Regeling-vergunningverlening-IJmuiden Ver Gamma-A_versie _6-11-2026.pdf · SDE, vragen 2 and 3"
+        }
+      ]
+    },
+    {
+      "title": "Timing",
+      "question": "What timing should the proposal submission and project follow?",
+      "cards": [
+        {
+          "title": "Application route",
+          "answer": "One single-stage application for permit and subsidy together, submitted digitally through RVO's eLoket portal with eHerkenning at assurance level 3.\n- Stage 1 — Application: 26 November 2026, 00:00, to 10 December 2026, 17:00. The applicant chooses either the subsidy procedure or the auction and may submit one application; it can still change it during the application period but not afterwards. Applications may be in Dutch or English; the eLoket form is in Dutch only, and the Dutch versions of all documents prevail.\n- Additional procedure: the Investment Screening Office (Bureau Toetsing Investeringen) checks every applicant for national security risks, using a security information form that must be completed in English.",
+          "sources": "Staatscourant 2026, 21297 (Regeling subsidie- en vergunningverlening kavel Gamma-A in windenergiegebied IJmuiden Ver) · Artikel 2\nVragen-en-antwoorden_Regeling-vergunningverlening-IJmuiden Ver Gamma-A_versie _6-11-2026.pdf · Indienen aanvraag, vragen 1, 2, 4, 5 and 10; Algemeen, vragen 18 and 20\nStaatscourant 2026, 21297 (Regeling subsidie- en vergunningverlening kavel Gamma-A in windenergiegebied IJmuiden Ver) · Toelichting, 5.2"
+        },
+        {
+          "title": "Project window",
+          "answer": "The wind farm must start construction within 39 months and operation within 54 months of the permit becoming final, and be in use within 5.5 years of the subsidy decision.\n- Maximum duration: the subsidy runs for 15 years; the permit period assumed for availability is 40 years.\n- Required start: construction may start as soon as the permit is granted, after notifying Rijkswaterstaat (the national water and infrastructure authority) at least four weeks before; work on TenneT's platform (mechanical cable pull-in) can start from 31 December 2030.\n- Completion deadline: the farm must be ready to deliver full power on the milestone dates of the offshore wind development framework, which are linked to TenneT's platform delivery; RVO expects the farm in use in 2032.",
+          "sources": "Staatscourant 2026, 21297 (Regeling subsidie- en vergunningverlening kavel Gamma-A in windenergiegebied IJmuiden Ver) · Artikelen 8 and 14; Toelichting, 5.3\nVragen-en-antwoorden_Regeling-vergunningverlening-IJmuiden Ver Gamma-A_versie _6-11-2026.pdf · Algemeen, vraag 14; Ontwikkelkader, vraag 3\nVergunning windpark IJmuiden Ver Gamma-A (RVO page) · Na uw aanvraag"
+        },
+        {
+          "title": "Decision and contracting",
+          "answer": "RVO expects to grant the permit in the first quarter of 2027, and the subsidy only after European Commission state-aid approval.\n- Funding decision: the permit goes to the highest-ranked application; the subsidy decision follows the permit and cannot be granted before the European Commission approves the scheme (expected within a few months of notification).\n- Conditions before starting: the bank guarantee or surety bond within four weeks of the permit, otherwise the permit goes to the next applicant; acceptance of TenneT's connection and transport conditions within 12 months of the permit.",
+          "sources": "Vergunning windpark IJmuiden Ver Gamma-A (RVO page) · Na uw aanvraag\nStaatscourant 2026, 21297 (Regeling subsidie- en vergunningverlening kavel Gamma-A in windenergiegebied IJmuiden Ver) · Artikelen 6 and 16; Toelichting, 9. Staatssteun\nStaatscourant 2026, 21297 (Regeling subsidie- en vergunningverlening kavel Gamma-A in windenergiegebied IJmuiden Ver) · Artikel 8, vijfde lid"
+        }
+      ]
+    },
+    {
+      "title": "Application",
+      "question": "Mandatory information to include in the application",
+      "cards": [
+        {
+          "title": "Mandatory submission package — pass/fail",
+          "answer": "An incomplete or unsupported application is rejected; RVO may ask clarifying questions but does not accept extra information afterwards.\n- Application form: RVO eLoket digital form (example published), in Dutch; attachments in Dutch or English, in .pdf, .docx, .xlsx and similar formats.\n- Budget: RVO's operating calculation model (Excel), filled in completely, with investment costs per component, yearly costs and revenues, and project return.\n- Mandatory annexes: summary of construction, operation and removal; wind yield report by an independent organisation with at least three wake models; annual accounts; financing plan; turbine data and positions table; overview of the parties' offshore knowledge and experience; Net-Zero Industry Act commitments (supply-chain origin, due diligence, carbon footprint, blade recyclability, EEA operator, documentation).\n- Partner documents: for a partnership, a signed participation statement and a mandate for the lead partner from each participant; for a group, an organisation chart with Chamber of Commerce numbers.\n- Registration: a Dutch Chamber of Commerce number (foreign parties preferably set up a Dutch company or use a Dutch intermediary) and eHerkenning level 3.",
+          "sources": "Vragen-en-antwoorden_Regeling-vergunningverlening-IJmuiden Ver Gamma-A_versie _6-11-2026.pdf · Algemeen, vraag 8; Indienen aanvraag, vragen 1 to 6 and 13\nToelichting-op bijlagen-bij-aanvraag-IJmuiden-Ver-Gamma-A_versie-9-november.pdf · pp. 1–18 · Bijlagen 1 to 13\nStaatscourant 2026, 21297 (Regeling subsidie- en vergunningverlening kavel Gamma-A in windenergiegebied IJmuiden Ver) · Artikelen 3, 4 and 7"
+        },
+        {
+          "title": "Evaluation and selection — scored or ranked",
+          "answer": "After a pass/fail feasibility check, applications are ranked on price alone: the highest auction bid first, otherwise the lowest tender amount.\n- Evaluation criteria: the farm must be technically, financially and economically feasible, meet the site decision, be likely to start construction and operation within 39 and 54 months, and meet the Net-Zero Industry Act criteria. Experience counts only for technical feasibility, with no minimum.\n- Ranking rules: auction applications are handled first; only if no permit is granted that way are subsidy applications ranked by tender amount. Equal bids are decided by lot. The tender is valid even with a single application.",
+          "sources": "Staatscourant 2026, 21297 (Regeling subsidie- en vergunningverlening kavel Gamma-A in windenergiegebied IJmuiden Ver) · Artikelen 5, 8 and 9; Toelichting, 3.2, 5.1 and 5.4\nVragen-en-antwoorden_Regeling-vergunningverlening-IJmuiden Ver Gamma-A_versie _6-11-2026.pdf · Algemeen, vraag 17"
+        },
+        {
+          "title": "Conditional and exceptional requirements",
+          "answer": "Several extra requirements apply only to particular applicants or bids.\n- Conditional — auction bid: draft power supply contracts with third parties covering at least 80% of the farm's P50 output, and payment of the bid within four weeks of the permit.\n- Conditional — applicant under jurisdiction of a high-risk third country: a cybersecurity plan meeting EU Implementing Regulation 2025/1176.\n- Conditional — turbines not yet certified: evidence that they will be certified at the latest four weeks before construction.\n- Exception — applying for both Gamma-A and Gamma-B: an applicant that wins both may decline to post the guarantee for one site, which then goes to the next applicant.\n- Recommended: a draft press release, which is not assessed.",
+          "sources": "Toelichting-op bijlagen-bij-aanvraag-IJmuiden-Ver-Gamma-A_versie-9-november.pdf · pp. 15–18 · Bijlagen 10 to 13\nStaatscourant 2026, 21297 (Regeling subsidie- en vergunningverlening kavel Gamma-A in windenergiegebied IJmuiden Ver) · Artikelen 4 and 9; Toelichting, 6"
+        }
+      ]
+    }
+  ]
+}

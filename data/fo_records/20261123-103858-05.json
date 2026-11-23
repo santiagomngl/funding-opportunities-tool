@@ -1,0 +1,28 @@
+{
+  "id": "20261123-103858-05",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "Warmtenetten Investeringssubsidie (WIS): openstelling 2025 – Warmtenetten Investeringssubsidie (WIS)",
+  "organization_or_parent_framework": "Ministerie van Klimaat en Groene Groei",
+  "programme": "Warmtenetten Investeringssubsidie (WIS)",
+  "call_title": "Warmtenetten Investeringssubsidie (WIS): openstelling 2025",
+  "call_module_title": null,
+  "call_year": 2025,
+  "url": "https://www.rvo.nl/subsidies-financiering/wis",
+  "executive_summary": "Dutch investment subsidy of the Ministry of Climate and Green Growth, run by RVO, for companies (heat companies, heat cooperatives, municipal heat companies) that invest at their own cost and risk in building or extending an energy-efficient district heat network supplying at least 250 small-consumer connections in existing buildings, spread over at least 5 buildings, at no more than 25 kg CO2 per GJ of heat delivered; a proven thermal storage system linked to the network is also eligible, but heat sources and heat pumps are not. The subsidy is 30% of eligible investment costs (plus 20 percentage points for small and 10 for medium-sized companies), up to EUR 30 million per project, with caps of EUR 7,000 per small-consumer connection for district distribution networks and EUR 4,000 per connection for the primary network and thermal storage. The 2025 opening has a budget of EUR 200 million, handled first come, first served, and runs from 1 August 2025, 09:00, to 30 November 2026, 17:00, after two extensions. Projects must start within 6 months of the grant decision and be built within 7 years.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2026-11-30",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": 100000000,
+  "date_last_checked": "2026-11-23",
+  "status_rationale": "The scheme (Regeling nationale EZK- en LNV-subsidies, titel 4.10, articles 4.10.2 to 4.10.4, as amended by Staatscourant 2025, 18366, and extended by Staatscourant 2026, 24828) funds heat-network investors to build district heat pipes, connections and proven thermal storage for existing buildings, and excludes heat sources and heat pumps (article 4.10.4, third paragraph). It does not touch TenneT's field: it funds no electricity-grid, electrification or flexibility asset, the only electricity link is a remark in the explanatory notes (section 1.4) that thermal storage could help avoid grid congestion, and no project file is close, as the flexibility projects (DataFleX, the Lion Storage contract) concern electrical flexibility for grid operators. Both project dates are null because the scheme states only a start within 6 months of the grant decision and completion within 7 years.",
+  "call_type": "Not relevant",
+  "category_codes": [],
+  "taxonomy_values": {
+    "topic": [],
+    "role": [],
+    "activity": [],
+    "outcome": []
+  }
+}

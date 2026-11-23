@@ -1,0 +1,28 @@
+{
+  "id": "20261123-103858-03",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "Versnelde klimaatinvesteringen industrie (VEKI) 2026 – Versnelde klimaatinvesteringen industrie (VEKI)",
+  "organization_or_parent_framework": "Netherlands Enterprise Agency (RVO)",
+  "programme": "Versnelde klimaatinvesteringen industrie (VEKI)",
+  "call_title": "Versnelde klimaatinvesteringen industrie (VEKI) 2026",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://www.rvo.nl/subsidies-financiering/veki",
+  "executive_summary": "A Dutch investment subsidy of the Ministry of Climate and Green Growth, run by RVO, for industrial companies that invest in proven, market-ready equipment, systems or techniques in their own operations that cut CO2 (or other greenhouse gas) emissions in the Netherlands by 2030 and would take more than 5 years to pay back without subsidy. Themes are energy efficiency in the production process, circular economy, infrastructure for waste heat and hydrogen, and other CO2-reducing measures; pilots and demonstrations are excluded. The subsidy covers 15% to 50% of eligible (extra) investment costs depending on theme, plus 10 or 20 percentage points for medium or small companies, with at least EUR 125,000 (large companies) or EUR 30,000 (SMEs), at most EUR 30 million per project and at most EUR 80 per tonne of CO2 avoided. The 2026 budget of EUR 123.2 million is awarded first come, first served from 7 May 2026, 09:00, to 28 January 2027, 17:00, and is currently oversubscribed. Projects must start within 6 months of the grant decision and be completed within 4 years.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2027-01-28",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": 312500,
+  "maximum_project_size": 75000000,
+  "date_last_checked": "2026-11-23",
+  "status_rationale": "VEKI funds industrial companies' investments in proven CO2-reducing techniques in their own operations, including electrification and energy efficiency, waste-heat and hydrogen infrastructure, and the reinforcement of their own grid connection (RNES articles 4.6.2 and 4.6.3, Bijlage 4.6.2; Handleiding VEKI, chapters 2 and 4.3). It touches TenneT's field because it accelerates industrial electrification and the related grid connection requests on a congested grid, which the RVO page flags; the close project files are Time-dependent transmission rights contract (Lion Storage), Additional bays at existing substations and Zeijerveen high-voltage station upgrade, which deal with new large connections, though VEKI funds the users' own plants. What was read does not establish a route for TenneT: applicants must be industrial companies in SBI section C or E, or companies in section D that distribute energy (RNES article 4.6.2, second paragraph), the reduction must occur in the applicant's own production process, and theme 2.4 excludes investments covered by the energy-infrastructure article 48 of the EU block exemption (Handleiding VEKI, Thema 3), so it is unclear that a transmission system operator qualifies. The category is flexibility and demand, as the call funds electrification and process change that shape future industrial grid demand; project sizes are the grant limits divided by the 40% rate for a large company.",
+  "call_type": "Type 3",
+  "category_codes": ["C3.3"],
+  "taxonomy_values": {
+    "topic": ["T10", "T9"],
+    "role": [],
+    "activity": ["A10"],
+    "outcome": ["O5"]
+  }
+}

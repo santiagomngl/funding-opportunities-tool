@@ -1,0 +1,28 @@
+{
+  "id": "20261123-103858-01",
+  "source": "RVO Subsidie- en financieringswijzer",
+  "display_title": "Vergunning windpark IJmuiden Ver Gamma-A – Windenergie op zee",
+  "organization_or_parent_framework": "Ministerie van Klimaat en Groene Groei",
+  "programme": "Windenergie op zee",
+  "call_title": "Vergunning windpark IJmuiden Ver Gamma-A",
+  "call_module_title": null,
+  "call_year": 2026,
+  "url": "https://www.rvo.nl/subsidies-financiering/windenergie-op-zee/ijmuiden-ver-gamma",
+  "executive_summary": "Tender, run by RVO for the Ministry of Climate and Green Growth, for the permit to build and operate a wind farm of about 1 GW (up to 1.15 GW) on site Gamma-A in the IJmuiden Ver wind energy area, 53 km off the Dutch coast. Wind farm developers and energy companies, alone or in a partnership, submit one application either in a zero-subsidy auction (highest one-off bid wins) or in a subsidy procedure (lowest tender amount wins). The subsidy works like the SDE++: for 15 years it pays the gap between the tender amount (at most EUR 0.117 per kWh) and the market price, with a base price of EUR 0.037694 per kWh, up to 4,000 full-load hours a year and a revenue cap of EUR 0.135 per kWh above which subsidy is paid back; the ceiling is EUR 4.758 billion. Applications run from 26 November 2026 to 10 December 2026, 17:00; the permit is expected in the first quarter of 2027 and the wind farm, which connects to TenneT's 2 GW offshore platform, in 2032. The subsidy needs European Commission state-aid approval first.",
+  "pre_submission_deadline": null,
+  "full_proposal_deadline": "2026-12-10",
+  "earliest_project_start_date": null,
+  "project_end_date": null,
+  "minimum_project_size": null,
+  "maximum_project_size": null,
+  "date_last_checked": "2026-11-23",
+  "status_rationale": "The regulation (Stcrt. 2026, 21297, articles 2, 10 and 12 to 15) awards one permit, with an operating subsidy for 15 years, to the producer that will build and operate a 1 GW wind farm on IJmuiden Ver Gamma-A. It touches TenneT's field because the farm connects to TenneT's 2 GW HVDC platform shared with Gamma-B, and the applicant must plan the cable pull-in and the joint test phase of TenneT's direct-current link (article 3, third paragraph; explanatory notes 5.3), close to the 2GW Program and the Offshore Grid Investment Plans. TenneT cannot take part: the subsidy goes only to a producer of renewable electricity on the site (article 10), and TenneT appears only as the statutory offshore grid operator whose conditions the applicant accepts. Category C3.7 is our interpretation, resting on the mandatory carbon-footprint, blade-recyclability and due-diligence commitments (article 7, points c to f); no category captures the main link, the use of TenneT's platform. Both project dates are null because the regulation states no project start, end or duration, only commissioning within 5.5 years of the subsidy decision (article 14).",
+  "call_type": "Type 3",
+  "category_codes": ["C3.7"],
+  "taxonomy_values": {
+    "topic": ["T7", "T9"],
+    "role": [],
+    "activity": ["A9", "A10"],
+    "outcome": ["O7", "O5"]
+  }
+}
